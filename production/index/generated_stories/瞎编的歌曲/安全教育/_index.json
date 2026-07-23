@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "multi_level",
+  "display_as": "nested_category",
+  "path": "瞎编的歌曲/安全教育",
+  "name": "安全教育",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/安全教育.webp",
+    "cover_level": "category"
+  },
+  "sub_category_count": 2,
+  "sub_categories": [
+    {
+      "id": "中文歌曲",
+      "name": "中文歌曲",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 46,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/安全教育.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "双语歌曲",
+      "name": "双语歌曲",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 30,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/安全教育.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

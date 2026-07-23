@@ -1,0 +1,2451 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "情绪疗愈/H3悲伤",
+  "name": "H3悲伤",
+  "cover": {
+    "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/H3悲伤.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 174,
+  "entries": [
+    {
+      "entry_id": "书页撕成两半，故事断了线",
+      "title": "书页撕成两半，故事断了线",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/书页撕成两半，故事断了线",
+      "level": "L4",
+      "duration_ms": 386957,
+      "char_count": 1504,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/书页撕成两半，故事断了线/书页撕成两半，故事断了线.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "争了半天的第一名变成了第二名",
+      "title": "争了半天的第一名变成了第二名",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/争了半天的第一名变成了第二名",
+      "level": "L4",
+      "duration_ms": 408348,
+      "char_count": 1576,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/争了半天的第一名变成了第二名/争了半天的第一名变成了第二名.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "人群里找不到妈妈，手心出汗",
+      "title": "人群里找不到妈妈，手心出汗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/人群里找不到妈妈，手心出汗",
+      "level": "L4",
+      "duration_ms": 353566,
+      "char_count": 1390,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/人群里找不到妈妈，手心出汗/人群里找不到妈妈，手心出汗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "作业本上擦破一个洞怎么也补不好",
+      "title": "作业本上擦破一个洞怎么也补不好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/作业本上擦破一个洞怎么也补不好",
+      "level": "L4",
+      "duration_ms": 352565,
+      "char_count": 1387,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/作业本上擦破一个洞怎么也补不好/作业本上擦破一个洞怎么也补不好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "借给同桌的橡皮她再也不肯还",
+      "title": "借给同桌的橡皮她再也不肯还",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/借给同桌的橡皮她再也不肯还",
+      "level": "L4",
+      "duration_ms": 452592,
+      "char_count": 1753,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/借给同桌的橡皮她再也不肯还/借给同桌的橡皮她再也不肯还.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "假装生病时听见窗外玩伴的脚步声",
+      "title": "假装生病时听见窗外玩伴的脚步声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/假装生病时听见窗外玩伴的脚步声",
+      "level": "L4",
+      "duration_ms": 282493,
+      "char_count": 1104,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/假装生病时听见窗外玩伴的脚步声/假装生病时听见窗外玩伴的脚步声.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷偷藏进书包里的小狗最终被送走",
+      "title": "偷偷藏进书包里的小狗最终被送走",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/偷偷藏进书包里的小狗最终被送走",
+      "level": "L4",
+      "duration_ms": 411241,
+      "char_count": 1617,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/偷偷藏进书包里的小狗最终被送走/偷偷藏进书包里的小狗最终被送走.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公园的沙漏完了，要回家",
+      "title": "公园的沙漏完了，要回家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/公园的沙漏完了，要回家",
+      "level": "L4",
+      "duration_ms": 553880,
+      "char_count": 2165,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/公园的沙漏完了，要回家/公园的沙漏完了，要回家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公园里的滑梯要拆掉重建了",
+      "title": "公园里的滑梯要拆掉重建了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/公园里的滑梯要拆掉重建了",
+      "level": "L4",
+      "duration_ms": 533699,
+      "char_count": 2076,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/公园里的滑梯要拆掉重建了/公园里的滑梯要拆掉重建了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "养了三年的小金鱼浮在水面不动了",
+      "title": "养了三年的小金鱼浮在水面不动了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/养了三年的小金鱼浮在水面不动了",
+      "level": "L4",
+      "duration_ms": 393556,
+      "char_count": 1512,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/养了三年的小金鱼浮在水面不动了/养了三年的小金鱼浮在水面不动了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "再见，小皮球，滚远了",
+      "title": "再见，小皮球，滚远了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/再见，小皮球，滚远了",
+      "level": "L4",
+      "duration_ms": 330776,
+      "char_count": 1288,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/再见，小皮球，滚远了/再见，小皮球，滚远了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "冰淇淋掉在地上变成一摊水",
+      "title": "冰淇淋掉在地上变成一摊水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/冰淇淋掉在地上变成一摊水",
+      "level": "L4",
+      "duration_ms": 531023,
+      "char_count": 2077,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/冰淇淋掉在地上变成一摊水/冰淇淋掉在地上变成一摊水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "别人的妈妈来了，我的妈妈呢",
+      "title": "别人的妈妈来了，我的妈妈呢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/别人的妈妈来了，我的妈妈呢",
+      "level": "L4",
+      "duration_ms": 493126,
+      "char_count": 1962,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/别人的妈妈来了，我的妈妈呢/别人的妈妈来了，我的妈妈呢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "医院病房里，妈妈瘦弱的手握不住我的手",
+      "title": "医院病房里，妈妈瘦弱的手握不住我的手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/医院病房里，妈妈瘦弱的手握不住我的手",
+      "level": "L4",
+      "duration_ms": 410100,
+      "char_count": 1591,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/医院病房里，妈妈瘦弱的手握不住我的手/医院病房里，妈妈瘦弱的手握不住我的手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "午睡的小床上抱着妈妈的毛衣",
+      "title": "午睡的小床上抱着妈妈的毛衣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/午睡的小床上抱着妈妈的毛衣",
+      "level": "L4",
+      "duration_ms": 310063,
+      "char_count": 1223,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/午睡的小床上抱着妈妈的毛衣/午睡的小床上抱着妈妈的毛衣.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "半夜醒来发现妈妈不在身边",
+      "title": "半夜醒来发现妈妈不在身边",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/半夜醒来发现妈妈不在身边",
+      "level": "L4",
+      "duration_ms": 360134,
+      "char_count": 1428,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/半夜醒来发现妈妈不在身边/半夜醒来发现妈妈不在身边.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "发烧时错过全校春游的校车",
+      "title": "发烧时错过全校春游的校车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/发烧时错过全校春游的校车",
+      "level": "L4",
+      "duration_ms": 453990,
+      "char_count": 1742,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/发烧时错过全校春游的校车/发烧时错过全校春游的校车.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同学嘲笑我个子矮我偷偷对着镜子踮脚尖",
+      "title": "同学嘲笑我个子矮我偷偷对着镜子踮脚尖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/同学嘲笑我个子矮我偷偷对着镜子踮脚尖",
+      "level": "L4",
+      "duration_ms": 483166,
+      "char_count": 1879,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/同学嘲笑我个子矮我偷偷对着镜子踮脚尖/同学嘲笑我个子矮我偷偷对着镜子踮脚尖.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同桌留下的半块橡皮，我一直没舍得用",
+      "title": "同桌留下的半块橡皮，我一直没舍得用",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/同桌留下的半块橡皮，我一直没舍得用",
+      "level": "L4",
+      "duration_ms": 358169,
+      "char_count": 1414,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/同桌留下的半块橡皮，我一直没舍得用/同桌留下的半块橡皮，我一直没舍得用.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同桌转学了他送我的彩色铅笔用秃了",
+      "title": "同桌转学了他送我的彩色铅笔用秃了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/同桌转学了他送我的彩色铅笔用秃了",
+      "level": "L4",
+      "duration_ms": 464886,
+      "char_count": 1777,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/同桌转学了他送我的彩色铅笔用秃了/同桌转学了他送我的彩色铅笔用秃了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "因为脸上长痘，我学会了低头走路",
+      "title": "因为脸上长痘，我学会了低头走路",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/因为脸上长痘，我学会了低头走路",
+      "level": "L4",
+      "duration_ms": 469883,
+      "char_count": 1818,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/因为脸上长痘，我学会了低头走路/因为脸上长痘，我学会了低头走路.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "因为说方言被嘲笑，我再也不愿开口回答问题",
+      "title": "因为说方言被嘲笑，我再也不愿开口回答问题",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/因为说方言被嘲笑，我再也不愿开口回答问题",
+      "level": "L4",
+      "duration_ms": 553200,
+      "char_count": 2199,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/因为说方言被嘲笑，我再也不愿开口回答问题/因为说方言被嘲笑，我再也不愿开口回答问题.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "夏令营结束营火熄灭的最后一刻",
+      "title": "夏令营结束营火熄灭的最后一刻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/夏令营结束营火熄灭的最后一刻",
+      "level": "L4",
+      "duration_ms": 270067,
+      "char_count": 1045,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/夏令营结束营火熄灭的最后一刻/夏令营结束营火熄灭的最后一刻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "外婆生病住院了病房的窗户看不见阳光",
+      "title": "外婆生病住院了病房的窗户看不见阳光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/外婆生病住院了病房的窗户看不见阳光",
+      "level": "L4",
+      "duration_ms": 414062,
+      "char_count": 1630,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/外婆生病住院了病房的窗户看不见阳光/外婆生病住院了病房的窗户看不见阳光.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奶奶住院时空荡的藤椅",
+      "title": "奶奶住院时空荡的藤椅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/奶奶住院时空荡的藤椅",
+      "level": "L4",
+      "duration_ms": 447487,
+      "char_count": 1747,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/奶奶住院时空荡的藤椅/奶奶住院时空荡的藤椅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奶奶回老家了她的大蒲扇还留在摇椅上",
+      "title": "奶奶回老家了她的大蒲扇还留在摇椅上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/奶奶回老家了她的大蒲扇还留在摇椅上",
+      "level": "L4",
+      "duration_ms": 408024,
+      "char_count": 1589,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/奶奶回老家了她的大蒲扇还留在摇椅上/奶奶回老家了她的大蒲扇还留在摇椅上.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奶奶坐火车回老家的那个傍晚",
+      "title": "奶奶坐火车回老家的那个傍晚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/奶奶坐火车回老家的那个傍晚",
+      "level": "L4",
+      "duration_ms": 355994,
+      "char_count": 1394,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/奶奶坐火车回老家的那个傍晚/奶奶坐火车回老家的那个傍晚.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奶奶的旧摇椅空了，再也听不到咯吱声",
+      "title": "奶奶的旧摇椅空了，再也听不到咯吱声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/奶奶的旧摇椅空了，再也听不到咯吱声",
+      "level": "L4",
+      "duration_ms": 494449,
+      "char_count": 1949,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/奶奶的旧摇椅空了，再也听不到咯吱声/奶奶的旧摇椅空了，再也听不到咯吱声.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奶奶的火车票藏着我的眼泪",
+      "title": "奶奶的火车票藏着我的眼泪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/奶奶的火车票藏着我的眼泪",
+      "level": "L4",
+      "duration_ms": 455597,
+      "char_count": 1780,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/奶奶的火车票藏着我的眼泪/奶奶的火车票藏着我的眼泪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奶瓶躲猫猫，找不到了",
+      "title": "奶瓶躲猫猫，找不到了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/奶瓶躲猫猫，找不到了",
+      "level": "L4",
+      "duration_ms": 615377,
+      "char_count": 2388,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/奶瓶躲猫猫，找不到了/奶瓶躲猫猫，找不到了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好朋友偷偷转走我的游戏皮肤",
+      "title": "好朋友偷偷转走我的游戏皮肤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/好朋友偷偷转走我的游戏皮肤",
+      "level": "L4",
+      "duration_ms": 244275,
+      "char_count": 949,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/好朋友偷偷转走我的游戏皮肤/好朋友偷偷转走我的游戏皮肤.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好朋友生日没邀请我邀请卡上写错了名字",
+      "title": "好朋友生日没邀请我邀请卡上写错了名字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/好朋友生日没邀请我邀请卡上写错了名字",
+      "level": "L4",
+      "duration_ms": 343276,
+      "char_count": 1312,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/好朋友生日没邀请我邀请卡上写错了名字/好朋友生日没邀请我邀请卡上写错了名字.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈出差时忘在门缝里的纸条",
+      "title": "妈妈出差时忘在门缝里的纸条",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈出差时忘在门缝里的纸条",
+      "level": "L4",
+      "duration_ms": 543736,
+      "char_count": 2100,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈出差时忘在门缝里的纸条/妈妈出差时忘在门缝里的纸条.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈出差时枕头上的泪痕",
+      "title": "妈妈出差时枕头上的泪痕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈出差时枕头上的泪痕",
+      "level": "L4",
+      "duration_ms": 458271,
+      "char_count": 1784,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈出差时枕头上的泪痕/妈妈出差时枕头上的泪痕.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈出差的那天晚上枕头湿了一片",
+      "title": "妈妈出差的那天晚上枕头湿了一片",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈出差的那天晚上枕头湿了一片",
+      "level": "L4",
+      "duration_ms": 533026,
+      "char_count": 2083,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈出差的那天晚上枕头湿了一片/妈妈出差的那天晚上枕头湿了一片.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈去上班时怎么叫也不回头",
+      "title": "妈妈去上班时怎么叫也不回头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈去上班时怎么叫也不回头",
+      "level": "L4",
+      "duration_ms": 620913,
+      "char_count": 2380,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈去上班时怎么叫也不回头/妈妈去上班时怎么叫也不回头.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈去上班，挥挥手",
+      "title": "妈妈去上班，挥挥手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈去上班，挥挥手",
+      "level": "L4",
+      "duration_ms": 644274,
+      "char_count": 2524,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈去上班，挥挥手/妈妈去上班，挥挥手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈把我的旧玩具送人了纸箱空空的",
+      "title": "妈妈把我的旧玩具送人了纸箱空空的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈把我的旧玩具送人了纸箱空空的",
+      "level": "L4",
+      "duration_ms": 428417,
+      "char_count": 1672,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈把我的旧玩具送人了纸箱空空的/妈妈把我的旧玩具送人了纸箱空空的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈把陪伴我八年的小熊扔进了垃圾桶",
+      "title": "妈妈把陪伴我八年的小熊扔进了垃圾桶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈把陪伴我八年的小熊扔进了垃圾桶",
+      "level": "L4",
+      "duration_ms": 369455,
+      "char_count": 1434,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈把陪伴我八年的小熊扔进了垃圾桶/妈妈把陪伴我八年的小熊扔进了垃圾桶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈抱着妹妹，我抱着妈妈的腿",
+      "title": "妈妈抱着妹妹，我抱着妈妈的腿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈抱着妹妹，我抱着妈妈的腿",
+      "level": "L4",
+      "duration_ms": 544557,
+      "char_count": 2134,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈抱着妹妹，我抱着妈妈的腿/妈妈抱着妹妹，我抱着妈妈的腿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈挥挥手，我的眼泪悄悄掉",
+      "title": "妈妈挥挥手，我的眼泪悄悄掉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈挥挥手，我的眼泪悄悄掉",
+      "level": "L4",
+      "duration_ms": 407489,
+      "char_count": 1616,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈挥挥手，我的眼泪悄悄掉/妈妈挥挥手，我的眼泪悄悄掉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈的包包不见了，呜呜",
+      "title": "妈妈的包包不见了，呜呜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈的包包不见了，呜呜",
+      "level": "L4",
+      "duration_ms": 541950,
+      "char_count": 2131,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈的包包不见了，呜呜/妈妈的包包不见了，呜呜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈答应来运动会却加班了奖牌没人看",
+      "title": "妈妈答应来运动会却加班了奖牌没人看",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈答应来运动会却加班了奖牌没人看",
+      "level": "L4",
+      "duration_ms": 448130,
+      "char_count": 1761,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈答应来运动会却加班了奖牌没人看/妈妈答应来运动会却加班了奖牌没人看.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈背对着我，像一座冰山",
+      "title": "妈妈背对着我，像一座冰山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈背对着我，像一座冰山",
+      "level": "L4",
+      "duration_ms": 378635,
+      "char_count": 1473,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈背对着我，像一座冰山/妈妈背对着我，像一座冰山.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈藏起的游戏机落满灰尘",
+      "title": "妈妈藏起的游戏机落满灰尘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/妈妈藏起的游戏机落满灰尘",
+      "level": "L4",
+      "duration_ms": 525275,
+      "char_count": 2036,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/妈妈藏起的游戏机落满灰尘/妈妈藏起的游戏机落满灰尘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "存钱罐摔碎了攒了一年的硬币滚得到处是",
+      "title": "存钱罐摔碎了攒了一年的硬币滚得到处是",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/存钱罐摔碎了攒了一年的硬币滚得到处是",
+      "level": "L4",
+      "duration_ms": 627558,
+      "char_count": 2441,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/存钱罐摔碎了攒了一年的硬币滚得到处是/存钱罐摔碎了攒了一年的硬币滚得到处是.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "学步摔倒，妈妈没抱我",
+      "title": "学步摔倒，妈妈没抱我",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/学步摔倒，妈妈没抱我",
+      "level": "L4",
+      "duration_ms": 414813,
+      "char_count": 1640,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/学步摔倒，妈妈没抱我/学步摔倒，妈妈没抱我.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小乌龟冬眠后没有醒来",
+      "title": "小乌龟冬眠后没有醒来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小乌龟冬眠后没有醒来",
+      "level": "L4",
+      "duration_ms": 337598,
+      "char_count": 1324,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小乌龟冬眠后没有醒来/小乌龟冬眠后没有醒来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小仓鼠跑进洞里不见了",
+      "title": "小仓鼠跑进洞里不见了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小仓鼠跑进洞里不见了",
+      "level": "L4",
+      "duration_ms": 340067,
+      "char_count": 1333,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小仓鼠跑进洞里不见了/小仓鼠跑进洞里不见了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔子布丁的耳朵掉了一只",
+      "title": "小兔子布丁的耳朵掉了一只",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小兔子布丁的耳朵掉了一只",
+      "level": "L4",
+      "duration_ms": 408952,
+      "char_count": 1579,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小兔子布丁的耳朵掉了一只/小兔子布丁的耳朵掉了一只.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔子玩偶丢了，好难过",
+      "title": "小兔子玩偶丢了，好难过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小兔子玩偶丢了，好难过",
+      "level": "L4",
+      "duration_ms": 303136,
+      "char_count": 1196,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小兔子玩偶丢了，好难过/小兔子玩偶丢了，好难过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔杯子碎了，拼不回来了",
+      "title": "小兔杯子碎了，拼不回来了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小兔杯子碎了，拼不回来了",
+      "level": "L4",
+      "duration_ms": 556879,
+      "char_count": 2187,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小兔杯子碎了，拼不回来了/小兔杯子碎了，拼不回来了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小明的家搬走了，滑梯只剩我",
+      "title": "小明的家搬走了，滑梯只剩我",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小明的家搬走了，滑梯只剩我",
+      "level": "L4",
+      "duration_ms": 294456,
+      "char_count": 1145,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小明的家搬走了，滑梯只剩我/小明的家搬走了，滑梯只剩我.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小毯子不见了，睡不着",
+      "title": "小毯子不见了，睡不着",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小毯子不见了，睡不着",
+      "level": "L4",
+      "duration_ms": 412169,
+      "char_count": 1641,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小毯子不见了，睡不着/小毯子不见了，睡不着.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小水杯忘在家里，渴了",
+      "title": "小水杯忘在家里，渴了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小水杯忘在家里，渴了",
+      "level": "L4",
+      "duration_ms": 298420,
+      "char_count": 1183,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小水杯忘在家里，渴了/小水杯忘在家里，渴了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小汽车被拿走了，手心里空空的",
+      "title": "小汽车被拿走了，手心里空空的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小汽车被拿走了，手心里空空的",
+      "level": "L4",
+      "duration_ms": 364312,
+      "char_count": 1445,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小汽车被拿走了，手心里空空的/小汽车被拿走了，手心里空空的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小火车开走了，再见",
+      "title": "小火车开走了，再见",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小火车开走了，再见",
+      "level": "L4",
+      "duration_ms": 611591,
+      "char_count": 2409,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小火车开走了，再见/小火车开走了，再见.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小熊不见了，枕头湿了一片",
+      "title": "小熊不见了，枕头湿了一片",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小熊不见了，枕头湿了一片",
+      "level": "L4",
+      "duration_ms": 435028,
+      "char_count": 1674,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小熊不见了，枕头湿了一片/小熊不见了，枕头湿了一片.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小种子没发芽，白种了",
+      "title": "小种子没发芽，白种了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小种子没发芽，白种了",
+      "level": "L4",
+      "duration_ms": 421169,
+      "char_count": 1630,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小种子没发芽，白种了/小种子没发芽，白种了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小空的椅子空空的，没人坐",
+      "title": "小空的椅子空空的，没人坐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小空的椅子空空的，没人坐",
+      "level": "L4",
+      "duration_ms": 326020,
+      "char_count": 1276,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小空的椅子空空的，没人坐/小空的椅子空空的，没人坐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小蜗牛爬走了，不见了",
+      "title": "小蜗牛爬走了，不见了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小蜗牛爬走了，不见了",
+      "level": "L4",
+      "duration_ms": 614953,
+      "char_count": 2351,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小蜗牛爬走了，不见了/小蜗牛爬走了，不见了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小豆芽弯了腰，再也站不直",
+      "title": "小豆芽弯了腰，再也站不直",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小豆芽弯了腰，再也站不直",
+      "level": "L4",
+      "duration_ms": 287597,
+      "char_count": 1131,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小豆芽弯了腰，再也站不直/小豆芽弯了腰，再也站不直.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小鞋子丢了一只，找啊找",
+      "title": "小鞋子丢了一只，找啊找",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小鞋子丢了一只，找啊找",
+      "level": "L4",
+      "duration_ms": 560739,
+      "char_count": 2175,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小鞋子丢了一只，找啊找/小鞋子丢了一只，找啊找.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小鱼不动了，水缸静悄悄",
+      "title": "小鱼不动了，水缸静悄悄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小鱼不动了，水缸静悄悄",
+      "level": "L4",
+      "duration_ms": 461130,
+      "char_count": 1764,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小鱼不动了，水缸静悄悄/小鱼不动了，水缸静悄悄.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小鱼亮亮不再游来游去了",
+      "title": "小鱼亮亮不再游来游去了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小鱼亮亮不再游来游去了",
+      "level": "L4",
+      "duration_ms": 374887,
+      "char_count": 1467,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小鱼亮亮不再游来游去了/小鱼亮亮不再游来游去了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小鸭子游走了，不回来",
+      "title": "小鸭子游走了，不回来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/小鸭子游走了，不回来",
+      "level": "L4",
+      "duration_ms": 406740,
+      "char_count": 1620,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/小鸭子游走了，不回来/小鸭子游走了，不回来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园最好的朋友明天要搬家",
+      "title": "幼儿园最好的朋友明天要搬家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/幼儿园最好的朋友明天要搬家",
+      "level": "L4",
+      "duration_ms": 358741,
+      "char_count": 1386,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/幼儿园最好的朋友明天要搬家/幼儿园最好的朋友明天要搬家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园毕业那天我悄悄把奖状塞进书包",
+      "title": "幼儿园毕业那天我悄悄把奖状塞进书包",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/幼儿园毕业那天我悄悄把奖状塞进书包",
+      "level": "L4",
+      "duration_ms": 536706,
+      "char_count": 2106,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/幼儿园毕业那天我悄悄把奖状塞进书包/幼儿园毕业那天我悄悄把奖状塞进书包.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园老师请假好几天没来",
+      "title": "幼儿园老师请假好几天没来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/幼儿园老师请假好几天没来",
+      "level": "L4",
+      "duration_ms": 423778,
+      "char_count": 1661,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/幼儿园老师请假好几天没来/幼儿园老师请假好几天没来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "心爱的小水杯摔成了两半",
+      "title": "心爱的小水杯摔成了两半",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/心爱的小水杯摔成了两半",
+      "level": "L4",
+      "duration_ms": 349817,
+      "char_count": 1347,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/心爱的小水杯摔成了两半/心爱的小水杯摔成了两半.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "怕生时妈妈离开了，哭哭",
+      "title": "怕生时妈妈离开了，哭哭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/怕生时妈妈离开了，哭哭",
+      "level": "L4",
+      "duration_ms": 353923,
+      "char_count": 1398,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/怕生时妈妈离开了，哭哭/怕生时妈妈离开了，哭哭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想当画家的愿望被爸爸说‘不务正业’",
+      "title": "想当画家的愿望被爸爸说‘不务正业’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/想当画家的愿望被爸爸说‘不务正业’",
+      "level": "L4",
+      "duration_ms": 481594,
+      "char_count": 1878,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/想当画家的愿望被爸爸说‘不务正业’/想当画家的愿望被爸爸说‘不务正业’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我养了六年的仓鼠永远睡着了",
+      "title": "我养了六年的仓鼠永远睡着了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/我养了六年的仓鼠永远睡着了",
+      "level": "L4",
+      "duration_ms": 424561,
+      "char_count": 1618,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/我养了六年的仓鼠永远睡着了/我养了六年的仓鼠永远睡着了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我画的画被风吹走了追也追不上",
+      "title": "我画的画被风吹走了追也追不上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/我画的画被风吹走了追也追不上",
+      "level": "L4",
+      "duration_ms": 495415,
+      "char_count": 1951,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/我画的画被风吹走了追也追不上/我画的画被风吹走了追也追不上.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我的乳牙掉了牙仙会不会忘记来",
+      "title": "我的乳牙掉了牙仙会不会忘记来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/我的乳牙掉了牙仙会不会忘记来",
+      "level": "L4",
+      "duration_ms": 581515,
+      "char_count": 2255,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/我的乳牙掉了牙仙会不会忘记来/我的乳牙掉了牙仙会不会忘记来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我的好朋友今天转学了",
+      "title": "我的好朋友今天转学了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/我的好朋友今天转学了",
+      "level": "L4",
+      "duration_ms": 364597,
+      "char_count": 1413,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/我的好朋友今天转学了/我的好朋友今天转学了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我的小乌龟死了它浮在水面上不动了",
+      "title": "我的小乌龟死了它浮在水面上不动了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/我的小乌龟死了它浮在水面上不动了",
+      "level": "L4",
+      "duration_ms": 343634,
+      "char_count": 1331,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/我的小乌龟死了它浮在水面上不动了/我的小乌龟死了它浮在水面上不动了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我的小书包拉链坏了新书包不喜欢",
+      "title": "我的小书包拉链坏了新书包不喜欢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/我的小书包拉链坏了新书包不喜欢",
+      "level": "L4",
+      "duration_ms": 358455,
+      "char_count": 1372,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/我的小书包拉链坏了新书包不喜欢/我的小书包拉链坏了新书包不喜欢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我的小仓鼠再也不咬笼子了",
+      "title": "我的小仓鼠再也不咬笼子了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/我的小仓鼠再也不咬笼子了",
+      "level": "L4",
+      "duration_ms": 361312,
+      "char_count": 1403,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/我的小仓鼠再也不咬笼子了/我的小仓鼠再也不咬笼子了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我的小熊去了别人家",
+      "title": "我的小熊去了别人家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/我的小熊去了别人家",
+      "level": "L4",
+      "duration_ms": 521197,
+      "char_count": 2049,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/我的小熊去了别人家/我的小熊去了别人家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我的画被弟弟不小心撕破了",
+      "title": "我的画被弟弟不小心撕破了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/我的画被弟弟不小心撕破了",
+      "level": "L4",
+      "duration_ms": 502168,
+      "char_count": 1943,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/我的画被弟弟不小心撕破了/我的画被弟弟不小心撕破了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "抽屉里那张被撕碎的友谊卡片",
+      "title": "抽屉里那张被撕碎的友谊卡片",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/抽屉里那张被撕碎的友谊卡片",
+      "level": "L4",
+      "duration_ms": 324133,
+      "char_count": 1276,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/抽屉里那张被撕碎的友谊卡片/抽屉里那张被撕碎的友谊卡片.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "搬家了我的小床上还有旧房间的味道",
+      "title": "搬家了我的小床上还有旧房间的味道",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/搬家了我的小床上还有旧房间的味道",
+      "level": "L4",
+      "duration_ms": 464741,
+      "char_count": 1842,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/搬家了我的小床上还有旧房间的味道/搬家了我的小床上还有旧房间的味道.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "搬家卡车带走的滑梯和秋千",
+      "title": "搬家卡车带走的滑梯和秋千",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/搬家卡车带走的滑梯和秋千",
+      "level": "L4",
+      "duration_ms": 319920,
+      "char_count": 1233,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/搬家卡车带走的滑梯和秋千/搬家卡车带走的滑梯和秋千.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "放学后空荡荡的足球场只剩球门",
+      "title": "放学后空荡荡的足球场只剩球门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/放学后空荡荡的足球场只剩球门",
+      "level": "L4",
+      "duration_ms": 373666,
+      "char_count": 1432,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/放学后空荡荡的足球场只剩球门/放学后空荡荡的足球场只剩球门.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "教室里的空座位再也没有人坐",
+      "title": "教室里的空座位再也没有人坐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/教室里的空座位再也没有人坐",
+      "level": "L4",
+      "duration_ms": 309708,
+      "char_count": 1202,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/教室里的空座位再也没有人坐/教室里的空座位再也没有人坐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学考了65分，撕掉了贴在墙上的科学家海报",
+      "title": "数学考了65分，撕掉了贴在墙上的科学家海报",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/数学考了65分，撕掉了贴在墙上的科学家海报",
+      "level": "L4",
+      "duration_ms": 404453,
+      "char_count": 1579,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/数学考了65分，撕掉了贴在墙上的科学家海报/数学考了65分，撕掉了贴在墙上的科学家海报.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学考试只得了60分红叉叉像小刀子",
+      "title": "数学考试只得了60分红叉叉像小刀子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/数学考试只得了60分红叉叉像小刀子",
+      "level": "L4",
+      "duration_ms": 363136,
+      "char_count": 1409,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/数学考试只得了60分红叉叉像小刀子/数学考试只得了60分红叉叉像小刀子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "新来的黑板上写着“小偷”两个字",
+      "title": "新来的黑板上写着“小偷”两个字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/新来的黑板上写着“小偷”两个字",
+      "level": "L4",
+      "duration_ms": 335851,
+      "char_count": 1300,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/新来的黑板上写着“小偷”两个字/新来的黑板上写着“小偷”两个字.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "旧校服再也穿不下的紧绷纽扣",
+      "title": "旧校服再也穿不下的紧绷纽扣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/旧校服再也穿不下的紧绷纽扣",
+      "level": "L4",
+      "duration_ms": 547595,
+      "char_count": 2121,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/旧校服再也穿不下的紧绷纽扣/旧校服再也穿不下的紧绷纽扣.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "早教班下课，小朋友走光",
+      "title": "早教班下课，小朋友走光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/早教班下课，小朋友走光",
+      "level": "L4",
+      "duration_ms": 368421,
+      "char_count": 1448,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/早教班下课，小朋友走光/早教班下课，小朋友走光.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "春蚕结茧后死去的最后一只",
+      "title": "春蚕结茧后死去的最后一只",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/春蚕结茧后死去的最后一只",
+      "level": "L4",
+      "duration_ms": 467310,
+      "char_count": 1805,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/春蚕结茧后死去的最后一只/春蚕结茧后死去的最后一只.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "昨天还一起玩沙包的小明不理我了",
+      "title": "昨天还一起玩沙包的小明不理我了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/昨天还一起玩沙包的小明不理我了",
+      "level": "L4",
+      "duration_ms": 353064,
+      "char_count": 1383,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/昨天还一起玩沙包的小明不理我了/昨天还一起玩沙包的小明不理我了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "暑假结束了乡下的小狗不能跟我回家",
+      "title": "暑假结束了乡下的小狗不能跟我回家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/暑假结束了乡下的小狗不能跟我回家",
+      "level": "L4",
+      "duration_ms": 416850,
+      "char_count": 1640,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/暑假结束了乡下的小狗不能跟我回家/暑假结束了乡下的小狗不能跟我回家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最后一次和好朋友分享的饼干",
+      "title": "最后一次和好朋友分享的饼干",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/最后一次和好朋友分享的饼干",
+      "level": "L4",
+      "duration_ms": 267563,
+      "char_count": 1042,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/最后一次和好朋友分享的饼干/最后一次和好朋友分享的饼干.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最喜欢的漫画书被弟弟撕破了粘都粘不好",
+      "title": "最喜欢的漫画书被弟弟撕破了粘都粘不好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/最喜欢的漫画书被弟弟撕破了粘都粘不好",
+      "level": "L4",
+      "duration_ms": 581419,
+      "char_count": 2308,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/最喜欢的漫画书被弟弟撕破了粘都粘不好/最喜欢的漫画书被弟弟撕破了粘都粘不好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最好的朋友把秘密告诉了全班",
+      "title": "最好的朋友把秘密告诉了全班",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/最好的朋友把秘密告诉了全班",
+      "level": "L4",
+      "duration_ms": 372709,
+      "char_count": 1441,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/最好的朋友把秘密告诉了全班/最好的朋友把秘密告诉了全班.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最好的朋友搬家了操场上的秋千空荡荡",
+      "title": "最好的朋友搬家了操场上的秋千空荡荡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/最好的朋友搬家了操场上的秋千空荡荡",
+      "level": "L4",
+      "duration_ms": 373633,
+      "char_count": 1463,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/最好的朋友搬家了操场上的秋千空荡荡/最好的朋友搬家了操场上的秋千空荡荡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最好的朋友转学那天，我在空座位贴了笑脸",
+      "title": "最好的朋友转学那天，我在空座位贴了笑脸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/最好的朋友转学那天，我在空座位贴了笑脸",
+      "level": "L4",
+      "duration_ms": 355277,
+      "char_count": 1383,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/最好的朋友转学那天，我在空座位贴了笑脸/最好的朋友转学那天，我在空座位贴了笑脸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最爱的布娃娃被捐进回收箱",
+      "title": "最爱的布娃娃被捐进回收箱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/最爱的布娃娃被捐进回收箱",
+      "level": "L4",
+      "duration_ms": 393208,
+      "char_count": 1507,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/最爱的布娃娃被捐进回收箱/最爱的布娃娃被捐进回收箱.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最爱的故事书最后一页撕破了",
+      "title": "最爱的故事书最后一页撕破了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/最爱的故事书最后一页撕破了",
+      "level": "L4",
+      "duration_ms": 438129,
+      "char_count": 1690,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/最爱的故事书最后一页撕破了/最爱的故事书最后一页撕破了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最爱的那件外套被妈妈捐了出去",
+      "title": "最爱的那件外套被妈妈捐了出去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/最爱的那件外套被妈妈捐了出去",
+      "level": "L4",
+      "duration_ms": 393024,
+      "char_count": 1526,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/最爱的那件外套被妈妈捐了出去/最爱的那件外套被妈妈捐了出去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "树洞里的秘密被全班传成了笑话",
+      "title": "树洞里的秘密被全班传成了笑话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/树洞里的秘密被全班传成了笑话",
+      "level": "L4",
+      "duration_ms": 370314,
+      "char_count": 1454,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/树洞里的秘密被全班传成了笑话/树洞里的秘密被全班传成了笑话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "比赛输掉时同学们的欢呼声很远",
+      "title": "比赛输掉时同学们的欢呼声很远",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/比赛输掉时同学们的欢呼声很远",
+      "level": "L4",
+      "duration_ms": 458491,
+      "char_count": 1801,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/比赛输掉时同学们的欢呼声很远/比赛输掉时同学们的欢呼声很远.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "比赛输掉时被踩碎的奖杯模型",
+      "title": "比赛输掉时被踩碎的奖杯模型",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/比赛输掉时被踩碎的奖杯模型",
+      "level": "L4",
+      "duration_ms": 505557,
+      "char_count": 1960,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/比赛输掉时被踩碎的奖杯模型/比赛输掉时被踩碎的奖杯模型.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "毕业典礼上，班主任的红眼眶让我哭了",
+      "title": "毕业典礼上，班主任的红眼眶让我哭了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/毕业典礼上，班主任的红眼眶让我哭了",
+      "level": "L4",
+      "duration_ms": 459847,
+      "char_count": 1766,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/毕业典礼上，班主任的红眼眶让我哭了/毕业典礼上，班主任的红眼眶让我哭了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "毕业照里被撕掉的那一角",
+      "title": "毕业照里被撕掉的那一角",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/毕业照里被撕掉的那一角",
+      "level": "L4",
+      "duration_ms": 355599,
+      "char_count": 1379,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/毕业照里被撕掉的那一角/毕业照里被撕掉的那一角.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "气球飞上天，抓不住",
+      "title": "气球飞上天，抓不住",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/气球飞上天，抓不住",
+      "level": "L4",
+      "duration_ms": 477489,
+      "char_count": 1870,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/气球飞上天，抓不住/气球飞上天，抓不住.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "气球飞向天空再也不回来",
+      "title": "气球飞向天空再也不回来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/气球飞向天空再也不回来",
+      "level": "L4",
+      "duration_ms": 361811,
+      "char_count": 1425,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/气球飞向天空再也不回来/气球飞向天空再也不回来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "沙滩上的城堡被海浪冲走了",
+      "title": "沙滩上的城堡被海浪冲走了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/沙滩上的城堡被海浪冲走了",
+      "level": "L4",
+      "duration_ms": 415100,
+      "char_count": 1618,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/沙滩上的城堡被海浪冲走了/沙滩上的城堡被海浪冲走了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "泡泡飞走了，抓不到",
+      "title": "泡泡飞走了，抓不到",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/泡泡飞走了，抓不到",
+      "level": "L4",
+      "duration_ms": 353742,
+      "char_count": 1387,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/泡泡飞走了，抓不到/泡泡飞走了，抓不到.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "游乐场的旋转木马要关门了",
+      "title": "游乐场的旋转木马要关门了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/游乐场的旋转木马要关门了",
+      "level": "L4",
+      "duration_ms": 408527,
+      "char_count": 1577,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/游乐场的旋转木马要关门了/游乐场的旋转木马要关门了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "游戏里最好的队友说‘我要退游了’",
+      "title": "游戏里最好的队友说‘我要退游了’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/游戏里最好的队友说‘我要退游了’",
+      "level": "L4",
+      "duration_ms": 598520,
+      "char_count": 2277,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/游戏里最好的队友说‘我要退游了’/游戏里最好的队友说‘我要退游了’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爷爷寄来的玩具在快递途中丢了",
+      "title": "爷爷寄来的玩具在快递途中丢了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/爷爷寄来的玩具在快递途中丢了",
+      "level": "L4",
+      "duration_ms": 604305,
+      "char_count": 2324,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/爷爷寄来的玩具在快递途中丢了/爷爷寄来的玩具在快递途中丢了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸出差那天的蓝色行李箱",
+      "title": "爸爸出差那天的蓝色行李箱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/爸爸出差那天的蓝色行李箱",
+      "level": "L4",
+      "duration_ms": 391349,
+      "char_count": 1519,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/爸爸出差那天的蓝色行李箱/爸爸出差那天的蓝色行李箱.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸的行李箱带走了笑容",
+      "title": "爸爸的行李箱带走了笑容",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/爸爸的行李箱带走了笑容",
+      "level": "L4",
+      "duration_ms": 515918,
+      "char_count": 2021,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/爸爸的行李箱带走了笑容/爸爸的行李箱带走了笑容.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸离婚后那个不再亮灯的卧室",
+      "title": "爸爸离婚后那个不再亮灯的卧室",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/爸爸离婚后那个不再亮灯的卧室",
+      "level": "L4",
+      "duration_ms": 378384,
+      "char_count": 1477,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/爸爸离婚后那个不再亮灯的卧室/爸爸离婚后那个不再亮灯的卧室.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸答应陪我却总说下次一定",
+      "title": "爸爸答应陪我却总说下次一定",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/爸爸答应陪我却总说下次一定",
+      "level": "L4",
+      "duration_ms": 506127,
+      "char_count": 1986,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/爸爸答应陪我却总说下次一定/爸爸答应陪我却总说下次一定.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸要去外地工作送他去火车站的路上",
+      "title": "爸爸要去外地工作送他去火车站的路上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/爸爸要去外地工作送他去火车站的路上",
+      "level": "L4",
+      "duration_ms": 335492,
+      "char_count": 1313,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/爸爸要去外地工作送他去火车站的路上/爸爸要去外地工作送他去火车站的路上.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸要去外地工作，行李箱里装满了我的思念",
+      "title": "爸爸要去外地工作，行李箱里装满了我的思念",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/爸爸要去外地工作，行李箱里装满了我的思念",
+      "level": "L4",
+      "duration_ms": 509696,
+      "char_count": 1997,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/爸爸要去外地工作，行李箱里装满了我的思念/爸爸要去外地工作，行李箱里装满了我的思念.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猫咪不见了，喵喵声只剩回音",
+      "title": "猫咪不见了，喵喵声只剩回音",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/猫咪不见了，喵喵声只剩回音",
+      "level": "L4",
+      "duration_ms": 501773,
+      "char_count": 1960,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/猫咪不见了，喵喵声只剩回音/猫咪不见了，喵喵声只剩回音.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "班长竞选落选后，我躲在操场角落数蚂蚁",
+      "title": "班长竞选落选后，我躲在操场角落数蚂蚁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/班长竞选落选后，我躲在操场角落数蚂蚁",
+      "level": "L4",
+      "duration_ms": 372740,
+      "char_count": 1430,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/班长竞选落选后，我躲在操场角落数蚂蚁/班长竞选落选后，我躲在操场角落数蚂蚁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生日会上缺席那个熟悉的笑脸",
+      "title": "生日会上缺席那个熟悉的笑脸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/生日会上缺席那个熟悉的笑脸",
+      "level": "L4",
+      "duration_ms": 342243,
+      "char_count": 1332,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/生日会上缺席那个熟悉的笑脸/生日会上缺席那个熟悉的笑脸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生日当天唯一没收到邀请的清晨",
+      "title": "生日当天唯一没收到邀请的清晨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/生日当天唯一没收到邀请的清晨",
+      "level": "L4",
+      "duration_ms": 337562,
+      "char_count": 1338,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/生日当天唯一没收到邀请的清晨/生日当天唯一没收到邀请的清晨.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生日蜡烛吹灭后蛋糕吃完了",
+      "title": "生日蜡烛吹灭后蛋糕吃完了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/生日蜡烛吹灭后蛋糕吃完了",
+      "level": "L4",
+      "duration_ms": 355490,
+      "char_count": 1373,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/生日蜡烛吹灭后蛋糕吃完了/生日蜡烛吹灭后蛋糕吃完了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生日蜡烛灭了，愿望没许成",
+      "title": "生日蜡烛灭了，愿望没许成",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/生日蜡烛灭了，愿望没许成",
+      "level": "L4",
+      "duration_ms": 404274,
+      "char_count": 1567,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/生日蜡烛灭了，愿望没许成/生日蜡烛灭了，愿望没许成.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "睡前奶没有了，好饿",
+      "title": "睡前奶没有了，好饿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/睡前奶没有了，好饿",
+      "level": "L4",
+      "duration_ms": 514380,
+      "char_count": 1994,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/睡前奶没有了，好饿/睡前奶没有了，好饿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "秋千上只有我一个人的影子",
+      "title": "秋千上只有我一个人的影子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/秋千上只有我一个人的影子",
+      "level": "L4",
+      "duration_ms": 250387,
+      "char_count": 985,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/秋千上只有我一个人的影子/秋千上只有我一个人的影子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "秋天最后一片叶子被风吹走了",
+      "title": "秋天最后一片叶子被风吹走了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/秋天最后一片叶子被风吹走了",
+      "level": "L4",
+      "duration_ms": 350631,
+      "char_count": 1365,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/秋天最后一片叶子被风吹走了/秋天最后一片叶子被风吹走了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "种的小花被大雨打倒了",
+      "title": "种的小花被大雨打倒了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/种的小花被大雨打倒了",
+      "level": "L4",
+      "duration_ms": 396204,
+      "char_count": 1563,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/种的小花被大雨打倒了/种的小花被大雨打倒了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "积木塔塌了，好伤心",
+      "title": "积木塔塌了，好伤心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/积木塔塌了，好伤心",
+      "level": "L4",
+      "duration_ms": 347133,
+      "char_count": 1355,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/积木塔塌了，好伤心/积木塔塌了，好伤心.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次和奶奶分开，想她",
+      "title": "第一次和奶奶分开，想她",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/第一次和奶奶分开，想她",
+      "level": "L4",
+      "duration_ms": 526954,
+      "char_count": 2062,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/第一次和奶奶分开，想她/第一次和奶奶分开，想她.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次戴牙套时镜子里的陌生自己",
+      "title": "第一次戴牙套时镜子里的陌生自己",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/第一次戴牙套时镜子里的陌生自己",
+      "level": "L4",
+      "duration_ms": 474669,
+      "char_count": 1842,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/第一次戴牙套时镜子里的陌生自己/第一次戴牙套时镜子里的陌生自己.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次来月经，我害怕得躲在厕所哭",
+      "title": "第一次来月经，我害怕得躲在厕所哭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/第一次来月经，我害怕得躲在厕所哭",
+      "level": "L4",
+      "duration_ms": 501812,
+      "char_count": 1949,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/第一次来月经，我害怕得躲在厕所哭/第一次来月经，我害怕得躲在厕所哭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次独自睡觉关灯后影子好可怕",
+      "title": "第一次独自睡觉关灯后影子好可怕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/第一次独自睡觉关灯后影子好可怕",
+      "level": "L4",
+      "duration_ms": 347670,
+      "char_count": 1367,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/第一次独自睡觉关灯后影子好可怕/第一次独自睡觉关灯后影子好可怕.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "红气球飘走了，我追不上",
+      "title": "红气球飘走了，我追不上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/红气球飘走了，我追不上",
+      "level": "L4",
+      "duration_ms": 482199,
+      "char_count": 1870,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/红气球飘走了，我追不上/红气球飘走了，我追不上.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "红色蜡笔用光再也画不出来了",
+      "title": "红色蜡笔用光再也画不出来了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/红色蜡笔用光再也画不出来了",
+      "level": "L4",
+      "duration_ms": 335672,
+      "char_count": 1297,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/红色蜡笔用光再也画不出来了/红色蜡笔用光再也画不出来了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "美术课上画的全家福缺了一个角",
+      "title": "美术课上画的全家福缺了一个角",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/美术课上画的全家福缺了一个角",
+      "level": "L4",
+      "duration_ms": 518773,
+      "char_count": 2003,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/美术课上画的全家福缺了一个角/美术课上画的全家福缺了一个角.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师当着全班说‘你根本不努力’，我咬破了嘴唇",
+      "title": "老师当着全班说‘你根本不努力’，我咬破了嘴唇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/老师当着全班说‘你根本不努力’，我咬破了嘴唇",
+      "level": "L4",
+      "duration_ms": 432064,
+      "char_count": 1686,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/老师当着全班说‘你根本不努力’，我咬破了嘴唇/老师当着全班说‘你根本不努力’，我咬破了嘴唇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师皱了眉头，我的心揪了一下",
+      "title": "老师皱了眉头，我的心揪了一下",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/老师皱了眉头，我的心揪了一下",
+      "level": "L4",
+      "duration_ms": 402280,
+      "char_count": 1585,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/老师皱了眉头，我的心揪了一下/老师皱了眉头，我的心揪了一下.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师调走了她教我们唱的儿歌我还记得",
+      "title": "老师调走了她教我们唱的儿歌我还记得",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/老师调走了她教我们唱的儿歌我还记得",
+      "level": "L4",
+      "duration_ms": 232062,
+      "char_count": 920,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/老师调走了她教我们唱的儿歌我还记得/老师调走了她教我们唱的儿歌我还记得.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师调走后桌上的粉笔槽空了",
+      "title": "老师调走后桌上的粉笔槽空了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/老师调走后桌上的粉笔槽空了",
+      "level": "L4",
+      "duration_ms": 383458,
+      "char_count": 1493,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/老师调走后桌上的粉笔槽空了/老师调走后桌上的粉笔槽空了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师调走时发给大家的纪念书签",
+      "title": "老师调走时发给大家的纪念书签",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/老师调走时发给大家的纪念书签",
+      "level": "L4",
+      "duration_ms": 663985,
+      "char_count": 2587,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/老师调走时发给大家的纪念书签/老师调走时发给大家的纪念书签.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老房子墙上还留着我的身高刻度线",
+      "title": "老房子墙上还留着我的身高刻度线",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/老房子墙上还留着我的身高刻度线",
+      "level": "L4",
+      "duration_ms": 634988,
+      "char_count": 2471,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/老房子墙上还留着我的身高刻度线/老房子墙上还留着我的身高刻度线.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老狗阿黄在雨夜闭上了眼睛",
+      "title": "老狗阿黄在雨夜闭上了眼睛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/老狗阿黄在雨夜闭上了眼睛",
+      "level": "L4",
+      "duration_ms": 453846,
+      "char_count": 1733,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/老狗阿黄在雨夜闭上了眼睛/老狗阿黄在雨夜闭上了眼睛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考砸后躲进卫生间哭湿的试卷",
+      "title": "考砸后躲进卫生间哭湿的试卷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/考砸后躲进卫生间哭湿的试卷",
+      "level": "L4",
+      "duration_ms": 383672,
+      "char_count": 1508,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/考砸后躲进卫生间哭湿的试卷/考砸后躲进卫生间哭湿的试卷.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考砸的试卷被藏进书包最深的夹层",
+      "title": "考砸的试卷被藏进书包最深的夹层",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/考砸的试卷被藏进书包最深的夹层",
+      "level": "L4",
+      "duration_ms": 259745,
+      "char_count": 1019,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/考砸的试卷被藏进书包最深的夹层/考砸的试卷被藏进书包最深的夹层.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自行车坏了爸爸说修不好了",
+      "title": "自行车坏了爸爸说修不好了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/自行车坏了爸爸说修不好了",
+      "level": "L4",
+      "duration_ms": 275383,
+      "char_count": 1075,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/自行车坏了爸爸说修不好了/自行车坏了爸爸说修不好了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "落叶离开大树，飘走了",
+      "title": "落叶离开大树，飘走了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/落叶离开大树，飘走了",
+      "level": "L4",
+      "duration_ms": 359100,
+      "char_count": 1381,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/落叶离开大树，飘走了/落叶离开大树，飘走了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "藏在铅笔盒里的绝交信",
+      "title": "藏在铅笔盒里的绝交信",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/藏在铅笔盒里的绝交信",
+      "level": "L4",
+      "duration_ms": 564699,
+      "char_count": 2189,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/藏在铅笔盒里的绝交信/藏在铅笔盒里的绝交信.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蜡笔断了，画不了画",
+      "title": "蜡笔断了，画不了画",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/蜡笔断了，画不了画",
+      "level": "L4",
+      "duration_ms": 338351,
+      "char_count": 1311,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/蜡笔断了，画不了画/蜡笔断了，画不了画.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被全班投票选为“最讨厌的人”那刻",
+      "title": "被全班投票选为“最讨厌的人”那刻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/被全班投票选为“最讨厌的人”那刻",
+      "level": "L4",
+      "duration_ms": 516344,
+      "char_count": 1986,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/被全班投票选为“最讨厌的人”那刻/被全班投票选为“最讨厌的人”那刻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被取消的夏令营通知书碎片",
+      "title": "被取消的夏令营通知书碎片",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/被取消的夏令营通知书碎片",
+      "level": "L4",
+      "duration_ms": 496484,
+      "char_count": 1928,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/被取消的夏令营通知书碎片/被取消的夏令营通知书碎片.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被网络好友拉黑后的聊天记录",
+      "title": "被网络好友拉黑后的聊天记录",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/被网络好友拉黑后的聊天记录",
+      "level": "L4",
+      "duration_ms": 573701,
+      "char_count": 2206,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/被网络好友拉黑后的聊天记录/被网络好友拉黑后的聊天记录.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "课外班解散后空荡荡的走廊",
+      "title": "课外班解散后空荡荡的走廊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/课外班解散后空荡荡的走廊",
+      "level": "L4",
+      "duration_ms": 518060,
+      "char_count": 2011,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/课外班解散后空荡荡的走廊/课外班解散后空荡荡的走廊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "课桌里压了三个月没敢送出的信",
+      "title": "课桌里压了三个月没敢送出的信",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/课桌里压了三个月没敢送出的信",
+      "level": "L4",
+      "duration_ms": 407916,
+      "char_count": 1586,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/课桌里压了三个月没敢送出的信/课桌里压了三个月没敢送出的信.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "课间十分钟，我假装系鞋带躲过所有人",
+      "title": "课间十分钟，我假装系鞋带躲过所有人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/课间十分钟，我假装系鞋带躲过所有人",
+      "level": "L4",
+      "duration_ms": 341063,
+      "char_count": 1343,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/课间十分钟，我假装系鞋带躲过所有人/课间十分钟，我假装系鞋带躲过所有人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "走廊尽头再也不会亮起的手电筒",
+      "title": "走廊尽头再也不会亮起的手电筒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/走廊尽头再也不会亮起的手电筒",
+      "level": "L4",
+      "duration_ms": 410456,
+      "char_count": 1569,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/走廊尽头再也不会亮起的手电筒/走廊尽头再也不会亮起的手电筒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "躲在被窝里听到爸妈说‘离婚’两个字",
+      "title": "躲在被窝里听到爸妈说‘离婚’两个字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/躲在被窝里听到爸妈说‘离婚’两个字",
+      "level": "L4",
+      "duration_ms": 425458,
+      "char_count": 1670,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/躲在被窝里听到爸妈说‘离婚’两个字/躲在被窝里听到爸妈说‘离婚’两个字.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "转学前最后一次一起爬的老槐树",
+      "title": "转学前最后一次一起爬的老槐树",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/转学前最后一次一起爬的老槐树",
+      "level": "L4",
+      "duration_ms": 382203,
+      "char_count": 1480,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/转学前最后一次一起爬的老槐树/转学前最后一次一起爬的老槐树.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "转学那天教室里的空座位",
+      "title": "转学那天教室里的空座位",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/转学那天教室里的空座位",
+      "level": "L4",
+      "duration_ms": 406063,
+      "char_count": 1580,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/转学那天教室里的空座位/转学那天教室里的空座位.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "辛辛苦苦练级的账号被封了，眼泪滴在键盘上",
+      "title": "辛辛苦苦练级的账号被封了，眼泪滴在键盘上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/辛辛苦苦练级的账号被封了，眼泪滴在键盘上",
+      "level": "L4",
+      "duration_ms": 336814,
+      "char_count": 1295,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/辛辛苦苦练级的账号被封了，眼泪滴在键盘上/辛辛苦苦练级的账号被封了，眼泪滴在键盘上.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "还没来得及说再见，你的座位就空了",
+      "title": "还没来得及说再见，你的座位就空了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/还没来得及说再见，你的座位就空了",
+      "level": "L4",
+      "duration_ms": 436776,
+      "char_count": 1721,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/还没来得及说再见，你的座位就空了/还没来得及说再见，你的座位就空了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "针头扎进来，眼泪像断了线",
+      "title": "针头扎进来，眼泪像断了线",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/针头扎进来，眼泪像断了线",
+      "level": "L4",
+      "duration_ms": 555986,
+      "char_count": 2183,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/针头扎进来，眼泪像断了线/针头扎进来，眼泪像断了线.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阳台上的向日葵低下了头，像我的心情",
+      "title": "阳台上的向日葵低下了头，像我的心情",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/阳台上的向日葵低下了头，像我的心情",
+      "level": "L4",
+      "duration_ms": 398277,
+      "char_count": 1535,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/阳台上的向日葵低下了头，像我的心情/阳台上的向日葵低下了头，像我的心情.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雨停了，彩虹消失了",
+      "title": "雨停了，彩虹消失了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/雨停了，彩虹消失了",
+      "level": "L4",
+      "duration_ms": 399882,
+      "char_count": 1538,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/雨停了，彩虹消失了/雨停了，彩虹消失了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雨停后彩虹消失了",
+      "title": "雨停后彩虹消失了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/雨停后彩虹消失了",
+      "level": "L4",
+      "duration_ms": 416523,
+      "char_count": 1623,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/雨停后彩虹消失了/雨停后彩虹消失了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雨滴敲打窗户，快乐被关住了",
+      "title": "雨滴敲打窗户，快乐被关住了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/雨滴敲打窗户，快乐被关住了",
+      "level": "L4",
+      "duration_ms": 338884,
+      "char_count": 1301,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/雨滴敲打窗户，快乐被关住了/雨滴敲打窗户，快乐被关住了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雪人慢慢变小，变成一滩水",
+      "title": "雪人慢慢变小，变成一滩水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/雪人慢慢变小，变成一滩水",
+      "level": "L4",
+      "duration_ms": 523201,
+      "char_count": 2036,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/雪人慢慢变小，变成一滩水/雪人慢慢变小，变成一滩水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雪人融化后只剩下一滩水",
+      "title": "雪人融化后只剩下一滩水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/雪人融化后只剩下一滩水",
+      "level": "L4",
+      "duration_ms": 449879,
+      "char_count": 1745,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/雪人融化后只剩下一滩水/雪人融化后只剩下一滩水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "零花钱丢失后空瘪的钱包",
+      "title": "零花钱丢失后空瘪的钱包",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/零花钱丢失后空瘪的钱包",
+      "level": "L4",
+      "duration_ms": 396882,
+      "char_count": 1551,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/零花钱丢失后空瘪的钱包/零花钱丢失后空瘪的钱包.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "风筝线断了它飞走再也不回来了",
+      "title": "风筝线断了它飞走再也不回来了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/风筝线断了它飞走再也不回来了",
+      "level": "L4",
+      "duration_ms": 465242,
+      "char_count": 1809,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/风筝线断了它飞走再也不回来了/风筝线断了它飞走再也不回来了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "饼干碎掉了，不能吃",
+      "title": "饼干碎掉了，不能吃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/饼干碎掉了，不能吃",
+      "level": "L4",
+      "duration_ms": 429811,
+      "char_count": 1701,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/饼干碎掉了，不能吃/饼干碎掉了，不能吃.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "饼干罐子空了，只剩碎屑",
+      "title": "饼干罐子空了，只剩碎屑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "情绪疗愈/H3悲伤/饼干罐子空了，只剩碎屑",
+      "level": "L4",
+      "duration_ms": 321990,
+      "char_count": 1260,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/饼干罐子空了，只剩碎屑/饼干罐子空了，只剩碎屑.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

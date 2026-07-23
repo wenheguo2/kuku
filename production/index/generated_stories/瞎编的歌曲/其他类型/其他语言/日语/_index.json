@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/其他类型/其他语言/日语",
+  "name": "日语",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他类型.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 67,
+  "entries": [
+    {
+      "entry_id": "さくらさくら_さくらさくら",
+      "title": "さくらさくら_さくらさくら",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/さくらさくら_さくらさくら"
+    },
+    {
+      "entry_id": "サイバーハート_サイバーハート",
+      "title": "サイバーハート_サイバーハート",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/サイバーハート_サイバーハート"
+    },
+    {
+      "entry_id": "デジタルレイン_デジタルレイン",
+      "title": "デジタルレイン_デジタルレイン",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/デジタルレイン_デジタルレイン"
+    },
+    {
+      "entry_id": "ネオンの夜_ネオンの夜",
+      "title": "ネオンの夜_ネオンの夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/ネオンの夜_ネオンの夜"
+    },
+    {
+      "entry_id": "パーティー",
+      "title": "パーティー",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/パーティー"
+    },
+    {
+      "entry_id": "フレンド",
+      "title": "フレンド",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/フレンド"
+    },
+    {
+      "entry_id": "光と影_光と影",
+      "title": "光と影_光と影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/光と影_光と影"
+    },
+    {
+      "entry_id": "光の彼方へ_向光之彼方",
+      "title": "光の彼方へ_向光之彼方",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/光の彼方へ_向光之彼方"
+    },
+    {
+      "entry_id": "六段の調_六段の調",
+      "title": "六段の調_六段の調",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/六段の調_六段の調"
+    },
+    {
+      "entry_id": "冬の桜_冬樱",
+      "title": "冬の桜_冬樱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/冬の桜_冬樱"
+    },
+    {
+      "entry_id": "冬の贈り物_冬の贈り物",
+      "title": "冬の贈り物_冬の贈り物",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/冬の贈り物_冬の贈り物"
+    },
+    {
+      "entry_id": "古本屋_古本屋",
+      "title": "古本屋_古本屋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/古本屋_古本屋"
+    },
+    {
+      "entry_id": "君の声が聞こえる_听见你的声音",
+      "title": "君の声が聞こえる_听见你的声音",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/君の声が聞こえる_听见你的声音"
+    },
+    {
+      "entry_id": "夏の日",
+      "title": "夏の日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/夏の日"
+    },
+    {
+      "entry_id": "夏の終わりに_夏の終わりに",
+      "title": "夏の終わりに_夏の終わりに",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/夏の終わりに_夏の終わりに"
+    },
+    {
+      "entry_id": "夕焼け小焼け_晚霞余晖",
+      "title": "夕焼け小焼け_晚霞余晖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/夕焼け小焼け_晚霞余晖"
+    },
+    {
+      "entry_id": "夢と現_夢と現",
+      "title": "夢と現_夢と現",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/夢と現_夢と現"
+    },
+    {
+      "entry_id": "夢の欠片_梦之碎片",
+      "title": "夢の欠片_梦之碎片",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/夢の欠片_梦之碎片"
+    },
+    {
+      "entry_id": "天使の声 Angel Voice",
+      "title": "天使の声 Angel Voice",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/天使の声 Angel Voice"
+    },
+    {
+      "entry_id": "天使の羽根_天使的羽根",
+      "title": "天使の羽根_天使的羽根",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/天使の羽根_天使的羽根"
+    },
+    {
+      "entry_id": "宝物",
+      "title": "宝物",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/宝物"
+    },
+    {
+      "entry_id": "小夜曲_小夜曲",
+      "title": "小夜曲_小夜曲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/小夜曲_小夜曲"
+    },
+    {
+      "entry_id": "幸せの風",
+      "title": "幸せの風",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/幸せの風"
+    },
+    {
+      "entry_id": "思い出の写真_思い出の写真",
+      "title": "思い出の写真_思い出の写真",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/思い出の写真_思い出の写真"
+    },
+    {
+      "entry_id": "悪魔の誘惑_恶魔的诱惑",
+      "title": "悪魔の誘惑_恶魔的诱惑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/悪魔の誘惑_恶魔的诱惑"
+    },
+    {
+      "entry_id": "星の約束_星的约定",
+      "title": "星の約束_星的约定",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/星の約束_星的约定"
+    },
+    {
+      "entry_id": "星空のキャンバス_星空画布",
+      "title": "星空のキャンバス_星空画布",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/星空のキャンバス_星空画布"
+    },
+    {
+      "entry_id": "春の兆し_春之预兆",
+      "title": "春の兆し_春之预兆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/春の兆し_春之预兆"
+    },
+    {
+      "entry_id": "春の海_春の海",
+      "title": "春の海_春の海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/春の海_春の海"
+    },
+    {
+      "entry_id": "春の訪れ_春の訪れ",
+      "title": "春の訪れ_春の訪れ",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/春の訪れ_春の訪れ"
+    },
+    {
+      "entry_id": "春の雪_春の雪",
+      "title": "春の雪_春の雪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/春の雪_春の雪"
+    },
+    {
+      "entry_id": "春の風物詩_春之风物诗",
+      "title": "春の風物詩_春之风物诗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/春の風物詩_春之风物诗"
+    },
+    {
+      "entry_id": "暴走 Overdrive",
+      "title": "暴走 Overdrive",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/暴走 Overdrive"
+    },
+    {
+      "entry_id": "月の涙_月之泪",
+      "title": "月の涙_月之泪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/月の涙_月之泪"
+    },
+    {
+      "entry_id": "月の都_月の都",
+      "title": "月の都_月の都",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/月の都_月の都"
+    },
+    {
+      "entry_id": "朝焼け_晨曦",
+      "title": "朝焼け_晨曦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/朝焼け_晨曦"
+    },
+    {
+      "entry_id": "朧月夜_朦胧月夜",
+      "title": "朧月夜_朦胧月夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/朧月夜_朦胧月夜"
+    },
+    {
+      "entry_id": "木漏れ日_叶隙光",
+      "title": "木漏れ日_叶隙光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/木漏れ日_叶隙光"
+    },
+    {
+      "entry_id": "東京の夜_東京の夜",
+      "title": "東京の夜_東京の夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/東京の夜_東京の夜"
+    },
+    {
+      "entry_id": "桜花抄_樱花抄",
+      "title": "桜花抄_樱花抄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/桜花抄_樱花抄"
+    },
+    {
+      "entry_id": "水晶の庭_水晶庭院",
+      "title": "水晶の庭_水晶庭院",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/水晶の庭_水晶庭院"
+    },
+    {
+      "entry_id": "永遠の絆_永远的羁绊",
+      "title": "永遠の絆_永远的羁绊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/永遠の絆_永远的羁绊"
+    },
+    {
+      "entry_id": "燃え上がれ魂_燃烧之魂",
+      "title": "燃え上がれ魂_燃烧之魂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/燃え上がれ魂_燃烧之魂"
+    },
+    {
+      "entry_id": "物語_物語",
+      "title": "物語_物語",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/物語_物語"
+    },
+    {
+      "entry_id": "猛火 Raging Fire",
+      "title": "猛火 Raging Fire",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/猛火 Raging Fire"
+    },
+    {
+      "entry_id": "祈り Prayer",
+      "title": "祈り Prayer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/祈り Prayer"
+    },
+    {
+      "entry_id": "秋の夕暮れ_秋の夕暮れ",
+      "title": "秋の夕暮れ_秋の夕暮れ",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/秋の夕暮れ_秋の夕暮れ"
+    },
+    {
+      "entry_id": "秋の韻_秋之韵",
+      "title": "秋の韻_秋之韵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/秋の韻_秋之韵"
+    },
+    {
+      "entry_id": "秋桜_秋樱",
+      "title": "秋桜_秋樱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/秋桜_秋樱"
+    },
+    {
+      "entry_id": "笑顔の花",
+      "title": "笑顔の花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/笑顔の花"
+    },
+    {
+      "entry_id": "約束の森_约定的森林",
+      "title": "約束の森_约定的森林",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/約束の森_约定的森林"
+    },
+    {
+      "entry_id": "聖なる光 Sacred Light",
+      "title": "聖なる光 Sacred Light",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/聖なる光 Sacred Light"
+    },
+    {
+      "entry_id": "花吹雪_花吹雪",
+      "title": "花吹雪_花吹雪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/花吹雪_花吹雪"
+    },
+    {
+      "entry_id": "花鳥風月_花鸟风月",
+      "title": "花鳥風月_花鸟风月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/花鳥風月_花鸟风月"
+    },
+    {
+      "entry_id": "虹色",
+      "title": "虹色",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/虹色"
+    },
+    {
+      "entry_id": "蛍の森_萤火之森",
+      "title": "蛍の森_萤火之森",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/蛍の森_萤火之森"
+    },
+    {
+      "entry_id": "踊ろうよ",
+      "title": "踊ろうよ",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/踊ろうよ"
+    },
+    {
+      "entry_id": "雨のち晴れ_雨后初晴",
+      "title": "雨のち晴れ_雨后初晴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/雨のち晴れ_雨后初晴"
+    },
+    {
+      "entry_id": "雪月花_雪月花",
+      "title": "雪月花_雪月花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/雪月花_雪月花"
+    },
+    {
+      "entry_id": "雷鳴 Thunder",
+      "title": "雷鳴 Thunder",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/雷鳴 Thunder"
+    },
+    {
+      "entry_id": "電脳都市_電脳都市",
+      "title": "電脳都市_電脳都市",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/電脳都市_電脳都市"
+    },
+    {
+      "entry_id": "青空の向こう側_蓝天的另一边",
+      "title": "青空の向こう側_蓝天的另一边",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/青空の向こう側_蓝天的另一边"
+    },
+    {
+      "entry_id": "風の旅人_风之旅人",
+      "title": "風の旅人_风之旅人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/風の旅人_风之旅人"
+    },
+    {
+      "entry_id": "風の記憶_风的记忆",
+      "title": "風の記憶_风的记忆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/風の記憶_风的记忆"
+    },
+    {
+      "entry_id": "風林火山_风林火山",
+      "title": "風林火山_风林火山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/風林火山_风林火山"
+    },
+    {
+      "entry_id": "風花_风花",
+      "title": "風花_风花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/風花_风花"
+    },
+    {
+      "entry_id": "黄昏のシルエット_黄昏剪影",
+      "title": "黄昏のシルエット_黄昏剪影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/其他语言/日语/黄昏のシルエット_黄昏剪影"
+    }
+  ]
+}

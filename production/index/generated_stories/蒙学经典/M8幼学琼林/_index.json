@@ -1,0 +1,466 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "蒙学经典/M8幼学琼林",
+  "work_name": "M8幼学琼林",
+  "cover": {
+    "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 30,
+  "total_duration_ms": 5625000,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "幼学琼林001-001_第1段_天文篇——混沌初",
+      "title": "幼学琼林001-001_第1段_天文篇——混沌初",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林001-001_第1段_天文篇——混沌初",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 212200,
+      "char_count": 1058,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "幼学琼林002-002_第2段_天文篇——日月五",
+      "title": "幼学琼林002-002_第2段_天文篇——日月五",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林002-002_第2段_天文篇——日月五",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 161600,
+      "char_count": 805,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "幼学琼林003-003_第3段_天文篇——日为众",
+      "title": "幼学琼林003-003_第3段_天文篇——日为众",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林003-003_第3段_天文篇——日为众",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 200200,
+      "char_count": 998,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "幼学琼林004-004_第4段_天文篇——虹名螮",
+      "title": "幼学琼林004-004_第4段_天文篇——虹名螮",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林004-004_第4段_天文篇——虹名螮",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 218200,
+      "char_count": 1088,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "幼学琼林005-005_第5段_天文篇——旋风名",
+      "title": "幼学琼林005-005_第5段_天文篇——旋风名",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林005-005_第5段_天文篇——旋风名",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 125200,
+      "char_count": 623,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "幼学琼林006-006_第6段_天文篇——青女乃",
+      "title": "幼学琼林006-006_第6段_天文篇——青女乃",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林006-006_第6段_天文篇——青女乃",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 278400,
+      "char_count": 1388,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "幼学琼林007-007_第7段_地舆篇——黄帝画",
+      "title": "幼学琼林007-007_第7段_地舆篇——黄帝画",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林007-007_第7段_地舆篇——黄帝画",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 225400,
+      "char_count": 1124,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "幼学琼林008-008_第8段_地舆篇——宇宙之",
+      "title": "幼学琼林008-008_第8段_地舆篇——宇宙之",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林008-008_第8段_地舆篇——宇宙之",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 145400,
+      "char_count": 724,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "幼学琼林009-009_第9段_地舆篇——浙江武",
+      "title": "幼学琼林009-009_第9段_地舆篇——浙江武",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林009-009_第9段_地舆篇——浙江武",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 327800,
+      "char_count": 1634,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "幼学琼林010-010_第10段_地舆篇——河南在",
+      "title": "幼学琼林010-010_第10段_地舆篇——河南在",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林010-010_第10段_地舆篇——河南在",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 148200,
+      "char_count": 738,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "幼学琼林011-011_第11段_地舆篇——四川为",
+      "title": "幼学琼林011-011_第11段_地舆篇——四川为",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林011-011_第11段_地舆篇——四川为",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 152000,
+      "char_count": 757,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "幼学琼林012-012_第12段_地舆篇——东岳泰",
+      "title": "幼学琼林012-012_第12段_地舆篇——东岳泰",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林012-012_第12段_地舆篇——东岳泰",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 354400,
+      "char_count": 1765,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "幼学琼林013-013_第13段_地舆篇——饶州鄱",
+      "title": "幼学琼林013-013_第13段_地舆篇——饶州鄱",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林013-013_第13段_地舆篇——饶州鄱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 134000,
+      "char_count": 668,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "幼学琼林014-014_第14段_地舆篇——金城汤",
+      "title": "幼学琼林014-014_第14段_地舆篇——金城汤",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林014-014_第14段_地舆篇——金城汤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 202200,
+      "char_count": 1008,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "幼学琼林015-015_第15段_岁时篇——爆竹一",
+      "title": "幼学琼林015-015_第15段_岁时篇——爆竹一",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林015-015_第15段_岁时篇——爆竹一",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 182200,
+      "char_count": 908,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "幼学琼林016-016_第16段_岁时篇——履端是",
+      "title": "幼学琼林016-016_第16段_岁时篇——履端是",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林016-016_第16段_岁时篇——履端是",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 111200,
+      "char_count": 553,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "幼学琼林017-017_第17段_岁时篇——元日献",
+      "title": "幼学琼林017-017_第17段_岁时篇——元日献",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林017-017_第17段_岁时篇——元日献",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 133200,
+      "char_count": 663,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "幼学琼林018-018_第18段_岁时篇——二月朔",
+      "title": "幼学琼林018-018_第18段_岁时篇——二月朔",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林018-018_第18段_岁时篇——二月朔",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 153600,
+      "char_count": 765,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "幼学琼林019-019_第19段_岁时篇——冬至百",
+      "title": "幼学琼林019-019_第19段_岁时篇——冬至百",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林019-019_第19段_岁时篇——冬至百",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 197600,
+      "char_count": 985,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "幼学琼林020-020_第20段_岁时篇——寒食节",
+      "title": "幼学琼林020-020_第20段_岁时篇——寒食节",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林020-020_第20段_岁时篇——寒食节",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 232000,
+      "char_count": 1157,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "幼学琼林021-021_第21段_岁时篇——四月乃",
+      "title": "幼学琼林021-021_第21段_岁时篇——四月乃",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林021-021_第21段_岁时篇——四月乃",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 158200,
+      "char_count": 788,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "幼学琼林022-022_第22段_岁时篇——六月六",
+      "title": "幼学琼林022-022_第22段_岁时篇——六月六",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林022-022_第22段_岁时篇——六月六",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 224800,
+      "char_count": 1121,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "幼学琼林023-023_第23段_岁时篇——中秋月",
+      "title": "幼学琼林023-023_第23段_岁时篇——中秋月",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林023-023_第23段_岁时篇——中秋月",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 116600,
+      "char_count": 581,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "幼学琼林024-024_第24段_岁时篇——九月重",
+      "title": "幼学琼林024-024_第24段_岁时篇——九月重",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林024-024_第24段_岁时篇——九月重",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 163000,
+      "char_count": 813,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "幼学琼林025-025_第25段_岁时篇——秦人岁",
+      "title": "幼学琼林025-025_第25段_岁时篇——秦人岁",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林025-025_第25段_岁时篇——秦人岁",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 79400,
+      "char_count": 395,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "幼学琼林026-026_第26段_岁时篇——除夕守",
+      "title": "幼学琼林026-026_第26段_岁时篇——除夕守",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林026-026_第26段_岁时篇——除夕守",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 259000,
+      "char_count": 1292,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "幼学琼林027-027_第27段_朝廷篇——三皇为",
+      "title": "幼学琼林027-027_第27段_朝廷篇——三皇为",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林027-027_第27段_朝廷篇——三皇为",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 244200,
+      "char_count": 1218,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "幼学琼林028-028_第28段_朝廷篇——天子天",
+      "title": "幼学琼林028-028_第28段_朝廷篇——天子天",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林028-028_第28段_朝廷篇——天子天",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 172000,
+      "char_count": 857,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "幼学琼林029-029_第29段_朝廷篇——官天下",
+      "title": "幼学琼林029-029_第29段_朝廷篇——官天下",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林029-029_第29段_朝廷篇——官天下",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 155400,
+      "char_count": 774,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "幼学琼林030-030_第30段_朝廷篇——陛下尊",
+      "title": "幼学琼林030-030_第30段_朝廷篇——陛下尊",
+      "full_path": "蒙学经典/M8幼学琼林/幼学琼林030-030_第30段_朝廷篇——陛下尊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 157400,
+      "char_count": 784,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

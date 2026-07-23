@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "multi_level",
+  "display_as": "nested_category",
+  "path": "瞎编的歌曲/地理知识/国际地理",
+  "name": "国际地理",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/地理知识.webp",
+    "cover_level": "category"
+  },
+  "sub_category_count": 2,
+  "sub_categories": [
+    {
+      "id": "中文歌曲",
+      "name": "中文歌曲",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 194,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/地理知识.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "英文歌曲",
+      "name": "英文歌曲",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 194,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/地理知识.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

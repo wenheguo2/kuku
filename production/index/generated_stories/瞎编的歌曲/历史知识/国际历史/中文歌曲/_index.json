@@ -1,0 +1,575 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/历史知识.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 80,
+  "entries": [
+    {
+      "entry_id": "中文-世界七大奇迹",
+      "title": "中文-世界七大奇迹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-世界七大奇迹"
+    },
+    {
+      "entry_id": "中文-丝绸之路",
+      "title": "中文-丝绸之路",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-丝绸之路"
+    },
+    {
+      "entry_id": "中文-中世纪",
+      "title": "中文-中世纪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-中世纪"
+    },
+    {
+      "entry_id": "中文-互联网",
+      "title": "中文-互联网",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-互联网"
+    },
+    {
+      "entry_id": "中文-亚瑟王",
+      "title": "中文-亚瑟王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-亚瑟王"
+    },
+    {
+      "entry_id": "中文-伊丽莎白一世",
+      "title": "中文-伊丽莎白一世",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-伊丽莎白一世"
+    },
+    {
+      "entry_id": "中文-伊斯兰教",
+      "title": "中文-伊斯兰教",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-伊斯兰教"
+    },
+    {
+      "entry_id": "中文-伽利略",
+      "title": "中文-伽利略",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-伽利略"
+    },
+    {
+      "entry_id": "中文-佛教",
+      "title": "中文-佛教",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-佛教"
+    },
+    {
+      "entry_id": "中文-兵马俑",
+      "title": "中文-兵马俑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-兵马俑"
+    },
+    {
+      "entry_id": "中文-冷战",
+      "title": "中文-冷战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-冷战"
+    },
+    {
+      "entry_id": "中文-凡尔赛宫",
+      "title": "中文-凡尔赛宫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-凡尔赛宫"
+    },
+    {
+      "entry_id": "中文-凯撒",
+      "title": "中文-凯撒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-凯撒"
+    },
+    {
+      "entry_id": "中文-十字军东征",
+      "title": "中文-十字军东征",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-十字军东征"
+    },
+    {
+      "entry_id": "中文-十月革命",
+      "title": "中文-十月革命",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-十月革命"
+    },
+    {
+      "entry_id": "中文-华盛顿",
+      "title": "中文-华盛顿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-华盛顿"
+    },
+    {
+      "entry_id": "中文-印刷术",
+      "title": "中文-印刷术",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印刷术"
+    },
+    {
+      "entry_id": "中文-印加帝国",
+      "title": "中文-印加帝国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印加帝国"
+    },
+    {
+      "entry_id": "中文-印象派",
+      "title": "中文-印象派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印象派"
+    },
+    {
+      "entry_id": "中文-古中国文明",
+      "title": "中文-古中国文明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古中国文明"
+    },
+    {
+      "entry_id": "中文-古印度文明",
+      "title": "中文-古印度文明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古印度文明"
+    },
+    {
+      "entry_id": "中文-古埃及文明",
+      "title": "中文-古埃及文明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古埃及文明"
+    },
+    {
+      "entry_id": "中文-古巴比伦",
+      "title": "中文-古巴比伦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古巴比伦"
+    },
+    {
+      "entry_id": "中文-古希腊文明",
+      "title": "中文-古希腊文明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古希腊文明"
+    },
+    {
+      "entry_id": "中文-古罗马文明",
+      "title": "中文-古罗马文明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古罗马文明"
+    },
+    {
+      "entry_id": "中文-启蒙运动",
+      "title": "中文-启蒙运动",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-启蒙运动"
+    },
+    {
+      "entry_id": "中文-吴哥窟",
+      "title": "中文-吴哥窟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-吴哥窟"
+    },
+    {
+      "entry_id": "中文-哥伦布",
+      "title": "中文-哥伦布",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-哥伦布"
+    },
+    {
+      "entry_id": "中文-哥白尼",
+      "title": "中文-哥白尼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-哥白尼"
+    },
+    {
+      "entry_id": "中文-圣女贞德",
+      "title": "中文-圣女贞德",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-圣女贞德"
+    },
+    {
+      "entry_id": "中文-埃及艳后",
+      "title": "中文-埃及艳后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-埃及艳后"
+    },
+    {
+      "entry_id": "中文-基督教",
+      "title": "中文-基督教",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-基督教"
+    },
+    {
+      "entry_id": "中文-大航海时代",
+      "title": "中文-大航海时代",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-大航海时代"
+    },
+    {
+      "entry_id": "中文-太空竞赛",
+      "title": "中文-太空竞赛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-太空竞赛"
+    },
+    {
+      "entry_id": "中文-宗教改革",
+      "title": "中文-宗教改革",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-宗教改革"
+    },
+    {
+      "entry_id": "中文-居里夫人",
+      "title": "中文-居里夫人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-居里夫人"
+    },
+    {
+      "entry_id": "中文-工业革命",
+      "title": "中文-工业革命",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-工业革命"
+    },
+    {
+      "entry_id": "中文-希腊神话",
+      "title": "中文-希腊神话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-希腊神话"
+    },
+    {
+      "entry_id": "中文-帕特农神庙",
+      "title": "中文-帕特农神庙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-帕特农神庙"
+    },
+    {
+      "entry_id": "中文-成吉思汗",
+      "title": "中文-成吉思汗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-成吉思汗"
+    },
+    {
+      "entry_id": "中文-拜占庭帝国",
+      "title": "中文-拜占庭帝国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-拜占庭帝国"
+    },
+    {
+      "entry_id": "中文-拿破仑",
+      "title": "中文-拿破仑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-拿破仑"
+    },
+    {
+      "entry_id": "中文-指南针",
+      "title": "中文-指南针",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-指南针"
+    },
+    {
+      "entry_id": "中文-文艺复兴",
+      "title": "中文-文艺复兴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-文艺复兴"
+    },
+    {
+      "entry_id": "中文-木乃伊",
+      "title": "中文-木乃伊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-木乃伊"
+    },
+    {
+      "entry_id": "中文-林肯",
+      "title": "中文-林肯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-林肯"
+    },
+    {
+      "entry_id": "中文-汉尼拔",
+      "title": "中文-汉尼拔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-汉尼拔"
+    },
+    {
+      "entry_id": "中文-法国大革命",
+      "title": "中文-法国大革命",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-法国大革命"
+    },
+    {
+      "entry_id": "中文-法老",
+      "title": "中文-法老",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-法老"
+    },
+    {
+      "entry_id": "中文-波斯帝国",
+      "title": "中文-波斯帝国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-波斯帝国"
+    },
+    {
+      "entry_id": "中文-泰姬陵",
+      "title": "中文-泰姬陵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-泰姬陵"
+    },
+    {
+      "entry_id": "中文-滑铁卢战役",
+      "title": "中文-滑铁卢战役",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-滑铁卢战役"
+    },
+    {
+      "entry_id": "中文-爱因斯坦",
+      "title": "中文-爱因斯坦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-爱因斯坦"
+    },
+    {
+      "entry_id": "中文-爵士乐",
+      "title": "中文-爵士乐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-爵士乐"
+    },
+    {
+      "entry_id": "中文-牛顿",
+      "title": "中文-牛顿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-牛顿"
+    },
+    {
+      "entry_id": "中文-特洛伊木马",
+      "title": "中文-特洛伊木马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-特洛伊木马"
+    },
+    {
+      "entry_id": "中文-玛雅文明",
+      "title": "中文-玛雅文明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-玛雅文明"
+    },
+    {
+      "entry_id": "中文-甘地",
+      "title": "中文-甘地",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-甘地"
+    },
+    {
+      "entry_id": "中文-电的发明",
+      "title": "中文-电的发明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-电的发明"
+    },
+    {
+      "entry_id": "中文-登月",
+      "title": "中文-登月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-登月"
+    },
+    {
+      "entry_id": "中文-第一次世界大战",
+      "title": "中文-第一次世界大战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-第一次世界大战"
+    },
+    {
+      "entry_id": "中文-第二次世界大战",
+      "title": "中文-第二次世界大战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-第二次世界大战"
+    },
+    {
+      "entry_id": "中文-维京人",
+      "title": "中文-维京人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-维京人"
+    },
+    {
+      "entry_id": "中文-罗宾汉",
+      "title": "中文-罗宾汉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-罗宾汉"
+    },
+    {
+      "entry_id": "中文-罗马斗兽场",
+      "title": "中文-罗马斗兽场",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-罗马斗兽场"
+    },
+    {
+      "entry_id": "中文-美国内战",
+      "title": "中文-美国内战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-美国内战"
+    },
+    {
+      "entry_id": "中文-美国宪法",
+      "title": "中文-美国宪法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-美国宪法"
+    },
+    {
+      "entry_id": "中文-美国独立战争",
+      "title": "中文-美国独立战争",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-美国独立战争"
+    },
+    {
+      "entry_id": "中文-联合国",
+      "title": "中文-联合国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-联合国"
+    },
+    {
+      "entry_id": "中文-莎士比亚",
+      "title": "中文-莎士比亚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-莎士比亚"
+    },
+    {
+      "entry_id": "中文-莫卧儿帝国",
+      "title": "中文-莫卧儿帝国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-莫卧儿帝国"
+    },
+    {
+      "entry_id": "中文-蒸汽机",
+      "title": "中文-蒸汽机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-蒸汽机"
+    },
+    {
+      "entry_id": "中文-诺贝尔奖",
+      "title": "中文-诺贝尔奖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-诺贝尔奖"
+    },
+    {
+      "entry_id": "中文-达尔文",
+      "title": "中文-达尔文",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-达尔文"
+    },
+    {
+      "entry_id": "中文-金字塔",
+      "title": "中文-金字塔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-金字塔"
+    },
+    {
+      "entry_id": "中文-长城",
+      "title": "中文-长城",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-长城"
+    },
+    {
+      "entry_id": "中文-阿拉伯帝国",
+      "title": "中文-阿拉伯帝国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-阿拉伯帝国"
+    },
+    {
+      "entry_id": "中文-马丁·路德·金",
+      "title": "中文-马丁·路德·金",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-马丁·路德·金"
+    },
+    {
+      "entry_id": "中文-马可·波罗",
+      "title": "中文-马可·波罗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-马可·波罗"
+    },
+    {
+      "entry_id": "中文-黑死病",
+      "title": "中文-黑死病",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-黑死病"
+    }
+  ]
+}

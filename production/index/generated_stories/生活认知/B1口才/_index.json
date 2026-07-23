@@ -1,0 +1,3121 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "生活认知/B1口才",
+  "work_name": "B1口才",
+  "cover": {
+    "cover_image_url": "covers/generated/生活认知/B1口才/B1口才.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 207,
+  "total_duration_ms": 55225750,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "口才000：大声说'到'",
+      "title": "口才000：大声说'到'",
+      "full_path": "生活认知/B1口才/口才000：大声说'到'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 230250,
+      "char_count": 873,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才000：大声说'到'/口才000：大声说'到'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "口才001：说'老师好''再见'",
+      "title": "口才001：说'老师好''再见'",
+      "full_path": "生活认知/B1口才/口才001：说'老师好''再见'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 237000,
+      "char_count": 942,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才001：说'老师好''再见'/口才001：说'老师好''再见'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "口才002：说'我要尿尿'",
+      "title": "口才002：说'我要尿尿'",
+      "full_path": "生活认知/B1口才/口才002：说'我要尿尿'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 227750,
+      "char_count": 910,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才002：说'我要尿尿'/口才002：说'我要尿尿'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "口才003：说'我饿了'",
+      "title": "口才003：说'我饿了'",
+      "full_path": "生活认知/B1口才/口才003：说'我饿了'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 269000,
+      "char_count": 1075,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才003：说'我饿了'/口才003：说'我饿了'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "口才004：说'我要喝水'",
+      "title": "口才004：说'我要喝水'",
+      "full_path": "生活认知/B1口才/口才004：说'我要喝水'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 252500,
+      "char_count": 973,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才004：说'我要喝水'/口才004：说'我要喝水'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "口才005：说'我不舒服'",
+      "title": "口才005：说'我不舒服'",
+      "full_path": "生活认知/B1口才/口才005：说'我不舒服'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 242500,
+      "char_count": 966,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才005：说'我不舒服'/口才005：说'我不舒服'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "口才006：说'我做完了'",
+      "title": "口才006：说'我做完了'",
+      "full_path": "生活认知/B1口才/口才006：说'我做完了'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 279500,
+      "char_count": 1108,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才006：说'我做完了'/口才006：说'我做完了'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "口才007：说'给我看看'",
+      "title": "口才007：说'给我看看'",
+      "full_path": "生活认知/B1口才/口才007：说'给我看看'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 212000,
+      "char_count": 842,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才007：说'给我看看'/口才007：说'给我看看'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "口才008：说'我和你玩'",
+      "title": "口才008：说'我和你玩'",
+      "full_path": "生活认知/B1口才/口才008：说'我和你玩'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 269250,
+      "char_count": 1077,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才008：说'我和你玩'/口才008：说'我和你玩'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "口才009：说'不要''我不喜欢'",
+      "title": "口才009：说'不要''我不喜欢'",
+      "full_path": "生活认知/B1口才/口才009：说'不要''我不喜欢'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 199000,
+      "char_count": 796,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才009：说'不要''我不喜欢'/口才009：说'不要''我不喜欢'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "口才010：说'谢谢''对不起'",
+      "title": "口才010：说'谢谢''对不起'",
+      "full_path": "生活认知/B1口才/口才010：说'谢谢''对不起'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 303000,
+      "char_count": 1209,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才010：说'谢谢''对不起'/口才010：说'谢谢''对不起'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "口才011：说'我想要'",
+      "title": "口才011：说'我想要'",
+      "full_path": "生活认知/B1口才/口才011：说'我想要'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 217750,
+      "char_count": 870,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才011：说'我想要'/口才011：说'我想要'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "口才012：说'我能行'",
+      "title": "口才012：说'我能行'",
+      "full_path": "生活认知/B1口才/口才012：说'我能行'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 323500,
+      "char_count": 1289,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才012：说'我能行'/口才012：说'我能行'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "口才013：问'这是什么'",
+      "title": "口才013：问'这是什么'",
+      "full_path": "生活认知/B1口才/口才013：问'这是什么'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 300000,
+      "char_count": 1200,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才013：问'这是什么'/口才013：问'这是什么'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "口才014：说'我的''你的'",
+      "title": "口才014：说'我的''你的'",
+      "full_path": "生活认知/B1口才/口才014：说'我的''你的'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 223750,
+      "char_count": 886,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才014：说'我的''你的'/口才014：说'我的''你的'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "口才015：说'开心''难过'",
+      "title": "口才015：说'开心''难过'",
+      "full_path": "生活认知/B1口才/口才015：说'开心''难过'",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 233000,
+      "char_count": 932,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才015：说'开心''难过'/口才015：说'开心''难过'.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "口才016：指认身体部位",
+      "title": "口才016：指认身体部位",
+      "full_path": "生活认知/B1口才/口才016：指认身体部位",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 328250,
+      "char_count": 1289,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才016：指认身体部位/口才016：指认身体部位.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "口才017：跟着唱儿歌",
+      "title": "口才017：跟着唱儿歌",
+      "full_path": "生活认知/B1口才/口才017：跟着唱儿歌",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 270750,
+      "char_count": 1083,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才017：跟着唱儿歌/口才017：跟着唱儿歌.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "口才018：说'老师好''再见'(基础巩固)",
+      "title": "口才018：说'老师好''再见'(基础巩固)",
+      "full_path": "生活认知/B1口才/口才018：说'老师好''再见'(基础巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 203000,
+      "char_count": 807,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才018：说'老师好''再见'(基础巩固)/口才018：说'老师好''再见'(基础巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "口才019：说'我能行'(自信巩固)",
+      "title": "口才019：说'我能行'(自信巩固)",
+      "full_path": "生活认知/B1口才/口才019：说'我能行'(自信巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 348500,
+      "char_count": 1364,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才019：说'我能行'(自信巩固)/口才019：说'我能行'(自信巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "口才020：说'我和你玩'(社交巩固)",
+      "title": "口才020：说'我和你玩'(社交巩固)",
+      "full_path": "生活认知/B1口才/口才020：说'我和你玩'(社交巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 216500,
+      "char_count": 863,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才020：说'我和你玩'(社交巩固)/口才020：说'我和你玩'(社交巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "口才021：说'给我看看'(分享巩固)",
+      "title": "口才021：说'给我看看'(分享巩固)",
+      "full_path": "生活认知/B1口才/口才021：说'给我看看'(分享巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 205000,
+      "char_count": 815,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才021：说'给我看看'(分享巩固)/口才021：说'给我看看'(分享巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "口才022：说'不要''我不喜欢'(边界巩固)",
+      "title": "口才022：说'不要''我不喜欢'(边界巩固)",
+      "full_path": "生活认知/B1口才/口才022：说'不要''我不喜欢'(边界巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 255500,
+      "char_count": 1011,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才022：说'不要''我不喜欢'(边界巩固)/口才022：说'不要''我不喜欢'(边界巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "口才023：说'谢谢''对不起'(礼仪巩固)",
+      "title": "口才023：说'谢谢''对不起'(礼仪巩固)",
+      "full_path": "生活认知/B1口才/口才023：说'谢谢''对不起'(礼仪巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 260500,
+      "char_count": 1038,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才023：说'谢谢''对不起'(礼仪巩固)/口才023：说'谢谢''对不起'(礼仪巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "口才024：问'这是什么'(探索巩固)",
+      "title": "口才024：问'这是什么'(探索巩固)",
+      "full_path": "生活认知/B1口才/口才024：问'这是什么'(探索巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 247500,
+      "char_count": 976,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才024：问'这是什么'(探索巩固)/口才024：问'这是什么'(探索巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "口才025：说'我想要'(需求表达巩固)",
+      "title": "口才025：说'我想要'(需求表达巩固)",
+      "full_path": "生活认知/B1口才/口才025：说'我想要'(需求表达巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 269500,
+      "char_count": 1073,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才025：说'我想要'(需求表达巩固)/口才025：说'我想要'(需求表达巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "口才026：说'我要喝水'(需求表达巩固)",
+      "title": "口才026：说'我要喝水'(需求表达巩固)",
+      "full_path": "生活认知/B1口才/口才026：说'我要喝水'(需求表达巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 242000,
+      "char_count": 962,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才026：说'我要喝水'(需求表达巩固)/口才026：说'我要喝水'(需求表达巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "口才027：说'我要尿尿'(需求表达巩固)",
+      "title": "口才027：说'我要尿尿'(需求表达巩固)",
+      "full_path": "生活认知/B1口才/口才027：说'我要尿尿'(需求表达巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 225250,
+      "char_count": 897,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才027：说'我要尿尿'(需求表达巩固)/口才027：说'我要尿尿'(需求表达巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "口才028：说'我饿了'(需求表达巩固)",
+      "title": "口才028：说'我饿了'(需求表达巩固)",
+      "full_path": "生活认知/B1口才/口才028：说'我饿了'(需求表达巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 189750,
+      "char_count": 758,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才028：说'我饿了'(需求表达巩固)/口才028：说'我饿了'(需求表达巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "口才029：说'我不舒服'(需求表达巩固)",
+      "title": "口才029：说'我不舒服'(需求表达巩固)",
+      "full_path": "生活认知/B1口才/口才029：说'我不舒服'(需求表达巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 189750,
+      "char_count": 757,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才029：说'我不舒服'(需求表达巩固)/口才029：说'我不舒服'(需求表达巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "口才030：模仿动物叫声",
+      "title": "口才030：模仿动物叫声",
+      "full_path": "生活认知/B1口才/口才030：模仿动物叫声",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 218500,
+      "char_count": 874,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才030：模仿动物叫声/口才030：模仿动物叫声.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "口才031：描述水果",
+      "title": "口才031：描述水果",
+      "full_path": "生活认知/B1口才/口才031：描述水果",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 283750,
+      "char_count": 1135,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才031：描述水果/口才031：描述水果.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "口才032：描述宠物",
+      "title": "口才032：描述宠物",
+      "full_path": "生活认知/B1口才/口才032：描述宠物",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 251000,
+      "char_count": 1004,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才032：描述宠物/口才032：描述宠物.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "口才033：描述衣服",
+      "title": "口才033：描述衣服",
+      "full_path": "生活认知/B1口才/口才033：描述衣服",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 273000,
+      "char_count": 1092,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才033：描述衣服/口才033：描述衣服.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "口才034：描述玩具",
+      "title": "口才034：描述玩具",
+      "full_path": "生活认知/B1口才/口才034：描述玩具",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 333250,
+      "char_count": 1330,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才034：描述玩具/口才034：描述玩具.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "口才035：说好朋友",
+      "title": "口才035：说好朋友",
+      "full_path": "生活认知/B1口才/口才035：说好朋友",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 228750,
+      "char_count": 910,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才035：说好朋友/口才035：说好朋友.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "口才036：说幼儿园",
+      "title": "口才036：说幼儿园",
+      "full_path": "生活认知/B1口才/口才036：说幼儿园",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 204500,
+      "char_count": 816,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才036：说幼儿园/口才036：说幼儿园.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "口才037：谁的谁的所属表达",
+      "title": "口才037：谁的谁的所属表达",
+      "full_path": "生活认知/B1口才/口才037：谁的谁的所属表达",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 241500,
+      "char_count": 960,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才037：谁的谁的所属表达/口才037：谁的谁的所属表达.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "口才038：提问回答",
+      "title": "口才038：提问回答",
+      "full_path": "生活认知/B1口才/口才038：提问回答",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 191750,
+      "char_count": 761,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才038：提问回答/口才038：提问回答.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "口才039：情绪表达：开心难过愤怒",
+      "title": "口才039：情绪表达：开心难过愤怒",
+      "full_path": "生活认知/B1口才/口才039：情绪表达：开心难过愤怒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 290000,
+      "char_count": 1144,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才039：情绪表达：开心难过愤怒/口才039：情绪表达：开心难过愤怒.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "口才040：描述水果(基础巩固)",
+      "title": "口才040：描述水果(基础巩固)",
+      "full_path": "生活认知/B1口才/口才040：描述水果(基础巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 279500,
+      "char_count": 1115,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才040：描述水果(基础巩固)/口才040：描述水果(基础巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "口才041：描述宠物(基础巩固)",
+      "title": "口才041：描述宠物(基础巩固)",
+      "full_path": "生活认知/B1口才/口才041：描述宠物(基础巩固)",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 200500,
+      "char_count": 802,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才041：描述宠物(基础巩固)/口才041：描述宠物(基础巩固).webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "口才042：5句话讲故事",
+      "title": "口才042：5句话讲故事",
+      "full_path": "生活认知/B1口才/口才042：5句话讲故事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 238250,
+      "char_count": 953,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才042：5句话讲故事/口才042：5句话讲故事.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "口才043：说说今天",
+      "title": "口才043：说说今天",
+      "full_path": "生活认知/B1口才/口才043：说说今天",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 180500,
+      "char_count": 721,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才043：说说今天/口才043：说说今天.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "口才044：描述事件",
+      "title": "口才044：描述事件",
+      "full_path": "生活认知/B1口才/口才044：描述事件",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 243500,
+      "char_count": 974,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才044：描述事件/口才044：描述事件.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "口才045：讲笑话",
+      "title": "口才045：讲笑话",
+      "full_path": "生活认知/B1口才/口才045：讲笑话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 254000,
+      "char_count": 1016,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才045：讲笑话/口才045：讲笑话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "口才046：看图说话",
+      "title": "口才046：看图说话",
+      "full_path": "生活认知/B1口才/口才046：看图说话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 212750,
+      "char_count": 847,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才046：看图说话/口才046：看图说话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "口才047：复述小故事",
+      "title": "口才047：复述小故事",
+      "full_path": "生活认知/B1口才/口才047：复述小故事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 257500,
+      "char_count": 1030,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才047：复述小故事/口才047：复述小故事.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "口才048：讲寓言故事",
+      "title": "口才048：讲寓言故事",
+      "full_path": "生活认知/B1口才/口才048：讲寓言故事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 286500,
+      "char_count": 1146,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才048：讲寓言故事/口才048：讲寓言故事.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "口才049：模仿角色",
+      "title": "口才049：模仿角色",
+      "full_path": "生活认知/B1口才/口才049：模仿角色",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 301250,
+      "char_count": 1201,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才049：模仿角色/口才049：模仿角色.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "口才050：说绕口令",
+      "title": "口才050：说绕口令",
+      "full_path": "生活认知/B1口才/口才050：说绕口令",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 264250,
+      "char_count": 1053,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才050：说绕口令/口才050：说绕口令.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "口才051：即兴续讲",
+      "title": "口才051：即兴续讲",
+      "full_path": "生活认知/B1口才/口才051：即兴续讲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 271500,
+      "char_count": 1076,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才051：即兴续讲/口才051：即兴续讲.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "口才052：清楚表达理由",
+      "title": "口才052：清楚表达理由",
+      "full_path": "生活认知/B1口才/口才052：清楚表达理由",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 204750,
+      "char_count": 819,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才052：清楚表达理由/口才052：清楚表达理由.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "口才053：向老师求助：正确寻求帮助",
+      "title": "口才053：向老师求助：正确寻求帮助",
+      "full_path": "生活认知/B1口才/口才053：向老师求助：正确寻求帮助",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 199000,
+      "char_count": 793,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才053：向老师求助：正确寻求帮助/口才053：向老师求助：正确寻求帮助.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "口才054：问路指路：清晰表达方向",
+      "title": "口才054：问路指路：清晰表达方向",
+      "full_path": "生活认知/B1口才/口才054：问路指路：清晰表达方向",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 268500,
+      "char_count": 1074,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才054：问路指路：清晰表达方向/口才054：问路指路：清晰表达方向.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "口才055：紧急求助：清楚说情况",
+      "title": "口才055：紧急求助：清楚说情况",
+      "full_path": "生活认知/B1口才/口才055：紧急求助：清楚说情况",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 189500,
+      "char_count": 753,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才055：紧急求助：清楚说情况/口才055：紧急求助：清楚说情况.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "口才056：与陌生人说话：安全社交",
+      "title": "口才056：与陌生人说话：安全社交",
+      "full_path": "生活认知/B1口才/口才056：与陌生人说话：安全社交",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 249250,
+      "char_count": 997,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才056：与陌生人说话：安全社交/口才056：与陌生人说话：安全社交.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "口才057：电话沟通：打电话的礼仪",
+      "title": "口才057：电话沟通：打电话的礼仪",
+      "full_path": "生活认知/B1口才/口才057：电话沟通：打电话的礼仪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 233750,
+      "char_count": 935,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才057：电话沟通：打电话的礼仪/口才057：电话沟通：打电话的礼仪.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "口才058：网络沟通：网上怎么说",
+      "title": "口才058：网络沟通：网上怎么说",
+      "full_path": "生活认知/B1口才/口才058：网络沟通：网上怎么说",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 201500,
+      "char_count": 806,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才058：网络沟通：网上怎么说/口才058：网络沟通：网上怎么说.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "口才059：接待客人：小主人礼仪",
+      "title": "口才059：接待客人：小主人礼仪",
+      "full_path": "生活认知/B1口才/口才059：接待客人：小主人礼仪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 241750,
+      "char_count": 963,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才059：接待客人：小主人礼仪/口才059：接待客人：小主人礼仪.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "口才060：赞美他人：真诚夸赞的艺术",
+      "title": "口才060：赞美他人：真诚夸赞的艺术",
+      "full_path": "生活认知/B1口才/口才060：赞美他人：真诚夸赞的艺术",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 251250,
+      "char_count": 1005,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才060：赞美他人：真诚夸赞的艺术/口才060：赞美他人：真诚夸赞的艺术.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "口才061：道歉技巧：真诚说对不起",
+      "title": "口才061：道歉技巧：真诚说对不起",
+      "full_path": "生活认知/B1口才/口才061：道歉技巧：真诚说对不起",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 236500,
+      "char_count": 946,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才061：道歉技巧：真诚说对不起/口才061：道歉技巧：真诚说对不起.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "口才062：安慰朋友：温暖的话语",
+      "title": "口才062：安慰朋友：温暖的话语",
+      "full_path": "生活认知/B1口才/口才062：安慰朋友：温暖的话语",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 240000,
+      "char_count": 960,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才062：安慰朋友：温暖的话语/口才062：安慰朋友：温暖的话语.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "口才063：拒绝的艺术：有礼貌地说不",
+      "title": "口才063：拒绝的艺术：有礼貌地说不",
+      "full_path": "生活认知/B1口才/口才063：拒绝的艺术：有礼貌地说不",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 268750,
+      "char_count": 1074,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才063：拒绝的艺术：有礼貌地说不/口才063：拒绝的艺术：有礼貌地说不.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "口才064：提出建议：让别人接受的好方法",
+      "title": "口才064：提出建议：让别人接受的好方法",
+      "full_path": "生活认知/B1口才/口才064：提出建议：让别人接受的好方法",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 251500,
+      "char_count": 1005,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才064：提出建议：让别人接受的好方法/口才064：提出建议：让别人接受的好方法.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "口才065：表达不同意见：尊重地说不",
+      "title": "口才065：表达不同意见：尊重地说不",
+      "full_path": "生活认知/B1口才/口才065：表达不同意见：尊重地说不",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 240000,
+      "char_count": 959,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才065：表达不同意见：尊重地说不/口才065：表达不同意见：尊重地说不.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "口才066：说服父母：有理有据说服爸妈",
+      "title": "口才066：说服父母：有理有据说服爸妈",
+      "full_path": "生活认知/B1口才/口才066：说服父母：有理有据说服爸妈",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 230000,
+      "char_count": 918,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才066：说服父母：有理有据说服爸妈/口才066：说服父母：有理有据说服爸妈.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "口才067：和同学合作：一起完成任务",
+      "title": "口才067：和同学合作：一起完成任务",
+      "full_path": "生活认知/B1口才/口才067：和同学合作：一起完成任务",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 241750,
+      "char_count": 967,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才067：和同学合作：一起完成任务/口才067：和同学合作：一起完成任务.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "口才068：解决争执：吵架了怎么办",
+      "title": "口才068：解决争执：吵架了怎么办",
+      "full_path": "生活认知/B1口才/口才068：解决争执：吵架了怎么办",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 199750,
+      "char_count": 797,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才068：解决争执：吵架了怎么办/口才068：解决争执：吵架了怎么办.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "口才069：家庭会议：表达自己想法",
+      "title": "口才069：家庭会议：表达自己想法",
+      "full_path": "生活认知/B1口才/口才069：家庭会议：表达自己想法",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 246250,
+      "char_count": 977,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才069：家庭会议：表达自己想法/口才069：家庭会议：表达自己想法.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "口才070：亲子对话：和父母好好说",
+      "title": "口才070：亲子对话：和父母好好说",
+      "full_path": "生活认知/B1口才/口才070：亲子对话：和父母好好说",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 225000,
+      "char_count": 899,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才070：亲子对话：和父母好好说/口才070：亲子对话：和父母好好说.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "口才071：师生对话：和老师交流",
+      "title": "口才071：师生对话：和老师交流",
+      "full_path": "生活认知/B1口才/口才071：师生对话：和老师交流",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 266500,
+      "char_count": 1066,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才071：师生对话：和老师交流/口才071：师生对话：和老师交流.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "口才072：同伴对话：和同学深入聊",
+      "title": "口才072：同伴对话：和同学深入聊",
+      "full_path": "生活认知/B1口才/口才072：同伴对话：和同学深入聊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 201500,
+      "char_count": 793,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才072：同伴对话：和同学深入聊/口才072：同伴对话：和同学深入聊.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "口才073：声音控制",
+      "title": "口才073：声音控制",
+      "full_path": "生活认知/B1口才/口才073：声音控制",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 246250,
+      "char_count": 970,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才073：声音控制/口才073：声音控制.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "口才074：声音模仿：像不像",
+      "title": "口才074：声音模仿：像不像",
+      "full_path": "生活认知/B1口才/口才074：声音模仿：像不像",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 218750,
+      "char_count": 875,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才074：声音模仿：像不像/口才074：声音模仿：像不像.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "口才075：声音控制进阶：高低快慢",
+      "title": "口才075：声音控制进阶：高低快慢",
+      "full_path": "生活认知/B1口才/口才075：声音控制进阶：高低快慢",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 279500,
+      "char_count": 1118,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才075：声音控制进阶：高低快慢/口才075：声音控制进阶：高低快慢.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "口才076：演讲结构：开头中间结尾",
+      "title": "口才076：演讲结构：开头中间结尾",
+      "full_path": "生活认知/B1口才/口才076：演讲结构：开头中间结尾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 376750,
+      "char_count": 1507,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才076：演讲结构：开头中间结尾/口才076：演讲结构：开头中间结尾.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "口才077：开场白技巧：抓住注意力",
+      "title": "口才077：开场白技巧：抓住注意力",
+      "full_path": "生活认知/B1口才/口才077：开场白技巧：抓住注意力",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 222750,
+      "char_count": 891,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才077：开场白技巧：抓住注意力/口才077：开场白技巧：抓住注意力.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "口才078：结尾技巧：让人记住你",
+      "title": "口才078：结尾技巧：让人记住你",
+      "full_path": "生活认知/B1口才/口才078：结尾技巧：让人记住你",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 259250,
+      "char_count": 1037,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才078：结尾技巧：让人记住你/口才078：结尾技巧：让人记住你.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "口才079：肢体语言：身体也会说话",
+      "title": "口才079：肢体语言：身体也会说话",
+      "full_path": "生活认知/B1口才/口才079：肢体语言：身体也会说话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 309000,
+      "char_count": 1236,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才079：肢体语言：身体也会说话/口才079：肢体语言：身体也会说话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 81,
+      "chapter_id": "口才080：眼神交流：用眼睛说话",
+      "title": "口才080：眼神交流：用眼睛说话",
+      "full_path": "生活认知/B1口才/口才080：眼神交流：用眼睛说话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 194750,
+      "char_count": 779,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才080：眼神交流：用眼睛说话/口才080：眼神交流：用眼睛说话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 82,
+      "chapter_id": "口才081：三分钟演讲",
+      "title": "口才081：三分钟演讲",
+      "full_path": "生活认知/B1口才/口才081：三分钟演讲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 221000,
+      "char_count": 884,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才081：三分钟演讲/口才081：三分钟演讲.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 83,
+      "chapter_id": "口才082：用故事演讲：讲个好故事",
+      "title": "口才082：用故事演讲：讲个好故事",
+      "full_path": "生活认知/B1口才/口才082：用故事演讲：讲个好故事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 623000,
+      "char_count": 2489,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才082：用故事演讲：讲个好故事/口才082：用故事演讲：讲个好故事.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 84,
+      "chapter_id": "口才083：数据演讲：让数字说话",
+      "title": "口才083：数据演讲：让数字说话",
+      "full_path": "生活认知/B1口才/口才083：数据演讲：让数字说话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 287000,
+      "char_count": 1144,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才083：数据演讲：让数字说话/口才083：数据演讲：让数字说话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 85,
+      "chapter_id": "口才084：幽默演讲：让大家笑一笑",
+      "title": "口才084：幽默演讲：让大家笑一笑",
+      "full_path": "生活认知/B1口才/口才084：幽默演讲：让大家笑一笑",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 293750,
+      "char_count": 1175,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才084：幽默演讲：让大家笑一笑/口才084：幽默演讲：让大家笑一笑.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 86,
+      "chapter_id": "口才085：励志演讲：鼓舞人心",
+      "title": "口才085：励志演讲：鼓舞人心",
+      "full_path": "生活认知/B1口才/口才085：励志演讲：鼓舞人心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 315500,
+      "char_count": 1262,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才085：励志演讲：鼓舞人心/口才085：励志演讲：鼓舞人心.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 87,
+      "chapter_id": "口才086：感恩演讲：表达感谢",
+      "title": "口才086：感恩演讲：表达感谢",
+      "full_path": "生活认知/B1口才/口才086：感恩演讲：表达感谢",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 232500,
+      "char_count": 926,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才086：感恩演讲：表达感谢/口才086：感恩演讲：表达感谢.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 88,
+      "chapter_id": "口才087：情感演讲",
+      "title": "口才087：情感演讲",
+      "full_path": "生活认知/B1口才/口才087：情感演讲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 370000,
+      "char_count": 1474,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才087：情感演讲/口才087：情感演讲.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 89,
+      "chapter_id": "口才088：结构化表达",
+      "title": "口才088：结构化表达",
+      "full_path": "生活认知/B1口才/口才088：结构化表达",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 301250,
+      "char_count": 1205,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才088：结构化表达/口才088：结构化表达.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 90,
+      "chapter_id": "口才089：修辞手法",
+      "title": "口才089：修辞手法",
+      "full_path": "生活认知/B1口才/口才089：修辞手法",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 255500,
+      "char_count": 1022,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才089：修辞手法/口才089：修辞手法.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 91,
+      "chapter_id": "口才090：即兴发言：临时被点名",
+      "title": "口才090：即兴发言：临时被点名",
+      "full_path": "生活认知/B1口才/口才090：即兴发言：临时被点名",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 307250,
+      "char_count": 1228,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才090：即兴发言：临时被点名/口才090：即兴发言：临时被点名.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 92,
+      "chapter_id": "口才091：即兴演讲",
+      "title": "口才091：即兴演讲",
+      "full_path": "生活认知/B1口才/口才091：即兴演讲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 278750,
+      "char_count": 1115,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才091：即兴演讲/口才091：即兴演讲.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 93,
+      "chapter_id": "口才092：推销一件物品",
+      "title": "口才092：推销一件物品",
+      "full_path": "生活认知/B1口才/口才092：推销一件物品",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 236750,
+      "char_count": 945,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才092：推销一件物品/口才092：推销一件物品.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 94,
+      "chapter_id": "口才093：改编结局",
+      "title": "口才093：改编结局",
+      "full_path": "生活认知/B1口才/口才093：改编结局",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 345750,
+      "char_count": 1381,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才093：改编结局/口才093：改编结局.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 95,
+      "chapter_id": "口才094：分角色朗读",
+      "title": "口才094：分角色朗读",
+      "full_path": "生活认知/B1口才/口才094：分角色朗读",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 213000,
+      "char_count": 852,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才094：分角色朗读/口才094：分角色朗读.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 96,
+      "chapter_id": "口才095：朗诵技巧：有感情地读",
+      "title": "口才095：朗诵技巧：有感情地读",
+      "full_path": "生活认知/B1口才/口才095：朗诵技巧：有感情地读",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 262250,
+      "char_count": 1047,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才095：朗诵技巧：有感情地读/口才095：朗诵技巧：有感情地读.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 97,
+      "chapter_id": "口才096：班级竞选：我要当班干部",
+      "title": "口才096：班级竞选：我要当班干部",
+      "full_path": "生活认知/B1口才/口才096：班级竞选：我要当班干部",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 277250,
+      "char_count": 1104,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才096：班级竞选：我要当班干部/口才096：班级竞选：我要当班干部.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 98,
+      "chapter_id": "口才097：国旗下的讲话：庄严演讲",
+      "title": "口才097：国旗下的讲话：庄严演讲",
+      "full_path": "生活认知/B1口才/口才097：国旗下的讲话：庄严演讲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 309000,
+      "char_count": 1236,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才097：国旗下的讲话：庄严演讲/口才097：国旗下的讲话：庄严演讲.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 99,
+      "chapter_id": "口才098：活动主持：当好小主持人",
+      "title": "口才098：活动主持：当好小主持人",
+      "full_path": "生活认知/B1口才/口才098：活动主持：当好小主持人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 341750,
+      "char_count": 1363,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才098：活动主持：当好小主持人/口才098：活动主持：当好小主持人.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 100,
+      "chapter_id": "口才099：模拟主持",
+      "title": "口才099：模拟主持",
+      "full_path": "生活认知/B1口才/口才099：模拟主持",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 381000,
+      "char_count": 1523,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才099：模拟主持/口才099：模拟主持.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 101,
+      "chapter_id": "口才100：采访技巧：我是小记者",
+      "title": "口才100：采访技巧：我是小记者",
+      "full_path": "生活认知/B1口才/口才100：采访技巧：我是小记者",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 316250,
+      "char_count": 1260,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才100：采访技巧：我是小记者/口才100：采访技巧：我是小记者.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 102,
+      "chapter_id": "口才101：导游解说：带大家参观",
+      "title": "口才101：导游解说：带大家参观",
+      "full_path": "生活认知/B1口才/口才101：导游解说：带大家参观",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 269750,
+      "char_count": 1079,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才101：导游解说：带大家参观/口才101：导游解说：带大家参观.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 103,
+      "chapter_id": "口才102：产品发布：介绍我的发明",
+      "title": "口才102：产品发布：介绍我的发明",
+      "full_path": "生活认知/B1口才/口才102：产品发布：介绍我的发明",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 306500,
+      "char_count": 1226,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才102：产品发布：介绍我的发明/口才102：产品发布：介绍我的发明.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 104,
+      "chapter_id": "口才103：项目汇报：展示成果",
+      "title": "口才103：项目汇报：展示成果",
+      "full_path": "生活认知/B1口才/口才103：项目汇报：展示成果",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 248500,
+      "char_count": 994,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才103：项目汇报：展示成果/口才103：项目汇报：展示成果.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 105,
+      "chapter_id": "口才104：主题演讲：我的梦想",
+      "title": "口才104：主题演讲：我的梦想",
+      "full_path": "生活认知/B1口才/口才104：主题演讲：我的梦想",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 236000,
+      "char_count": 941,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才104：主题演讲：我的梦想/口才104：主题演讲：我的梦想.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 106,
+      "chapter_id": "口才105：科学演讲：用通俗的话讲科学",
+      "title": "口才105：科学演讲：用通俗的话讲科学",
+      "full_path": "生活认知/B1口才/口才105：科学演讲：用通俗的话讲科学",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 281000,
+      "char_count": 1119,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才105：科学演讲：用通俗的话讲科学/口才105：科学演讲：用通俗的话讲科学.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 107,
+      "chapter_id": "口才106：历史演讲：穿越时空的对话",
+      "title": "口才106：历史演讲：穿越时空的对话",
+      "full_path": "生活认知/B1口才/口才106：历史演讲：穿越时空的对话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 318000,
+      "char_count": 1268,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才106：历史演讲：穿越时空的对话/口才106：历史演讲：穿越时空的对话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 108,
+      "chapter_id": "口才107：社会议题演讲：关注社会",
+      "title": "口才107：社会议题演讲：关注社会",
+      "full_path": "生活认知/B1口才/口才107：社会议题演讲：关注社会",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 248000,
+      "char_count": 988,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才107：社会议题演讲：关注社会/口才107：社会议题演讲：关注社会.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 109,
+      "chapter_id": "口才108：文化演讲：传承文化",
+      "title": "口才108：文化演讲：传承文化",
+      "full_path": "生活认知/B1口才/口才108：文化演讲：传承文化",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 343000,
+      "char_count": 1372,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才108：文化演讲：传承文化/口才108：文化演讲：传承文化.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 110,
+      "chapter_id": "口才109：艺术演讲：审美表达",
+      "title": "口才109：艺术演讲：审美表达",
+      "full_path": "生活认知/B1口才/口才109：艺术演讲：审美表达",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 288500,
+      "char_count": 1154,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才109：艺术演讲：审美表达/口才109：艺术演讲：审美表达.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 111,
+      "chapter_id": "口才110：技术演讲：新科技介绍",
+      "title": "口才110：技术演讲：新科技介绍",
+      "full_path": "生活认知/B1口才/口才110：技术演讲：新科技介绍",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 325500,
+      "char_count": 1302,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才110：技术演讲：新科技介绍/口才110：技术演讲：新科技介绍.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 112,
+      "chapter_id": "口才111：教育演讲：学习的意义",
+      "title": "口才111：教育演讲：学习的意义",
+      "full_path": "生活认知/B1口才/口才111：教育演讲：学习的意义",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 271250,
+      "char_count": 1085,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才111：教育演讲：学习的意义/口才111：教育演讲：学习的意义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 113,
+      "chapter_id": "口才112：环保演讲：保护地球",
+      "title": "口才112：环保演讲：保护地球",
+      "full_path": "生活认知/B1口才/口才112：环保演讲：保护地球",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 326000,
+      "char_count": 1301,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才112：环保演讲：保护地球/口才112：环保演讲：保护地球.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 114,
+      "chapter_id": "口才113：和平演讲：世界一家",
+      "title": "口才113：和平演讲：世界一家",
+      "full_path": "生活认知/B1口才/口才113：和平演讲：世界一家",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 302750,
+      "char_count": 1211,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才113：和平演讲：世界一家/口才113：和平演讲：世界一家.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 115,
+      "chapter_id": "口才114：公益演讲：为爱发声",
+      "title": "口才114：公益演讲：为爱发声",
+      "full_path": "生活认知/B1口才/口才114：公益演讲：为爱发声",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 280750,
+      "char_count": 1123,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才114：公益演讲：为爱发声/口才114：公益演讲：为爱发声.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 116,
+      "chapter_id": "口才115：事实vs观点：客观还是主观",
+      "title": "口才115：事实vs观点：客观还是主观",
+      "full_path": "生活认知/B1口才/口才115：事实vs观点：客观还是主观",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 203250,
+      "char_count": 809,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才115：事实vs观点：客观还是主观/口才115：事实vs观点：客观还是主观.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 117,
+      "chapter_id": "口才116：辩论入门",
+      "title": "口才116：辩论入门",
+      "full_path": "生活认知/B1口才/口才116：辩论入门",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 229250,
+      "char_count": 911,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才116：辩论入门/口才116：辩论入门.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 118,
+      "chapter_id": "口才117：反驳观点",
+      "title": "口才117：反驳观点",
+      "full_path": "生活认知/B1口才/口才117：反驳观点",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 252250,
+      "char_count": 1006,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才117：反驳观点/口才117：反驳观点.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 119,
+      "chapter_id": "口才118：数据论证：用数字说话",
+      "title": "口才118：数据论证：用数字说话",
+      "full_path": "生活认知/B1口才/口才118：数据论证：用数字说话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 199750,
+      "char_count": 799,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才118：数据论证：用数字说话/口才118：数据论证：用数字说话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 120,
+      "chapter_id": "口才119：类比论证：打比方说服",
+      "title": "口才119：类比论证：打比方说服",
+      "full_path": "生活认知/B1口才/口才119：类比论证：打比方说服",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 289500,
+      "char_count": 1158,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才119：类比论证：打比方说服/口才119：类比论证：打比方说服.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 121,
+      "chapter_id": "口才120：归谬法：推出不合理",
+      "title": "口才120：归谬法：推出不合理",
+      "full_path": "生活认知/B1口才/口才120：归谬法：推出不合理",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 274500,
+      "char_count": 1090,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才120：归谬法：推出不合理/口才120：归谬法：推出不合理.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 122,
+      "chapter_id": "口才121：三段论：大前提小前提结论",
+      "title": "口才121：三段论：大前提小前提结论",
+      "full_path": "生活认知/B1口才/口才121：三段论：大前提小前提结论",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 290250,
+      "char_count": 1161,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才121：三段论：大前提小前提结论/口才121：三段论：大前提小前提结论.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 123,
+      "chapter_id": "口才122：逻辑谬误识别：找出漏洞",
+      "title": "口才122：逻辑谬误识别：找出漏洞",
+      "full_path": "生活认知/B1口才/口才122：逻辑谬误识别：找出漏洞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 231750,
+      "char_count": 927,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才122：逻辑谬误识别：找出漏洞/口才122：逻辑谬误识别：找出漏洞.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 124,
+      "chapter_id": "口才123：情感诉求：打动人心",
+      "title": "口才123：情感诉求：打动人心",
+      "full_path": "生活认知/B1口才/口才123：情感诉求：打动人心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 308750,
+      "char_count": 1233,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才123：情感诉求：打动人心/口才123：情感诉求：打动人心.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 125,
+      "chapter_id": "口才124：立论：亮出观点",
+      "title": "口才124：立论：亮出观点",
+      "full_path": "生活认知/B1口才/口才124：立论：亮出观点",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 232250,
+      "char_count": 929,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才124：立论：亮出观点/口才124：立论：亮出观点.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 126,
+      "chapter_id": "口才125：驳论：反驳对方",
+      "title": "口才125：驳论：反驳对方",
+      "full_path": "生活认知/B1口才/口才125：驳论：反驳对方",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 254500,
+      "char_count": 1017,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才125：驳论：反驳对方/口才125：驳论：反驳对方.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 127,
+      "chapter_id": "口才126：价值辩论：应该不应该",
+      "title": "口才126：价值辩论：应该不应该",
+      "full_path": "生活认知/B1口才/口才126：价值辩论：应该不应该",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 145500,
+      "char_count": 582,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才126：价值辩论：应该不应该/口才126：价值辩论：应该不应该.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 128,
+      "chapter_id": "口才127：政策辩论：做不做",
+      "title": "口才127：政策辩论：做不做",
+      "full_path": "生活认知/B1口才/口才127：政策辩论：做不做",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 319750,
+      "char_count": 1279,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才127：政策辩论：做不做/口才127：政策辩论：做不做.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 129,
+      "chapter_id": "口才128：政策辩论：该不该这样做",
+      "title": "口才128：政策辩论：该不该这样做",
+      "full_path": "生活认知/B1口才/口才128：政策辩论：该不该这样做",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 299250,
+      "char_count": 1197,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才128：政策辩论：该不该这样做/口才128：政策辩论：该不该这样做.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 130,
+      "chapter_id": "口才129：比较型辩题：哪个更好",
+      "title": "口才129：比较型辩题：哪个更好",
+      "full_path": "生活认知/B1口才/口才129：比较型辩题：哪个更好",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 227000,
+      "char_count": 908,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才129：比较型辩题：哪个更好/口才129：比较型辩题：哪个更好.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 131,
+      "chapter_id": "口才130：定义型辩题：先定义再讨论",
+      "title": "口才130：定义型辩题：先定义再讨论",
+      "full_path": "生活认知/B1口才/口才130：定义型辩题：先定义再讨论",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 272000,
+      "char_count": 1088,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才130：定义型辩题：先定义再讨论/口才130：定义型辩题：先定义再讨论.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 132,
+      "chapter_id": "口才131：事实型辩题：是不是真的",
+      "title": "口才131：事实型辩题：是不是真的",
+      "full_path": "生活认知/B1口才/口才131：事实型辩题：是不是真的",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 231750,
+      "char_count": 925,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才131：事实型辩题：是不是真的/口才131：事实型辩题：是不是真的.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 133,
+      "chapter_id": "口才132：道德论证：对和错",
+      "title": "口才132：道德论证：对和错",
+      "full_path": "生活认知/B1口才/口才132：道德论证：对和错",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 284000,
+      "char_count": 1132,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才132：道德论证：对和错/口才132：道德论证：对和错.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 134,
+      "chapter_id": "口才133：自由辩论：快速反应",
+      "title": "口才133：自由辩论：快速反应",
+      "full_path": "生活认知/B1口才/口才133：自由辩论：快速反应",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 330750,
+      "char_count": 1321,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才133：自由辩论：快速反应/口才133：自由辩论：快速反应.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 135,
+      "chapter_id": "口才134：结辩：总结陈词",
+      "title": "口才134：结辩：总结陈词",
+      "full_path": "生活认知/B1口才/口才134：结辩：总结陈词",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 246500,
+      "char_count": 980,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才134：结辩：总结陈词/口才134：结辩：总结陈词.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 136,
+      "chapter_id": "口才135：说服技巧",
+      "title": "口才135：说服技巧",
+      "full_path": "生活认知/B1口才/口才135：说服技巧",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 265000,
+      "char_count": 1060,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才135：说服技巧/口才135：说服技巧.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 137,
+      "chapter_id": "口才136：辩论赛实战：完整辩论",
+      "title": "口才136：辩论赛实战：完整辩论",
+      "full_path": "生活认知/B1口才/口才136：辩论赛实战：完整辩论",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 319500,
+      "char_count": 1278,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才136：辩论赛实战：完整辩论/口才136：辩论赛实战：完整辩论.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 138,
+      "chapter_id": "口才137：辩论裁判：怎么打分",
+      "title": "口才137：辩论裁判：怎么打分",
+      "full_path": "生活认知/B1口才/口才137：辩论裁判：怎么打分",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 215500,
+      "char_count": 862,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才137：辩论裁判：怎么打分/口才137：辩论裁判：怎么打分.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 139,
+      "chapter_id": "口才138：辩论赛裁判进阶：专业点评",
+      "title": "口才138：辩论赛裁判进阶：专业点评",
+      "full_path": "生活认知/B1口才/口才138：辩论赛裁判进阶：专业点评",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 358750,
+      "char_count": 1435,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才138：辩论赛裁判进阶：专业点评/口才138：辩论赛裁判进阶：专业点评.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 140,
+      "chapter_id": "口才139：配音秀：给动画配音",
+      "title": "口才139：配音秀：给动画配音",
+      "full_path": "生活认知/B1口才/口才139：配音秀：给动画配音",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 374250,
+      "char_count": 1497,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才139：配音秀：给动画配音/口才139：配音秀：给动画配音.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 141,
+      "chapter_id": "口才140：广告配音：声音的魔力",
+      "title": "口才140：广告配音：声音的魔力",
+      "full_path": "生活认知/B1口才/口才140：广告配音：声音的魔力",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 219000,
+      "char_count": 874,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才140：广告配音：声音的魔力/口才140：广告配音：声音的魔力.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 142,
+      "chapter_id": "口才141：广播剧：声音演故事",
+      "title": "口才141：广播剧：声音演故事",
+      "full_path": "生活认知/B1口才/口才141：广播剧：声音演故事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 298000,
+      "char_count": 1192,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才141：广播剧：声音演故事/口才141：广播剧：声音演故事.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 143,
+      "chapter_id": "口才142：故事表演：一人分饰多角",
+      "title": "口才142：故事表演：一人分饰多角",
+      "full_path": "生活认知/B1口才/口才142：故事表演：一人分饰多角",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 266250,
+      "char_count": 1065,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才142：故事表演：一人分饰多角/口才142：故事表演：一人分饰多角.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 144,
+      "chapter_id": "口才143：角色独白：说出心里话",
+      "title": "口才143：角色独白：说出心里话",
+      "full_path": "生活认知/B1口才/口才143：角色独白：说出心里话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 282500,
+      "char_count": 1122,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才143：角色独白：说出心里话/口才143：角色独白：说出心里话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 145,
+      "chapter_id": "口才144：角色扮演进阶：沉浸式表演",
+      "title": "口才144：角色扮演进阶：沉浸式表演",
+      "full_path": "生活认知/B1口才/口才144：角色扮演进阶：沉浸式表演",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 251500,
+      "char_count": 1002,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才144：角色扮演进阶：沉浸式表演/口才144：角色扮演进阶：沉浸式表演.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 146,
+      "chapter_id": "口才145：即兴表演：没有剧本",
+      "title": "口才145：即兴表演：没有剧本",
+      "full_path": "生活认知/B1口才/口才145：即兴表演：没有剧本",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 242750,
+      "char_count": 971,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才145：即兴表演：没有剧本/口才145：即兴表演：没有剧本.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 147,
+      "chapter_id": "口才146：默剧表演：不说话的表达",
+      "title": "口才146：默剧表演：不说话的表达",
+      "full_path": "生活认知/B1口才/口才146：默剧表演：不说话的表达",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 306000,
+      "char_count": 1224,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才146：默剧表演：不说话的表达/口才146：默剧表演：不说话的表达.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 148,
+      "chapter_id": "口才147：口技模仿：用嘴巴模拟声音",
+      "title": "口才147：口技模仿：用嘴巴模拟声音",
+      "full_path": "生活认知/B1口才/口才147：口技模仿：用嘴巴模拟声音",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 230250,
+      "char_count": 921,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才147：口技模仿：用嘴巴模拟声音/口才147：口技模仿：用嘴巴模拟声音.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 149,
+      "chapter_id": "口才148：相声基本功：说学逗唱",
+      "title": "口才148：相声基本功：说学逗唱",
+      "full_path": "生活认知/B1口才/口才148：相声基本功：说学逗唱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 205000,
+      "char_count": 808,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才148：相声基本功：说学逗唱/口才148：相声基本功：说学逗唱.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 150,
+      "chapter_id": "口才149：语言节奏：快板说唱",
+      "title": "口才149：语言节奏：快板说唱",
+      "full_path": "生活认知/B1口才/口才149：语言节奏：快板说唱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 268000,
+      "char_count": 1071,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才149：语言节奏：快板说唱/口才149：语言节奏：快板说唱.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 151,
+      "chapter_id": "口才150：小品表演：大家一起演",
+      "title": "口才150：小品表演：大家一起演",
+      "full_path": "生活认知/B1口才/口才150：小品表演：大家一起演",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 386750,
+      "char_count": 1547,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才150：小品表演：大家一起演/口才150：小品表演：大家一起演.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 152,
+      "chapter_id": "口才151：舞台剧：完整的表演",
+      "title": "口才151：舞台剧：完整的表演",
+      "full_path": "生活认知/B1口才/口才151：舞台剧：完整的表演",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 228500,
+      "char_count": 914,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才151：舞台剧：完整的表演/口才151：舞台剧：完整的表演.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 153,
+      "chapter_id": "口才152：新闻播报：我是播音员",
+      "title": "口才152：新闻播报：我是播音员",
+      "full_path": "生活认知/B1口才/口才152：新闻播报：我是播音员",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 305750,
+      "char_count": 1222,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才152：新闻播报：我是播音员/口才152：新闻播报：我是播音员.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 154,
+      "chapter_id": "口才153：天气预报：有趣地报天气",
+      "title": "口才153：天气预报：有趣地报天气",
+      "full_path": "生活认知/B1口才/口才153：天气预报：有趣地报天气",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 262750,
+      "char_count": 1050,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才153：天气预报：有趣地报天气/口才153：天气预报：有趣地报天气.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 155,
+      "chapter_id": "口才154：体育解说：激情解说比赛",
+      "title": "口才154：体育解说：激情解说比赛",
+      "full_path": "生活认知/B1口才/口才154：体育解说：激情解说比赛",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 402250,
+      "char_count": 1609,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才154：体育解说：激情解说比赛/口才154：体育解说：激情解说比赛.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 156,
+      "chapter_id": "口才155：电竞解说：激情游戏解说",
+      "title": "口才155：电竞解说：激情游戏解说",
+      "full_path": "生活认知/B1口才/口才155：电竞解说：激情游戏解说",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 209000,
+      "char_count": 836,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才155：电竞解说：激情游戏解说/口才155：电竞解说：激情游戏解说.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 157,
+      "chapter_id": "口才156：纪录片解说：讲述故事",
+      "title": "口才156：纪录片解说：讲述故事",
+      "full_path": "生活认知/B1口才/口才156：纪录片解说：讲述故事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 352000,
+      "char_count": 1400,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才156：纪录片解说：讲述故事/口才156：纪录片解说：讲述故事.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 158,
+      "chapter_id": "口才157：电影解说：讲个好故事",
+      "title": "口才157：电影解说：讲个好故事",
+      "full_path": "生活认知/B1口才/口才157：电影解说：讲个好故事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 276250,
+      "char_count": 1103,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才157：电影解说：讲个好故事/口才157：电影解说：讲个好故事.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 159,
+      "chapter_id": "口才158：脱口秀创作：搞笑有内涵",
+      "title": "口才158：脱口秀创作：搞笑有内涵",
+      "full_path": "生活认知/B1口才/口才158：脱口秀创作：搞笑有内涵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 252500,
+      "char_count": 1010,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才158：脱口秀创作：搞笑有内涵/口才158：脱口秀创作：搞笑有内涵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 160,
+      "chapter_id": "口才159：即兴脱口秀",
+      "title": "口才159：即兴脱口秀",
+      "full_path": "生活认知/B1口才/口才159：即兴脱口秀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 249250,
+      "char_count": 997,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才159：即兴脱口秀/口才159：即兴脱口秀.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 161,
+      "chapter_id": "口才160：读书分享：推荐好书",
+      "title": "口才160：读书分享：推荐好书",
+      "full_path": "生活认知/B1口才/口才160：读书分享：推荐好书",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 274000,
+      "char_count": 1096,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才160：读书分享：推荐好书/口才160：读书分享：推荐好书.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 162,
+      "chapter_id": "口才161：美食主播：吃播解说",
+      "title": "口才161：美食主播：吃播解说",
+      "full_path": "生活认知/B1口才/口才161：美食主播：吃播解说",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 255750,
+      "char_count": 1023,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才161：美食主播：吃播解说/口才161：美食主播：吃播解说.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 163,
+      "chapter_id": "口才162：旅游主播：带你看世界",
+      "title": "口才162：旅游主播：带你看世界",
+      "full_path": "生活认知/B1口才/口才162：旅游主播：带你看世界",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 285000,
+      "char_count": 1140,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才162：旅游主播：带你看世界/口才162：旅游主播：带你看世界.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 164,
+      "chapter_id": "口才163：知识主播：分享知识",
+      "title": "口才163：知识主播：分享知识",
+      "full_path": "生活认知/B1口才/口才163：知识主播：分享知识",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 332250,
+      "char_count": 1329,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才163：知识主播：分享知识/口才163：知识主播：分享知识.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 165,
+      "chapter_id": "口才164：音乐主播：歌曲介绍",
+      "title": "口才164：音乐主播：歌曲介绍",
+      "full_path": "生活认知/B1口才/口才164：音乐主播：歌曲介绍",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 224500,
+      "char_count": 898,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才164：音乐主播：歌曲介绍/口才164：音乐主播：歌曲介绍.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 166,
+      "chapter_id": "口才165：直播带货：卖货也讲口才",
+      "title": "口才165：直播带货：卖货也讲口才",
+      "full_path": "生活认知/B1口才/口才165：直播带货：卖货也讲口才",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 248250,
+      "char_count": 993,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才165：直播带货：卖货也讲口才/口才165：直播带货：卖货也讲口才.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 167,
+      "chapter_id": "口才166：批驳谬误",
+      "title": "口才166：批驳谬误",
+      "full_path": "生活认知/B1口才/口才166：批驳谬误",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 207000,
+      "char_count": 828,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才166：批驳谬误/口才166：批驳谬误.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 168,
+      "chapter_id": "口才167：教师节致辞：感恩老师",
+      "title": "口才167：教师节致辞：感恩老师",
+      "full_path": "生活认知/B1口才/口才167：教师节致辞：感恩老师",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 266500,
+      "char_count": 1066,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才167：教师节致辞：感恩老师/口才167：教师节致辞：感恩老师.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 169,
+      "chapter_id": "口才168：生日致辞：祝福的话",
+      "title": "口才168：生日致辞：祝福的话",
+      "full_path": "生活认知/B1口才/口才168：生日致辞：祝福的话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 240500,
+      "char_count": 962,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才168：生日致辞：祝福的话/口才168：生日致辞：祝福的话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 170,
+      "chapter_id": "口才169：祝酒词：宴会发言",
+      "title": "口才169：祝酒词：宴会发言",
+      "full_path": "生活认知/B1口才/口才169：祝酒词：宴会发言",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 243500,
+      "char_count": 974,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才169：祝酒词：宴会发言/口才169：祝酒词：宴会发言.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 171,
+      "chapter_id": "口才170：开幕致辞：活动开场",
+      "title": "口才170：开幕致辞：活动开场",
+      "full_path": "生活认知/B1口才/口才170：开幕致辞：活动开场",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 321750,
+      "char_count": 1287,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才170：开幕致辞：活动开场/口才170：开幕致辞：活动开场.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 172,
+      "chapter_id": "口才171：闭幕致辞：完美收尾",
+      "title": "口才171：闭幕致辞：完美收尾",
+      "full_path": "生活认知/B1口才/口才171：闭幕致辞：完美收尾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 349750,
+      "char_count": 1399,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才171：闭幕致辞：完美收尾/口才171：闭幕致辞：完美收尾.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 173,
+      "chapter_id": "口才172：会议主持：高效开会",
+      "title": "口才172：会议主持：高效开会",
+      "full_path": "生活认知/B1口才/口才172：会议主持：高效开会",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 176000,
+      "char_count": 696,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才172：会议主持：高效开会/口才172：会议主持：高效开会.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 174,
+      "chapter_id": "口才173：颁奖典礼主持：荣耀时刻",
+      "title": "口才173：颁奖典礼主持：荣耀时刻",
+      "full_path": "生活认知/B1口才/口才173：颁奖典礼主持：荣耀时刻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 212500,
+      "char_count": 846,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才173：颁奖典礼主持：荣耀时刻/口才173：颁奖典礼主持：荣耀时刻.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 175,
+      "chapter_id": "口才174：婚礼主持：喜庆发言",
+      "title": "口才174：婚礼主持：喜庆发言",
+      "full_path": "生活认知/B1口才/口才174：婚礼主持：喜庆发言",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 419750,
+      "char_count": 1675,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才174：婚礼主持：喜庆发言/口才174：婚礼主持：喜庆发言.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 176,
+      "chapter_id": "口才175：葬礼悼词：庄重表达",
+      "title": "口才175：葬礼悼词：庄重表达",
+      "full_path": "生活认知/B1口才/口才175：葬礼悼词：庄重表达",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 249000,
+      "char_count": 996,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才175：葬礼悼词：庄重表达/口才175：葬礼悼词：庄重表达.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 177,
+      "chapter_id": "口才176：访谈主持：和大咖对话",
+      "title": "口才176：访谈主持：和大咖对话",
+      "full_path": "生活认知/B1口才/口才176：访谈主持：和大咖对话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 287000,
+      "char_count": 1148,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才176：访谈主持：和大咖对话/口才176：访谈主持：和大咖对话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 178,
+      "chapter_id": "口才177：讲故事比赛：故事大王",
+      "title": "口才177：讲故事比赛：故事大王",
+      "full_path": "生活认知/B1口才/口才177：讲故事比赛：故事大王",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 283500,
+      "char_count": 1134,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才177：讲故事比赛：故事大王/口才177：讲故事比赛：故事大王.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 179,
+      "chapter_id": "口才178：配音比赛：声音大比拼",
+      "title": "口才178：配音比赛：声音大比拼",
+      "full_path": "生活认知/B1口才/口才178：配音比赛：声音大比拼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 215250,
+      "char_count": 861,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才178：配音比赛：声音大比拼/口才178：配音比赛：声音大比拼.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 180,
+      "chapter_id": "口才179：朗诵比赛：声情并茂",
+      "title": "口才179：朗诵比赛：声情并茂",
+      "full_path": "生活认知/B1口才/口才179：朗诵比赛：声情并茂",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 211500,
+      "char_count": 846,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才179：朗诵比赛：声情并茂/口才179：朗诵比赛：声情并茂.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 181,
+      "chapter_id": "口才181：口才比赛：综合挑战",
+      "title": "口才181：口才比赛：综合挑战",
+      "full_path": "生活认知/B1口才/口才181：口才比赛：综合挑战",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 256750,
+      "char_count": 1021,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才181：口才比赛：综合挑战/口才181：口才比赛：综合挑战.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 182,
+      "chapter_id": "口才182：主持人大赛：全能主持",
+      "title": "口才182：主持人大赛：全能主持",
+      "full_path": "生活认知/B1口才/口才182：主持人大赛：全能主持",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 511250,
+      "char_count": 2045,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才182：主持人大赛：全能主持/口才182：主持人大赛：全能主持.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 183,
+      "chapter_id": "口才183：代沟沟通：理解不同年龄",
+      "title": "口才183：代沟沟通：理解不同年龄",
+      "full_path": "生活认知/B1口才/口才183：代沟沟通：理解不同年龄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 307000,
+      "char_count": 1225,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才183：代沟沟通：理解不同年龄/口才183：代沟沟通：理解不同年龄.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 184,
+      "chapter_id": "口才185：面试技巧：好好介绍自己",
+      "title": "口才185：面试技巧：好好介绍自己",
+      "full_path": "生活认知/B1口才/口才185：面试技巧：好好介绍自己",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 210000,
+      "char_count": 833,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才185：面试技巧：好好介绍自己/口才185：面试技巧：好好介绍自己.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 185,
+      "chapter_id": "口才186：简历表达：说说你的优点",
+      "title": "口才186：简历表达：说说你的优点",
+      "full_path": "生活认知/B1口才/口才186：简历表达：说说你的优点",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 259250,
+      "char_count": 1037,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才186：简历表达：说说你的优点/口才186：简历表达：说说你的优点.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 186,
+      "chapter_id": "口才187：团队沟通：一起讨论",
+      "title": "口才187：团队沟通：一起讨论",
+      "full_path": "生活认知/B1口才/口才187：团队沟通：一起讨论",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 211250,
+      "char_count": 840,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才187：团队沟通：一起讨论/口才187：团队沟通：一起讨论.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 187,
+      "chapter_id": "口才188：危机公关",
+      "title": "口才188：危机公关",
+      "full_path": "生活认知/B1口才/口才188：危机公关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 275500,
+      "char_count": 1101,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才188：危机公关/口才188：危机公关.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 188,
+      "chapter_id": "口才189：危机沟通：出事了怎么说",
+      "title": "口才189：危机沟通：出事了怎么说",
+      "full_path": "生活认知/B1口才/口才189：危机沟通：出事了怎么说",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 351000,
+      "char_count": 1404,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才189：危机沟通：出事了怎么说/口才189：危机沟通：出事了怎么说.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 189,
+      "chapter_id": "口才190：公关表达：维护形象",
+      "title": "口才190：公关表达：维护形象",
+      "full_path": "生活认知/B1口才/口才190：公关表达：维护形象",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 218500,
+      "char_count": 874,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才190：公关表达：维护形象/口才190：公关表达：维护形象.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 190,
+      "chapter_id": "口才191：新闻发布会模拟：面对媒体",
+      "title": "口才191：新闻发布会模拟：面对媒体",
+      "full_path": "生活认知/B1口才/口才191：新闻发布会模拟：面对媒体",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 251250,
+      "char_count": 1005,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才191：新闻发布会模拟：面对媒体/口才191：新闻发布会模拟：面对媒体.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 191,
+      "chapter_id": "口才192：外交发言：代表国家说话",
+      "title": "口才192：外交发言：代表国家说话",
+      "full_path": "生活认知/B1口才/口才192：外交发言：代表国家说话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 381000,
+      "char_count": 1522,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才192：外交发言：代表国家说话/口才192：外交发言：代表国家说话.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 192,
+      "chapter_id": "口才193：法庭辩论：模拟法庭",
+      "title": "口才193：法庭辩论：模拟法庭",
+      "full_path": "生活认知/B1口才/口才193：法庭辩论：模拟法庭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 261750,
+      "char_count": 1047,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才193：法庭辩论：模拟法庭/口才193：法庭辩论：模拟法庭.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 193,
+      "chapter_id": "口才194：商业路演：投资人听我说",
+      "title": "口才194：商业路演：投资人听我说",
+      "full_path": "生活认知/B1口才/口才194：商业路演：投资人听我说",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 240250,
+      "char_count": 960,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才194：商业路演：投资人听我说/口才194：商业路演：投资人听我说.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 194,
+      "chapter_id": "口才195：全球议题",
+      "title": "口才195：全球议题",
+      "full_path": "生活认知/B1口才/口才195：全球议题",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 207250,
+      "char_count": 829,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才195：全球议题/口才195：全球议题.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 195,
+      "chapter_id": "口才196：深度辩论",
+      "title": "口才196：深度辩论",
+      "full_path": "生活认知/B1口才/口才196：深度辩论",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 257750,
+      "char_count": 1031,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才196：深度辩论/口才196：深度辩论.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 196,
+      "chapter_id": "口才197：竞选辩论：选我做代表",
+      "title": "口才197：竞选辩论：选我做代表",
+      "full_path": "生活认知/B1口才/口才197：竞选辩论：选我做代表",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 280250,
+      "char_count": 1115,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才197：竞选辩论：选我做代表/口才197：竞选辩论：选我做代表.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 197,
+      "chapter_id": "口才198：谈判技巧：谈出好结果",
+      "title": "口才198：谈判技巧：谈出好结果",
+      "full_path": "生活认知/B1口才/口才198：谈判技巧：谈出好结果",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 218750,
+      "char_count": 875,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才198：谈判技巧：谈出好结果/口才198：谈判技巧：谈出好结果.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 198,
+      "chapter_id": "口才199：调解技巧：让双方满意",
+      "title": "口才199：调解技巧：让双方满意",
+      "full_path": "生活认知/B1口才/口才199：调解技巧：让双方满意",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 230500,
+      "char_count": 920,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才199：调解技巧：让双方满意/口才199：调解技巧：让双方满意.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 199,
+      "chapter_id": "口才200：领导力沟通：带领团队",
+      "title": "口才200：领导力沟通：带领团队",
+      "full_path": "生活认知/B1口才/口才200：领导力沟通：带领团队",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 165250,
+      "char_count": 661,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才200：领导力沟通：带领团队/口才200：领导力沟通：带领团队.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 200,
+      "chapter_id": "口才201：辩论教练：教别人辩论",
+      "title": "口才201：辩论教练：教别人辩论",
+      "full_path": "生活认知/B1口才/口才201：辩论教练：教别人辩论",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 301500,
+      "char_count": 1206,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才201：辩论教练：教别人辩论/口才201：辩论教练：教别人辩论.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 201,
+      "chapter_id": "口才202：演讲培训师：教演讲",
+      "title": "口才202：演讲培训师：教演讲",
+      "full_path": "生活认知/B1口才/口才202：演讲培训师：教演讲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 283000,
+      "char_count": 1132,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才202：演讲培训师：教演讲/口才202：演讲培训师：教演讲.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 202,
+      "chapter_id": "口才203：个人IP表达",
+      "title": "口才203：个人IP表达",
+      "full_path": "生活认知/B1口才/口才203：个人IP表达",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 171250,
+      "char_count": 684,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才203：个人IP表达/口才203：个人IP表达.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 203,
+      "chapter_id": "口才204：国际演讲：用英语演讲",
+      "title": "口才204：国际演讲：用英语演讲",
+      "full_path": "生活认知/B1口才/口才204：国际演讲：用英语演讲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 464250,
+      "char_count": 1829,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才204：国际演讲：用英语演讲/口才204：国际演讲：用英语演讲.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 204,
+      "chapter_id": "口才205：TED演讲",
+      "title": "口才205：TED演讲",
+      "full_path": "生活认知/B1口才/口才205：TED演讲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 284000,
+      "char_count": 1081,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才205：TED演讲/口才205：TED演讲.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 205,
+      "chapter_id": "口才206：TED演讲进阶：改变世界的想法",
+      "title": "口才206：TED演讲进阶：改变世界的想法",
+      "full_path": "生活认知/B1口才/口才206：TED演讲进阶：改变世界的想法",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 344000,
+      "char_count": 1376,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才206：TED演讲进阶：改变世界的想法/口才206：TED演讲进阶：改变世界的想法.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 206,
+      "chapter_id": "口才207：毕业成果展：口才达人秀",
+      "title": "口才207：毕业成果展：口才达人秀",
+      "full_path": "生活认知/B1口才/口才207：毕业成果展：口才达人秀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 335000,
+      "char_count": 1336,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才207：毕业成果展：口才达人秀/口才207：毕业成果展：口才达人秀.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 207,
+      "chapter_id": "口才208：毕业致辞：告别时刻",
+      "title": "口才208：毕业致辞：告别时刻",
+      "full_path": "生活认知/B1口才/口才208：毕业致辞：告别时刻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 310000,
+      "char_count": 1240,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/口才208：毕业致辞：告别时刻/口才208：毕业致辞：告别时刻.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1261 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/自然音效",
+  "name": "自然音效",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/自然音效/自然音效.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 178,
+  "entries": [
+    {
+      "entry_id": "丝带解开 Ribbon Untie",
+      "title": "丝带解开 Ribbon Untie",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/丝带解开 Ribbon Untie"
+    },
+    {
+      "entry_id": "云朵柔软 Soft Clouds",
+      "title": "云朵柔软 Soft Clouds",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/云朵柔软 Soft Clouds"
+    },
+    {
+      "entry_id": "信封撕开 Envelope Tear",
+      "title": "信封撕开 Envelope Tear",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/信封撕开 Envelope Tear"
+    },
+    {
+      "entry_id": "八音盒响 Music Box",
+      "title": "八音盒响 Music Box",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/八音盒响 Music Box"
+    },
+    {
+      "entry_id": "冬夜静谧 Winter Night",
+      "title": "冬夜静谧 Winter Night",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/冬夜静谧 Winter Night"
+    },
+    {
+      "entry_id": "冰块碰撞 Ice Clinking",
+      "title": "冰块碰撞 Ice Clinking",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/冰块碰撞 Ice Clinking"
+    },
+    {
+      "entry_id": "冰箱嗡鸣 Fridge Hum",
+      "title": "冰箱嗡鸣 Fridge Hum",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/冰箱嗡鸣 Fridge Hum"
+    },
+    {
+      "entry_id": "剪刀裁剪 Scissors Cutting",
+      "title": "剪刀裁剪 Scissors Cutting",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/剪刀裁剪 Scissors Cutting"
+    },
+    {
+      "entry_id": "加湿器雾 Humidifier Mist",
+      "title": "加湿器雾 Humidifier Mist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/加湿器雾 Humidifier Mist"
+    },
+    {
+      "entry_id": "包装纸响 Wrapping Paper",
+      "title": "包装纸响 Wrapping Paper",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/包装纸响 Wrapping Paper"
+    },
+    {
+      "entry_id": "北极光 Aurora",
+      "title": "北极光 Aurora",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/北极光 Aurora"
+    },
+    {
+      "entry_id": "午后阳光 Afternoon Sunshine",
+      "title": "午后阳光 Afternoon Sunshine",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/午后阳光 Afternoon Sunshine"
+    },
+    {
+      "entry_id": "午夜钟声 Midnight Bell",
+      "title": "午夜钟声 Midnight Bell",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/午夜钟声 Midnight Bell"
+    },
+    {
+      "entry_id": "午夜风声 Midnight Wind",
+      "title": "午夜风声 Midnight Wind",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/午夜风声 Midnight Wind"
+    },
+    {
+      "entry_id": "口琴吹奏 Harmonica Play",
+      "title": "口琴吹奏 Harmonica Play",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/口琴吹奏 Harmonica Play"
+    },
+    {
+      "entry_id": "古筝弹奏 Guzheng Play",
+      "title": "古筝弹奏 Guzheng Play",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/古筝弹奏 Guzheng Play"
+    },
+    {
+      "entry_id": "吉他拨弦 Guitar Pluck",
+      "title": "吉他拨弦 Guitar Pluck",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/吉他拨弦 Guitar Pluck"
+    },
+    {
+      "entry_id": "吸尘器吸 Vacuum Clean",
+      "title": "吸尘器吸 Vacuum Clean",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/吸尘器吸 Vacuum Clean"
+    },
+    {
+      "entry_id": "吸尘器声 Vacuum Cleaner",
+      "title": "吸尘器声 Vacuum Cleaner",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/吸尘器声 Vacuum Cleaner"
+    },
+    {
+      "entry_id": "呼吸节律 Breathing Rhythm",
+      "title": "呼吸节律 Breathing Rhythm",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/呼吸节律 Breathing Rhythm"
+    },
+    {
+      "entry_id": "咖啡研磨 Coffee Grinding",
+      "title": "咖啡研磨 Coffee Grinding",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/咖啡研磨 Coffee Grinding"
+    },
+    {
+      "entry_id": "喇叭鸣笛 Horn Honk",
+      "title": "喇叭鸣笛 Horn Honk",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/喇叭鸣笛 Horn Honk"
+    },
+    {
+      "entry_id": "地铁到站 Subway Arrive",
+      "title": "地铁到站 Subway Arrive",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/地铁到站 Subway Arrive"
+    },
+    {
+      "entry_id": "壁炉暖火 Fireplace Warmth",
+      "title": "壁炉暖火 Fireplace Warmth",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/壁炉暖火 Fireplace Warmth"
+    },
+    {
+      "entry_id": "夏夜蝉鸣 Summer Cicadas",
+      "title": "夏夜蝉鸣 Summer Cicadas",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/夏夜蝉鸣 Summer Cicadas"
+    },
+    {
+      "entry_id": "夜晚蛙声 Night Frogs",
+      "title": "夜晚蛙声 Night Frogs",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/夜晚蛙声 Night Frogs"
+    },
+    {
+      "entry_id": "婴儿呼吸 Baby Breathing",
+      "title": "婴儿呼吸 Baby Breathing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/婴儿呼吸 Baby Breathing"
+    },
+    {
+      "entry_id": "宁静之夜 Peaceful Night",
+      "title": "宁静之夜 Peaceful Night",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/宁静之夜 Peaceful Night"
+    },
+    {
+      "entry_id": "安睡曲 Sleeping Tune",
+      "title": "安睡曲 Sleeping Tune",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/安睡曲 Sleeping Tune"
+    },
+    {
+      "entry_id": "小提琴弦 Violin String",
+      "title": "小提琴弦 Violin String",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/小提琴弦 Violin String"
+    },
+    {
+      "entry_id": "小狗轻吠 Puppy Yawn",
+      "title": "小狗轻吠 Puppy Yawn",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/小狗轻吠 Puppy Yawn"
+    },
+    {
+      "entry_id": "山间溪流 Mountain Stream",
+      "title": "山间溪流 Mountain Stream",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/山间溪流 Mountain Stream"
+    },
+    {
+      "entry_id": "彩带喷出 Confetti Spray",
+      "title": "彩带喷出 Confetti Spray",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/彩带喷出 Confetti Spray"
+    },
+    {
+      "entry_id": "彩泥捏制 Clay Molding",
+      "title": "彩泥捏制 Clay Molding",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/彩泥捏制 Clay Molding"
+    },
+    {
+      "entry_id": "彩虹之后 After the Rainbow",
+      "title": "彩虹之后 After the Rainbow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/彩虹之后 After the Rainbow"
+    },
+    {
+      "entry_id": "微波炉响 Microwave Beep",
+      "title": "微波炉响 Microwave Beep",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/微波炉响 Microwave Beep"
+    },
+    {
+      "entry_id": "微风拂面 Soft Breeze",
+      "title": "微风拂面 Soft Breeze",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/微风拂面 Soft Breeze"
+    },
+    {
+      "entry_id": "心跳节拍 Heartbeat",
+      "title": "心跳节拍 Heartbeat",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/心跳节拍 Heartbeat"
+    },
+    {
+      "entry_id": "手机振动 Phone Vibrate",
+      "title": "手机振动 Phone Vibrate",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/手机振动 Phone Vibrate"
+    },
+    {
+      "entry_id": "手鼓轻拍 Hand Drum",
+      "title": "手鼓轻拍 Hand Drum",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/手鼓轻拍 Hand Drum"
+    },
+    {
+      "entry_id": "打印机响 Printer Work",
+      "title": "打印机响 Printer Work",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/打印机响 Printer Work"
+    },
+    {
+      "entry_id": "扫地机器人 Robot Sweep",
+      "title": "扫地机器人 Robot Sweep",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/扫地机器人 Robot Sweep"
+    },
+    {
+      "entry_id": "投影仪声 Projector Hum",
+      "title": "投影仪声 Projector Hum",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/投影仪声 Projector Hum"
+    },
+    {
+      "entry_id": "抽油烟机 Range Hood",
+      "title": "抽油烟机 Range Hood",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/抽油烟机 Range Hood"
+    },
+    {
+      "entry_id": "拉链滑动 Zipper Slide",
+      "title": "拉链滑动 Zipper Slide",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/拉链滑动 Zipper Slide"
+    },
+    {
+      "entry_id": "拖鞋走路 Slipper Walk",
+      "title": "拖鞋走路 Slipper Walk",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/拖鞋走路 Slipper Walk"
+    },
+    {
+      "entry_id": "拼图完成 Puzzle Solved",
+      "title": "拼图完成 Puzzle Solved",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/拼图完成 Puzzle Solved"
+    },
+    {
+      "entry_id": "搅拌机响 Blender Sound",
+      "title": "搅拌机响 Blender Sound",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/搅拌机响 Blender Sound"
+    },
+    {
+      "entry_id": "摇篮曲催眠 Lullaby Hum",
+      "title": "摇篮曲催眠 Lullaby Hum",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/摇篮曲催眠 Lullaby Hum"
+    },
+    {
+      "entry_id": "摇篮轻轻 Rocking Cradle",
+      "title": "摇篮轻轻 Rocking Cradle",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/摇篮轻轻 Rocking Cradle"
+    },
+    {
+      "entry_id": "摩托车声 Motorcycle Rev",
+      "title": "摩托车声 Motorcycle Rev",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/摩托车声 Motorcycle Rev"
+    },
+    {
+      "entry_id": "星星闪烁 Starry Night",
+      "title": "星星闪烁 Starry Night",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/星星闪烁 Starry Night"
+    },
+    {
+      "entry_id": "星空旋转 Starry Spin",
+      "title": "星空旋转 Starry Spin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/星空旋转 Starry Spin"
+    },
+    {
+      "entry_id": "春雨滴答 Spring Rain",
+      "title": "春雨滴答 Spring Rain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/春雨滴答 Spring Rain"
+    },
+    {
+      "entry_id": "晚安宝贝 Goodnight Baby",
+      "title": "晚安宝贝 Goodnight Baby",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/晚安宝贝 Goodnight Baby"
+    },
+    {
+      "entry_id": "晨露滴落 Morning Dew",
+      "title": "晨露滴落 Morning Dew",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/晨露滴落 Morning Dew"
+    },
+    {
+      "entry_id": "暖气片热 Radiator Heat",
+      "title": "暖气片热 Radiator Heat",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/暖气片热 Radiator Heat"
+    },
+    {
+      "entry_id": "暴风雨前 Before the Storm",
+      "title": "暴风雨前 Before the Storm",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/暴风雨前 Before the Storm"
+    },
+    {
+      "entry_id": "月亮船 Moon Boat",
+      "title": "月亮船 Moon Boat",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/月亮船 Moon Boat"
+    },
+    {
+      "entry_id": "月光如水 Moonlight",
+      "title": "月光如水 Moonlight",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/月光如水 Moonlight"
+    },
+    {
+      "entry_id": "木柴燃烧 Wood Burning",
+      "title": "木柴燃烧 Wood Burning",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/木柴燃烧 Wood Burning"
+    },
+    {
+      "entry_id": "木马摇动 Rocking Horse",
+      "title": "木马摇动 Rocking Horse",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/木马摇动 Rocking Horse"
+    },
+    {
+      "entry_id": "木鱼敲击 Wooden Fish",
+      "title": "木鱼敲击 Wooden Fish",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/木鱼敲击 Wooden Fish"
+    },
+    {
+      "entry_id": "松涛阵阵 Pine Wind",
+      "title": "松涛阵阵 Pine Wind",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/松涛阵阵 Pine Wind"
+    },
+    {
+      "entry_id": "果汁搅拌 Juice Stirring",
+      "title": "果汁搅拌 Juice Stirring",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/果汁搅拌 Juice Stirring"
+    },
+    {
+      "entry_id": "树叶沙沙 Leaves Rustling",
+      "title": "树叶沙沙 Leaves Rustling",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/树叶沙沙 Leaves Rustling"
+    },
+    {
+      "entry_id": "树叶落地 Leaf Falling",
+      "title": "树叶落地 Leaf Falling",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/树叶落地 Leaf Falling"
+    },
+    {
+      "entry_id": "梦乡之旅 Dream Journey",
+      "title": "梦乡之旅 Dream Journey",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/梦乡之旅 Dream Journey"
+    },
+    {
+      "entry_id": "森林鸟鸣 Forest Birds",
+      "title": "森林鸟鸣 Forest Birds",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/森林鸟鸣 Forest Birds"
+    },
+    {
+      "entry_id": "楼梯脚步 Stair Steps",
+      "title": "楼梯脚步 Stair Steps",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/楼梯脚步 Stair Steps"
+    },
+    {
+      "entry_id": "榨汁机转 Juicer Running",
+      "title": "榨汁机转 Juicer Running",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/榨汁机转 Juicer Running"
+    },
+    {
+      "entry_id": "橡皮擦过 Eraser Rubbing",
+      "title": "橡皮擦过 Eraser Rubbing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/橡皮擦过 Eraser Rubbing"
+    },
+    {
+      "entry_id": "母亲哼唱 Mother Humming",
+      "title": "母亲哼唱 Mother Humming",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/母亲哼唱 Mother Humming"
+    },
+    {
+      "entry_id": "气球充气 Balloon Inflate",
+      "title": "气球充气 Balloon Inflate",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/气球充气 Balloon Inflate"
+    },
+    {
+      "entry_id": "水彩晕染 Watercolor Bloom",
+      "title": "水彩晕染 Watercolor Bloom",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/水彩晕染 Watercolor Bloom"
+    },
+    {
+      "entry_id": "水烧开沸 Water Boiling",
+      "title": "水烧开沸 Water Boiling",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/水烧开沸 Water Boiling"
+    },
+    {
+      "entry_id": "水龙头开 Faucet Flow",
+      "title": "水龙头开 Faucet Flow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/水龙头开 Faucet Flow"
+    },
+    {
+      "entry_id": "沙包落地 Beanbag Falling",
+      "title": "沙包落地 Beanbag Falling",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/沙包落地 Beanbag Falling"
+    },
+    {
+      "entry_id": "沙漠夜寂 Desert Night",
+      "title": "沙漠夜寂 Desert Night",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/沙漠夜寂 Desert Night"
+    },
+    {
+      "entry_id": "河水流淌 River Flow",
+      "title": "河水流淌 River Flow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/河水流淌 River Flow"
+    },
+    {
+      "entry_id": "泉水叮咚 Spring Drip",
+      "title": "泉水叮咚 Spring Drip",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/泉水叮咚 Spring Drip"
+    },
+    {
+      "entry_id": "泡泡破裂 Bubble Pop",
+      "title": "泡泡破裂 Bubble Pop",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/泡泡破裂 Bubble Pop"
+    },
+    {
+      "entry_id": "洗衣机声 Washing Machine",
+      "title": "洗衣机声 Washing Machine",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/洗衣机声 Washing Machine"
+    },
+    {
+      "entry_id": "洗衣机洗 Washing Spin",
+      "title": "洗衣机洗 Washing Spin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/洗衣机洗 Washing Spin"
+    },
+    {
+      "entry_id": "浴缸放水 Bathtub Fill",
+      "title": "浴缸放水 Bathtub Fill",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/浴缸放水 Bathtub Fill"
+    },
+    {
+      "entry_id": "海底之声 Ocean Deep",
+      "title": "海底之声 Ocean Deep",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/海底之声 Ocean Deep"
+    },
+    {
+      "entry_id": "海浪轻拍 Ocean Waves",
+      "title": "海浪轻拍 Ocean Waves",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/海浪轻拍 Ocean Waves"
+    },
+    {
+      "entry_id": "海浪鼓声 Ocean Drum",
+      "title": "海浪鼓声 Ocean Drum",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/海浪鼓声 Ocean Drum"
+    },
+    {
+      "entry_id": "海风轻拂 Sea Breeze",
+      "title": "海风轻拂 Sea Breeze",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/海风轻拂 Sea Breeze"
+    },
+    {
+      "entry_id": "淋浴花洒 Shower Spray",
+      "title": "淋浴花洒 Shower Spray",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/淋浴花洒 Shower Spray"
+    },
+    {
+      "entry_id": "清晨露珠 Morning Dewdrops",
+      "title": "清晨露珠 Morning Dewdrops",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/清晨露珠 Morning Dewdrops"
+    },
+    {
+      "entry_id": "清晨鸟鸣 Morning Birds",
+      "title": "清晨鸟鸣 Morning Birds",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/清晨鸟鸣 Morning Birds"
+    },
+    {
+      "entry_id": "温柔时光 Gentle Time",
+      "title": "温柔时光 Gentle Time",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/温柔时光 Gentle Time"
+    },
+    {
+      "entry_id": "溪水潺潺 Stream Babbling",
+      "title": "溪水潺潺 Stream Babbling",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/溪水潺潺 Stream Babbling"
+    },
+    {
+      "entry_id": "溪涧鸟语 Brook Birds",
+      "title": "溪涧鸟语 Brook Birds",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/溪涧鸟语 Brook Birds"
+    },
+    {
+      "entry_id": "瀑布流水 Waterfall Flow",
+      "title": "瀑布流水 Waterfall Flow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/瀑布流水 Waterfall Flow"
+    },
+    {
+      "entry_id": "火车铁轨 Train Track",
+      "title": "火车铁轨 Train Track",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/火车铁轨 Train Track"
+    },
+    {
+      "entry_id": "炭火通红 Charcoal Glow",
+      "title": "炭火通红 Charcoal Glow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/炭火通红 Charcoal Glow"
+    },
+    {
+      "entry_id": "烘干机转 Dryer Tumble",
+      "title": "烘干机转 Dryer Tumble",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/烘干机转 Dryer Tumble"
+    },
+    {
+      "entry_id": "烛光摇曳 Candle Flicker",
+      "title": "烛光摇曳 Candle Flicker",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/烛光摇曳 Candle Flicker"
+    },
+    {
+      "entry_id": "烟花升空 Firework Rise",
+      "title": "烟花升空 Firework Rise",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/烟花升空 Firework Rise"
+    },
+    {
+      "entry_id": "烤箱定时 Oven Timer",
+      "title": "烤箱定时 Oven Timer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/烤箱定时 Oven Timer"
+    },
+    {
+      "entry_id": "热水器响 Water Heater",
+      "title": "热水器响 Water Heater",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/热水器响 Water Heater"
+    },
+    {
+      "entry_id": "煮水声 Boiling Water",
+      "title": "煮水声 Boiling Water",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/煮水声 Boiling Water"
+    },
+    {
+      "entry_id": "爆米花爆 Popcorn Popping",
+      "title": "爆米花爆 Popcorn Popping",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/爆米花爆 Popcorn Popping"
+    },
+    {
+      "entry_id": "父亲哼唱 Father Humming",
+      "title": "父亲哼唱 Father Humming",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/父亲哼唱 Father Humming"
+    },
+    {
+      "entry_id": "猫咪呼噜 Cat Purring",
+      "title": "猫咪呼噜 Cat Purring",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/猫咪呼噜 Cat Purring"
+    },
+    {
+      "entry_id": "甜梦 Sweet Dreams",
+      "title": "甜梦 Sweet Dreams",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/甜梦 Sweet Dreams"
+    },
+    {
+      "entry_id": "电梯开门 Elevator Open",
+      "title": "电梯开门 Elevator Open",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/电梯开门 Elevator Open"
+    },
+    {
+      "entry_id": "电风扇转 Fan Rotate",
+      "title": "电风扇转 Fan Rotate",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/电风扇转 Fan Rotate"
+    },
+    {
+      "entry_id": "画笔沙沙 Brush Stroking",
+      "title": "画笔沙沙 Brush Stroking",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/画笔沙沙 Brush Stroking"
+    },
+    {
+      "entry_id": "白云飘过 Cloud Drifting",
+      "title": "白云飘过 Cloud Drifting",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/白云飘过 Cloud Drifting"
+    },
+    {
+      "entry_id": "白噪音粉 Pink Noise",
+      "title": "白噪音粉 Pink Noise",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/白噪音粉 Pink Noise"
+    },
+    {
+      "entry_id": "白噪音粉 Red Noise",
+      "title": "白噪音粉 Red Noise",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/白噪音粉 Red Noise"
+    },
+    {
+      "entry_id": "白噪音褐 Brown Noise",
+      "title": "白噪音褐 Brown Noise",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/白噪音褐 Brown Noise"
+    },
+    {
+      "entry_id": "皮带扣响 Belt Buckle",
+      "title": "皮带扣响 Belt Buckle",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/皮带扣响 Belt Buckle"
+    },
+    {
+      "entry_id": "皮球弹跳 Ball Bouncing",
+      "title": "皮球弹跳 Ball Bouncing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/皮球弹跳 Ball Bouncing"
+    },
+    {
+      "entry_id": "相机快门 Camera Shutter",
+      "title": "相机快门 Camera Shutter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/相机快门 Camera Shutter"
+    },
+    {
+      "entry_id": "硬币掉落 Coin Drop",
+      "title": "硬币掉落 Coin Drop",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/硬币掉落 Coin Drop"
+    },
+    {
+      "entry_id": "礼炮声响 Cannon Sound",
+      "title": "礼炮声响 Cannon Sound",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/礼炮声响 Cannon Sound"
+    },
+    {
+      "entry_id": "秋千轻荡 Swing Swaying",
+      "title": "秋千轻荡 Swing Swaying",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/秋千轻荡 Swing Swaying"
+    },
+    {
+      "entry_id": "秋雨萧瑟 Autumn Rain",
+      "title": "秋雨萧瑟 Autumn Rain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/秋雨萧瑟 Autumn Rain"
+    },
+    {
+      "entry_id": "积木搭建 Blocks Stacking",
+      "title": "积木搭建 Blocks Stacking",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/积木搭建 Blocks Stacking"
+    },
+    {
+      "entry_id": "空气净化 Air Purifier",
+      "title": "空气净化 Air Purifier",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/空气净化 Air Purifier"
+    },
+    {
+      "entry_id": "空调声 Air Conditioner",
+      "title": "空调声 Air Conditioner",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/空调声 Air Conditioner"
+    },
+    {
+      "entry_id": "空调运转 AC Running",
+      "title": "空调运转 AC Running",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/空调运转 AC Running"
+    },
+    {
+      "entry_id": "窗帘拉动 Curtain Pull",
+      "title": "窗帘拉动 Curtain Pull",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/窗帘拉动 Curtain Pull"
+    },
+    {
+      "entry_id": "窗户推开 Window Open",
+      "title": "窗户推开 Window Open",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/窗户推开 Window Open"
+    },
+    {
+      "entry_id": "竹林风吟 Bamboo Wind",
+      "title": "竹林风吟 Bamboo Wind",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/竹林风吟 Bamboo Wind"
+    },
+    {
+      "entry_id": "竹笋破土 Bamboo Sprouting",
+      "title": "竹笋破土 Bamboo Sprouting",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/竹笋破土 Bamboo Sprouting"
+    },
+    {
+      "entry_id": "笛声悠扬 Flute Melody",
+      "title": "笛声悠扬 Flute Melody",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/笛声悠扬 Flute Melody"
+    },
+    {
+      "entry_id": "篝火噼啪 Campfire Crackle",
+      "title": "篝火噼啪 Campfire Crackle",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/篝火噼啪 Campfire Crackle"
+    },
+    {
+      "entry_id": "纸张折叠 Paper Fold",
+      "title": "纸张折叠 Paper Fold",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/纸张折叠 Paper Fold"
+    },
+    {
+      "entry_id": "纽扣扣上 Button Snap",
+      "title": "纽扣扣上 Button Snap",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/纽扣扣上 Button Snap"
+    },
+    {
+      "entry_id": "细雨绵绵 Light Drizzle",
+      "title": "细雨绵绵 Light Drizzle",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/细雨绵绵 Light Drizzle"
+    },
+    {
+      "entry_id": "胶棒涂抹 Glue Stick",
+      "title": "胶棒涂抹 Glue Stick",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/胶棒涂抹 Glue Stick"
+    },
+    {
+      "entry_id": "自动扶梯 Escalator Hum",
+      "title": "自动扶梯 Escalator Hum",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/自动扶梯 Escalator Hum"
+    },
+    {
+      "entry_id": "自行车铃 Bike Bell",
+      "title": "自行车铃 Bike Bell",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/自行车铃 Bike Bell"
+    },
+    {
+      "entry_id": "花开有声 Flower Blooming",
+      "title": "花开有声 Flower Blooming",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/花开有声 Flower Blooming"
+    },
+    {
+      "entry_id": "茶水倾倒 Tea Pouring",
+      "title": "茶水倾倒 Tea Pouring",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/茶水倾倒 Tea Pouring"
+    },
+    {
+      "entry_id": "草原风声 Prairie Wind",
+      "title": "草原风声 Prairie Wind",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/草原风声 Prairie Wind"
+    },
+    {
+      "entry_id": "草长莺飞 Grass Growing",
+      "title": "草长莺飞 Grass Growing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/草长莺飞 Grass Growing"
+    },
+    {
+      "entry_id": "荷塘蛙鸣 Lotus Pond",
+      "title": "荷塘蛙鸣 Lotus Pond",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/荷塘蛙鸣 Lotus Pond"
+    },
+    {
+      "entry_id": "落叶归根 Leaves Returning",
+      "title": "落叶归根 Leaves Returning",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/落叶归根 Leaves Returning"
+    },
+    {
+      "entry_id": "虫鸣低语 Insect Whisper",
+      "title": "虫鸣低语 Insect Whisper",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/虫鸣低语 Insect Whisper"
+    },
+    {
+      "entry_id": "蜡笔涂色 Crayon Coloring",
+      "title": "蜡笔涂色 Crayon Coloring",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/蜡笔涂色 Crayon Coloring"
+    },
+    {
+      "entry_id": "跳绳飞舞 Jump Rope Flying",
+      "title": "跳绳飞舞 Jump Rope Flying",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/跳绳飞舞 Jump Rope Flying"
+    },
+    {
+      "entry_id": "轮船汽笛 Ship Horn",
+      "title": "轮船汽笛 Ship Horn",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/轮船汽笛 Ship Horn"
+    },
+    {
+      "entry_id": "钟表滴答 Clock Ticking",
+      "title": "钟表滴答 Clock Ticking",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/钟表滴答 Clock Ticking"
+    },
+    {
+      "entry_id": "钢琴音阶 Piano Scale",
+      "title": "钢琴音阶 Piano Scale",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/钢琴音阶 Piano Scale"
+    },
+    {
+      "entry_id": "钥匙串声 Key Jingle",
+      "title": "钥匙串声 Key Jingle",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/钥匙串声 Key Jingle"
+    },
+    {
+      "entry_id": "钱包打开 Wallet Open",
+      "title": "钱包打开 Wallet Open",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/钱包打开 Wallet Open"
+    },
+    {
+      "entry_id": "铃铛清脆 Bell Chime",
+      "title": "铃铛清脆 Bell Chime",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/铃铛清脆 Bell Chime"
+    },
+    {
+      "entry_id": "铅笔书写 Pencil Writing",
+      "title": "铅笔书写 Pencil Writing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/铅笔书写 Pencil Writing"
+    },
+    {
+      "entry_id": "铜钟长鸣 Bronze Bell",
+      "title": "铜钟长鸣 Bronze Bell",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/铜钟长鸣 Bronze Bell"
+    },
+    {
+      "entry_id": "键盘敲击 Keyboard Type",
+      "title": "键盘敲击 Keyboard Type",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/键盘敲击 Keyboard Type"
+    },
+    {
+      "entry_id": "门锁转动 Door Lock",
+      "title": "门锁转动 Door Lock",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/门锁转动 Door Lock"
+    },
+    {
+      "entry_id": "阳光温暖 Sunlight Warmth",
+      "title": "阳光温暖 Sunlight Warmth",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/阳光温暖 Sunlight Warmth"
+    },
+    {
+      "entry_id": "陀螺旋转 Spinning Top",
+      "title": "陀螺旋转 Spinning Top",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/陀螺旋转 Spinning Top"
+    },
+    {
+      "entry_id": "除湿机响 Dehumidifier",
+      "title": "除湿机响 Dehumidifier",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/除湿机响 Dehumidifier"
+    },
+    {
+      "entry_id": "雨后清新 After Rain",
+      "title": "雨后清新 After Rain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/雨后清新 After Rain"
+    },
+    {
+      "entry_id": "雨声淅沥 Gentle Rain",
+      "title": "雨声淅沥 Gentle Rain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/雨声淅沥 Gentle Rain"
+    },
+    {
+      "entry_id": "雨棍摇动 Rainstick Shake",
+      "title": "雨棍摇动 Rainstick Shake",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/雨棍摇动 Rainstick Shake"
+    },
+    {
+      "entry_id": "雪地行走 Snow Walking",
+      "title": "雪地行走 Snow Walking",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/雪地行走 Snow Walking"
+    },
+    {
+      "entry_id": "雪花飘落 Snow Falling",
+      "title": "雪花飘落 Snow Falling",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/雪花飘落 Snow Falling"
+    },
+    {
+      "entry_id": "雷声远去 Thunder Fading",
+      "title": "雷声远去 Thunder Fading",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/雷声远去 Thunder Fading"
+    },
+    {
+      "entry_id": "雾中漫步 Misty Walk",
+      "title": "雾中漫步 Misty Walk",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/雾中漫步 Misty Walk"
+    },
+    {
+      "entry_id": "霜降时节 Frosty Morning",
+      "title": "霜降时节 Frosty Morning",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/霜降时节 Frosty Morning"
+    },
+    {
+      "entry_id": "露珠滑落 Dew Sliding",
+      "title": "露珠滑落 Dew Sliding",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/露珠滑落 Dew Sliding"
+    },
+    {
+      "entry_id": "面包出炉 Bread Baking",
+      "title": "面包出炉 Bread Baking",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/面包出炉 Bread Baking"
+    },
+    {
+      "entry_id": "风扇声 Fan Sound",
+      "title": "风扇声 Fan Sound",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/风扇声 Fan Sound"
+    },
+    {
+      "entry_id": "风铃摇曳 Wind Chime",
+      "title": "风铃摇曳 Wind Chime",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/风铃摇曳 Wind Chime"
+    },
+    {
+      "entry_id": "马桶冲水 Toilet Flush",
+      "title": "马桶冲水 Toilet Flush",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/马桶冲水 Toilet Flush"
+    },
+    {
+      "entry_id": "鱼儿吐泡 Fish Bubbles",
+      "title": "鱼儿吐泡 Fish Bubbles",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/鱼儿吐泡 Fish Bubbles"
+    },
+    {
+      "entry_id": "麦浪翻滚 Wheat Waves",
+      "title": "麦浪翻滚 Wheat Waves",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/麦浪翻滚 Wheat Waves"
+    },
+    {
+      "entry_id": "黄昏晚霞 Sunset Glow",
+      "title": "黄昏晚霞 Sunset Glow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/黄昏晚霞 Sunset Glow"
+    },
+    {
+      "entry_id": "黄昏虫鸣 Evening Bugs",
+      "title": "黄昏虫鸣 Evening Bugs",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/黄昏虫鸣 Evening Bugs"
+    },
+    {
+      "entry_id": "鼠标点击 Mouse Click",
+      "title": "鼠标点击 Mouse Click",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然音效/鼠标点击 Mouse Click"
+    }
+  ]
+}

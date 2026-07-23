@@ -1,0 +1,1653 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "生活认知/B3社交",
+  "name": "B3社交",
+  "cover": {
+    "cover_image_url": "covers/generated/生活认知/B3社交/B3社交.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 117,
+  "entries": [
+    {
+      "entry_id": "下雨天的小水洼——一起找小虫子搬家",
+      "title": "下雨天的小水洼——一起找小虫子搬家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/下雨天的小水洼——一起找小虫子搬家",
+      "level": "L4",
+      "duration_ms": 413665,
+      "char_count": 1615,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/下雨天的小水洼——一起找小虫子搬家/下雨天的小水洼——一起找小虫子搬家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "书吧角落里的小发现，我们一起看这本吧",
+      "title": "书吧角落里的小发现，我们一起看这本吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/书吧角落里的小发现，我们一起看这本吧",
+      "level": "L4",
+      "duration_ms": 570946,
+      "char_count": 2222,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/书吧角落里的小发现，我们一起看这本吧/书吧角落里的小发现，我们一起看这本吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "体育课分组时我最后一个被选",
+      "title": "体育课分组时我最后一个被选",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/体育课分组时我最后一个被选",
+      "level": "L4",
+      "duration_ms": 413170,
+      "char_count": 1631,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/体育课分组时我最后一个被选/体育课分组时我最后一个被选.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "体育课自由活动，大家三三两两，我拉着最后一人加入",
+      "title": "体育课自由活动，大家三三两两，我拉着最后一人加入",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/体育课自由活动，大家三三两两，我拉着最后一人加入",
+      "level": "L4",
+      "duration_ms": 400490,
+      "char_count": 1564,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/体育课自由活动，大家三三两两，我拉着最后一人加入/体育课自由活动，大家三三两两，我拉着最后一人加入.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "你们在追什么？我也想追着跑",
+      "title": "你们在追什么？我也想追着跑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/你们在追什么？我也想追着跑",
+      "level": "L4",
+      "duration_ms": 371988,
+      "char_count": 1448,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/你们在追什么？我也想追着跑/你们在追什么？我也想追着跑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "你的恐龙玩具好酷，可以换着玩吗？",
+      "title": "你的恐龙玩具好酷，可以换着玩吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/你的恐龙玩具好酷，可以换着玩吗？",
+      "level": "L4",
+      "duration_ms": 438458,
+      "char_count": 1681,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/你的恐龙玩具好酷，可以换着玩吗？/你的恐龙玩具好酷，可以换着玩吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "你的木琴声音真好听，我能敲吗？",
+      "title": "你的木琴声音真好听，我能敲吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/你的木琴声音真好听，我能敲吗？",
+      "level": "L4",
+      "duration_ms": 317208,
+      "char_count": 1248,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/你的木琴声音真好听，我能敲吗？/你的木琴声音真好听，我能敲吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "你的积木城堡，可以让我加入吗？",
+      "title": "你的积木城堡，可以让我加入吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/你的积木城堡，可以让我加入吗？",
+      "level": "L4",
+      "duration_ms": 351598,
+      "char_count": 1384,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/你的积木城堡，可以让我加入吗？/你的积木城堡，可以让我加入吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "你的饭盒好漂亮，可以看看吗？",
+      "title": "你的饭盒好漂亮，可以看看吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/你的饭盒好漂亮，可以看看吗？",
+      "level": "L4",
+      "duration_ms": 636841,
+      "char_count": 2481,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/你的饭盒好漂亮，可以看看吗？/你的饭盒好漂亮，可以看看吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "假期社区跳蚤市场，我蹲在摊位前问隔壁摊主一起吆喝",
+      "title": "假期社区跳蚤市场，我蹲在摊位前问隔壁摊主一起吆喝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/假期社区跳蚤市场，我蹲在摊位前问隔壁摊主一起吆喝",
+      "level": "L4",
+      "duration_ms": 375489,
+      "char_count": 1456,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/假期社区跳蚤市场，我蹲在摊位前问隔壁摊主一起吆喝/假期社区跳蚤市场，我蹲在摊位前问隔壁摊主一起吆喝.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公园长椅上的小客人，请和我分享饼干",
+      "title": "公园长椅上的小客人，请和我分享饼干",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/公园长椅上的小客人，请和我分享饼干",
+      "level": "L4",
+      "duration_ms": 402240,
+      "char_count": 1579,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/公园长椅上的小客人，请和我分享饼干/公园长椅上的小客人，请和我分享饼干.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "兴趣班下课，妈妈还没来，我和同样等待的她对视一笑",
+      "title": "兴趣班下课，妈妈还没来，我和同样等待的她对视一笑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/兴趣班下课，妈妈还没来，我和同样等待的她对视一笑",
+      "level": "L4",
+      "duration_ms": 457162,
+      "char_count": 1774,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/兴趣班下课，妈妈还没来，我和同样等待的她对视一笑/兴趣班下课，妈妈还没来，我和同样等待的她对视一笑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "午睡后的小熊——可以陪我找妈妈吗",
+      "title": "午睡后的小熊——可以陪我找妈妈吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/午睡后的小熊——可以陪我找妈妈吗",
+      "level": "L4",
+      "duration_ms": 294920,
+      "char_count": 1165,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/午睡后的小熊——可以陪我找妈妈吗/午睡后的小熊——可以陪我找妈妈吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "午睡后，我们一起搭最高积木塔",
+      "title": "午睡后，我们一起搭最高积木塔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/午睡后，我们一起搭最高积木塔",
+      "level": "L4",
+      "duration_ms": 456308,
+      "char_count": 1804,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/午睡后，我们一起搭最高积木塔/午睡后，我们一起搭最高积木塔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "午餐时大家都围成一桌我端着餐盘站着",
+      "title": "午餐时大家都围成一桌我端着餐盘站着",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/午餐时大家都围成一桌我端着餐盘站着",
+      "level": "L4",
+      "duration_ms": 470698,
+      "char_count": 1831,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/午餐时大家都围成一桌我端着餐盘站着/午餐时大家都围成一桌我端着餐盘站着.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "合唱团排练间隙，我递水给刚转团不敢说话的女生",
+      "title": "合唱团排练间隙，我递水给刚转团不敢说话的女生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/合唱团排练间隙，我递水给刚转团不敢说话的女生",
+      "level": "L4",
+      "duration_ms": 515562,
+      "char_count": 2024,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/合唱团排练间隙，我递水给刚转团不敢说话的女生/合唱团排练间隙，我递水给刚转团不敢说话的女生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同桌亮出满分卷子时我撕碎了成绩单",
+      "title": "同桌亮出满分卷子时我撕碎了成绩单",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/同桌亮出满分卷子时我撕碎了成绩单",
+      "level": "L4",
+      "duration_ms": 429129,
+      "char_count": 1662,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/同桌亮出满分卷子时我撕碎了成绩单/同桌亮出满分卷子时我撕碎了成绩单.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "周末公园，陌生男孩的无人机掉在我脚边，我捡起递给他",
+      "title": "周末公园，陌生男孩的无人机掉在我脚边，我捡起递给他",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/周末公园，陌生男孩的无人机掉在我脚边，我捡起递给他",
+      "level": "L4",
+      "duration_ms": 405134,
+      "char_count": 1586,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/周末公园，陌生男孩的无人机掉在我脚边，我捡起递给他/周末公园，陌生男孩的无人机掉在我脚边，我捡起递给他.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "哥哥，我也想和你一起搭火车",
+      "title": "哥哥，我也想和你一起搭火车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/哥哥，我也想和你一起搭火车",
+      "level": "L4",
+      "duration_ms": 441171,
+      "char_count": 1724,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/哥哥，我也想和你一起搭火车/哥哥，我也想和你一起搭火车.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "图书馆里我想和他一起看恐龙书",
+      "title": "图书馆里我想和他一起看恐龙书",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/图书馆里我想和他一起看恐龙书",
+      "level": "L4",
+      "duration_ms": 356741,
+      "char_count": 1390,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/图书馆里我想和他一起看恐龙书/图书馆里我想和他一起看恐龙书.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "图书馆里，她正在看我最爱的漫画，我想坐过去",
+      "title": "图书馆里，她正在看我最爱的漫画，我想坐过去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/图书馆里，她正在看我最爱的漫画，我想坐过去",
+      "level": "L4",
+      "duration_ms": 494381,
+      "char_count": 1911,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/图书馆里，她正在看我最爱的漫画，我想坐过去/图书馆里，她正在看我最爱的漫画，我想坐过去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "夏令营篝火晚会，我举着棉花糖问对面的人要不要分享",
+      "title": "夏令营篝火晚会，我举着棉花糖问对面的人要不要分享",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/夏令营篝火晚会，我举着棉花糖问对面的人要不要分享",
+      "level": "L4",
+      "duration_ms": 337103,
+      "char_count": 1338,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/夏令营篝火晚会，我举着棉花糖问对面的人要不要分享/夏令营篝火晚会，我举着棉花糖问对面的人要不要分享.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奶奶，我来当妈妈，你当宝宝好吗？",
+      "title": "奶奶，我来当妈妈，你当宝宝好吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/奶奶，我来当妈妈，你当宝宝好吗？",
+      "level": "L4",
+      "duration_ms": 508592,
+      "char_count": 1980,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/奶奶，我来当妈妈，你当宝宝好吗？/奶奶，我来当妈妈，你当宝宝好吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈让我邀请楼下的姐姐一起搭积木",
+      "title": "妈妈让我邀请楼下的姐姐一起搭积木",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/妈妈让我邀请楼下的姐姐一起搭积木",
+      "level": "L4",
+      "duration_ms": 398668,
+      "char_count": 1564,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/妈妈让我邀请楼下的姐姐一起搭积木/妈妈让我邀请楼下的姐姐一起搭积木.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "娃娃家抱起娃娃问一起喂饭吧",
+      "title": "娃娃家抱起娃娃问一起喂饭吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/娃娃家抱起娃娃问一起喂饭吧",
+      "level": "L4",
+      "duration_ms": 360595,
+      "char_count": 1391,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/娃娃家抱起娃娃问一起喂饭吧/娃娃家抱起娃娃问一起喂饭吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "存钱罐的秘密，一起存钱买彩笔吧",
+      "title": "存钱罐的秘密，一起存钱买彩笔吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/存钱罐的秘密，一起存钱买彩笔吧",
+      "level": "L4",
+      "duration_ms": 484306,
+      "char_count": 1892,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/存钱罐的秘密，一起存钱买彩笔吧/存钱罐的秘密，一起存钱买彩笔吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔子的泡泡破了——怎么问姐姐一起吹",
+      "title": "小兔子的泡泡破了——怎么问姐姐一起吹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小兔子的泡泡破了——怎么问姐姐一起吹",
+      "level": "L4",
+      "duration_ms": 294349,
+      "char_count": 1142,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小兔子的泡泡破了——怎么问姐姐一起吹/小兔子的泡泡破了——怎么问姐姐一起吹.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小区流浪猫想和我们做朋友",
+      "title": "小区流浪猫想和我们做朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小区流浪猫想和我们做朋友",
+      "level": "L4",
+      "duration_ms": 441701,
+      "char_count": 1720,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小区流浪猫想和我们做朋友/小区流浪猫想和我们做朋友.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小区花园里的小单车，能和我一起骑吗",
+      "title": "小区花园里的小单车，能和我一起骑吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小区花园里的小单车，能和我一起骑吗",
+      "level": "L4",
+      "duration_ms": 393383,
+      "char_count": 1520,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小区花园里的小单车，能和我一起骑吗/小区花园里的小单车，能和我一起骑吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小厨房端出蛋糕问一起吃好吗",
+      "title": "小厨房端出蛋糕问一起吃好吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小厨房端出蛋糕问一起吃好吗",
+      "level": "L4",
+      "duration_ms": 454881,
+      "char_count": 1809,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小厨房端出蛋糕问一起吃好吗/小厨房端出蛋糕问一起吃好吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小帐篷里拉开门帘说请进来玩",
+      "title": "小帐篷里拉开门帘说请进来玩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小帐篷里拉开门帘说请进来玩",
+      "level": "L4",
+      "duration_ms": 327527,
+      "char_count": 1280,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小帐篷里拉开门帘说请进来玩/小帐篷里拉开门帘说请进来玩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小桌子旁摆好拼图问一起拼",
+      "title": "小桌子旁摆好拼图问一起拼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小桌子旁摆好拼图问一起拼",
+      "level": "L4",
+      "duration_ms": 574948,
+      "char_count": 2249,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小桌子旁摆好拼图问一起拼/小桌子旁摆好拼图问一起拼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小椅子摆成圈——来玩转圈圈游戏呀",
+      "title": "小椅子摆成圈——来玩转圈圈游戏呀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小椅子摆成圈——来玩转圈圈游戏呀",
+      "level": "L4",
+      "duration_ms": 696520,
+      "char_count": 2723,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小椅子摆成圈——来玩转圈圈游戏呀/小椅子摆成圈——来玩转圈圈游戏呀.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小水坑的邀请——一起踩水花好不好",
+      "title": "小水坑的邀请——一起踩水花好不好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小水坑的邀请——一起踩水花好不好",
+      "level": "L4",
+      "duration_ms": 289884,
+      "char_count": 1153,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小水坑的邀请——一起踩水花好不好/小水坑的邀请——一起踩水花好不好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小火车轨道旁问要不要一起开",
+      "title": "小火车轨道旁问要不要一起开",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小火车轨道旁问要不要一起开",
+      "level": "L4",
+      "duration_ms": 373593,
+      "char_count": 1456,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小火车轨道旁问要不要一起开/小火车轨道旁问要不要一起开.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小火车过山洞——你当司机我当乘客好吗",
+      "title": "小火车过山洞——你当司机我当乘客好吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小火车过山洞——你当司机我当乘客好吗",
+      "level": "L4",
+      "duration_ms": 440911,
+      "char_count": 1732,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小火车过山洞——你当司机我当乘客好吗/小火车过山洞——你当司机我当乘客好吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小狗，我们来玩丢球游戏吧！",
+      "title": "小狗，我们来玩丢球游戏吧！",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小狗，我们来玩丢球游戏吧！",
+      "level": "L4",
+      "duration_ms": 441992,
+      "char_count": 1741,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小狗，我们来玩丢球游戏吧！/小狗，我们来玩丢球游戏吧！.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小皮球滚到脚边问一起踢",
+      "title": "小皮球滚到脚边问一起踢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小皮球滚到脚边问一起踢",
+      "level": "L4",
+      "duration_ms": 424130,
+      "char_count": 1634,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小皮球滚到脚边问一起踢/小皮球滚到脚边问一起踢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小菜园里的合作，帮我浇浇水，一起种花",
+      "title": "小菜园里的合作，帮我浇浇水，一起种花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小菜园里的合作，帮我浇浇水，一起种花",
+      "level": "L4",
+      "duration_ms": 312458,
+      "char_count": 1221,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小菜园里的合作，帮我浇浇水，一起种花/小菜园里的合作，帮我浇浇水，一起种花.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小饼干掰成两半——你想尝尝我的味道吗",
+      "title": "小饼干掰成两半——你想尝尝我的味道吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/小饼干掰成两半——你想尝尝我的味道吗",
+      "level": "L4",
+      "duration_ms": 469526,
+      "char_count": 1782,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/小饼干掰成两半——你想尝尝我的味道吗/小饼干掰成两半——你想尝尝我的味道吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "平衡木上伸手说一起走",
+      "title": "平衡木上伸手说一起走",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/平衡木上伸手说一起走",
+      "level": "L4",
+      "duration_ms": 297743,
+      "char_count": 1168,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/平衡木上伸手说一起走/平衡木上伸手说一起走.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园毕业前的拥抱，小学也要一起玩",
+      "title": "幼儿园毕业前的拥抱，小学也要一起玩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/幼儿园毕业前的拥抱，小学也要一起玩",
+      "level": "L4",
+      "duration_ms": 380527,
+      "char_count": 1477,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/幼儿园毕业前的拥抱，小学也要一起玩/幼儿园毕业前的拥抱，小学也要一起玩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园沙池里的邀请，我们一起堆城堡吧",
+      "title": "幼儿园沙池里的邀请，我们一起堆城堡吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/幼儿园沙池里的邀请，我们一起堆城堡吧",
+      "level": "L4",
+      "duration_ms": 499091,
+      "char_count": 1955,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/幼儿园沙池里的邀请，我们一起堆城堡吧/幼儿园沙池里的邀请，我们一起堆城堡吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "彩笔少了一支——我们共用颜色画彩虹",
+      "title": "彩笔少了一支——我们共用颜色画彩虹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/彩笔少了一支——我们共用颜色画彩虹",
+      "level": "L4",
+      "duration_ms": 456162,
+      "char_count": 1793,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/彩笔少了一支——我们共用颜色画彩虹/彩笔少了一支——我们共用颜色画彩虹.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我也想荡秋千，能和你一起吗？",
+      "title": "我也想荡秋千，能和你一起吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/我也想荡秋千，能和你一起吗？",
+      "level": "L4",
+      "duration_ms": 431059,
+      "char_count": 1697,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/我也想荡秋千，能和你一起吗？/我也想荡秋千，能和你一起吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我偷偷把同桌的铅笔放进自己书包",
+      "title": "我偷偷把同桌的铅笔放进自己书包",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/我偷偷把同桌的铅笔放进自己书包",
+      "level": "L4",
+      "duration_ms": 562202,
+      "char_count": 2188,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/我偷偷把同桌的铅笔放进自己书包/我偷偷把同桌的铅笔放进自己书包.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我发明了‘一起玩’魔法暗号",
+      "title": "我发明了‘一起玩’魔法暗号",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/我发明了‘一起玩’魔法暗号",
+      "level": "L4",
+      "duration_ms": 477451,
+      "char_count": 1866,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/我发明了‘一起玩’魔法暗号/我发明了‘一起玩’魔法暗号.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我在操场边看着他们踢足球",
+      "title": "我在操场边看着他们踢足球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/我在操场边看着他们踢足球",
+      "level": "L4",
+      "duration_ms": 378848,
+      "char_count": 1487,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/我在操场边看着他们踢足球/我在操场边看着他们踢足球.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我想当小公主，你来当王子吗？",
+      "title": "我想当小公主，你来当王子吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/我想当小公主，你来当王子吗？",
+      "level": "L4",
+      "duration_ms": 514412,
+      "char_count": 2000,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/我想当小公主，你来当王子吗？/我想当小公主，你来当王子吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我的赛车最快，我们来比赛吧！",
+      "title": "我的赛车最快，我们来比赛吧！",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/我的赛车最快，我们来比赛吧！",
+      "level": "L4",
+      "duration_ms": 421487,
+      "char_count": 1640,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/我的赛车最快，我们来比赛吧！/我的赛车最快，我们来比赛吧！.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我趁没人注意把同桌的零食藏起来",
+      "title": "我趁没人注意把同桌的零食藏起来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/我趁没人注意把同桌的零食藏起来",
+      "level": "L4",
+      "duration_ms": 497914,
+      "char_count": 1951,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/我趁没人注意把同桌的零食藏起来/我趁没人注意把同桌的零食藏起来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "扣子自己扣不上——请你帮我揪一下衣角",
+      "title": "扣子自己扣不上——请你帮我揪一下衣角",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/扣子自己扣不上——请你帮我揪一下衣角",
+      "level": "L4",
+      "duration_ms": 466626,
+      "char_count": 1819,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/扣子自己扣不上——请你帮我揪一下衣角/扣子自己扣不上——请你帮我揪一下衣角.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "换牙期的勇敢邀请，缺了牙也要一起笑",
+      "title": "换牙期的勇敢邀请，缺了牙也要一起笑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/换牙期的勇敢邀请，缺了牙也要一起笑",
+      "level": "L4",
+      "duration_ms": 359133,
+      "char_count": 1409,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/换牙期的勇敢邀请，缺了牙也要一起笑/换牙期的勇敢邀请，缺了牙也要一起笑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "接力棒传给我，我们一起来赛跑吧",
+      "title": "接力棒传给我，我们一起来赛跑吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/接力棒传给我，我们一起来赛跑吧",
+      "level": "L4",
+      "duration_ms": 421809,
+      "char_count": 1662,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/接力棒传给我，我们一起来赛跑吧/接力棒传给我，我们一起来赛跑吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "摇摇马上挥手叫小伙伴来坐",
+      "title": "摇摇马上挥手叫小伙伴来坐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/摇摇马上挥手叫小伙伴来坐",
+      "level": "L4",
+      "duration_ms": 451808,
+      "char_count": 1792,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/摇摇马上挥手叫小伙伴来坐/摇摇马上挥手叫小伙伴来坐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "操场上的小追逐，等等我，我们一起跑",
+      "title": "操场上的小追逐，等等我，我们一起跑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/操场上的小追逐，等等我，我们一起跑",
+      "level": "L4",
+      "duration_ms": 366593,
+      "char_count": 1421,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/操场上的小追逐，等等我，我们一起跑/操场上的小追逐，等等我，我们一起跑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "操场上那个转学来的男孩，我该怎样邀请他一起踢球",
+      "title": "操场上那个转学来的男孩，我该怎样邀请他一起踢球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/操场上那个转学来的男孩，我该怎样邀请他一起踢球",
+      "level": "L4",
+      "duration_ms": 364850,
+      "char_count": 1411,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/操场上那个转学来的男孩，我该怎样邀请他一起踢球/操场上那个转学来的男孩，我该怎样邀请他一起踢球.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "放学路上小美说‘不和你玩了’",
+      "title": "放学路上小美说‘不和你玩了’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/放学路上小美说‘不和你玩了’",
+      "level": "L4",
+      "duration_ms": 337313,
+      "char_count": 1314,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/放学路上小美说‘不和你玩了’/放学路上小美说‘不和你玩了’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "放学路上，三个同学聊得热火朝天，我快步跟上",
+      "title": "放学路上，三个同学聊得热火朝天，我快步跟上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/放学路上，三个同学聊得热火朝天，我快步跟上",
+      "level": "L4",
+      "duration_ms": 361493,
+      "char_count": 1404,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/放学路上，三个同学聊得热火朝天，我快步跟上/放学路上，三个同学聊得热火朝天，我快步跟上.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学竞赛前，我和曾吵过架的搭档各自走来，我先开口",
+      "title": "数学竞赛前，我和曾吵过架的搭档各自走来，我先开口",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/数学竞赛前，我和曾吵过架的搭档各自走来，我先开口",
+      "level": "L4",
+      "duration_ms": 395172,
+      "char_count": 1542,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/数学竞赛前，我和曾吵过架的搭档各自走来，我先开口/数学竞赛前，我和曾吵过架的搭档各自走来，我先开口.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "新转来的女孩在角落画画",
+      "title": "新转来的女孩在角落画画",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/新转来的女孩在角落画画",
+      "level": "L4",
+      "duration_ms": 337601,
+      "char_count": 1338,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/新转来的女孩在角落画画/新转来的女孩在角落画画.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "时间小闹钟的约定，分针走到6，我们集合",
+      "title": "时间小闹钟的约定，分针走到6，我们集合",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/时间小闹钟的约定，分针走到6，我们集合",
+      "level": "L4",
+      "duration_ms": 338706,
+      "char_count": 1319,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/时间小闹钟的约定，分针走到6，我们集合/时间小闹钟的约定，分针走到6，我们集合.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "春游大巴上，我旁边的座位空着，我朝犹豫的同学招手",
+      "title": "春游大巴上，我旁边的座位空着，我朝犹豫的同学招手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/春游大巴上，我旁边的座位空着，我朝犹豫的同学招手",
+      "level": "L4",
+      "duration_ms": 271526,
+      "char_count": 1069,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/春游大巴上，我旁边的座位空着，我朝犹豫的同学招手/春游大巴上，我旁边的座位空着，我朝犹豫的同学招手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "春游时我坐在大巴最后一排",
+      "title": "春游时我坐在大巴最后一排",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/春游时我坐在大巴最后一排",
+      "level": "L4",
+      "duration_ms": 354776,
+      "char_count": 1390,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/春游时我坐在大巴最后一排/春游时我坐在大巴最后一排.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "比赛输了后我把奖杯推下桌子",
+      "title": "比赛输了后我把奖杯推下桌子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/比赛输了后我把奖杯推下桌子",
+      "level": "L4",
+      "duration_ms": 308634,
+      "char_count": 1203,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/比赛输了后我把奖杯推下桌子/比赛输了后我把奖杯推下桌子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "水龙头下玩水枪问一起打水仗",
+      "title": "水龙头下玩水枪问一起打水仗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/水龙头下玩水枪问一起打水仗",
+      "level": "L4",
+      "duration_ms": 341345,
+      "char_count": 1328,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/水龙头下玩水枪问一起打水仗/水龙头下玩水枪问一起打水仗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "沙包丢得太远——我们互相扔着玩吧",
+      "title": "沙包丢得太远——我们互相扔着玩吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/沙包丢得太远——我们互相扔着玩吧",
+      "level": "L4",
+      "duration_ms": 314598,
+      "char_count": 1218,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/沙包丢得太远——我们互相扔着玩吧/沙包丢得太远——我们互相扔着玩吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "沙坑里的城堡，我能帮忙挖吗？",
+      "title": "沙坑里的城堡，我能帮忙挖吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/沙坑里的城堡，我能帮忙挖吗？",
+      "level": "L4",
+      "duration_ms": 355992,
+      "char_count": 1389,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/沙坑里的城堡，我能帮忙挖吗？/沙坑里的城堡，我能帮忙挖吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "沙坑里的小铲子——你愿意和我挖隧道吗",
+      "title": "沙坑里的小铲子——你愿意和我挖隧道吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/沙坑里的小铲子——你愿意和我挖隧道吗",
+      "level": "L4",
+      "duration_ms": 332523,
+      "char_count": 1314,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/沙坑里的小铲子——你愿意和我挖隧道吗/沙坑里的小铲子——你愿意和我挖隧道吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "沙池里举起小铲子问一起挖沙子",
+      "title": "沙池里举起小铲子问一起挖沙子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/沙池里举起小铲子问一起挖沙子",
+      "level": "L4",
+      "duration_ms": 407811,
+      "char_count": 1611,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/沙池里举起小铲子问一起挖沙子/沙池里举起小铲子问一起挖沙子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "泡泡机前追着泡泡喊一起吹",
+      "title": "泡泡机前追着泡泡喊一起吹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/泡泡机前追着泡泡喊一起吹",
+      "level": "L4",
+      "duration_ms": 279454,
+      "char_count": 1110,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/泡泡机前追着泡泡喊一起吹/泡泡机前追着泡泡喊一起吹.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "泡泡机没电了——我们轮流吹怎么办",
+      "title": "泡泡机没电了——我们轮流吹怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/泡泡机没电了——我们轮流吹怎么办",
+      "level": "L4",
+      "duration_ms": 415632,
+      "char_count": 1621,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/泡泡机没电了——我们轮流吹怎么办/泡泡机没电了——我们轮流吹怎么办.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "泡泡飞得好高，我们一起追泡泡吧",
+      "title": "泡泡飞得好高，我们一起追泡泡吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/泡泡飞得好高，我们一起追泡泡吧",
+      "level": "L4",
+      "duration_ms": 368953,
+      "char_count": 1443,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/泡泡飞得好高，我们一起追泡泡吧/泡泡飞得好高，我们一起追泡泡吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "海洋球池里扔出一个球说一起玩",
+      "title": "海洋球池里扔出一个球说一起玩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/海洋球池里扔出一个球说一起玩",
+      "level": "L4",
+      "duration_ms": 219459,
+      "char_count": 865,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/海洋球池里扔出一个球说一起玩/海洋球池里扔出一个球说一起玩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "游戏online里，我打字问野队队友要不要组固定队",
+      "title": "游戏online里，我打字问野队队友要不要组固定队",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/游戏online里，我打字问野队队友要不要组固定队",
+      "level": "L4",
+      "duration_ms": 447310,
+      "char_count": 1720,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/游戏online里，我打字问野队队友要不要组固定队/游戏online里，我打字问野队队友要不要组固定队.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "游泳馆更衣室，那个常拿我泳帽的女生突然和我搭话",
+      "title": "游泳馆更衣室，那个常拿我泳帽的女生突然和我搭话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/游泳馆更衣室，那个常拿我泳帽的女生突然和我搭话",
+      "level": "L4",
+      "duration_ms": 363349,
+      "char_count": 1431,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/游泳馆更衣室，那个常拿我泳帽的女生突然和我搭话/游泳馆更衣室，那个常拿我泳帽的女生突然和我搭话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑板车上拍拍后座说带你去玩",
+      "title": "滑板车上拍拍后座说带你去玩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/滑板车上拍拍后座说带你去玩",
+      "level": "L4",
+      "duration_ms": 362136,
+      "char_count": 1408,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/滑板车上拍拍后座说带你去玩/滑板车上拍拍后座说带你去玩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑梯口的小排队——我可以说你先滑吗",
+      "title": "滑梯口的小排队——我可以说你先滑吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/滑梯口的小排队——我可以说你先滑吗",
+      "level": "L4",
+      "duration_ms": 348382,
+      "char_count": 1364,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/滑梯口的小排队——我可以说你先滑吗/滑梯口的小排队——我可以说你先滑吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑梯旁抱着小熊问要不要一起滑",
+      "title": "滑梯旁抱着小熊问要不要一起滑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/滑梯旁抱着小熊问要不要一起滑",
+      "level": "L4",
+      "duration_ms": 308562,
+      "char_count": 1219,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/滑梯旁抱着小熊问要不要一起滑/滑梯旁抱着小熊问要不要一起滑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑梯旁，我小声说：一起玩吧",
+      "title": "滑梯旁，我小声说：一起玩吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/滑梯旁，我小声说：一起玩吧",
+      "level": "L4",
+      "duration_ms": 400095,
+      "char_count": 1584,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/滑梯旁，我小声说：一起玩吧/滑梯旁，我小声说：一起玩吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑梯边的小犹豫——要不要问那个小朋友",
+      "title": "滑梯边的小犹豫——要不要问那个小朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/滑梯边的小犹豫——要不要问那个小朋友",
+      "level": "L4",
+      "duration_ms": 462808,
+      "char_count": 1795,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/滑梯边的小犹豫——要不要问那个小朋友/滑梯边的小犹豫——要不要问那个小朋友.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑梯边的小犹豫，怎么开口说一起玩",
+      "title": "滑梯边的小犹豫，怎么开口说一起玩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/滑梯边的小犹豫，怎么开口说一起玩",
+      "level": "L4",
+      "duration_ms": 436952,
+      "char_count": 1724,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/滑梯边的小犹豫，怎么开口说一起玩/滑梯边的小犹豫，怎么开口说一起玩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸，我们一起玩捉迷藏好不好？",
+      "title": "爸爸，我们一起玩捉迷藏好不好？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/爸爸，我们一起玩捉迷藏好不好？",
+      "level": "L4",
+      "duration_ms": 525310,
+      "char_count": 2027,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/爸爸，我们一起玩捉迷藏好不好？/爸爸，我们一起玩捉迷藏好不好？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "独自睡觉前的悄悄话，明天我们一起玩好吗",
+      "title": "独自睡觉前的悄悄话，明天我们一起玩好吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/独自睡觉前的悄悄话，明天我们一起玩好吗",
+      "level": "L4",
+      "duration_ms": 367063,
+      "char_count": 1432,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/独自睡觉前的悄悄话，明天我们一起玩好吗/独自睡觉前的悄悄话，明天我们一起玩好吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "玩具小汽车的轮子——能和我一起开吗",
+      "title": "玩具小汽车的轮子——能和我一起开吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/玩具小汽车的轮子——能和我一起开吗",
+      "level": "L4",
+      "duration_ms": 426561,
+      "char_count": 1685,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/玩具小汽车的轮子——能和我一起开吗/玩具小汽车的轮子——能和我一起开吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "班级大扫除，我负责擦窗，他拖地到我这多停了两秒",
+      "title": "班级大扫除，我负责擦窗，他拖地到我这多停了两秒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/班级大扫除，我负责擦窗，他拖地到我这多停了两秒",
+      "level": "L4",
+      "duration_ms": 347098,
+      "char_count": 1370,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/班级大扫除，我负责擦窗，他拖地到我这多停了两秒/班级大扫除，我负责擦窗，他拖地到我这多停了两秒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生日派对上只有我没收到邀请",
+      "title": "生日派对上只有我没收到邀请",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/生日派对上只有我没收到邀请",
+      "level": "L4",
+      "duration_ms": 359881,
+      "char_count": 1375,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/生日派对上只有我没收到邀请/生日派对上只有我没收到邀请.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生日派对只有三个人来，我红着眼睛邀请第四个人",
+      "title": "生日派对只有三个人来，我红着眼睛邀请第四个人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/生日派对只有三个人来，我红着眼睛邀请第四个人",
+      "level": "L4",
+      "duration_ms": 444202,
+      "char_count": 1743,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/生日派对只有三个人来，我红着眼睛邀请第四个人/生日派对只有三个人来，我红着眼睛邀请第四个人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "画板前递出画笔问一起画画",
+      "title": "画板前递出画笔问一起画画",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/画板前递出画笔问一起画画",
+      "level": "L4",
+      "duration_ms": 353591,
+      "char_count": 1373,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/画板前递出画笔问一起画画/画板前递出画笔问一起画画.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "画纸上的空白，你愿意帮我画朵花吗",
+      "title": "画纸上的空白，你愿意帮我画朵花吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/画纸上的空白，你愿意帮我画朵花吗",
+      "level": "L4",
+      "duration_ms": 415456,
+      "char_count": 1629,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/画纸上的空白，你愿意帮我画朵花吗/画纸上的空白，你愿意帮我画朵花吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看你画得真漂亮，我能一起画吗？",
+      "title": "看你画得真漂亮，我能一起画吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/看你画得真漂亮，我能一起画吗？",
+      "level": "L6",
+      "duration_ms": 138200,
+      "char_count": 564,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/看你画得真漂亮，我能一起画吗？/看你画得真漂亮，我能一起画吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "社团活动分组时，我鼓起勇气走向独自坐着的她",
+      "title": "社团活动分组时，我鼓起勇气走向独自坐着的她",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/社团活动分组时，我鼓起勇气走向独自坐着的她",
+      "level": "L4",
+      "duration_ms": 365025,
+      "char_count": 1428,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/社团活动分组时，我鼓起勇气走向独自坐着的她/社团活动分组时，我鼓起勇气走向独自坐着的她.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "秋千上的空位置——我轻轻问你要不要荡",
+      "title": "秋千上的空位置——我轻轻问你要不要荡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/秋千上的空位置——我轻轻问你要不要荡",
+      "level": "L4",
+      "duration_ms": 316851,
+      "char_count": 1243,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/秋千上的空位置——我轻轻问你要不要荡/秋千上的空位置——我轻轻问你要不要荡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "秋千旁的小兔子，我想和你一起荡",
+      "title": "秋千旁的小兔子，我想和你一起荡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/秋千旁的小兔子，我想和你一起荡",
+      "level": "L4",
+      "duration_ms": 327027,
+      "char_count": 1270,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/秋千旁的小兔子，我想和你一起荡/秋千旁的小兔子，我想和你一起荡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "秋千旁边推着空秋千问一起荡",
+      "title": "秋千旁边推着空秋千问一起荡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/秋千旁边推着空秋千问一起荡",
+      "level": "L4",
+      "duration_ms": 355310,
+      "char_count": 1399,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/秋千旁边推着空秋千问一起荡/秋千旁边推着空秋千问一起荡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "秋千旁那个空着的位子",
+      "title": "秋千旁那个空着的位子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/秋千旁那个空着的位子",
+      "level": "L4",
+      "duration_ms": 319385,
+      "char_count": 1205,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/秋千旁那个空着的位子/秋千旁那个空着的位子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "科学实验课没人愿意和我一组",
+      "title": "科学实验课没人愿意和我一组",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/科学实验课没人愿意和我一组",
+      "level": "L4",
+      "duration_ms": 499018,
+      "char_count": 1923,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/科学实验课没人愿意和我一组/科学实验课没人愿意和我一组.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "科学课小组合作，我主动向沉默的男生伸出友谊之手",
+      "title": "科学课小组合作，我主动向沉默的男生伸出友谊之手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/科学课小组合作，我主动向沉默的男生伸出友谊之手",
+      "level": "L4",
+      "duration_ms": 433450,
+      "char_count": 1689,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/科学课小组合作，我主动向沉默的男生伸出友谊之手/科学课小组合作，我主动向沉默的男生伸出友谊之手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "积木区把蓝色积木递给小朋友",
+      "title": "积木区把蓝色积木递给小朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/积木区把蓝色积木递给小朋友",
+      "level": "L4",
+      "duration_ms": 264352,
+      "char_count": 1043,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/积木区把蓝色积木递给小朋友/积木区把蓝色积木递给小朋友.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "积木城堡缺一块——我可以说一起搭吗",
+      "title": "积木城堡缺一块——我可以说一起搭吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/积木城堡缺一块——我可以说一起搭吗",
+      "level": "L4",
+      "duration_ms": 362243,
+      "char_count": 1438,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/积木城堡缺一块——我可以说一起搭吗/积木城堡缺一块——我可以说一起搭吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "积木城堡缺个伙伴，我轻轻敲了敲门",
+      "title": "积木城堡缺个伙伴，我轻轻敲了敲门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/积木城堡缺个伙伴，我轻轻敲了敲门",
+      "level": "L4",
+      "duration_ms": 458667,
+      "char_count": 1785,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/积木城堡缺个伙伴，我轻轻敲了敲门/积木城堡缺个伙伴，我轻轻敲了敲门.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次写作业的伙伴，我们比赛谁先写完",
+      "title": "第一次写作业的伙伴，我们比赛谁先写完",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/第一次写作业的伙伴，我们比赛谁先写完",
+      "level": "L4",
+      "duration_ms": 328597,
+      "char_count": 1287,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/第一次写作业的伙伴，我们比赛谁先写完/第一次写作业的伙伴，我们比赛谁先写完.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "绘本角拿着书对小朋友说一起看",
+      "title": "绘本角拿着书对小朋友说一起看",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/绘本角拿着书对小朋友说一起看",
+      "level": "L4",
+      "duration_ms": 335596,
+      "char_count": 1297,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/绘本角拿着书对小朋友说一起看/绘本角拿着书对小朋友说一起看.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "美术课上我的画被嘲笑像鬼画符",
+      "title": "美术课上我的画被嘲笑像鬼画符",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/美术课上我的画被嘲笑像鬼画符",
+      "level": "L4",
+      "duration_ms": 410347,
+      "char_count": 1596,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/美术课上我的画被嘲笑像鬼画符/美术课上我的画被嘲笑像鬼画符.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "舞台下的小观众，我们一起上台表演吧",
+      "title": "舞台下的小观众，我们一起上台表演吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/舞台下的小观众，我们一起上台表演吧",
+      "level": "L4",
+      "duration_ms": 425491,
+      "char_count": 1671,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/舞台下的小观众，我们一起上台表演吧/舞台下的小观众，我们一起上台表演吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "草地上滚皮球——你踢给我我踢给你",
+      "title": "草地上滚皮球——你踢给我我踢给你",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/草地上滚皮球——你踢给我我踢给你",
+      "level": "L4",
+      "duration_ms": 376236,
+      "char_count": 1455,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/草地上滚皮球——你踢给我我踢给你/草地上滚皮球——你踢给我我踢给你.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蝴蝶飞过花坛——我们轻轻跟着看它停",
+      "title": "蝴蝶飞过花坛——我们轻轻跟着看它停",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/蝴蝶飞过花坛——我们轻轻跟着看它停",
+      "level": "L4",
+      "duration_ms": 457806,
+      "char_count": 1789,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/蝴蝶飞过花坛——我们轻轻跟着看它停/蝴蝶飞过花坛——我们轻轻跟着看它停.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被嘲笑时的小手，我们一起玩，别理他",
+      "title": "被嘲笑时的小手，我们一起玩，别理他",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/被嘲笑时的小手，我们一起玩，别理他",
+      "level": "L4",
+      "duration_ms": 352884,
+      "char_count": 1319,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/被嘲笑时的小手，我们一起玩，别理他/被嘲笑时的小手，我们一起玩，别理他.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "课外班课后，大家约着去小卖部，我小声问能一起吗",
+      "title": "课外班课后，大家约着去小卖部，我小声问能一起吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/课外班课后，大家约着去小卖部，我小声问能一起吗",
+      "level": "L4",
+      "duration_ms": 511589,
+      "char_count": 2000,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/课外班课后，大家约着去小卖部，我小声问能一起吗/课外班课后，大家约着去小卖部，我小声问能一起吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "课间十分钟，同桌和另一个人玩得正欢，我如何插话",
+      "title": "课间十分钟，同桌和另一个人玩得正欢，我如何插话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/课间十分钟，同桌和另一个人玩得正欢，我如何插话",
+      "level": "L4",
+      "duration_ms": 360349,
+      "char_count": 1422,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/课间十分钟，同桌和另一个人玩得正欢，我如何插话/课间十分钟，同桌和另一个人玩得正欢，我如何插话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "课间操后没人找我跳绳",
+      "title": "课间操后没人找我跳绳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/课间操后没人找我跳绳",
+      "level": "L4",
+      "duration_ms": 439276,
+      "char_count": 1685,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/课间操后没人找我跳绳/课间操后没人找我跳绳.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蹦蹦床上跳着喊一起跳高高",
+      "title": "蹦蹦床上跳着喊一起跳高高",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/蹦蹦床上跳着喊一起跳高高",
+      "level": "L4",
+      "duration_ms": 467410,
+      "char_count": 1839,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/蹦蹦床上跳着喊一起跳高高/蹦蹦床上跳着喊一起跳高高.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "这个手工很难，我们一起做吧？",
+      "title": "这个手工很难，我们一起做吧？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/这个手工很难，我们一起做吧？",
+      "level": "L4",
+      "duration_ms": 385351,
+      "char_count": 1498,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/这个手工很难，我们一起做吧？/这个手工很难，我们一起做吧？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "长颈鹿在吃树叶，我们一起看它吧",
+      "title": "长颈鹿在吃树叶，我们一起看它吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/长颈鹿在吃树叶，我们一起看它吧",
+      "level": "L4",
+      "duration_ms": 408308,
+      "char_count": 1563,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/长颈鹿在吃树叶，我们一起看它吧/长颈鹿在吃树叶，我们一起看它吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "隧道里探出头喊小伙伴来钻",
+      "title": "隧道里探出头喊小伙伴来钻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/隧道里探出头喊小伙伴来钻",
+      "level": "L4",
+      "duration_ms": 289990,
+      "char_count": 1127,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/隧道里探出头喊小伙伴来钻/隧道里探出头喊小伙伴来钻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雨后水坑边的邀请，一起踩水花吧",
+      "title": "雨后水坑边的邀请，一起踩水花吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/雨后水坑边的邀请，一起踩水花吧",
+      "level": "L4",
+      "duration_ms": 288458,
+      "char_count": 1146,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/雨后水坑边的邀请，一起踩水花吧/雨后水坑边的邀请，一起踩水花吧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "餐桌旁的小客人，请和我一起玩积木",
+      "title": "餐桌旁的小客人，请和我一起玩积木",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "生活认知/B3社交/餐桌旁的小客人，请和我一起玩积木",
+      "level": "L4",
+      "duration_ms": 429166,
+      "char_count": 1689,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/餐桌旁的小客人，请和我一起玩积木/餐桌旁的小客人，请和我一起玩积木.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

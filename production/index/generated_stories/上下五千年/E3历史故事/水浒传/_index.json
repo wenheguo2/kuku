@@ -1,0 +1,1816 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E3历史故事/水浒传",
+  "work_name": "水浒传",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 120,
+  "total_duration_ms": 116102347,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第001回 张天师祈禳瘟疫 洪太尉误走妖魔",
+      "title": "第001回 张天师祈禳瘟疫 洪太尉误走妖魔",
+      "full_path": "上下五千年/E3历史故事/水浒传/第001回 张天师祈禳瘟疫 洪太尉误走妖魔",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 908023,
+      "char_count": 3569,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第002回 王教头私走延安府 九纹龙大闹史家村",
+      "title": "第002回 王教头私走延安府 九纹龙大闹史家村",
+      "full_path": "上下五千年/E3历史故事/水浒传/第002回 王教头私走延安府 九纹龙大闹史家村",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 916945,
+      "char_count": 3579,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第003回 史大郎夜走华阴县 鲁提辖拳打镇关西",
+      "title": "第003回 史大郎夜走华阴县 鲁提辖拳打镇关西",
+      "full_path": "上下五千年/E3历史故事/水浒传/第003回 史大郎夜走华阴县 鲁提辖拳打镇关西",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 898482,
+      "char_count": 3460,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第004回 赵员外重修文殊院 鲁智深大闹五台山",
+      "title": "第004回 赵员外重修文殊院 鲁智深大闹五台山",
+      "full_path": "上下五千年/E3历史故事/水浒传/第004回 赵员外重修文殊院 鲁智深大闹五台山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1011592,
+      "char_count": 3980,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第005回 小霸王醉入销金帐 花和尚大闹桃花村",
+      "title": "第005回 小霸王醉入销金帐 花和尚大闹桃花村",
+      "full_path": "上下五千年/E3历史故事/水浒传/第005回 小霸王醉入销金帐 花和尚大闹桃花村",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 730586,
+      "char_count": 2831,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第006回 九纹龙剪径赤松林 鲁智深火烧瓦罐寺",
+      "title": "第006回 九纹龙剪径赤松林 鲁智深火烧瓦罐寺",
+      "full_path": "上下五千年/E3历史故事/水浒传/第006回 九纹龙剪径赤松林 鲁智深火烧瓦罐寺",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1285591,
+      "char_count": 4997,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第007回 花和尚倒拔垂杨柳 豹子头误入白虎堂",
+      "title": "第007回 花和尚倒拔垂杨柳 豹子头误入白虎堂",
+      "full_path": "上下五千年/E3历史故事/水浒传/第007回 花和尚倒拔垂杨柳 豹子头误入白虎堂",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1226291,
+      "char_count": 4801,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第008回 林教头刺配沧州道 鲁智深大闹野猪林",
+      "title": "第008回 林教头刺配沧州道 鲁智深大闹野猪林",
+      "full_path": "上下五千年/E3历史故事/水浒传/第008回 林教头刺配沧州道 鲁智深大闹野猪林",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 865332,
+      "char_count": 3361,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第009回 柴进门招天下客 林冲棒打洪教头",
+      "title": "第009回 柴进门招天下客 林冲棒打洪教头",
+      "full_path": "上下五千年/E3历史故事/水浒传/第009回 柴进门招天下客 林冲棒打洪教头",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 777442,
+      "char_count": 3067,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第010回 林教头风雪山神庙 陆虞候火烧草料场",
+      "title": "第010回 林教头风雪山神庙 陆虞候火烧草料场",
+      "full_path": "上下五千年/E3历史故事/水浒传/第010回 林教头风雪山神庙 陆虞候火烧草料场",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 951016,
+      "char_count": 3649,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第011回 朱贵水亭施号箭 林冲雪夜上梁山",
+      "title": "第011回 朱贵水亭施号箭 林冲雪夜上梁山",
+      "full_path": "上下五千年/E3历史故事/水浒传/第011回 朱贵水亭施号箭 林冲雪夜上梁山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 782376,
+      "char_count": 3053,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第012回 梁山泊林冲落草 汴京城杨志卖刀",
+      "title": "第012回 梁山泊林冲落草 汴京城杨志卖刀",
+      "full_path": "上下五千年/E3历史故事/水浒传/第012回 梁山泊林冲落草 汴京城杨志卖刀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1663279,
+      "char_count": 6387,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第013回 急先锋东郭争功 青面兽北京斗武",
+      "title": "第013回 急先锋东郭争功 青面兽北京斗武",
+      "full_path": "上下五千年/E3历史故事/水浒传/第013回 急先锋东郭争功 青面兽北京斗武",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 798416,
+      "char_count": 3129,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第014回 赤发鬼醉卧灵官殿 晁天王认义东溪村",
+      "title": "第014回 赤发鬼醉卧灵官殿 晁天王认义东溪村",
+      "full_path": "上下五千年/E3历史故事/水浒传/第014回 赤发鬼醉卧灵官殿 晁天王认义东溪村",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 854049,
+      "char_count": 3286,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第015回 吴学究说三阮撞筹 公孙胜应七星聚义",
+      "title": "第015回 吴学究说三阮撞筹 公孙胜应七星聚义",
+      "full_path": "上下五千年/E3历史故事/水浒传/第015回 吴学究说三阮撞筹 公孙胜应七星聚义",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1320475,
+      "char_count": 5072,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "第016回 杨志押送金银担 吴用智取生辰纲",
+      "title": "第016回 杨志押送金银担 吴用智取生辰纲",
+      "full_path": "上下五千年/E3历史故事/水浒传/第016回 杨志押送金银担 吴用智取生辰纲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1337980,
+      "char_count": 5193,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "第017回 花和尚单打二龙山 青面兽双夺宝珠寺",
+      "title": "第017回 花和尚单打二龙山 青面兽双夺宝珠寺",
+      "full_path": "上下五千年/E3历史故事/水浒传/第017回 花和尚单打二龙山 青面兽双夺宝珠寺",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1461728,
+      "char_count": 5635,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "第018回 美髯公智稳插翅虎 宋公明私放晁天王",
+      "title": "第018回 美髯公智稳插翅虎 宋公明私放晁天王",
+      "full_path": "上下五千年/E3历史故事/水浒传/第018回 美髯公智稳插翅虎 宋公明私放晁天王",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 739056,
+      "char_count": 2834,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "第019回 林冲水寨大并火 晁盖梁山小夺泊",
+      "title": "第019回 林冲水寨大并火 晁盖梁山小夺泊",
+      "full_path": "上下五千年/E3历史故事/水浒传/第019回 林冲水寨大并火 晁盖梁山小夺泊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1041127,
+      "char_count": 3938,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "第020回 梁山泊义士尊晁盖 郓城县月夜走刘唐",
+      "title": "第020回 梁山泊义士尊晁盖 郓城县月夜走刘唐",
+      "full_path": "上下五千年/E3历史故事/水浒传/第020回 梁山泊义士尊晁盖 郓城县月夜走刘唐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1173368,
+      "char_count": 4471,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "第021回 虔婆醉打唐牛儿 宋江怒杀阎婆惜",
+      "title": "第021回 虔婆醉打唐牛儿 宋江怒杀阎婆惜",
+      "full_path": "上下五千年/E3历史故事/水浒传/第021回 虔婆醉打唐牛儿 宋江怒杀阎婆惜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 935915,
+      "char_count": 3604,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "第022回 阎婆大闹郓城县 朱仝义释宋公明",
+      "title": "第022回 阎婆大闹郓城县 朱仝义释宋公明",
+      "full_path": "上下五千年/E3历史故事/水浒传/第022回 阎婆大闹郓城县 朱仝义释宋公明",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 866269,
+      "char_count": 3332,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "第023回 横海郡柴进留宾 景阳冈武松打虎",
+      "title": "第023回 横海郡柴进留宾 景阳冈武松打虎",
+      "full_path": "上下五千年/E3历史故事/水浒传/第023回 横海郡柴进留宾 景阳冈武松打虎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 823948,
+      "char_count": 3200,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "第024回 王婆贪贿说风情 郓哥不忿闹茶肆",
+      "title": "第024回 王婆贪贿说风情 郓哥不忿闹茶肆",
+      "full_path": "上下五千年/E3历史故事/水浒传/第024回 王婆贪贿说风情 郓哥不忿闹茶肆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1156124,
+      "char_count": 4471,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "第025回 王婆计啜西门庆 淫妇药鸩武大郎",
+      "title": "第025回 王婆计啜西门庆 淫妇药鸩武大郎",
+      "full_path": "上下五千年/E3历史故事/水浒传/第025回 王婆计啜西门庆 淫妇药鸩武大郎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 716273,
+      "char_count": 2795,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "第026回 偷骨殖何九叔送丧 供人头武二郎设祭",
+      "title": "第026回 偷骨殖何九叔送丧 供人头武二郎设祭",
+      "full_path": "上下五千年/E3历史故事/水浒传/第026回 偷骨殖何九叔送丧 供人头武二郎设祭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1162519,
+      "char_count": 4110,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "第027回 母夜叉孟州道卖人肉 武都头十字坡遇张青",
+      "title": "第027回 母夜叉孟州道卖人肉 武都头十字坡遇张青",
+      "full_path": "上下五千年/E3历史故事/水浒传/第027回 母夜叉孟州道卖人肉 武都头十字坡遇张青",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 858169,
+      "char_count": 3330,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "第028回 武松威镇安平寨 施恩义夺快活林",
+      "title": "第028回 武松威镇安平寨 施恩义夺快活林",
+      "full_path": "上下五千年/E3历史故事/水浒传/第028回 武松威镇安平寨 施恩义夺快活林",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 878010,
+      "char_count": 3426,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "第029回 施恩重霸孟州道 武松醉打蒋门神",
+      "title": "第029回 施恩重霸孟州道 武松醉打蒋门神",
+      "full_path": "上下五千年/E3历史故事/水浒传/第029回 施恩重霸孟州道 武松醉打蒋门神",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1031619,
+      "char_count": 3982,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "第030回 施恩三入死囚牢 武松大闹飞云浦",
+      "title": "第030回 施恩三入死囚牢 武松大闹飞云浦",
+      "full_path": "上下五千年/E3历史故事/水浒传/第030回 施恩三入死囚牢 武松大闹飞云浦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 930701,
+      "char_count": 3639,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "第031回 张都监血溅鸳鸯楼 武行者夜走蜈蚣岭",
+      "title": "第031回 张都监血溅鸳鸯楼 武行者夜走蜈蚣岭",
+      "full_path": "上下五千年/E3历史故事/水浒传/第031回 张都监血溅鸳鸯楼 武行者夜走蜈蚣岭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1119691,
+      "char_count": 4300,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "第032回 武行者醉打孔亮 锦毛虎义释宋江",
+      "title": "第032回 武行者醉打孔亮 锦毛虎义释宋江",
+      "full_path": "上下五千年/E3历史故事/水浒传/第032回 武行者醉打孔亮 锦毛虎义释宋江",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 826411,
+      "char_count": 3251,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "第033回 宋江夜看小鳌山 花荣大闹清风寨",
+      "title": "第033回 宋江夜看小鳌山 花荣大闹清风寨",
+      "full_path": "上下五千年/E3历史故事/水浒传/第033回 宋江夜看小鳌山 花荣大闹清风寨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1647326,
+      "char_count": 6316,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "第034回 镇三山大闹青州道 霹雳火夜走瓦砾场",
+      "title": "第034回 镇三山大闹青州道 霹雳火夜走瓦砾场",
+      "full_path": "上下五千年/E3历史故事/水浒传/第034回 镇三山大闹青州道 霹雳火夜走瓦砾场",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 803267,
+      "char_count": 3081,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "第035回 石将军村店寄书 小李广梁山射雁",
+      "title": "第035回 石将军村店寄书 小李广梁山射雁",
+      "full_path": "上下五千年/E3历史故事/水浒传/第035回 石将军村店寄书 小李广梁山射雁",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 724663,
+      "char_count": 2790,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "第036回 梁山泊吴用举戴宗 揭阳岭宋江逢李俊",
+      "title": "第036回 梁山泊吴用举戴宗 揭阳岭宋江逢李俊",
+      "full_path": "上下五千年/E3历史故事/水浒传/第036回 梁山泊吴用举戴宗 揭阳岭宋江逢李俊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1209220,
+      "char_count": 4677,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "第037回 没遮拦追赶及时雨 船火儿夜闹浔阳江",
+      "title": "第037回 没遮拦追赶及时雨 船火儿夜闹浔阳江",
+      "full_path": "上下五千年/E3历史故事/水浒传/第037回 没遮拦追赶及时雨 船火儿夜闹浔阳江",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1308840,
+      "char_count": 5019,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "第038回 及时雨会神行太保 黑旋风斗浪里白跳",
+      "title": "第038回 及时雨会神行太保 黑旋风斗浪里白跳",
+      "full_path": "上下五千年/E3历史故事/水浒传/第038回 及时雨会神行太保 黑旋风斗浪里白跳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 781084,
+      "char_count": 3058,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "第039回 浔阳楼宋江吟反诗 梁山泊戴宗传假信",
+      "title": "第039回 浔阳楼宋江吟反诗 梁山泊戴宗传假信",
+      "full_path": "上下五千年/E3历史故事/水浒传/第039回 浔阳楼宋江吟反诗 梁山泊戴宗传假信",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1172197,
+      "char_count": 4547,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "第040回 梁山泊好汉劫法场 白龙庙英雄小聚义",
+      "title": "第040回 梁山泊好汉劫法场 白龙庙英雄小聚义",
+      "full_path": "上下五千年/E3历史故事/水浒传/第040回 梁山泊好汉劫法场 白龙庙英雄小聚义",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1015299,
+      "char_count": 3939,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "第041回 宋江智取无为军 张顺活捉黄文炳",
+      "title": "第041回 宋江智取无为军 张顺活捉黄文炳",
+      "full_path": "上下五千年/E3历史故事/水浒传/第041回 宋江智取无为军 张顺活捉黄文炳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1138118,
+      "char_count": 4385,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "第042回 还道村受三卷天书 宋公明遇九天玄女",
+      "title": "第042回 还道村受三卷天书 宋公明遇九天玄女",
+      "full_path": "上下五千年/E3历史故事/水浒传/第042回 还道村受三卷天书 宋公明遇九天玄女",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 793628,
+      "char_count": 3016,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "第043回 假李逵剪径劫单人 黑旋风沂岭杀四虎",
+      "title": "第043回 假李逵剪径劫单人 黑旋风沂岭杀四虎",
+      "full_path": "上下五千年/E3历史故事/水浒传/第043回 假李逵剪径劫单人 黑旋风沂岭杀四虎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1155661,
+      "char_count": 4523,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "第044回 锦豹子小径逢戴宗 病关索长街遇石秀",
+      "title": "第044回 锦豹子小径逢戴宗 病关索长街遇石秀",
+      "full_path": "上下五千年/E3历史故事/水浒传/第044回 锦豹子小径逢戴宗 病关索长街遇石秀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 794871,
+      "char_count": 3101,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "第045回 杨雄醉骂潘巧云 石秀智杀裴如海",
+      "title": "第045回 杨雄醉骂潘巧云 石秀智杀裴如海",
+      "full_path": "上下五千年/E3历史故事/水浒传/第045回 杨雄醉骂潘巧云 石秀智杀裴如海",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 785303,
+      "char_count": 3080,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "第046回 病关索大闹翠屏山 拚命三火烧祝家店",
+      "title": "第046回 病关索大闹翠屏山 拚命三火烧祝家店",
+      "full_path": "上下五千年/E3历史故事/水浒传/第046回 病关索大闹翠屏山 拚命三火烧祝家店",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1037376,
+      "char_count": 4013,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "第047回 扑天雕双修生死书 宋公明一打祝家庄",
+      "title": "第047回 扑天雕双修生死书 宋公明一打祝家庄",
+      "full_path": "上下五千年/E3历史故事/水浒传/第047回 扑天雕双修生死书 宋公明一打祝家庄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1041149,
+      "char_count": 4070,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "第048回 一丈青单捉王矮虎 宋公明两打祝家庄",
+      "title": "第048回 一丈青单捉王矮虎 宋公明两打祝家庄",
+      "full_path": "上下五千年/E3历史故事/水浒传/第048回 一丈青单捉王矮虎 宋公明两打祝家庄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 834728,
+      "char_count": 3232,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "第049回 解珍解宝双越狱 孙立孙新大劫牢",
+      "title": "第049回 解珍解宝双越狱 孙立孙新大劫牢",
+      "full_path": "上下五千年/E3历史故事/水浒传/第049回 解珍解宝双越狱 孙立孙新大劫牢",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 862015,
+      "char_count": 2999,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "第050回 吴学究双掌连环计 宋公明三打祝家庄",
+      "title": "第050回 吴学究双掌连环计 宋公明三打祝家庄",
+      "full_path": "上下五千年/E3历史故事/水浒传/第050回 吴学究双掌连环计 宋公明三打祝家庄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1266394,
+      "char_count": 4923,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "第051回 插翅虎枷打白秀英 美髯公误失小衙内",
+      "title": "第051回 插翅虎枷打白秀英 美髯公误失小衙内",
+      "full_path": "上下五千年/E3历史故事/水浒传/第051回 插翅虎枷打白秀英 美髯公误失小衙内",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 800664,
+      "char_count": 3162,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "第052回 李逵打死殷天锡 柴进失陷高唐州",
+      "title": "第052回 李逵打死殷天锡 柴进失陷高唐州",
+      "full_path": "上下五千年/E3历史故事/水浒传/第052回 李逵打死殷天锡 柴进失陷高唐州",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1133805,
+      "char_count": 4394,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "第053回 戴宗智取公孙胜 李逵斧劈罗真人",
+      "title": "第053回 戴宗智取公孙胜 李逵斧劈罗真人",
+      "full_path": "上下五千年/E3历史故事/水浒传/第053回 戴宗智取公孙胜 李逵斧劈罗真人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 988447,
+      "char_count": 3866,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "第054回 入云龙斗法破高廉 黑旋风探穴救柴进",
+      "title": "第054回 入云龙斗法破高廉 黑旋风探穴救柴进",
+      "full_path": "上下五千年/E3历史故事/水浒传/第054回 入云龙斗法破高廉 黑旋风探穴救柴进",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 946867,
+      "char_count": 3725,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "第055回 高太尉大兴三路兵 呼延灼摆布连环马",
+      "title": "第055回 高太尉大兴三路兵 呼延灼摆布连环马",
+      "full_path": "上下五千年/E3历史故事/水浒传/第055回 高太尉大兴三路兵 呼延灼摆布连环马",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 749346,
+      "char_count": 2944,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "第056回 吴用使时迁盗甲 汤隆赚徐宁上山",
+      "title": "第056回 吴用使时迁盗甲 汤隆赚徐宁上山",
+      "full_path": "上下五千年/E3历史故事/水浒传/第056回 吴用使时迁盗甲 汤隆赚徐宁上山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 689161,
+      "char_count": 2646,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "第057回 徐宁教使钩镰枪 宋江大破连环马",
+      "title": "第057回 徐宁教使钩镰枪 宋江大破连环马",
+      "full_path": "上下五千年/E3历史故事/水浒传/第057回 徐宁教使钩镰枪 宋江大破连环马",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1145501,
+      "char_count": 4452,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "第058回 三山聚义打青州 众虎同心归水泊",
+      "title": "第058回 三山聚义打青州 众虎同心归水泊",
+      "full_path": "上下五千年/E3历史故事/水浒传/第058回 三山聚义打青州 众虎同心归水泊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1780428,
+      "char_count": 6780,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "第059回 吴用赚金铃吊挂 宋江闹西岳华山",
+      "title": "第059回 吴用赚金铃吊挂 宋江闹西岳华山",
+      "full_path": "上下五千年/E3历史故事/水浒传/第059回 吴用赚金铃吊挂 宋江闹西岳华山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1300296,
+      "char_count": 5028,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "第060回 公孙胜芒砀山降魔 晁天王曾头市中箭",
+      "title": "第060回 公孙胜芒砀山降魔 晁天王曾头市中箭",
+      "full_path": "上下五千年/E3历史故事/水浒传/第060回 公孙胜芒砀山降魔 晁天王曾头市中箭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1047477,
+      "char_count": 4068,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "第061回 吴用智赚玉麒麟 张顺夜闹金沙渡",
+      "title": "第061回 吴用智赚玉麒麟 张顺夜闹金沙渡",
+      "full_path": "上下五千年/E3历史故事/水浒传/第061回 吴用智赚玉麒麟 张顺夜闹金沙渡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 842838,
+      "char_count": 3290,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "第062回 放冷箭燕青救主 劫法场石秀跳楼",
+      "title": "第062回 放冷箭燕青救主 劫法场石秀跳楼",
+      "full_path": "上下五千年/E3历史故事/水浒传/第062回 放冷箭燕青救主 劫法场石秀跳楼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 742981,
+      "char_count": 2917,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "第063回 宋江兵打北京城 关胜议取梁山泊",
+      "title": "第063回 宋江兵打北京城 关胜议取梁山泊",
+      "full_path": "上下五千年/E3历史故事/水浒传/第063回 宋江兵打北京城 关胜议取梁山泊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1221972,
+      "char_count": 4692,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "第064回 呼延灼月夜赚关胜 宋公明雪天擒索超",
+      "title": "第064回 呼延灼月夜赚关胜 宋公明雪天擒索超",
+      "full_path": "上下五千年/E3历史故事/水浒传/第064回 呼延灼月夜赚关胜 宋公明雪天擒索超",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 811092,
+      "char_count": 3122,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "第065回 托塔天王梦中显圣 浪里白跳水上报冤",
+      "title": "第065回 托塔天王梦中显圣 浪里白跳水上报冤",
+      "full_path": "上下五千年/E3历史故事/水浒传/第065回 托塔天王梦中显圣 浪里白跳水上报冤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 885443,
+      "char_count": 3460,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "第066回 时迁火烧翠云楼 吴用智取大名府",
+      "title": "第066回 时迁火烧翠云楼 吴用智取大名府",
+      "full_path": "上下五千年/E3历史故事/水浒传/第066回 时迁火烧翠云楼 吴用智取大名府",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 990939,
+      "char_count": 3865,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "第067回 宋江赏马步三军 关胜降水火二将",
+      "title": "第067回 宋江赏马步三军 关胜降水火二将",
+      "full_path": "上下五千年/E3历史故事/水浒传/第067回 宋江赏马步三军 关胜降水火二将",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 944190,
+      "char_count": 3623,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "第068回 宋公明夜打曾头市 卢俊义活捉史文恭",
+      "title": "第068回 宋公明夜打曾头市 卢俊义活捉史文恭",
+      "full_path": "上下五千年/E3历史故事/水浒传/第068回 宋公明夜打曾头市 卢俊义活捉史文恭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 808236,
+      "char_count": 3115,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "第069回 东平府误陷九纹龙 宋公明义释双枪将",
+      "title": "第069回 东平府误陷九纹龙 宋公明义释双枪将",
+      "full_path": "上下五千年/E3历史故事/水浒传/第069回 东平府误陷九纹龙 宋公明义释双枪将",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1097411,
+      "char_count": 4262,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "第070回 没羽箭飞石打英雄 宋公明弃粮擒壮士",
+      "title": "第070回 没羽箭飞石打英雄 宋公明弃粮擒壮士",
+      "full_path": "上下五千年/E3历史故事/水浒传/第070回 没羽箭飞石打英雄 宋公明弃粮擒壮士",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 672883,
+      "char_count": 2651,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "第071回 忠义堂石碣受天文 梁山泊英雄排座次",
+      "title": "第071回 忠义堂石碣受天文 梁山泊英雄排座次",
+      "full_path": "上下五千年/E3历史故事/水浒传/第071回 忠义堂石碣受天文 梁山泊英雄排座次",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 762121,
+      "char_count": 2917,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "第072回 柴进簪花入禁院 李逵元夜闹东京",
+      "title": "第072回 柴进簪花入禁院 李逵元夜闹东京",
+      "full_path": "上下五千年/E3历史故事/水浒传/第072回 柴进簪花入禁院 李逵元夜闹东京",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 798338,
+      "char_count": 3086,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "第073回 黑旋风乔捉鬼 梁山泊双献头",
+      "title": "第073回 黑旋风乔捉鬼 梁山泊双献头",
+      "full_path": "上下五千年/E3历史故事/水浒传/第073回 黑旋风乔捉鬼 梁山泊双献头",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1337114,
+      "char_count": 4695,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "第074回 燕青智扑擎天柱 李逵寿张乔坐衙",
+      "title": "第074回 燕青智扑擎天柱 李逵寿张乔坐衙",
+      "full_path": "上下五千年/E3历史故事/水浒传/第074回 燕青智扑擎天柱 李逵寿张乔坐衙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1206127,
+      "char_count": 4678,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "第075回 活阎罗倒船偷御酒 黑旋风扯诏骂钦差",
+      "title": "第075回 活阎罗倒船偷御酒 黑旋风扯诏骂钦差",
+      "full_path": "上下五千年/E3历史故事/水浒传/第075回 活阎罗倒船偷御酒 黑旋风扯诏骂钦差",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 675525,
+      "char_count": 2595,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "第076回 吴加亮布四斗五方旗 宋公明排九宫八卦阵",
+      "title": "第076回 吴加亮布四斗五方旗 宋公明排九宫八卦阵",
+      "full_path": "上下五千年/E3历史故事/水浒传/第076回 吴加亮布四斗五方旗 宋公明排九宫八卦阵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 669234,
+      "char_count": 2623,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "第077回 梁山泊十面埋伏 宋公明两赢童贯",
+      "title": "第077回 梁山泊十面埋伏 宋公明两赢童贯",
+      "full_path": "上下五千年/E3历史故事/水浒传/第077回 梁山泊十面埋伏 宋公明两赢童贯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 834161,
+      "char_count": 3223,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "第078回 十节度议取梁山泊 宋公明一败高太尉",
+      "title": "第078回 十节度议取梁山泊 宋公明一败高太尉",
+      "full_path": "上下五千年/E3历史故事/水浒传/第078回 十节度议取梁山泊 宋公明一败高太尉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 756267,
+      "char_count": 2923,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "第079回 刘唐放火烧战船 宋江两败高太尉",
+      "title": "第079回 刘唐放火烧战船 宋江两败高太尉",
+      "full_path": "上下五千年/E3历史故事/水浒传/第079回 刘唐放火烧战船 宋江两败高太尉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 649024,
+      "char_count": 2525,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "第080回 张顺凿漏海鳅船 宋江三败高太尉",
+      "title": "第080回 张顺凿漏海鳅船 宋江三败高太尉",
+      "full_path": "上下五千年/E3历史故事/水浒传/第080回 张顺凿漏海鳅船 宋江三败高太尉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 775348,
+      "char_count": 3017,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 81,
+      "chapter_id": "第081回 燕青月夜遇道君 戴宗定计赚萧让",
+      "title": "第081回 燕青月夜遇道君 戴宗定计赚萧让",
+      "full_path": "上下五千年/E3历史故事/水浒传/第081回 燕青月夜遇道君 戴宗定计赚萧让",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1083477,
+      "char_count": 4121,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 82,
+      "chapter_id": "第082回 梁山泊分金大买市 宋公明全伙受招安",
+      "title": "第082回 梁山泊分金大买市 宋公明全伙受招安",
+      "full_path": "上下五千年/E3历史故事/水浒传/第082回 梁山泊分金大买市 宋公明全伙受招安",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1051048,
+      "char_count": 3986,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 83,
+      "chapter_id": "第083回 宋公明奉诏破大辽 陈桥驿滴泪斩小卒",
+      "title": "第083回 宋公明奉诏破大辽 陈桥驿滴泪斩小卒",
+      "full_path": "上下五千年/E3历史故事/水浒传/第083回 宋公明奉诏破大辽 陈桥驿滴泪斩小卒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1101510,
+      "char_count": 4260,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 84,
+      "chapter_id": "第084回 宋公明兵打蓟州城 卢俊义大战玉田县",
+      "title": "第084回 宋公明兵打蓟州城 卢俊义大战玉田县",
+      "full_path": "上下五千年/E3历史故事/水浒传/第084回 宋公明兵打蓟州城 卢俊义大战玉田县",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 749520,
+      "char_count": 2892,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 85,
+      "chapter_id": "第085回 宋公明夜度益津关 吴学究智取文安县",
+      "title": "第085回 宋公明夜度益津关 吴学究智取文安县",
+      "full_path": "上下五千年/E3历史故事/水浒传/第085回 宋公明夜度益津关 吴学究智取文安县",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1192224,
+      "char_count": 4635,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 86,
+      "chapter_id": "第086回 宋公明大战独鹿山 卢俊义兵陷青石峪",
+      "title": "第086回 宋公明大战独鹿山 卢俊义兵陷青石峪",
+      "full_path": "上下五千年/E3历史故事/水浒传/第086回 宋公明大战独鹿山 卢俊义兵陷青石峪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1163795,
+      "char_count": 4530,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 87,
+      "chapter_id": "第087回 宋公明大战幽州 呼延灼力擒番将",
+      "title": "第087回 宋公明大战幽州 呼延灼力擒番将",
+      "full_path": "上下五千年/E3历史故事/水浒传/第087回 宋公明大战幽州 呼延灼力擒番将",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 872335,
+      "char_count": 3389,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 88,
+      "chapter_id": "第088回 颜统军阵列混天象 宋公明梦授玄女法",
+      "title": "第088回 颜统军阵列混天象 宋公明梦授玄女法",
+      "full_path": "上下五千年/E3历史故事/水浒传/第088回 颜统军阵列混天象 宋公明梦授玄女法",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 973558,
+      "char_count": 3723,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 89,
+      "chapter_id": "第089回 宋公明破阵成功 宿太尉颁恩降诏",
+      "title": "第089回 宋公明破阵成功 宿太尉颁恩降诏",
+      "full_path": "上下五千年/E3历史故事/水浒传/第089回 宋公明破阵成功 宿太尉颁恩降诏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 944193,
+      "char_count": 3654,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 90,
+      "chapter_id": "第090回 五台山宋江参禅 双林镇燕青遇故",
+      "title": "第090回 五台山宋江参禅 双林镇燕青遇故",
+      "full_path": "上下五千年/E3历史故事/水浒传/第090回 五台山宋江参禅 双林镇燕青遇故",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1338227,
+      "char_count": 5121,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 91,
+      "chapter_id": "第091回 宋公明兵渡黄河 卢俊义赚城黑夜",
+      "title": "第091回 宋公明兵渡黄河 卢俊义赚城黑夜",
+      "full_path": "上下五千年/E3历史故事/水浒传/第091回 宋公明兵渡黄河 卢俊义赚城黑夜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 722092,
+      "char_count": 2526,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 92,
+      "chapter_id": "第092回 振军威小李广神箭 打盖郡智多星密筹",
+      "title": "第092回 振军威小李广神箭 打盖郡智多星密筹",
+      "full_path": "上下五千年/E3历史故事/水浒传/第092回 振军威小李广神箭 打盖郡智多星密筹",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 915373,
+      "char_count": 3593,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 93,
+      "chapter_id": "第093回 李逵梦闹天池 宋江兵分两路",
+      "title": "第093回 李逵梦闹天池 宋江兵分两路",
+      "full_path": "上下五千年/E3历史故事/水浒传/第093回 李逵梦闹天池 宋江兵分两路",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 984627,
+      "char_count": 3833,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 94,
+      "chapter_id": "第094回 关胜义降三将 李逵莽陷众人",
+      "title": "第094回 关胜义降三将 李逵莽陷众人",
+      "full_path": "上下五千年/E3历史故事/水浒传/第094回 关胜义降三将 李逵莽陷众人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 847487,
+      "char_count": 3278,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 95,
+      "chapter_id": "第095回 宋公明忠感后土 乔道清术败宋兵",
+      "title": "第095回 宋公明忠感后土 乔道清术败宋兵",
+      "full_path": "上下五千年/E3历史故事/水浒传/第095回 宋公明忠感后土 乔道清术败宋兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1106765,
+      "char_count": 4335,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 96,
+      "chapter_id": "第096回 幻魔君术窘五龙山 入云龙兵围百谷岭",
+      "title": "第096回 幻魔君术窘五龙山 入云龙兵围百谷岭",
+      "full_path": "上下五千年/E3历史故事/水浒传/第096回 幻魔君术窘五龙山 入云龙兵围百谷岭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 903009,
+      "char_count": 3421,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 97,
+      "chapter_id": "第097回 陈瓘谏官升安抚 琼英处女做先锋",
+      "title": "第097回 陈瓘谏官升安抚 琼英处女做先锋",
+      "full_path": "上下五千年/E3历史故事/水浒传/第097回 陈瓘谏官升安抚 琼英处女做先锋",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 839235,
+      "char_count": 3252,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 98,
+      "chapter_id": "第098回 张清缘配琼英 吴用计鸩邬梨",
+      "title": "第098回 张清缘配琼英 吴用计鸩邬梨",
+      "full_path": "上下五千年/E3历史故事/水浒传/第098回 张清缘配琼英 吴用计鸩邬梨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 731090,
+      "char_count": 2899,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 99,
+      "chapter_id": "第099回 花和尚解脱缘缠井 混江龙水灌太原城",
+      "title": "第099回 花和尚解脱缘缠井 混江龙水灌太原城",
+      "full_path": "上下五千年/E3历史故事/水浒传/第099回 花和尚解脱缘缠井 混江龙水灌太原城",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 954304,
+      "char_count": 3703,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 100,
+      "chapter_id": "第100回 张清琼英双建功 陈瓘宋江同奏捷",
+      "title": "第100回 张清琼英双建功 陈瓘宋江同奏捷",
+      "full_path": "上下五千年/E3历史故事/水浒传/第100回 张清琼英双建功 陈瓘宋江同奏捷",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 855301,
+      "char_count": 2937,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 101,
+      "chapter_id": "第101回 谋坟地阴险产逆 蹈春阳妖孽生奸",
+      "title": "第101回 谋坟地阴险产逆 蹈春阳妖孽生奸",
+      "full_path": "上下五千年/E3历史故事/水浒传/第101回 谋坟地阴险产逆 蹈春阳妖孽生奸",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1020510,
+      "char_count": 3986,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 102,
+      "chapter_id": "第102回 王庆因奸吃官司 龚端被打师军犯",
+      "title": "第102回 王庆因奸吃官司 龚端被打师军犯",
+      "full_path": "上下五千年/E3历史故事/水浒传/第102回 王庆因奸吃官司 龚端被打师军犯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 892513,
+      "char_count": 3038,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 103,
+      "chapter_id": "第103回 张管营因妾弟丧身 范节级为表兄医脸",
+      "title": "第103回 张管营因妾弟丧身 范节级为表兄医脸",
+      "full_path": "上下五千年/E3历史故事/水浒传/第103回 张管营因妾弟丧身 范节级为表兄医脸",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1031733,
+      "char_count": 3971,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 104,
+      "chapter_id": "第104回 段家庄重招新女婿 房山寨双并旧强人",
+      "title": "第104回 段家庄重招新女婿 房山寨双并旧强人",
+      "full_path": "上下五千年/E3历史故事/水浒传/第104回 段家庄重招新女婿 房山寨双并旧强人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1015872,
+      "char_count": 3956,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 105,
+      "chapter_id": "第105回 宋公明避暑疗军兵 乔道清回风烧贼寇",
+      "title": "第105回 宋公明避暑疗军兵 乔道清回风烧贼寇",
+      "full_path": "上下五千年/E3历史故事/水浒传/第105回 宋公明避暑疗军兵 乔道清回风烧贼寇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 843125,
+      "char_count": 3310,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 106,
+      "chapter_id": "第106回 书生谈笑却强敌 水军汩没破坚城",
+      "title": "第106回 书生谈笑却强敌 水军汩没破坚城",
+      "full_path": "上下五千年/E3历史故事/水浒传/第106回 书生谈笑却强敌 水军汩没破坚城",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 661058,
+      "char_count": 2548,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 107,
+      "chapter_id": "第107回 宋江大胜纪山军 朱武打破六花阵",
+      "title": "第107回 宋江大胜纪山军 朱武打破六花阵",
+      "full_path": "上下五千年/E3历史故事/水浒传/第107回 宋江大胜纪山军 朱武打破六花阵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 679664,
+      "char_count": 2683,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 108,
+      "chapter_id": "第108回 乔道清兴雾取城 小旋风藏炮击贼",
+      "title": "第108回 乔道清兴雾取城 小旋风藏炮击贼",
+      "full_path": "上下五千年/E3历史故事/水浒传/第108回 乔道清兴雾取城 小旋风藏炮击贼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 783480,
+      "char_count": 3061,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 109,
+      "chapter_id": "第109回 王庆渡江被捉 宋江剿寇成功",
+      "title": "第109回 王庆渡江被捉 宋江剿寇成功",
+      "full_path": "上下五千年/E3历史故事/水浒传/第109回 王庆渡江被捉 宋江剿寇成功",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 917088,
+      "char_count": 3509,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 110,
+      "chapter_id": "第110回 燕青秋林渡射雁 宋江东京城献俘",
+      "title": "第110回 燕青秋林渡射雁 宋江东京城献俘",
+      "full_path": "上下五千年/E3历史故事/水浒传/第110回 燕青秋林渡射雁 宋江东京城献俘",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1319717,
+      "char_count": 5118,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 111,
+      "chapter_id": "第111回 张顺夜伏金山寺 宋江智取润州城",
+      "title": "第111回 张顺夜伏金山寺 宋江智取润州城",
+      "full_path": "上下五千年/E3历史故事/水浒传/第111回 张顺夜伏金山寺 宋江智取润州城",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 698919,
+      "char_count": 2700,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 112,
+      "chapter_id": "第112回 卢俊义分兵宣州道 宋公明大战毗陵郡",
+      "title": "第112回 卢俊义分兵宣州道 宋公明大战毗陵郡",
+      "full_path": "上下五千年/E3历史故事/水浒传/第112回 卢俊义分兵宣州道 宋公明大战毗陵郡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 916480,
+      "char_count": 3517,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 113,
+      "chapter_id": "第113回 混江龙太湖小结义 宋公明苏州大会垓",
+      "title": "第113回 混江龙太湖小结义 宋公明苏州大会垓",
+      "full_path": "上下五千年/E3历史故事/水浒传/第113回 混江龙太湖小结义 宋公明苏州大会垓",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1003656,
+      "char_count": 3902,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 114,
+      "chapter_id": "第114回 宁海军宋江吊孝 涌金门张顺归神",
+      "title": "第114回 宁海军宋江吊孝 涌金门张顺归神",
+      "full_path": "上下五千年/E3历史故事/水浒传/第114回 宁海军宋江吊孝 涌金门张顺归神",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 838555,
+      "char_count": 3252,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 115,
+      "chapter_id": "第115回 张顺魂捉方天定 宋江智取宁海军",
+      "title": "第115回 张顺魂捉方天定 宋江智取宁海军",
+      "full_path": "上下五千年/E3历史故事/水浒传/第115回 张顺魂捉方天定 宋江智取宁海军",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 683310,
+      "char_count": 2671,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 116,
+      "chapter_id": "第116回 卢俊义分兵歙州道 宋公明大战乌龙岭",
+      "title": "第116回 卢俊义分兵歙州道 宋公明大战乌龙岭",
+      "full_path": "上下五千年/E3历史故事/水浒传/第116回 卢俊义分兵歙州道 宋公明大战乌龙岭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 904090,
+      "char_count": 3537,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 117,
+      "chapter_id": "第117回 睦州城箭射邓元觉 乌龙岭神助宋公明",
+      "title": "第117回 睦州城箭射邓元觉 乌龙岭神助宋公明",
+      "full_path": "上下五千年/E3历史故事/水浒传/第117回 睦州城箭射邓元觉 乌龙岭神助宋公明",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1083662,
+      "char_count": 4227,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 118,
+      "chapter_id": "第118回 卢俊义大战昱岭关 宋公明智取清溪洞",
+      "title": "第118回 卢俊义大战昱岭关 宋公明智取清溪洞",
+      "full_path": "上下五千年/E3历史故事/水浒传/第118回 卢俊义大战昱岭关 宋公明智取清溪洞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1356894,
+      "char_count": 5282,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 119,
+      "chapter_id": "第119回 鲁智深浙江坐化 宋公明衣锦还乡",
+      "title": "第119回 鲁智深浙江坐化 宋公明衣锦还乡",
+      "full_path": "上下五千年/E3历史故事/水浒传/第119回 鲁智深浙江坐化 宋公明衣锦还乡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 774405,
+      "char_count": 3071,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 120,
+      "chapter_id": "第120回 宋公明神聚蓼儿洼 徽宗帝梦游梁山泊",
+      "title": "第120回 宋公明神聚蓼儿洼 徽宗帝梦游梁山泊",
+      "full_path": "上下五千年/E3历史故事/水浒传/第120回 宋公明神聚蓼儿洼 徽宗帝梦游梁山泊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 865268,
+      "char_count": 3365,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

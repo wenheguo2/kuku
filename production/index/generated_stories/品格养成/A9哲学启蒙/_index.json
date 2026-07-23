@@ -1,0 +1,2437 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "品格养成/A9哲学启蒙",
+  "name": "A9哲学启蒙",
+  "cover": {
+    "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/A9哲学启蒙.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 173,
+  "entries": [
+    {
+      "entry_id": "不小心打碎花瓶要不要说是猫弄的",
+      "title": "不小心打碎花瓶要不要说是猫弄的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/不小心打碎花瓶要不要说是猫弄的",
+      "level": "L5",
+      "duration_ms": 460993,
+      "char_count": 1795,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/不小心打碎花瓶要不要说是猫弄的/不小心打碎花瓶要不要说是猫弄的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心打翻牛奶要不要告诉妈妈",
+      "title": "不小心打翻牛奶要不要告诉妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/不小心打翻牛奶要不要告诉妈妈",
+      "level": "L5",
+      "duration_ms": 291778,
+      "char_count": 1142,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/不小心打翻牛奶要不要告诉妈妈/不小心打翻牛奶要不要告诉妈妈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心撞倒小朋友要不要说对不起",
+      "title": "不小心撞倒小朋友要不要说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/不小心撞倒小朋友要不要说对不起",
+      "level": "L5",
+      "duration_ms": 408671,
+      "char_count": 1616,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/不小心撞倒小朋友要不要说对不起/不小心撞倒小朋友要不要说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不是我打翻的却要我承认错误",
+      "title": "不是我打翻的却要我承认错误",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/不是我打翻的却要我承认错误",
+      "level": "L5",
+      "duration_ms": 446559,
+      "char_count": 1755,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/不是我打翻的却要我承认错误/不是我打翻的却要我承认错误.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为了和同学有共同话题，我假装也喜欢那部剧",
+      "title": "为了和同学有共同话题，我假装也喜欢那部剧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为了和同学有共同话题，我假装也喜欢那部剧",
+      "level": "L5",
+      "duration_ms": 437420,
+      "char_count": 1684,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为了和同学有共同话题，我假装也喜欢那部剧/为了和同学有共同话题，我假装也喜欢那部剧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为了玩手机游戏，我骗妈妈作业写完了",
+      "title": "为了玩手机游戏，我骗妈妈作业写完了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为了玩手机游戏，我骗妈妈作业写完了",
+      "level": "L5",
+      "duration_ms": 370276,
+      "char_count": 1449,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为了玩手机游戏，我骗妈妈作业写完了/为了玩手机游戏，我骗妈妈作业写完了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么下雨天不能出去玩泥巴？",
+      "title": "为什么下雨天不能出去玩泥巴？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么下雨天不能出去玩泥巴？",
+      "level": "L5",
+      "duration_ms": 413060,
+      "char_count": 1621,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么下雨天不能出去玩泥巴？/为什么下雨天不能出去玩泥巴？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能在床上跳：蹦蹦床破了",
+      "title": "为什么不能在床上跳：蹦蹦床破了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能在床上跳：蹦蹦床破了",
+      "level": "L5",
+      "duration_ms": 405097,
+      "char_count": 1567,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能在床上跳：蹦蹦床破了/为什么不能在床上跳：蹦蹦床破了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能大声喊叫：图书馆里静悄悄",
+      "title": "为什么不能大声喊叫：图书馆里静悄悄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能大声喊叫：图书馆里静悄悄",
+      "level": "L5",
+      "duration_ms": 482308,
+      "char_count": 1884,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能大声喊叫：图书馆里静悄悄/为什么不能大声喊叫：图书馆里静悄悄.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能扯小猫的尾巴",
+      "title": "为什么不能扯小猫的尾巴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能扯小猫的尾巴",
+      "level": "L5",
+      "duration_ms": 377882,
+      "char_count": 1460,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能扯小猫的尾巴/为什么不能扯小猫的尾巴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能把沙子撒到小朋友眼里",
+      "title": "为什么不能把沙子撒到小朋友眼里",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能把沙子撒到小朋友眼里",
+      "level": "L5",
+      "duration_ms": 533843,
+      "char_count": 2074,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能把沙子撒到小朋友眼里/为什么不能把沙子撒到小朋友眼里.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能把积木扔到妈妈头上",
+      "title": "为什么不能把积木扔到妈妈头上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能把积木扔到妈妈头上",
+      "level": "L5",
+      "duration_ms": 351063,
+      "char_count": 1348,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能把积木扔到妈妈头上/为什么不能把积木扔到妈妈头上.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能把饭粒扔得到处都是",
+      "title": "为什么不能把饭粒扔得到处都是",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能把饭粒扔得到处都是",
+      "level": "L5",
+      "duration_ms": 283993,
+      "char_count": 1096,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能把饭粒扔得到处都是/为什么不能把饭粒扔得到处都是.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能拽小猫尾巴：摸摸小猫咪",
+      "title": "为什么不能拽小猫尾巴：摸摸小猫咪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能拽小猫尾巴：摸摸小猫咪",
+      "level": "L5",
+      "duration_ms": 301025,
+      "char_count": 1163,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能拽小猫尾巴：摸摸小猫咪/为什么不能拽小猫尾巴：摸摸小猫咪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能拿画笔在墙上画画",
+      "title": "为什么不能拿画笔在墙上画画",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能拿画笔在墙上画画",
+      "level": "L5",
+      "duration_ms": 358846,
+      "char_count": 1407,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能拿画笔在墙上画画/为什么不能拿画笔在墙上画画.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能爬到桌子上去跳",
+      "title": "为什么不能爬到桌子上去跳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能爬到桌子上去跳",
+      "level": "L5",
+      "duration_ms": 551311,
+      "char_count": 2140,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能爬到桌子上去跳/为什么不能爬到桌子上去跳.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能踩蚂蚁它也会疼吗",
+      "title": "为什么不能踩蚂蚁它也会疼吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能踩蚂蚁它也会疼吗",
+      "level": "L5",
+      "duration_ms": 316061,
+      "char_count": 1219,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能踩蚂蚁它也会疼吗/为什么不能踩蚂蚁它也会疼吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么不能踩蚂蚁：地上小生命",
+      "title": "为什么不能踩蚂蚁：地上小生命",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么不能踩蚂蚁：地上小生命",
+      "level": "L5",
+      "duration_ms": 274990,
+      "char_count": 1053,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么不能踩蚂蚁：地上小生命/为什么不能踩蚂蚁：地上小生命.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么别人的画画比我好看？",
+      "title": "为什么别人的画画比我好看？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么别人的画画比我好看？",
+      "level": "L5",
+      "duration_ms": 338956,
+      "char_count": 1301,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么别人的画画比我好看？/为什么别人的画画比我好看？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么别人说谢谢时要说不用谢",
+      "title": "为什么别人说谢谢时要说不用谢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么别人说谢谢时要说不用谢",
+      "level": "L5",
+      "duration_ms": 465382,
+      "char_count": 1804,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么别人说谢谢时要说不用谢/为什么别人说谢谢时要说不用谢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么大人可以吃冰淇淋而我必须吃蔬菜？",
+      "title": "为什么大人可以吃冰淇淋而我必须吃蔬菜？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么大人可以吃冰淇淋而我必须吃蔬菜？",
+      "level": "L5",
+      "duration_ms": 481883,
+      "char_count": 1839,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么大人可以吃冰淇淋而我必须吃蔬菜？/为什么大人可以吃冰淇淋而我必须吃蔬菜？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么小花不能摘：花坛里的蝴蝶",
+      "title": "为什么小花不能摘：花坛里的蝴蝶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么小花不能摘：花坛里的蝴蝶",
+      "level": "L5",
+      "duration_ms": 464311,
+      "char_count": 1811,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么小花不能摘：花坛里的蝴蝶/为什么小花不能摘：花坛里的蝴蝶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么小蚂蚁要排队：观察蚂蚁搬家",
+      "title": "为什么小蚂蚁要排队：观察蚂蚁搬家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么小蚂蚁要排队：观察蚂蚁搬家",
+      "level": "L5",
+      "duration_ms": 407127,
+      "char_count": 1543,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么小蚂蚁要排队：观察蚂蚁搬家/为什么小蚂蚁要排队：观察蚂蚁搬家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么我不能像别人那样有个平板电脑？",
+      "title": "为什么我不能像别人那样有个平板电脑？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么我不能像别人那样有个平板电脑？",
+      "level": "L5",
+      "duration_ms": 542875,
+      "char_count": 2085,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么我不能像别人那样有个平板电脑？/为什么我不能像别人那样有个平板电脑？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么我们要排队等滑滑梯",
+      "title": "为什么我们要排队等滑滑梯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么我们要排队等滑滑梯",
+      "level": "L5",
+      "duration_ms": 559092,
+      "char_count": 2176,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么我们要排队等滑滑梯/为什么我们要排队等滑滑梯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么我必须准时回家而爸爸可以加班？",
+      "title": "为什么我必须准时回家而爸爸可以加班？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么我必须准时回家而爸爸可以加班？",
+      "level": "L5",
+      "duration_ms": 362918,
+      "char_count": 1411,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么我必须准时回家而爸爸可以加班？/为什么我必须准时回家而爸爸可以加班？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么我的积木要分给小朋友？",
+      "title": "为什么我的积木要分给小朋友？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么我的积木要分给小朋友？",
+      "level": "L5",
+      "duration_ms": 329276,
+      "char_count": 1283,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么我的积木要分给小朋友？/为什么我的积木要分给小朋友？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么树叶会掉下来，我不行？",
+      "title": "为什么树叶会掉下来，我不行？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么树叶会掉下来，我不行？",
+      "level": "L5",
+      "duration_ms": 337634,
+      "char_count": 1295,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么树叶会掉下来，我不行？/为什么树叶会掉下来，我不行？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么爸爸妈妈可以晚睡我不行",
+      "title": "为什么爸爸妈妈可以晚睡我不行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么爸爸妈妈可以晚睡我不行",
+      "level": "L5",
+      "duration_ms": 326273,
+      "char_count": 1243,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么爸爸妈妈可以晚睡我不行/为什么爸爸妈妈可以晚睡我不行.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么爸爸总是看手机不理我？",
+      "title": "为什么爸爸总是看手机不理我？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么爸爸总是看手机不理我？",
+      "level": "L5",
+      "duration_ms": 442664,
+      "char_count": 1691,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么爸爸总是看手机不理我？/为什么爸爸总是看手机不理我？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么玩具要送回玩具箱里",
+      "title": "为什么玩具要送回玩具箱里",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么玩具要送回玩具箱里",
+      "level": "L5",
+      "duration_ms": 592803,
+      "char_count": 2305,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么玩具要送回玩具箱里/为什么玩具要送回玩具箱里.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么男生可以光膀子女生不行？真是公平吗？",
+      "title": "为什么男生可以光膀子女生不行？真是公平吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么男生可以光膀子女生不行？真是公平吗？",
+      "level": "L5",
+      "duration_ms": 374381,
+      "char_count": 1429,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么男生可以光膀子女生不行？真是公平吗？/为什么男生可以光膀子女生不行？真是公平吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么老师总是表扬小明不表扬我？",
+      "title": "为什么老师总是表扬小明不表扬我？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么老师总是表扬小明不表扬我？",
+      "level": "L5",
+      "duration_ms": 626735,
+      "char_count": 2395,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么老师总是表扬小明不表扬我？/为什么老师总是表扬小明不表扬我？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么蚂蚁要搬那么大的面包？",
+      "title": "为什么蚂蚁要搬那么大的面包？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么蚂蚁要搬那么大的面包？",
+      "level": "L5",
+      "duration_ms": 562523,
+      "char_count": 2146,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么蚂蚁要搬那么大的面包？/为什么蚂蚁要搬那么大的面包？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么要把玩具收好：小熊找不到家了",
+      "title": "为什么要把玩具收好：小熊找不到家了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么要把玩具收好：小熊找不到家了",
+      "level": "L5",
+      "duration_ms": 371884,
+      "char_count": 1439,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么要把玩具收好：小熊找不到家了/为什么要把玩具收好：小熊找不到家了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么要把饭饭吃完：碗里的胡萝卜",
+      "title": "为什么要把饭饭吃完：碗里的胡萝卜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么要把饭饭吃完：碗里的胡萝卜",
+      "level": "L5",
+      "duration_ms": 304528,
+      "char_count": 1170,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么要把饭饭吃完：碗里的胡萝卜/为什么要把饭饭吃完：碗里的胡萝卜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为什么要等妈妈说完话才能插嘴",
+      "title": "为什么要等妈妈说完话才能插嘴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/为什么要等妈妈说完话才能插嘴",
+      "level": "L5",
+      "duration_ms": 410273,
+      "char_count": 1552,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/为什么要等妈妈说完话才能插嘴/为什么要等妈妈说完话才能插嘴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "今天在幼儿园，我抢了小红的花",
+      "title": "今天在幼儿园，我抢了小红的花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/今天在幼儿园，我抢了小红的花",
+      "level": "L5",
+      "duration_ms": 347201,
+      "char_count": 1343,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/今天在幼儿园，我抢了小红的花/今天在幼儿园，我抢了小红的花.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "体育课上跑得慢被嘲笑，我想假装受伤",
+      "title": "体育课上跑得慢被嘲笑，我想假装受伤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/体育课上跑得慢被嘲笑，我想假装受伤",
+      "level": "L5",
+      "duration_ms": 427486,
+      "char_count": 1673,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/体育课上跑得慢被嘲笑，我想假装受伤/体育课上跑得慢被嘲笑，我想假装受伤.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "体育课分组没有一个组要我参加",
+      "title": "体育课分组没有一个组要我参加",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/体育课分组没有一个组要我参加",
+      "level": "L5",
+      "duration_ms": 454771,
+      "char_count": 1791,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/体育课分组没有一个组要我参加/体育课分组没有一个组要我参加.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "体育课跑步我最后一名，但我真的尽力了",
+      "title": "体育课跑步我最后一名，但我真的尽力了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/体育课跑步我最后一名，但我真的尽力了",
+      "level": "L5",
+      "duration_ms": 394165,
+      "char_count": 1511,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/体育课跑步我最后一名，但我真的尽力了/体育课跑步我最后一名，但我真的尽力了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "作业太难我想偷偷看同桌的字",
+      "title": "作业太难我想偷偷看同桌的字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/作业太难我想偷偷看同桌的字",
+      "level": "L5",
+      "duration_ms": 411131,
+      "char_count": 1579,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/作业太难我想偷偷看同桌的字/作业太难我想偷偷看同桌的字.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公园里的花真美别人摘我也能摘吗",
+      "title": "公园里的花真美别人摘我也能摘吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/公园里的花真美别人摘我也能摘吗",
+      "level": "L5",
+      "duration_ms": 352170,
+      "char_count": 1336,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/公园里的花真美别人摘我也能摘吗/公园里的花真美别人摘我也能摘吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "写作业时偷偷画小人被妈妈发现",
+      "title": "写作业时偷偷画小人被妈妈发现",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/写作业时偷偷画小人被妈妈发现",
+      "level": "L5",
+      "duration_ms": 379385,
+      "char_count": 1494,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/写作业时偷偷画小人被妈妈发现/写作业时偷偷画小人被妈妈发现.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "别人打我了怎么办：小手不打人",
+      "title": "别人打我了怎么办：小手不打人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/别人打我了怎么办：小手不打人",
+      "level": "L5",
+      "duration_ms": 331168,
+      "char_count": 1277,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/别人打我了怎么办：小手不打人/别人打我了怎么办：小手不打人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "别的小朋友打我了要不要还手",
+      "title": "别的小朋友打我了要不要还手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/别的小朋友打我了要不要还手",
+      "level": "L5",
+      "duration_ms": 365205,
+      "char_count": 1360,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/别的小朋友打我了要不要还手/别的小朋友打我了要不要还手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "发现同桌考试作弊，我该不该告诉老师？",
+      "title": "发现同桌考试作弊，我该不该告诉老师？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/发现同桌考试作弊，我该不该告诉老师？",
+      "level": "L5",
+      "duration_ms": 300170,
+      "char_count": 1170,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/发现同桌考试作弊，我该不该告诉老师？/发现同桌考试作弊，我该不该告诉老师？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "可以扔玩具吗：小熊摔倒了",
+      "title": "可以扔玩具吗：小熊摔倒了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/可以扔玩具吗：小熊摔倒了",
+      "level": "L5",
+      "duration_ms": 295990,
+      "char_count": 1148,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/可以扔玩具吗：小熊摔倒了/可以扔玩具吗：小熊摔倒了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同学笑我跑步像乌龟我要骂回去吗",
+      "title": "同学笑我跑步像乌龟我要骂回去吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/同学笑我跑步像乌龟我要骂回去吗",
+      "level": "L5",
+      "duration_ms": 336777,
+      "char_count": 1284,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/同学笑我跑步像乌龟我要骂回去吗/同学笑我跑步像乌龟我要骂回去吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同学让我抄他的作业，说反正老师看不出来",
+      "title": "同学让我抄他的作业，说反正老师看不出来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/同学让我抄他的作业，说反正老师看不出来",
+      "level": "L5",
+      "duration_ms": 364418,
+      "char_count": 1409,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/同学让我抄他的作业，说反正老师看不出来/同学让我抄他的作业，说反正老师看不出来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同学说我胖，我真的不好看吗？",
+      "title": "同学说我胖，我真的不好看吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/同学说我胖，我真的不好看吗？",
+      "level": "L5",
+      "duration_ms": 428237,
+      "char_count": 1658,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/同学说我胖，我真的不好看吗？/同学说我胖，我真的不好看吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同学邀请我参加派对，但妈妈说作业没做完不能去",
+      "title": "同学邀请我参加派对，但妈妈说作业没做完不能去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/同学邀请我参加派对，但妈妈说作业没做完不能去",
+      "level": "L5",
+      "duration_ms": 576127,
+      "char_count": 2214,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/同学邀请我参加派对，但妈妈说作业没做完不能去/同学邀请我参加派对，但妈妈说作业没做完不能去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和同学比赛跑步时推了别人一把",
+      "title": "和同学比赛跑步时推了别人一把",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/和同学比赛跑步时推了别人一把",
+      "level": "L5",
+      "duration_ms": 356530,
+      "char_count": 1395,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/和同学比赛跑步时推了别人一把/和同学比赛跑步时推了别人一把.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和小朋友一起玩秋千怎么轮流",
+      "title": "和小朋友一起玩秋千怎么轮流",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/和小朋友一起玩秋千怎么轮流",
+      "level": "L5",
+      "duration_ms": 351027,
+      "char_count": 1382,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/和小朋友一起玩秋千怎么轮流/和小朋友一起玩秋千怎么轮流.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和小鸟打招呼：鸟窝里的小宝宝",
+      "title": "和小鸟打招呼：鸟窝里的小宝宝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/和小鸟打招呼：鸟窝里的小宝宝",
+      "level": "L5",
+      "duration_ms": 379883,
+      "char_count": 1478,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/和小鸟打招呼：鸟窝里的小宝宝/和小鸟打招呼：鸟窝里的小宝宝.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公园看到别人落下的钱包",
+      "title": "在公园看到别人落下的钱包",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/在公园看到别人落下的钱包",
+      "level": "L5",
+      "duration_ms": 553524,
+      "char_count": 2124,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/在公园看到别人落下的钱包/在公园看到别人落下的钱包.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公园里，我踩了小草，它疼吗？",
+      "title": "在公园里，我踩了小草，它疼吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/在公园里，我踩了小草，它疼吗？",
+      "level": "L5",
+      "duration_ms": 328491,
+      "char_count": 1284,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/在公园里，我踩了小草，它疼吗？/在公园里，我踩了小草，它疼吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在幼儿园，我撒谎说我会写字",
+      "title": "在幼儿园，我撒谎说我会写字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/在幼儿园，我撒谎说我会写字",
+      "level": "L5",
+      "duration_ms": 371422,
+      "char_count": 1465,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/在幼儿园，我撒谎说我会写字/在幼儿园，我撒谎说我会写字.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在滑梯上，我非要第一个滑下去",
+      "title": "在滑梯上，我非要第一个滑下去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/在滑梯上，我非要第一个滑下去",
+      "level": "L5",
+      "duration_ms": 264955,
+      "char_count": 1037,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/在滑梯上，我非要第一个滑下去/在滑梯上，我非要第一个滑下去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在花园里摘了一朵漂亮的花可以吗",
+      "title": "在花园里摘了一朵漂亮的花可以吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/在花园里摘了一朵漂亮的花可以吗",
+      "level": "L5",
+      "duration_ms": 323279,
+      "char_count": 1238,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/在花园里摘了一朵漂亮的花可以吗/在花园里摘了一朵漂亮的花可以吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奶奶说“不能剩饭”，但我偷偷倒掉",
+      "title": "奶奶说“不能剩饭”，但我偷偷倒掉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/奶奶说“不能剩饭”，但我偷偷倒掉",
+      "level": "L5",
+      "duration_ms": 373277,
+      "char_count": 1446,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/奶奶说“不能剩饭”，但我偷偷倒掉/奶奶说“不能剩饭”，但我偷偷倒掉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好朋友偷偷抄我作业，我要不要告诉老师？",
+      "title": "好朋友偷偷抄我作业，我要不要告诉老师？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/好朋友偷偷抄我作业，我要不要告诉老师？",
+      "level": "L5",
+      "duration_ms": 387417,
+      "char_count": 1479,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/好朋友偷偷抄我作业，我要不要告诉老师？/好朋友偷偷抄我作业，我要不要告诉老师？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好朋友有了新朋友，我该不该生气？",
+      "title": "好朋友有了新朋友，我该不该生气？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/好朋友有了新朋友，我该不该生气？",
+      "level": "L5",
+      "duration_ms": 477490,
+      "char_count": 1840,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/好朋友有了新朋友，我该不该生气？/好朋友有了新朋友，我该不该生气？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好朋友被别人欺负，我站出来会连累自己",
+      "title": "好朋友被别人欺负，我站出来会连累自己",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/好朋友被别人欺负，我站出来会连累自己",
+      "level": "L5",
+      "duration_ms": 380276,
+      "char_count": 1466,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/好朋友被别人欺负，我站出来会连累自己/好朋友被别人欺负，我站出来会连累自己.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好朋友说‘不和我玩就绝交’，我该怎么办？",
+      "title": "好朋友说‘不和我玩就绝交’，我该怎么办？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/好朋友说‘不和我玩就绝交’，我该怎么办？",
+      "level": "L5",
+      "duration_ms": 492560,
+      "char_count": 1888,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/好朋友说‘不和我玩就绝交’，我该怎么办？/好朋友说‘不和我玩就绝交’，我该怎么办？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好朋友说那个女生很丑，我跟着笑了",
+      "title": "好朋友说那个女生很丑，我跟着笑了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/好朋友说那个女生很丑，我跟着笑了",
+      "level": "L5",
+      "duration_ms": 340707,
+      "char_count": 1319,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/好朋友说那个女生很丑，我跟着笑了/好朋友说那个女生很丑，我跟着笑了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好朋友转身和别人一起玩我怎么办",
+      "title": "好朋友转身和别人一起玩我怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/好朋友转身和别人一起玩我怎么办",
+      "level": "L5",
+      "duration_ms": 477278,
+      "char_count": 1838,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/好朋友转身和别人一起玩我怎么办/好朋友转身和别人一起玩我怎么办.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "如果我悄悄把考砸的试卷藏起来，是不是更好？",
+      "title": "如果我悄悄把考砸的试卷藏起来，是不是更好？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/如果我悄悄把考砸的试卷藏起来，是不是更好？",
+      "level": "L5",
+      "duration_ms": 448345,
+      "char_count": 1763,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/如果我悄悄把考砸的试卷藏起来，是不是更好？/如果我悄悄把考砸的试卷藏起来，是不是更好？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈为什么说不行：不喝刷牙水",
+      "title": "妈妈为什么说不行：不喝刷牙水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈为什么说不行：不喝刷牙水",
+      "level": "L5",
+      "duration_ms": 377880,
+      "char_count": 1456,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈为什么说不行：不喝刷牙水/妈妈为什么说不行：不喝刷牙水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈偷偷翻了我的日记本，我该质问吗？",
+      "title": "妈妈偷偷翻了我的日记本，我该质问吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈偷偷翻了我的日记本，我该质问吗？",
+      "level": "L5",
+      "duration_ms": 494383,
+      "char_count": 1920,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈偷偷翻了我的日记本，我该质问吗？/妈妈偷偷翻了我的日记本，我该质问吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈总拿我和别人比，我觉得自己很差劲",
+      "title": "妈妈总拿我和别人比，我觉得自己很差劲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈总拿我和别人比，我觉得自己很差劲",
+      "level": "L5",
+      "duration_ms": 368807,
+      "char_count": 1418,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈总拿我和别人比，我觉得自己很差劲/妈妈总拿我和别人比，我觉得自己很差劲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈手机响了可以抢过来接吗",
+      "title": "妈妈手机响了可以抢过来接吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈手机响了可以抢过来接吗",
+      "level": "L5",
+      "duration_ms": 311096,
+      "char_count": 1204,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈手机响了可以抢过来接吗/妈妈手机响了可以抢过来接吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈批评我，我大声顶嘴说“你不对”",
+      "title": "妈妈批评我，我大声顶嘴说“你不对”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈批评我，我大声顶嘴说“你不对”",
+      "level": "L5",
+      "duration_ms": 360564,
+      "char_count": 1388,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈批评我，我大声顶嘴说“你不对”/妈妈批评我，我大声顶嘴说“你不对”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈的手为什么松开：第一次去幼儿园",
+      "title": "妈妈的手为什么松开：第一次去幼儿园",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈的手为什么松开：第一次去幼儿园",
+      "level": "L5",
+      "duration_ms": 330026,
+      "char_count": 1276,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈的手为什么松开：第一次去幼儿园/妈妈的手为什么松开：第一次去幼儿园.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈答应买玩具却说不算数了",
+      "title": "妈妈答应买玩具却说不算数了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈答应买玩具却说不算数了",
+      "level": "L5",
+      "duration_ms": 445129,
+      "char_count": 1740,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈答应买玩具却说不算数了/妈妈答应买玩具却说不算数了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈答应周末去游乐场却临时加班",
+      "title": "妈妈答应周末去游乐场却临时加班",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈答应周末去游乐场却临时加班",
+      "level": "L5",
+      "duration_ms": 373701,
+      "char_count": 1455,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈答应周末去游乐场却临时加班/妈妈答应周末去游乐场却临时加班.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈让我删掉游戏账号，我悄悄备份了",
+      "title": "妈妈让我删掉游戏账号，我悄悄备份了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈让我删掉游戏账号，我悄悄备份了",
+      "level": "L5",
+      "duration_ms": 472519,
+      "char_count": 1820,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈让我删掉游戏账号，我悄悄备份了/妈妈让我删掉游戏账号，我悄悄备份了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈让我让着妹妹，可明明是她先抢我东西",
+      "title": "妈妈让我让着妹妹，可明明是她先抢我东西",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈让我让着妹妹，可明明是她先抢我东西",
+      "level": "L5",
+      "duration_ms": 584241,
+      "char_count": 2269,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈让我让着妹妹，可明明是她先抢我东西/妈妈让我让着妹妹，可明明是她先抢我东西.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈说“该睡了”，我假装没听见",
+      "title": "妈妈说“该睡了”，我假装没听见",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈说“该睡了”，我假装没听见",
+      "level": "L5",
+      "duration_ms": 391450,
+      "char_count": 1546,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈说“该睡了”，我假装没听见/妈妈说“该睡了”，我假装没听见.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈说不许吃糖，我偏要偷一颗",
+      "title": "妈妈说不许吃糖，我偏要偷一颗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/妈妈说不许吃糖，我偏要偷一颗",
+      "level": "L5",
+      "duration_ms": 421668,
+      "char_count": 1658,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/妈妈说不许吃糖，我偏要偷一颗/妈妈说不许吃糖，我偏要偷一颗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔子说对不起：抢积木之后",
+      "title": "小兔子说对不起：抢积木之后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/小兔子说对不起：抢积木之后",
+      "level": "L5",
+      "duration_ms": 445885,
+      "char_count": 1754,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/小兔子说对不起：抢积木之后/小兔子说对不起：抢积木之后.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小凳子挡路了是绕过去还是推开",
+      "title": "小凳子挡路了是绕过去还是推开",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/小凳子挡路了是绕过去还是推开",
+      "level": "L5",
+      "duration_ms": 509699,
+      "char_count": 1982,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/小凳子挡路了是绕过去还是推开/小凳子挡路了是绕过去还是推开.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小朋友嘲笑我画的小狗像青蛙",
+      "title": "小朋友嘲笑我画的小狗像青蛙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/小朋友嘲笑我画的小狗像青蛙",
+      "level": "L5",
+      "duration_ms": 448777,
+      "char_count": 1720,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/小朋友嘲笑我画的小狗像青蛙/小朋友嘲笑我画的小狗像青蛙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小朋友来家里做客：玩具借给他吗",
+      "title": "小朋友来家里做客：玩具借给他吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/小朋友来家里做客：玩具借给他吗",
+      "level": "L5",
+      "duration_ms": 507775,
+      "char_count": 1959,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/小朋友来家里做客：玩具借给他吗/小朋友来家里做客：玩具借给他吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小狗舔了我的冰淇淋，该怪谁？",
+      "title": "小狗舔了我的冰淇淋，该怪谁？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/小狗舔了我的冰淇淋，该怪谁？",
+      "level": "L5",
+      "duration_ms": 512705,
+      "char_count": 1991,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/小狗舔了我的冰淇淋，该怪谁？/小狗舔了我的冰淇淋，该怪谁？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小积木该归谁：抢玩具之后",
+      "title": "小积木该归谁：抢玩具之后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/小积木该归谁：抢玩具之后",
+      "level": "L5",
+      "duration_ms": 420772,
+      "char_count": 1660,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/小积木该归谁：抢玩具之后/小积木该归谁：抢玩具之后.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小饼干掉地上还能不能捡起来吃",
+      "title": "小饼干掉地上还能不能捡起来吃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/小饼干掉地上还能不能捡起来吃",
+      "level": "L5",
+      "duration_ms": 399133,
+      "char_count": 1538,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/小饼干掉地上还能不能捡起来吃/小饼干掉地上还能不能捡起来吃.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小鸭子跟妈妈走：散步时不乱跑",
+      "title": "小鸭子跟妈妈走：散步时不乱跑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/小鸭子跟妈妈走：散步时不乱跑",
+      "level": "L5",
+      "duration_ms": 320920,
+      "char_count": 1262,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/小鸭子跟妈妈走：散步时不乱跑/小鸭子跟妈妈走：散步时不乱跑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园里好朋友抢了我的小汽车",
+      "title": "幼儿园里好朋友抢了我的小汽车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/幼儿园里好朋友抢了我的小汽车",
+      "level": "L5",
+      "duration_ms": 379739,
+      "char_count": 1481,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/幼儿园里好朋友抢了我的小汽车/幼儿园里好朋友抢了我的小汽车.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园里新来的小朋友不说话",
+      "title": "幼儿园里新来的小朋友不说话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/幼儿园里新来的小朋友不说话",
+      "level": "L5",
+      "duration_ms": 335171,
+      "char_count": 1325,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/幼儿园里新来的小朋友不说话/幼儿园里新来的小朋友不说话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弟弟妹妹抢我的零食该不该分给他",
+      "title": "弟弟妹妹抢我的零食该不该分给他",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/弟弟妹妹抢我的零食该不该分给他",
+      "level": "L5",
+      "duration_ms": 300565,
+      "char_count": 1166,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/弟弟妹妹抢我的零食该不该分给他/弟弟妹妹抢我的零食该不该分给他.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弟弟用画笔在我画本上乱涂乱画",
+      "title": "弟弟用画笔在我画本上乱涂乱画",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/弟弟用画笔在我画本上乱涂乱画",
+      "level": "L5",
+      "duration_ms": 465058,
+      "char_count": 1821,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/弟弟用画笔在我画本上乱涂乱画/弟弟用画笔在我画本上乱涂乱画.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想买玩具但妈妈说要存钱才能买",
+      "title": "想买玩具但妈妈说要存钱才能买",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/想买玩具但妈妈说要存钱才能买",
+      "level": "L5",
+      "duration_ms": 354063,
+      "char_count": 1394,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/想买玩具但妈妈说要存钱才能买/想买玩具但妈妈说要存钱才能买.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想妈妈哭鼻子对吗：幼儿园的眼泪",
+      "title": "想妈妈哭鼻子对吗：幼儿园的眼泪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/想妈妈哭鼻子对吗：幼儿园的眼泪",
+      "level": "L5",
+      "duration_ms": 353241,
+      "char_count": 1382,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/想妈妈哭鼻子对吗：幼儿园的眼泪/想妈妈哭鼻子对吗：幼儿园的眼泪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想摸热水壶为什么不行",
+      "title": "想摸热水壶为什么不行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/想摸热水壶为什么不行",
+      "level": "L5",
+      "duration_ms": 365380,
+      "char_count": 1415,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/想摸热水壶为什么不行/想摸热水壶为什么不行.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想玩别人的小火车怎么开口",
+      "title": "想玩别人的小火车怎么开口",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/想玩别人的小火车怎么开口",
+      "level": "L5",
+      "duration_ms": 319883,
+      "char_count": 1257,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/想玩别人的小火车怎么开口/想玩别人的小火车怎么开口.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想玩小红的布娃娃她不肯借我",
+      "title": "想玩小红的布娃娃她不肯借我",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/想玩小红的布娃娃她不肯借我",
+      "level": "L5",
+      "duration_ms": 379667,
+      "char_count": 1489,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/想玩小红的布娃娃她不肯借我/想玩小红的布娃娃她不肯借我.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我不想把玩具车借给弟弟",
+      "title": "我不想把玩具车借给弟弟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我不想把玩具车借给弟弟",
+      "level": "L5",
+      "duration_ms": 317990,
+      "char_count": 1254,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我不想把玩具车借给弟弟/我不想把玩具车借给弟弟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我也想像电视里那样染彩色头发，妈妈不同意",
+      "title": "我也想像电视里那样染彩色头发，妈妈不同意",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我也想像电视里那样染彩色头发，妈妈不同意",
+      "level": "L5",
+      "duration_ms": 449916,
+      "char_count": 1705,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我也想像电视里那样染彩色头发，妈妈不同意/我也想像电视里那样染彩色头发，妈妈不同意.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我偷偷把幼儿园的积木带回家",
+      "title": "我偷偷把幼儿园的积木带回家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我偷偷把幼儿园的积木带回家",
+      "level": "L5",
+      "duration_ms": 333881,
+      "char_count": 1317,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我偷偷把幼儿园的积木带回家/我偷偷把幼儿园的积木带回家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我偷偷拿走了超市里的棒棒糖",
+      "title": "我偷偷拿走了超市里的棒棒糖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我偷偷拿走了超市里的棒棒糖",
+      "level": "L5",
+      "duration_ms": 289314,
+      "char_count": 1135,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我偷偷拿走了超市里的棒棒糖/我偷偷拿走了超市里的棒棒糖.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我偷偷看了姐姐的日记，她发现后很生气",
+      "title": "我偷偷看了姐姐的日记，她发现后很生气",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我偷偷看了姐姐的日记，她发现后很生气",
+      "level": "L5",
+      "duration_ms": 482346,
+      "char_count": 1877,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我偷偷看了姐姐的日记，她发现后很生气/我偷偷看了姐姐的日记，她发现后很生气.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我发现好朋友在背后说我的坏话，该怎么办？",
+      "title": "我发现好朋友在背后说我的坏话，该怎么办？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我发现好朋友在背后说我的坏话，该怎么办？",
+      "level": "L5",
+      "duration_ms": 467489,
+      "char_count": 1788,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我发现好朋友在背后说我的坏话，该怎么办？/我发现好朋友在背后说我的坏话，该怎么办？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我想养一只猫，妈妈说不行",
+      "title": "我想养一只猫，妈妈说不行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我想养一只猫，妈妈说不行",
+      "level": "L5",
+      "duration_ms": 532944,
+      "char_count": 2055,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我想养一只猫，妈妈说不行/我想养一只猫，妈妈说不行.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我想参加校运会，可同学都说我跑得慢会丢脸",
+      "title": "我想参加校运会，可同学都说我跑得慢会丢脸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我想参加校运会，可同学都说我跑得慢会丢脸",
+      "level": "L5",
+      "duration_ms": 434952,
+      "char_count": 1718,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我想参加校运会，可同学都说我跑得慢会丢脸/我想参加校运会，可同学都说我跑得慢会丢脸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我想吃糖但爸爸说会蛀牙",
+      "title": "我想吃糖但爸爸说会蛀牙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我想吃糖但爸爸说会蛀牙",
+      "level": "L5",
+      "duration_ms": 440774,
+      "char_count": 1728,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我想吃糖但爸爸说会蛀牙/我想吃糖但爸爸说会蛀牙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我想学画画妈妈非要我学钢琴",
+      "title": "我想学画画妈妈非要我学钢琴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我想学画画妈妈非要我学钢琴",
+      "level": "L5",
+      "duration_ms": 426916,
+      "char_count": 1640,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我想学画画妈妈非要我学钢琴/我想学画画妈妈非要我学钢琴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我想染头发，但学校规定不允许",
+      "title": "我想染头发，但学校规定不允许",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我想染头发，但学校规定不允许",
+      "level": "L5",
+      "duration_ms": 360386,
+      "char_count": 1365,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我想染头发，但学校规定不允许/我想染头发，但学校规定不允许.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我想辍学去画画，但爸妈都说没前途",
+      "title": "我想辍学去画画，但爸妈都说没前途",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我想辍学去画画，但爸妈都说没前途",
+      "level": "L5",
+      "duration_ms": 466632,
+      "char_count": 1798,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我想辍学去画画，但爸妈都说没前途/我想辍学去画画，但爸妈都说没前途.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我捡到一只受伤的小鸟怎么办",
+      "title": "我捡到一只受伤的小鸟怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我捡到一只受伤的小鸟怎么办",
+      "level": "L5",
+      "duration_ms": 379559,
+      "char_count": 1482,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我捡到一只受伤的小鸟怎么办/我捡到一只受伤的小鸟怎么办.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我捡到十块钱，是交给老师还是买零食？",
+      "title": "我捡到十块钱，是交给老师还是买零食？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我捡到十块钱，是交给老师还是买零食？",
+      "level": "L5",
+      "duration_ms": 448951,
+      "char_count": 1752,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我捡到十块钱，是交给老师还是买零食？/我捡到十块钱，是交给老师还是买零食？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我推了小朋友，因为他碰了我的画",
+      "title": "我推了小朋友，因为他碰了我的画",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我推了小朋友，因为他碰了我的画",
+      "level": "L5",
+      "duration_ms": 523952,
+      "char_count": 2050,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我推了小朋友，因为他碰了我的画/我推了小朋友，因为他碰了我的画.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我用零花钱买了东西，妈妈说我浪费，但那是我的钱啊",
+      "title": "我用零花钱买了东西，妈妈说我浪费，但那是我的钱啊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我用零花钱买了东西，妈妈说我浪费，但那是我的钱啊",
+      "level": "L5",
+      "duration_ms": 436806,
+      "char_count": 1640,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我用零花钱买了东西，妈妈说我浪费，但那是我的钱啊/我用零花钱买了东西，妈妈说我浪费，但那是我的钱啊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我的外套自己穿：拉链卡住了",
+      "title": "我的外套自己穿：拉链卡住了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我的外套自己穿：拉链卡住了",
+      "level": "L5",
+      "duration_ms": 263814,
+      "char_count": 1029,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我的外套自己穿：拉链卡住了/我的外套自己穿：拉链卡住了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我的小椅子谁来坐：幼儿园争座位",
+      "title": "我的小椅子谁来坐：幼儿园争座位",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我的小椅子谁来坐：幼儿园争座位",
+      "level": "L6",
+      "duration_ms": 235700,
+      "char_count": 1038,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我的小椅子谁来坐：幼儿园争座位/我的小椅子谁来坐：幼儿园争座位.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我看到有人偷东西，但不想惹麻烦",
+      "title": "我看到有人偷东西，但不想惹麻烦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我看到有人偷东西，但不想惹麻烦",
+      "level": "L5",
+      "duration_ms": 304203,
+      "char_count": 1173,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我看到有人偷东西，但不想惹麻烦/我看到有人偷东西，但不想惹麻烦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我藏起了小朋友的玩具，说是捡到的",
+      "title": "我藏起了小朋友的玩具，说是捡到的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我藏起了小朋友的玩具，说是捡到的",
+      "level": "L5",
+      "duration_ms": 506626,
+      "char_count": 1961,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我藏起了小朋友的玩具，说是捡到的/我藏起了小朋友的玩具，说是捡到的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我要独自睡觉可是半夜想找妈妈",
+      "title": "我要独自睡觉可是半夜想找妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/我要独自睡觉可是半夜想找妈妈",
+      "level": "L5",
+      "duration_ms": 516307,
+      "char_count": 2031,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/我要独自睡觉可是半夜想找妈妈/我要独自睡觉可是半夜想找妈妈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打碎花瓶后，我说是小猫干的",
+      "title": "打碎花瓶后，我说是小猫干的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/打碎花瓶后，我说是小猫干的",
+      "level": "L5",
+      "duration_ms": 500671,
+      "char_count": 2005,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/打碎花瓶后，我说是小猫干的/打碎花瓶后，我说是小猫干的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "抢了布娃娃为什么小朋友会哭",
+      "title": "抢了布娃娃为什么小朋友会哭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/抢了布娃娃为什么小朋友会哭",
+      "level": "L5",
+      "duration_ms": 390453,
+      "char_count": 1520,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/抢了布娃娃为什么小朋友会哭/抢了布娃娃为什么小朋友会哭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "捡到十块钱交给老师还是买糖吃",
+      "title": "捡到十块钱交给老师还是买糖吃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/捡到十块钱交给老师还是买糖吃",
+      "level": "L5",
+      "duration_ms": 393633,
+      "char_count": 1527,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/捡到十块钱交给老师还是买糖吃/捡到十块钱交给老师还是买糖吃.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "捡到十块钱，是交给老师还是自己买零食？",
+      "title": "捡到十块钱，是交给老师还是自己买零食？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/捡到十块钱，是交给老师还是自己买零食？",
+      "level": "L5",
+      "duration_ms": 484560,
+      "char_count": 1895,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/捡到十块钱，是交给老师还是自己买零食？/捡到十块钱，是交给老师还是自己买零食？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "换牙时忍不住舔那个摇晃的牙齿",
+      "title": "换牙时忍不住舔那个摇晃的牙齿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/换牙时忍不住舔那个摇晃的牙齿",
+      "level": "L5",
+      "duration_ms": 487201,
+      "char_count": 1878,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/换牙时忍不住舔那个摇晃的牙齿/换牙时忍不住舔那个摇晃的牙齿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "排队时有人插队该不该说",
+      "title": "排队时有人插队该不该说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/排队时有人插队该不该说",
+      "level": "L5",
+      "duration_ms": 482953,
+      "char_count": 1905,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/排队时有人插队该不该说/排队时有人插队该不该说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "摔倒了是哭还是自己爬起来",
+      "title": "摔倒了是哭还是自己爬起来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/摔倒了是哭还是自己爬起来",
+      "level": "L5",
+      "duration_ms": 500735,
+      "char_count": 1919,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/摔倒了是哭还是自己爬起来/摔倒了是哭还是自己爬起来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "放学路上看到小猫受伤，该不该带回家？",
+      "title": "放学路上看到小猫受伤，该不该带回家？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/放学路上看到小猫受伤，该不该带回家？",
+      "level": "L5",
+      "duration_ms": 648523,
+      "char_count": 2481,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/放学路上看到小猫受伤，该不该带回家？/放学路上看到小猫受伤，该不该带回家？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "明天要考试可我还没学会数数",
+      "title": "明天要考试可我还没学会数数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/明天要考试可我还没学会数数",
+      "level": "L5",
+      "duration_ms": 515985,
+      "char_count": 1994,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/明天要考试可我还没学会数数/明天要考试可我还没学会数数.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "晚上睡觉时听到奇怪声音好害怕",
+      "title": "晚上睡觉时听到奇怪声音好害怕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/晚上睡觉时听到奇怪声音好害怕",
+      "level": "L5",
+      "duration_ms": 227459,
+      "char_count": 902,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/晚上睡觉时听到奇怪声音好害怕/晚上睡觉时听到奇怪声音好害怕.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "暑假作业太多，我该先玩还是先写？",
+      "title": "暑假作业太多，我该先玩还是先写？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/暑假作业太多，我该先玩还是先写？",
+      "level": "L5",
+      "duration_ms": 443593,
+      "char_count": 1691,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/暑假作业太多，我该先玩还是先写？/暑假作业太多，我该先玩还是先写？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "有人插队我该不该告诉老师呢",
+      "title": "有人插队我该不该告诉老师呢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/有人插队我该不该告诉老师呢",
+      "level": "L5",
+      "duration_ms": 315882,
+      "char_count": 1188,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/有人插队我该不该告诉老师呢/有人插队我该不该告诉老师呢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "没有写作业却对老师说忘带了",
+      "title": "没有写作业却对老师说忘带了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/没有写作业却对老师说忘带了",
+      "level": "L5",
+      "duration_ms": 355775,
+      "char_count": 1397,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/没有写作业却对老师说忘带了/没有写作业却对老师说忘带了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "洗澡时把水泼到妈妈身上对吗",
+      "title": "洗澡时把水泼到妈妈身上对吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/洗澡时把水泼到妈妈身上对吗",
+      "level": "L5",
+      "duration_ms": 331419,
+      "char_count": 1279,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/洗澡时把水泼到妈妈身上对吗/洗澡时把水泼到妈妈身上对吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "游戏时小刚耍赖我要大声说出来吗",
+      "title": "游戏时小刚耍赖我要大声说出来吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/游戏时小刚耍赖我要大声说出来吗",
+      "level": "L5",
+      "duration_ms": 344636,
+      "char_count": 1348,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/游戏时小刚耍赖我要大声说出来吗/游戏时小刚耍赖我要大声说出来吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑梯上小朋友推我该怎么办",
+      "title": "滑梯上小朋友推我该怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/滑梯上小朋友推我该怎么办",
+      "level": "L5",
+      "duration_ms": 452520,
+      "char_count": 1771,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/滑梯上小朋友推我该怎么办/滑梯上小朋友推我该怎么办.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑滑梯要排队：谁先谁后",
+      "title": "滑滑梯要排队：谁先谁后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/滑滑梯要排队：谁先谁后",
+      "level": "L5",
+      "duration_ms": 310024,
+      "char_count": 1225,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/滑滑梯要排队：谁先谁后/滑滑梯要排队：谁先谁后.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸答应去游乐园却说要加班了",
+      "title": "爸爸答应去游乐园却说要加班了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/爸爸答应去游乐园却说要加班了",
+      "level": "L5",
+      "duration_ms": 324380,
+      "char_count": 1267,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/爸爸答应去游乐园却说要加班了/爸爸答应去游乐园却说要加班了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸答应周末去游乐园但又加班，我可以发火吗？",
+      "title": "爸爸答应周末去游乐园但又加班，我可以发火吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/爸爸答应周末去游乐园但又加班，我可以发火吗？",
+      "level": "L5",
+      "duration_ms": 451629,
+      "char_count": 1760,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/爸爸答应周末去游乐园但又加班，我可以发火吗？/爸爸答应周末去游乐园但又加班，我可以发火吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸答应周末带我去游乐园，却临时加班",
+      "title": "爸爸答应周末带我去游乐园，却临时加班",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/爸爸答应周末带我去游乐园，却临时加班",
+      "level": "L5",
+      "duration_ms": 498521,
+      "char_count": 1933,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/爸爸答应周末带我去游乐园，却临时加班/爸爸答应周末带我去游乐园，却临时加班.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸答应陪我玩，却又去工作了",
+      "title": "爸爸答应陪我玩，却又去工作了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/爸爸答应陪我玩，却又去工作了",
+      "level": "L5",
+      "duration_ms": 415667,
+      "char_count": 1627,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/爸爸答应陪我玩，却又去工作了/爸爸答应陪我玩，却又去工作了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸说努力学习才能有出路，可我觉得快乐更重要",
+      "title": "爸爸说努力学习才能有出路，可我觉得快乐更重要",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/爸爸说努力学习才能有出路，可我觉得快乐更重要",
+      "level": "L5",
+      "duration_ms": 398777,
+      "char_count": 1542,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/爸爸说努力学习才能有出路，可我觉得快乐更重要/爸爸说努力学习才能有出路，可我觉得快乐更重要.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸说男子汉不能哭可我摔得好疼",
+      "title": "爸爸说男子汉不能哭可我摔得好疼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/爸爸说男子汉不能哭可我摔得好疼",
+      "level": "L5",
+      "duration_ms": 287528,
+      "char_count": 1111,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/爸爸说男子汉不能哭可我摔得好疼/爸爸说男子汉不能哭可我摔得好疼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "班里最受欢迎的女生说我发型土，我想换发型",
+      "title": "班里最受欢迎的女生说我发型土，我想换发型",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/班里最受欢迎的女生说我发型土，我想换发型",
+      "level": "L5",
+      "duration_ms": 444024,
+      "char_count": 1698,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/班里最受欢迎的女生说我发型土，我想换发型/班里最受欢迎的女生说我发型土，我想换发型.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看到有人乱扔垃圾，我该捡起来吗？",
+      "title": "看到有人乱扔垃圾，我该捡起来吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/看到有人乱扔垃圾，我该捡起来吗？",
+      "level": "L5",
+      "duration_ms": 539241,
+      "char_count": 2073,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/看到有人乱扔垃圾，我该捡起来吗？/看到有人乱扔垃圾，我该捡起来吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看到流浪猫被欺负，我该出手吗？",
+      "title": "看到流浪猫被欺负，我该出手吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/看到流浪猫被欺负，我该出手吗？",
+      "level": "L5",
+      "duration_ms": 477696,
+      "char_count": 1870,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/看到流浪猫被欺负，我该出手吗？/看到流浪猫被欺负，我该出手吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看见别人得小红花心里酸溜溜的",
+      "title": "看见别人得小红花心里酸溜溜的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/看见别人得小红花心里酸溜溜的",
+      "level": "L5",
+      "duration_ms": 399990,
+      "char_count": 1536,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/看见别人得小红花心里酸溜溜的/看见别人得小红花心里酸溜溜的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看见邻居家的小猫在欺负小蝴蝶",
+      "title": "看见邻居家的小猫在欺负小蝴蝶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/看见邻居家的小猫在欺负小蝴蝶",
+      "level": "L5",
+      "duration_ms": 440994,
+      "char_count": 1709,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/看见邻居家的小猫在欺负小蝴蝶/看见邻居家的小猫在欺负小蝴蝶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "睡觉时间到了还想玩怎么办",
+      "title": "睡觉时间到了还想玩怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/睡觉时间到了还想玩怎么办",
+      "level": "L5",
+      "duration_ms": 462268,
+      "char_count": 1788,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/睡觉时间到了还想玩怎么办/睡觉时间到了还想玩怎么办.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "窗台上的花枯萎了是我忘了浇水吗",
+      "title": "窗台上的花枯萎了是我忘了浇水吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/窗台上的花枯萎了是我忘了浇水吗",
+      "level": "L5",
+      "duration_ms": 398065,
+      "char_count": 1528,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/窗台上的花枯萎了是我忘了浇水吗/窗台上的花枯萎了是我忘了浇水吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在幼儿园举手发言",
+      "title": "第一次在幼儿园举手发言",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/第一次在幼儿园举手发言",
+      "level": "L5",
+      "duration_ms": 367420,
+      "char_count": 1438,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/第一次在幼儿园举手发言/第一次在幼儿园举手发言.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "绘本撕破了能不能假装不知道",
+      "title": "绘本撕破了能不能假装不知道",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/绘本撕破了能不能假装不知道",
+      "level": "L5",
+      "duration_ms": 356279,
+      "char_count": 1394,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/绘本撕破了能不能假装不知道/绘本撕破了能不能假装不知道.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师表扬了别人的画，我觉得自己画得更好，该说出来吗？",
+      "title": "老师表扬了别人的画，我觉得自己画得更好，该说出来吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/老师表扬了别人的画，我觉得自己画得更好，该说出来吗？",
+      "level": "L5",
+      "duration_ms": 445275,
+      "char_count": 1711,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/老师表扬了别人的画，我觉得自己画得更好，该说出来吗？/老师表扬了别人的画，我觉得自己画得更好，该说出来吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师让举报带手机的同学，我犹豫了",
+      "title": "老师让举报带手机的同学，我犹豫了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/老师让举报带手机的同学，我犹豫了",
+      "level": "L5",
+      "duration_ms": 335241,
+      "char_count": 1272,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/老师让举报带手机的同学，我犹豫了/老师让举报带手机的同学，我犹豫了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师让我们写人生目标，我一点想法都没有",
+      "title": "老师让我们写人生目标，我一点想法都没有",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/老师让我们写人生目标，我一点想法都没有",
+      "level": "L5",
+      "duration_ms": 390204,
+      "char_count": 1492,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/老师让我们写人生目标，我一点想法都没有/老师让我们写人生目标，我一点想法都没有.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师说“排队”，我却想插队",
+      "title": "老师说“排队”，我却想插队",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/老师说“排队”，我却想插队",
+      "level": "L5",
+      "duration_ms": 219244,
+      "char_count": 869,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/老师说“排队”，我却想插队/老师说“排队”，我却想插队.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师说诚实的孩子会有奖励真的吗",
+      "title": "老师说诚实的孩子会有奖励真的吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/老师说诚实的孩子会有奖励真的吗",
+      "level": "L5",
+      "duration_ms": 448916,
+      "char_count": 1727,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/老师说诚实的孩子会有奖励真的吗/老师说诚实的孩子会有奖励真的吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师说过举手才能说话可我忍不住",
+      "title": "老师说过举手才能说话可我忍不住",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/老师说过举手才能说话可我忍不住",
+      "level": "L5",
+      "duration_ms": 407131,
+      "char_count": 1588,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/老师说过举手才能说话可我忍不住/老师说过举手才能说话可我忍不住.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师错怪我把黑板擦弄坏了该说吗",
+      "title": "老师错怪我把黑板擦弄坏了该说吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/老师错怪我把黑板擦弄坏了该说吗",
+      "level": "L5",
+      "duration_ms": 445347,
+      "char_count": 1684,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/老师错怪我把黑板擦弄坏了该说吗/老师错怪我把黑板擦弄坏了该说吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师问是谁打碎了窗户玻璃",
+      "title": "老师问是谁打碎了窗户玻璃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/老师问是谁打碎了窗户玻璃",
+      "level": "L5",
+      "duration_ms": 299384,
+      "char_count": 1171,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/老师问是谁打碎了窗户玻璃/老师问是谁打碎了窗户玻璃.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师问谁没完成作业，我撒谎说忘带了",
+      "title": "老师问谁没完成作业，我撒谎说忘带了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/老师问谁没完成作业，我撒谎说忘带了",
+      "level": "L5",
+      "duration_ms": 338350,
+      "char_count": 1340,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/老师问谁没完成作业，我撒谎说忘带了/老师问谁没完成作业，我撒谎说忘带了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考试时好朋友递来纸条我该接吗",
+      "title": "考试时好朋友递来纸条我该接吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/考试时好朋友递来纸条我该接吗",
+      "level": "L5",
+      "duration_ms": 269671,
+      "char_count": 1029,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/考试时好朋友递来纸条我该接吗/考试时好朋友递来纸条我该接吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考试时我偷偷看了一眼同桌的答案，现在很后悔",
+      "title": "考试时我偷偷看了一眼同桌的答案，现在很后悔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/考试时我偷偷看了一眼同桌的答案，现在很后悔",
+      "level": "L5",
+      "duration_ms": 364133,
+      "char_count": 1429,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/考试时我偷偷看了一眼同桌的答案，现在很后悔/考试时我偷偷看了一眼同桌的答案，现在很后悔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考试时旁边的同学让我偷偷看他的答案",
+      "title": "考试时旁边的同学让我偷偷看他的答案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/考试时旁边的同学让我偷偷看他的答案",
+      "level": "L5",
+      "duration_ms": 241135,
+      "char_count": 938,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/考试时旁边的同学让我偷偷看他的答案/考试时旁边的同学让我偷偷看他的答案.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己吃饭撒了饭粒：勺子掉地上",
+      "title": "自己吃饭撒了饭粒：勺子掉地上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/自己吃饭撒了饭粒：勺子掉地上",
+      "level": "L5",
+      "duration_ms": 333136,
+      "char_count": 1298,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/自己吃饭撒了饭粒：勺子掉地上/自己吃饭撒了饭粒：勺子掉地上.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己穿鞋子歪了怎么办：笨笨的小手",
+      "title": "自己穿鞋子歪了怎么办：笨笨的小手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/自己穿鞋子歪了怎么办：笨笨的小手",
+      "level": "L5",
+      "duration_ms": 391561,
+      "char_count": 1512,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/自己穿鞋子歪了怎么办：笨笨的小手/自己穿鞋子歪了怎么办：笨笨的小手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "课外班太累，我该不该假装生病？",
+      "title": "课外班太累，我该不该假装生病？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/课外班太累，我该不该假装生病？",
+      "level": "L5",
+      "duration_ms": 432348,
+      "char_count": 1632,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/课外班太累，我该不该假装生病？/课外班太累，我该不该假装生病？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "谁先玩秋千：公园里的轮流",
+      "title": "谁先玩秋千：公园里的轮流",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/谁先玩秋千：公园里的轮流",
+      "level": "L5",
+      "duration_ms": 283381,
+      "char_count": 1129,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/谁先玩秋千：公园里的轮流/谁先玩秋千：公园里的轮流.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "路边的小猫好可怜可妈妈说不能带",
+      "title": "路边的小猫好可怜可妈妈说不能带",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/路边的小猫好可怜可妈妈说不能带",
+      "level": "L5",
+      "duration_ms": 457238,
+      "char_count": 1774,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/路边的小猫好可怜可妈妈说不能带/路边的小猫好可怜可妈妈说不能带.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "跳绳比赛输了躲在滑梯下哭",
+      "title": "跳绳比赛输了躲在滑梯下哭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/跳绳比赛输了躲在滑梯下哭",
+      "level": "L5",
+      "duration_ms": 370772,
+      "char_count": 1430,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/跳绳比赛输了躲在滑梯下哭/跳绳比赛输了躲在滑梯下哭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "输了比赛，我哭着不肯回家",
+      "title": "输了比赛，我哭着不肯回家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/输了比赛，我哭着不肯回家",
+      "level": "L5",
+      "duration_ms": 230385,
+      "char_count": 898,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/输了比赛，我哭着不肯回家/输了比赛，我哭着不肯回家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "邻居家的狗一直叫，我想踢它一脚，但这是对的吗？",
+      "title": "邻居家的狗一直叫，我想踢它一脚，但这是对的吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/邻居家的狗一直叫，我想踢它一脚，但这是对的吗？",
+      "level": "L5",
+      "duration_ms": 455559,
+      "char_count": 1754,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/邻居家的狗一直叫，我想踢它一脚，但这是对的吗？/邻居家的狗一直叫，我想踢它一脚，但这是对的吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "铅笔盒里多出一块陌生橡皮",
+      "title": "铅笔盒里多出一块陌生橡皮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/铅笔盒里多出一块陌生橡皮",
+      "level": "L5",
+      "duration_ms": 291991,
+      "char_count": 1128,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/铅笔盒里多出一块陌生橡皮/铅笔盒里多出一块陌生橡皮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "零花钱该买喜欢的玩具还是存起来？",
+      "title": "零花钱该买喜欢的玩具还是存起来？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/零花钱该买喜欢的玩具还是存起来？",
+      "level": "L5",
+      "duration_ms": 370987,
+      "char_count": 1241,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/零花钱该买喜欢的玩具还是存起来？/零花钱该买喜欢的玩具还是存起来？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "饼干掉地上还能吃吗：脏脏的饼干",
+      "title": "饼干掉地上还能吃吗：脏脏的饼干",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A9哲学启蒙/饼干掉地上还能吃吗：脏脏的饼干",
+      "level": "L5",
+      "duration_ms": 345812,
+      "char_count": 1350,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/饼干掉地上还能吃吗：脏脏的饼干/饼干掉地上还能吃吗：脏脏的饼干.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

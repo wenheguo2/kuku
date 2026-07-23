@@ -1,0 +1,2353 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/神话故事",
+  "name": "神话故事",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/神话故事/神话故事.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 334,
+  "entries": [
+    {
+      "entry_id": "三清四御 Three Pure Ones and Four Emperors",
+      "title": "三清四御 Three Pure Ones and Four Emperors",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/三清四御 Three Pure Ones and Four Emperors"
+    },
+    {
+      "entry_id": "三生石 Three Lives Stone",
+      "title": "三生石 Three Lives Stone",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/三生石 Three Lives Stone"
+    },
+    {
+      "entry_id": "东皇太一 Eastern Emperor Taiyi",
+      "title": "东皇太一 Eastern Emperor Taiyi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/东皇太一 Eastern Emperor Taiyi"
+    },
+    {
+      "entry_id": "中文-三清四御",
+      "title": "中文-三清四御",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-三清四御"
+    },
+    {
+      "entry_id": "中文-三生石",
+      "title": "中文-三生石",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-三生石"
+    },
+    {
+      "entry_id": "中文-东皇太一",
+      "title": "中文-东皇太一",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-东皇太一"
+    },
+    {
+      "entry_id": "中文-九天玄女",
+      "title": "中文-九天玄女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-九天玄女"
+    },
+    {
+      "entry_id": "中文-九尾狐",
+      "title": "中文-九尾狐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-九尾狐"
+    },
+    {
+      "entry_id": "中文-二十八宿",
+      "title": "中文-二十八宿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-二十八宿"
+    },
+    {
+      "entry_id": "中文-二郎神",
+      "title": "中文-二郎神",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-二郎神"
+    },
+    {
+      "entry_id": "中文-五方天帝",
+      "title": "中文-五方天帝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-五方天帝"
+    },
+    {
+      "entry_id": "中文-五道将军",
+      "title": "中文-五道将军",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-五道将军"
+    },
+    {
+      "entry_id": "中文-人参娃娃",
+      "title": "中文-人参娃娃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-人参娃娃"
+    },
+    {
+      "entry_id": "中文-仓颉造字",
+      "title": "中文-仓颉造字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-仓颉造字"
+    },
+    {
+      "entry_id": "中文-伏羲画卦",
+      "title": "中文-伏羲画卦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-伏羲画卦"
+    },
+    {
+      "entry_id": "中文-元始天尊",
+      "title": "中文-元始天尊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-元始天尊"
+    },
+    {
+      "entry_id": "中文-八仙过海",
+      "title": "中文-八仙过海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-八仙过海"
+    },
+    {
+      "entry_id": "中文-六道轮回",
+      "title": "中文-六道轮回",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-六道轮回"
+    },
+    {
+      "entry_id": "中文-共工怒触",
+      "title": "中文-共工怒触",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-共工怒触"
+    },
+    {
+      "entry_id": "中文-共工触山",
+      "title": "中文-共工触山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-共工触山"
+    },
+    {
+      "entry_id": "中文-刑天舞干戚",
+      "title": "中文-刑天舞干戚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-刑天舞干戚"
+    },
+    {
+      "entry_id": "中文-刘海戏金蟾",
+      "title": "中文-刘海戏金蟾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-刘海戏金蟾"
+    },
+    {
+      "entry_id": "中文-判官",
+      "title": "中文-判官",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-判官"
+    },
+    {
+      "entry_id": "中文-勾魂使者",
+      "title": "中文-勾魂使者",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-勾魂使者"
+    },
+    {
+      "entry_id": "中文-北斗七星",
+      "title": "中文-北斗七星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-北斗七星"
+    },
+    {
+      "entry_id": "中文-十八罗汉",
+      "title": "中文-十八罗汉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-十八罗汉"
+    },
+    {
+      "entry_id": "中文-十殿阎罗",
+      "title": "中文-十殿阎罗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-十殿阎罗"
+    },
+    {
+      "entry_id": "中文-南斗六司",
+      "title": "中文-南斗六司",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-南斗六司"
+    },
+    {
+      "entry_id": "中文-南极仙翁",
+      "title": "中文-南极仙翁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-南极仙翁"
+    },
+    {
+      "entry_id": "中文-卷帘大将",
+      "title": "中文-卷帘大将",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-卷帘大将"
+    },
+    {
+      "entry_id": "中文-句芒",
+      "title": "中文-句芒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-句芒"
+    },
+    {
+      "entry_id": "中文-后土",
+      "title": "中文-后土",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-后土"
+    },
+    {
+      "entry_id": "中文-后羿射日",
+      "title": "中文-后羿射日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-后羿射日"
+    },
+    {
+      "entry_id": "中文-吴刚伐桂",
+      "title": "中文-吴刚伐桂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-吴刚伐桂"
+    },
+    {
+      "entry_id": "中文-和合二仙",
+      "title": "中文-和合二仙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-和合二仙"
+    },
+    {
+      "entry_id": "中文-四大天王",
+      "title": "中文-四大天王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-四大天王"
+    },
+    {
+      "entry_id": "中文-四海龙王",
+      "title": "中文-四海龙王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-四海龙王"
+    },
+    {
+      "entry_id": "中文-土地公公",
+      "title": "中文-土地公公",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-土地公公"
+    },
+    {
+      "entry_id": "中文-地藏王",
+      "title": "中文-地藏王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-地藏王"
+    },
+    {
+      "entry_id": "中文-城隍爷",
+      "title": "中文-城隍爷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-城隍爷"
+    },
+    {
+      "entry_id": "中文-大禹治水",
+      "title": "中文-大禹治水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-大禹治水"
+    },
+    {
+      "entry_id": "中文-天河传说",
+      "title": "中文-天河传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-天河传说"
+    },
+    {
+      "entry_id": "中文-天蓬元帅",
+      "title": "中文-天蓬元帅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-天蓬元帅"
+    },
+    {
+      "entry_id": "中文-太上老君",
+      "title": "中文-太上老君",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-太上老君"
+    },
+    {
+      "entry_id": "中文-太乙真人",
+      "title": "中文-太乙真人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-太乙真人"
+    },
+    {
+      "entry_id": "中文-太昊",
+      "title": "中文-太昊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-太昊"
+    },
+    {
+      "entry_id": "中文-夸父逐日",
+      "title": "中文-夸父逐日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-夸父逐日"
+    },
+    {
+      "entry_id": "中文-奈何桥",
+      "title": "中文-奈何桥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-奈何桥"
+    },
+    {
+      "entry_id": "中文-女儿国",
+      "title": "中文-女儿国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-女儿国"
+    },
+    {
+      "entry_id": "中文-女娲补天",
+      "title": "中文-女娲补天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-女娲补天"
+    },
+    {
+      "entry_id": "中文-女娲造人",
+      "title": "中文-女娲造人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-女娲造人"
+    },
+    {
+      "entry_id": "中文-如来佛祖",
+      "title": "中文-如来佛祖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-如来佛祖"
+    },
+    {
+      "entry_id": "中文-嫘祖养蚕",
+      "title": "中文-嫘祖养蚕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-嫘祖养蚕"
+    },
+    {
+      "entry_id": "中文-嫦娥奔月",
+      "title": "中文-嫦娥奔月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-嫦娥奔月"
+    },
+    {
+      "entry_id": "中文-嫦娥玉兔",
+      "title": "中文-嫦娥玉兔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-嫦娥玉兔"
+    },
+    {
+      "entry_id": "中文-孟婆汤",
+      "title": "中文-孟婆汤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-孟婆汤"
+    },
+    {
+      "entry_id": "中文-安期生",
+      "title": "中文-安期生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-安期生"
+    },
+    {
+      "entry_id": "中文-寿星的故事",
+      "title": "中文-寿星的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-寿星的故事"
+    },
+    {
+      "entry_id": "中文-小白龙",
+      "title": "中文-小白龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-小白龙"
+    },
+    {
+      "entry_id": "中文-少昊",
+      "title": "中文-少昊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-少昊"
+    },
+    {
+      "entry_id": "中文-山神",
+      "title": "中文-山神",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-山神"
+    },
+    {
+      "entry_id": "中文-崔判官",
+      "title": "中文-崔判官",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-崔判官"
+    },
+    {
+      "entry_id": "中文-巫山神女",
+      "title": "中文-巫山神女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-巫山神女"
+    },
+    {
+      "entry_id": "中文-帝俊",
+      "title": "中文-帝俊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-帝俊"
+    },
+    {
+      "entry_id": "中文-帝喾",
+      "title": "中文-帝喾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-帝喾"
+    },
+    {
+      "entry_id": "中文-帝江",
+      "title": "中文-帝江",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-帝江"
+    },
+    {
+      "entry_id": "中文-常羲",
+      "title": "中文-常羲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-常羲"
+    },
+    {
+      "entry_id": "中文-广寒宫",
+      "title": "中文-广寒宫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-广寒宫"
+    },
+    {
+      "entry_id": "中文-应龙",
+      "title": "中文-应龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-应龙"
+    },
+    {
+      "entry_id": "中文-张天师降妖",
+      "title": "中文-张天师降妖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-张天师降妖"
+    },
+    {
+      "entry_id": "中文-弥勒佛",
+      "title": "中文-弥勒佛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-弥勒佛"
+    },
+    {
+      "entry_id": "中文-彭祖",
+      "title": "中文-彭祖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-彭祖"
+    },
+    {
+      "entry_id": "中文-彼岸",
+      "title": "中文-彼岸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-彼岸"
+    },
+    {
+      "entry_id": "中文-慈航普渡",
+      "title": "中文-慈航普渡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-慈航普渡"
+    },
+    {
+      "entry_id": "中文-托塔李天王",
+      "title": "中文-托塔李天王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-托塔李天王"
+    },
+    {
+      "entry_id": "中文-敖广龙王",
+      "title": "中文-敖广龙王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-敖广龙王"
+    },
+    {
+      "entry_id": "中文-文昌帝君",
+      "title": "中文-文昌帝君",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-文昌帝君"
+    },
+    {
+      "entry_id": "中文-文曲星",
+      "title": "中文-文曲星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-文曲星"
+    },
+    {
+      "entry_id": "中文-文殊菩萨",
+      "title": "中文-文殊菩萨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-文殊菩萨"
+    },
+    {
+      "entry_id": "中文-普贤菩萨",
+      "title": "中文-普贤菩萨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-普贤菩萨"
+    },
+    {
+      "entry_id": "中文-月下老人",
+      "title": "中文-月下老人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-月下老人"
+    },
+    {
+      "entry_id": "中文-有巢构木",
+      "title": "中文-有巢构木",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-有巢构木"
+    },
+    {
+      "entry_id": "中文-望乡台",
+      "title": "中文-望乡台",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-望乡台"
+    },
+    {
+      "entry_id": "中文-杜康酿酒",
+      "title": "中文-杜康酿酒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-杜康酿酒"
+    },
+    {
+      "entry_id": "中文-梼杌",
+      "title": "中文-梼杌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-梼杌"
+    },
+    {
+      "entry_id": "中文-武圣关公",
+      "title": "中文-武圣关公",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-武圣关公"
+    },
+    {
+      "entry_id": "中文-武曲星",
+      "title": "中文-武曲星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-武曲星"
+    },
+    {
+      "entry_id": "中文-毕方",
+      "title": "中文-毕方",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-毕方"
+    },
+    {
+      "entry_id": "中文-汉水女神",
+      "title": "中文-汉水女神",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-汉水女神"
+    },
+    {
+      "entry_id": "中文-河伯",
+      "title": "中文-河伯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-河伯"
+    },
+    {
+      "entry_id": "中文-河神冯夷",
+      "title": "中文-河神冯夷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-河神冯夷"
+    },
+    {
+      "entry_id": "中文-泰山府君",
+      "title": "中文-泰山府君",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-泰山府君"
+    },
+    {
+      "entry_id": "中文-洛神宓妃",
+      "title": "中文-洛神宓妃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-洛神宓妃"
+    },
+    {
+      "entry_id": "中文-海神妈祖",
+      "title": "中文-海神妈祖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-海神妈祖"
+    },
+    {
+      "entry_id": "中文-混沌",
+      "title": "中文-混沌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-混沌"
+    },
+    {
+      "entry_id": "中文-湘君",
+      "title": "中文-湘君",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-湘君"
+    },
+    {
+      "entry_id": "中文-湘夫人",
+      "title": "中文-湘夫人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-湘夫人"
+    },
+    {
+      "entry_id": "中文-火焰山",
+      "title": "中文-火焰山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-火焰山"
+    },
+    {
+      "entry_id": "中文-火焰山借扇",
+      "title": "中文-火焰山借扇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-火焰山借扇"
+    },
+    {
+      "entry_id": "中文-灶王爷的故事",
+      "title": "中文-灶王爷的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-灶王爷的故事"
+    },
+    {
+      "entry_id": "中文-炼丹炉",
+      "title": "中文-炼丹炉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-炼丹炉"
+    },
+    {
+      "entry_id": "中文-烛龙",
+      "title": "中文-烛龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-烛龙"
+    },
+    {
+      "entry_id": "中文-燧人取火",
+      "title": "中文-燧人取火",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-燧人取火"
+    },
+    {
+      "entry_id": "中文-牛头马面",
+      "title": "中文-牛头马面",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-牛头马面"
+    },
+    {
+      "entry_id": "中文-牛魔王",
+      "title": "中文-牛魔王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-牛魔王"
+    },
+    {
+      "entry_id": "中文-獬豸",
+      "title": "中文-獬豸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-獬豸"
+    },
+    {
+      "entry_id": "中文-玄冥",
+      "title": "中文-玄冥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-玄冥"
+    },
+    {
+      "entry_id": "中文-玉皇大帝",
+      "title": "中文-玉皇大帝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-玉皇大帝"
+    },
+    {
+      "entry_id": "中文-王乔",
+      "title": "中文-王乔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-王乔"
+    },
+    {
+      "entry_id": "中文-王母娘娘",
+      "title": "中文-王母娘娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-王母娘娘"
+    },
+    {
+      "entry_id": "中文-瑶池仙境",
+      "title": "中文-瑶池仙境",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-瑶池仙境"
+    },
+    {
+      "entry_id": "中文-生死簿",
+      "title": "中文-生死簿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-生死簿"
+    },
+    {
+      "entry_id": "中文-白泽",
+      "title": "中文-白泽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-白泽"
+    },
+    {
+      "entry_id": "中文-白骨精",
+      "title": "中文-白骨精",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-白骨精"
+    },
+    {
+      "entry_id": "中文-百鸟朝凤",
+      "title": "中文-百鸟朝凤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-百鸟朝凤"
+    },
+    {
+      "entry_id": "中文-盘古开天",
+      "title": "中文-盘古开天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-盘古开天"
+    },
+    {
+      "entry_id": "中文-相柳",
+      "title": "中文-相柳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-相柳"
+    },
+    {
+      "entry_id": "中文-祝融",
+      "title": "中文-祝融",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-祝融"
+    },
+    {
+      "entry_id": "中文-神农尝百草",
+      "title": "中文-神农尝百草",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-神农尝百草"
+    },
+    {
+      "entry_id": "中文-福星高照",
+      "title": "中文-福星高照",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-福星高照"
+    },
+    {
+      "entry_id": "中文-福禄寿三星",
+      "title": "中文-福禄寿三星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-福禄寿三星"
+    },
+    {
+      "entry_id": "中文-穷奇",
+      "title": "中文-穷奇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-穷奇"
+    },
+    {
+      "entry_id": "中文-精卫填海",
+      "title": "中文-精卫填海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-精卫填海"
+    },
+    {
+      "entry_id": "中文-紫微星",
+      "title": "中文-紫微星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-紫微星"
+    },
+    {
+      "entry_id": "中文-红孩儿",
+      "title": "中文-红孩儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-红孩儿"
+    },
+    {
+      "entry_id": "中文-织女下凡",
+      "title": "中文-织女下凡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-织女下凡"
+    },
+    {
+      "entry_id": "中文-羲和",
+      "title": "中文-羲和",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-羲和"
+    },
+    {
+      "entry_id": "中文-聚宝盆",
+      "title": "中文-聚宝盆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-聚宝盆"
+    },
+    {
+      "entry_id": "中文-花神",
+      "title": "中文-花神",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-花神"
+    },
+    {
+      "entry_id": "中文-菩提祖师",
+      "title": "中文-菩提祖师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-菩提祖师"
+    },
+    {
+      "entry_id": "中文-董永遇仙",
+      "title": "中文-董永遇仙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-董永遇仙"
+    },
+    {
+      "entry_id": "中文-蓐收",
+      "title": "中文-蓐收",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-蓐收"
+    },
+    {
+      "entry_id": "中文-蓬莱仙境",
+      "title": "中文-蓬莱仙境",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-蓬莱仙境"
+    },
+    {
+      "entry_id": "中文-蟠桃会",
+      "title": "中文-蟠桃会",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-蟠桃会"
+    },
+    {
+      "entry_id": "中文-貔貅",
+      "title": "中文-貔貅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-貔貅"
+    },
+    {
+      "entry_id": "中文-财神的故事",
+      "title": "中文-财神的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-财神的故事"
+    },
+    {
+      "entry_id": "中文-赤脚大仙",
+      "title": "中文-赤脚大仙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-赤脚大仙"
+    },
+    {
+      "entry_id": "中文-通天教主",
+      "title": "中文-通天教主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-通天教主"
+    },
+    {
+      "entry_id": "中文-酆都大帝",
+      "title": "中文-酆都大帝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-酆都大帝"
+    },
+    {
+      "entry_id": "中文-重明鸟",
+      "title": "中文-重明鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-重明鸟"
+    },
+    {
+      "entry_id": "中文-金乌玉兔",
+      "title": "中文-金乌玉兔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-金乌玉兔"
+    },
+    {
+      "entry_id": "中文-金斧头银斧头",
+      "title": "中文-金斧头银斧头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-金斧头银斧头"
+    },
+    {
+      "entry_id": "中文-金蝉子转世",
+      "title": "中文-金蝉子转世",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-金蝉子转世"
+    },
+    {
+      "entry_id": "中文-金角银角",
+      "title": "中文-金角银角",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-金角银角"
+    },
+    {
+      "entry_id": "中文-钟馗捉鬼",
+      "title": "中文-钟馗捉鬼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-钟馗捉鬼"
+    },
+    {
+      "entry_id": "中文-钻木取火",
+      "title": "中文-钻木取火",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-钻木取火"
+    },
+    {
+      "entry_id": "中文-铁扇公主",
+      "title": "中文-铁扇公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-铁扇公主"
+    },
+    {
+      "entry_id": "中文-镇元子",
+      "title": "中文-镇元子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-镇元子"
+    },
+    {
+      "entry_id": "中文-门神的故事",
+      "title": "中文-门神的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-门神的故事"
+    },
+    {
+      "entry_id": "中文-阎王",
+      "title": "中文-阎王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-阎王"
+    },
+    {
+      "entry_id": "中文-雨师赤松子",
+      "title": "中文-雨师赤松子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-雨师赤松子"
+    },
+    {
+      "entry_id": "中文-雷公电母",
+      "title": "中文-雷公电母",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-雷公电母"
+    },
+    {
+      "entry_id": "中文-颛顼",
+      "title": "中文-颛顼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-颛顼"
+    },
+    {
+      "entry_id": "中文-风伯雨师",
+      "title": "中文-风伯雨师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-风伯雨师"
+    },
+    {
+      "entry_id": "中文-饕餮",
+      "title": "中文-饕餮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-饕餮"
+    },
+    {
+      "entry_id": "中文-骊山老母",
+      "title": "中文-骊山老母",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-骊山老母"
+    },
+    {
+      "entry_id": "中文-鬼王",
+      "title": "中文-鬼王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-鬼王"
+    },
+    {
+      "entry_id": "中文-魁星点斗",
+      "title": "中文-魁星点斗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-魁星点斗"
+    },
+    {
+      "entry_id": "中文-鲤鱼跃龙门",
+      "title": "中文-鲤鱼跃龙门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-鲤鱼跃龙门"
+    },
+    {
+      "entry_id": "中文-鲲鹏",
+      "title": "中文-鲲鹏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-鲲鹏"
+    },
+    {
+      "entry_id": "中文-麒麟送子",
+      "title": "中文-麒麟送子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-麒麟送子"
+    },
+    {
+      "entry_id": "中文-麻姑",
+      "title": "中文-麻姑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-麻姑"
+    },
+    {
+      "entry_id": "中文-黄帝战蚩尤",
+      "title": "中文-黄帝战蚩尤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-黄帝战蚩尤"
+    },
+    {
+      "entry_id": "中文-黄袍怪",
+      "title": "中文-黄袍怪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-黄袍怪"
+    },
+    {
+      "entry_id": "中文-黄龙真人",
+      "title": "中文-黄龙真人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-黄龙真人"
+    },
+    {
+      "entry_id": "中文-黑白无常",
+      "title": "中文-黑白无常",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-黑白无常"
+    },
+    {
+      "entry_id": "中文-龙凤呈祥",
+      "title": "中文-龙凤呈祥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-龙凤呈祥"
+    },
+    {
+      "entry_id": "中文-龙宫借宝",
+      "title": "中文-龙宫借宝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-龙宫借宝"
+    },
+    {
+      "entry_id": "中文-龙王出海",
+      "title": "中文-龙王出海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-龙王出海"
+    },
+    {
+      "entry_id": "中文-龙生九子",
+      "title": "中文-龙生九子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/中文-龙生九子"
+    },
+    {
+      "entry_id": "九天玄女 Nine Heaven Mysterious Lady",
+      "title": "九天玄女 Nine Heaven Mysterious Lady",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/九天玄女 Nine Heaven Mysterious Lady"
+    },
+    {
+      "entry_id": "九尾狐 Nine Tailed Fox",
+      "title": "九尾狐 Nine Tailed Fox",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/九尾狐 Nine Tailed Fox"
+    },
+    {
+      "entry_id": "二十八宿 Twenty Eight Constellations",
+      "title": "二十八宿 Twenty Eight Constellations",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/二十八宿 Twenty Eight Constellations"
+    },
+    {
+      "entry_id": "二郎神 Erlang Shen the Warrior God",
+      "title": "二郎神 Erlang Shen the Warrior God",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/二郎神 Erlang Shen the Warrior God"
+    },
+    {
+      "entry_id": "五方天帝 Five Direction Emperors",
+      "title": "五方天帝 Five Direction Emperors",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/五方天帝 Five Direction Emperors"
+    },
+    {
+      "entry_id": "五道将军 Five Paths General",
+      "title": "五道将军 Five Paths General",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/五道将军 Five Paths General"
+    },
+    {
+      "entry_id": "人参娃娃 The Ginseng Baby",
+      "title": "人参娃娃 The Ginseng Baby",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/人参娃娃 The Ginseng Baby"
+    },
+    {
+      "entry_id": "仓颉造字 Cangjie Creates Writing",
+      "title": "仓颉造字 Cangjie Creates Writing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/仓颉造字 Cangjie Creates Writing"
+    },
+    {
+      "entry_id": "伏羲画卦 Fuxi Draws Trigrams",
+      "title": "伏羲画卦 Fuxi Draws Trigrams",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/伏羲画卦 Fuxi Draws Trigrams"
+    },
+    {
+      "entry_id": "元始天尊 The Heavenly Worthy of Origin",
+      "title": "元始天尊 The Heavenly Worthy of Origin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/元始天尊 The Heavenly Worthy of Origin"
+    },
+    {
+      "entry_id": "八仙过海 Eight Immortals Cross the Sea",
+      "title": "八仙过海 Eight Immortals Cross the Sea",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/八仙过海 Eight Immortals Cross the Sea"
+    },
+    {
+      "entry_id": "六道轮回 Six Paths Reincarnation",
+      "title": "六道轮回 Six Paths Reincarnation",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/六道轮回 Six Paths Reincarnation"
+    },
+    {
+      "entry_id": "共工怒触 Gong Gong Angers",
+      "title": "共工怒触 Gong Gong Angers",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/共工怒触 Gong Gong Angers"
+    },
+    {
+      "entry_id": "共工触山 Gonggong Breaks the Mountain",
+      "title": "共工触山 Gonggong Breaks the Mountain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/共工触山 Gonggong Breaks the Mountain"
+    },
+    {
+      "entry_id": "刑天舞干戚 Xingtian the Headless Warrior",
+      "title": "刑天舞干戚 Xingtian the Headless Warrior",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/刑天舞干戚 Xingtian the Headless Warrior"
+    },
+    {
+      "entry_id": "刘海戏金蟾 Liu Hai Plays with the Toad",
+      "title": "刘海戏金蟾 Liu Hai Plays with the Toad",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/刘海戏金蟾 Liu Hai Plays with the Toad"
+    },
+    {
+      "entry_id": "判官 Judge",
+      "title": "判官 Judge",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/判官 Judge"
+    },
+    {
+      "entry_id": "勾魂使者 Soul Summoner",
+      "title": "勾魂使者 Soul Summoner",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/勾魂使者 Soul Summoner"
+    },
+    {
+      "entry_id": "北斗七星 The Big Dipper Seven Stars",
+      "title": "北斗七星 The Big Dipper Seven Stars",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/北斗七星 The Big Dipper Seven Stars"
+    },
+    {
+      "entry_id": "十八罗汉 The Eighteen Arhats",
+      "title": "十八罗汉 The Eighteen Arhats",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/十八罗汉 The Eighteen Arhats"
+    },
+    {
+      "entry_id": "十殿阎罗 Ten Kings of Hell",
+      "title": "十殿阎罗 Ten Kings of Hell",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/十殿阎罗 Ten Kings of Hell"
+    },
+    {
+      "entry_id": "南斗六司 The Southern Dipper Six",
+      "title": "南斗六司 The Southern Dipper Six",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/南斗六司 The Southern Dipper Six"
+    },
+    {
+      "entry_id": "南极仙翁 South Pole Immortal",
+      "title": "南极仙翁 South Pole Immortal",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/南极仙翁 South Pole Immortal"
+    },
+    {
+      "entry_id": "卷帘大将 The Curtain Rolling General",
+      "title": "卷帘大将 The Curtain Rolling General",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/卷帘大将 The Curtain Rolling General"
+    },
+    {
+      "entry_id": "句芒 Goumang",
+      "title": "句芒 Goumang",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/句芒 Goumang"
+    },
+    {
+      "entry_id": "后土 Houtu",
+      "title": "后土 Houtu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/后土 Houtu"
+    },
+    {
+      "entry_id": "后羿射日 Houyi Shoots the Suns",
+      "title": "后羿射日 Houyi Shoots the Suns",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/后羿射日 Houyi Shoots the Suns"
+    },
+    {
+      "entry_id": "吴刚伐桂 Wu Gang Cuts the Laurel",
+      "title": "吴刚伐桂 Wu Gang Cuts the Laurel",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/吴刚伐桂 Wu Gang Cuts the Laurel"
+    },
+    {
+      "entry_id": "和合二仙 Gods of Harmony",
+      "title": "和合二仙 Gods of Harmony",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/和合二仙 Gods of Harmony"
+    },
+    {
+      "entry_id": "四大天王 Four Heavenly Kings",
+      "title": "四大天王 Four Heavenly Kings",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/四大天王 Four Heavenly Kings"
+    },
+    {
+      "entry_id": "四海龙王 Four Sea Dragon Kings",
+      "title": "四海龙王 Four Sea Dragon Kings",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/四海龙王 Four Sea Dragon Kings"
+    },
+    {
+      "entry_id": "土地公公 Earth God Blesses the Village",
+      "title": "土地公公 Earth God Blesses the Village",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/土地公公 Earth God Blesses the Village"
+    },
+    {
+      "entry_id": "地藏王 Ksitigarbha Savior of Hell",
+      "title": "地藏王 Ksitigarbha Savior of Hell",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/地藏王 Ksitigarbha Savior of Hell"
+    },
+    {
+      "entry_id": "城隍爷 City God Protector",
+      "title": "城隍爷 City God Protector",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/城隍爷 City God Protector"
+    },
+    {
+      "entry_id": "大禹治水 Yu Controls the Flood",
+      "title": "大禹治水 Yu Controls the Flood",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/大禹治水 Yu Controls the Flood"
+    },
+    {
+      "entry_id": "天河传说 The Milky Way Legend",
+      "title": "天河传说 The Milky Way Legend",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/天河传说 The Milky Way Legend"
+    },
+    {
+      "entry_id": "天蓬元帅 Marshal Tianpeng",
+      "title": "天蓬元帅 Marshal Tianpeng",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/天蓬元帅 Marshal Tianpeng"
+    },
+    {
+      "entry_id": "太上老君 Lord Laozi the Sage",
+      "title": "太上老君 Lord Laozi the Sage",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/太上老君 Lord Laozi the Sage"
+    },
+    {
+      "entry_id": "太乙真人 Taiyi Zhenren",
+      "title": "太乙真人 Taiyi Zhenren",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/太乙真人 Taiyi Zhenren"
+    },
+    {
+      "entry_id": "太昊 Tai Hao",
+      "title": "太昊 Tai Hao",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/太昊 Tai Hao"
+    },
+    {
+      "entry_id": "夸父逐日 Kuafu Chases the Sun",
+      "title": "夸父逐日 Kuafu Chases the Sun",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/夸父逐日 Kuafu Chases the Sun"
+    },
+    {
+      "entry_id": "奈何桥 Naihe Bridge",
+      "title": "奈何桥 Naihe Bridge",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/奈何桥 Naihe Bridge"
+    },
+    {
+      "entry_id": "女儿国 The Women's Kingdom",
+      "title": "女儿国 The Women's Kingdom",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/女儿国 The Women's Kingdom"
+    },
+    {
+      "entry_id": "女娲补天 Nuwa Mends the Sky",
+      "title": "女娲补天 Nuwa Mends the Sky",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/女娲补天 Nuwa Mends the Sky"
+    },
+    {
+      "entry_id": "女娲造人 Nuwa Creates Humans",
+      "title": "女娲造人 Nuwa Creates Humans",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/女娲造人 Nuwa Creates Humans"
+    },
+    {
+      "entry_id": "如来佛祖 Tathagata Buddha",
+      "title": "如来佛祖 Tathagata Buddha",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/如来佛祖 Tathagata Buddha"
+    },
+    {
+      "entry_id": "嫘祖养蚕 Leizu Raises Silkworms",
+      "title": "嫘祖养蚕 Leizu Raises Silkworms",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/嫘祖养蚕 Leizu Raises Silkworms"
+    },
+    {
+      "entry_id": "嫦娥奔月 Chang'e Flies to the Moon",
+      "title": "嫦娥奔月 Chang'e Flies to the Moon",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/嫦娥奔月 Chang'e Flies to the Moon"
+    },
+    {
+      "entry_id": "嫦娥玉兔 Chang'e and the Jade Rabbit",
+      "title": "嫦娥玉兔 Chang'e and the Jade Rabbit",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/嫦娥玉兔 Chang'e and the Jade Rabbit"
+    },
+    {
+      "entry_id": "孟婆汤 Meng Po's Soup of Forgetfulness",
+      "title": "孟婆汤 Meng Po's Soup of Forgetfulness",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/孟婆汤 Meng Po's Soup of Forgetfulness"
+    },
+    {
+      "entry_id": "安期生 An Qisheng",
+      "title": "安期生 An Qisheng",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/安期生 An Qisheng"
+    },
+    {
+      "entry_id": "寿星的故事 God of Longevity",
+      "title": "寿星的故事 God of Longevity",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/寿星的故事 God of Longevity"
+    },
+    {
+      "entry_id": "小白龙 White Dragon Horse",
+      "title": "小白龙 White Dragon Horse",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/小白龙 White Dragon Horse"
+    },
+    {
+      "entry_id": "少昊 Shao Hao",
+      "title": "少昊 Shao Hao",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/少昊 Shao Hao"
+    },
+    {
+      "entry_id": "山神 Mountain God of the Forest",
+      "title": "山神 Mountain God of the Forest",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/山神 Mountain God of the Forest"
+    },
+    {
+      "entry_id": "崔判官 Cui Judge",
+      "title": "崔判官 Cui Judge",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/崔判官 Cui Judge"
+    },
+    {
+      "entry_id": "巫山神女 Wushan Goddess",
+      "title": "巫山神女 Wushan Goddess",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/巫山神女 Wushan Goddess"
+    },
+    {
+      "entry_id": "帝俊 Dijun",
+      "title": "帝俊 Dijun",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/帝俊 Dijun"
+    },
+    {
+      "entry_id": "帝喾 Di Ku",
+      "title": "帝喾 Di Ku",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/帝喾 Di Ku"
+    },
+    {
+      "entry_id": "帝江 Dijiang",
+      "title": "帝江 Dijiang",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/帝江 Dijiang"
+    },
+    {
+      "entry_id": "常羲 Changxi",
+      "title": "常羲 Changxi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/常羲 Changxi"
+    },
+    {
+      "entry_id": "广寒宫 The Cold Moon Palace",
+      "title": "广寒宫 The Cold Moon Palace",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/广寒宫 The Cold Moon Palace"
+    },
+    {
+      "entry_id": "应龙 Yinglong",
+      "title": "应龙 Yinglong",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/应龙 Yinglong"
+    },
+    {
+      "entry_id": "张天师降妖 Zhang Daoling Subdues Demons",
+      "title": "张天师降妖 Zhang Daoling Subdues Demons",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/张天师降妖 Zhang Daoling Subdues Demons"
+    },
+    {
+      "entry_id": "弥勒佛 Maitreya the Future Buddha",
+      "title": "弥勒佛 Maitreya the Future Buddha",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/弥勒佛 Maitreya the Future Buddha"
+    },
+    {
+      "entry_id": "彭祖 Peng Zu",
+      "title": "彭祖 Peng Zu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/彭祖 Peng Zu"
+    },
+    {
+      "entry_id": "彼岸 Other Shore",
+      "title": "彼岸 Other Shore",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/彼岸 Other Shore"
+    },
+    {
+      "entry_id": "慈航普渡 Guanyin the Compassionate",
+      "title": "慈航普渡 Guanyin the Compassionate",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/慈航普渡 Guanyin the Compassionate"
+    },
+    {
+      "entry_id": "托塔李天王 Heavenly King Li",
+      "title": "托塔李天王 Heavenly King Li",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/托塔李天王 Heavenly King Li"
+    },
+    {
+      "entry_id": "敖广龙王 Ao Guang Dragon King",
+      "title": "敖广龙王 Ao Guang Dragon King",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/敖广龙王 Ao Guang Dragon King"
+    },
+    {
+      "entry_id": "文昌帝君 Wenchang God of Literature",
+      "title": "文昌帝君 Wenchang God of Literature",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/文昌帝君 Wenchang God of Literature"
+    },
+    {
+      "entry_id": "文曲星 Wenqu Star of Scholars",
+      "title": "文曲星 Wenqu Star of Scholars",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/文曲星 Wenqu Star of Scholars"
+    },
+    {
+      "entry_id": "文殊菩萨 Manjusri of Wisdom",
+      "title": "文殊菩萨 Manjusri of Wisdom",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/文殊菩萨 Manjusri of Wisdom"
+    },
+    {
+      "entry_id": "普贤菩萨 Samantabhadra of Virtue",
+      "title": "普贤菩萨 Samantabhadra of Virtue",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/普贤菩萨 Samantabhadra of Virtue"
+    },
+    {
+      "entry_id": "月下老人 Old Man Under the Moon",
+      "title": "月下老人 Old Man Under the Moon",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/月下老人 Old Man Under the Moon"
+    },
+    {
+      "entry_id": "有巢构木 Youchao Builds Nests",
+      "title": "有巢构木 Youchao Builds Nests",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/有巢构木 Youchao Builds Nests"
+    },
+    {
+      "entry_id": "望乡台 Wangxiang Terrace",
+      "title": "望乡台 Wangxiang Terrace",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/望乡台 Wangxiang Terrace"
+    },
+    {
+      "entry_id": "杜康酿酒 Dukang Invents Wine",
+      "title": "杜康酿酒 Dukang Invents Wine",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/杜康酿酒 Dukang Invents Wine"
+    },
+    {
+      "entry_id": "梼杌 Taowu",
+      "title": "梼杌 Taowu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/梼杌 Taowu"
+    },
+    {
+      "entry_id": "武圣关公 Lord Guan the Saint of War",
+      "title": "武圣关公 Lord Guan the Saint of War",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/武圣关公 Lord Guan the Saint of War"
+    },
+    {
+      "entry_id": "武曲星 Wuqu Star of Warriors",
+      "title": "武曲星 Wuqu Star of Warriors",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/武曲星 Wuqu Star of Warriors"
+    },
+    {
+      "entry_id": "毕方 Bifang",
+      "title": "毕方 Bifang",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/毕方 Bifang"
+    },
+    {
+      "entry_id": "汉水女神 Hanshui Goddess",
+      "title": "汉水女神 Hanshui Goddess",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/汉水女神 Hanshui Goddess"
+    },
+    {
+      "entry_id": "河伯 River God of the Yellow River",
+      "title": "河伯 River God of the Yellow River",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/河伯 River God of the Yellow River"
+    },
+    {
+      "entry_id": "河神冯夷 River God Feng Yi",
+      "title": "河神冯夷 River God Feng Yi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/河神冯夷 River God Feng Yi"
+    },
+    {
+      "entry_id": "泰山府君 Lord of Mount Tai",
+      "title": "泰山府君 Lord of Mount Tai",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/泰山府君 Lord of Mount Tai"
+    },
+    {
+      "entry_id": "洛神宓妃 Luo Goddess Mi Fei",
+      "title": "洛神宓妃 Luo Goddess Mi Fei",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/洛神宓妃 Luo Goddess Mi Fei"
+    },
+    {
+      "entry_id": "海神妈祖 Mazu Goddess of the Sea",
+      "title": "海神妈祖 Mazu Goddess of the Sea",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/海神妈祖 Mazu Goddess of the Sea"
+    },
+    {
+      "entry_id": "混沌 Hundun",
+      "title": "混沌 Hundun",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/混沌 Hundun"
+    },
+    {
+      "entry_id": "湘君 Xiang Jun",
+      "title": "湘君 Xiang Jun",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/湘君 Xiang Jun"
+    },
+    {
+      "entry_id": "湘夫人 Xiang Lady",
+      "title": "湘夫人 Xiang Lady",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/湘夫人 Xiang Lady"
+    },
+    {
+      "entry_id": "火焰山 The Flaming Mountain",
+      "title": "火焰山 The Flaming Mountain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/火焰山 The Flaming Mountain"
+    },
+    {
+      "entry_id": "火焰山借扇 Borrowing the Fan from Flaming Mountain",
+      "title": "火焰山借扇 Borrowing the Fan from Flaming Mountain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/火焰山借扇 Borrowing the Fan from Flaming Mountain"
+    },
+    {
+      "entry_id": "灶王爷的故事 The Story of Kitchen God",
+      "title": "灶王爷的故事 The Story of Kitchen God",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/灶王爷的故事 The Story of Kitchen God"
+    },
+    {
+      "entry_id": "炼丹炉 The Elixir Furnace",
+      "title": "炼丹炉 The Elixir Furnace",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/炼丹炉 The Elixir Furnace"
+    },
+    {
+      "entry_id": "烛龙 Zhulong",
+      "title": "烛龙 Zhulong",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/烛龙 Zhulong"
+    },
+    {
+      "entry_id": "燧人取火 Suiren Discovers Fire",
+      "title": "燧人取火 Suiren Discovers Fire",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/燧人取火 Suiren Discovers Fire"
+    },
+    {
+      "entry_id": "牛头马面 Ox Head and Horse Face",
+      "title": "牛头马面 Ox Head and Horse Face",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/牛头马面 Ox Head and Horse Face"
+    },
+    {
+      "entry_id": "牛魔王 Demon Bull King",
+      "title": "牛魔王 Demon Bull King",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/牛魔王 Demon Bull King"
+    },
+    {
+      "entry_id": "獬豸 Xiezhi",
+      "title": "獬豸 Xiezhi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/獬豸 Xiezhi"
+    },
+    {
+      "entry_id": "玄冥 Xuanming",
+      "title": "玄冥 Xuanming",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/玄冥 Xuanming"
+    },
+    {
+      "entry_id": "玉皇大帝 The Jade Emperor",
+      "title": "玉皇大帝 The Jade Emperor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/玉皇大帝 The Jade Emperor"
+    },
+    {
+      "entry_id": "王乔 Wang Qiao",
+      "title": "王乔 Wang Qiao",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/王乔 Wang Qiao"
+    },
+    {
+      "entry_id": "王母娘娘 Queen Mother of the West",
+      "title": "王母娘娘 Queen Mother of the West",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/王母娘娘 Queen Mother of the West"
+    },
+    {
+      "entry_id": "瑶池仙境 Jade Pool Wonderland",
+      "title": "瑶池仙境 Jade Pool Wonderland",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/瑶池仙境 Jade Pool Wonderland"
+    },
+    {
+      "entry_id": "生死簿 Book of Life and Death",
+      "title": "生死簿 Book of Life and Death",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/生死簿 Book of Life and Death"
+    },
+    {
+      "entry_id": "白泽 Baize",
+      "title": "白泽 Baize",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/白泽 Baize"
+    },
+    {
+      "entry_id": "白骨精 White Bone Demon",
+      "title": "白骨精 White Bone Demon",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/白骨精 White Bone Demon"
+    },
+    {
+      "entry_id": "百鸟朝凤 Birds Pay Homage to the Phoenix",
+      "title": "百鸟朝凤 Birds Pay Homage to the Phoenix",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/百鸟朝凤 Birds Pay Homage to the Phoenix"
+    },
+    {
+      "entry_id": "盘古开天 Pangu Creates the World",
+      "title": "盘古开天 Pangu Creates the World",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/盘古开天 Pangu Creates the World"
+    },
+    {
+      "entry_id": "相柳 Xiangliu",
+      "title": "相柳 Xiangliu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/相柳 Xiangliu"
+    },
+    {
+      "entry_id": "祝融 Zhurong",
+      "title": "祝融 Zhurong",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/祝融 Zhurong"
+    },
+    {
+      "entry_id": "神农尝百草 Shennong Tastes Herbs",
+      "title": "神农尝百草 Shennong Tastes Herbs",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/神农尝百草 Shennong Tastes Herbs"
+    },
+    {
+      "entry_id": "福星高照 God of Fortune Blesses",
+      "title": "福星高照 God of Fortune Blesses",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/福星高照 God of Fortune Blesses"
+    },
+    {
+      "entry_id": "福禄寿三星 Three Stars of Fortune",
+      "title": "福禄寿三星 Three Stars of Fortune",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/福禄寿三星 Three Stars of Fortune"
+    },
+    {
+      "entry_id": "穷奇 Qiongqi",
+      "title": "穷奇 Qiongqi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/穷奇 Qiongqi"
+    },
+    {
+      "entry_id": "精卫填海 Jingwei Fills the Sea",
+      "title": "精卫填海 Jingwei Fills the Sea",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/精卫填海 Jingwei Fills the Sea"
+    },
+    {
+      "entry_id": "紫微星 Ziwei Star of Emperors",
+      "title": "紫微星 Ziwei Star of Emperors",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/紫微星 Ziwei Star of Emperors"
+    },
+    {
+      "entry_id": "红孩儿 Red Boy the Fiery Child",
+      "title": "红孩儿 Red Boy the Fiery Child",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/红孩儿 Red Boy the Fiery Child"
+    },
+    {
+      "entry_id": "织女下凡 Weaver Girl Descends to Earth",
+      "title": "织女下凡 Weaver Girl Descends to Earth",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/织女下凡 Weaver Girl Descends to Earth"
+    },
+    {
+      "entry_id": "羲和 Xihe",
+      "title": "羲和 Xihe",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/羲和 Xihe"
+    },
+    {
+      "entry_id": "聚宝盆 The Magic Treasure Bowl",
+      "title": "聚宝盆 The Magic Treasure Bowl",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/聚宝盆 The Magic Treasure Bowl"
+    },
+    {
+      "entry_id": "花神 Flower Goddess of Spring",
+      "title": "花神 Flower Goddess of Spring",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/花神 Flower Goddess of Spring"
+    },
+    {
+      "entry_id": "菩提祖师 Patriarch Bodhi",
+      "title": "菩提祖师 Patriarch Bodhi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/菩提祖师 Patriarch Bodhi"
+    },
+    {
+      "entry_id": "董永遇仙 Dong Yong Meets an Immortal",
+      "title": "董永遇仙 Dong Yong Meets an Immortal",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/董永遇仙 Dong Yong Meets an Immortal"
+    },
+    {
+      "entry_id": "蓐收 Rushou",
+      "title": "蓐收 Rushou",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/蓐收 Rushou"
+    },
+    {
+      "entry_id": "蓬莱仙境 Penglai Fairyland",
+      "title": "蓬莱仙境 Penglai Fairyland",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/蓬莱仙境 Penglai Fairyland"
+    },
+    {
+      "entry_id": "蟠桃会 The Peach Banquet",
+      "title": "蟠桃会 The Peach Banquet",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/蟠桃会 The Peach Banquet"
+    },
+    {
+      "entry_id": "貔貅 Pixiu",
+      "title": "貔貅 Pixiu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/貔貅 Pixiu"
+    },
+    {
+      "entry_id": "财神的故事 The Story of God of Wealth",
+      "title": "财神的故事 The Story of God of Wealth",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/财神的故事 The Story of God of Wealth"
+    },
+    {
+      "entry_id": "赤脚大仙 Barefoot Immortal",
+      "title": "赤脚大仙 Barefoot Immortal",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/赤脚大仙 Barefoot Immortal"
+    },
+    {
+      "entry_id": "通天教主 Master of All Paths",
+      "title": "通天教主 Master of All Paths",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/通天教主 Master of All Paths"
+    },
+    {
+      "entry_id": "酆都大帝 Fengdu Emperor",
+      "title": "酆都大帝 Fengdu Emperor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/酆都大帝 Fengdu Emperor"
+    },
+    {
+      "entry_id": "重明鸟 Double Bright Bird",
+      "title": "重明鸟 Double Bright Bird",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/重明鸟 Double Bright Bird"
+    },
+    {
+      "entry_id": "金乌玉兔 Golden Crow and Jade Rabbit",
+      "title": "金乌玉兔 Golden Crow and Jade Rabbit",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/金乌玉兔 Golden Crow and Jade Rabbit"
+    },
+    {
+      "entry_id": "金斧头银斧头 The Golden Axe",
+      "title": "金斧头银斧头 The Golden Axe",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/金斧头银斧头 The Golden Axe"
+    },
+    {
+      "entry_id": "金蝉子转世 Reincarnation of Golden Cicada",
+      "title": "金蝉子转世 Reincarnation of Golden Cicada",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/金蝉子转世 Reincarnation of Golden Cicada"
+    },
+    {
+      "entry_id": "金角银角 Golden Horn and Silver Horn",
+      "title": "金角银角 Golden Horn and Silver Horn",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/金角银角 Golden Horn and Silver Horn"
+    },
+    {
+      "entry_id": "钟馗捉鬼 Zhong Kui Captures Ghosts",
+      "title": "钟馗捉鬼 Zhong Kui Captures Ghosts",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/钟馗捉鬼 Zhong Kui Captures Ghosts"
+    },
+    {
+      "entry_id": "钻木取火 Drilling Wood for Fire",
+      "title": "钻木取火 Drilling Wood for Fire",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/钻木取火 Drilling Wood for Fire"
+    },
+    {
+      "entry_id": "铁扇公主 Princess Iron Fan",
+      "title": "铁扇公主 Princess Iron Fan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/铁扇公主 Princess Iron Fan"
+    },
+    {
+      "entry_id": "镇元子 Zhen Yuanzi",
+      "title": "镇元子 Zhen Yuanzi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/镇元子 Zhen Yuanzi"
+    },
+    {
+      "entry_id": "门神的故事 The Story of Door Gods",
+      "title": "门神的故事 The Story of Door Gods",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/门神的故事 The Story of Door Gods"
+    },
+    {
+      "entry_id": "阎王 Yan Wang",
+      "title": "阎王 Yan Wang",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/阎王 Yan Wang"
+    },
+    {
+      "entry_id": "雨师赤松子 Rain Master Chi Songzi",
+      "title": "雨师赤松子 Rain Master Chi Songzi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/雨师赤松子 Rain Master Chi Songzi"
+    },
+    {
+      "entry_id": "雷公电母 Lord Thunder and Lady Lightning",
+      "title": "雷公电母 Lord Thunder and Lady Lightning",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/雷公电母 Lord Thunder and Lady Lightning"
+    },
+    {
+      "entry_id": "颛顼 Zhuan Xu",
+      "title": "颛顼 Zhuan Xu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/颛顼 Zhuan Xu"
+    },
+    {
+      "entry_id": "风伯雨师 Wind God and Rain Master",
+      "title": "风伯雨师 Wind God and Rain Master",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/风伯雨师 Wind God and Rain Master"
+    },
+    {
+      "entry_id": "饕餮 Taotie",
+      "title": "饕餮 Taotie",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/饕餮 Taotie"
+    },
+    {
+      "entry_id": "骊山老母 Li Shan Old Mother",
+      "title": "骊山老母 Li Shan Old Mother",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/骊山老母 Li Shan Old Mother"
+    },
+    {
+      "entry_id": "鬼王 Ghost King",
+      "title": "鬼王 Ghost King",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/鬼王 Ghost King"
+    },
+    {
+      "entry_id": "魁星点斗 Kuixing the Star of Literature",
+      "title": "魁星点斗 Kuixing the Star of Literature",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/魁星点斗 Kuixing the Star of Literature"
+    },
+    {
+      "entry_id": "鲤鱼跃龙门 Carp Leaps the Dragon Gate",
+      "title": "鲤鱼跃龙门 Carp Leaps the Dragon Gate",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/鲤鱼跃龙门 Carp Leaps the Dragon Gate"
+    },
+    {
+      "entry_id": "鲲鹏 Kunpeng",
+      "title": "鲲鹏 Kunpeng",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/鲲鹏 Kunpeng"
+    },
+    {
+      "entry_id": "麒麟送子 Kylin Brings a Son",
+      "title": "麒麟送子 Kylin Brings a Son",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/麒麟送子 Kylin Brings a Son"
+    },
+    {
+      "entry_id": "麻姑 Ma Gu",
+      "title": "麻姑 Ma Gu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/麻姑 Ma Gu"
+    },
+    {
+      "entry_id": "黄帝战蚩尤 Yellow Emperor vs Chiyou",
+      "title": "黄帝战蚩尤 Yellow Emperor vs Chiyou",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/黄帝战蚩尤 Yellow Emperor vs Chiyou"
+    },
+    {
+      "entry_id": "黄袍怪 Yellow Robe Demon",
+      "title": "黄袍怪 Yellow Robe Demon",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/黄袍怪 Yellow Robe Demon"
+    },
+    {
+      "entry_id": "黄龙真人 Yellow Dragon Zhenren",
+      "title": "黄龙真人 Yellow Dragon Zhenren",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/黄龙真人 Yellow Dragon Zhenren"
+    },
+    {
+      "entry_id": "黑白无常 Black and White Messengers",
+      "title": "黑白无常 Black and White Messengers",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/黑白无常 Black and White Messengers"
+    },
+    {
+      "entry_id": "龙凤呈祥 Dragon and Phoenix Bring Bliss",
+      "title": "龙凤呈祥 Dragon and Phoenix Bring Bliss",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/龙凤呈祥 Dragon and Phoenix Bring Bliss"
+    },
+    {
+      "entry_id": "龙宫借宝 Borrowing Treasure from Dragon Palace",
+      "title": "龙宫借宝 Borrowing Treasure from Dragon Palace",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/龙宫借宝 Borrowing Treasure from Dragon Palace"
+    },
+    {
+      "entry_id": "龙王出海 Dragon King of the Sea",
+      "title": "龙王出海 Dragon King of the Sea",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/龙王出海 Dragon King of the Sea"
+    },
+    {
+      "entry_id": "龙生九子 Dragon Nine Sons",
+      "title": "龙生九子 Dragon Nine Sons",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/神话故事/龙生九子 Dragon Nine Sons"
+    }
+  ]
+}

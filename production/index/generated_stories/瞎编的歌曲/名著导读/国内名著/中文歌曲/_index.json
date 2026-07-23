@@ -1,0 +1,743 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/名著导读.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 104,
+  "entries": [
+    {
+      "entry_id": "中文-七侠五义",
+      "title": "中文-七侠五义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-七侠五义"
+    },
+    {
+      "entry_id": "中文-三侠五义",
+      "title": "中文-三侠五义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三侠五义"
+    },
+    {
+      "entry_id": "中文-三国志",
+      "title": "中文-三国志",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三国志"
+    },
+    {
+      "entry_id": "中文-三国演义",
+      "title": "中文-三国演义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三国演义"
+    },
+    {
+      "entry_id": "中文-世说新语",
+      "title": "中文-世说新语",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-世说新语"
+    },
+    {
+      "entry_id": "中文-东周列国志",
+      "title": "中文-东周列国志",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-东周列国志"
+    },
+    {
+      "entry_id": "中文-中庸",
+      "title": "中文-中庸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-中庸"
+    },
+    {
+      "entry_id": "中文-乐府诗集",
+      "title": "中文-乐府诗集",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-乐府诗集"
+    },
+    {
+      "entry_id": "中文-二刻拍案惊奇",
+      "title": "中文-二刻拍案惊奇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-二刻拍案惊奇"
+    },
+    {
+      "entry_id": "中文-儿女英雄传",
+      "title": "中文-儿女英雄传",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-儿女英雄传"
+    },
+    {
+      "entry_id": "中文-八仙过海",
+      "title": "中文-八仙过海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-八仙过海"
+    },
+    {
+      "entry_id": "中文-农政全书",
+      "title": "中文-农政全书",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-农政全书"
+    },
+    {
+      "entry_id": "中文-列子",
+      "title": "中文-列子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-列子"
+    },
+    {
+      "entry_id": "中文-初刻拍案惊奇",
+      "title": "中文-初刻拍案惊奇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-初刻拍案惊奇"
+    },
+    {
+      "entry_id": "中文-包公案",
+      "title": "中文-包公案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-包公案"
+    },
+    {
+      "entry_id": "中文-千家诗",
+      "title": "中文-千家诗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-千家诗"
+    },
+    {
+      "entry_id": "中文-古文观止",
+      "title": "中文-古文观止",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-古文观止"
+    },
+    {
+      "entry_id": "中文-史记",
+      "title": "中文-史记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-史记"
+    },
+    {
+      "entry_id": "中文-后汉书",
+      "title": "中文-后汉书",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-后汉书"
+    },
+    {
+      "entry_id": "中文-后羿射日",
+      "title": "中文-后羿射日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-后羿射日"
+    },
+    {
+      "entry_id": "中文-吕氏春秋",
+      "title": "中文-吕氏春秋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-吕氏春秋"
+    },
+    {
+      "entry_id": "中文-呐喊",
+      "title": "中文-呐喊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-呐喊"
+    },
+    {
+      "entry_id": "中文-哪吒闹海",
+      "title": "中文-哪吒闹海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-哪吒闹海"
+    },
+    {
+      "entry_id": "中文-唐诗三百首",
+      "title": "中文-唐诗三百首",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-唐诗三百首"
+    },
+    {
+      "entry_id": "中文-喻世明言",
+      "title": "中文-喻世明言",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-喻世明言"
+    },
+    {
+      "entry_id": "中文-围城",
+      "title": "中文-围城",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-围城"
+    },
+    {
+      "entry_id": "中文-国语",
+      "title": "中文-国语",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-国语"
+    },
+    {
+      "entry_id": "中文-墨子",
+      "title": "中文-墨子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-墨子"
+    },
+    {
+      "entry_id": "中文-大学",
+      "title": "中文-大学",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-大学"
+    },
+    {
+      "entry_id": "中文-大禹治水",
+      "title": "中文-大禹治水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-大禹治水"
+    },
+    {
+      "entry_id": "中文-天工开物",
+      "title": "中文-天工开物",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-天工开物"
+    },
+    {
+      "entry_id": "中文-女娲造人",
+      "title": "中文-女娲造人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-女娲造人"
+    },
+    {
+      "entry_id": "中文-嫦娥奔月",
+      "title": "中文-嫦娥奔月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-嫦娥奔月"
+    },
+    {
+      "entry_id": "中文-子夜",
+      "title": "中文-子夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-子夜"
+    },
+    {
+      "entry_id": "中文-孙子兵法",
+      "title": "中文-孙子兵法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孙子兵法"
+    },
+    {
+      "entry_id": "中文-孟姜女",
+      "title": "中文-孟姜女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孟姜女"
+    },
+    {
+      "entry_id": "中文-孟子",
+      "title": "中文-孟子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孟子"
+    },
+    {
+      "entry_id": "中文-宝莲灯",
+      "title": "中文-宝莲灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-宝莲灯"
+    },
+    {
+      "entry_id": "中文-家",
+      "title": "中文-家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-家"
+    },
+    {
+      "entry_id": "中文-封神演义",
+      "title": "中文-封神演义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-封神演义"
+    },
+    {
+      "entry_id": "中文-山海经",
+      "title": "中文-山海经",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-山海经"
+    },
+    {
+      "entry_id": "中文-左传",
+      "title": "中文-左传",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-左传"
+    },
+    {
+      "entry_id": "中文-平凡的世界",
+      "title": "中文-平凡的世界",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-平凡的世界"
+    },
+    {
+      "entry_id": "中文-庄子",
+      "title": "中文-庄子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-庄子"
+    },
+    {
+      "entry_id": "中文-彭公案",
+      "title": "中文-彭公案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-彭公案"
+    },
+    {
+      "entry_id": "中文-彷徨",
+      "title": "中文-彷徨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-彷徨"
+    },
+    {
+      "entry_id": "中文-徐霞客游记",
+      "title": "中文-徐霞客游记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-徐霞客游记"
+    },
+    {
+      "entry_id": "中文-愚公移山",
+      "title": "中文-愚公移山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-愚公移山"
+    },
+    {
+      "entry_id": "中文-战国策",
+      "title": "中文-战国策",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-战国策"
+    },
+    {
+      "entry_id": "中文-搜神记",
+      "title": "中文-搜神记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-搜神记"
+    },
+    {
+      "entry_id": "中文-文心雕龙",
+      "title": "中文-文心雕龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-文心雕龙"
+    },
+    {
+      "entry_id": "中文-施公案",
+      "title": "中文-施公案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-施公案"
+    },
+    {
+      "entry_id": "中文-春",
+      "title": "中文-春",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-春"
+    },
+    {
+      "entry_id": "中文-朝花夕拾",
+      "title": "中文-朝花夕拾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-朝花夕拾"
+    },
+    {
+      "entry_id": "中文-本草纲目",
+      "title": "中文-本草纲目",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-本草纲目"
+    },
+    {
+      "entry_id": "中文-桃花扇",
+      "title": "中文-桃花扇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-桃花扇"
+    },
+    {
+      "entry_id": "中文-梁山伯与祝英台",
+      "title": "中文-梁山伯与祝英台",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-梁山伯与祝英台"
+    },
+    {
+      "entry_id": "中文-梦溪笔谈",
+      "title": "中文-梦溪笔谈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-梦溪笔谈"
+    },
+    {
+      "entry_id": "中文-楚辞",
+      "title": "中文-楚辞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-楚辞"
+    },
+    {
+      "entry_id": "中文-水浒传",
+      "title": "中文-水浒传",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-水浒传"
+    },
+    {
+      "entry_id": "中文-汉书",
+      "title": "中文-汉书",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-汉书"
+    },
+    {
+      "entry_id": "中文-汉宫秋",
+      "title": "中文-汉宫秋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-汉宫秋"
+    },
+    {
+      "entry_id": "中文-活着",
+      "title": "中文-活着",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-活着"
+    },
+    {
+      "entry_id": "中文-济公传",
+      "title": "中文-济公传",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-济公传"
+    },
+    {
+      "entry_id": "中文-浣纱记",
+      "title": "中文-浣纱记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-浣纱记"
+    },
+    {
+      "entry_id": "中文-淮南子",
+      "title": "中文-淮南子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-淮南子"
+    },
+    {
+      "entry_id": "中文-牛郎织女",
+      "title": "中文-牛郎织女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-牛郎织女"
+    },
+    {
+      "entry_id": "中文-牡丹亭",
+      "title": "中文-牡丹亭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-牡丹亭"
+    },
+    {
+      "entry_id": "中文-玉台新咏",
+      "title": "中文-玉台新咏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-玉台新咏"
+    },
+    {
+      "entry_id": "中文-琵琶记",
+      "title": "中文-琵琶记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-琵琶记"
+    },
+    {
+      "entry_id": "中文-白蛇传",
+      "title": "中文-白蛇传",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-白蛇传"
+    },
+    {
+      "entry_id": "中文-白鹿原",
+      "title": "中文-白鹿原",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-白鹿原"
+    },
+    {
+      "entry_id": "中文-盘古开天",
+      "title": "中文-盘古开天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-盘古开天"
+    },
+    {
+      "entry_id": "中文-秋",
+      "title": "中文-秋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-秋"
+    },
+    {
+      "entry_id": "中文-窦娥冤",
+      "title": "中文-窦娥冤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-窦娥冤"
+    },
+    {
+      "entry_id": "中文-管子",
+      "title": "中文-管子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-管子"
+    },
+    {
+      "entry_id": "中文-精卫填海",
+      "title": "中文-精卫填海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-精卫填海"
+    },
+    {
+      "entry_id": "中文-红楼梦",
+      "title": "中文-红楼梦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-红楼梦"
+    },
+    {
+      "entry_id": "中文-红高粱家族",
+      "title": "中文-红高粱家族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-红高粱家族"
+    },
+    {
+      "entry_id": "中文-老残游记",
+      "title": "中文-老残游记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-老残游记"
+    },
+    {
+      "entry_id": "中文-聊斋志异",
+      "title": "中文-聊斋志异",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-聊斋志异"
+    },
+    {
+      "entry_id": "中文-花间集",
+      "title": "中文-花间集",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-花间集"
+    },
+    {
+      "entry_id": "中文-茶经",
+      "title": "中文-茶经",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-茶经"
+    },
+    {
+      "entry_id": "中文-荀子",
+      "title": "中文-荀子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-荀子"
+    },
+    {
+      "entry_id": "中文-薛刚反唐",
+      "title": "中文-薛刚反唐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-薛刚反唐"
+    },
+    {
+      "entry_id": "中文-蛙",
+      "title": "中文-蛙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-蛙"
+    },
+    {
+      "entry_id": "中文-西厢记",
+      "title": "中文-西厢记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-西厢记"
+    },
+    {
+      "entry_id": "中文-西游记",
+      "title": "中文-西游记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-西游记"
+    },
+    {
+      "entry_id": "中文-警世通言",
+      "title": "中文-警世通言",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-警世通言"
+    },
+    {
+      "entry_id": "中文-论语",
+      "title": "中文-论语",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-论语"
+    },
+    {
+      "entry_id": "中文-诗经",
+      "title": "中文-诗经",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-诗经"
+    },
+    {
+      "entry_id": "中文-说岳全传",
+      "title": "中文-说岳全传",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-说岳全传"
+    },
+    {
+      "entry_id": "中文-资治通鉴",
+      "title": "中文-资治通鉴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-资治通鉴"
+    },
+    {
+      "entry_id": "中文-赵氏孤儿",
+      "title": "中文-赵氏孤儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-赵氏孤儿"
+    },
+    {
+      "entry_id": "中文-边城",
+      "title": "中文-边城",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-边城"
+    },
+    {
+      "entry_id": "中文-道德经",
+      "title": "中文-道德经",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-道德经"
+    },
+    {
+      "entry_id": "中文-醒世恒言",
+      "title": "中文-醒世恒言",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-醒世恒言"
+    },
+    {
+      "entry_id": "中文-镜花缘",
+      "title": "中文-镜花缘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-镜花缘"
+    },
+    {
+      "entry_id": "中文-长生殿",
+      "title": "中文-长生殿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-长生殿"
+    },
+    {
+      "entry_id": "中文-阅微草堂笔记",
+      "title": "中文-阅微草堂笔记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-阅微草堂笔记"
+    },
+    {
+      "entry_id": "中文-隋唐演义",
+      "title": "中文-隋唐演义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-隋唐演义"
+    },
+    {
+      "entry_id": "中文-韩非子",
+      "title": "中文-韩非子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-韩非子"
+    },
+    {
+      "entry_id": "中文-骆驼祥子",
+      "title": "中文-骆驼祥子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-骆驼祥子"
+    },
+    {
+      "entry_id": "中文-鬼谷子",
+      "title": "中文-鬼谷子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-鬼谷子"
+    }
+  ]
+}

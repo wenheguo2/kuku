@@ -1,0 +1,1516 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E3历史故事/隋唐演义",
+  "work_name": "隋唐演义",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 100,
+  "total_duration_ms": 98258286,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第001回 隋主起兵伐陈 晋王树功夺嫡",
+      "title": "第001回 隋主起兵伐陈 晋王树功夺嫡",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第001回 隋主起兵伐陈 晋王树功夺嫡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1103373,
+      "char_count": 4229,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第002回 杨广施谗谋易位 独孤逞妒杀宫妃",
+      "title": "第002回 杨广施谗谋易位 独孤逞妒杀宫妃",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第002回 杨广施谗谋易位 独孤逞妒杀宫妃",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 800988,
+      "char_count": 3110,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第003回 逞雄心李靖诉西岳 造谶语张衡危李渊",
+      "title": "第003回 逞雄心李靖诉西岳 造谶语张衡危李渊",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第003回 逞雄心李靖诉西岳 造谶语张衡危李渊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1001630,
+      "char_count": 3838,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第004回 齐州城豪杰奋身 楂树岗唐公遇盗",
+      "title": "第004回 齐州城豪杰奋身 楂树岗唐公遇盗",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第004回 齐州城豪杰奋身 楂树岗唐公遇盗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 750524,
+      "char_count": 2882,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第005回 秦叔宝途次救唐公 窦夫人寺中生世子",
+      "title": "第005回 秦叔宝途次救唐公 窦夫人寺中生世子",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第005回 秦叔宝途次救唐公 窦夫人寺中生世子",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 803629,
+      "char_count": 3118,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第006回 五花阵柴嗣昌山寺定姻 一蹇囊秦叔宝穷途落魄",
+      "title": "第006回 五花阵柴嗣昌山寺定姻 一蹇囊秦叔宝穷途落魄",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第006回 五花阵柴嗣昌山寺定姻 一蹇囊秦叔宝穷途落魄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 901730,
+      "char_count": 3498,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第007回 蔡太守随时行赏罚 王小二转面起炎凉",
+      "title": "第007回 蔡太守随时行赏罚 王小二转面起炎凉",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第007回 蔡太守随时行赏罚 王小二转面起炎凉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1686105,
+      "char_count": 6551,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第008回 三义坊当锏受腌臜 二贤庄卖马识豪杰",
+      "title": "第008回 三义坊当锏受腌臜 二贤庄卖马识豪杰",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第008回 三义坊当锏受腌臜 二贤庄卖马识豪杰",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1127240,
+      "char_count": 4354,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第009回 入酒肆蓦逢旧识人 还饭钱径取回乡路",
+      "title": "第009回 入酒肆蓦逢旧识人 还饭钱径取回乡路",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第009回 入酒肆蓦逢旧识人 还饭钱径取回乡路",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 763198,
+      "char_count": 2985,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第010回 东岳庙英雄染疴 二贤庄知己谈心",
+      "title": "第010回 东岳庙英雄染疴 二贤庄知己谈心",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第010回 东岳庙英雄染疴 二贤庄知己谈心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1088161,
+      "char_count": 4195,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第011回 冒风雪樊建威访朋 乞灵丹单雄信生女",
+      "title": "第011回 冒风雪樊建威访朋 乞灵丹单雄信生女",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第011回 冒风雪樊建威访朋 乞灵丹单雄信生女",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 993089,
+      "char_count": 3693,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第012回 皂角林财物露遭殃 顺义村擂台逢敌手",
+      "title": "第012回 皂角林财物露遭殃 顺义村擂台逢敌手",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第012回 皂角林财物露遭殃 顺义村擂台逢敌手",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 736091,
+      "char_count": 2875,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第013回 张公谨仗义全朋友 秦叔宝带罪见姑娘",
+      "title": "第013回 张公谨仗义全朋友 秦叔宝带罪见姑娘",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第013回 张公谨仗义全朋友 秦叔宝带罪见姑娘",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1247177,
+      "char_count": 4793,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第014回 勇秦琼舞锏服三军 贤柳氏收金获一报",
+      "title": "第014回 勇秦琼舞锏服三军 贤柳氏收金获一报",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第014回 勇秦琼舞锏服三军 贤柳氏收金获一报",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1334335,
+      "char_count": 5220,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第015回 秦叔宝归家侍母 齐国远截路迎朋",
+      "title": "第015回 秦叔宝归家侍母 齐国远截路迎朋",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第015回 秦叔宝归家侍母 齐国远截路迎朋",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1181589,
+      "char_count": 4530,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "第016回 报德祠酬恩塑像 西明巷易服从夫",
+      "title": "第016回 报德祠酬恩塑像 西明巷易服从夫",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第016回 报德祠酬恩塑像 西明巷易服从夫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 953686,
+      "char_count": 3680,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "第017回 齐国远漫兴立球场 柴郡马挟伴游灯市",
+      "title": "第017回 齐国远漫兴立球场 柴郡马挟伴游灯市",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第017回 齐国远漫兴立球场 柴郡马挟伴游灯市",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 977478,
+      "char_count": 3762,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "第018回 王婉儿观灯起衅 宇文子贪色亡身",
+      "title": "第018回 王婉儿观灯起衅 宇文子贪色亡身",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第018回 王婉儿观灯起衅 宇文子贪色亡身",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 818045,
+      "char_count": 3148,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "第019回 恣蒸淫赐盒结同心 逞弑逆扶王升御座",
+      "title": "第019回 恣蒸淫赐盒结同心 逞弑逆扶王升御座",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第019回 恣蒸淫赐盒结同心 逞弑逆扶王升御座",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 978764,
+      "char_count": 3852,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "第020回 皇后假宫娥贪欢博宠 权臣说鬼话阴报身亡",
+      "title": "第020回 皇后假宫娥贪欢博宠 权臣说鬼话阴报身亡",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第020回 皇后假宫娥贪欢博宠 权臣说鬼话阴报身亡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1166654,
+      "char_count": 4564,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "第021回 借酒肆初结金兰 通姓名自显豪杰",
+      "title": "第021回 借酒肆初结金兰 通姓名自显豪杰",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第021回 借酒肆初结金兰 通姓名自显豪杰",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 668729,
+      "char_count": 2588,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "第022回 驰令箭雄信传名 屈官刑叔宝受责",
+      "title": "第022回 驰令箭雄信传名 屈官刑叔宝受责",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第022回 驰令箭雄信传名 屈官刑叔宝受责",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1411691,
+      "char_count": 5417,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "第023回 酒筵供盗状生死无辞 灯前焚捕批古今罕见",
+      "title": "第023回 酒筵供盗状生死无辞 灯前焚捕批古今罕见",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第023回 酒筵供盗状生死无辞 灯前焚捕批古今罕见",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 734052,
+      "char_count": 2818,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "第024回 豪杰庆千秋冰霜寿母 罡星祝一夕虎豹佳儿",
+      "title": "第024回 豪杰庆千秋冰霜寿母 罡星祝一夕虎豹佳儿",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第024回 豪杰庆千秋冰霜寿母 罡星祝一夕虎豹佳儿",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 983899,
+      "char_count": 3822,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "第025回 李玄邃关节全知己 柴嗣昌请托浼赃官",
+      "title": "第025回 李玄邃关节全知己 柴嗣昌请托浼赃官",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第025回 李玄邃关节全知己 柴嗣昌请托浼赃官",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 821807,
+      "char_count": 3157,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "第026回 窦小姐易服走他乡 许太监空身入虎穴",
+      "title": "第026回 窦小姐易服走他乡 许太监空身入虎穴",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第026回 窦小姐易服走他乡 许太监空身入虎穴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 818450,
+      "char_count": 3154,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "第027回 穷土木炀帝逞豪华 思净身王义得佳偶",
+      "title": "第027回 穷土木炀帝逞豪华 思净身王义得佳偶",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第027回 穷土木炀帝逞豪华 思净身王义得佳偶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1276119,
+      "char_count": 4961,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "第028回 众娇娃剪彩为花 侯妃子题诗自缢",
+      "title": "第028回 众娇娃剪彩为花 侯妃子题诗自缢",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第028回 众娇娃剪彩为花 侯妃子题诗自缢",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 874018,
+      "char_count": 3369,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "第029回 隋炀帝两院观花 众夫人同舟游海",
+      "title": "第029回 隋炀帝两院观花 众夫人同舟游海",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第029回 隋炀帝两院观花 众夫人同舟游海",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1104229,
+      "char_count": 4300,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "第030回 赌新歌宝儿博宠 观图画萧后思游",
+      "title": "第030回 赌新歌宝儿博宠 观图画萧后思游",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第030回 赌新歌宝儿博宠 观图画萧后思游",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1208398,
+      "char_count": 4653,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "第031回 薛冶儿舞剑分欢 众夫人题诗邀宠",
+      "title": "第031回 薛冶儿舞剑分欢 众夫人题诗邀宠",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第031回 薛冶儿舞剑分欢 众夫人题诗邀宠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 663130,
+      "char_count": 2592,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "第032回 狄去邪入深穴 皇甫君击大鼠",
+      "title": "第032回 狄去邪入深穴 皇甫君击大鼠",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第032回 狄去邪入深穴 皇甫君击大鼠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1019019,
+      "char_count": 3983,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "第033回 睢阳界触忌被斥 齐洲城卜居迎养",
+      "title": "第033回 睢阳界触忌被斥 齐洲城卜居迎养",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第033回 睢阳界触忌被斥 齐洲城卜居迎养",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1011088,
+      "char_count": 3910,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "第034回 洒桃花流水寻欢 割玉腕真心报宠",
+      "title": "第034回 洒桃花流水寻欢 割玉腕真心报宠",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第034回 洒桃花流水寻欢 割玉腕真心报宠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 711449,
+      "char_count": 2756,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "第035回 乐水夕大士奇观 清夜游昭君泪塞",
+      "title": "第035回 乐水夕大士奇观 清夜游昭君泪塞",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第035回 乐水夕大士奇观 清夜游昭君泪塞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 930806,
+      "char_count": 3522,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "第036回 观文殿虞世南草诏 爱莲亭袁宝儿轻生",
+      "title": "第036回 观文殿虞世南草诏 爱莲亭袁宝儿轻生",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第036回 观文殿虞世南草诏 爱莲亭袁宝儿轻生",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1078873,
+      "char_count": 4175,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "第037回 孙安祖走说窦建德 徐懋功初交秦叔宝",
+      "title": "第037回 孙安祖走说窦建德 徐懋功初交秦叔宝",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第037回 孙安祖走说窦建德 徐懋功初交秦叔宝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1536611,
+      "char_count": 5978,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "第038回 杨义臣出师破贼 王伯当施计全交",
+      "title": "第038回 杨义臣出师破贼 王伯当施计全交",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第038回 杨义臣出师破贼 王伯当施计全交",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1285627,
+      "char_count": 5015,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "第039回 陈隋两主说幽情 张尹二妃重贬谪",
+      "title": "第039回 陈隋两主说幽情 张尹二妃重贬谪",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第039回 陈隋两主说幽情 张尹二妃重贬谪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1152870,
+      "char_count": 4385,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "第040回 汴堤上绿柳御题赐姓 龙舟内线仙艳色沾恩",
+      "title": "第040回 汴堤上绿柳御题赐姓 龙舟内线仙艳色沾恩",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第040回 汴堤上绿柳御题赐姓 龙舟内线仙艳色沾恩",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1098202,
+      "char_count": 4310,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "第041回 李玄邃穷途定偶 秦叔宝脱陷荣归",
+      "title": "第041回 李玄邃穷途定偶 秦叔宝脱陷荣归",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第041回 李玄邃穷途定偶 秦叔宝脱陷荣归",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 881770,
+      "char_count": 3476,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "第042回 贪赏银詹气先丧命 施绝计单雄信无家",
+      "title": "第042回 贪赏银詹气先丧命 施绝计单雄信无家",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第042回 贪赏银詹气先丧命 施绝计单雄信无家",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1440074,
+      "char_count": 5552,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "第043回 连巨真设计赚贾柳 张须陀具疏救秦琼",
+      "title": "第043回 连巨真设计赚贾柳 张须陀具疏救秦琼",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第043回 连巨真设计赚贾柳 张须陀具疏救秦琼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1080194,
+      "char_count": 4212,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "第044回 宁夫人路途脱陷 罗士信黑夜报仇",
+      "title": "第044回 宁夫人路途脱陷 罗士信黑夜报仇",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第044回 宁夫人路途脱陷 罗士信黑夜报仇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1145586,
+      "char_count": 4075,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "第045回 平原县秦叔宝逃生 大海寺唐万仞徇义",
+      "title": "第045回 平原县秦叔宝逃生 大海寺唐万仞徇义",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第045回 平原县秦叔宝逃生 大海寺唐万仞徇义",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 729877,
+      "char_count": 2838,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "第046回 杀翟让李密负友 乱宫妃唐公起兵",
+      "title": "第046回 杀翟让李密负友 乱宫妃唐公起兵",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第046回 杀翟让李密负友 乱宫妃唐公起兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 909628,
+      "char_count": 3550,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "第047回 看琼花乐尽隋终 殉死节香销烈见",
+      "title": "第047回 看琼花乐尽隋终 殉死节香销烈见",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第047回 看琼花乐尽隋终 殉死节香销烈见",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1326286,
+      "char_count": 5100,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "第048回 遗巧计一良友归唐 破花容四夫人守志",
+      "title": "第048回 遗巧计一良友归唐 破花容四夫人守志",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第048回 遗巧计一良友归唐 破花容四夫人守志",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1086218,
+      "char_count": 4197,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "第049回 舟中歌词句敌国暂许君臣 马上缔姻缘吴越反成秦晋",
+      "title": "第049回 舟中歌词句敌国暂许君臣 马上缔姻缘吴越反成秦晋",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第049回 舟中歌词句敌国暂许君臣 马上缔姻缘吴越反成秦晋",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 971360,
+      "char_count": 3250,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "第050回 借寇兵义臣灭叛臣 设宫宴曹后辱萧后",
+      "title": "第050回 借寇兵义臣灭叛臣 设宫宴曹后辱萧后",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第050回 借寇兵义臣灭叛臣 设宫宴曹后辱萧后",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 926443,
+      "char_count": 3456,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "第051回 真命主南牢身陷 奇女子巧计龙飞",
+      "title": "第051回 真命主南牢身陷 奇女子巧计龙飞",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第051回 真命主南牢身陷 奇女子巧计龙飞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 810371,
+      "char_count": 3117,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "第052回 李世民感恩劫友母 宁夫人惑计走他乡",
+      "title": "第052回 李世民感恩劫友母 宁夫人惑计走他乡",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第052回 李世民感恩劫友母 宁夫人惑计走他乡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 769805,
+      "char_count": 2936,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "第053回 梦周公王世弃绝魏 弃徐勣李立邃归唐",
+      "title": "第053回 梦周公王世弃绝魏 弃徐勣李立邃归唐",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第053回 梦周公王世弃绝魏 弃徐勣李立邃归唐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 953441,
+      "char_count": 3646,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "第054回 释前仇程咬金见母受恩 践死誓王伯当为友捐躯",
+      "title": "第054回 释前仇程咬金见母受恩 践死誓王伯当为友捐躯",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第054回 释前仇程咬金见母受恩 践死誓王伯当为友捐躯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 898057,
+      "char_count": 3536,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "第055回 徐世勣一恸成丧礼 唐秦王亲唁服军心",
+      "title": "第055回 徐世勣一恸成丧礼 唐秦王亲唁服军心",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第055回 徐世勣一恸成丧礼 唐秦王亲唁服军心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 726811,
+      "char_count": 2674,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "第056回 啖活人朱灿兽心 代从军木兰孝父",
+      "title": "第056回 啖活人朱灿兽心 代从军木兰孝父",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第056回 啖活人朱灿兽心 代从军木兰孝父",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1388264,
+      "char_count": 5447,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "第057回 改书柬窦公主辞姻 割袍襟单雄信断义",
+      "title": "第057回 改书柬窦公主辞姻 割袍襟单雄信断义",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第057回 改书柬窦公主辞姻 割袍襟单雄信断义",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 787236,
+      "char_count": 3043,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "第058回 窦建德谷口被擒 徐懋功草庐订约",
+      "title": "第058回 窦建德谷口被擒 徐懋功草庐订约",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第058回 窦建德谷口被擒 徐懋功草庐订约",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1218977,
+      "char_count": 4692,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "第059回 狠英雄犴牢聚首 奇女子凤阁沾恩",
+      "title": "第059回 狠英雄犴牢聚首 奇女子凤阁沾恩",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第059回 狠英雄犴牢聚首 奇女子凤阁沾恩",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 704417,
+      "char_count": 2702,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "第060回 出囹圄英雄惨戮 走天涯淑女传书",
+      "title": "第060回 出囹圄英雄惨戮 走天涯淑女传书",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第060回 出囹圄英雄惨戮 走天涯淑女传书",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 903942,
+      "char_count": 3477,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "第061回 花又兰忍爱守身 窦线娘飞章弄美",
+      "title": "第061回 花又兰忍爱守身 窦线娘飞章弄美",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第061回 花又兰忍爱守身 窦线娘飞章弄美",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 837441,
+      "char_count": 3144,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "第062回 众娇娃全名全美 各公卿宜室宜家",
+      "title": "第062回 众娇娃全名全美 各公卿宜室宜家",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第062回 众娇娃全名全美 各公卿宜室宜家",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 725381,
+      "char_count": 2570,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "第063回 王世充忘恩复叛 秦怀玉剪寇建功",
+      "title": "第063回 王世充忘恩复叛 秦怀玉剪寇建功",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第063回 王世充忘恩复叛 秦怀玉剪寇建功",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1236373,
+      "char_count": 4877,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "第064回 小秦王宫门挂带 宇文妃龙案解诗",
+      "title": "第064回 小秦王宫门挂带 宇文妃龙案解诗",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第064回 小秦王宫门挂带 宇文妃龙案解诗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1124757,
+      "char_count": 4355,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "第065回 赵王雄踞龙虎关 周喜霸占鸳鸯镇",
+      "title": "第065回 赵王雄踞龙虎关 周喜霸占鸳鸯镇",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第065回 赵王雄踞龙虎关 周喜霸占鸳鸯镇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 824240,
+      "char_count": 3219,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "第066回 丹霄宫嫔妃交谮 玄武门兄弟相残",
+      "title": "第066回 丹霄宫嫔妃交谮 玄武门兄弟相残",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第066回 丹霄宫嫔妃交谮 玄武门兄弟相残",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1273830,
+      "char_count": 4771,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "第067回 女贞庵妃主焚修 雷塘墓夫妇殉节",
+      "title": "第067回 女贞庵妃主焚修 雷塘墓夫妇殉节",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第067回 女贞庵妃主焚修 雷塘墓夫妇殉节",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 807585,
+      "char_count": 3096,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "第068回 成后志怨女出宫 证前盟阴司定案",
+      "title": "第068回 成后志怨女出宫 证前盟阴司定案",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第068回 成后志怨女出宫 证前盟阴司定案",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1129821,
+      "char_count": 4233,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "第069回 马宾王香醪濯足 隋萧后夜宴观灯",
+      "title": "第069回 马宾王香醪濯足 隋萧后夜宴观灯",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第069回 马宾王香醪濯足 隋萧后夜宴观灯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1050907,
+      "char_count": 4069,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "第070回 隋萧后遗梓归坟 武媚娘被缁入寺",
+      "title": "第070回 隋萧后遗梓归坟 武媚娘被缁入寺",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第070回 隋萧后遗梓归坟 武媚娘被缁入寺",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 677847,
+      "char_count": 2663,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "第071回 武才人蓄发还宫 秦郡君建坊邀宠",
+      "title": "第071回 武才人蓄发还宫 秦郡君建坊邀宠",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第071回 武才人蓄发还宫 秦郡君建坊邀宠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 726956,
+      "char_count": 2863,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "第072回 张昌宗行傩幸太后 冯怀义建节抚硕贞",
+      "title": "第072回 张昌宗行傩幸太后 冯怀义建节抚硕贞",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第072回 张昌宗行傩幸太后 冯怀义建节抚硕贞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1174792,
+      "char_count": 4566,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "第073回 安金藏剖腹鸣冤 骆宾王草檄讨罪",
+      "title": "第073回 安金藏剖腹鸣冤 骆宾王草檄讨罪",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第073回 安金藏剖腹鸣冤 骆宾王草檄讨罪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 774342,
+      "char_count": 2954,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "第074回 改国号女主称尊 闯宾筵小人怀肉",
+      "title": "第074回 改国号女主称尊 闯宾筵小人怀肉",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第074回 改国号女主称尊 闯宾筵小人怀肉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 680984,
+      "char_count": 2619,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "第075回 释情痴夫妇感恩 伸义讨兄弟被戮",
+      "title": "第075回 释情痴夫妇感恩 伸义讨兄弟被戮",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第075回 释情痴夫妇感恩 伸义讨兄弟被戮",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 810626,
+      "char_count": 3130,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "第076回 结彩楼嫔御评诗 游灯市帝后行乐",
+      "title": "第076回 结彩楼嫔御评诗 游灯市帝后行乐",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第076回 结彩楼嫔御评诗 游灯市帝后行乐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 940835,
+      "char_count": 3660,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "第077回 鸩昏主竟同儿戏 斩逆后大快人心",
+      "title": "第077回 鸩昏主竟同儿戏 斩逆后大快人心",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第077回 鸩昏主竟同儿戏 斩逆后大快人心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1067787,
+      "char_count": 4017,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "第078回 慈上皇难庇恶公主 生张说不及死姚崇",
+      "title": "第078回 慈上皇难庇恶公主 生张说不及死姚崇",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第078回 慈上皇难庇恶公主 生张说不及死姚崇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 859917,
+      "char_count": 3328,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "第079回 江采苹恃爱追欢 杨玉环承恩夺宠",
+      "title": "第079回 江采苹恃爱追欢 杨玉环承恩夺宠",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第079回 江采苹恃爱追欢 杨玉环承恩夺宠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1020581,
+      "char_count": 3493,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "第080回 安禄山入宫见妃子 高力士沿街觅状元",
+      "title": "第080回 安禄山入宫见妃子 高力士沿街觅状元",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第080回 安禄山入宫见妃子 高力士沿街觅状元",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 705232,
+      "char_count": 2739,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 81,
+      "chapter_id": "第081回 纵嬖宠洗儿赐钱 惑君王对使剪发",
+      "title": "第081回 纵嬖宠洗儿赐钱 惑君王对使剪发",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第081回 纵嬖宠洗儿赐钱 惑君王对使剪发",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 932122,
+      "char_count": 3623,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 82,
+      "chapter_id": "第082回 李谪仙应诏答番书 高力士进谗议雅调",
+      "title": "第082回 李谪仙应诏答番书 高力士进谗议雅调",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第082回 李谪仙应诏答番书 高力士进谗议雅调",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1026218,
+      "char_count": 3360,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 83,
+      "chapter_id": "第083回 施青目学士识英雄 信赤心番人作藩镇",
+      "title": "第083回 施青目学士识英雄 信赤心番人作藩镇",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第083回 施青目学士识英雄 信赤心番人作藩镇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1474255,
+      "char_count": 5553,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 84,
+      "chapter_id": "第084回 幻作戏屏上婵娟 小游仙空中音乐",
+      "title": "第084回 幻作戏屏上婵娟 小游仙空中音乐",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第084回 幻作戏屏上婵娟 小游仙空中音乐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 809195,
+      "char_count": 3197,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 85,
+      "chapter_id": "第085回 罗公远预寄蜀当归 安禄山请用番将士",
+      "title": "第085回 罗公远预寄蜀当归 安禄山请用番将士",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第085回 罗公远预寄蜀当归 安禄山请用番将士",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1338398,
+      "char_count": 4992,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 86,
+      "chapter_id": "第086回 长生殿半夜私盟 勤政楼通宵欢宴",
+      "title": "第086回 长生殿半夜私盟 勤政楼通宵欢宴",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第086回 长生殿半夜私盟 勤政楼通宵欢宴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 656704,
+      "char_count": 2560,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 87,
+      "chapter_id": "第087回 雪衣女诵经得度 赤心儿欺主作威",
+      "title": "第087回 雪衣女诵经得度 赤心儿欺主作威",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第087回 雪衣女诵经得度 赤心儿欺主作威",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1006190,
+      "char_count": 3927,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 88,
+      "chapter_id": "第088回 安禄山范阳造反 封常清东京募兵",
+      "title": "第088回 安禄山范阳造反 封常清东京募兵",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第088回 安禄山范阳造反 封常清东京募兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 833133,
+      "char_count": 3238,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 89,
+      "chapter_id": "第089回 唐明皇梦中见鬼 雷万春都下寻兄",
+      "title": "第089回 唐明皇梦中见鬼 雷万春都下寻兄",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第089回 唐明皇梦中见鬼 雷万春都下寻兄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 936988,
+      "char_count": 3596,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 90,
+      "chapter_id": "第090回 矢忠贞颜真卿起义 遭妒忌哥舒翰丧师",
+      "title": "第090回 矢忠贞颜真卿起义 遭妒忌哥舒翰丧师",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第090回 矢忠贞颜真卿起义 遭妒忌哥舒翰丧师",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1366935,
+      "char_count": 5291,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 91,
+      "chapter_id": "第091回 延秋门君臣奔窜 马嵬驿兄妹伏诛",
+      "title": "第091回 延秋门君臣奔窜 马嵬驿兄妹伏诛",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第091回 延秋门君臣奔窜 马嵬驿兄妹伏诛",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 962735,
+      "char_count": 3720,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 92,
+      "chapter_id": "第092回 留灵武储君即位 陷长安逆贼肆凶",
+      "title": "第092回 留灵武储君即位 陷长安逆贼肆凶",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第092回 留灵武储君即位 陷长安逆贼肆凶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 897167,
+      "char_count": 3494,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 93,
+      "chapter_id": "第093回 凝碧池雷海青殉节 普施寺王摩诘吟诗",
+      "title": "第093回 凝碧池雷海青殉节 普施寺王摩诘吟诗",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第093回 凝碧池雷海青殉节 普施寺王摩诘吟诗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1026188,
+      "char_count": 3936,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 94,
+      "chapter_id": "第094回 安禄山屠肠殒命 南霁云啮指乞师",
+      "title": "第094回 安禄山屠肠殒命 南霁云啮指乞师",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第094回 安禄山屠肠殒命 南霁云啮指乞师",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 996267,
+      "char_count": 3905,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 95,
+      "chapter_id": "第095回 李乐工吹笛遇仙翁 王供奉听棋谒神女",
+      "title": "第095回 李乐工吹笛遇仙翁 王供奉听棋谒神女",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第095回 李乐工吹笛遇仙翁 王供奉听棋谒神女",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 925833,
+      "char_count": 3630,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 96,
+      "chapter_id": "第096回 拚百口郭令公报恩 复两京广平王奏绩",
+      "title": "第096回 拚百口郭令公报恩 复两京广平王奏绩",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第096回 拚百口郭令公报恩 复两京广平王奏绩",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 963617,
+      "char_count": 3696,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 97,
+      "chapter_id": "第097回 达奚女钟情续旧好 采苹妃全躯返故宫",
+      "title": "第097回 达奚女钟情续旧好 采苹妃全躯返故宫",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第097回 达奚女钟情续旧好 采苹妃全躯返故宫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 818840,
+      "char_count": 3136,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 98,
+      "chapter_id": "第098回 遗锦袜老妪获钱 听雨铃乐工度曲",
+      "title": "第098回 遗锦袜老妪获钱 听雨铃乐工度曲",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第098回 遗锦袜老妪获钱 听雨铃乐工度曲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 650772,
+      "char_count": 2539,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 99,
+      "chapter_id": "第099回 赦反侧君念臣恩 了前缘人同花谢",
+      "title": "第099回 赦反侧君念臣恩 了前缘人同花谢",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第099回 赦反侧君念臣恩 了前缘人同花谢",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 798952,
+      "char_count": 3081,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 100,
+      "chapter_id": "第100回 迁西内离间父子情 遣鸿都结证隋唐事",
+      "title": "第100回 迁西内离间父子情 遣鸿都结证隋唐事",
+      "full_path": "上下五千年/E3历史故事/隋唐演义/第100回 迁西内离间父子情 遣鸿都结证隋唐事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 926233,
+      "char_count": 3250,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

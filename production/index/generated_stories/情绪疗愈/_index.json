@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "index_type": "subject_index",
+  "subject_id": "情绪疗愈",
+  "subject_name": "情绪疗愈",
+  "cover": {
+    "cover_image_url": "covers/generated/情绪疗愈/情绪疗愈.webp",
+    "cover_level": "subject"
+  },
+  "category_count": 9,
+  "categories": [
+    {
+      "id": "H10抗挫折",
+      "name": "H10抗挫折",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 170,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H10抗挫折/H10抗挫折.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "H1愤怒",
+      "name": "H1愤怒",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 170,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H1愤怒/H1愤怒.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "H2嫉妒",
+      "name": "H2嫉妒",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 173,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H2嫉妒/H2嫉妒.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "H3悲伤",
+      "name": "H3悲伤",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 174,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H3悲伤/H3悲伤.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "H4恐惧",
+      "name": "H4恐惧",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 174,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H4恐惧/H4恐惧.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "H5被忽视",
+      "name": "H5被忽视",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 174,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H5被忽视/H5被忽视.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "H6青春期",
+      "name": "H6青春期",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 173,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H6青春期/H6青春期.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "H8霸凌",
+      "name": "H8霸凌",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 172,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H8霸凌/H8霸凌.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "H9正念",
+      "name": "H9正念",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 175,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/H9正念/H9正念.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

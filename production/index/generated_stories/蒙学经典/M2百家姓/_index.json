@@ -1,0 +1,1096 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "蒙学经典/M2百家姓",
+  "work_name": "M2百家姓",
+  "cover": {
+    "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 72,
+  "total_duration_ms": 22092600,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "百家姓001-001_第1姓_赵钱孙李",
+      "title": "百家姓001-001_第1姓_赵钱孙李",
+      "full_path": "蒙学经典/M2百家姓/百家姓001-001_第1姓_赵钱孙李",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 240600,
+      "char_count": 1198,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "百家姓002-002_第2姓_周吴郑王",
+      "title": "百家姓002-002_第2姓_周吴郑王",
+      "full_path": "蒙学经典/M2百家姓/百家姓002-002_第2姓_周吴郑王",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 188800,
+      "char_count": 939,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "百家姓003-003_第3姓_冯陈褚卫",
+      "title": "百家姓003-003_第3姓_冯陈褚卫",
+      "full_path": "蒙学经典/M2百家姓/百家姓003-003_第3姓_冯陈褚卫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 239000,
+      "char_count": 1190,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "百家姓004-004_第4姓_蒋沈韩杨",
+      "title": "百家姓004-004_第4姓_蒋沈韩杨",
+      "full_path": "蒙学经典/M2百家姓/百家姓004-004_第4姓_蒋沈韩杨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 149600,
+      "char_count": 743,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "百家姓005-005_第5姓_朱秦尤许",
+      "title": "百家姓005-005_第5姓_朱秦尤许",
+      "full_path": "蒙学经典/M2百家姓/百家姓005-005_第5姓_朱秦尤许",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 212000,
+      "char_count": 1055,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "百家姓006-006_第6姓_何吕施张",
+      "title": "百家姓006-006_第6姓_何吕施张",
+      "full_path": "蒙学经典/M2百家姓/百家姓006-006_第6姓_何吕施张",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 170800,
+      "char_count": 849,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "百家姓007-007_第7姓_孔曹严华",
+      "title": "百家姓007-007_第7姓_孔曹严华",
+      "full_path": "蒙学经典/M2百家姓/百家姓007-007_第7姓_孔曹严华",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 225000,
+      "char_count": 1120,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "百家姓008-008_第8姓_金魏陶姜",
+      "title": "百家姓008-008_第8姓_金魏陶姜",
+      "full_path": "蒙学经典/M2百家姓/百家姓008-008_第8姓_金魏陶姜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 197800,
+      "char_count": 984,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "百家姓009-009_第9姓_戚谢邹喻",
+      "title": "百家姓009-009_第9姓_戚谢邹喻",
+      "full_path": "蒙学经典/M2百家姓/百家姓009-009_第9姓_戚谢邹喻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 206200,
+      "char_count": 1026,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "百家姓010-010_第10姓_柏水窦章",
+      "title": "百家姓010-010_第10姓_柏水窦章",
+      "full_path": "蒙学经典/M2百家姓/百家姓010-010_第10姓_柏水窦章",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 225800,
+      "char_count": 1124,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "百家姓011-011_第11姓_云苏潘葛",
+      "title": "百家姓011-011_第11姓_云苏潘葛",
+      "full_path": "蒙学经典/M2百家姓/百家姓011-011_第11姓_云苏潘葛",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 155400,
+      "char_count": 772,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "百家姓012-012_第12姓_奚范彭郎",
+      "title": "百家姓012-012_第12姓_奚范彭郎",
+      "full_path": "蒙学经典/M2百家姓/百家姓012-012_第12姓_奚范彭郎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 169600,
+      "char_count": 843,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "百家姓013-013_第13姓_鲁韦昌马",
+      "title": "百家姓013-013_第13姓_鲁韦昌马",
+      "full_path": "蒙学经典/M2百家姓/百家姓013-013_第13姓_鲁韦昌马",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 221600,
+      "char_count": 1103,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "百家姓014-014_第14姓_苗凤花方",
+      "title": "百家姓014-014_第14姓_苗凤花方",
+      "full_path": "蒙学经典/M2百家姓/百家姓014-014_第14姓_苗凤花方",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 198200,
+      "char_count": 986,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "百家姓015-015_第15姓_俞任袁柳",
+      "title": "百家姓015-015_第15姓_俞任袁柳",
+      "full_path": "蒙学经典/M2百家姓/百家姓015-015_第15姓_俞任袁柳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 267000,
+      "char_count": 1330,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "百家姓016-016_第16姓_丰鲍史唐",
+      "title": "百家姓016-016_第16姓_丰鲍史唐",
+      "full_path": "蒙学经典/M2百家姓/百家姓016-016_第16姓_丰鲍史唐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 266400,
+      "char_count": 1327,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "百家姓017-017_第17姓_费廉岑薛 雷贺倪",
+      "title": "百家姓017-017_第17姓_费廉岑薛 雷贺倪",
+      "full_path": "蒙学经典/M2百家姓/百家姓017-017_第17姓_费廉岑薛 雷贺倪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 265400,
+      "char_count": 1318,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "百家姓018-018_第18姓_滕殷罗毕 郝邬安",
+      "title": "百家姓018-018_第18姓_滕殷罗毕 郝邬安",
+      "full_path": "蒙学经典/M2百家姓/百家姓018-018_第18姓_滕殷罗毕 郝邬安",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 378400,
+      "char_count": 1883,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "百家姓019-019_第19姓_乐于时傅 皮下齐",
+      "title": "百家姓019-019_第19姓_乐于时傅 皮下齐",
+      "full_path": "蒙学经典/M2百家姓/百家姓019-019_第19姓_乐于时傅 皮下齐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 444600,
+      "char_count": 2214,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "百家姓020-020_第20姓_伍余元卜 顾孟平",
+      "title": "百家姓020-020_第20姓_伍余元卜 顾孟平",
+      "full_path": "蒙学经典/M2百家姓/百家姓020-020_第20姓_伍余元卜 顾孟平",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 435200,
+      "char_count": 2167,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "百家姓021-021_第21姓_和穆萧尹 姚邵湛",
+      "title": "百家姓021-021_第21姓_和穆萧尹 姚邵湛",
+      "full_path": "蒙学经典/M2百家姓/百家姓021-021_第21姓_和穆萧尹 姚邵湛",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 383800,
+      "char_count": 1910,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "百家姓022-022_第22姓_祁毛禹狄 米贝明",
+      "title": "百家姓022-022_第22姓_祁毛禹狄 米贝明",
+      "full_path": "蒙学经典/M2百家姓/百家姓022-022_第22姓_祁毛禹狄 米贝明",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 331000,
+      "char_count": 1646,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "百家姓023-023_第23姓_计伏成戴 谈宋茅",
+      "title": "百家姓023-023_第23姓_计伏成戴 谈宋茅",
+      "full_path": "蒙学经典/M2百家姓/百家姓023-023_第23姓_计伏成戴 谈宋茅",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 437000,
+      "char_count": 2176,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "百家姓024-024_第24姓_熊纪舒屈 项祝董",
+      "title": "百家姓024-024_第24姓_熊纪舒屈 项祝董",
+      "full_path": "蒙学经典/M2百家姓/百家姓024-024_第24姓_熊纪舒屈 项祝董",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 391200,
+      "char_count": 1947,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "百家姓025-025_第25姓_杜阮蓝闵 席季麻",
+      "title": "百家姓025-025_第25姓_杜阮蓝闵 席季麻",
+      "full_path": "蒙学经典/M2百家姓/百家姓025-025_第25姓_杜阮蓝闵 席季麻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 382800,
+      "char_count": 1905,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "百家姓026-026_第26姓_贾路娄危 江童颜",
+      "title": "百家姓026-026_第26姓_贾路娄危 江童颜",
+      "full_path": "蒙学经典/M2百家姓/百家姓026-026_第26姓_贾路娄危 江童颜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 348200,
+      "char_count": 1732,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "百家姓027-027_第27姓_梅盛林刁 钟徐邱",
+      "title": "百家姓027-027_第27姓_梅盛林刁 钟徐邱",
+      "full_path": "蒙学经典/M2百家姓/百家姓027-027_第27姓_梅盛林刁 钟徐邱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 314400,
+      "char_count": 1563,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "百家姓028-028_第28姓_高夏蔡田 樊胡凌",
+      "title": "百家姓028-028_第28姓_高夏蔡田 樊胡凌",
+      "full_path": "蒙学经典/M2百家姓/百家姓028-028_第28姓_高夏蔡田 樊胡凌",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 398000,
+      "char_count": 1981,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "百家姓029-029_第29姓_虞万支柯 昝管卢",
+      "title": "百家姓029-029_第29姓_虞万支柯 昝管卢",
+      "full_path": "蒙学经典/M2百家姓/百家姓029-029_第29姓_虞万支柯 昝管卢",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 410000,
+      "char_count": 2041,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "百家姓030-030_第30姓_经房裘缪 干解应",
+      "title": "百家姓030-030_第30姓_经房裘缪 干解应",
+      "full_path": "蒙学经典/M2百家姓/百家姓030-030_第30姓_经房裘缪 干解应",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 461000,
+      "char_count": 2296,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "百家姓031-031_第31姓_丁宣贲邓 郁单杭",
+      "title": "百家姓031-031_第31姓_丁宣贲邓 郁单杭",
+      "full_path": "蒙学经典/M2百家姓/百家姓031-031_第31姓_丁宣贲邓 郁单杭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 380200,
+      "char_count": 1892,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "百家姓032-032_第32姓_包诸左石 崔吉钮",
+      "title": "百家姓032-032_第32姓_包诸左石 崔吉钮",
+      "full_path": "蒙学经典/M2百家姓/百家姓032-032_第32姓_包诸左石 崔吉钮",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 401400,
+      "char_count": 1998,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "百家姓033-033_第33姓_程嵇邢滑 裴陆荣",
+      "title": "百家姓033-033_第33姓_程嵇邢滑 裴陆荣",
+      "full_path": "蒙学经典/M2百家姓/百家姓033-033_第33姓_程嵇邢滑 裴陆荣",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 427000,
+      "char_count": 2126,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "百家姓034-034_第34姓_荀羊於惠 甄曲家",
+      "title": "百家姓034-034_第34姓_荀羊於惠 甄曲家",
+      "full_path": "蒙学经典/M2百家姓/百家姓034-034_第34姓_荀羊於惠 甄曲家",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 357600,
+      "char_count": 1779,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "百家姓035-035_第35姓_芮羿储靳 汲邴糜",
+      "title": "百家姓035-035_第35姓_芮羿储靳 汲邴糜",
+      "full_path": "蒙学经典/M2百家姓/百家姓035-035_第35姓_芮羿储靳 汲邴糜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 324000,
+      "char_count": 1611,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "百家姓036-036_第36姓_井段富巫 乌焦巴",
+      "title": "百家姓036-036_第36姓_井段富巫 乌焦巴",
+      "full_path": "蒙学经典/M2百家姓/百家姓036-036_第36姓_井段富巫 乌焦巴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 409000,
+      "char_count": 2036,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "百家姓037-037_第37姓_牧隗山谷 车侯宓",
+      "title": "百家姓037-037_第37姓_牧隗山谷 车侯宓",
+      "full_path": "蒙学经典/M2百家姓/百家姓037-037_第37姓_牧隗山谷 车侯宓",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 438800,
+      "char_count": 2185,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "百家姓038-038_第38姓_全郗班仰 秋仲伊",
+      "title": "百家姓038-038_第38姓_全郗班仰 秋仲伊",
+      "full_path": "蒙学经典/M2百家姓/百家姓038-038_第38姓_全郗班仰 秋仲伊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 356600,
+      "char_count": 1774,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "百家姓039-039_第39姓_宁仇栾暴 甘钭厉",
+      "title": "百家姓039-039_第39姓_宁仇栾暴 甘钭厉",
+      "full_path": "蒙学经典/M2百家姓/百家姓039-039_第39姓_宁仇栾暴 甘钭厉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 291400,
+      "char_count": 1448,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "百家姓040-040_第40姓_祖武符刘 景詹束",
+      "title": "百家姓040-040_第40姓_祖武符刘 景詹束",
+      "full_path": "蒙学经典/M2百家姓/百家姓040-040_第40姓_祖武符刘 景詹束",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 284400,
+      "char_count": 1413,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "百家姓041-041_第41姓_叶幸司韶 郜黎蓟",
+      "title": "百家姓041-041_第41姓_叶幸司韶 郜黎蓟",
+      "full_path": "蒙学经典/M2百家姓/百家姓041-041_第41姓_叶幸司韶 郜黎蓟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 393200,
+      "char_count": 1957,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "百家姓042-042_第42姓_印宿白怀 蒲邰从",
+      "title": "百家姓042-042_第42姓_印宿白怀 蒲邰从",
+      "full_path": "蒙学经典/M2百家姓/百家姓042-042_第42姓_印宿白怀 蒲邰从",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 249000,
+      "char_count": 1236,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "百家姓043-043_第43姓_索咸籍赖 卓蔺屠",
+      "title": "百家姓043-043_第43姓_索咸籍赖 卓蔺屠",
+      "full_path": "蒙学经典/M2百家姓/百家姓043-043_第43姓_索咸籍赖 卓蔺屠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 378200,
+      "char_count": 1882,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "百家姓044-044_第44姓_池乔阴郁 胥能苍",
+      "title": "百家姓044-044_第44姓_池乔阴郁 胥能苍",
+      "full_path": "蒙学经典/M2百家姓/百家姓044-044_第44姓_池乔阴郁 胥能苍",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 364800,
+      "char_count": 1815,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "百家姓045-045_第45姓_闻莘党翟 谭贡劳",
+      "title": "百家姓045-045_第45姓_闻莘党翟 谭贡劳",
+      "full_path": "蒙学经典/M2百家姓/百家姓045-045_第45姓_闻莘党翟 谭贡劳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 307400,
+      "char_count": 1528,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "百家姓046-046_第46姓_姬申扶堵 冉宰郦",
+      "title": "百家姓046-046_第46姓_姬申扶堵 冉宰郦",
+      "full_path": "蒙学经典/M2百家姓/百家姓046-046_第46姓_姬申扶堵 冉宰郦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 391200,
+      "char_count": 1947,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "百家姓047-047_第47姓_却璩桑桂 濮牛寿",
+      "title": "百家姓047-047_第47姓_却璩桑桂 濮牛寿",
+      "full_path": "蒙学经典/M2百家姓/百家姓047-047_第47姓_却璩桑桂 濮牛寿",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 352000,
+      "char_count": 1751,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "百家姓048-048_第48姓_边扈燕冀 郏浦尚",
+      "title": "百家姓048-048_第48姓_边扈燕冀 郏浦尚",
+      "full_path": "蒙学经典/M2百家姓/百家姓048-048_第48姓_边扈燕冀 郏浦尚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 339000,
+      "char_count": 1686,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "百家姓049-049_第49姓_温别庄晏 柴瞿阎",
+      "title": "百家姓049-049_第49姓_温别庄晏 柴瞿阎",
+      "full_path": "蒙学经典/M2百家姓/百家姓049-049_第49姓_温别庄晏 柴瞿阎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 424200,
+      "char_count": 2112,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "百家姓050-050_第50姓_慕连茹习 宦艾鱼",
+      "title": "百家姓050-050_第50姓_慕连茹习 宦艾鱼",
+      "full_path": "蒙学经典/M2百家姓/百家姓050-050_第50姓_慕连茹习 宦艾鱼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 330200,
+      "char_count": 1642,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "百家姓051-051_第51姓_向古易慎 戈廖庾",
+      "title": "百家姓051-051_第51姓_向古易慎 戈廖庾",
+      "full_path": "蒙学经典/M2百家姓/百家姓051-051_第51姓_向古易慎 戈廖庾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 431600,
+      "char_count": 2149,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "百家姓052-052_第52姓_暨居衡步 都耿满",
+      "title": "百家姓052-052_第52姓_暨居衡步 都耿满",
+      "full_path": "蒙学经典/M2百家姓/百家姓052-052_第52姓_暨居衡步 都耿满",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 321400,
+      "char_count": 1598,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "百家姓053-053_第53姓_匡国文寇 广禄阙",
+      "title": "百家姓053-053_第53姓_匡国文寇 广禄阙",
+      "full_path": "蒙学经典/M2百家姓/百家姓053-053_第53姓_匡国文寇 广禄阙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 326000,
+      "char_count": 1621,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "百家姓054-054_第54姓_欧殳沃利 蔚越夔",
+      "title": "百家姓054-054_第54姓_欧殳沃利 蔚越夔",
+      "full_path": "蒙学经典/M2百家姓/百家姓054-054_第54姓_欧殳沃利 蔚越夔",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 410000,
+      "char_count": 2041,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "百家姓055-055_第55姓_师巩厍聂 晁勾敖",
+      "title": "百家姓055-055_第55姓_师巩厍聂 晁勾敖",
+      "full_path": "蒙学经典/M2百家姓/百家姓055-055_第55姓_师巩厍聂 晁勾敖",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 410600,
+      "char_count": 2044,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "百家姓056-056_第56姓_冷訾辛阚 那简饶",
+      "title": "百家姓056-056_第56姓_冷訾辛阚 那简饶",
+      "full_path": "蒙学经典/M2百家姓/百家姓056-056_第56姓_冷訾辛阚 那简饶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 445400,
+      "char_count": 2218,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "百家姓057-057_第57姓_曾毋沙乜 养鞠须",
+      "title": "百家姓057-057_第57姓_曾毋沙乜 养鞠须",
+      "full_path": "蒙学经典/M2百家姓/百家姓057-057_第57姓_曾毋沙乜 养鞠须",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 353600,
+      "char_count": 1759,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "百家姓058-058_第58姓_巢关蒯相 查后荆",
+      "title": "百家姓058-058_第58姓_巢关蒯相 查后荆",
+      "full_path": "蒙学经典/M2百家姓/百家姓058-058_第58姓_巢关蒯相 查后荆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 317200,
+      "char_count": 1577,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "百家姓059-059_第59姓_游竺权逯 盖益桓",
+      "title": "百家姓059-059_第59姓_游竺权逯 盖益桓",
+      "full_path": "蒙学经典/M2百家姓/百家姓059-059_第59姓_游竺权逯 盖益桓",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 331200,
+      "char_count": 1647,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "百家姓060-060_第60姓_万俟司马 上官欧",
+      "title": "百家姓060-060_第60姓_万俟司马 上官欧",
+      "full_path": "蒙学经典/M2百家姓/百家姓060-060_第60姓_万俟司马 上官欧",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 180600,
+      "char_count": 898,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "百家姓061-061_第61姓_夏侯诸葛 闻人东",
+      "title": "百家姓061-061_第61姓_夏侯诸葛 闻人东",
+      "full_path": "蒙学经典/M2百家姓/百家姓061-061_第61姓_夏侯诸葛 闻人东",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 168800,
+      "char_count": 839,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "百家姓062-062_第62姓_赫连皇甫 尉迟公",
+      "title": "百家姓062-062_第62姓_赫连皇甫 尉迟公",
+      "full_path": "蒙学经典/M2百家姓/百家姓062-062_第62姓_赫连皇甫 尉迟公",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 160000,
+      "char_count": 795,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "百家姓063-063_第63姓_澹台公冶 宗政濮",
+      "title": "百家姓063-063_第63姓_澹台公冶 宗政濮",
+      "full_path": "蒙学经典/M2百家姓/百家姓063-063_第63姓_澹台公冶 宗政濮",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 205800,
+      "char_count": 1024,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "百家姓064-064_第64姓_淳于单于 太叔申",
+      "title": "百家姓064-064_第64姓_淳于单于 太叔申",
+      "full_path": "蒙学经典/M2百家姓/百家姓064-064_第64姓_淳于单于 太叔申",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 201400,
+      "char_count": 1002,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "百家姓065-065_第65姓_公孙仲孙 轩辕令",
+      "title": "百家姓065-065_第65姓_公孙仲孙 轩辕令",
+      "full_path": "蒙学经典/M2百家姓/百家姓065-065_第65姓_公孙仲孙 轩辕令",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 196000,
+      "char_count": 975,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "百家姓066-066_第66姓_钟离宇文 长孙慕",
+      "title": "百家姓066-066_第66姓_钟离宇文 长孙慕",
+      "full_path": "蒙学经典/M2百家姓/百家姓066-066_第66姓_钟离宇文 长孙慕",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 182400,
+      "char_count": 907,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "百家姓067-067_第67姓_鲜于闾丘 司徒司",
+      "title": "百家姓067-067_第67姓_鲜于闾丘 司徒司",
+      "full_path": "蒙学经典/M2百家姓/百家姓067-067_第67姓_鲜于闾丘 司徒司",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 226800,
+      "char_count": 1129,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "百家姓068-068_第68姓_丌官司寇 仉督子",
+      "title": "百家姓068-068_第68姓_丌官司寇 仉督子",
+      "full_path": "蒙学经典/M2百家姓/百家姓068-068_第68姓_丌官司寇 仉督子",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 234800,
+      "char_count": 1168,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "百家姓069-069_第69姓_颛孙端木 巫马公",
+      "title": "百家姓069-069_第69姓_颛孙端木 巫马公",
+      "full_path": "蒙学经典/M2百家姓/百家姓069-069_第69姓_颛孙端木 巫马公",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 169800,
+      "char_count": 844,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "百家姓070-070_第70姓_漆雕乐正 壤驷公",
+      "title": "百家姓070-070_第70姓_漆雕乐正 壤驷公",
+      "full_path": "蒙学经典/M2百家姓/百家姓070-070_第70姓_漆雕乐正 壤驷公",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 269200,
+      "char_count": 1341,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "百家姓071-071_第71姓_拓跋夹谷 宰父谷",
+      "title": "百家姓071-071_第71姓_拓跋夹谷 宰父谷",
+      "full_path": "蒙学经典/M2百家姓/百家姓071-071_第71姓_拓跋夹谷 宰父谷",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 212800,
+      "char_count": 1059,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "百家姓072-072_第72姓_晋楚闫法 汝鄢涂",
+      "title": "百家姓072-072_第72姓_晋楚闫法 汝鄢涂",
+      "full_path": "蒙学经典/M2百家姓/百家姓072-072_第72姓_晋楚闫法 汝鄢涂",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 422800,
+      "char_count": 2105,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

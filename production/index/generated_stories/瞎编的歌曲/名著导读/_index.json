@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "multi_level",
+  "display_as": "nested_category",
+  "path": "瞎编的歌曲/名著导读",
+  "name": "名著导读",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/名著导读.webp",
+    "cover_level": "category"
+  },
+  "sub_category_count": 2,
+  "sub_categories": [
+    {
+      "id": "国内名著",
+      "name": "国内名著",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 208,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/名著导读.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "海外名著",
+      "name": "海外名著",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 258,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/名著导读.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

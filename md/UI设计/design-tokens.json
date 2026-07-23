@@ -1,0 +1,187 @@
+{
+  "version": "4.0",
+  "updated_at": "2026-07-22",
+  "description": "酷酷儿童故事 UI 设计令牌 - 定稿 v4.0（典藏绘本·日夜双主题），与 酷酷UI_融合版_v4.html 的 :root 保持一致（单一数据源）",
+  
+  "colors": {
+    "primary": "#FF8C42",
+    "primaryDark": "#F2751F",
+    "primarySoft": "#FFF3E7",
+    
+    "blue": "#3FC5BC",
+    "green": "#7FC96A",
+    "pink": "#FF8E9E",
+    "purple": "#B8A9E8",
+    "gold": "#FFC93C",
+    
+    "background": "#FFF9F0",
+    "card": "#FFFFFF",
+    
+    "textPrimary": "#2D3142",
+    "textSecondary": "#8B8D9E",
+    "border": "#F0E6D8",
+    
+    "stageUnlearned": "#D1D5DB",
+    "stageLearned": "#FFD93D",
+    "stageTested": "#6BCBFF",
+    "stageMastered": "#7ED957"
+  },
+
+  "nightTheme": {
+    "_note": "v4.0 新增：绘本夜灯（睡前模式 N-01 / 故事灯播放器 PL-01）",
+    "background": "#171D33",
+    "backgroundDeep": "#141B31",
+    "backgroundLight": "#232F55",
+    "text": "#E8ECFF",
+    "textSecondary": "#8A93B8",
+    "lamp": "#FFC98F",
+    "lampGold": "#FFD873",
+    "ctaGold": "#FFC93C",
+    "ctaGoldText": "#5A3D00",
+    "glassCard": "rgba(255,255,255,.07)",
+    "glassBorder": "rgba(255,255,255,.1)"
+  },
+
+  "goldPremium": {
+    "_note": "v4.0 新增：鎏金故事书匣（会员中心 A-03）",
+    "background": "#221E17",
+    "backgroundLight": "#37301F",
+    "text": "#F5E6C8",
+    "gold": "#FFE9A8",
+    "goldDeep": "#FFC93C",
+    "goldText": "#5A3D00"
+  },
+  
+  "friendLevels": {
+    "_note": "四级朋友养成话术（展示层唯一口径，见 13-陪伴养成系统设计）；stageXxx 为历史技术 token 名，与后端 current_stage 对齐，不改",
+    "stageUnlearned": { "label": "未遇见", "level": 0, "color": "#D1D5DB" },
+    "stageLearned": { "label": "已相识", "level": 1, "color": "#FFD93D" },
+    "stageTested": { "label": "好朋友", "level": 2, "color": "#6BCBFF" },
+    "stageMastered": { "label": "好伙伴", "level": 3, "color": "#7ED957" }
+  },
+  
+  "typography": {
+    "serif": {
+      "fontFamily": "\"Songti SC\",\"STSong\",\"Noto Serif SC\",\"SimSun\",serif",
+      "letterSpacing": "2px ~ 3px",
+      "usage": "v4.0 新增：故事名、页面主标题、绘本典藏感标题（Hero/播放器/书匣/收集册）"
+    },
+    "h1": {
+      "fontSize": "36px",
+      "fontWeight": "Bold",
+      "usage": "空状态、引导页大标题"
+    },
+    "h2": {
+      "fontSize": "28px",
+      "fontWeight": "Bold",
+      "usage": "页面标题"
+    },
+    "h3": {
+      "fontSize": "24px",
+      "fontWeight": "Regular",
+      "usage": "卡片标题、故事名、歌曲名"
+    },
+    "body": {
+      "fontSize": "20px",
+      "fontWeight": "Regular",
+      "usage": "描述文字、分类名称"
+    },
+    "caption": {
+      "fontSize": "16px",
+      "fontWeight": "Regular",
+      "usage": "标签、时间、数量、提示"
+    }
+  },
+  
+  "spacing": {
+    "xs": "8px",
+    "sm": "16px",
+    "md": "24px",
+    "lg": "32px",
+    "xl": "48px"
+  },
+  
+  "radius": {
+    "small": "8px",
+    "medium": "16px",
+    "card": "18px",
+    "large": "20px",
+    "pill": "22px",
+    "full": "9999px"
+  },
+  
+  "shadows": {
+    "card": "0 4px 14px rgba(232, 201, 160, 0.35)",
+    "button": "0 4px 10px rgba(255, 140, 66, 0.35)",
+    "floating": "0 8px 20px rgba(45, 49, 66, 0.14)"
+  },
+  
+  "buttons": {
+    "primary": {
+      "background": "#FF8C42",
+      "textColor": "#FFFFFF",
+      "height": "48px",
+      "radius": "24px"
+    },
+    "secondary": {
+      "background": "#FFF3E0",
+      "textColor": "#FF8C42",
+      "height": "48px",
+      "radius": "24px"
+    },
+    "ghost": {
+      "background": "transparent",
+      "textColor": "#FF8C42",
+      "height": "48px",
+      "radius": "24px"
+    },
+    "icon": {
+      "background": "#FFFFFF",
+      "textColor": "#2D3142",
+      "size": "48px",
+      "radius": "50%"
+    },
+    "play": {
+      "background": "#FF8C42",
+      "textColor": "#FFFFFF",
+      "size": "80px",
+      "radius": "50%"
+    }
+  },
+  
+  "breakpoints": {
+    "iphoneSE": "375px",
+    "iphone14Pro": "393px",
+    "iphone14ProMax": "430px",
+    "ipadMini": "768px",
+    "ipadAir": "820px",
+    "ipadPro": "1024px"
+  },
+  
+  "accessibility": {
+    "minFontSize": "14px",
+    "bodyFontSize": "18px",
+    "minContrastRatio": "4.5:1",
+    "minTouchTarget": "44pt",
+    "buttonSpacing": "8px"
+  },
+
+  "assets": {
+    "_note": "v4.0 新增：真实资产管线，禁止 emoji 占位；路径相对项目根",
+    "storyCover": "production/illustrations/covers/generated/{学科}/{分类}/{故事}/{故事}.webp (800×800)",
+    "subjectCover": "production/illustrations/covers/generated/{学科}/{学科}.webp (800×800)",
+    "songCategoryCover": "production/illustrations/covers/generated/瞎编的歌曲/{分类}/{分类}.webp (800×800)",
+    "teachingScene": "production/illustrations/scence/{场景}/{场景}_{n}.webp (1920×1080 16:9, PL-03 左侧场景区 65%)",
+    "characterSprite": "production/illustrations/characters_transparent/{角色}/{pose}/{emotion}/{角色}_{pose}_{emotion}_{nn}.webp (1024×1024 透明底)"
+  },
+
+  "signatureComponents": {
+    "_note": "v4.0 新增标志组件",
+    "storyLampPlayer": "PL-01：圆形封面呼吸光晕 3.2s + 封面高斯模糊铺底 + 深夜蓝玻璃控件",
+    "friendBadgeWall": "G-01：四级朋友徽章墙，圆环=朋友色，未遇见=虚线剪影(零压力收集)",
+    "gildedBookBox": "A-03：鎏金故事书匣，套餐=书匣（月¥9.9/季¥26/年¥88）",
+    "miniPlayerBar": "GL-02：玻璃拟态迷你播放栏，高 62px，叠加 Tab 栏上方",
+    "parentFrostCard": "C-01：家长区雾面轻奢磨砂卡，与儿童区童趣分层",
+    "teachingPlayer": "PL-03：横屏三区——左场景+立绘 65% / 右字词面板 35%(衬线大字) / 底部字幕条 40px(生字金色高亮)+控制栏 54px"
+  }
+}

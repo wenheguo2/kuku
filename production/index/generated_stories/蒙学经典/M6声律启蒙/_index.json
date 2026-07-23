@@ -1,0 +1,1141 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "蒙学经典/M6声律启蒙",
+  "work_name": "M6声律启蒙",
+  "cover": {
+    "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 75,
+  "total_duration_ms": 29267800,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "声律启蒙001-001_第1段_云对雨雪对风",
+      "title": "声律启蒙001-001_第1段_云对雨雪对风",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙001-001_第1段_云对雨雪对风",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 358600,
+      "char_count": 1786,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "声律启蒙002-002_第2段_沿对革异对同",
+      "title": "声律启蒙002-002_第2段_沿对革异对同",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙002-002_第2段_沿对革异对同",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 389400,
+      "char_count": 1940,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "声律启蒙003-003_第3段_贫对富塞对通",
+      "title": "声律启蒙003-003_第3段_贫对富塞对通",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙003-003_第3段_贫对富塞对通",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 344000,
+      "char_count": 1713,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "声律启蒙004-004_第4段_春对夏秋对冬",
+      "title": "声律启蒙004-004_第4段_春对夏秋对冬",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙004-004_第4段_春对夏秋对冬",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 328800,
+      "char_count": 1637,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "声律启蒙005-005_第5段_明对暗淡对浓",
+      "title": "声律启蒙005-005_第5段_明对暗淡对浓",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙005-005_第5段_明对暗淡对浓",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 296800,
+      "char_count": 1477,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "声律启蒙006-006_第6段_仁对义让对恭",
+      "title": "声律启蒙006-006_第6段_仁对义让对恭",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙006-006_第6段_仁对义让对恭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 317200,
+      "char_count": 1579,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "声律启蒙007-007_第7段_楼对阁户对窗",
+      "title": "声律启蒙007-007_第7段_楼对阁户对窗",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙007-007_第7段_楼对阁户对窗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 311800,
+      "char_count": 1552,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "声律启蒙008-008_第8段_旌对旆盖对幢",
+      "title": "声律启蒙008-008_第8段_旌对旆盖对幢",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙008-008_第8段_旌对旆盖对幢",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 362600,
+      "char_count": 1806,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "声律启蒙009-009_第9段_铢对两只对双",
+      "title": "声律启蒙009-009_第9段_铢对两只对双",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙009-009_第9段_铢对两只对双",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 364000,
+      "char_count": 1813,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "声律启蒙010-010_第10段_茶对酒赋对诗",
+      "title": "声律启蒙010-010_第10段_茶对酒赋对诗",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙010-010_第10段_茶对酒赋对诗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 534000,
+      "char_count": 2659,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "声律启蒙011-011_第11段_行对止速对迟",
+      "title": "声律启蒙011-011_第11段_行对止速对迟",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙011-011_第11段_行对止速对迟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 412000,
+      "char_count": 2053,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "声律启蒙012-012_第12段_戈对甲鼓对旗",
+      "title": "声律启蒙012-012_第12段_戈对甲鼓对旗",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙012-012_第12段_戈对甲鼓对旗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 391800,
+      "char_count": 1952,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "声律启蒙013-013_第13段_来对往密对稀",
+      "title": "声律启蒙013-013_第13段_来对往密对稀",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙013-013_第13段_来对往密对稀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 368000,
+      "char_count": 1833,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "声律启蒙014-014_第14段_宽对猛是对非",
+      "title": "声律启蒙014-014_第14段_宽对猛是对非",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙014-014_第14段_宽对猛是对非",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 595400,
+      "char_count": 2968,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "声律启蒙015-015_第15段_声对色饱对饥",
+      "title": "声律启蒙015-015_第15段_声对色饱对饥",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙015-015_第15段_声对色饱对饥",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 433400,
+      "char_count": 2159,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "声律启蒙016-016_第16段_无对有实对虚",
+      "title": "声律启蒙016-016_第16段_无对有实对虚",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙016-016_第16段_无对有实对虚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 324000,
+      "char_count": 1613,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "声律启蒙017-017_第17段_终对始疾对徐",
+      "title": "声律启蒙017-017_第17段_终对始疾对徐",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙017-017_第17段_终对始疾对徐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 350400,
+      "char_count": 1745,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "声律启蒙018-018_第18段_麟对凤鳖对鱼",
+      "title": "声律启蒙018-018_第18段_麟对凤鳖对鱼",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙018-018_第18段_麟对凤鳖对鱼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 387800,
+      "char_count": 1932,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "声律启蒙019-019_第19段_金对玉宝对珠",
+      "title": "声律启蒙019-019_第19段_金对玉宝对珠",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙019-019_第19段_金对玉宝对珠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 359000,
+      "char_count": 1788,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "声律启蒙020-020_第20段_贤对圣智对愚",
+      "title": "声律启蒙020-020_第20段_贤对圣智对愚",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙020-020_第20段_贤对圣智对愚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 375600,
+      "char_count": 1871,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "声律启蒙021-021_第21段_秦对赵越对吴",
+      "title": "声律启蒙021-021_第21段_秦对赵越对吴",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙021-021_第21段_秦对赵越对吴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 451400,
+      "char_count": 2250,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "声律启蒙022-022_第22段_岩对岫涧对溪",
+      "title": "声律启蒙022-022_第22段_岩对岫涧对溪",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙022-022_第22段_岩对岫涧对溪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 394600,
+      "char_count": 1966,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "声律启蒙023-023_第23段_云对雨水对泥",
+      "title": "声律启蒙023-023_第23段_云对雨水对泥",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙023-023_第23段_云对雨水对泥",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 334000,
+      "char_count": 1664,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "声律启蒙024-024_第24段_熊对虎象对犀",
+      "title": "声律启蒙024-024_第24段_熊对虎象对犀",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙024-024_第24段_熊对虎象对犀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 311000,
+      "char_count": 1548,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "声律启蒙025-025_第25段_河对海汉对淮",
+      "title": "声律启蒙025-025_第25段_河对海汉对淮",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙025-025_第25段_河对海汉对淮",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 329600,
+      "char_count": 1641,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "声律启蒙026-026_第26段_丰对俭等对差",
+      "title": "声律启蒙026-026_第26段_丰对俭等对差",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙026-026_第26段_丰对俭等对差",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 348600,
+      "char_count": 1736,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "声律启蒙027-027_第27段_城对市巷对街",
+      "title": "声律启蒙027-027_第27段_城对市巷对街",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙027-027_第27段_城对市巷对街",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 360200,
+      "char_count": 1794,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "声律启蒙028-028_第28段_增对损闭对开",
+      "title": "声律启蒙028-028_第28段_增对损闭对开",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙028-028_第28段_增对损闭对开",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 377800,
+      "char_count": 1882,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "声律启蒙029-029_第29段_沙对水火对灰",
+      "title": "声律启蒙029-029_第29段_沙对水火对灰",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙029-029_第29段_沙对水火对灰",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 582800,
+      "char_count": 2901,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "声律启蒙030-030_第30段_休对咎福对灾",
+      "title": "声律启蒙030-030_第30段_休对咎福对灾",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙030-030_第30段_休对咎福对灾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 254200,
+      "char_count": 1264,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "声律启蒙031-031_第31段_邪对正假对真",
+      "title": "声律启蒙031-031_第31段_邪对正假对真",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙031-031_第31段_邪对正假对真",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 357800,
+      "char_count": 1781,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "声律启蒙032-032_第32段_哀对乐富对贫",
+      "title": "声律启蒙032-032_第32段_哀对乐富对贫",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙032-032_第32段_哀对乐富对贫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 334800,
+      "char_count": 1667,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "声律启蒙033-033_第33段_香对火炭对薪",
+      "title": "声律启蒙033-033_第33段_香对火炭对薪",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙033-033_第33段_香对火炭对薪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 374800,
+      "char_count": 1866,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "声律启蒙034-034_第34段_家对国武对文",
+      "title": "声律启蒙034-034_第34段_家对国武对文",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙034-034_第34段_家对国武对文",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 423600,
+      "char_count": 2111,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "声律启蒙035-035_第35段_欹对正见对闻",
+      "title": "声律启蒙035-035_第35段_欹对正见对闻",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙035-035_第35段_欹对正见对闻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 405600,
+      "char_count": 2021,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "声律启蒙036-036_第36段_尧对舜夏对殷",
+      "title": "声律启蒙036-036_第36段_尧对舜夏对殷",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙036-036_第36段_尧对舜夏对殷",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 366200,
+      "char_count": 1824,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "声律启蒙037-037_第37段_幽对显寂对喧",
+      "title": "声律启蒙037-037_第37段_幽对显寂对喧",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙037-037_第37段_幽对显寂对喧",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 437600,
+      "char_count": 2181,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "声律启蒙038-038_第38段_儿对女子对孙",
+      "title": "声律启蒙038-038_第38段_儿对女子对孙",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙038-038_第38段_儿对女子对孙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 446400,
+      "char_count": 2225,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "声律启蒙039-039_第39段_歌对舞德对恩",
+      "title": "声律启蒙039-039_第39段_歌对舞德对恩",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙039-039_第39段_歌对舞德对恩",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 387000,
+      "char_count": 1928,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "声律启蒙040-040_第40段_多对少易对难",
+      "title": "声律启蒙040-040_第40段_多对少易对难",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙040-040_第40段_多对少易对难",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 435200,
+      "char_count": 2167,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "声律启蒙041-041_第41段_寒对暑湿对干",
+      "title": "声律启蒙041-041_第41段_寒对暑湿对干",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙041-041_第41段_寒对暑湿对干",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 335800,
+      "char_count": 1672,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "声律启蒙042-042_第42段_横对竖窄对宽",
+      "title": "声律启蒙042-042_第42段_横对竖窄对宽",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙042-042_第42段_横对竖窄对宽",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 474200,
+      "char_count": 2364,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "声律启蒙043-043_第43段_兴对废附对攀",
+      "title": "声律启蒙043-043_第43段_兴对废附对攀",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙043-043_第43段_兴对废附对攀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 534200,
+      "char_count": 2662,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "声律启蒙044-044_第44段_犹对尚侈对悭",
+      "title": "声律启蒙044-044_第44段_犹对尚侈对悭",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙044-044_第44段_犹对尚侈对悭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 477600,
+      "char_count": 2381,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "声律启蒙045-045_第45段_姚对宋柳对颜",
+      "title": "声律启蒙045-045_第45段_姚对宋柳对颜",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙045-045_第45段_姚对宋柳对颜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 331600,
+      "char_count": 1651,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "声律启蒙046-046_第46段_晴对雨地对天",
+      "title": "声律启蒙046-046_第46段_晴对雨地对天",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙046-046_第46段_晴对雨地对天",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 474400,
+      "char_count": 2365,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "声律启蒙047-047_第47段_前对后后对先",
+      "title": "声律启蒙047-047_第47段_前对后后对先",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙047-047_第47段_前对后后对先",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 338000,
+      "char_count": 1682,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "声律启蒙048-048_第48段_离对坎震对乾",
+      "title": "声律启蒙048-048_第48段_离对坎震对乾",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙048-048_第48段_离对坎震对乾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 486600,
+      "char_count": 2423,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "声律启蒙049-049_第49段_恭对慢吝对骄",
+      "title": "声律启蒙049-049_第49段_恭对慢吝对骄",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙049-049_第49段_恭对慢吝对骄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 484400,
+      "char_count": 2408,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "声律启蒙050-050_第50段_开对落暗对昭",
+      "title": "声律启蒙050-050_第50段_开对落暗对昭",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙050-050_第50段_开对落暗对昭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 455800,
+      "char_count": 2272,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "声律启蒙051-051_第51段_班对马董对晁",
+      "title": "声律启蒙051-051_第51段_班对马董对晁",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙051-051_第51段_班对马董对晁",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 367800,
+      "char_count": 1832,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "声律启蒙052-052_第52段_风对雅象对爻",
+      "title": "声律启蒙052-052_第52段_风对雅象对爻",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙052-052_第52段_风对雅象对爻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 376600,
+      "char_count": 1875,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "声律启蒙053-053_第53段_蛇对虺蜃对蛟",
+      "title": "声律启蒙053-053_第53段_蛇对虺蜃对蛟",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙053-053_第53段_蛇对虺蜃对蛟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 367400,
+      "char_count": 1830,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "声律启蒙054-054_第54段_牛对马犬对猫",
+      "title": "声律启蒙054-054_第54段_牛对马犬对猫",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙054-054_第54段_牛对马犬对猫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 357800,
+      "char_count": 1783,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "声律启蒙055-055_第55段_琴对瑟剑对刀",
+      "title": "声律启蒙055-055_第55段_琴对瑟剑对刀",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙055-055_第55段_琴对瑟剑对刀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 390400,
+      "char_count": 1945,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "声律启蒙056-056_第56段_刑对赏贬对褒",
+      "title": "声律启蒙056-056_第56段_刑对赏贬对褒",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙056-056_第56段_刑对赏贬对褒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 459800,
+      "char_count": 2289,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "声律启蒙057-057_第57段_瓜对果李对桃",
+      "title": "声律启蒙057-057_第57段_瓜对果李对桃",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙057-057_第57段_瓜对果李对桃",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 351400,
+      "char_count": 1750,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "声律启蒙058-058_第58段_山对水海对河",
+      "title": "声律启蒙058-058_第58段_山对水海对河",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙058-058_第58段_山对水海对河",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 365400,
+      "char_count": 1820,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "声律启蒙059-059_第59段_繁对简少对多",
+      "title": "声律启蒙059-059_第59段_繁对简少对多",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙059-059_第59段_繁对简少对多",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 383200,
+      "char_count": 1909,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "声律启蒙060-060_第60段_霜对露浪对波",
+      "title": "声律启蒙060-060_第60段_霜对露浪对波",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙060-060_第60段_霜对露浪对波",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 488800,
+      "char_count": 2437,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "声律启蒙061-061_第61段_松对柏缕对麻",
+      "title": "声律启蒙061-061_第61段_松对柏缕对麻",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙061-061_第61段_松对柏缕对麻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 409600,
+      "char_count": 2041,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "声律启蒙062-062_第62段_优对劣凸对凹",
+      "title": "声律启蒙062-062_第62段_优对劣凸对凹",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙062-062_第62段_优对劣凸对凹",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 319200,
+      "char_count": 1589,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "声律启蒙063-063_第63段_吴对楚蜀对巴",
+      "title": "声律启蒙063-063_第63段_吴对楚蜀对巴",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙063-063_第63段_吴对楚蜀对巴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 583800,
+      "char_count": 2906,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "声律启蒙064-064_第64段_高对下短对长",
+      "title": "声律启蒙064-064_第64段_高对下短对长",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙064-064_第64段_高对下短对长",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 395600,
+      "char_count": 1971,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "声律启蒙065-065_第65段_尧对舜禹对汤",
+      "title": "声律启蒙065-065_第65段_尧对舜禹对汤",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙065-065_第65段_尧对舜禹对汤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 286600,
+      "char_count": 1426,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "声律启蒙066-066_第66段_荀对孟老对庄",
+      "title": "声律启蒙066-066_第66段_荀对孟老对庄",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙066-066_第66段_荀对孟老对庄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 396200,
+      "char_count": 1974,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "声律启蒙067-067_第67段_深对浅重对轻",
+      "title": "声律启蒙067-067_第67段_深对浅重对轻",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙067-067_第67段_深对浅重对轻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 381400,
+      "char_count": 1900,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "声律启蒙068-068_第68段_虚对实送对迎",
+      "title": "声律启蒙068-068_第68段_虚对实送对迎",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙068-068_第68段_虚对实送对迎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 266000,
+      "char_count": 1323,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "声律启蒙069-069_第69段_渔对猎钓对耕",
+      "title": "声律启蒙069-069_第69段_渔对猎钓对耕",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙069-069_第69段_渔对猎钓对耕",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 443200,
+      "char_count": 2209,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "声律启蒙070-070_第70段_红对紫白对青",
+      "title": "声律启蒙070-070_第70段_红对紫白对青",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙070-070_第70段_红对紫白对青",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 320400,
+      "char_count": 1595,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "声律启蒙071-071_第71段_行对坐醉对醒",
+      "title": "声律启蒙071-071_第71段_行对坐醉对醒",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙071-071_第71段_行对坐醉对醒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 416800,
+      "char_count": 2077,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "声律启蒙072-072_第72段_书对史传对经",
+      "title": "声律启蒙072-072_第72段_书对史传对经",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙072-072_第72段_书对史传对经",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 361400,
+      "char_count": 1800,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "声律启蒙073-073_第73段_新对旧降对升",
+      "title": "声律启蒙073-073_第73段_新对旧降对升",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙073-073_第73段_新对旧降对升",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 315000,
+      "char_count": 1568,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "声律启蒙074-074_第74段_儒对士佛对僧",
+      "title": "声律启蒙074-074_第74段_儒对士佛对僧",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙074-074_第74段_儒对士佛对僧",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 429400,
+      "char_count": 2139,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "声律启蒙075-075_第75段_规对矩墨对绳",
+      "title": "声律启蒙075-075_第75段_规对矩墨对绳",
+      "full_path": "蒙学经典/M6声律启蒙/声律启蒙075-075_第75段_规对矩墨对绳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 324200,
+      "char_count": 1614,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

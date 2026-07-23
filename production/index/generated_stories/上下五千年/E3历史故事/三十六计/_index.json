@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E3历史故事/三十六计",
+  "work_name": "三十六计",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 36,
+  "total_duration_ms": 36065179,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第01章 瞒天过海",
+      "title": "第01章 瞒天过海",
+      "full_path": "上下五千年/E3历史故事/三十六计/第01章 瞒天过海",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1303651,
+      "char_count": 4885,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第02章 围魏救赵",
+      "title": "第02章 围魏救赵",
+      "full_path": "上下五千年/E3历史故事/三十六计/第02章 围魏救赵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 974948,
+      "char_count": 3774,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第03章 借刀杀人",
+      "title": "第03章 借刀杀人",
+      "full_path": "上下五千年/E3历史故事/三十六计/第03章 借刀杀人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 966431,
+      "char_count": 3738,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第04章 以逸待劳",
+      "title": "第04章 以逸待劳",
+      "full_path": "上下五千年/E3历史故事/三十六计/第04章 以逸待劳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 815559,
+      "char_count": 3158,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第05章 趁火打劫",
+      "title": "第05章 趁火打劫",
+      "full_path": "上下五千年/E3历史故事/三十六计/第05章 趁火打劫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 893159,
+      "char_count": 3480,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第06章 声东击西",
+      "title": "第06章 声东击西",
+      "full_path": "上下五千年/E3历史故事/三十六计/第06章 声东击西",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 771836,
+      "char_count": 2767,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第07章 无中生有",
+      "title": "第07章 无中生有",
+      "full_path": "上下五千年/E3历史故事/三十六计/第07章 无中生有",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1034325,
+      "char_count": 3706,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第08章 暗度陈仓",
+      "title": "第08章 暗度陈仓",
+      "full_path": "上下五千年/E3历史故事/三十六计/第08章 暗度陈仓",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 879524,
+      "char_count": 3361,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第09章 隔岸观火",
+      "title": "第09章 隔岸观火",
+      "full_path": "上下五千年/E3历史故事/三十六计/第09章 隔岸观火",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 958020,
+      "char_count": 3678,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第10章 笑里藏刀",
+      "title": "第10章 笑里藏刀",
+      "full_path": "上下五千年/E3历史故事/三十六计/第10章 笑里藏刀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1589945,
+      "char_count": 6163,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第11章 李代桃僵",
+      "title": "第11章 李代桃僵",
+      "full_path": "上下五千年/E3历史故事/三十六计/第11章 李代桃僵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 743267,
+      "char_count": 2858,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第12章 顺手牵羊",
+      "title": "第12章 顺手牵羊",
+      "full_path": "上下五千年/E3历史故事/三十六计/第12章 顺手牵羊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 785268,
+      "char_count": 3017,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第13章 打草惊蛇",
+      "title": "第13章 打草惊蛇",
+      "full_path": "上下五千年/E3历史故事/三十六计/第13章 打草惊蛇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 788558,
+      "char_count": 3041,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第14章 借尸还魂",
+      "title": "第14章 借尸还魂",
+      "full_path": "上下五千年/E3历史故事/三十六计/第14章 借尸还魂",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 731482,
+      "char_count": 2823,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第15章 调虎离山",
+      "title": "第15章 调虎离山",
+      "full_path": "上下五千年/E3历史故事/三十六计/第15章 调虎离山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1034761,
+      "char_count": 4022,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "第16章 欲擒故纵",
+      "title": "第16章 欲擒故纵",
+      "full_path": "上下五千年/E3历史故事/三十六计/第16章 欲擒故纵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 825969,
+      "char_count": 3209,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "第17章 抛砖引玉",
+      "title": "第17章 抛砖引玉",
+      "full_path": "上下五千年/E3历史故事/三十六计/第17章 抛砖引玉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 914197,
+      "char_count": 3484,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "第18章 擒贼擒王",
+      "title": "第18章 擒贼擒王",
+      "full_path": "上下五千年/E3历史故事/三十六计/第18章 擒贼擒王",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1005047,
+      "char_count": 3831,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "第19章 釜底抽薪",
+      "title": "第19章 釜底抽薪",
+      "full_path": "上下五千年/E3历史故事/三十六计/第19章 釜底抽薪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1135840,
+      "char_count": 4407,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "第20章 浑水摸鱼",
+      "title": "第20章 浑水摸鱼",
+      "full_path": "上下五千年/E3历史故事/三十六计/第20章 浑水摸鱼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1445340,
+      "char_count": 5640,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "第21章 金蝉脱壳",
+      "title": "第21章 金蝉脱壳",
+      "full_path": "上下五千年/E3历史故事/三十六计/第21章 金蝉脱壳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 946235,
+      "char_count": 3671,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "第22章 关门捉贼",
+      "title": "第22章 关门捉贼",
+      "full_path": "上下五千年/E3历史故事/三十六计/第22章 关门捉贼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 976302,
+      "char_count": 3677,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "第23章 远交近攻",
+      "title": "第23章 远交近攻",
+      "full_path": "上下五千年/E3历史故事/三十六计/第23章 远交近攻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1206372,
+      "char_count": 4660,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "第24章 假道伐虢",
+      "title": "第24章 假道伐虢",
+      "full_path": "上下五千年/E3历史故事/三十六计/第24章 假道伐虢",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1117305,
+      "char_count": 4264,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "第25章 偷梁换柱",
+      "title": "第25章 偷梁换柱",
+      "full_path": "上下五千年/E3历史故事/三十六计/第25章 偷梁换柱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 953663,
+      "char_count": 3702,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "第26章 指桑骂槐",
+      "title": "第26章 指桑骂槐",
+      "full_path": "上下五千年/E3历史故事/三十六计/第26章 指桑骂槐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1078271,
+      "char_count": 4128,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "第27章 假痴不癫",
+      "title": "第27章 假痴不癫",
+      "full_path": "上下五千年/E3历史故事/三十六计/第27章 假痴不癫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 825449,
+      "char_count": 3205,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "第28章 上屋抽梯",
+      "title": "第28章 上屋抽梯",
+      "full_path": "上下五千年/E3历史故事/三十六计/第28章 上屋抽梯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 872876,
+      "char_count": 3377,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "第29章 树上开花",
+      "title": "第29章 树上开花",
+      "full_path": "上下五千年/E3历史故事/三十六计/第29章 树上开花",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 911843,
+      "char_count": 3519,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "第30章 反客为主",
+      "title": "第30章 反客为主",
+      "full_path": "上下五千年/E3历史故事/三十六计/第30章 反客为主",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1108839,
+      "char_count": 4287,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "第31章 美人计",
+      "title": "第31章 美人计",
+      "full_path": "上下五千年/E3历史故事/三十六计/第31章 美人计",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1252574,
+      "char_count": 4854,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "第32章 空城计",
+      "title": "第32章 空城计",
+      "full_path": "上下五千年/E3历史故事/三十六计/第32章 空城计",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 865876,
+      "char_count": 3325,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "第33章 反间计",
+      "title": "第33章 反间计",
+      "full_path": "上下五千年/E3历史故事/三十六计/第33章 反间计",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 877450,
+      "char_count": 3396,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "第34章 苦肉计",
+      "title": "第34章 苦肉计",
+      "full_path": "上下五千年/E3历史故事/三十六计/第34章 苦肉计",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1028615,
+      "char_count": 3657,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "第35章 连环计",
+      "title": "第35章 连环计",
+      "full_path": "上下五千年/E3历史故事/三十六计/第35章 连环计",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1414121,
+      "char_count": 5516,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "第36章 走为上计",
+      "title": "第36章 走为上计",
+      "full_path": "上下五千年/E3历史故事/三十六计/第36章 走为上计",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1032261,
+      "char_count": 3708,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

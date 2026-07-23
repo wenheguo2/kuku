@@ -1,0 +1,886 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E3历史故事/杨家将",
+  "work_name": "杨家将",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 58,
+  "total_duration_ms": 55570351,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第001回 北汉主屏逐忠臣 呼延赞激烈报仇",
+      "title": "第001回 北汉主屏逐忠臣 呼延赞激烈报仇",
+      "full_path": "上下五千年/E3历史故事/杨家将/第001回 北汉主屏逐忠臣 呼延赞激烈报仇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1165082,
+      "char_count": 4505,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第002回 李建忠力救义士 呼延赞梦神教武",
+      "title": "第002回 李建忠力救义士 呼延赞梦神教武",
+      "full_path": "上下五千年/E3历史故事/杨家将/第002回 李建忠力救义士 呼延赞梦神教武",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 926017,
+      "char_count": 3609,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第003回 金头娘征场斗艺 高怀德大战潞州",
+      "title": "第003回 金头娘征场斗艺 高怀德大战潞州",
+      "full_path": "上下五千年/E3历史故事/杨家将/第003回 金头娘征场斗艺 高怀德大战潞州",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 782738,
+      "char_count": 3093,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第004回 讲和议杨业回兵 迎銮驾豪杰施能",
+      "title": "第004回 讲和议杨业回兵 迎銮驾豪杰施能",
+      "full_path": "上下五千年/E3历史故事/杨家将/第004回 讲和议杨业回兵 迎銮驾豪杰施能",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 835794,
+      "char_count": 3224,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第005回 宋太祖遗嘱后事 潘仁美计逐英雄",
+      "title": "第005回 宋太祖遗嘱后事 潘仁美计逐英雄",
+      "full_path": "上下五千年/E3历史故事/杨家将/第005回 宋太祖遗嘱后事 潘仁美计逐英雄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1031830,
+      "char_count": 3975,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第006回 潘仁美奉诏宣召 呼延赞单骑救驾",
+      "title": "第006回 潘仁美奉诏宣召 呼延赞单骑救驾",
+      "full_path": "上下五千年/E3历史故事/杨家将/第006回 潘仁美奉诏宣召 呼延赞单骑救驾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 716806,
+      "char_count": 2776,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第007回 北汉主议守河东 呼延赞力擒敌将",
+      "title": "第007回 北汉主议守河东 呼延赞力擒敌将",
+      "full_path": "上下五千年/E3历史故事/杨家将/第007回 北汉主议守河东 呼延赞力擒敌将",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 928524,
+      "char_count": 3445,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第008回 建忠议取接天关 大辽出兵救晋阳",
+      "title": "第008回 建忠议取接天关 大辽出兵救晋阳",
+      "full_path": "上下五千年/E3历史故事/杨家将/第008回 建忠议取接天关 大辽出兵救晋阳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1358602,
+      "char_count": 5261,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第009回 郭进大破耶律沙 刘钧敕书召杨业",
+      "title": "第009回 郭进大破耶律沙 刘钧敕书召杨业",
+      "full_path": "上下五千年/E3历史故事/杨家将/第009回 郭进大破耶律沙 刘钧敕书召杨业",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1031692,
+      "char_count": 3946,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第010回 八王进献反间计 光美奉使说杨业",
+      "title": "第010回 八王进献反间计 光美奉使说杨业",
+      "full_path": "上下五千年/E3历史故事/杨家将/第010回 八王进献反间计 光美奉使说杨业",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 811400,
+      "char_count": 3109,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第011回 小圣感梦取太原 太宗下议征大辽",
+      "title": "第011回 小圣感梦取太原 太宗下议征大辽",
+      "full_path": "上下五千年/E3历史故事/杨家将/第011回 小圣感梦取太原 太宗下议征大辽",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1145297,
+      "char_count": 4393,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第012回 高怀德幽州大战 宋太宗班师还汴",
+      "title": "第012回 高怀德幽州大战 宋太宗班师还汴",
+      "full_path": "上下五千年/E3历史故事/杨家将/第012回 高怀德幽州大战 宋太宗班师还汴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1127398,
+      "char_count": 4355,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第013回 李汉琼智胜番将 杨令公大破辽兵",
+      "title": "第013回 李汉琼智胜番将 杨令公大破辽兵",
+      "full_path": "上下五千年/E3历史故事/杨家将/第013回 李汉琼智胜番将 杨令公大破辽兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 686447,
+      "char_count": 2642,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第014回 犒将士赵普辞官 宴群臣宋琪赋诗",
+      "title": "第014回 犒将士赵普辞官 宴群臣宋琪赋诗",
+      "full_path": "上下五千年/E3历史故事/杨家将/第014回 犒将士赵普辞官 宴群臣宋琪赋诗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 817691,
+      "char_count": 3163,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第015回 曹彬部兵征大辽 怀德战死歧沟关",
+      "title": "第015回 曹彬部兵征大辽 怀德战死歧沟关",
+      "full_path": "上下五千年/E3历史故事/杨家将/第015回 曹彬部兵征大辽 怀德战死歧沟关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1083205,
+      "char_count": 4173,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "第016回 太宗驾幸五台山 渊平战死幽州城",
+      "title": "第016回 太宗驾幸五台山 渊平战死幽州城",
+      "full_path": "上下五千年/E3历史故事/杨家将/第016回 太宗驾幸五台山 渊平战死幽州城",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 864199,
+      "char_count": 3343,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "第017回 宋太宗议征北番 柴太郡奏保杨业",
+      "title": "第017回 宋太宗议征北番 柴太郡奏保杨业",
+      "full_path": "上下五千年/E3历史故事/杨家将/第017回 宋太宗议征北番 柴太郡奏保杨业",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1013119,
+      "char_count": 3890,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "第018回 呼延赞大战辽兵 李陵碑杨业死节",
+      "title": "第018回 呼延赞大战辽兵 李陵碑杨业死节",
+      "full_path": "上下五千年/E3历史故事/杨家将/第018回 呼延赞大战辽兵 李陵碑杨业死节",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1263473,
+      "char_count": 4871,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "第019回 瓜州营七郎遭射 胡原谷六使遇救",
+      "title": "第019回 瓜州营七郎遭射 胡原谷六使遇救",
+      "full_path": "上下五千年/E3历史故事/杨家将/第019回 瓜州营七郎遭射 胡原谷六使遇救",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1267156,
+      "char_count": 4967,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "第020回 六使汴京告御状 王钦定计图八王",
+      "title": "第020回 六使汴京告御状 王钦定计图八王",
+      "full_path": "上下五千年/E3历史故事/杨家将/第020回 六使汴京告御状 王钦定计图八王",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 792442,
+      "char_count": 3024,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "第021回 宋名臣辞官解印 萧太后议图中原",
+      "title": "第021回 宋名臣辞官解印 萧太后议图中原",
+      "full_path": "上下五千年/E3历史故事/杨家将/第021回 宋名臣辞官解印 萧太后议图中原",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 851266,
+      "char_count": 3242,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "第022回 杨家将晋阳斗武 杨郡马领镇三关",
+      "title": "第022回 杨家将晋阳斗武 杨郡马领镇三关",
+      "full_path": "上下五千年/E3历史故事/杨家将/第022回 杨家将晋阳斗武 杨郡马领镇三关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 837058,
+      "char_count": 3264,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "第023回 樵夫诡计捉孟良 六使单骑收焦赞",
+      "title": "第023回 樵夫诡计捉孟良 六使单骑收焦赞",
+      "full_path": "上下五千年/E3历史故事/杨家将/第023回 樵夫诡计捉孟良 六使单骑收焦赞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 954022,
+      "char_count": 3685,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "第024回 孟良智盗骕骦马 岳胜大战萧天佑",
+      "title": "第024回 孟良智盗骕骦马 岳胜大战萧天佑",
+      "full_path": "上下五千年/E3历史故事/杨家将/第024回 孟良智盗骕骦马 岳胜大战萧天佑",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 893093,
+      "char_count": 3492,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "第025回 五台山孟良借兵 三关寨五郎观象",
+      "title": "第025回 五台山孟良借兵 三关寨五郎观象",
+      "full_path": "上下五千年/E3历史故事/杨家将/第025回 五台山孟良借兵 三关寨五郎观象",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1101658,
+      "char_count": 4242,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "第026回 九妹女误陷幽州 杨延德大破番兵",
+      "title": "第026回 九妹女误陷幽州 杨延德大破番兵",
+      "full_path": "上下五千年/E3历史故事/杨家将/第026回 九妹女误陷幽州 杨延德大破番兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 835587,
+      "char_count": 3225,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "第027回 枢密计倾无佞府 金吾拆毁天波楼",
+      "title": "第027回 枢密计倾无佞府 金吾拆毁天波楼",
+      "full_path": "上下五千年/E3历史故事/杨家将/第027回 枢密计倾无佞府 金吾拆毁天波楼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1360229,
+      "char_count": 5213,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "第028回 焦赞怒杀谢金吾 八王智救杨郡马",
+      "title": "第028回 焦赞怒杀谢金吾 八王智救杨郡马",
+      "full_path": "上下五千年/E3历史故事/杨家将/第028回 焦赞怒杀谢金吾 八王智救杨郡马",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 887769,
+      "char_count": 3483,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "第029回 宋君臣魏州看景 王全节铜台交兵",
+      "title": "第029回 宋君臣魏州看景 王全节铜台交兵",
+      "full_path": "上下五千年/E3历史故事/杨家将/第029回 宋君臣魏州看景 王全节铜台交兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1141116,
+      "char_count": 4399,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "第030回 八王赍诏求六使 焦赞大闹陈家庄",
+      "title": "第030回 八王赍诏求六使 焦赞大闹陈家庄",
+      "full_path": "上下五千年/E3历史故事/杨家将/第030回 八王赍诏求六使 焦赞大闹陈家庄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 676053,
+      "char_count": 2616,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "第031回 呼延赞途中遇救 杨郡马大破辽兵",
+      "title": "第031回 呼延赞途中遇救 杨郡马大破辽兵",
+      "full_path": "上下五千年/E3历史故事/杨家将/第031回 呼延赞途中遇救 杨郡马大破辽兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 935514,
+      "char_count": 3636,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "第032回 萧太后出榜募兵 王全节兵征大辽",
+      "title": "第032回 萧太后出榜募兵 王全节兵征大辽",
+      "full_path": "上下五千年/E3历史故事/杨家将/第032回 萧太后出榜募兵 王全节兵征大辽",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 847911,
+      "char_count": 2967,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "第033回 吕军师布南天阵 杨六使明下三关",
+      "title": "第033回 吕军师布南天阵 杨六使明下三关",
+      "full_path": "上下五千年/E3历史故事/杨家将/第033回 吕军师布南天阵 杨六使明下三关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 771836,
+      "char_count": 2935,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "第034回 宗保遇神授兵法 真宗出榜募医人",
+      "title": "第034回 宗保遇神授兵法 真宗出榜募医人",
+      "full_path": "上下五千年/E3历史故事/杨家将/第034回 宗保遇神授兵法 真宗出榜募医人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1415931,
+      "char_count": 5493,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "第035回 孟良盗回白骥马 宗保佳遇穆桂英",
+      "title": "第035回 孟良盗回白骥马 宗保佳遇穆桂英",
+      "full_path": "上下五千年/E3历史故事/杨家将/第035回 孟良盗回白骥马 宗保佳遇穆桂英",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 782728,
+      "char_count": 3011,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "第036回 宗保部众看天阵 真宗筑坛封将帅",
+      "title": "第036回 宗保部众看天阵 真宗筑坛封将帅",
+      "full_path": "上下五千年/E3历史故事/杨家将/第036回 宗保部众看天阵 真宗筑坛封将帅",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1189583,
+      "char_count": 4571,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "第037回 黄琼女反投宋营 穆桂英破阵救姑",
+      "title": "第037回 黄琼女反投宋营 穆桂英破阵救姑",
+      "full_path": "上下五千年/E3历史故事/杨家将/第037回 黄琼女反投宋营 穆桂英破阵救姑",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 650235,
+      "char_count": 2525,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "第038回 宗保大破天门阵 五郎降伏萧天佐",
+      "title": "第038回 宗保大破天门阵 五郎降伏萧天佐",
+      "full_path": "上下五千年/E3历史故事/杨家将/第038回 宗保大破天门阵 五郎降伏萧天佐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 836122,
+      "char_count": 3228,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "第039回 宋真宗下诏班师 王枢密进用反间",
+      "title": "第039回 宋真宗下诏班师 王枢密进用反间",
+      "full_path": "上下五千年/E3历史故事/杨家将/第039回 宋真宗下诏班师 王枢密进用反间",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1245157,
+      "char_count": 4817,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "第040回 八殿下三关借兵 众英雄九龙斗武",
+      "title": "第040回 八殿下三关借兵 众英雄九龙斗武",
+      "full_path": "上下五千年/E3历史故事/杨家将/第040回 八殿下三关借兵 众英雄九龙斗武",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1030692,
+      "char_count": 3714,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "第041回 杨延朗暗助粮草 八娘子大战番兵",
+      "title": "第041回 杨延朗暗助粮草 八娘子大战番兵",
+      "full_path": "上下五千年/E3历史故事/杨家将/第041回 杨延朗暗助粮草 八娘子大战番兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1223547,
+      "char_count": 4766,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "第042回 杨郡马议取北境 重阳女大闹幽州",
+      "title": "第042回 杨郡马议取北境 重阳女大闹幽州",
+      "full_path": "上下五千年/E3历史故事/杨家将/第042回 杨郡马议取北境 重阳女大闹幽州",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 940016,
+      "char_count": 3639,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "第043回 平大辽南将班师 颁官诰大封功臣",
+      "title": "第043回 平大辽南将班师 颁官诰大封功臣",
+      "full_path": "上下五千年/E3历史故事/杨家将/第043回 平大辽南将班师 颁官诰大封功臣",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1252191,
+      "char_count": 4800,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "第044回 六郎议取令公骸 孟良焦赞双丧命",
+      "title": "第044回 六郎议取令公骸 孟良焦赞双丧命",
+      "full_path": "上下五千年/E3历史故事/杨家将/第044回 六郎议取令公骸 孟良焦赞双丧命",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1133266,
+      "char_count": 4313,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "第045回 禁宫中八王祈斗 无佞府郡马寿终",
+      "title": "第045回 禁宫中八王祈斗 无佞府郡马寿终",
+      "full_path": "上下五千年/E3历史故事/杨家将/第045回 禁宫中八王祈斗 无佞府郡马寿终",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 711381,
+      "char_count": 2755,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "第046回 达达国议举伐宋 杨宗保兵征西夏",
+      "title": "第046回 达达国议举伐宋 杨宗保兵征西夏",
+      "full_path": "上下五千年/E3历史故事/杨家将/第046回 达达国议举伐宋 杨宗保兵征西夏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 710662,
+      "char_count": 2791,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "第047回 束天神大战宋将 百花女锤打张达",
+      "title": "第047回 束天神大战宋将 百花女锤打张达",
+      "full_path": "上下五千年/E3历史故事/杨家将/第047回 束天神大战宋将 百花女锤打张达",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 686420,
+      "char_count": 2701,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "第048回 杨宗保困陷金山 周夫人力主救兵",
+      "title": "第048回 杨宗保困陷金山 周夫人力主救兵",
+      "full_path": "上下五千年/E3历史故事/杨家将/第048回 杨宗保困陷金山 周夫人力主救兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 952025,
+      "char_count": 3672,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "第049回 杜娘子大破妖党 马赛英火烧番营",
+      "title": "第049回 杜娘子大破妖党 马赛英火烧番营",
+      "full_path": "上下五千年/E3历史故事/杨家将/第049回 杜娘子大破妖党 马赛英火烧番营",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 916733,
+      "char_count": 3563,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "第050回 杨宗保平定西夏 十二妇得胜回朝",
+      "title": "第050回 杨宗保平定西夏 十二妇得胜回朝",
+      "full_path": "上下五千年/E3历史故事/杨家将/第050回 杨宗保平定西夏 十二妇得胜回朝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1029073,
+      "char_count": 3943,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "第051回 文广困陷柳州城 宣娘兴兵解围困",
+      "title": "第051回 文广困陷柳州城 宣娘兴兵解围困",
+      "full_path": "上下五千年/E3历史故事/杨家将/第051回 文广困陷柳州城 宣娘兴兵解围困",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 763560,
+      "char_count": 2972,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "第052回 杨文广领兵征南 木柜洞收服山妖",
+      "title": "第052回 杨文广领兵征南 木柜洞收服山妖",
+      "full_path": "上下五千年/E3历史故事/杨家将/第052回 杨文广领兵征南 木柜洞收服山妖",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 806268,
+      "char_count": 3162,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "第053回 奉旨征剿摩天岭 怀玉领兵破敌营",
+      "title": "第053回 奉旨征剿摩天岭 怀玉领兵破敌营",
+      "full_path": "上下五千年/E3历史故事/杨家将/第053回 奉旨征剿摩天岭 怀玉领兵破敌营",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 758487,
+      "char_count": 2940,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "第054回 杨怀玉大破敌军 萧太后兵败求和",
+      "title": "第054回 杨怀玉大破敌军 萧太后兵败求和",
+      "full_path": "上下五千年/E3历史故事/杨家将/第054回 杨怀玉大破敌军 萧太后兵败求和",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1096083,
+      "char_count": 3740,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "第055回 杨怀玉挂帅征西 十二寡妇大破敌",
+      "title": "第055回 杨怀玉挂帅征西 十二寡妇大破敌",
+      "full_path": "上下五千年/E3历史故事/杨家将/第055回 杨怀玉挂帅征西 十二寡妇大破敌",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 832377,
+      "char_count": 3240,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "第056回 征西路上收猛将 杨门女将显神威",
+      "title": "第056回 征西路上收猛将 杨门女将显神威",
+      "full_path": "上下五千年/E3历史故事/杨家将/第056回 征西路上收猛将 杨门女将显神威",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1140583,
+      "char_count": 4414,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "第057回 大破西辽番兵将 杨怀玉凯旋还朝",
+      "title": "第057回 大破西辽番兵将 杨怀玉凯旋还朝",
+      "full_path": "上下五千年/E3历史故事/杨家将/第057回 大破西辽番兵将 杨怀玉凯旋还朝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 927942,
+      "char_count": 3626,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "第058回 杨家将世代忠勇 满门英烈留芳名",
+      "title": "第058回 杨家将世代忠勇 满门英烈留芳名",
+      "full_path": "上下五千年/E3历史故事/杨家将/第058回 杨家将世代忠勇 满门英烈留芳名",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 797265,
+      "char_count": 2783,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

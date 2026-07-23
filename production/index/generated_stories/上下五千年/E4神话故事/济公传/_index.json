@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "上下五千年/E4神话故事/济公传",
+  "name": "济公传",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E4神话故事/济公传/济公传.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 8,
+  "entries": [
+    {
+      "entry_id": "八魔炼济颠",
+      "title": "八魔炼济颠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/济公传/八魔炼济颠",
+      "level": "L5",
+      "duration_ms": 1082277,
+      "char_count": 3816,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/济公传/济公传.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "古井运木",
+      "title": "古井运木",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/济公传/古井运木",
+      "level": "L5",
+      "duration_ms": 915379,
+      "char_count": 3557,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/济公传/济公传.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "大闹灵隐寺",
+      "title": "大闹灵隐寺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/济公传/大闹灵隐寺",
+      "level": "L5",
+      "duration_ms": 1012055,
+      "char_count": 3961,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/济公传/济公传.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "戏弄秦相府",
+      "title": "戏弄秦相府",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/济公传/戏弄秦相府",
+      "level": "L5",
+      "duration_ms": 740667,
+      "char_count": 2920,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/济公传/济公传.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "斗蟋蟀",
+      "title": "斗蟋蟀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/济公传/斗蟋蟀",
+      "level": "L5",
+      "duration_ms": 1153875,
+      "char_count": 4434,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/济公传/济公传.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "济公出世",
+      "title": "济公出世",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/济公传/济公出世",
+      "level": "L5",
+      "duration_ms": 1485174,
+      "char_count": 5788,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/济公传/济公传.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "董士宏寻女",
+      "title": "董士宏寻女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/济公传/董士宏寻女",
+      "level": "L5",
+      "duration_ms": 1367988,
+      "char_count": 5362,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/济公传/济公传.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "飞来峰",
+      "title": "飞来峰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/济公传/飞来峰",
+      "level": "L5",
+      "duration_ms": 1052878,
+      "char_count": 4112,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/济公传/济公传.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

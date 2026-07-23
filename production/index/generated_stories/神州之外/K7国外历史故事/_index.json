@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "神州之外/K7国外历史故事",
+  "work_name": "K7国外历史故事",
+  "cover": {
+    "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K7国外历史故事.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 11,
+  "total_duration_ms": 13416631,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "K701古埃及",
+      "title": "K701古埃及",
+      "full_path": "神州之外/K7国外历史故事/K701古埃及",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1403877,
+      "char_count": 5225,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K701古埃及/K701古埃及.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "K702古希腊",
+      "title": "K702古希腊",
+      "full_path": "神州之外/K7国外历史故事/K702古希腊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1140125,
+      "char_count": 4133,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K702古希腊/K702古希腊.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "K703古罗马",
+      "title": "K703古罗马",
+      "full_path": "神州之外/K7国外历史故事/K703古罗马",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1272838,
+      "char_count": 5000,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K703古罗马/K703古罗马.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "K704北欧维京",
+      "title": "K704北欧维京",
+      "full_path": "神州之外/K7国外历史故事/K704北欧维京",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1072733,
+      "char_count": 4083,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K704北欧维京/K704北欧维京.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "K705古印度",
+      "title": "K705古印度",
+      "full_path": "神州之外/K7国外历史故事/K705古印度",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 979768,
+      "char_count": 3519,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K705古印度/K705古印度.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "K706两河流域",
+      "title": "K706两河流域",
+      "full_path": "神州之外/K7国外历史故事/K706两河流域",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1068551,
+      "char_count": 3989,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K706两河流域/K706两河流域.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "K707阿拉伯帝国",
+      "title": "K707阿拉伯帝国",
+      "full_path": "神州之外/K7国外历史故事/K707阿拉伯帝国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1315514,
+      "char_count": 4763,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K707阿拉伯帝国/K707阿拉伯帝国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "K708中世纪欧洲",
+      "title": "K708中世纪欧洲",
+      "full_path": "神州之外/K7国外历史故事/K708中世纪欧洲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1309296,
+      "char_count": 4985,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K708中世纪欧洲/K708中世纪欧洲.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "K709大航海与探险",
+      "title": "K709大航海与探险",
+      "full_path": "神州之外/K7国外历史故事/K709大航海与探险",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1493506,
+      "char_count": 5664,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K709大航海与探险/K709大航海与探险.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "K710美洲古文明",
+      "title": "K710美洲古文明",
+      "full_path": "神州之外/K7国外历史故事/K710美洲古文明",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L7",
+      "duration_ms": 966944,
+      "char_count": 4065,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K710美洲古文明/K710美洲古文明.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "K711日本与朝鲜",
+      "title": "K711日本与朝鲜",
+      "full_path": "神州之外/K7国外历史故事/K711日本与朝鲜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1393479,
+      "char_count": 5251,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K711日本与朝鲜/K711日本与朝鲜.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

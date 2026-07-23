@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/冥想放松/双语歌曲",
+  "name": "双语歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/冥想放松/冥想放松.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 24,
+  "entries": [
+    {
+      "entry_id": "专注当下-Present Moment",
+      "title": "专注当下-Present Moment",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/专注当下-Present Moment"
+    },
+    {
+      "entry_id": "云朵漂浮-Cloud Floating",
+      "title": "云朵漂浮-Cloud Floating",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/云朵漂浮-Cloud Floating"
+    },
+    {
+      "entry_id": "冷静下来-Calm Down",
+      "title": "冷静下来-Calm Down",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/冷静下来-Calm Down"
+    },
+    {
+      "entry_id": "分享快乐-Share Joy",
+      "title": "分享快乐-Share Joy",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/分享快乐-Share Joy"
+    },
+    {
+      "entry_id": "排除干扰-Remove Distractions",
+      "title": "排除干扰-Remove Distractions",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/排除干扰-Remove Distractions"
+    },
+    {
+      "entry_id": "接纳情绪-Accept Emotions",
+      "title": "接纳情绪-Accept Emotions",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/接纳情绪-Accept Emotions"
+    },
+    {
+      "entry_id": "数息法-Counting Breath",
+      "title": "数息法-Counting Breath",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/数息法-Counting Breath"
+    },
+    {
+      "entry_id": "星星催眠-Star Lullaby",
+      "title": "星星催眠-Star Lullaby",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/星星催眠-Star Lullaby"
+    },
+    {
+      "entry_id": "晚安冥想-Goodnight Meditation",
+      "title": "晚安冥想-Goodnight Meditation",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/晚安冥想-Goodnight Meditation"
+    },
+    {
+      "entry_id": "正念饮食-Mindful Eating",
+      "title": "正念饮食-Mindful Eating",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/正念饮食-Mindful Eating"
+    },
+    {
+      "entry_id": "气球呼吸-Balloon Breath",
+      "title": "气球呼吸-Balloon Breath",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/气球呼吸-Balloon Breath"
+    },
+    {
+      "entry_id": "注意力集中-Focus Attention",
+      "title": "注意力集中-Focus Attention",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/注意力集中-Focus Attention"
+    },
+    {
+      "entry_id": "深呼吸-Deep Breathing",
+      "title": "深呼吸-Deep Breathing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/深呼吸-Deep Breathing"
+    },
+    {
+      "entry_id": "温暖阳光-Warm Sunshine",
+      "title": "温暖阳光-Warm Sunshine",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/温暖阳光-Warm Sunshine"
+    },
+    {
+      "entry_id": "缓解焦虑-Reduce Anxiety",
+      "title": "缓解焦虑-Reduce Anxiety",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/缓解焦虑-Reduce Anxiety"
+    },
+    {
+      "entry_id": "美梦之旅-Sweet Dreams",
+      "title": "美梦之旅-Sweet Dreams",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/美梦之旅-Sweet Dreams"
+    },
+    {
+      "entry_id": "肌肉放松-Muscle Relax",
+      "title": "肌肉放松-Muscle Relax",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/肌肉放松-Muscle Relax"
+    },
+    {
+      "entry_id": "花香呼吸-Flower Breath",
+      "title": "花香呼吸-Flower Breath",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/花香呼吸-Flower Breath"
+    },
+    {
+      "entry_id": "观察细节-Observe Details",
+      "title": "观察细节-Observe Details",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/观察细节-Observe Details"
+    },
+    {
+      "entry_id": "觉察思绪-Observe Thoughts",
+      "title": "觉察思绪-Observe Thoughts",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/觉察思绪-Observe Thoughts"
+    },
+    {
+      "entry_id": "身体感知-Body Awareness",
+      "title": "身体感知-Body Awareness",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/身体感知-Body Awareness"
+    },
+    {
+      "entry_id": "身体扫描-Body Scan",
+      "title": "身体扫描-Body Scan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/身体扫描-Body Scan"
+    },
+    {
+      "entry_id": "释放压力-Release Stress",
+      "title": "释放压力-Release Stress",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/释放压力-Release Stress"
+    },
+    {
+      "entry_id": "静心学习-Study Quietly",
+      "title": "静心学习-Study Quietly",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/双语歌曲/静心学习-Study Quietly"
+    }
+  ]
+}

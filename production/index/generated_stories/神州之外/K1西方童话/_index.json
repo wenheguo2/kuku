@@ -1,0 +1,1457 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "神州之外/K1西方童话",
+  "name": "K1西方童话",
+  "cover": {
+    "cover_image_url": "covers/generated/神州之外/K1西方童话/K1西方童话.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 103,
+  "entries": [
+    {
+      "entry_id": "一个豆荚里的五粒豆",
+      "title": "一个豆荚里的五粒豆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/一个豆荚里的五粒豆",
+      "level": "L5",
+      "duration_ms": 1033196,
+      "char_count": 3902,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/一个豆荚里的五粒豆/一个豆荚里的五粒豆.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "一只眼两只眼三只眼",
+      "title": "一只眼两只眼三只眼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/一只眼两只眼三只眼",
+      "level": "L5",
+      "duration_ms": 1101376,
+      "char_count": 4212,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/一只眼两只眼三只眼/一只眼两只眼三只眼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "七只乌鸦",
+      "title": "七只乌鸦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/七只乌鸦",
+      "level": "L5",
+      "duration_ms": 1910749,
+      "char_count": 7220,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/七只乌鸦/七只乌鸦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三个幸运儿",
+      "title": "三个幸运儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/三个幸运儿",
+      "level": "L5",
+      "duration_ms": 1083758,
+      "char_count": 4192,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/三个幸运儿/三个幸运儿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三个纺纱女",
+      "title": "三个纺纱女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/三个纺纱女",
+      "level": "L5",
+      "duration_ms": 1158232,
+      "char_count": 4398,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/三个纺纱女/三个纺纱女.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三兄弟与金苹果",
+      "title": "三兄弟与金苹果",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/三兄弟与金苹果",
+      "level": "L6",
+      "duration_ms": 1068201,
+      "char_count": 4465,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/三兄弟与金苹果/三兄弟与金苹果.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三只小猪",
+      "title": "三只小猪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/三只小猪",
+      "level": "L5",
+      "duration_ms": 1138008,
+      "char_count": 4374,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/三只小猪/三只小猪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三片羽毛",
+      "title": "三片羽毛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/三片羽毛",
+      "level": "L5",
+      "duration_ms": 917236,
+      "char_count": 3524,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/三片羽毛/三片羽毛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三片蛇叶",
+      "title": "三片蛇叶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/三片蛇叶",
+      "level": "L6",
+      "duration_ms": 919774,
+      "char_count": 3859,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/三片蛇叶/三片蛇叶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不来梅的音乐家",
+      "title": "不来梅的音乐家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/不来梅的音乐家",
+      "level": "L6",
+      "duration_ms": 1094628,
+      "char_count": 4559,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/不来梅的音乐家/不来梅的音乐家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "丑小鸭",
+      "title": "丑小鸭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/丑小鸭",
+      "level": "L6",
+      "duration_ms": 1499083,
+      "char_count": 6412,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/丑小鸭/丑小鸭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "两兄弟",
+      "title": "两兄弟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/两兄弟",
+      "level": "L5",
+      "duration_ms": 1036164,
+      "char_count": 3984,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/两兄弟/两兄弟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "严寒老人",
+      "title": "严寒老人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/严寒老人",
+      "level": "L6",
+      "duration_ms": 1104369,
+      "char_count": 4744,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/严寒老人/严寒老人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "乌龟为什么有裂纹壳",
+      "title": "乌龟为什么有裂纹壳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/乌龟为什么有裂纹壳",
+      "level": "L6",
+      "duration_ms": 905267,
+      "char_count": 3821,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/乌龟为什么有裂纹壳/乌龟为什么有裂纹壳.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "了不起的火箭",
+      "title": "了不起的火箭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/了不起的火箭",
+      "level": "L6",
+      "duration_ms": 1226091,
+      "char_count": 5192,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/了不起的火箭/了不起的火箭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "伊凡王子与灰狼",
+      "title": "伊凡王子与灰狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/伊凡王子与灰狼",
+      "level": "L6",
+      "duration_ms": 1093090,
+      "char_count": 4533,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/伊凡王子与灰狼/伊凡王子与灰狼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "会说话的骷髅树",
+      "title": "会说话的骷髅树",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/会说话的骷髅树",
+      "level": "L5",
+      "duration_ms": 950302,
+      "char_count": 3514,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/会说话的骷髅树/会说话的骷髅树.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "六只天鹅",
+      "title": "六只天鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/六只天鹅",
+      "level": "L6",
+      "duration_ms": 1144414,
+      "char_count": 4845,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/六只天鹅/六只天鹅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "兴夫与诺夫",
+      "title": "兴夫与诺夫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/兴夫与诺夫",
+      "level": "L6",
+      "duration_ms": 1017057,
+      "char_count": 4312,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/兴夫与诺夫/兴夫与诺夫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "冰雪女王",
+      "title": "冰雪女王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/冰雪女王",
+      "level": "L6",
+      "duration_ms": 1085908,
+      "char_count": 4559,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/冰雪女王/冰雪女王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "勇敢的小裁缝",
+      "title": "勇敢的小裁缝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/勇敢的小裁缝",
+      "level": "L5",
+      "duration_ms": 1401997,
+      "char_count": 5123,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/勇敢的小裁缝/勇敢的小裁缝.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "十二个跳舞的公主",
+      "title": "十二个跳舞的公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/十二个跳舞的公主",
+      "level": "L6",
+      "duration_ms": 856452,
+      "char_count": 3680,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/十二个跳舞的公主/十二个跳舞的公主.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "卖火柴的小女孩",
+      "title": "卖火柴的小女孩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/卖火柴的小女孩",
+      "level": "L5",
+      "duration_ms": 916304,
+      "char_count": 3623,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/卖火柴的小女孩/卖火柴的小女孩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "名字古怪的小矮人",
+      "title": "名字古怪的小矮人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/名字古怪的小矮人",
+      "level": "L5",
+      "duration_ms": 1076544,
+      "char_count": 3959,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/名字古怪的小矮人/名字古怪的小矮人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "坚定的锡兵",
+      "title": "坚定的锡兵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/坚定的锡兵",
+      "level": "L5",
+      "duration_ms": 1035658,
+      "char_count": 3921,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/坚定的锡兵/坚定的锡兵.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "夜莺",
+      "title": "夜莺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/夜莺",
+      "level": "L5",
+      "duration_ms": 996765,
+      "char_count": 3713,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/夜莺/夜莺.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "夜莺与玫瑰",
+      "title": "夜莺与玫瑰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/夜莺与玫瑰",
+      "level": "L6",
+      "duration_ms": 846056,
+      "char_count": 3513,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/夜莺与玫瑰/夜莺与玫瑰.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "大拇哥",
+      "title": "大拇哥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/大拇哥",
+      "level": "L5",
+      "duration_ms": 1023520,
+      "char_count": 3923,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/大拇哥/大拇哥.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "大象为什么有长鼻子",
+      "title": "大象为什么有长鼻子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/大象为什么有长鼻子",
+      "level": "L6",
+      "duration_ms": 856736,
+      "char_count": 3636,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/大象为什么有长鼻子/大象为什么有长鼻子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "天国花园",
+      "title": "天国花园",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/天国花园",
+      "level": "L6",
+      "duration_ms": 882808,
+      "char_count": 3714,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/天国花园/天国花园.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "姜饼人",
+      "title": "姜饼人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/姜饼人",
+      "level": "L5",
+      "duration_ms": 1056875,
+      "char_count": 3898,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/姜饼人/姜饼人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "完全是真的",
+      "title": "完全是真的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/完全是真的",
+      "level": "L5",
+      "duration_ms": 1153800,
+      "char_count": 4422,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/完全是真的/完全是真的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小克劳斯和大克劳斯",
+      "title": "小克劳斯和大克劳斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/小克劳斯和大克劳斯",
+      "level": "L6",
+      "duration_ms": 1082874,
+      "char_count": 4801,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/小克劳斯和大克劳斯/小克劳斯和大克劳斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小弟弟和小姐姐",
+      "title": "小弟弟和小姐姐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/小弟弟和小姐姐",
+      "level": "L5",
+      "duration_ms": 965797,
+      "char_count": 3648,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/小弟弟和小姐姐/小弟弟和小姐姐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小意达的花儿",
+      "title": "小意达的花儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/小意达的花儿",
+      "level": "L5",
+      "duration_ms": 1238733,
+      "char_count": 4668,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/小意达的花儿/小意达的花儿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小拇指",
+      "title": "小拇指",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/小拇指",
+      "level": "L5",
+      "duration_ms": 1048880,
+      "char_count": 4044,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/小拇指/小拇指.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小红帽",
+      "title": "小红帽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/小红帽",
+      "level": "L5",
+      "duration_ms": 1116627,
+      "char_count": 4227,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/小红帽/小红帽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "少年国王",
+      "title": "少年国王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/少年国王",
+      "level": "L6",
+      "duration_ms": 864988,
+      "char_count": 3585,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/少年国王/少年国王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幸运儿汉斯",
+      "title": "幸运儿汉斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/幸运儿汉斯",
+      "level": "L5",
+      "duration_ms": 1193233,
+      "char_count": 4399,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/幸运儿汉斯/幸运儿汉斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "忠实的朋友",
+      "title": "忠实的朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/忠实的朋友",
+      "level": "L6",
+      "duration_ms": 838987,
+      "char_count": 3583,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/忠实的朋友/忠实的朋友.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "忠实的约翰",
+      "title": "忠实的约翰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/忠实的约翰",
+      "level": "L5",
+      "duration_ms": 1445156,
+      "char_count": 5558,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/忠实的约翰/忠实的约翰.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "快乐王子",
+      "title": "快乐王子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/快乐王子",
+      "level": "L6",
+      "duration_ms": 901950,
+      "char_count": 3888,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/快乐王子/快乐王子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打火匣",
+      "title": "打火匣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/打火匣",
+      "level": "L6",
+      "duration_ms": 1060094,
+      "char_count": 4468,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/打火匣/打火匣.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拇指姑娘",
+      "title": "拇指姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/拇指姑娘",
+      "level": "L6",
+      "duration_ms": 1435158,
+      "char_count": 6052,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/拇指姑娘/拇指姑娘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "星孩",
+      "title": "星孩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/星孩",
+      "level": "L6",
+      "duration_ms": 905876,
+      "char_count": 3799,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/星孩/星孩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "星星银币",
+      "title": "星星银币",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/星星银币",
+      "level": "L5",
+      "duration_ms": 1016195,
+      "char_count": 3807,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/星星银币/星星银币.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "月亮的女儿",
+      "title": "月亮的女儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/月亮的女儿",
+      "level": "L6",
+      "duration_ms": 876757,
+      "char_count": 3829,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/月亮的女儿/月亮的女儿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "杰克与豆茎",
+      "title": "杰克与豆茎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/杰克与豆茎",
+      "level": "L6",
+      "duration_ms": 1218052,
+      "char_count": 5229,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/杰克与豆茎/杰克与豆茎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "桌子驴子和棍子",
+      "title": "桌子驴子和棍子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/桌子驴子和棍子",
+      "level": "L5",
+      "duration_ms": 919941,
+      "char_count": 3562,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/桌子驴子和棍子/桌子驴子和棍子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "死神教父",
+      "title": "死神教父",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/死神教父",
+      "level": "L6",
+      "duration_ms": 987308,
+      "char_count": 4333,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/死神教父/死神教父.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "水晶球",
+      "title": "水晶球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/水晶球",
+      "level": "L6",
+      "duration_ms": 901557,
+      "char_count": 3767,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/水晶球/水晶球.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "汉泽尔与格蕾太尔",
+      "title": "汉泽尔与格蕾太尔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/汉泽尔与格蕾太尔",
+      "level": "L6",
+      "duration_ms": 815335,
+      "char_count": 3544,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/汉泽尔与格蕾太尔/汉泽尔与格蕾太尔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "沙丘上的故事",
+      "title": "沙丘上的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/沙丘上的故事",
+      "level": "L5",
+      "duration_ms": 990805,
+      "char_count": 3671,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/沙丘上的故事/沙丘上的故事.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "海的女儿",
+      "title": "海的女儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/海的女儿",
+      "level": "L6",
+      "duration_ms": 1741512,
+      "char_count": 7364,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/海的女儿/海的女儿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "渔夫与金鱼",
+      "title": "渔夫与金鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/渔夫与金鱼",
+      "level": "L6",
+      "duration_ms": 815840,
+      "char_count": 3553,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/渔夫与金鱼/渔夫与金鱼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "渔夫和他的妻子",
+      "title": "渔夫和他的妻子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/渔夫和他的妻子",
+      "level": "L6",
+      "duration_ms": 842090,
+      "char_count": 3554,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/渔夫和他的妻子/渔夫和他的妻子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "火鸟",
+      "title": "火鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/火鸟",
+      "level": "L5",
+      "duration_ms": 1241262,
+      "char_count": 4783,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/火鸟/火鸟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "灰姑娘",
+      "title": "灰姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/灰姑娘",
+      "level": "L6",
+      "duration_ms": 911091,
+      "char_count": 3837,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/灰姑娘/灰姑娘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "熊皮人",
+      "title": "熊皮人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/熊皮人",
+      "level": "L6",
+      "duration_ms": 863205,
+      "char_count": 3543,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/熊皮人/熊皮人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "牧羊女和扫烟囱的人",
+      "title": "牧羊女和扫烟囱的人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/牧羊女和扫烟囱的人",
+      "level": "L5",
+      "duration_ms": 1078907,
+      "char_count": 4015,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/牧羊女和扫烟囱的人/牧羊女和扫烟囱的人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "牧鹅姑娘",
+      "title": "牧鹅姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/牧鹅姑娘",
+      "level": "L5",
+      "duration_ms": 971585,
+      "char_count": 3729,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/牧鹅姑娘/牧鹅姑娘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狐狸和兔子",
+      "title": "狐狸和兔子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/狐狸和兔子",
+      "level": "L5",
+      "duration_ms": 926622,
+      "char_count": 3510,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/狐狸和兔子/狐狸和兔子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狼和七只小山羊",
+      "title": "狼和七只小山羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/狼和七只小山羊",
+      "level": "L5",
+      "duration_ms": 964484,
+      "char_count": 3577,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/狼和七只小山羊/狼和七只小山羊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猫和老鼠合伙",
+      "title": "猫和老鼠合伙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/猫和老鼠合伙",
+      "level": "L5",
+      "duration_ms": 1329728,
+      "char_count": 5036,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/猫和老鼠合伙/猫和老鼠合伙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "玫瑰小姐",
+      "title": "玫瑰小姐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/玫瑰小姐",
+      "level": "L6",
+      "duration_ms": 1796328,
+      "char_count": 7862,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/玫瑰小姐/玫瑰小姐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "瓦西丽莎",
+      "title": "瓦西丽莎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/瓦西丽莎",
+      "level": "L6",
+      "duration_ms": 1081129,
+      "char_count": 4527,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/瓦西丽莎/瓦西丽莎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生命之水",
+      "title": "生命之水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/生命之水",
+      "level": "L5",
+      "duration_ms": 1139842,
+      "char_count": 4372,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/生命之水/生命之水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "甲虫",
+      "title": "甲虫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/甲虫",
+      "level": "L5",
+      "duration_ms": 968088,
+      "char_count": 3568,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/甲虫/甲虫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "画眉嘴国王",
+      "title": "画眉嘴国王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/画眉嘴国王",
+      "level": "L6",
+      "duration_ms": 943482,
+      "char_count": 4093,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/画眉嘴国王/画眉嘴国王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "白新娘与黑新娘",
+      "title": "白新娘与黑新娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/白新娘与黑新娘",
+      "level": "L5",
+      "duration_ms": 1112976,
+      "char_count": 4211,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/白新娘与黑新娘/白新娘与黑新娘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "白雪与红玫",
+      "title": "白雪与红玫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/白雪与红玫",
+      "level": "L5",
+      "duration_ms": 1614690,
+      "char_count": 6102,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/白雪与红玫/白雪与红玫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "白雪公主",
+      "title": "白雪公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/白雪公主",
+      "level": "L6",
+      "duration_ms": 1541569,
+      "char_count": 6772,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/白雪公主/白雪公主.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "皇帝的新装",
+      "title": "皇帝的新装",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/皇帝的新装",
+      "level": "L6",
+      "duration_ms": 1173405,
+      "char_count": 5176,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/皇帝的新装/皇帝的新装.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "真正的新娘",
+      "title": "真正的新娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/真正的新娘",
+      "level": "L6",
+      "duration_ms": 1882730,
+      "char_count": 7637,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/真正的新娘/真正的新娘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "睡美人",
+      "title": "睡美人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/睡美人",
+      "level": "L6",
+      "duration_ms": 880383,
+      "char_count": 3598,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/睡美人/睡美人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿靴子的猫",
+      "title": "穿靴子的猫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/穿靴子的猫",
+      "level": "L6",
+      "duration_ms": 948515,
+      "char_count": 4087,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/穿靴子的猫/穿靴子的猫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "笨汉汉斯",
+      "title": "笨汉汉斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/笨汉汉斯",
+      "level": "L5",
+      "duration_ms": 979903,
+      "char_count": 3651,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/笨汉汉斯/笨汉汉斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "纺锤梭子和缝衣针",
+      "title": "纺锤梭子和缝衣针",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/纺锤梭子和缝衣针",
+      "level": "L5",
+      "duration_ms": 2023235,
+      "char_count": 7554,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/纺锤梭子和缝衣针/纺锤梭子和缝衣针.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "美女与野兽",
+      "title": "美女与野兽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/美女与野兽",
+      "level": "L6",
+      "duration_ms": 1013807,
+      "char_count": 4240,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/美女与野兽/美女与野兽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老头子做事总不会错",
+      "title": "老头子做事总不会错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/老头子做事总不会错",
+      "level": "L5",
+      "duration_ms": 1381017,
+      "char_count": 5169,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/老头子做事总不会错/老头子做事总不会错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老虎与柿子",
+      "title": "老虎与柿子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/老虎与柿子",
+      "level": "L5",
+      "duration_ms": 1353511,
+      "char_count": 5096,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/老虎与柿子/老虎与柿子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老路灯",
+      "title": "老路灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/老路灯",
+      "level": "L5",
+      "duration_ms": 952086,
+      "char_count": 3625,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/老路灯/老路灯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "聪明的农家女",
+      "title": "聪明的农家女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/聪明的农家女",
+      "level": "L5",
+      "duration_ms": 1109576,
+      "char_count": 4278,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/聪明的农家女/聪明的农家女.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自私的巨人",
+      "title": "自私的巨人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/自私的巨人",
+      "level": "L6",
+      "duration_ms": 863989,
+      "char_count": 3777,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/自私的巨人/自私的巨人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "芭芭雅嘎",
+      "title": "芭芭雅嘎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/芭芭雅嘎",
+      "level": "L5",
+      "duration_ms": 1192379,
+      "char_count": 4521,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/芭芭雅嘎/芭芭雅嘎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "莴苣姑娘",
+      "title": "莴苣姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/莴苣姑娘",
+      "level": "L6",
+      "duration_ms": 1470015,
+      "char_count": 6007,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/莴苣姑娘/莴苣姑娘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蓝灯",
+      "title": "蓝灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/蓝灯",
+      "level": "L6",
+      "duration_ms": 1013864,
+      "char_count": 4271,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/蓝灯/蓝灯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蓝鸟",
+      "title": "蓝鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/蓝鸟",
+      "level": "L6",
+      "duration_ms": 904629,
+      "char_count": 3824,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/蓝鸟/蓝鸟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "藏着并不等于遗忘",
+      "title": "藏着并不等于遗忘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/藏着并不等于遗忘",
+      "level": "L5",
+      "duration_ms": 1444943,
+      "char_count": 5588,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/藏着并不等于遗忘/藏着并不等于遗忘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蜂王",
+      "title": "蜂王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/蜂王",
+      "level": "L5",
+      "duration_ms": 1105619,
+      "char_count": 4255,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/蜂王/蜂王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蝙蝠为什么倒挂",
+      "title": "蝙蝠为什么倒挂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/蝙蝠为什么倒挂",
+      "level": "L5",
+      "duration_ms": 1275083,
+      "char_count": 4651,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/蝙蝠为什么倒挂/蝙蝠为什么倒挂.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "袋鼠的袋子",
+      "title": "袋鼠的袋子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/袋鼠的袋子",
+      "level": "L5",
+      "duration_ms": 1554152,
+      "char_count": 5816,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/袋鼠的袋子/袋鼠的袋子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "豌豆公主",
+      "title": "豌豆公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/豌豆公主",
+      "level": "L6",
+      "duration_ms": 1176730,
+      "char_count": 5280,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/豌豆公主/豌豆公主.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "野天鹅",
+      "title": "野天鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/野天鹅",
+      "level": "L6",
+      "duration_ms": 1694864,
+      "char_count": 7318,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/野天鹅/野天鹅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "金发姑娘与三只熊",
+      "title": "金发姑娘与三只熊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/金发姑娘与三只熊",
+      "level": "L6",
+      "duration_ms": 977232,
+      "char_count": 4185,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/金发姑娘与三只熊/金发姑娘与三只熊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "金鹅",
+      "title": "金鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/金鹅",
+      "level": "L5",
+      "duration_ms": 1018122,
+      "char_count": 3857,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/金鹅/金鹅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "铁约翰",
+      "title": "铁约翰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/铁约翰",
+      "level": "L5",
+      "duration_ms": 1030198,
+      "char_count": 4011,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/铁约翰/铁约翰.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "长发公主",
+      "title": "长发公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/长发公主",
+      "level": "L6",
+      "duration_ms": 1011522,
+      "char_count": 4268,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/长发公主/长发公主.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雪姑娘",
+      "title": "雪姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/雪姑娘",
+      "level": "L6",
+      "duration_ms": 883625,
+      "char_count": 3715,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/雪姑娘/雪姑娘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "青蛙王子",
+      "title": "青蛙王子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/青蛙王子",
+      "level": "L5",
+      "duration_ms": 1154074,
+      "char_count": 4265,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/青蛙王子/青蛙王子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "飞箱",
+      "title": "飞箱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/飞箱",
+      "level": "L6",
+      "duration_ms": 887592,
+      "char_count": 3753,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/飞箱/飞箱.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "魔鬼的三根金发",
+      "title": "魔鬼的三根金发",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/魔鬼的三根金发",
+      "level": "L5",
+      "duration_ms": 975913,
+      "char_count": 3691,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/魔鬼的三根金发/魔鬼的三根金发.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鼓手",
+      "title": "鼓手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K1西方童话/鼓手",
+      "level": "L5",
+      "duration_ms": 1183156,
+      "char_count": 4413,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/鼓手/鼓手.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

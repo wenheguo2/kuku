@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/蒙学歌曲/三字经",
+  "name": "三字经",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 17,
+  "entries": [
+    {
+      "entry_id": "01_开篇教育",
+      "title": "01_开篇教育",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/01_开篇教育"
+    },
+    {
+      "entry_id": "02_幼学孝悌",
+      "title": "02_幼学孝悌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/02_幼学孝悌"
+    },
+    {
+      "entry_id": "03_自然万象",
+      "title": "03_自然万象",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/03_自然万象"
+    },
+    {
+      "entry_id": "04_地理山川",
+      "title": "04_地理山川",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/04_地理山川"
+    },
+    {
+      "entry_id": "05_伦常德行",
+      "title": "05_伦常德行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/05_伦常德行"
+    },
+    {
+      "entry_id": "06_典籍经典",
+      "title": "06_典籍经典",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/06_典籍经典"
+    },
+    {
+      "entry_id": "07_上古三代",
+      "title": "07_上古三代",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/07_上古三代"
+    },
+    {
+      "entry_id": "08_春秋战国",
+      "title": "08_春秋战国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/08_春秋战国"
+    },
+    {
+      "entry_id": "09_大汉风华",
+      "title": "09_大汉风华",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/09_大汉风华"
+    },
+    {
+      "entry_id": "10_南北朝隋",
+      "title": "10_南北朝隋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/10_南北朝隋"
+    },
+    {
+      "entry_id": "11_大唐盛世",
+      "title": "11_大唐盛世",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/11_大唐盛世"
+    },
+    {
+      "entry_id": "12_宋辽金元",
+      "title": "12_宋辽金元",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/12_宋辽金元"
+    },
+    {
+      "entry_id": "13_明清近代",
+      "title": "13_明清近代",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/13_明清近代"
+    },
+    {
+      "entry_id": "14_史学篇",
+      "title": "14_史学篇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/14_史学篇"
+    },
+    {
+      "entry_id": "15_勤学篇上",
+      "title": "15_勤学篇上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/15_勤学篇上"
+    },
+    {
+      "entry_id": "16_勤学篇下",
+      "title": "16_勤学篇下",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/16_勤学篇下"
+    },
+    {
+      "entry_id": "17_神童结尾",
+      "title": "17_神童结尾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/三字经/17_神童结尾"
+    }
+  ]
+}

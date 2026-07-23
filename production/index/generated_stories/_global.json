@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "index_type": "global_index",
+  "generated_at": "2026-07-23T14:25:00.297080",
+  "stats": {
+    "total_subjects": 11,
+    "total_entries": 38605
+  },
+  "subjects": [
+    {
+      "subject_id": "上下五千年",
+      "subject_name": "上下五千年",
+      "category_count": 8,
+      "total_entries": 2697,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/上下五千年.webp",
+        "cover_level": "subject"
+      }
+    },
+    {
+      "subject_id": "双界之门",
+      "subject_name": "双界之门",
+      "category_count": 11,
+      "total_entries": 2962,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/双界之门.webp",
+        "cover_level": "subject"
+      }
+    },
+    {
+      "subject_id": "品格养成",
+      "subject_name": "品格养成",
+      "category_count": 9,
+      "total_entries": 1565,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/品格养成.webp",
+        "cover_level": "subject"
+      }
+    },
+    {
+      "subject_id": "学科启蒙",
+      "subject_name": "学科启蒙",
+      "category_count": 3,
+      "total_entries": 7509,
+      "cover": {
+        "cover_image_url": "covers/generated/学科启蒙/学科启蒙.webp",
+        "cover_level": "subject"
+      }
+    },
+    {
+      "subject_id": "情绪疗愈",
+      "subject_name": "情绪疗愈",
+      "category_count": 9,
+      "total_entries": 1555,
+      "cover": {
+        "cover_image_url": "covers/generated/情绪疗愈/情绪疗愈.webp",
+        "cover_level": "subject"
+      }
+    },
+    {
+      "subject_id": "生活认知",
+      "subject_name": "生活认知",
+      "category_count": 9,
+      "total_entries": 1006,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/生活认知.webp",
+        "cover_level": "subject"
+      }
+    },
+    {
+      "subject_id": "瞎编的歌曲",
+      "subject_name": "瞎编的歌曲",
+      "category_count": 43,
+      "total_entries": 18452,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/瞎编的歌曲.webp",
+        "cover_level": "subject"
+      }
+    },
+    {
+      "subject_id": "神州之外",
+      "subject_name": "神州之外",
+      "category_count": 9,
+      "total_entries": 554,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/神州之外.webp",
+        "cover_level": "subject"
+      }
+    },
+    {
+      "subject_id": "自然科学",
+      "subject_name": "自然科学",
+      "category_count": 7,
+      "total_entries": 1331,
+      "cover": {
+        "cover_image_url": "covers/generated/自然科学/自然科学.webp",
+        "cover_level": "subject"
+      }
+    },
+    {
+      "subject_id": "蒙学经典",
+      "subject_name": "蒙学经典",
+      "category_count": 9,
+      "total_entries": 485,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/蒙学经典.webp",
+        "cover_level": "subject"
+      }
+    },
+    {
+      "subject_id": "诗词天地",
+      "subject_name": "诗词天地",
+      "category_count": 2,
+      "total_entries": 489,
+      "cover": {
+        "cover_image_url": "covers/generated/诗词天地/诗词天地.webp",
+        "cover_level": "subject"
+      }
+    }
+  ]
+}

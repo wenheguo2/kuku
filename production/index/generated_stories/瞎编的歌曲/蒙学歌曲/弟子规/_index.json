@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/蒙学歌曲/弟子规",
+  "name": "弟子规",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 10,
+  "entries": [
+    {
+      "entry_id": "0. 弟子规圣人训",
+      "title": "0. 弟子规圣人训",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/0. 弟子规圣人训"
+    },
+    {
+      "entry_id": "1. 孝之晨昏定省",
+      "title": "1. 孝之晨昏定省",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/1. 孝之晨昏定省"
+    },
+    {
+      "entry_id": "2. 悌之兄友弟恭",
+      "title": "2. 悌之兄友弟恭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/2. 悌之兄友弟恭"
+    },
+    {
+      "entry_id": "3. 谨之朝起夜眠",
+      "title": "3. 谨之朝起夜眠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/3. 谨之朝起夜眠"
+    },
+    {
+      "entry_id": "4. 信之言行一致",
+      "title": "4. 信之言行一致",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/4. 信之言行一致"
+    },
+    {
+      "entry_id": "5. 泛爱众之推己及人",
+      "title": "5. 泛爱众之推己及人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/5. 泛爱众之推己及人"
+    },
+    {
+      "entry_id": "6. 亲仁之近贤远佞",
+      "title": "6. 亲仁之近贤远佞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/6. 亲仁之近贤远佞"
+    },
+    {
+      "entry_id": "7. 余力学文之读书三到",
+      "title": "7. 余力学文之读书三到",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/7. 余力学文之读书三到"
+    },
+    {
+      "entry_id": "8. 孝之顺亲养志",
+      "title": "8. 孝之顺亲养志",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/8. 孝之顺亲养志"
+    },
+    {
+      "entry_id": "9. 出则悌之尊长敬贤",
+      "title": "9. 出则悌之尊长敬贤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/9. 出则悌之尊长敬贤"
+    }
+  ]
+}

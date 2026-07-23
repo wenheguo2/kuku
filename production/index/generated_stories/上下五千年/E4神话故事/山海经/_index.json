@@ -1,0 +1,1216 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E4神话故事/山海经",
+  "work_name": "山海经",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/山海经.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 80,
+  "total_duration_ms": 86092628,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第01章 盘古开天辟地",
+      "title": "第01章 盘古开天辟地",
+      "full_path": "上下五千年/E4神话故事/山海经/第01章 盘古开天辟地",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 878350,
+      "char_count": 3497,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第01章 盘古开天辟地/第01章 盘古开天辟地.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第02章 女娲抟土造人",
+      "title": "第02章 女娲抟土造人",
+      "full_path": "上下五千年/E4神话故事/山海经/第02章 女娲抟土造人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1150671,
+      "char_count": 4532,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第02章 女娲抟土造人/第02章 女娲抟土造人.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第03章 女娲炼石补天",
+      "title": "第03章 女娲炼石补天",
+      "full_path": "上下五千年/E4神话故事/山海经/第03章 女娲炼石补天",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1114196,
+      "char_count": 4379,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第03章 女娲炼石补天/第03章 女娲炼石补天.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第04章 精卫填海",
+      "title": "第04章 精卫填海",
+      "full_path": "上下五千年/E4神话故事/山海经/第04章 精卫填海",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 1005836,
+      "char_count": 3905,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第04章 精卫填海/第04章 精卫填海.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第05章 夸父逐日",
+      "title": "第05章 夸父逐日",
+      "full_path": "上下五千年/E4神话故事/山海经/第05章 夸父逐日",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 982769,
+      "char_count": 3829,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第05章 夸父逐日/第05章 夸父逐日.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第06章 后羿射日",
+      "title": "第06章 后羿射日",
+      "full_path": "上下五千年/E4神话故事/山海经/第06章 后羿射日",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1069945,
+      "char_count": 4167,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第06章 后羿射日/第06章 后羿射日.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第07章 嫦娥奔月",
+      "title": "第07章 嫦娥奔月",
+      "full_path": "上下五千年/E4神话故事/山海经/第07章 嫦娥奔月",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 889489,
+      "char_count": 3516,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第07章 嫦娥奔月/第07章 嫦娥奔月.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第08章 共工怒触不周山",
+      "title": "第08章 共工怒触不周山",
+      "full_path": "上下五千年/E4神话故事/山海经/第08章 共工怒触不周山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 920524,
+      "char_count": 3562,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第08章 共工怒触不周山/第08章 共工怒触不周山.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第09章 刑天舞干戚",
+      "title": "第09章 刑天舞干戚",
+      "full_path": "上下五千年/E4神话故事/山海经/第09章 刑天舞干戚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 999461,
+      "char_count": 4000,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第09章 刑天舞干戚/第09章 刑天舞干戚.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第10章 黄帝战蚩尤",
+      "title": "第10章 黄帝战蚩尤",
+      "full_path": "上下五千年/E4神话故事/山海经/第10章 黄帝战蚩尤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1422035,
+      "char_count": 5074,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第10章 黄帝战蚩尤/第10章 黄帝战蚩尤.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第11章 大禹治水",
+      "title": "第11章 大禹治水",
+      "full_path": "上下五千年/E4神话故事/山海经/第11章 大禹治水",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1189340,
+      "char_count": 4575,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第11章 大禹治水/第11章 大禹治水.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第12章 神农尝百草",
+      "title": "第12章 神农尝百草",
+      "full_path": "上下五千年/E4神话故事/山海经/第12章 神农尝百草",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1338564,
+      "char_count": 5320,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第12章 神农尝百草/第12章 神农尝百草.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第13章 仓颉造字",
+      "title": "第13章 仓颉造字",
+      "full_path": "上下五千年/E4神话故事/山海经/第13章 仓颉造字",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1654512,
+      "char_count": 6279,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第13章 仓颉造字/第13章 仓颉造字.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第14章 伏羲画八卦",
+      "title": "第14章 伏羲画八卦",
+      "full_path": "上下五千年/E4神话故事/山海经/第14章 伏羲画八卦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1368530,
+      "char_count": 5410,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第14章 伏羲画八卦/第14章 伏羲画八卦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第15章 燧人氏钻木取火",
+      "title": "第15章 燧人氏钻木取火",
+      "full_path": "上下五千年/E4神话故事/山海经/第15章 燧人氏钻木取火",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 981776,
+      "char_count": 3826,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第15章 燧人氏钻木取火/第15章 燧人氏钻木取火.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "第16章 嫘祖养蚕缫丝",
+      "title": "第16章 嫘祖养蚕缫丝",
+      "full_path": "上下五千年/E4神话故事/山海经/第16章 嫘祖养蚕缫丝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1041279,
+      "char_count": 4143,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第16章 嫘祖养蚕缫丝/第16章 嫘祖养蚕缫丝.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "第17章 尧舜禅让",
+      "title": "第17章 尧舜禅让",
+      "full_path": "上下五千年/E4神话故事/山海经/第17章 尧舜禅让",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1207521,
+      "char_count": 4652,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第17章 尧舜禅让/第17章 尧舜禅让.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "第18章 大舜耕田",
+      "title": "第18章 大舜耕田",
+      "full_path": "上下五千年/E4神话故事/山海经/第18章 大舜耕田",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 888018,
+      "char_count": 3399,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第18章 大舜耕田/第18章 大舜耕田.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "第19章 凤凰涅槃重生",
+      "title": "第19章 凤凰涅槃重生",
+      "full_path": "上下五千年/E4神话故事/山海经/第19章 凤凰涅槃重生",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1147914,
+      "char_count": 4470,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第19章 凤凰涅槃重生/第19章 凤凰涅槃重生.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "第20章 烛龙烛照九阴",
+      "title": "第20章 烛龙烛照九阴",
+      "full_path": "上下五千年/E4神话故事/山海经/第20章 烛龙烛照九阴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 799498,
+      "char_count": 3250,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第20章 烛龙烛照九阴/第20章 烛龙烛照九阴.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "第21章 鲲鹏展翅九万里",
+      "title": "第21章 鲲鹏展翅九万里",
+      "full_path": "上下五千年/E4神话故事/山海经/第21章 鲲鹏展翅九万里",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 961515,
+      "char_count": 3718,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第21章 鲲鹏展翅九万里/第21章 鲲鹏展翅九万里.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "第22章 白泽通晓万物",
+      "title": "第22章 白泽通晓万物",
+      "full_path": "上下五千年/E4神话故事/山海经/第22章 白泽通晓万物",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1205389,
+      "char_count": 4334,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第22章 白泽通晓万物/第22章 白泽通晓万物.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "第23章 麒麟祥瑞降世",
+      "title": "第23章 麒麟祥瑞降世",
+      "full_path": "上下五千年/E4神话故事/山海经/第23章 麒麟祥瑞降世",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 660557,
+      "char_count": 2514,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第23章 麒麟祥瑞降世/第23章 麒麟祥瑞降世.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "第24章 九尾狐涂山氏",
+      "title": "第24章 九尾狐涂山氏",
+      "full_path": "上下五千年/E4神话故事/山海经/第24章 九尾狐涂山氏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1116949,
+      "char_count": 4368,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第24章 九尾狐涂山氏/第24章 九尾狐涂山氏.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "第25章 比翼鸟比翼双飞",
+      "title": "第25章 比翼鸟比翼双飞",
+      "full_path": "上下五千年/E4神话故事/山海经/第25章 比翼鸟比翼双飞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1250892,
+      "char_count": 4787,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第25章 比翼鸟比翼双飞/第25章 比翼鸟比翼双飞.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "第26章 应龙助黄帝征战",
+      "title": "第26章 应龙助黄帝征战",
+      "full_path": "上下五千年/E4神话故事/山海经/第26章 应龙助黄帝征战",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 937632,
+      "char_count": 3733,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第26章 应龙助黄帝征战/第26章 应龙助黄帝征战.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "第27章 毕方衔火兆火灾",
+      "title": "第27章 毕方衔火兆火灾",
+      "full_path": "上下五千年/E4神话故事/山海经/第27章 毕方衔火兆火灾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1166026,
+      "char_count": 4571,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第27章 毕方衔火兆火灾/第27章 毕方衔火兆火灾.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "第28章 天狗食月",
+      "title": "第28章 天狗食月",
+      "full_path": "上下五千年/E4神话故事/山海经/第28章 天狗食月",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1011485,
+      "char_count": 3908,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第28章 天狗食月/第28章 天狗食月.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "第29章 夔牛雷兽震天",
+      "title": "第29章 夔牛雷兽震天",
+      "full_path": "上下五千年/E4神话故事/山海经/第29章 夔牛雷兽震天",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 754009,
+      "char_count": 2759,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第29章 夔牛雷兽震天/第29章 夔牛雷兽震天.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "第30章 穷奇食人凶兽",
+      "title": "第30章 穷奇食人凶兽",
+      "full_path": "上下五千年/E4神话故事/山海经/第30章 穷奇食人凶兽",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1266227,
+      "char_count": 4846,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第30章 穷奇食人凶兽/第30章 穷奇食人凶兽.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "第31章 饕餮贪食无厌",
+      "title": "第31章 饕餮贪食无厌",
+      "full_path": "上下五千年/E4神话故事/山海经/第31章 饕餮贪食无厌",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 911487,
+      "char_count": 3516,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第31章 饕餮贪食无厌/第31章 饕餮贪食无厌.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "第32章 混沌无面目",
+      "title": "第32章 混沌无面目",
+      "full_path": "上下五千年/E4神话故事/山海经/第32章 混沌无面目",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1080554,
+      "char_count": 4208,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第32章 混沌无面目/第32章 混沌无面目.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "第33章 梼杌顽固不化",
+      "title": "第33章 梼杌顽固不化",
+      "full_path": "上下五千年/E4神话故事/山海经/第33章 梼杌顽固不化",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 774843,
+      "char_count": 2979,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第33章 梼杌顽固不化/第33章 梼杌顽固不化.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "第34章 当康鸣叫兆丰年",
+      "title": "第34章 当康鸣叫兆丰年",
+      "full_path": "上下五千年/E4神话故事/山海经/第34章 当康鸣叫兆丰年",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 679444,
+      "char_count": 2682,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第34章 当康鸣叫兆丰年/第34章 当康鸣叫兆丰年.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "第35章 青鸾报信",
+      "title": "第35章 青鸾报信",
+      "full_path": "上下五千年/E4神话故事/山海经/第35章 青鸾报信",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1089727,
+      "char_count": 4199,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第35章 青鸾报信/第35章 青鸾报信.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "第36章 陆吾守护昆仑",
+      "title": "第36章 陆吾守护昆仑",
+      "full_path": "上下五千年/E4神话故事/山海经/第36章 陆吾守护昆仑",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1214138,
+      "char_count": 4801,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第36章 陆吾守护昆仑/第36章 陆吾守护昆仑.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "第37章 西王母掌不死药",
+      "title": "第37章 西王母掌不死药",
+      "full_path": "上下五千年/E4神话故事/山海经/第37章 西王母掌不死药",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1174236,
+      "char_count": 4558,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第37章 西王母掌不死药/第37章 西王母掌不死药.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "第38章 开明兽守九门",
+      "title": "第38章 开明兽守九门",
+      "full_path": "上下五千年/E4神话故事/山海经/第38章 开明兽守九门",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1144588,
+      "char_count": 4360,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第38章 开明兽守九门/第38章 开明兽守九门.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "第39章 英招巡游四海",
+      "title": "第39章 英招巡游四海",
+      "full_path": "上下五千年/E4神话故事/山海经/第39章 英招巡游四海",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1354944,
+      "char_count": 5195,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第39章 英招巡游四海/第39章 英招巡游四海.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "第40章 句芒春神催生",
+      "title": "第40章 句芒春神催生",
+      "full_path": "上下五千年/E4神话故事/山海经/第40章 句芒春神催生",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1019443,
+      "char_count": 3962,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第40章 句芒春神催生/第40章 句芒春神催生.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "第41章 祝融火神",
+      "title": "第41章 祝融火神",
+      "full_path": "上下五千年/E4神话故事/山海经/第41章 祝融火神",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 759882,
+      "char_count": 2980,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第41章 祝融火神/第41章 祝融火神.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "第42章 共工水神",
+      "title": "第42章 共工水神",
+      "full_path": "上下五千年/E4神话故事/山海经/第42章 共工水神",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1305019,
+      "char_count": 5051,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第42章 共工水神/第42章 共工水神.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "第43章 蓐收金神",
+      "title": "第43章 蓐收金神",
+      "full_path": "上下五千年/E4神话故事/山海经/第43章 蓐收金神",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 847524,
+      "char_count": 3381,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第43章 蓐收金神/第43章 蓐收金神.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "第44章 玄冥水神",
+      "title": "第44章 玄冥水神",
+      "full_path": "上下五千年/E4神话故事/山海经/第44章 玄冥水神",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 963364,
+      "char_count": 3718,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第44章 玄冥水神/第44章 玄冥水神.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "第45章 后土掌大地",
+      "title": "第45章 后土掌大地",
+      "full_path": "上下五千年/E4神话故事/山海经/第45章 后土掌大地",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1118938,
+      "char_count": 4303,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第45章 后土掌大地/第45章 后土掌大地.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "第46章 常羲浴月",
+      "title": "第46章 常羲浴月",
+      "full_path": "上下五千年/E4神话故事/山海经/第46章 常羲浴月",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1363515,
+      "char_count": 5301,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第46章 常羲浴月/第46章 常羲浴月.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "第47章 羲和御日",
+      "title": "第47章 羲和御日",
+      "full_path": "上下五千年/E4神话故事/山海经/第47章 羲和御日",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1402485,
+      "char_count": 5411,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第47章 羲和御日/第47章 羲和御日.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "第48章 蚩尤八十一兄弟",
+      "title": "第48章 蚩尤八十一兄弟",
+      "full_path": "上下五千年/E4神话故事/山海经/第48章 蚩尤八十一兄弟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 785022,
+      "char_count": 3058,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第48章 蚩尤八十一兄弟/第48章 蚩尤八十一兄弟.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "第49章 雷神雷泽",
+      "title": "第49章 雷神雷泽",
+      "full_path": "上下五千年/E4神话故事/山海经/第49章 雷神雷泽",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 991089,
+      "char_count": 3901,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第49章 雷神雷泽/第49章 雷神雷泽.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "第50章 河伯冯夷",
+      "title": "第50章 河伯冯夷",
+      "full_path": "上下五千年/E4神话故事/山海经/第50章 河伯冯夷",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1125696,
+      "char_count": 4347,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第50章 河伯冯夷/第50章 河伯冯夷.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "第51章 雨师屏翳",
+      "title": "第51章 雨师屏翳",
+      "full_path": "上下五千年/E4神话故事/山海经/第51章 雨师屏翳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1234152,
+      "char_count": 4716,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第51章 雨师屏翳/第51章 雨师屏翳.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "第52章 风伯飞廉",
+      "title": "第52章 风伯飞廉",
+      "full_path": "上下五千年/E4神话故事/山海经/第52章 风伯飞廉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 874095,
+      "char_count": 3378,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第52章 风伯飞廉/第52章 风伯飞廉.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "第53章 女丑曝日求雨",
+      "title": "第53章 女丑曝日求雨",
+      "full_path": "上下五千年/E4神话故事/山海经/第53章 女丑曝日求雨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1149021,
+      "char_count": 4366,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第53章 女丑曝日求雨/第53章 女丑曝日求雨.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "第54章 夏耕尸",
+      "title": "第54章 夏耕尸",
+      "full_path": "上下五千年/E4神话故事/山海经/第54章 夏耕尸",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 822545,
+      "char_count": 2951,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第54章 夏耕尸/第54章 夏耕尸.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "第55章 王子夜尸",
+      "title": "第55章 王子夜尸",
+      "full_path": "上下五千年/E4神话故事/山海经/第55章 王子夜尸",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 703769,
+      "char_count": 2758,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第55章 王子夜尸/第55章 王子夜尸.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "第56章 贰负杀窫窳",
+      "title": "第56章 贰负杀窫窳",
+      "full_path": "上下五千年/E4神话故事/山海经/第56章 贰负杀窫窳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1287689,
+      "char_count": 4966,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第56章 贰负杀窫窳/第56章 贰负杀窫窳.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "第57章 危与贰负",
+      "title": "第57章 危与贰负",
+      "full_path": "上下五千年/E4神话故事/山海经/第57章 危与贰负",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 968373,
+      "char_count": 3744,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第57章 危与贰负/第57章 危与贰负.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "第58章 女子国",
+      "title": "第58章 女子国",
+      "full_path": "上下五千年/E4神话故事/山海经/第58章 女子国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 981197,
+      "char_count": 3704,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第58章 女子国/第58章 女子国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "第59章 丈夫国",
+      "title": "第59章 丈夫国",
+      "full_path": "上下五千年/E4神话故事/山海经/第59章 丈夫国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 858484,
+      "char_count": 3334,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第59章 丈夫国/第59章 丈夫国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "第60章 轩辕国",
+      "title": "第60章 轩辕国",
+      "full_path": "上下五千年/E4神话故事/山海经/第60章 轩辕国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1271048,
+      "char_count": 4885,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第60章 轩辕国/第60章 轩辕国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "第61章 不死民",
+      "title": "第61章 不死民",
+      "full_path": "上下五千年/E4神话故事/山海经/第61章 不死民",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1492258,
+      "char_count": 5715,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第61章 不死民/第61章 不死民.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "第62章 贯胸国",
+      "title": "第62章 贯胸国",
+      "full_path": "上下五千年/E4神话故事/山海经/第62章 贯胸国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 908304,
+      "char_count": 3482,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第62章 贯胸国/第62章 贯胸国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "第63章 长臂国",
+      "title": "第63章 长臂国",
+      "full_path": "上下五千年/E4神话故事/山海经/第63章 长臂国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1024252,
+      "char_count": 3687,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第63章 长臂国/第63章 长臂国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "第64章 羽民国",
+      "title": "第64章 羽民国",
+      "full_path": "上下五千年/E4神话故事/山海经/第64章 羽民国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1082586,
+      "char_count": 4158,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第64章 羽民国/第64章 羽民国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "第65章 厌火国",
+      "title": "第65章 厌火国",
+      "full_path": "上下五千年/E4神话故事/山海经/第65章 厌火国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1121165,
+      "char_count": 4299,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第65章 厌火国/第65章 厌火国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "第66章 交胫国",
+      "title": "第66章 交胫国",
+      "full_path": "上下五千年/E4神话故事/山海经/第66章 交胫国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 971017,
+      "char_count": 3658,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第66章 交胫国/第66章 交胫国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "第67章 聂耳国",
+      "title": "第67章 聂耳国",
+      "full_path": "上下五千年/E4神话故事/山海经/第67章 聂耳国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1042765,
+      "char_count": 3710,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第67章 聂耳国/第67章 聂耳国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "第68章 奇肱国",
+      "title": "第68章 奇肱国",
+      "full_path": "上下五千年/E4神话故事/山海经/第68章 奇肱国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1732939,
+      "char_count": 6645,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第68章 奇肱国/第68章 奇肱国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "第69章 三身国",
+      "title": "第69章 三身国",
+      "full_path": "上下五千年/E4神话故事/山海经/第69章 三身国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1401656,
+      "char_count": 5413,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第69章 三身国/第69章 三身国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "第70章 一臂国",
+      "title": "第70章 一臂国",
+      "full_path": "上下五千年/E4神话故事/山海经/第70章 一臂国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 980340,
+      "char_count": 3737,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第70章 一臂国/第70章 一臂国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "第71章 无肠国",
+      "title": "第71章 无肠国",
+      "full_path": "上下五千年/E4神话故事/山海经/第71章 无肠国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 924025,
+      "char_count": 3600,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第71章 无肠国/第71章 无肠国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "第72章 深目国",
+      "title": "第72章 深目国",
+      "full_path": "上下五千年/E4神话故事/山海经/第72章 深目国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1735367,
+      "char_count": 6667,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第72章 深目国/第72章 深目国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "第73章 柔利国",
+      "title": "第73章 柔利国",
+      "full_path": "上下五千年/E4神话故事/山海经/第73章 柔利国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 1068871,
+      "char_count": 4080,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第73章 柔利国/第73章 柔利国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "第74章 毛民国",
+      "title": "第74章 毛民国",
+      "full_path": "上下五千年/E4神话故事/山海经/第74章 毛民国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 908866,
+      "char_count": 3417,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第74章 毛民国/第74章 毛民国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "第75章 黑齿国",
+      "title": "第75章 黑齿国",
+      "full_path": "上下五千年/E4神话故事/山海经/第75章 黑齿国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1630082,
+      "char_count": 6177,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第75章 黑齿国/第75章 黑齿国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "第76章 玄股国",
+      "title": "第76章 玄股国",
+      "full_path": "上下五千年/E4神话故事/山海经/第76章 玄股国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 719634,
+      "char_count": 2838,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第76章 玄股国/第76章 玄股国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "第77章 氐人国",
+      "title": "第77章 氐人国",
+      "full_path": "上下五千年/E4神话故事/山海经/第77章 氐人国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1127585,
+      "char_count": 4403,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第77章 氐人国/第77章 氐人国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "第78章 钉灵国",
+      "title": "第78章 钉灵国",
+      "full_path": "上下五千年/E4神话故事/山海经/第78章 钉灵国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 775163,
+      "char_count": 3008,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第78章 钉灵国/第78章 钉灵国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "第79章 儋耳国",
+      "title": "第79章 儋耳国",
+      "full_path": "上下五千年/E4神话故事/山海经/第79章 儋耳国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 763219,
+      "char_count": 2974,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第79章 儋耳国/第79章 儋耳国.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "第80章 小人国",
+      "title": "第80章 小人国",
+      "full_path": "上下五千年/E4神话故事/山海经/第80章 小人国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1045314,
+      "char_count": 4139,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/山海经/第80章 小人国/第80章 小人国.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

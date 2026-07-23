@@ -1,0 +1,2437 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "品格养成/A1勇敢",
+  "name": "A1勇敢",
+  "cover": {
+    "cover_image_url": "covers/generated/品格养成/A1勇敢/A1勇敢.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 173,
+  "entries": [
+    {
+      "entry_id": "上台讲故事时声音发抖却坚持讲完",
+      "title": "上台讲故事时声音发抖却坚持讲完",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/上台讲故事时声音发抖却坚持讲完",
+      "level": "L4",
+      "duration_ms": 499382,
+      "char_count": 1949,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/上台讲故事时声音发抖却坚持讲完/上台讲故事时声音发抖却坚持讲完.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "主动报名参加从未尝试的朗诵比赛",
+      "title": "主动报名参加从未尝试的朗诵比赛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/主动报名参加从未尝试的朗诵比赛",
+      "level": "L4",
+      "duration_ms": 410990,
+      "char_count": 1580,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/主动报名参加从未尝试的朗诵比赛/主动报名参加从未尝试的朗诵比赛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "体育课跳绳总失败仍不断尝试",
+      "title": "体育课跳绳总失败仍不断尝试",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/体育课跳绳总失败仍不断尝试",
+      "level": "L4",
+      "duration_ms": 445313,
+      "char_count": 1768,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/体育课跳绳总失败仍不断尝试/体育课跳绳总失败仍不断尝试.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "假装摔倒逗哭弟弟后，红着脸说了‘对不起’",
+      "title": "假装摔倒逗哭弟弟后，红着脸说了‘对不起’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/假装摔倒逗哭弟弟后，红着脸说了‘对不起’",
+      "level": "L4",
+      "duration_ms": 276421,
+      "char_count": 1098,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/假装摔倒逗哭弟弟后，红着脸说了‘对不起’/假装摔倒逗哭弟弟后，红着脸说了‘对不起’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "储蓄罐里的钱快攒够了，忍住没买小零食",
+      "title": "储蓄罐里的钱快攒够了，忍住没买小零食",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/储蓄罐里的钱快攒够了，忍住没买小零食",
+      "level": "L4",
+      "duration_ms": 361566,
+      "char_count": 1396,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/储蓄罐里的钱快攒够了，忍住没买小零食/储蓄罐里的钱快攒够了，忍住没买小零食.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "午睡时一个人躺在小床上没有哭",
+      "title": "午睡时一个人躺在小床上没有哭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/午睡时一个人躺在小床上没有哭",
+      "level": "L4",
+      "duration_ms": 199994,
+      "char_count": 797,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/午睡时一个人躺在小床上没有哭/午睡时一个人躺在小床上没有哭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "发现同学作弊时选择告诉老师",
+      "title": "发现同学作弊时选择告诉老师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/发现同学作弊时选择告诉老师",
+      "level": "L4",
+      "duration_ms": 368167,
+      "char_count": 1433,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/发现同学作弊时选择告诉老师/发现同学作弊时选择告诉老师.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "发现腋下长了小绒毛，偷偷问妈妈是不是正常",
+      "title": "发现腋下长了小绒毛，偷偷问妈妈是不是正常",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/发现腋下长了小绒毛，偷偷问妈妈是不是正常",
+      "level": "L4",
+      "duration_ms": 393419,
+      "char_count": 1518,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/发现腋下长了小绒毛，偷偷问妈妈是不是正常/发现腋下长了小绒毛，偷偷问妈妈是不是正常.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吃了一口苦瓜，皱着眉头吞了下去",
+      "title": "吃了一口苦瓜，皱着眉头吞了下去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/吃了一口苦瓜，皱着眉头吞了下去",
+      "level": "L4",
+      "duration_ms": 377279,
+      "char_count": 1478,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/吃了一口苦瓜，皱着眉头吞了下去/吃了一口苦瓜，皱着眉头吞了下去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同桌抢橡皮时大声说这是我的",
+      "title": "同桌抢橡皮时大声说这是我的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/同桌抢橡皮时大声说这是我的",
+      "level": "L4",
+      "duration_ms": 383951,
+      "char_count": 1474,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/同桌抢橡皮时大声说这是我的/同桌抢橡皮时大声说这是我的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "向喜欢的老师承认作业是自己抄的",
+      "title": "向喜欢的老师承认作业是自己抄的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/向喜欢的老师承认作业是自己抄的",
+      "level": "L4",
+      "duration_ms": 108463,
+      "char_count": 434,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/向喜欢的老师承认作业是自己抄的/向喜欢的老师承认作业是自己抄的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "向父母坦白自己偷偷玩游戏两个小时",
+      "title": "向父母坦白自己偷偷玩游戏两个小时",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/向父母坦白自己偷偷玩游戏两个小时",
+      "level": "L4",
+      "duration_ms": 364349,
+      "char_count": 1411,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/向父母坦白自己偷偷玩游戏两个小时/向父母坦白自己偷偷玩游戏两个小时.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "听到同学在背后嘲笑我的新眼镜，我抬头笑了",
+      "title": "听到同学在背后嘲笑我的新眼镜，我抬头笑了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/听到同学在背后嘲笑我的新眼镜，我抬头笑了",
+      "level": "L4",
+      "duration_ms": 453739,
+      "char_count": 1746,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/听到同学在背后嘲笑我的新眼镜，我抬头笑了/听到同学在背后嘲笑我的新眼镜，我抬头笑了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "告诉妈妈我想学画画而不是奥数",
+      "title": "告诉妈妈我想学画画而不是奥数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/告诉妈妈我想学画画而不是奥数",
+      "level": "L4",
+      "duration_ms": 462633,
+      "char_count": 1823,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/告诉妈妈我想学画画而不是奥数/告诉妈妈我想学画画而不是奥数.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和好朋友比赛跑步输了但祝贺对方",
+      "title": "和好朋友比赛跑步输了但祝贺对方",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/和好朋友比赛跑步输了但祝贺对方",
+      "level": "L4",
+      "duration_ms": 301703,
+      "char_count": 1176,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/和好朋友比赛跑步输了但祝贺对方/和好朋友比赛跑步输了但祝贺对方.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和小伙伴吵架后，我主动说了“对不起”",
+      "title": "和小伙伴吵架后，我主动说了“对不起”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/和小伙伴吵架后，我主动说了“对不起”",
+      "level": "L4",
+      "duration_ms": 246556,
+      "char_count": 943,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/和小伙伴吵架后，我主动说了“对不起”/和小伙伴吵架后，我主动说了“对不起”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和小伙伴抢玩具后说出对不起",
+      "title": "和小伙伴抢玩具后说出对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/和小伙伴抢玩具后说出对不起",
+      "level": "L4",
+      "duration_ms": 350244,
+      "char_count": 1376,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/和小伙伴抢玩具后说出对不起/和小伙伴抢玩具后说出对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和爸爸说再见时嘴角向上翘",
+      "title": "和爸爸说再见时嘴角向上翘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/和爸爸说再见时嘴角向上翘",
+      "level": "L4",
+      "duration_ms": 272779,
+      "char_count": 1073,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/和爸爸说再见时嘴角向上翘/和爸爸说再见时嘴角向上翘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和狗狗打招呼，轻轻摸摸毛",
+      "title": "和狗狗打招呼，轻轻摸摸毛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/和狗狗打招呼，轻轻摸摸毛",
+      "level": "L4",
+      "duration_ms": 296136,
+      "char_count": 1143,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/和狗狗打招呼，轻轻摸摸毛/和狗狗打招呼，轻轻摸摸毛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和陌生小朋友分享小汽车的那一刻",
+      "title": "和陌生小朋友分享小汽车的那一刻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/和陌生小朋友分享小汽车的那一刻",
+      "level": "L4",
+      "duration_ms": 334027,
+      "char_count": 1301,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/和陌生小朋友分享小汽车的那一刻/和陌生小朋友分享小汽车的那一刻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公园滑滑梯最高处，腿发抖还是滑下去了",
+      "title": "在公园滑滑梯最高处，腿发抖还是滑下去了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在公园滑滑梯最高处，腿发抖还是滑下去了",
+      "level": "L4",
+      "duration_ms": 348280,
+      "char_count": 1383,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在公园滑滑梯最高处，腿发抖还是滑下去了/在公园滑滑梯最高处，腿发抖还是滑下去了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公园里对陌生阿姨说谢谢",
+      "title": "在公园里对陌生阿姨说谢谢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在公园里对陌生阿姨说谢谢",
+      "level": "L4",
+      "duration_ms": 576380,
+      "char_count": 2260,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在公园里对陌生阿姨说谢谢/在公园里对陌生阿姨说谢谢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在别人嘲笑自己梦想时坚持说“我能行”",
+      "title": "在别人嘲笑自己梦想时坚持说“我能行”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在别人嘲笑自己梦想时坚持说“我能行”",
+      "level": "L4",
+      "duration_ms": 363815,
+      "char_count": 1385,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在别人嘲笑自己梦想时坚持说“我能行”/在别人嘲笑自己梦想时坚持说“我能行”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在动物园看大老虎，虽然腿发抖还是没躲开",
+      "title": "在动物园看大老虎，虽然腿发抖还是没躲开",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在动物园看大老虎，虽然腿发抖还是没躲开",
+      "level": "L4",
+      "duration_ms": 417845,
+      "char_count": 1632,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在动物园看大老虎，虽然腿发抖还是没躲开/在动物园看大老虎，虽然腿发抖还是没躲开.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在团体中站出来替被嘲笑的同学说话",
+      "title": "在团体中站出来替被嘲笑的同学说话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在团体中站出来替被嘲笑的同学说话",
+      "level": "L4",
+      "duration_ms": 311846,
+      "char_count": 1207,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在团体中站出来替被嘲笑的同学说话/在团体中站出来替被嘲笑的同学说话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在家庭会议上说出自己的真实想法",
+      "title": "在家庭会议上说出自己的真实想法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在家庭会议上说出自己的真实想法",
+      "level": "L4",
+      "duration_ms": 345063,
+      "char_count": 1328,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在家庭会议上说出自己的真实想法/在家庭会议上说出自己的真实想法.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在幼儿园举手回答问题，手心出汗但声音响亮",
+      "title": "在幼儿园举手回答问题，手心出汗但声音响亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在幼儿园举手回答问题，手心出汗但声音响亮",
+      "level": "L4",
+      "duration_ms": 492987,
+      "char_count": 1907,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在幼儿园举手回答问题，手心出汗但声音响亮/在幼儿园举手回答问题，手心出汗但声音响亮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在幼儿园勇敢说出我不是故意的",
+      "title": "在幼儿园勇敢说出我不是故意的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在幼儿园勇敢说出我不是故意的",
+      "level": "L4",
+      "duration_ms": 383170,
+      "char_count": 1496,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在幼儿园勇敢说出我不是故意的/在幼儿园勇敢说出我不是故意的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在幼儿园想妈妈忍住没掉眼泪",
+      "title": "在幼儿园想妈妈忍住没掉眼泪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在幼儿园想妈妈忍住没掉眼泪",
+      "level": "L4",
+      "duration_ms": 297887,
+      "char_count": 1175,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在幼儿园想妈妈忍住没掉眼泪/在幼儿园想妈妈忍住没掉眼泪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在操场上承认自己跑得慢但坚持完赛",
+      "title": "在操场上承认自己跑得慢但坚持完赛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在操场上承认自己跑得慢但坚持完赛",
+      "level": "L4",
+      "duration_ms": 299562,
+      "char_count": 1116,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在操场上承认自己跑得慢但坚持完赛/在操场上承认自己跑得慢但坚持完赛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在数学考砸后主动找老师分析错题",
+      "title": "在数学考砸后主动找老师分析错题",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在数学考砸后主动找老师分析错题",
+      "level": "L4",
+      "duration_ms": 384312,
+      "char_count": 1492,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在数学考砸后主动找老师分析错题/在数学考砸后主动找老师分析错题.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在毕业晚会上独自上台唱跑调的歌",
+      "title": "在毕业晚会上独自上台唱跑调的歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在毕业晚会上独自上台唱跑调的歌",
+      "level": "L4",
+      "duration_ms": 415313,
+      "char_count": 1632,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在毕业晚会上独自上台唱跑调的歌/在毕业晚会上独自上台唱跑调的歌.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在沙坑里被别的小朋友抢铲子，我喊‘公平轮流玩’",
+      "title": "在沙坑里被别的小朋友抢铲子，我喊‘公平轮流玩’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在沙坑里被别的小朋友抢铲子，我喊‘公平轮流玩’",
+      "level": "L4",
+      "duration_ms": 330350,
+      "char_count": 1310,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在沙坑里被别的小朋友抢铲子，我喊‘公平轮流玩’/在沙坑里被别的小朋友抢铲子，我喊‘公平轮流玩’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在游乐场想玩旋转木马却怕高还是上去了",
+      "title": "在游乐场想玩旋转木马却怕高还是上去了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在游乐场想玩旋转木马却怕高还是上去了",
+      "level": "L4",
+      "duration_ms": 431560,
+      "char_count": 1702,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在游乐场想玩旋转木马却怕高还是上去了/在游乐场想玩旋转木马却怕高还是上去了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在游泳池边，踮着脚尖慢慢踩进水里",
+      "title": "在游泳池边，踮着脚尖慢慢踩进水里",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在游泳池边，踮着脚尖慢慢踩进水里",
+      "level": "L4",
+      "duration_ms": 288780,
+      "char_count": 1128,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在游泳池边，踮着脚尖慢慢踩进水里/在游泳池边，踮着脚尖慢慢踩进水里.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在游泳馆跳下深水区的那一刻",
+      "title": "在游泳馆跳下深水区的那一刻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在游泳馆跳下深水区的那一刻",
+      "level": "L4",
+      "duration_ms": 521773,
+      "char_count": 2057,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在游泳馆跳下深水区的那一刻/在游泳馆跳下深水区的那一刻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在漆黑的夜里独自关灯睡觉",
+      "title": "在漆黑的夜里独自关灯睡觉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在漆黑的夜里独自关灯睡觉",
+      "level": "L4",
+      "duration_ms": 536875,
+      "char_count": 2049,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在漆黑的夜里独自关灯睡觉/在漆黑的夜里独自关灯睡觉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在跳蚤市场卖出自己做的第一个手工艺品",
+      "title": "在跳蚤市场卖出自己做的第一个手工艺品",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/在跳蚤市场卖出自己做的第一个手工艺品",
+      "level": "L4",
+      "duration_ms": 347133,
+      "char_count": 1357,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/在跳蚤市场卖出自己做的第一个手工艺品/在跳蚤市场卖出自己做的第一个手工艺品.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "夏令营晚上想家，在被窝里小声唱歌直到天亮",
+      "title": "夏令营晚上想家，在被窝里小声唱歌直到天亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/夏令营晚上想家，在被窝里小声唱歌直到天亮",
+      "level": "L4",
+      "duration_ms": 384709,
+      "char_count": 1520,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/夏令营晚上想家，在被窝里小声唱歌直到天亮/夏令营晚上想家，在被窝里小声唱歌直到天亮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "大球滚滚，我伸脚踢一下",
+      "title": "大球滚滚，我伸脚踢一下",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/大球滚滚，我伸脚踢一下",
+      "level": "L4",
+      "duration_ms": 262174,
+      "char_count": 1040,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/大球滚滚，我伸脚踢一下/大球滚滚，我伸脚踢一下.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好朋友拉着别人说悄悄话，我还是走了过去",
+      "title": "好朋友拉着别人说悄悄话，我还是走了过去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/好朋友拉着别人说悄悄话，我还是走了过去",
+      "level": "L4",
+      "duration_ms": 346524,
+      "char_count": 1361,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/好朋友拉着别人说悄悄话，我还是走了过去/好朋友拉着别人说悄悄话，我还是走了过去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈抱抱，我敢在泳池里踢水",
+      "title": "妈妈抱抱，我敢在泳池里踢水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/妈妈抱抱，我敢在泳池里踢水",
+      "level": "L4",
+      "duration_ms": 349671,
+      "char_count": 1381,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/妈妈抱抱，我敢在泳池里踢水/妈妈抱抱，我敢在泳池里踢水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈要关灯睡觉，我鼓起勇气说‘再讲一个故事’",
+      "title": "妈妈要关灯睡觉，我鼓起勇气说‘再讲一个故事’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/妈妈要关灯睡觉，我鼓起勇气说‘再讲一个故事’",
+      "level": "L4",
+      "duration_ms": 388170,
+      "char_count": 1499,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/妈妈要关灯睡觉，我鼓起勇气说‘再讲一个故事’/妈妈要关灯睡觉，我鼓起勇气说‘再讲一个故事’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈让我去邻居家借酱油，我小跑着敲门",
+      "title": "妈妈让我去邻居家借酱油，我小跑着敲门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/妈妈让我去邻居家借酱油，我小跑着敲门",
+      "level": "L4",
+      "duration_ms": 351242,
+      "char_count": 1363,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/妈妈让我去邻居家借酱油，我小跑着敲门/妈妈让我去邻居家借酱油，我小跑着敲门.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈让我独自去楼下小卖部买酱油的夜晚",
+      "title": "妈妈让我独自去楼下小卖部买酱油的夜晚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/妈妈让我独自去楼下小卖部买酱油的夜晚",
+      "level": "L4",
+      "duration_ms": 497776,
+      "char_count": 1961,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/妈妈让我独自去楼下小卖部买酱油的夜晚/妈妈让我独自去楼下小卖部买酱油的夜晚.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈问‘是你打翻牛奶的吗？’我点点头承认",
+      "title": "妈妈问‘是你打翻牛奶的吗？’我点点头承认",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/妈妈问‘是你打翻牛奶的吗？’我点点头承认",
+      "level": "L4",
+      "duration_ms": 399776,
+      "char_count": 1581,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/妈妈问‘是你打翻牛奶的吗？’我点点头承认/妈妈问‘是你打翻牛奶的吗？’我点点头承认.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "学走路摔跤，拍拍手爬起来",
+      "title": "学走路摔跤，拍拍手爬起来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/学走路摔跤，拍拍手爬起来",
+      "level": "L4",
+      "duration_ms": 366493,
+      "char_count": 1425,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/学走路摔跤，拍拍手爬起来/学走路摔跤，拍拍手爬起来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "学跳绳总被绳子绊倒，我数着数跳了一个",
+      "title": "学跳绳总被绳子绊倒，我数着数跳了一个",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/学跳绳总被绳子绊倒，我数着数跳了一个",
+      "level": "L4",
+      "duration_ms": 390167,
+      "char_count": 1525,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/学跳绳总被绳子绊倒，我数着数跳了一个/学跳绳总被绳子绊倒，我数着数跳了一个.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "学骑自行车摔了三次，拍拍土再跨上去",
+      "title": "学骑自行车摔了三次，拍拍土再跨上去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/学骑自行车摔了三次，拍拍土再跨上去",
+      "level": "L4",
+      "duration_ms": 315564,
+      "char_count": 1242,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/学骑自行车摔了三次，拍拍土再跨上去/学骑自行车摔了三次，拍拍土再跨上去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "学骑自行车摔倒后爬起来再骑",
+      "title": "学骑自行车摔倒后爬起来再骑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/学骑自行车摔倒后爬起来再骑",
+      "level": "L4",
+      "duration_ms": 352311,
+      "char_count": 1394,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/学骑自行车摔倒后爬起来再骑/学骑自行车摔倒后爬起来再骑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝不怕，自己爬上小滑梯",
+      "title": "宝宝不怕，自己爬上小滑梯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/宝宝不怕，自己爬上小滑梯",
+      "level": "L4",
+      "duration_ms": 347846,
+      "char_count": 1356,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/宝宝不怕，自己爬上小滑梯/宝宝不怕，自己爬上小滑梯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "害怕游泳但闭着眼睛跳进水池",
+      "title": "害怕游泳但闭着眼睛跳进水池",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/害怕游泳但闭着眼睛跳进水池",
+      "level": "L4",
+      "duration_ms": 439594,
+      "char_count": 1721,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/害怕游泳但闭着眼睛跳进水池/害怕游泳但闭着眼睛跳进水池.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "家里来客人，我主动说‘叔叔好，请坐我的小板凳’",
+      "title": "家里来客人，我主动说‘叔叔好，请坐我的小板凳’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/家里来客人，我主动说‘叔叔好，请坐我的小板凳’",
+      "level": "L4",
+      "duration_ms": 500667,
+      "char_count": 1969,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/家里来客人，我主动说‘叔叔好，请坐我的小板凳’/家里来客人，我主动说‘叔叔好，请坐我的小板凳’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "对沉迷游戏的哥哥说“我们一起出去玩吧”",
+      "title": "对沉迷游戏的哥哥说“我们一起出去玩吧”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/对沉迷游戏的哥哥说“我们一起出去玩吧”",
+      "level": "L4",
+      "duration_ms": 465306,
+      "char_count": 1813,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/对沉迷游戏的哥哥说“我们一起出去玩吧”/对沉迷游戏的哥哥说“我们一起出去玩吧”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "对班主任说“这道题我没听懂”",
+      "title": "对班主任说“这道题我没听懂”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/对班主任说“这道题我没听懂”",
+      "level": "L4",
+      "duration_ms": 361598,
+      "char_count": 1400,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/对班主任说“这道题我没听懂”/对班主任说“这道题我没听懂”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "对镜子里的痘痘说“我不怕你”",
+      "title": "对镜子里的痘痘说“我不怕你”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/对镜子里的痘痘说“我不怕你”",
+      "level": "L4",
+      "duration_ms": 384062,
+      "char_count": 1517,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/对镜子里的痘痘说“我不怕你”/对镜子里的痘痘说“我不怕你”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小企鹅鼓起勇气问可以一起玩吗",
+      "title": "小企鹅鼓起勇气问可以一起玩吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小企鹅鼓起勇气问可以一起玩吗",
+      "level": "L4",
+      "duration_ms": 400557,
+      "char_count": 1526,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小企鹅鼓起勇气问可以一起玩吗/小企鹅鼓起勇气问可以一起玩吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔子第一次松开妈妈的手走进教室",
+      "title": "小兔子第一次松开妈妈的手走进教室",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小兔子第一次松开妈妈的手走进教室",
+      "level": "L4",
+      "duration_ms": 311493,
+      "char_count": 1215,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小兔子第一次松开妈妈的手走进教室/小兔子第一次松开妈妈的手走进教室.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小刺猬主动把球传给旁边的小朋友",
+      "title": "小刺猬主动把球传给旁边的小朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小刺猬主动把球传给旁边的小朋友",
+      "level": "L4",
+      "duration_ms": 282064,
+      "char_count": 1096,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小刺猬主动把球传给旁边的小朋友/小刺猬主动把球传给旁边的小朋友.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小朋友抢我玩具，我大声说‘这是我的，请还给我’",
+      "title": "小朋友抢我玩具，我大声说‘这是我的，请还给我’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小朋友抢我玩具，我大声说‘这是我的，请还给我’",
+      "level": "L4",
+      "duration_ms": 245067,
+      "char_count": 975,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小朋友抢我玩具，我大声说‘这是我的，请还给我’/小朋友抢我玩具，我大声说‘这是我的，请还给我’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小松鼠捡回被风吹走的气球",
+      "title": "小松鼠捡回被风吹走的气球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小松鼠捡回被风吹走的气球",
+      "level": "L4",
+      "duration_ms": 257994,
+      "char_count": 1002,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小松鼠捡回被风吹走的气球/小松鼠捡回被风吹走的气球.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小浣熊独自去洗手间开灯",
+      "title": "小浣熊独自去洗手间开灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小浣熊独自去洗手间开灯",
+      "level": "L4",
+      "duration_ms": 540234,
+      "char_count": 2094,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小浣熊独自去洗手间开灯/小浣熊独自去洗手间开灯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小猫咪第一次爬树成功没哭",
+      "title": "小猫咪第一次爬树成功没哭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小猫咪第一次爬树成功没哭",
+      "level": "L4",
+      "duration_ms": 519878,
+      "char_count": 2050,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小猫咪第一次爬树成功没哭/小猫咪第一次爬树成功没哭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小猫咪躲到床底下，我趴着伸手去够它",
+      "title": "小猫咪躲到床底下，我趴着伸手去够它",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小猫咪躲到床底下，我趴着伸手去够它",
+      "level": "L4",
+      "duration_ms": 415918,
+      "char_count": 1622,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小猫咪躲到床底下，我趴着伸手去够它/小猫咪躲到床底下，我趴着伸手去够它.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小石子硌脚，我敢踩过去",
+      "title": "小石子硌脚，我敢踩过去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小石子硌脚，我敢踩过去",
+      "level": "L4",
+      "duration_ms": 329276,
+      "char_count": 1296,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小石子硌脚，我敢踩过去/小石子硌脚，我敢踩过去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小积木倒了，我敢再搭高高",
+      "title": "小积木倒了，我敢再搭高高",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小积木倒了，我敢再搭高高",
+      "level": "L4",
+      "duration_ms": 319456,
+      "char_count": 1258,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小积木倒了，我敢再搭高高/小积木倒了，我敢再搭高高.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小蚂蚁爬手背，我不哭不跑",
+      "title": "小蚂蚁爬手背，我不哭不跑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小蚂蚁爬手背，我不哭不跑",
+      "level": "L4",
+      "duration_ms": 602409,
+      "char_count": 2352,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小蚂蚁爬手背，我不哭不跑/小蚂蚁爬手背，我不哭不跑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小象第一次离开妈妈在幼儿园午睡",
+      "title": "小象第一次离开妈妈在幼儿园午睡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小象第一次离开妈妈在幼儿园午睡",
+      "level": "L6",
+      "duration_ms": 333500,
+      "char_count": 1549,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小象第一次离开妈妈在幼儿园午睡/小象第一次离开妈妈在幼儿园午睡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小鸭子跳进水池发现水不深",
+      "title": "小鸭子跳进水池发现水不深",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/小鸭子跳进水池发现水不深",
+      "level": "L4",
+      "duration_ms": 301814,
+      "char_count": 1162,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/小鸭子跳进水池发现水不深/小鸭子跳进水池发现水不深.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园吃青菜时，皱着眉头咽下了第一口",
+      "title": "幼儿园吃青菜时，皱着眉头咽下了第一口",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/幼儿园吃青菜时，皱着眉头咽下了第一口",
+      "level": "L4",
+      "duration_ms": 397563,
+      "char_count": 1544,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/幼儿园吃青菜时，皱着眉头咽下了第一口/幼儿园吃青菜时，皱着眉头咽下了第一口.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园舞台表演，我对着话筒唱出了声",
+      "title": "幼儿园舞台表演，我对着话筒唱出了声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/幼儿园舞台表演，我对着话筒唱出了声",
+      "level": "L4",
+      "duration_ms": 411347,
+      "char_count": 1616,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/幼儿园舞台表演，我对着话筒唱出了声/幼儿园舞台表演，我对着话筒唱出了声.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "当众承认自己害怕打针但伸出胳膊",
+      "title": "当众承认自己害怕打针但伸出胳膊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/当众承认自己害怕打针但伸出胳膊",
+      "level": "L4",
+      "duration_ms": 330560,
+      "char_count": 1296,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/当众承认自己害怕打针但伸出胳膊/当众承认自己害怕打针但伸出胳膊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "忘记带作业到学校向老师坦白",
+      "title": "忘记带作业到学校向老师坦白",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/忘记带作业到学校向老师坦白",
+      "level": "L4",
+      "duration_ms": 313064,
+      "char_count": 1243,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/忘记带作业到学校向老师坦白/忘记带作业到学校向老师坦白.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "怕怕走稳，牵着气球慢慢跑",
+      "title": "怕怕走稳，牵着气球慢慢跑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/怕怕走稳，牵着气球慢慢跑",
+      "level": "L4",
+      "duration_ms": 259566,
+      "char_count": 1016,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/怕怕走稳，牵着气球慢慢跑/怕怕走稳，牵着气球慢慢跑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "怕生躲妈妈，慢慢伸手握握",
+      "title": "怕生躲妈妈，慢慢伸手握握",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/怕生躲妈妈，慢慢伸手握握",
+      "level": "L4",
+      "duration_ms": 277063,
+      "char_count": 1091,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/怕生躲妈妈，慢慢伸手握握/怕生躲妈妈，慢慢伸手握握.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想加入游戏却被说不够厉害仍努力",
+      "title": "想加入游戏却被说不够厉害仍努力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/想加入游戏却被说不够厉害仍努力",
+      "level": "L4",
+      "duration_ms": 280240,
+      "char_count": 1117,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/想加入游戏却被说不够厉害仍努力/想加入游戏却被说不够厉害仍努力.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想和朋友玩却被拒绝后再次邀请",
+      "title": "想和朋友玩却被拒绝后再次邀请",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/想和朋友玩却被拒绝后再次邀请",
+      "level": "L4",
+      "duration_ms": 364886,
+      "char_count": 1401,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/想和朋友玩却被拒绝后再次邀请/想和朋友玩却被拒绝后再次邀请.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打碎教室花盆主动承认错误",
+      "title": "打碎教室花盆主动承认错误",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/打碎教室花盆主动承认错误",
+      "level": "L4",
+      "duration_ms": 431987,
+      "char_count": 1658,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/打碎教室花盆主动承认错误/打碎教室花盆主动承认错误.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打针时忍住不哭还和护士阿姨笑",
+      "title": "打针时忍住不哭还和护士阿姨笑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/打针时忍住不哭还和护士阿姨笑",
+      "level": "L4",
+      "duration_ms": 367345,
+      "char_count": 1442,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/打针时忍住不哭还和护士阿姨笑/打针时忍住不哭还和护士阿姨笑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打针时眼泪打转，却对护士阿姨说‘轻一点’",
+      "title": "打针时眼泪打转，却对护士阿姨说‘轻一点’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/打针时眼泪打转，却对护士阿姨说‘轻一点’",
+      "level": "L4",
+      "duration_ms": 332636,
+      "char_count": 1289,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/打针时眼泪打转，却对护士阿姨说‘轻一点’/打针时眼泪打转，却对护士阿姨说‘轻一点’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打针时眼睛闭得紧紧的，却没哭出声",
+      "title": "打针时眼睛闭得紧紧的，却没哭出声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/打针时眼睛闭得紧紧的，却没哭出声",
+      "level": "L4",
+      "duration_ms": 346312,
+      "char_count": 1372,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/打针时眼睛闭得紧紧的，却没哭出声/打针时眼睛闭得紧紧的，却没哭出声.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打雷时缩在被窝里，但还是伸手关了窗",
+      "title": "打雷时缩在被窝里，但还是伸手关了窗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/打雷时缩在被窝里，但还是伸手关了窗",
+      "level": "L4",
+      "duration_ms": 122105,
+      "char_count": 490,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/打雷时缩在被窝里，但还是伸手关了窗/打雷时缩在被窝里，但还是伸手关了窗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拒绝在考试中抄袭同桌的答案",
+      "title": "拒绝在考试中抄袭同桌的答案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/拒绝在考试中抄袭同桌的答案",
+      "level": "L4",
+      "duration_ms": 379423,
+      "char_count": 1488,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/拒绝在考试中抄袭同桌的答案/拒绝在考试中抄袭同桌的答案.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拒绝好哥们递来的那支烟",
+      "title": "拒绝好哥们递来的那支烟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/拒绝好哥们递来的那支烟",
+      "level": "L4",
+      "duration_ms": 343562,
+      "char_count": 1322,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/拒绝好哥们递来的那支烟/拒绝好哥们递来的那支烟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "捡起摔坏的盆栽并向妈妈坦白",
+      "title": "捡起摔坏的盆栽并向妈妈坦白",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/捡起摔坏的盆栽并向妈妈坦白",
+      "level": "L4",
+      "duration_ms": 396418,
+      "char_count": 1543,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/捡起摔坏的盆栽并向妈妈坦白/捡起摔坏的盆栽并向妈妈坦白.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "摇摇马摇摇，我要自己骑上去",
+      "title": "摇摇马摇摇，我要自己骑上去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/摇摇马摇摇，我要自己骑上去",
+      "level": "L4",
+      "duration_ms": 288138,
+      "char_count": 1143,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/摇摇马摇摇，我要自己骑上去/摇摇马摇摇，我要自己骑上去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "摔倒了膝盖破皮，自己爬起来说‘不哭不哭’",
+      "title": "摔倒了膝盖破皮，自己爬起来说‘不哭不哭’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/摔倒了膝盖破皮，自己爬起来说‘不哭不哭’",
+      "level": "L4",
+      "duration_ms": 377164,
+      "char_count": 1480,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/摔倒了膝盖破皮，自己爬起来说‘不哭不哭’/摔倒了膝盖破皮，自己爬起来说‘不哭不哭’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "攀岩墙上踩空了，我抓紧绳子继续向上",
+      "title": "攀岩墙上踩空了，我抓紧绳子继续向上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/攀岩墙上踩空了，我抓紧绳子继续向上",
+      "level": "L4",
+      "duration_ms": 385277,
+      "char_count": 1519,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/攀岩墙上踩空了，我抓紧绳子继续向上/攀岩墙上踩空了，我抓紧绳子继续向上.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "放学路上遇到大狗勇敢绕过去",
+      "title": "放学路上遇到大狗勇敢绕过去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/放学路上遇到大狗勇敢绕过去",
+      "level": "L4",
+      "duration_ms": 402917,
+      "char_count": 1599,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/放学路上遇到大狗勇敢绕过去/放学路上遇到大狗勇敢绕过去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学课上不敢举手，却颤抖着说出了答案",
+      "title": "数学课上不敢举手，却颤抖着说出了答案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/数学课上不敢举手，却颤抖着说出了答案",
+      "level": "L4",
+      "duration_ms": 237993,
+      "char_count": 953,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/数学课上不敢举手，却颤抖着说出了答案/数学课上不敢举手，却颤抖着说出了答案.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学题不会做却主动问同桌",
+      "title": "数学题不会做却主动问同桌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/数学题不会做却主动问同桌",
+      "level": "L4",
+      "duration_ms": 255280,
+      "char_count": 1005,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/数学题不会做却主动问同桌/数学题不会做却主动问同桌.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "断奶夜，捧着奶瓶说‘不要’",
+      "title": "断奶夜，捧着奶瓶说‘不要’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/断奶夜，捧着奶瓶说‘不要’",
+      "level": "L4",
+      "duration_ms": 524339,
+      "char_count": 2064,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/断奶夜，捧着奶瓶说‘不要’/断奶夜，捧着奶瓶说‘不要’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "断奶那天，抱紧小熊喝喝水",
+      "title": "断奶那天，抱紧小熊喝喝水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/断奶那天，抱紧小熊喝喝水",
+      "level": "L4",
+      "duration_ms": 798260,
+      "char_count": 3108,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/断奶那天，抱紧小熊喝喝水/断奶那天，抱紧小熊喝喝水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "晚上听到窗外怪声音，抱着小熊去关窗",
+      "title": "晚上听到窗外怪声音，抱着小熊去关窗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/晚上听到窗外怪声音，抱着小熊去关窗",
+      "level": "L4",
+      "duration_ms": 475310,
+      "char_count": 1865,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/晚上听到窗外怪声音，抱着小熊去关窗/晚上听到窗外怪声音，抱着小熊去关窗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "晚上自己上厕所，走廊的灯一闪一闪也不怕",
+      "title": "晚上自己上厕所，走廊的灯一闪一闪也不怕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/晚上自己上厕所，走廊的灯一闪一闪也不怕",
+      "level": "L4",
+      "duration_ms": 301743,
+      "char_count": 1157,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/晚上自己上厕所，走廊的灯一闪一闪也不怕/晚上自己上厕所，走廊的灯一闪一闪也不怕.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "朋友生日没人请我，我主动上前说‘生日快乐’",
+      "title": "朋友生日没人请我，我主动上前说‘生日快乐’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/朋友生日没人请我，我主动上前说‘生日快乐’",
+      "level": "L4",
+      "duration_ms": 490276,
+      "char_count": 1896,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/朋友生日没人请我，我主动上前说‘生日快乐’/朋友生日没人请我，我主动上前说‘生日快乐’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "泥巴粘粘，我敢用手戳一戳",
+      "title": "泥巴粘粘，我敢用手戳一戳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/泥巴粘粘，我敢用手戳一戳",
+      "level": "L4",
+      "duration_ms": 297420,
+      "char_count": 1169,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/泥巴粘粘，我敢用手戳一戳/泥巴粘粘，我敢用手戳一戳.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "洗澡水溅脸上，擦擦继续玩",
+      "title": "洗澡水溅脸上，擦擦继续玩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/洗澡水溅脸上，擦擦继续玩",
+      "level": "L4",
+      "duration_ms": 440596,
+      "char_count": 1745,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/洗澡水溅脸上，擦擦继续玩/洗澡水溅脸上，擦擦继续玩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "游乐场的攀爬网好高，我一步一步向上爬",
+      "title": "游乐场的攀爬网好高，我一步一步向上爬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/游乐场的攀爬网好高，我一步一步向上爬",
+      "level": "L4",
+      "duration_ms": 474956,
+      "char_count": 1870,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/游乐场的攀爬网好高，我一步一步向上爬/游乐场的攀爬网好高，我一步一步向上爬.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "游泳课时站在跳台上，闭着眼睛跳进深水区",
+      "title": "游泳课时站在跳台上，闭着眼睛跳进深水区",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/游泳课时站在跳台上，闭着眼睛跳进深水区",
+      "level": "L4",
+      "duration_ms": 478168,
+      "char_count": 1903,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/游泳课时站在跳台上，闭着眼睛跳进深水区/游泳课时站在跳台上，闭着眼睛跳进深水区.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑滑梯排队时，小手紧紧抓住栏杆不插队",
+      "title": "滑滑梯排队时，小手紧紧抓住栏杆不插队",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/滑滑梯排队时，小手紧紧抓住栏杆不插队",
+      "level": "L4",
+      "duration_ms": 409528,
+      "char_count": 1616,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/滑滑梯排队时，小手紧紧抓住栏杆不插队/滑滑梯排队时，小手紧紧抓住栏杆不插队.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑滑梯顶上的小脚丫终于迈出去了",
+      "title": "滑滑梯顶上的小脚丫终于迈出去了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/滑滑梯顶上的小脚丫终于迈出去了",
+      "level": "L4",
+      "duration_ms": 500097,
+      "char_count": 1944,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/滑滑梯顶上的小脚丫终于迈出去了/滑滑梯顶上的小脚丫终于迈出去了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爬山时腿发软，拽着藤蔓一步步挪过悬崖边",
+      "title": "爬山时腿发软，拽着藤蔓一步步挪过悬崖边",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/爬山时腿发软，拽着藤蔓一步步挪过悬崖边",
+      "level": "L4",
+      "duration_ms": 399705,
+      "char_count": 1561,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/爬山时腿发软，拽着藤蔓一步步挪过悬崖边/爬山时腿发软，拽着藤蔓一步步挪过悬崖边.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "牙齿摇摇晃晃，我鼓起勇气让妈妈拔掉它",
+      "title": "牙齿摇摇晃晃，我鼓起勇气让妈妈拔掉它",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/牙齿摇摇晃晃，我鼓起勇气让妈妈拔掉它",
+      "level": "L4",
+      "duration_ms": 376743,
+      "char_count": 1453,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/牙齿摇摇晃晃，我鼓起勇气让妈妈拔掉它/牙齿摇摇晃晃，我鼓起勇气让妈妈拔掉它.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "独自去老师办公室承认自己捣乱",
+      "title": "独自去老师办公室承认自己捣乱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/独自去老师办公室承认自己捣乱",
+      "level": "L4",
+      "duration_ms": 412780,
+      "char_count": 1598,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/独自去老师办公室承认自己捣乱/独自去老师办公室承认自己捣乱.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "班里小霸王要我的零食，我攥紧拳头说‘不给’",
+      "title": "班里小霸王要我的零食，我攥紧拳头说‘不给’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/班里小霸王要我的零食，我攥紧拳头说‘不给’",
+      "level": "L4",
+      "duration_ms": 393885,
+      "char_count": 1541,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/班里小霸王要我的零食，我攥紧拳头说‘不给’/班里小霸王要我的零食，我攥紧拳头说‘不给’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "画得歪歪扭扭被嘲笑，我还是继续涂色",
+      "title": "画得歪歪扭扭被嘲笑，我还是继续涂色",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/画得歪歪扭扭被嘲笑，我还是继续涂色",
+      "level": "L4",
+      "duration_ms": 426275,
+      "char_count": 1645,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/画得歪歪扭扭被嘲笑，我还是继续涂色/画得歪歪扭扭被嘲笑，我还是继续涂色.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看到地上的毛毛虫，我忍住尖叫绕过去",
+      "title": "看到地上的毛毛虫，我忍住尖叫绕过去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/看到地上的毛毛虫，我忍住尖叫绕过去",
+      "level": "L4",
+      "duration_ms": 369311,
+      "char_count": 1440,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/看到地上的毛毛虫，我忍住尖叫绕过去/看到地上的毛毛虫，我忍住尖叫绕过去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看到大狗汪汪叫，我躲在妈妈身后还是摸了摸它",
+      "title": "看到大狗汪汪叫，我躲在妈妈身后还是摸了摸它",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/看到大狗汪汪叫，我躲在妈妈身后还是摸了摸它",
+      "level": "L4",
+      "duration_ms": 503882,
+      "char_count": 1972,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/看到大狗汪汪叫，我躲在妈妈身后还是摸了摸它/看到大狗汪汪叫，我躲在妈妈身后还是摸了摸它.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看到流浪狗缩在角落，慢慢蹲下伸出手指头",
+      "title": "看到流浪狗缩在角落，慢慢蹲下伸出手指头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/看到流浪狗缩在角落，慢慢蹲下伸出手指头",
+      "level": "L4",
+      "duration_ms": 265923,
+      "char_count": 1034,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/看到流浪狗缩在角落，慢慢蹲下伸出手指头/看到流浪狗缩在角落，慢慢蹲下伸出手指头.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "科学课解剖鱼时手抖得不行，闭着眼切开肚皮",
+      "title": "科学课解剖鱼时手抖得不行，闭着眼切开肚皮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/科学课解剖鱼时手抖得不行，闭着眼切开肚皮",
+      "level": "L4",
+      "duration_ms": 386705,
+      "char_count": 1484,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/科学课解剖鱼时手抖得不行，闭着眼切开肚皮/科学课解剖鱼时手抖得不行，闭着眼切开肚皮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次举手回答问题时手心出汗",
+      "title": "第一次举手回答问题时手心出汗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次举手回答问题时手心出汗",
+      "level": "L4",
+      "duration_ms": 479131,
+      "char_count": 1875,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次举手回答问题时手心出汗/第一次举手回答问题时手心出汗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次偷偷骑爸爸的自行车摔倒后又爬起",
+      "title": "第一次偷偷骑爸爸的自行车摔倒后又爬起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次偷偷骑爸爸的自行车摔倒后又爬起",
+      "level": "L4",
+      "duration_ms": 420452,
+      "char_count": 1662,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次偷偷骑爸爸的自行车摔倒后又爬起/第一次偷偷骑爸爸的自行车摔倒后又爬起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次写作业，遇到不会的题也没扔铅笔",
+      "title": "第一次写作业，遇到不会的题也没扔铅笔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次写作业，遇到不会的题也没扔铅笔",
+      "level": "L4",
+      "duration_ms": 480488,
+      "char_count": 1870,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次写作业，遇到不会的题也没扔铅笔/第一次写作业，遇到不会的题也没扔铅笔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次叫‘阿姨’，嘴巴张大大",
+      "title": "第一次叫‘阿姨’，嘴巴张大大",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次叫‘阿姨’，嘴巴张大大",
+      "level": "L4",
+      "duration_ms": 362241,
+      "char_count": 1420,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次叫‘阿姨’，嘴巴张大大/第一次叫‘阿姨’，嘴巴张大大.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在台上表演唱歌，声音像小蚊子一样",
+      "title": "第一次在台上表演唱歌，声音像小蚊子一样",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次在台上表演唱歌，声音像小蚊子一样",
+      "level": "L4",
+      "duration_ms": 384421,
+      "char_count": 1515,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次在台上表演唱歌，声音像小蚊子一样/第一次在台上表演唱歌，声音像小蚊子一样.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在大家面前唱歌跑调没停",
+      "title": "第一次在大家面前唱歌跑调没停",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次在大家面前唱歌跑调没停",
+      "level": "L4",
+      "duration_ms": 430632,
+      "char_count": 1698,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次在大家面前唱歌跑调没停/第一次在大家面前唱歌跑调没停.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在大雨中踩水坑，溅湿了裤子还嘿嘿笑",
+      "title": "第一次在大雨中踩水坑，溅湿了裤子还嘿嘿笑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次在大雨中踩水坑，溅湿了裤子还嘿嘿笑",
+      "level": "L4",
+      "duration_ms": 332812,
+      "char_count": 1308,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次在大雨中踩水坑，溅湿了裤子还嘿嘿笑/第一次在大雨中踩水坑，溅湿了裤子还嘿嘿笑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在家长会上当众给父母写信",
+      "title": "第一次在家长会上当众给父母写信",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次在家长会上当众给父母写信",
+      "level": "L4",
+      "duration_ms": 389670,
+      "char_count": 1524,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次在家长会上当众给父母写信/第一次在家长会上当众给父母写信.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在幼儿园举手说我要喝水",
+      "title": "第一次在幼儿园举手说我要喝水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次在幼儿园举手说我要喝水",
+      "level": "L4",
+      "duration_ms": 336917,
+      "char_count": 1321,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次在幼儿园举手说我要喝水/第一次在幼儿园举手说我要喝水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在幼儿园举手说要上厕所",
+      "title": "第一次在幼儿园举手说要上厕所",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次在幼儿园举手说要上厕所",
+      "level": "L4",
+      "duration_ms": 247992,
+      "char_count": 990,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次在幼儿园举手说要上厕所/第一次在幼儿园举手说要上厕所.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在幼儿园午睡不哭，自己盖好被子",
+      "title": "第一次在幼儿园午睡不哭，自己盖好被子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次在幼儿园午睡不哭，自己盖好被子",
+      "level": "L4",
+      "duration_ms": 319205,
+      "char_count": 1260,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次在幼儿园午睡不哭，自己盖好被子/第一次在幼儿园午睡不哭，自己盖好被子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在幼儿园大便后自己擦屁股",
+      "title": "第一次在幼儿园大便后自己擦屁股",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次在幼儿园大便后自己擦屁股",
+      "level": "L4",
+      "duration_ms": 302595,
+      "char_count": 1145,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次在幼儿园大便后自己擦屁股/第一次在幼儿园大便后自己擦屁股.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在睡前关灯后自己睡着",
+      "title": "第一次在睡前关灯后自己睡着",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次在睡前关灯后自己睡着",
+      "level": "L4",
+      "duration_ms": 449455,
+      "char_count": 1751,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次在睡前关灯后自己睡着/第一次在睡前关灯后自己睡着.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次在课堂上举手反对老师的答案",
+      "title": "第一次在课堂上举手反对老师的答案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次在课堂上举手反对老师的答案",
+      "level": "L4",
+      "duration_ms": 405312,
+      "char_count": 1589,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次在课堂上举手反对老师的答案/第一次在课堂上举手反对老师的答案.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次尝试秋千那个高高低低的害怕",
+      "title": "第一次尝试秋千那个高高低低的害怕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次尝试秋千那个高高低低的害怕",
+      "level": "L4",
+      "duration_ms": 248531,
+      "char_count": 979,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次尝试秋千那个高高低低的害怕/第一次尝试秋千那个高高低低的害怕.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次戴新帽子，镜子里笑",
+      "title": "第一次戴新帽子，镜子里笑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次戴新帽子，镜子里笑",
+      "level": "L4",
+      "duration_ms": 350384,
+      "char_count": 1367,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次戴新帽子，镜子里笑/第一次戴新帽子，镜子里笑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次指认红色，说‘红红’",
+      "title": "第一次指认红色，说‘红红’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次指认红色，说‘红红’",
+      "level": "L4",
+      "duration_ms": 351346,
+      "char_count": 1386,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次指认红色，说‘红红’/第一次指认红色，说‘红红’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次按电梯按钮，亮亮灯",
+      "title": "第一次按电梯按钮，亮亮灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次按电梯按钮，亮亮灯",
+      "level": "L4",
+      "duration_ms": 395490,
+      "char_count": 1541,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次按电梯按钮，亮亮灯/第一次按电梯按钮，亮亮灯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次独自去邻居家还玩具，敲门时心跳咚咚",
+      "title": "第一次独自去邻居家还玩具，敲门时心跳咚咚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次独自去邻居家还玩具，敲门时心跳咚咚",
+      "level": "L4",
+      "duration_ms": 419708,
+      "char_count": 1644,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次独自去邻居家还玩具，敲门时心跳咚咚/第一次独自去邻居家还玩具，敲门时心跳咚咚.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次独自走进新学校的食堂",
+      "title": "第一次独自走进新学校的食堂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次独自走进新学校的食堂",
+      "level": "L4",
+      "duration_ms": 363705,
+      "char_count": 1443,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次独自走进新学校的食堂/第一次独自走进新学校的食堂.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次用剪刀剪纸条，手指离刀刃远远的",
+      "title": "第一次用剪刀剪纸条，手指离刀刃远远的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次用剪刀剪纸条，手指离刀刃远远的",
+      "level": "L4",
+      "duration_ms": 349417,
+      "char_count": 1354,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次用剪刀剪纸条，手指离刀刃远远的/第一次用剪刀剪纸条，手指离刀刃远远的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次用勺子，舀起一口米",
+      "title": "第一次用勺子，舀起一口米",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次用勺子，舀起一口米",
+      "level": "L4",
+      "duration_ms": 402206,
+      "char_count": 1587,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次用勺子，舀起一口米/第一次用勺子，舀起一口米.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次离开妈妈在幼儿园吃午饭",
+      "title": "第一次离开妈妈在幼儿园吃午饭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次离开妈妈在幼儿园吃午饭",
+      "level": "L4",
+      "duration_ms": 388955,
+      "char_count": 1515,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次离开妈妈在幼儿园吃午饭/第一次离开妈妈在幼儿园吃午饭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次脱袜子，脚丫凉凉不怕",
+      "title": "第一次脱袜子，脚丫凉凉不怕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次脱袜子，脚丫凉凉不怕",
+      "level": "L4",
+      "duration_ms": 317025,
+      "char_count": 1256,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次脱袜子，脚丫凉凉不怕/第一次脱袜子，脚丫凉凉不怕.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己买衣服，试了三次才敢问‘可以吗’",
+      "title": "第一次自己买衣服，试了三次才敢问‘可以吗’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己买衣服，试了三次才敢问‘可以吗’",
+      "level": "L4",
+      "duration_ms": 482561,
+      "char_count": 1897,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己买衣服，试了三次才敢问‘可以吗’/第一次自己买衣服，试了三次才敢问‘可以吗’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己关灯睡觉，黑暗里抱紧小熊",
+      "title": "第一次自己关灯睡觉，黑暗里抱紧小熊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己关灯睡觉，黑暗里抱紧小熊",
+      "level": "L4",
+      "duration_ms": 452417,
+      "char_count": 1737,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己关灯睡觉，黑暗里抱紧小熊/第一次自己关灯睡觉，黑暗里抱紧小熊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己吃饭，饭粒跳跳舞",
+      "title": "第一次自己吃饭，饭粒跳跳舞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己吃饭，饭粒跳跳舞",
+      "level": "L4",
+      "duration_ms": 320812,
+      "char_count": 1274,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己吃饭，饭粒跳跳舞/第一次自己吃饭，饭粒跳跳舞.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己扣上外套的纽扣",
+      "title": "第一次自己扣上外套的纽扣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己扣上外套的纽扣",
+      "level": "L4",
+      "duration_ms": 342384,
+      "char_count": 1353,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己扣上外套的纽扣/第一次自己扣上外套的纽扣.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己煮方便面，被油溅到也没哭继续搅",
+      "title": "第一次自己煮方便面，被油溅到也没哭继续搅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己煮方便面，被油溅到也没哭继续搅",
+      "level": "L4",
+      "duration_ms": 305887,
+      "char_count": 1219,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己煮方便面，被油溅到也没哭继续搅/第一次自己煮方便面，被油溅到也没哭继续搅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己用剪刀做手工，剪歪了也不放弃",
+      "title": "第一次自己用剪刀做手工，剪歪了也不放弃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己用剪刀做手工，剪歪了也不放弃",
+      "level": "L4",
+      "duration_ms": 413134,
+      "char_count": 1623,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己用剪刀做手工，剪歪了也不放弃/第一次自己用剪刀做手工，剪歪了也不放弃.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己用剪刀剪刘海，剪得像狗啃也敢出门",
+      "title": "第一次自己用剪刀剪刘海，剪得像狗啃也敢出门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己用剪刀剪刘海，剪得像狗啃也敢出门",
+      "level": "L4",
+      "duration_ms": 388453,
+      "char_count": 1510,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己用剪刀剪刘海，剪得像狗啃也敢出门/第一次自己用剪刀剪刘海，剪得像狗啃也敢出门.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己用勺子吃光一碗饭",
+      "title": "第一次自己用勺子吃光一碗饭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己用勺子吃光一碗饭",
+      "level": "L4",
+      "duration_ms": 387529,
+      "char_count": 1522,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己用勺子吃光一碗饭/第一次自己用勺子吃光一碗饭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己睡觉关灯后数羊直到睡着",
+      "title": "第一次自己睡觉关灯后数羊直到睡着",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己睡觉关灯后数羊直到睡着",
+      "level": "L4",
+      "duration_ms": 434240,
+      "char_count": 1696,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己睡觉关灯后数羊直到睡着/第一次自己睡觉关灯后数羊直到睡着.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己穿衣服，扣子扣错了又重来",
+      "title": "第一次自己穿衣服，扣子扣错了又重来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己穿衣服，扣子扣错了又重来",
+      "level": "L4",
+      "duration_ms": 355350,
+      "char_count": 1392,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己穿衣服，扣子扣错了又重来/第一次自己穿衣服，扣子扣错了又重来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己穿鞋子左右分对啦",
+      "title": "第一次自己穿鞋子左右分对啦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己穿鞋子左右分对啦",
+      "level": "L4",
+      "duration_ms": 320920,
+      "char_count": 1258,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己穿鞋子左右分对啦/第一次自己穿鞋子左右分对啦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己踩着小板凳去按电梯按钮",
+      "title": "第一次自己踩着小板凳去按电梯按钮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己踩着小板凳去按电梯按钮",
+      "level": "L4",
+      "duration_ms": 311778,
+      "char_count": 1225,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己踩着小板凳去按电梯按钮/第一次自己踩着小板凳去按电梯按钮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次自己过马路，紧紧牵着妈妈但眼神坚定",
+      "title": "第一次自己过马路，紧紧牵着妈妈但眼神坚定",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次自己过马路，紧紧牵着妈妈但眼神坚定",
+      "level": "L4",
+      "duration_ms": 380133,
+      "char_count": 1505,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次自己过马路，紧紧牵着妈妈但眼神坚定/第一次自己过马路，紧紧牵着妈妈但眼神坚定.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次骑三轮车，脚踩慢慢",
+      "title": "第一次骑三轮车，脚踩慢慢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/第一次骑三轮车，脚踩慢慢",
+      "level": "L4",
+      "duration_ms": 387672,
+      "char_count": 1539,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/第一次骑三轮车，脚踩慢慢/第一次骑三轮车，脚踩慢慢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "网络游戏里被人骂菜鸟，咬牙又开了一局练习",
+      "title": "网络游戏里被人骂菜鸟，咬牙又开了一局练习",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/网络游戏里被人骂菜鸟，咬牙又开了一局练习",
+      "level": "L4",
+      "duration_ms": 453990,
+      "char_count": 1776,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/网络游戏里被人骂菜鸟，咬牙又开了一局练习/网络游戏里被人骂菜鸟，咬牙又开了一局练习.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师说‘谁愿意帮忙收拾积木？’我第一个举手",
+      "title": "老师说‘谁愿意帮忙收拾积木？’我第一个举手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/老师说‘谁愿意帮忙收拾积木？’我第一个举手",
+      "level": "L4",
+      "duration_ms": 430989,
+      "char_count": 1682,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/老师说‘谁愿意帮忙收拾积木？’我第一个举手/老师说‘谁愿意帮忙收拾积木？’我第一个举手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考试卷上遇到难题不偷看别人",
+      "title": "考试卷上遇到难题不偷看别人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/考试卷上遇到难题不偷看别人",
+      "level": "L4",
+      "duration_ms": 305243,
+      "char_count": 1212,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/考试卷上遇到难题不偷看别人/考试卷上遇到难题不偷看别人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考试时有一题不会，我悄悄深呼吸接着写",
+      "title": "考试时有一题不会，我悄悄深呼吸接着写",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/考试时有一题不会，我悄悄深呼吸接着写",
+      "level": "L4",
+      "duration_ms": 446668,
+      "char_count": 1753,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/考试时有一题不会，我悄悄深呼吸接着写/考试时有一题不会，我悄悄深呼吸接着写.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己不小心弄丢文具盒主动告诉妈妈",
+      "title": "自己不小心弄丢文具盒主动告诉妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/自己不小心弄丢文具盒主动告诉妈妈",
+      "level": "L4",
+      "duration_ms": 245564,
+      "char_count": 969,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/自己不小心弄丢文具盒主动告诉妈妈/自己不小心弄丢文具盒主动告诉妈妈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己爬楼梯，一级一级往上",
+      "title": "自己爬楼梯，一级一级往上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/自己爬楼梯，一级一级往上",
+      "level": "L4",
+      "duration_ms": 449561,
+      "char_count": 1753,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/自己爬楼梯，一级一级往上/自己爬楼梯，一级一级往上.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己翻绘本，撕破一页也不怕",
+      "title": "自己翻绘本，撕破一页也不怕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/自己翻绘本，撕破一页也不怕",
+      "level": "L4",
+      "duration_ms": 431704,
+      "char_count": 1703,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/自己翻绘本，撕破一页也不怕/自己翻绘本，撕破一页也不怕.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "荡秋千时想要飞得高，却松了手再抓住绳子",
+      "title": "荡秋千时想要飞得高，却松了手再抓住绳子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/荡秋千时想要飞得高，却松了手再抓住绳子",
+      "level": "L4",
+      "duration_ms": 294314,
+      "char_count": 1145,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/荡秋千时想要飞得高，却松了手再抓住绳子/荡秋千时想要飞得高，却松了手再抓住绳子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被同学嘲笑画画丑仍坚持画完",
+      "title": "被同学嘲笑画画丑仍坚持画完",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/被同学嘲笑画画丑仍坚持画完",
+      "level": "L4",
+      "duration_ms": 433272,
+      "char_count": 1706,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/被同学嘲笑画画丑仍坚持画完/被同学嘲笑画画丑仍坚持画完.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被好朋友误会时大胆说出真心话",
+      "title": "被好朋友误会时大胆说出真心话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/被好朋友误会时大胆说出真心话",
+      "level": "L4",
+      "duration_ms": 375847,
+      "char_count": 1459,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/被好朋友误会时大胆说出真心话/被好朋友误会时大胆说出真心话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被老师点名当班长，手心冒汗却大声喊了声‘到’",
+      "title": "被老师点名当班长，手心冒汗却大声喊了声‘到’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/被老师点名当班长，手心冒汗却大声喊了声‘到’",
+      "level": "L4",
+      "duration_ms": 478344,
+      "char_count": 1870,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/被老师点名当班长，手心冒汗却大声喊了声‘到’/被老师点名当班长，手心冒汗却大声喊了声‘到’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被老师点名读课文结巴却继续读",
+      "title": "被老师点名读课文结巴却继续读",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/被老师点名读课文结巴却继续读",
+      "level": "L4",
+      "duration_ms": 462025,
+      "char_count": 1811,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/被老师点名读课文结巴却继续读/被老师点名读课文结巴却继续读.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "超市里和妈妈走散了，我勇敢地找收银员帮忙",
+      "title": "超市里和妈妈走散了，我勇敢地找收银员帮忙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/超市里和妈妈走散了，我勇敢地找收银员帮忙",
+      "level": "L4",
+      "duration_ms": 308955,
+      "char_count": 1225,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/超市里和妈妈走散了，我勇敢地找收银员帮忙/超市里和妈妈走散了，我勇敢地找收银员帮忙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "跟奶奶逛菜市场，帮忙提着小袋子不松手",
+      "title": "跟奶奶逛菜市场，帮忙提着小袋子不松手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/跟奶奶逛菜市场，帮忙提着小袋子不松手",
+      "level": "L4",
+      "duration_ms": 289562,
+      "char_count": 1133,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/跟奶奶逛菜市场，帮忙提着小袋子不松手/跟奶奶逛菜市场，帮忙提着小袋子不松手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "跟爸爸吵架后躲在房间，最后打开门去厨房倒水",
+      "title": "跟爸爸吵架后躲在房间，最后打开门去厨房倒水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/跟爸爸吵架后躲在房间，最后打开门去厨房倒水",
+      "level": "L4",
+      "duration_ms": 402382,
+      "char_count": 1603,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/跟爸爸吵架后躲在房间，最后打开门去厨房倒水/跟爸爸吵架后躲在房间，最后打开门去厨房倒水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "跟爸爸学骑平衡车，‘妈妈别扶，我自己来’",
+      "title": "跟爸爸学骑平衡车，‘妈妈别扶，我自己来’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/跟爸爸学骑平衡车，‘妈妈别扶，我自己来’",
+      "level": "L4",
+      "duration_ms": 328844,
+      "char_count": 1295,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/跟爸爸学骑平衡车，‘妈妈别扶，我自己来’/跟爸爸学骑平衡车，‘妈妈别扶，我自己来’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "踢球时摔破膝盖，咬着牙站起来继续追球",
+      "title": "踢球时摔破膝盖，咬着牙站起来继续追球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/踢球时摔破膝盖，咬着牙站起来继续追球",
+      "level": "L4",
+      "duration_ms": 375028,
+      "char_count": 1483,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/踢球时摔破膝盖，咬着牙站起来继续追球/踢球时摔破膝盖，咬着牙站起来继续追球.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "闹钟响了就起床，没有赖床多睡五分钟",
+      "title": "闹钟响了就起床，没有赖床多睡五分钟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/闹钟响了就起床，没有赖床多睡五分钟",
+      "level": "L4",
+      "duration_ms": 360310,
+      "char_count": 1407,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/闹钟响了就起床，没有赖床多睡五分钟/闹钟响了就起床，没有赖床多睡五分钟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "零花钱买了个假玩具，鼓起勇气找老板退钱",
+      "title": "零花钱买了个假玩具，鼓起勇气找老板退钱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/零花钱买了个假玩具，鼓起勇气找老板退钱",
+      "level": "L4",
+      "duration_ms": 448879,
+      "char_count": 1753,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/零花钱买了个假玩具，鼓起勇气找老板退钱/零花钱买了个假玩具，鼓起勇气找老板退钱.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雷雨夜爸妈不在家，我关掉电视捂紧被子数到十",
+      "title": "雷雨夜爸妈不在家，我关掉电视捂紧被子数到十",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/雷雨夜爸妈不在家，我关掉电视捂紧被子数到十",
+      "level": "L4",
+      "duration_ms": 288100,
+      "char_count": 1149,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/雷雨夜爸妈不在家，我关掉电视捂紧被子数到十/雷雨夜爸妈不在家，我关掉电视捂紧被子数到十.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "面对同学说“你胖了”时笑着点头",
+      "title": "面对同学说“你胖了”时笑着点头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/面对同学说“你胖了”时笑着点头",
+      "level": "L4",
+      "duration_ms": 448913,
+      "char_count": 1733,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/面对同学说“你胖了”时笑着点头/面对同学说“你胖了”时笑着点头.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "面对欺负人的大孩子大声说不行",
+      "title": "面对欺负人的大孩子大声说不行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/面对欺负人的大孩子大声说不行",
+      "level": "L4",
+      "duration_ms": 430127,
+      "char_count": 1731,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/面对欺负人的大孩子大声说不行/面对欺负人的大孩子大声说不行.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "音乐考试跑调，还是唱完了整首歌没有逃走",
+      "title": "音乐考试跑调，还是唱完了整首歌没有逃走",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/音乐考试跑调，还是唱完了整首歌没有逃走",
+      "level": "L4",
+      "duration_ms": 285921,
+      "char_count": 1138,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/音乐考试跑调，还是唱完了整首歌没有逃走/音乐考试跑调，还是唱完了整首歌没有逃走.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "黑乎乎的房间里有小夜灯我不怕",
+      "title": "黑乎乎的房间里有小夜灯我不怕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A1勇敢/黑乎乎的房间里有小夜灯我不怕",
+      "level": "L4",
+      "duration_ms": 308314,
+      "char_count": 1195,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/黑乎乎的房间里有小夜灯我不怕/黑乎乎的房间里有小夜灯我不怕.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

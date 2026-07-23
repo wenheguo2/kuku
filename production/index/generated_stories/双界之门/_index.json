@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "index_type": "subject_index",
+  "subject_id": "双界之门",
+  "subject_name": "双界之门",
+  "cover": {
+    "cover_image_url": "covers/generated/双界之门/双界之门.webp",
+    "cover_level": "subject"
+  },
+  "category_count": 11,
+  "categories": [
+    {
+      "id": "一日故事体验",
+      "name": "一日故事体验",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 173,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/一日故事体验/一日故事体验.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "也许真相是这样的",
+      "name": "也许真相是这样的",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 260,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/也许真相是这样的/也许真相是这样的.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "啊我成主角了",
+      "name": "啊我成主角了",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 250,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/啊我成主角了.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "如果我是说如果呢",
+      "name": "如果我是说如果呢",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 292,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/如果我是说如果呢/如果我是说如果呢.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "故事交换局",
+      "name": "故事交换局",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 256,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事交换局/故事交换局.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "故事修复师",
+      "name": "故事修复师",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 235,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事修复师/故事修复师.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "故事博物馆",
+      "name": "故事博物馆",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 249,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事博物馆/故事博物馆.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "故事审判庭",
+      "name": "故事审判庭",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 223,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/故事审判庭.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "时空守护队",
+      "name": "时空守护队",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 628,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/时空守护队/时空守护队.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "穿越百宝箱",
+      "name": "穿越百宝箱",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 302,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/穿越百宝箱/穿越百宝箱.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "节日守护者",
+      "name": "节日守护者",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 94,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/节日守护者/节日守护者.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

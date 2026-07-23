@@ -1,0 +1,116 @@
+# ============================================
+# 酷酷儿童故事 - Git忽略规则
+# 一人AI公司简化版
+# ============================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# --- Node/Taro ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.taro/
+.temp/
+dist/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Environment Variables (敏感信息) ---
+.env
+.env.local
+.env.*.local
+
+# --- Temporary Files ---
+tmp/
+temp/
+*.tmp
+
+# ============================================
+# 项目特定忽略规则
+# ============================================
+
+# --- 工作区（中间产物，不提交）---
+工作区/
+
+# --- 废弃文件 ---
+废弃/
+
+# --- Qoder内部文件 ---
+.workbuddy/
+.qoder/
+.qoderignore
+
+# --- 大型媒体文件（建议用CDN）---
+backend/audio/
+backend/images/
+production/audio/
+illustrations/
+voice_bank/
+
+# --- 瞎编的歌曲（临时测试数据）---
+production/generated_stories/瞎编的歌曲/
+
+# --- 生成的故事JSON（大量文件，建议用CDN/OSS存储）---
+# 35万+个文件，Git不适合管理此类生成产物
+production/generated_stories/
+
+# --- TTS进度文件（临时状态）---
+production/tts_dedup.json
+production/tts_progress.json
+
+# --- 工具二进制文件 ---
+tools/*.exe
+tools/*.dll
+tools/
+
+# --- Python解释器 ---
+Python312/
+
+# --- 会话记录（可选，如果很大）---
+# 会话记录/
+
+# ============================================
+# 建议提交的内容
+# ============================================
+# ✅ md/ - 所有文档
+# ✅ Agents/ - Agent代码
+# ✅ 脚本/ - 生产脚本
+# ✅ config/ - 配置（脱敏后）
+# ✅ templates/ - 模板
+# ✅ production/index/ - 索引文件
+# ❌ production/generated_stories/ - 故事JSON（35万+文件，应存CDN/OSS）
+# ✅ tools/*.md, tools/*.py - 工具文本部分
+# ✅ .gitignore
+
+.swc/
+
+*.tsbuildinfo
+
+reports/

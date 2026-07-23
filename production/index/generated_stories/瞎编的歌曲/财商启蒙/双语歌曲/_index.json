@@ -1,0 +1,190 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/财商启蒙/双语歌曲",
+  "name": "双语歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/财商启蒙.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 25,
+  "entries": [
+    {
+      "entry_id": "人民币-Chinese Money",
+      "title": "人民币-Chinese Money",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/人民币-Chinese Money"
+    },
+    {
+      "entry_id": "付出收获-No Pain No Gain",
+      "title": "付出收获-No Pain No Gain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/付出收获-No Pain No Gain"
+    },
+    {
+      "entry_id": "做家务赚钱-Chores for Money",
+      "title": "做家务赚钱-Chores for Money",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/做家务赚钱-Chores for Money"
+    },
+    {
+      "entry_id": "储蓄目标-Saving Goals",
+      "title": "储蓄目标-Saving Goals",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/储蓄目标-Saving Goals"
+    },
+    {
+      "entry_id": "分享爱心-Share Love",
+      "title": "分享爱心-Share Love",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/分享爱心-Share Love"
+    },
+    {
+      "entry_id": "利息-Interest",
+      "title": "利息-Interest",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/利息-Interest"
+    },
+    {
+      "entry_id": "外币认知-Foreign Currency",
+      "title": "外币认知-Foreign Currency",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/外币认知-Foreign Currency"
+    },
+    {
+      "entry_id": "存钱罐-Piggy Bank",
+      "title": "存钱罐-Piggy Bank",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/存钱罐-Piggy Bank"
+    },
+    {
+      "entry_id": "工作意义-Value of Work",
+      "title": "工作意义-Value of Work",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/工作意义-Value of Work"
+    },
+    {
+      "entry_id": "应急基金-Emergency Fund",
+      "title": "应急基金-Emergency Fund",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/应急基金-Emergency Fund"
+    },
+    {
+      "entry_id": "志愿服务-Volunteer",
+      "title": "志愿服务-Volunteer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/志愿服务-Volunteer"
+    },
+    {
+      "entry_id": "感恩回馈-Give Back",
+      "title": "感恩回馈-Give Back",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/感恩回馈-Give Back"
+    },
+    {
+      "entry_id": "打折陷阱-Sale Trap",
+      "title": "打折陷阱-Sale Trap",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/打折陷阱-Sale Trap"
+    },
+    {
+      "entry_id": "捐款-Donation",
+      "title": "捐款-Donation",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/捐款-Donation"
+    },
+    {
+      "entry_id": "比价购物-Compare Prices",
+      "title": "比价购物-Compare Prices",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/比价购物-Compare Prices"
+    },
+    {
+      "entry_id": "理性消费-Smart Shopping",
+      "title": "理性消费-Smart Shopping",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/理性消费-Smart Shopping"
+    },
+    {
+      "entry_id": "硬币纸币-Coins and Bills",
+      "title": "硬币纸币-Coins and Bills",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/硬币纸币-Coins and Bills"
+    },
+    {
+      "entry_id": "积少成多-Save Little by Little",
+      "title": "积少成多-Save Little by Little",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/积少成多-Save Little by Little"
+    },
+    {
+      "entry_id": "职业尊重-Respect Jobs",
+      "title": "职业尊重-Respect Jobs",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/职业尊重-Respect Jobs"
+    },
+    {
+      "entry_id": "记账习惯-Keep Records",
+      "title": "记账习惯-Keep Records",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/记账习惯-Keep Records"
+    },
+    {
+      "entry_id": "量入为出-Spend Wisely",
+      "title": "量入为出-Spend Wisely",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/量入为出-Spend Wisely"
+    },
+    {
+      "entry_id": "钱的来历-History of Money",
+      "title": "钱的来历-History of Money",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/钱的来历-History of Money"
+    },
+    {
+      "entry_id": "银行储蓄-Bank Savings",
+      "title": "银行储蓄-Bank Savings",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/银行储蓄-Bank Savings"
+    },
+    {
+      "entry_id": "零花钱规划-Pocket Money Plan",
+      "title": "零花钱规划-Pocket Money Plan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/零花钱规划-Pocket Money Plan"
+    },
+    {
+      "entry_id": "需要和想要-Need vs Want",
+      "title": "需要和想要-Need vs Want",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/财商启蒙/双语歌曲/需要和想要-Need vs Want"
+    }
+  ]
+}

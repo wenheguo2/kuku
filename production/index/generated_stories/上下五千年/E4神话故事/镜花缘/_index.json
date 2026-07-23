@@ -1,0 +1,1516 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E4神话故事/镜花缘",
+  "work_name": "镜花缘",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 100,
+  "total_duration_ms": 102889813,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第001回 女魁星北斗垂景象 老王母西池赐芳筵",
+      "title": "第001回 女魁星北斗垂景象 老王母西池赐芳筵",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第001回 女魁星北斗垂景象 老王母西池赐芳筵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 980123,
+      "char_count": 3725,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第002回 发正言花仙顺时令 定罚约月姊助风狂",
+      "title": "第002回 发正言花仙顺时令 定罚约月姊助风狂",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第002回 发正言花仙顺时令 定罚约月姊助风狂",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1108555,
+      "char_count": 4217,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第003回 徐英公传檄起义兵 骆主簿修书寄良友",
+      "title": "第003回 徐英公传檄起义兵 骆主簿修书寄良友",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第003回 徐英公传檄起义兵 骆主簿修书寄良友",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 870655,
+      "char_count": 3355,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第004回 吟雪诗暖阁赌酒 挥醉笔上苑催花",
+      "title": "第004回 吟雪诗暖阁赌酒 挥醉笔上苑催花",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第004回 吟雪诗暖阁赌酒 挥醉笔上苑催花",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1003445,
+      "char_count": 3850,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第005回 俏宫娥戏夸金盏草 武太后怒贬牡丹花",
+      "title": "第005回 俏宫娥戏夸金盏草 武太后怒贬牡丹花",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第005回 俏宫娥戏夸金盏草 武太后怒贬牡丹花",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1087127,
+      "char_count": 4148,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第006回 众宰承宣游上苑 百花获谴降红尘",
+      "title": "第006回 众宰承宣游上苑 百花获谴降红尘",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第006回 众宰承宣游上苑 百花获谴降红尘",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1006439,
+      "char_count": 3890,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第007回 小才女月下论文科 老书生梦中闻善果",
+      "title": "第007回 小才女月下论文科 老书生梦中闻善果",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第007回 小才女月下论文科 老书生梦中闻善果",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1246118,
+      "char_count": 4732,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第008回 弃嚣尘结伴游寰海 觅胜迹穷踪越远山",
+      "title": "第008回 弃嚣尘结伴游寰海 觅胜迹穷踪越远山",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第008回 弃嚣尘结伴游寰海 觅胜迹穷踪越远山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 989940,
+      "char_count": 3783,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第009回 服肉芝延年益寿 食朱草入圣超凡",
+      "title": "第009回 服肉芝延年益寿 食朱草入圣超凡",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第009回 服肉芝延年益寿 食朱草入圣超凡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 765046,
+      "char_count": 2943,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第010回 诛大虫佳人施药箭 搏奇鸟壮士奋空拳",
+      "title": "第010回 诛大虫佳人施药箭 搏奇鸟壮士奋空拳",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第010回 诛大虫佳人施药箭 搏奇鸟壮士奋空拳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 933489,
+      "char_count": 3666,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第011回 观雅化闲游君子邦 慕仁风误入良臣府",
+      "title": "第011回 观雅化闲游君子邦 慕仁风误入良臣府",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第011回 观雅化闲游君子邦 慕仁风误入良臣府",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 859691,
+      "char_count": 3283,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第012回 双宰辅畅谈俗弊 两书生敬服良箴",
+      "title": "第012回 双宰辅畅谈俗弊 两书生敬服良箴",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第012回 双宰辅畅谈俗弊 两书生敬服良箴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 758561,
+      "char_count": 2823,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第013回 美人入海遭罗网 儒士登山失路途",
+      "title": "第013回 美人入海遭罗网 儒士登山失路途",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第013回 美人入海遭罗网 儒士登山失路途",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1299976,
+      "char_count": 4999,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第014回 谈寿夭道经聂耳 论穷通路出无肠",
+      "title": "第014回 谈寿夭道经聂耳 论穷通路出无肠",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第014回 谈寿夭道经聂耳 论穷通路出无肠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 955266,
+      "char_count": 3654,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第015回 喜相逢师生谈故旧 巧遇合宾主结新亲",
+      "title": "第015回 喜相逢师生谈故旧 巧遇合宾主结新亲",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第015回 喜相逢师生谈故旧 巧遇合宾主结新亲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1899562,
+      "char_count": 7284,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "第016回 紫衣女殷勤问字 白发翁傲慢谈文",
+      "title": "第016回 紫衣女殷勤问字 白发翁傲慢谈文",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第016回 紫衣女殷勤问字 白发翁傲慢谈文",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 740412,
+      "char_count": 2853,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "第017回 因字声粗谈切韵 闻雁唳细问来宾",
+      "title": "第017回 因字声粗谈切韵 闻雁唳细问来宾",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第017回 因字声粗谈切韵 闻雁唳细问来宾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1131336,
+      "char_count": 4282,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "第018回 辟清谈幼女讲羲经 发至论书生尊孟子",
+      "title": "第018回 辟清谈幼女讲羲经 发至论书生尊孟子",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第018回 辟清谈幼女讲羲经 发至论书生尊孟子",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 762025,
+      "char_count": 2871,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "第019回 受女辱潜逃黑齿邦 观民风联步小人国",
+      "title": "第019回 受女辱潜逃黑齿邦 观民风联步小人国",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第019回 受女辱潜逃黑齿邦 观民风联步小人国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1085945,
+      "char_count": 4149,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "第020回 丹桂岩山鸡舞镜 碧梧岭孔雀开屏",
+      "title": "第020回 丹桂岩山鸡舞镜 碧梧岭孔雀开屏",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第020回 丹桂岩山鸡舞镜 碧梧岭孔雀开屏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 915555,
+      "char_count": 3522,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "第021回 逢恶兽唐生被难 施神枪魏女解围",
+      "title": "第021回 逢恶兽唐生被难 施神枪魏女解围",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第021回 逢恶兽唐生被难 施神枪魏女解围",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1199197,
+      "char_count": 4577,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "第022回 遇白民儒士听奇文 观药兽武夫发妙论",
+      "title": "第022回 遇白民儒士听奇文 观药兽武夫发妙论",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第022回 遇白民儒士听奇文 观药兽武夫发妙论",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 887803,
+      "char_count": 3052,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "第023回 说酸话酒保咬文 讲迂谈腐儒嚼字",
+      "title": "第023回 说酸话酒保咬文 讲迂谈腐儒嚼字",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第023回 说酸话酒保咬文 讲迂谈腐儒嚼字",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1578252,
+      "char_count": 6017,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "第024回 唐探花酒楼闻善政 徐公子茶肆叙衷情",
+      "title": "第024回 唐探花酒楼闻善政 徐公子茶肆叙衷情",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第024回 唐探花酒楼闻善政 徐公子茶肆叙衷情",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1056194,
+      "char_count": 4010,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "第025回 越危垣潜出淑士关 登曲岸闲游两面国",
+      "title": "第025回 越危垣潜出淑士关 登曲岸闲游两面国",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第025回 越危垣潜出淑士关 登曲岸闲游两面国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 955267,
+      "char_count": 3694,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "第026回 遇强梁义女怀德 遭大厄灵鱼报恩",
+      "title": "第026回 遇强梁义女怀德 遭大厄灵鱼报恩",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第026回 遇强梁义女怀德 遭大厄灵鱼报恩",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1273191,
+      "char_count": 4861,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "第027回 观奇形路过翼民郡 谈异相道出豕喙乡",
+      "title": "第027回 观奇形路过翼民郡 谈异相道出豕喙乡",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第027回 观奇形路过翼民郡 谈异相道出豕喙乡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1095234,
+      "char_count": 4187,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "第028回 老书生仗义舞龙泉 小美女衔恩脱虎穴",
+      "title": "第028回 老书生仗义舞龙泉 小美女衔恩脱虎穴",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第028回 老书生仗义舞龙泉 小美女衔恩脱虎穴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 715272,
+      "char_count": 2598,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "第029回 服妙药幼子回春 传奇方老翁济世",
+      "title": "第029回 服妙药幼子回春 传奇方老翁济世",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第029回 服妙药幼子回春 传奇方老翁济世",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 965803,
+      "char_count": 3725,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "第030回 觅蝇头林郎货禽鸟 因恙体枝女作螟蛉",
+      "title": "第030回 觅蝇头林郎货禽鸟 因恙体枝女作螟蛉",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第030回 觅蝇头林郎货禽鸟 因恙体枝女作螟蛉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 936199,
+      "char_count": 3578,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "第031回 谈字母妙语指迷团 看花灯戏言猜哑谜",
+      "title": "第031回 谈字母妙语指迷团 看花灯戏言猜哑谜",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第031回 谈字母妙语指迷团 看花灯戏言猜哑谜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1064551,
+      "char_count": 4102,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "第032回 访筹算畅游智佳国 观艳妆闲步女儿乡",
+      "title": "第032回 访筹算畅游智佳国 观艳妆闲步女儿乡",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第032回 访筹算畅游智佳国 观艳妆闲步女儿乡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1264615,
+      "char_count": 4800,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "第033回 粉面郎缠足受困 长须女玩股垂情",
+      "title": "第033回 粉面郎缠足受困 长须女玩股垂情",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第033回 粉面郎缠足受困 长须女玩股垂情",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1017622,
+      "char_count": 3953,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "第034回 观丽人女主定吉期 访良友老翁得凶信",
+      "title": "第034回 观丽人女主定吉期 访良友老翁得凶信",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第034回 观丽人女主定吉期 访良友老翁得凶信",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 756262,
+      "char_count": 2937,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "第035回 现红鸾林贵妃应课 揭黄榜唐义士治河",
+      "title": "第035回 现红鸾林贵妃应课 揭黄榜唐义士治河",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第035回 现红鸾林贵妃应课 揭黄榜唐义士治河",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 740768,
+      "char_count": 2803,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "第036回 佳人喜做东床婿 壮士愁为学桉妻",
+      "title": "第036回 佳人喜做东床婿 壮士愁为学桉妻",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第036回 佳人喜做东床婿 壮士愁为学桉妻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1455970,
+      "char_count": 5421,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "第037回 新贵妃反本为男 旧储子还原作女",
+      "title": "第037回 新贵妃反本为男 旧储子还原作女",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第037回 新贵妃反本为男 旧储子还原作女",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 826913,
+      "char_count": 3196,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "第038回 步玉桥茂林观凤舞 穿金户宝殿听鸾歌",
+      "title": "第038回 步玉桥茂林观凤舞 穿金户宝殿听鸾歌",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第038回 步玉桥茂林观凤舞 穿金户宝殿听鸾歌",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1384034,
+      "char_count": 5352,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "第039回 轩辕国诸王祝寿 蓬莱岛二老游山",
+      "title": "第039回 轩辕国诸王祝寿 蓬莱岛二老游山",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第039回 轩辕国诸王祝寿 蓬莱岛二老游山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 973551,
+      "char_count": 3781,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "第040回 入仙山撒手弃凡尘 走瀚海牵肠归故土",
+      "title": "第040回 入仙山撒手弃凡尘 走瀚海牵肠归故土",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第040回 入仙山撒手弃凡尘 走瀚海牵肠归故土",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1060561,
+      "char_count": 4086,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "第041回 观奇图喜遇佳文 述御旨欣逢盛曲",
+      "title": "第041回 观奇图喜遇佳文 述御旨欣逢盛曲",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第041回 观奇图喜遇佳文 述御旨欣逢盛曲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 877559,
+      "char_count": 3342,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "第042回 开女试太后颁恩诏 笃亲情佳人盼好音",
+      "title": "第042回 开女试太后颁恩诏 笃亲情佳人盼好音",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第042回 开女试太后颁恩诏 笃亲情佳人盼好音",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1354640,
+      "char_count": 5311,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "第043回 因游戏仙猿露意 念劬劳孝女伤怀",
+      "title": "第043回 因游戏仙猿露意 念劬劳孝女伤怀",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第043回 因游戏仙猿露意 念劬劳孝女伤怀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1247334,
+      "char_count": 4823,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "第044回 小孝女岭上访红蕖 老道姑舟中献瑞草",
+      "title": "第044回 小孝女岭上访红蕖 老道姑舟中献瑞草",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第044回 小孝女岭上访红蕖 老道姑舟中献瑞草",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1005725,
+      "char_count": 3911,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "第045回 君子国海中逢水怪 丈夫邦岭下遇山精",
+      "title": "第045回 君子国海中逢水怪 丈夫邦岭下遇山精",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第045回 君子国海中逢水怪 丈夫邦岭下遇山精",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 967199,
+      "char_count": 3728,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "第046回 施慈悲仙子降妖 发慷慨储君结伴",
+      "title": "第046回 施慈悲仙子降妖 发慷慨储君结伴",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第046回 施慈悲仙子降妖 发慷慨储君结伴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 911694,
+      "char_count": 3494,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "第047回 水月村樵夫寄信 镜花岭孝女寻亲",
+      "title": "第047回 水月村樵夫寄信 镜花岭孝女寻亲",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第047回 水月村樵夫寄信 镜花岭孝女寻亲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 795302,
+      "char_count": 2699,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "第048回 睹碑记默喻仙机 观图章微明妙旨",
+      "title": "第048回 睹碑记默喻仙机 观图章微明妙旨",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第048回 睹碑记默喻仙机 观图章微明妙旨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 876200,
+      "char_count": 3336,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "第049回 泣红亭书叶传佳话 流翠浦搴裳觉旧踪",
+      "title": "第049回 泣红亭书叶传佳话 流翠浦搴裳觉旧踪",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第049回 泣红亭书叶传佳话 流翠浦搴裳觉旧踪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1676969,
+      "char_count": 6518,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "第050回 遇难成祥马能伏虎 逢凶化吉妇可降夫",
+      "title": "第050回 遇难成祥马能伏虎 逢凶化吉妇可降夫",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第050回 遇难成祥马能伏虎 逢凶化吉妇可降夫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1058372,
+      "char_count": 4057,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "第051回 走穷途孝女绝粮 得生路仙姑献稻",
+      "title": "第051回 走穷途孝女绝粮 得生路仙姑献稻",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第051回 走穷途孝女绝粮 得生路仙姑献稻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 992271,
+      "char_count": 3913,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "第052回 谈春秋胸罗锦绣 讲礼制口吐珠玑",
+      "title": "第052回 谈春秋胸罗锦绣 讲礼制口吐珠玑",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第052回 谈春秋胸罗锦绣 讲礼制口吐珠玑",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1010950,
+      "char_count": 3808,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "第053回 论前朝数语分南北 书旧史挥毫贯古今",
+      "title": "第053回 论前朝数语分南北 书旧史挥毫贯古今",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第053回 论前朝数语分南北 书旧史挥毫贯古今",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1558459,
+      "char_count": 5298,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "第054回 通智慧白猿窃书 显奇能红女传信",
+      "title": "第054回 通智慧白猿窃书 显奇能红女传信",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第054回 通智慧白猿窃书 显奇能红女传信",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 883949,
+      "char_count": 3424,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "第055回 田氏女细谈妙剂 洛家娃默祷灵签",
+      "title": "第055回 田氏女细谈妙剂 洛家娃默祷灵签",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第055回 田氏女细谈妙剂 洛家娃默祷灵签",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 902657,
+      "char_count": 3444,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "第056回 诣芳邻姑嫂巧遇 游瀚海主仆重逢",
+      "title": "第056回 诣芳邻姑嫂巧遇 游瀚海主仆重逢",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第056回 诣芳邻姑嫂巧遇 游瀚海主仆重逢",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 980511,
+      "char_count": 3785,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "第057回 读血书伤情思旧友 闻凶信仗义访良朋",
+      "title": "第057回 读血书伤情思旧友 闻凶信仗义访良朋",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第057回 读血书伤情思旧友 闻凶信仗义访良朋",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1334153,
+      "char_count": 5148,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "第058回 史将军陇右失机 宰少女途中得胜",
+      "title": "第058回 史将军陇右失机 宰少女途中得胜",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第058回 史将军陇右失机 宰少女途中得胜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 765730,
+      "char_count": 2870,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "第059回 洛公子山中避难 史英豪岭下招兵",
+      "title": "第059回 洛公子山中避难 史英豪岭下招兵",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第059回 洛公子山中避难 史英豪岭下招兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1521296,
+      "char_count": 5828,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "第060回 熊大郎途中失要犯 燕小姐堂上宴嘉宾",
+      "title": "第060回 熊大郎途中失要犯 燕小姐堂上宴嘉宾",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第060回 熊大郎途中失要犯 燕小姐堂上宴嘉宾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 881298,
+      "char_count": 3372,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "第061回 小才女亭内品茶 老总兵园中留客",
+      "title": "第061回 小才女亭内品茶 老总兵园中留客",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第061回 小才女亭内品茶 老总兵园中留客",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 896086,
+      "char_count": 3414,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "第062回 绿香园四美巧相逢 红文馆群芳小聚会",
+      "title": "第062回 绿香园四美巧相逢 红文馆群芳小聚会",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第062回 绿香园四美巧相逢 红文馆群芳小聚会",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1252685,
+      "char_count": 4902,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "第063回 论科场众女谈果报 误考试十美具公呈",
+      "title": "第063回 论科场众女谈果报 误考试十美具公呈",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第063回 论科场众女谈果报 误考试十美具公呈",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1090435,
+      "char_count": 4150,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "第064回 赌石砚舅甥斗趣 猜灯谜姊妹陶情",
+      "title": "第064回 赌石砚舅甥斗趣 猜灯谜姊妹陶情",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第064回 赌石砚舅甥斗趣 猜灯谜姊妹陶情",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1557083,
+      "char_count": 5827,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "第065回 盼佳音虔心问卜 预盛典奉命抡才",
+      "title": "第065回 盼佳音虔心问卜 预盛典奉命抡才",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第065回 盼佳音虔心问卜 预盛典奉命抡才",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1015942,
+      "char_count": 3947,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "第066回 借飞车国王访储子 放黄榜太后考闺才",
+      "title": "第066回 借飞车国王访储子 放黄榜太后考闺才",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第066回 借飞车国王访储子 放黄榜太后考闺才",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1388363,
+      "char_count": 5325,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "第067回 小才女卞府谒师 老国舅黄门进表",
+      "title": "第067回 小才女卞府谒师 老国舅黄门进表",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第067回 小才女卞府谒师 老国舅黄门进表",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1268010,
+      "char_count": 4864,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "第068回 受荣封三孤膺敕命 奉宠召众美赴华筵",
+      "title": "第068回 受荣封三孤膺敕命 奉宠召众美赴华筵",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第068回 受荣封三孤膺敕命 奉宠召众美赴华筵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 914374,
+      "char_count": 3499,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "第069回 百花大聚宗伯府 众美初临晚芳园",
+      "title": "第069回 百花大聚宗伯府 众美初临晚芳园",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第069回 百花大聚宗伯府 众美初临晚芳园",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 804697,
+      "char_count": 3083,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "第070回 述奇形蚕茧当小帽 谈异域酒坛作烟壶",
+      "title": "第070回 述奇形蚕茧当小帽 谈异域酒坛作烟壶",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第070回 述奇形蚕茧当小帽 谈异域酒坛作烟壶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 917768,
+      "char_count": 3454,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "第071回 触旧事神在泣红亭 联新交情深凝翠馆",
+      "title": "第071回 触旧事神在泣红亭 联新交情深凝翠馆",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第071回 触旧事神在泣红亭 联新交情深凝翠馆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1006766,
+      "char_count": 3860,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "第072回 古桐台五美抚瑶琴 白蒁亭八女写春扇",
+      "title": "第072回 古桐台五美抚瑶琴 白蒁亭八女写春扇",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第072回 古桐台五美抚瑶琴 白蒁亭八女写春扇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 716905,
+      "char_count": 2740,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "第073回 看围棋姚姝谈弈谱 观马吊孟女讲牌经",
+      "title": "第073回 看围棋姚姝谈弈谱 观马吊孟女讲牌经",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第073回 看围棋姚姝谈弈谱 观马吊孟女讲牌经",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 807088,
+      "char_count": 3030,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "第074回 打双陆嘉言述前贤 下象棋谐语谈故事",
+      "title": "第074回 打双陆嘉言述前贤 下象棋谐语谈故事",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第074回 打双陆嘉言述前贤 下象棋谐语谈故事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 767804,
+      "char_count": 2905,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "第075回 弄新声水榭吹萧 隐俏体纱窗听课",
+      "title": "第075回 弄新声水榭吹萧 隐俏体纱窗听课",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第075回 弄新声水榭吹萧 隐俏体纱窗听课",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1303402,
+      "char_count": 4985,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "第076回 讲六壬花前阐妙旨 观四课牖下窃真传",
+      "title": "第076回 讲六壬花前阐妙旨 观四课牖下窃真传",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第076回 讲六壬花前阐妙旨 观四课牖下窃真传",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1562999,
+      "char_count": 5872,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "第077回 斗百草全除旧套 对群花别出新裁",
+      "title": "第077回 斗百草全除旧套 对群花别出新裁",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第077回 斗百草全除旧套 对群花别出新裁",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 754334,
+      "char_count": 2928,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "第078回 运巧思对酒纵谐谈 飞旧句当筵行妙令",
+      "title": "第078回 运巧思对酒纵谐谈 飞旧句当筵行妙令",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第078回 运巧思对酒纵谐谈 飞旧句当筵行妙令",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 800765,
+      "char_count": 2993,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "第079回 指迷团灵心讲射 擅巧技妙算谈天",
+      "title": "第079回 指迷团灵心讲射 擅巧技妙算谈天",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第079回 指迷团灵心讲射 擅巧技妙算谈天",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1067266,
+      "char_count": 4088,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "第080回 打灯虎亭中赌画扇 抛气球园内舞花鞋",
+      "title": "第080回 打灯虎亭中赌画扇 抛气球园内舞花鞋",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第080回 打灯虎亭中赌画扇 抛气球园内舞花鞋",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1153002,
+      "char_count": 3767,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 81,
+      "chapter_id": "第081回 白蒁亭董女谈诗 凝翠馆兰姑设宴",
+      "title": "第081回 白蒁亭董女谈诗 凝翠馆兰姑设宴",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第081回 白蒁亭董女谈诗 凝翠馆兰姑设宴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 980047,
+      "char_count": 3681,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 82,
+      "chapter_id": "第082回 行酒令书句飞双声 辩古文字音讹叠韵",
+      "title": "第082回 行酒令书句飞双声 辩古文字音讹叠韵",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第082回 行酒令书句飞双声 辩古文字音讹叠韵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 740915,
+      "char_count": 2785,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 83,
+      "chapter_id": "第083回 说大书佐酒为欢 唱小曲飞觞作乐",
+      "title": "第083回 说大书佐酒为欢 唱小曲飞觞作乐",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第083回 说大书佐酒为欢 唱小曲飞觞作乐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 685662,
+      "char_count": 2581,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 84,
+      "chapter_id": "第084回 逞豪兴朗吟妙句 发婆心敬诵真经",
+      "title": "第084回 逞豪兴朗吟妙句 发婆心敬诵真经",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第084回 逞豪兴朗吟妙句 发婆心敬诵真经",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 871902,
+      "char_count": 3339,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 85,
+      "chapter_id": "第085回 论韵谱冷言讥沈约 引毛诗佳句美庄姜",
+      "title": "第085回 论韵谱冷言讥沈约 引毛诗佳句美庄姜",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第085回 论韵谱冷言讥沈约 引毛诗佳句美庄姜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1208515,
+      "char_count": 4516,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 86,
+      "chapter_id": "第086回 念亲情孝女挥泪眼 谈本姓侍儿解人颐",
+      "title": "第086回 念亲情孝女挥泪眼 谈本姓侍儿解人颐",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第086回 念亲情孝女挥泪眼 谈本姓侍儿解人颐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 818417,
+      "char_count": 3058,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 87,
+      "chapter_id": "第087回 因旧事游戏仿楚词 即美景诙谐编月令",
+      "title": "第087回 因旧事游戏仿楚词 即美景诙谐编月令",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第087回 因旧事游戏仿楚词 即美景诙谐编月令",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 953591,
+      "char_count": 3551,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 88,
+      "chapter_id": "第088回 借月旦月姊释前嫌 逞风狂风姨泄旧忿",
+      "title": "第088回 借月旦月姊释前嫌 逞风狂风姨泄旧忿",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第088回 借月旦月姊释前嫌 逞风狂风姨泄旧忿",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1036127,
+      "char_count": 3896,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 89,
+      "chapter_id": "第089回 阐元机历述新诗 溯旧迹质明往事",
+      "title": "第089回 阐元机历述新诗 溯旧迹质明往事",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第089回 阐元机历述新诗 溯旧迹质明往事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 917517,
+      "char_count": 3508,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 90,
+      "chapter_id": "第090回 乘酒意醉诵凄凉句 警芳心惊闻惨淡词",
+      "title": "第090回 乘酒意醉诵凄凉句 警芳心惊闻惨淡词",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第090回 乘酒意醉诵凄凉句 警芳心惊闻惨淡词",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 705494,
+      "char_count": 2768,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 91,
+      "chapter_id": "第091回 拆妙字换柱抽梁 掣牙签指鹿为马",
+      "title": "第091回 拆妙字换柱抽梁 掣牙签指鹿为马",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第091回 拆妙字换柱抽梁 掣牙签指鹿为马",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1091514,
+      "char_count": 4187,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 92,
+      "chapter_id": "第092回 论果蠃佳人施慧性 辩壶卢婢子具灵心",
+      "title": "第092回 论果蠃佳人施慧性 辩壶卢婢子具灵心",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第092回 论果蠃佳人施慧性 辩壶卢婢子具灵心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1014869,
+      "char_count": 3831,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 93,
+      "chapter_id": "第093回 弄双声夺词驰辩 飞叠字巹妙策谈",
+      "title": "第093回 弄双声夺词驰辩 飞叠字巹妙策谈",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第093回 弄双声夺词驰辩 飞叠字巹妙策谈",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 747525,
+      "char_count": 2904,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 94,
+      "chapter_id": "第094回 文艳王奉命回故里 女学士思亲入仙山",
+      "title": "第094回 文艳王奉命回故里 女学士思亲入仙山",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第094回 文艳王奉命回故里 女学士思亲入仙山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 901940,
+      "char_count": 3492,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 95,
+      "chapter_id": "第095回 因旧恙筵上谈医 结新爱庭中比射",
+      "title": "第095回 因旧恙筵上谈医 结新爱庭中比射",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第095回 因旧恙筵上谈医 结新爱庭中比射",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 861271,
+      "char_count": 3214,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 96,
+      "chapter_id": "第096回 秉忠诚部下起雄兵 施邪术关前摆毒阵",
+      "title": "第096回 秉忠诚部下起雄兵 施邪术关前摆毒阵",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第096回 秉忠诚部下起雄兵 施邪术关前摆毒阵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1166938,
+      "char_count": 4516,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 97,
+      "chapter_id": "第097回 仙姑山上拨求救 红草丛中笔吐光",
+      "title": "第097回 仙姑山上拨求救 红草丛中笔吐光",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第097回 仙姑山上拨求救 红草丛中笔吐光",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 939699,
+      "char_count": 3627,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 98,
+      "chapter_id": "第098回 逞雄心挑战无火关 启欲念被围巴刀阵",
+      "title": "第098回 逞雄心挑战无火关 启欲念被围巴刀阵",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第098回 逞雄心挑战无火关 启欲念被围巴刀阵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 993337,
+      "char_count": 3812,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 99,
+      "chapter_id": "第099回 迷本性将军游幻境 发慈心仙子下凡尘",
+      "title": "第099回 迷本性将军游幻境 发慈心仙子下凡尘",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第099回 迷本性将军游幻境 发慈心仙子下凡尘",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1178910,
+      "char_count": 4581,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 100,
+      "chapter_id": "第100回 建奇勋节度还朝 传大宝中宗复位",
+      "title": "第100回 建奇勋节度还朝 传大宝中宗复位",
+      "full_path": "上下五千年/E4神话故事/镜花缘/第100回 建奇勋节度还朝 传大宝中宗复位",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 821056,
+      "char_count": 3217,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/逻辑思维/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/逻辑思维.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 30,
+  "entries": [
+    {
+      "entry_id": "AABB规律",
+      "title": "AABB规律",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/AABB规律"
+    },
+    {
+      "entry_id": "ABAB规律",
+      "title": "ABAB规律",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/ABAB规律"
+    },
+    {
+      "entry_id": "ABCABC规律",
+      "title": "ABCABC规律",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/ABCABC规律"
+    },
+    {
+      "entry_id": "为什么会这样",
+      "title": "为什么会这样",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/为什么会这样"
+    },
+    {
+      "entry_id": "分析问题",
+      "title": "分析问题",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/分析问题"
+    },
+    {
+      "entry_id": "原因和结果",
+      "title": "原因和结果",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/原因和结果"
+    },
+    {
+      "entry_id": "后果预测",
+      "title": "后果预测",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/后果预测"
+    },
+    {
+      "entry_id": "因为所以",
+      "title": "因为所以",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/因为所以"
+    },
+    {
+      "entry_id": "图形规律",
+      "title": "图形规律",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/图形规律"
+    },
+    {
+      "entry_id": "多角度思考",
+      "title": "多角度思考",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/多角度思考"
+    },
+    {
+      "entry_id": "多重分类",
+      "title": "多重分类",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/多重分类"
+    },
+    {
+      "entry_id": "如果那么",
+      "title": "如果那么",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/如果那么"
+    },
+    {
+      "entry_id": "归纳推理",
+      "title": "归纳推理",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/归纳推理"
+    },
+    {
+      "entry_id": "找不同",
+      "title": "找不同",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/找不同"
+    },
+    {
+      "entry_id": "按大小分类",
+      "title": "按大小分类",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按大小分类"
+    },
+    {
+      "entry_id": "按形状分类",
+      "title": "按形状分类",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按形状分类"
+    },
+    {
+      "entry_id": "按用途分类",
+      "title": "按用途分类",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按用途分类"
+    },
+    {
+      "entry_id": "按颜色分类",
+      "title": "按颜色分类",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按颜色分类"
+    },
+    {
+      "entry_id": "排除法",
+      "title": "排除法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/排除法"
+    },
+    {
+      "entry_id": "提出方案",
+      "title": "提出方案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/提出方案"
+    },
+    {
+      "entry_id": "数字序列",
+      "title": "数字序列",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/数字序列"
+    },
+    {
+      "entry_id": "演绎推理",
+      "title": "演绎推理",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/演绎推理"
+    },
+    {
+      "entry_id": "真假判断",
+      "title": "真假判断",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/真假判断"
+    },
+    {
+      "entry_id": "线索推理",
+      "title": "线索推理",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/线索推理"
+    },
+    {
+      "entry_id": "试错法",
+      "title": "试错法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/试错法"
+    },
+    {
+      "entry_id": "连锁反应",
+      "title": "连锁反应",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/连锁反应"
+    },
+    {
+      "entry_id": "逆向思维",
+      "title": "逆向思维",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/逆向思维"
+    },
+    {
+      "entry_id": "逻辑谜题",
+      "title": "逻辑谜题",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/逻辑谜题"
+    },
+    {
+      "entry_id": "预测下一个",
+      "title": "预测下一个",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/预测下一个"
+    },
+    {
+      "entry_id": "验证结果",
+      "title": "验证结果",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/验证结果"
+    }
+  ]
+}

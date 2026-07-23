@@ -1,0 +1,736 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "蒙学经典/M3千字文",
+  "work_name": "M3千字文",
+  "cover": {
+    "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 48,
+  "total_duration_ms": 11175400,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "千字文001-001_第1段_天地玄黄宇宙洪",
+      "title": "千字文001-001_第1段_天地玄黄宇宙洪",
+      "full_path": "蒙学经典/M3千字文/千字文001-001_第1段_天地玄黄宇宙洪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 190600,
+      "char_count": 950,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "千字文002-002_第2段_寒来暑往秋收冬",
+      "title": "千字文002-002_第2段_寒来暑往秋收冬",
+      "full_path": "蒙学经典/M3千字文/千字文002-002_第2段_寒来暑往秋收冬",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 173600,
+      "char_count": 865,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "千字文003-003_第3段_云腾致雨露结为",
+      "title": "千字文003-003_第3段_云腾致雨露结为",
+      "full_path": "蒙学经典/M3千字文/千字文003-003_第3段_云腾致雨露结为",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 242400,
+      "char_count": 1207,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "千字文004-005_第4段_剑号巨阙珠称夜",
+      "title": "千字文004-005_第4段_剑号巨阙珠称夜",
+      "full_path": "蒙学经典/M3千字文/千字文004-005_第4段_剑号巨阙珠称夜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 220400,
+      "char_count": 1098,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "千字文006-006_第5段_龙师火帝鸟官人",
+      "title": "千字文006-006_第5段_龙师火帝鸟官人",
+      "full_path": "蒙学经典/M3千字文/千字文006-006_第5段_龙师火帝鸟官人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 277800,
+      "char_count": 1386,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "千字文007-007_第6段_推位让国有虞陶",
+      "title": "千字文007-007_第6段_推位让国有虞陶",
+      "full_path": "蒙学经典/M3千字文/千字文007-007_第6段_推位让国有虞陶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 215200,
+      "char_count": 1073,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "千字文008-009_第7段_坐朝问道垂拱平",
+      "title": "千字文008-009_第7段_坐朝问道垂拱平",
+      "full_path": "蒙学经典/M3千字文/千字文008-009_第7段_坐朝问道垂拱平",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 486400,
+      "char_count": 2426,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "千字文010-010_第8段_盖此身发四大五",
+      "title": "千字文010-010_第8段_盖此身发四大五",
+      "full_path": "蒙学经典/M3千字文/千字文010-010_第8段_盖此身发四大五",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 142800,
+      "char_count": 711,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "千字文011-011_第9段_女慕贞洁男效才",
+      "title": "千字文011-011_第9段_女慕贞洁男效才",
+      "full_path": "蒙学经典/M3千字文/千字文011-011_第9段_女慕贞洁男效才",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 268800,
+      "char_count": 1341,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "千字文012-012_第10段_罔谈彼短靡恃己",
+      "title": "千字文012-012_第10段_罔谈彼短靡恃己",
+      "full_path": "蒙学经典/M3千字文/千字文012-012_第10段_罔谈彼短靡恃己",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 191200,
+      "char_count": 953,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "千字文013-013_第11段_墨悲丝染诗赞羔",
+      "title": "千字文013-013_第11段_墨悲丝染诗赞羔",
+      "full_path": "蒙学经典/M3千字文/千字文013-013_第11段_墨悲丝染诗赞羔",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 357400,
+      "char_count": 1780,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "千字文014-014_第12段_空谷传声虚堂习",
+      "title": "千字文014-014_第12段_空谷传声虚堂习",
+      "full_path": "蒙学经典/M3千字文/千字文014-014_第12段_空谷传声虚堂习",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 220800,
+      "char_count": 1100,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "千字文015-015_第13段_资父事君曰严与",
+      "title": "千字文015-015_第13段_资父事君曰严与",
+      "full_path": "蒙学经典/M3千字文/千字文015-015_第13段_资父事君曰严与",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 230400,
+      "char_count": 1148,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "千字文016-016_第14段_似兰斯馨如松之",
+      "title": "千字文016-016_第14段_似兰斯馨如松之",
+      "full_path": "蒙学经典/M3千字文/千字文016-016_第14段_似兰斯馨如松之",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 187800,
+      "char_count": 934,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "千字文017-017_第15段_容止若思言辞安",
+      "title": "千字文017-017_第15段_容止若思言辞安",
+      "full_path": "蒙学经典/M3千字文/千字文017-017_第15段_容止若思言辞安",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 272000,
+      "char_count": 1356,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "千字文018-018_第16段_学优登仕摄职从",
+      "title": "千字文018-018_第16段_学优登仕摄职从",
+      "full_path": "蒙学经典/M3千字文/千字文018-018_第16段_学优登仕摄职从",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 109200,
+      "char_count": 543,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "千字文019-019_第17段_乐殊贵贱礼别尊",
+      "title": "千字文019-019_第17段_乐殊贵贱礼别尊",
+      "full_path": "蒙学经典/M3千字文/千字文019-019_第17段_乐殊贵贱礼别尊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 196600,
+      "char_count": 980,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "千字文020-020_第18段_外受傅训入奉母",
+      "title": "千字文020-020_第18段_外受傅训入奉母",
+      "full_path": "蒙学经典/M3千字文/千字文020-020_第18段_外受傅训入奉母",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 217800,
+      "char_count": 1085,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "千字文021-021_第19段_交友投分切磨箴",
+      "title": "千字文021-021_第19段_交友投分切磨箴",
+      "full_path": "蒙学经典/M3千字文/千字文021-021_第19段_交友投分切磨箴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 238400,
+      "char_count": 1188,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "千字文022-022_第20段_性静情逸心动神",
+      "title": "千字文022-022_第20段_性静情逸心动神",
+      "full_path": "蒙学经典/M3千字文/千字文022-022_第20段_性静情逸心动神",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 227800,
+      "char_count": 1132,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "千字文023-023_第21段_都邑华夏东西二",
+      "title": "千字文023-023_第21段_都邑华夏东西二",
+      "full_path": "蒙学经典/M3千字文/千字文023-023_第21段_都邑华夏东西二",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 188800,
+      "char_count": 941,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "千字文024-024_第22段_宫殿盘郁楼观飞",
+      "title": "千字文024-024_第22段_宫殿盘郁楼观飞",
+      "full_path": "蒙学经典/M3千字文/千字文024-024_第22段_宫殿盘郁楼观飞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 170400,
+      "char_count": 849,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "千字文025-025_第23段_丙舍旁启甲帐对",
+      "title": "千字文025-025_第23段_丙舍旁启甲帐对",
+      "full_path": "蒙学经典/M3千字文/千字文025-025_第23段_丙舍旁启甲帐对",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 209200,
+      "char_count": 1042,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "千字文026-026_第24段_右通广内左达承",
+      "title": "千字文026-026_第24段_右通广内左达承",
+      "full_path": "蒙学经典/M3千字文/千字文026-026_第24段_右通广内左达承",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 289200,
+      "char_count": 1442,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "千字文027-027_第25段_府罗将相路侠槐",
+      "title": "千字文027-027_第25段_府罗将相路侠槐",
+      "full_path": "蒙学经典/M3千字文/千字文027-027_第25段_府罗将相路侠槐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 244800,
+      "char_count": 1219,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "千字文028-028_第26段_策功茂实勒碑刻",
+      "title": "千字文028-028_第26段_策功茂实勒碑刻",
+      "full_path": "蒙学经典/M3千字文/千字文028-028_第26段_策功茂实勒碑刻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 255000,
+      "char_count": 1271,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "千字文029-029_第27段_桓公匡合济弱扶",
+      "title": "千字文029-029_第27段_桓公匡合济弱扶",
+      "full_path": "蒙学经典/M3千字文/千字文029-029_第27段_桓公匡合济弱扶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 304000,
+      "char_count": 1515,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "千字文030-030_第28段_晋楚更霸赵魏困",
+      "title": "千字文030-030_第28段_晋楚更霸赵魏困",
+      "full_path": "蒙学经典/M3千字文/千字文030-030_第28段_晋楚更霸赵魏困",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 274000,
+      "char_count": 1365,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "千字文031-031_第29段_何遵约法韩弊烦",
+      "title": "千字文031-031_第29段_何遵约法韩弊烦",
+      "full_path": "蒙学经典/M3千字文/千字文031-031_第29段_何遵约法韩弊烦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 320400,
+      "char_count": 1598,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "千字文032-032_第30段_九州禹迹百郡秦",
+      "title": "千字文032-032_第30段_九州禹迹百郡秦",
+      "full_path": "蒙学经典/M3千字文/千字文032-032_第30段_九州禹迹百郡秦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 310600,
+      "char_count": 1548,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "千字文033-033_第31段_雁门紫塞鸡田赤",
+      "title": "千字文033-033_第31段_雁门紫塞鸡田赤",
+      "full_path": "蒙学经典/M3千字文/千字文033-033_第31段_雁门紫塞鸡田赤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 288800,
+      "char_count": 1440,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "千字文034-034_第32段_治本于农务兹稼",
+      "title": "千字文034-034_第32段_治本于农务兹稼",
+      "full_path": "蒙学经典/M3千字文/千字文034-034_第32段_治本于农务兹稼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 282600,
+      "char_count": 1409,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "千字文035-035_第33段_孟轲敦素史鱼秉",
+      "title": "千字文035-035_第33段_孟轲敦素史鱼秉",
+      "full_path": "蒙学经典/M3千字文/千字文035-035_第33段_孟轲敦素史鱼秉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 261000,
+      "char_count": 1300,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "千字文036-036_第34段_聆音察理鉴貌辨",
+      "title": "千字文036-036_第34段_聆音察理鉴貌辨",
+      "full_path": "蒙学经典/M3千字文/千字文036-036_第34段_聆音察理鉴貌辨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 150600,
+      "char_count": 750,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "千字文037-037_第35段_省躬讥诫宠增抗",
+      "title": "千字文037-037_第35段_省躬讥诫宠增抗",
+      "full_path": "蒙学经典/M3千字文/千字文037-037_第35段_省躬讥诫宠增抗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 187800,
+      "char_count": 935,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "千字文038-038_第36段_索居闲处沉默寂",
+      "title": "千字文038-038_第36段_索居闲处沉默寂",
+      "full_path": "蒙学经典/M3千字文/千字文038-038_第36段_索居闲处沉默寂",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 185000,
+      "char_count": 921,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "千字文039-039_第37段_渠荷的历园莽抽",
+      "title": "千字文039-039_第37段_渠荷的历园莽抽",
+      "full_path": "蒙学经典/M3千字文/千字文039-039_第37段_渠荷的历园莽抽",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 263600,
+      "char_count": 1313,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "千字文040-040_第38段_耽读玩市寓目囊",
+      "title": "千字文040-040_第38段_耽读玩市寓目囊",
+      "full_path": "蒙学经典/M3千字文/千字文040-040_第38段_耽读玩市寓目囊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 210200,
+      "char_count": 1046,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "千字文041-041_第39段_具膳餐饭适口充",
+      "title": "千字文041-041_第39段_具膳餐饭适口充",
+      "full_path": "蒙学经典/M3千字文/千字文041-041_第39段_具膳餐饭适口充",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 187200,
+      "char_count": 932,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "千字文042-042_第40段_妾御绩纺侍巾帷",
+      "title": "千字文042-042_第40段_妾御绩纺侍巾帷",
+      "full_path": "蒙学经典/M3千字文/千字文042-042_第40段_妾御绩纺侍巾帷",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 263600,
+      "char_count": 1311,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "千字文043-043_第41段_弦歌酒宴接杯举",
+      "title": "千字文043-043_第41段_弦歌酒宴接杯举",
+      "full_path": "蒙学经典/M3千字文/千字文043-043_第41段_弦歌酒宴接杯举",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 163000,
+      "char_count": 812,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "千字文044-044_第42段_嫡后嗣续祭祀烝",
+      "title": "千字文044-044_第42段_嫡后嗣续祭祀烝",
+      "full_path": "蒙学经典/M3千字文/千字文044-044_第42段_嫡后嗣续祭祀烝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 282400,
+      "char_count": 1407,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "千字文045-045_第43段_笺牒简要顾答审",
+      "title": "千字文045-045_第43段_笺牒简要顾答审",
+      "full_path": "蒙学经典/M3千字文/千字文045-045_第43段_笺牒简要顾答审",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 215800,
+      "char_count": 1074,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "千字文046-046_第44段_驴骡犊特骇跃超",
+      "title": "千字文046-046_第44段_驴骡犊特骇跃超",
+      "full_path": "蒙学经典/M3千字文/千字文046-046_第44段_驴骡犊特骇跃超",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 200000,
+      "char_count": 997,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "千字文047-047_第45段_布射僚丸嵇琴阮",
+      "title": "千字文047-047_第45段_布射僚丸嵇琴阮",
+      "full_path": "蒙学经典/M3千字文/千字文047-047_第45段_布射僚丸嵇琴阮",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 149400,
+      "char_count": 740,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "千字文048-048_第46段_毛施淑姿工颦妍",
+      "title": "千字文048-048_第46段_毛施淑姿工颦妍",
+      "full_path": "蒙学经典/M3千字文/千字文048-048_第46段_毛施淑姿工颦妍",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 242000,
+      "char_count": 1206,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "千字文049-049_第47段_指薪修祜永绥吉",
+      "title": "千字文049-049_第47段_指薪修祜永绥吉",
+      "full_path": "蒙学经典/M3千字文/千字文049-049_第47段_指薪修祜永绥吉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 193400,
+      "char_count": 963,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "千字文050-050_第48段_孤陋寡闻愚蒙等",
+      "title": "千字文050-050_第48段_孤陋寡闻愚蒙等",
+      "full_path": "蒙学经典/M3千字文/千字文050-050_第48段_孤陋寡闻愚蒙等",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 215200,
+      "char_count": 1073,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

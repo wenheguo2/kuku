@@ -1,0 +1,1276 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "蒙学经典/M1三字经",
+  "work_name": "M1三字经",
+  "cover": {
+    "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 84,
+  "total_duration_ms": 17686800,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "三字经001-001_第1段_人之初性本善",
+      "title": "三字经001-001_第1段_人之初性本善",
+      "full_path": "蒙学经典/M1三字经/三字经001-001_第1段_人之初性本善",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 179600,
+      "char_count": 895,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "三字经002-002_第2段_苟不教性乃迁",
+      "title": "三字经002-002_第2段_苟不教性乃迁",
+      "full_path": "蒙学经典/M1三字经/三字经002-002_第2段_苟不教性乃迁",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 138600,
+      "char_count": 690,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "三字经003-003_第3段_昔孟母择邻处",
+      "title": "三字经003-003_第3段_昔孟母择邻处",
+      "full_path": "蒙学经典/M1三字经/三字经003-003_第3段_昔孟母择邻处",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 241200,
+      "char_count": 1203,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "三字经004-004_第4段_窦燕山有义方",
+      "title": "三字经004-004_第4段_窦燕山有义方",
+      "full_path": "蒙学经典/M1三字经/三字经004-004_第4段_窦燕山有义方",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 158000,
+      "char_count": 787,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "三字经005-005_第5段_养不教父之过",
+      "title": "三字经005-005_第5段_养不教父之过",
+      "full_path": "蒙学经典/M1三字经/三字经005-005_第5段_养不教父之过",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 153600,
+      "char_count": 765,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "三字经006-006_第6段_子不学非所宜",
+      "title": "三字经006-006_第6段_子不学非所宜",
+      "full_path": "蒙学经典/M1三字经/三字经006-006_第6段_子不学非所宜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 164800,
+      "char_count": 821,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "三字经007-007_第7段_玉不琢不成器",
+      "title": "三字经007-007_第7段_玉不琢不成器",
+      "full_path": "蒙学经典/M1三字经/三字经007-007_第7段_玉不琢不成器",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 203600,
+      "char_count": 1015,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "三字经008-008_第8段_为人子方少时",
+      "title": "三字经008-008_第8段_为人子方少时",
+      "full_path": "蒙学经典/M1三字经/三字经008-008_第8段_为人子方少时",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 131200,
+      "char_count": 653,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "三字经009-009_第9段_香九龄能温席",
+      "title": "三字经009-009_第9段_香九龄能温席",
+      "full_path": "蒙学经典/M1三字经/三字经009-009_第9段_香九龄能温席",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 144600,
+      "char_count": 720,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "三字经010-010_第10段_融四岁能让梨",
+      "title": "三字经010-010_第10段_融四岁能让梨",
+      "full_path": "蒙学经典/M1三字经/三字经010-010_第10段_融四岁能让梨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 174600,
+      "char_count": 870,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "三字经011-011_第11段_首孝悌次见闻",
+      "title": "三字经011-011_第11段_首孝悌次见闻",
+      "full_path": "蒙学经典/M1三字经/三字经011-011_第11段_首孝悌次见闻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 238800,
+      "char_count": 1191,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "三字经012-012_第12段_一而十十而百",
+      "title": "三字经012-012_第12段_一而十十而百",
+      "full_path": "蒙学经典/M1三字经/三字经012-012_第12段_一而十十而百",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 144200,
+      "char_count": 718,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "三字经013-013_第13段_三才者天地人",
+      "title": "三字经013-013_第13段_三才者天地人",
+      "full_path": "蒙学经典/M1三字经/三字经013-013_第13段_三才者天地人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 255200,
+      "char_count": 1273,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "三字经014-014_第14段_三纲者君臣义",
+      "title": "三字经014-014_第14段_三纲者君臣义",
+      "full_path": "蒙学经典/M1三字经/三字经014-014_第14段_三纲者君臣义",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 250800,
+      "char_count": 1251,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "三字经015-015_第15段_曰春夏曰秋冬",
+      "title": "三字经015-015_第15段_曰春夏曰秋冬",
+      "full_path": "蒙学经典/M1三字经/三字经015-015_第15段_曰春夏曰秋冬",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 198000,
+      "char_count": 987,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "三字经016-016_第16段_曰南北曰西东",
+      "title": "三字经016-016_第16段_曰南北曰西东",
+      "full_path": "蒙学经典/M1三字经/三字经016-016_第16段_曰南北曰西东",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 153400,
+      "char_count": 764,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "三字经017-017_第17段_曰水火木金土",
+      "title": "三字经017-017_第17段_曰水火木金土",
+      "full_path": "蒙学经典/M1三字经/三字经017-017_第17段_曰水火木金土",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 128400,
+      "char_count": 639,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "三字经018-018_第18段_十干者甲至癸",
+      "title": "三字经018-018_第18段_十干者甲至癸",
+      "full_path": "蒙学经典/M1三字经/三字经018-018_第18段_十干者甲至癸",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 210800,
+      "char_count": 1051,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "三字经019-019_第19段_曰黄道日所躔",
+      "title": "三字经019-019_第19段_曰黄道日所躔",
+      "full_path": "蒙学经典/M1三字经/三字经019-019_第19段_曰黄道日所躔",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 291000,
+      "char_count": 1450,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "三字经020-020_第20段_曰江河曰淮济",
+      "title": "三字经020-020_第20段_曰江河曰淮济",
+      "full_path": "蒙学经典/M1三字经/三字经020-020_第20段_曰江河曰淮济",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 195000,
+      "char_count": 972,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "三字经021-021_第21段_曰岱华嵩恒衡",
+      "title": "三字经021-021_第21段_曰岱华嵩恒衡",
+      "full_path": "蒙学经典/M1三字经/三字经021-021_第21段_曰岱华嵩恒衡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 170000,
+      "char_count": 847,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "三字经022-022_第22段_古九州今改制",
+      "title": "三字经022-022_第22段_古九州今改制",
+      "full_path": "蒙学经典/M1三字经/三字经022-022_第22段_古九州今改制",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 176000,
+      "char_count": 877,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "三字经023-023_第23段_曰士农曰工商",
+      "title": "三字经023-023_第23段_曰士农曰工商",
+      "full_path": "蒙学经典/M1三字经/三字经023-023_第23段_曰士农曰工商",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 225400,
+      "char_count": 1124,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "三字经024-024_第24段_曰仁义礼智信",
+      "title": "三字经024-024_第24段_曰仁义礼智信",
+      "full_path": "蒙学经典/M1三字经/三字经024-024_第24段_曰仁义礼智信",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 115400,
+      "char_count": 574,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "三字经025-025_第25段_地所生有草木",
+      "title": "三字经025-025_第25段_地所生有草木",
+      "full_path": "蒙学经典/M1三字经/三字经025-025_第25段_地所生有草木",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 189000,
+      "char_count": 940,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "三字经026-026_第26段_稻粱菽麦黍稷",
+      "title": "三字经026-026_第26段_稻粱菽麦黍稷",
+      "full_path": "蒙学经典/M1三字经/三字经026-026_第26段_稻粱菽麦黍稷",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 273400,
+      "char_count": 1362,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "三字经027-027_第27段_曰喜怒曰哀惧",
+      "title": "三字经027-027_第27段_曰喜怒曰哀惧",
+      "full_path": "蒙学经典/M1三字经/三字经027-027_第27段_曰喜怒曰哀惧",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 161200,
+      "char_count": 803,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "三字经028-028_第28段_青赤黄及黑白",
+      "title": "三字经028-028_第28段_青赤黄及黑白",
+      "full_path": "蒙学经典/M1三字经/三字经028-028_第28段_青赤黄及黑白",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 160000,
+      "char_count": 796,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "三字经029-029_第29段_匏土革木石金",
+      "title": "三字经029-029_第29段_匏土革木石金",
+      "full_path": "蒙学经典/M1三字经/三字经029-029_第29段_匏土革木石金",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 162400,
+      "char_count": 809,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "三字经030-030_第30段_曰平上曰去入",
+      "title": "三字经030-030_第30段_曰平上曰去入",
+      "full_path": "蒙学经典/M1三字经/三字经030-030_第30段_曰平上曰去入",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 173800,
+      "char_count": 866,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "三字经031-031_第31段_高曾祖父而身",
+      "title": "三字经031-031_第31段_高曾祖父而身",
+      "full_path": "蒙学经典/M1三字经/三字经031-031_第31段_高曾祖父而身",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 207200,
+      "char_count": 1031,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "三字经032-032_第32段_父子恩夫妇从",
+      "title": "三字经032-032_第32段_父子恩夫妇从",
+      "full_path": "蒙学经典/M1三字经/三字经032-032_第32段_父子恩夫妇从",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 223400,
+      "char_count": 1111,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "三字经033-033_第33段_斩齐衰大小功",
+      "title": "三字经033-033_第33段_斩齐衰大小功",
+      "full_path": "蒙学经典/M1三字经/三字经033-033_第33段_斩齐衰大小功",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 360400,
+      "char_count": 1797,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "三字经034-034_第34段_凡训蒙须讲究",
+      "title": "三字经034-034_第34段_凡训蒙须讲究",
+      "full_path": "蒙学经典/M1三字经/三字经034-034_第34段_凡训蒙须讲究",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 261200,
+      "char_count": 1301,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "三字经035-035_第35段_论语者二十篇",
+      "title": "三字经035-035_第35段_论语者二十篇",
+      "full_path": "蒙学经典/M1三字经/三字经035-035_第35段_论语者二十篇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 193800,
+      "char_count": 966,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "三字经036-036_第36段_孟子者七篇止",
+      "title": "三字经036-036_第36段_孟子者七篇止",
+      "full_path": "蒙学经典/M1三字经/三字经036-036_第36段_孟子者七篇止",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 156600,
+      "char_count": 780,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "三字经037-037_第37段_作中庸子思笔",
+      "title": "三字经037-037_第37段_作中庸子思笔",
+      "full_path": "蒙学经典/M1三字经/三字经037-037_第37段_作中庸子思笔",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 342800,
+      "char_count": 1709,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "三字经038-038_第38段_孝经通四书熟",
+      "title": "三字经038-038_第38段_孝经通四书熟",
+      "full_path": "蒙学经典/M1三字经/三字经038-038_第38段_孝经通四书熟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 288000,
+      "char_count": 1435,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "三字经039-039_第39段_有连山有归藏",
+      "title": "三字经039-039_第39段_有连山有归藏",
+      "full_path": "蒙学经典/M1三字经/三字经039-039_第39段_有连山有归藏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 226400,
+      "char_count": 1129,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "三字经040-040_第40段_有典谟有训诰",
+      "title": "三字经040-040_第40段_有典谟有训诰",
+      "full_path": "蒙学经典/M1三字经/三字经040-040_第40段_有典谟有训诰",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 154800,
+      "char_count": 771,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "三字经041-041_第41段_我周公作周礼",
+      "title": "三字经041-041_第41段_我周公作周礼",
+      "full_path": "蒙学经典/M1三字经/三字经041-041_第41段_我周公作周礼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 228400,
+      "char_count": 1137,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "三字经042-042_第42段_曰国风曰雅颂",
+      "title": "三字经042-042_第42段_曰国风曰雅颂",
+      "full_path": "蒙学经典/M1三字经/三字经042-042_第42段_曰国风曰雅颂",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 241600,
+      "char_count": 1203,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "三字经043-043_第43段_三传者有公羊",
+      "title": "三字经043-043_第43段_三传者有公羊",
+      "full_path": "蒙学经典/M1三字经/三字经043-043_第43段_三传者有公羊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 307000,
+      "char_count": 1530,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "三字经044-044_第44段_经子通读诸史",
+      "title": "三字经044-044_第44段_经子通读诸史",
+      "full_path": "蒙学经典/M1三字经/三字经044-044_第44段_经子通读诸史",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 141600,
+      "char_count": 705,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "三字经045-045_第45段_自羲农至黄帝",
+      "title": "三字经045-045_第45段_自羲农至黄帝",
+      "full_path": "蒙学经典/M1三字经/三字经045-045_第45段_自羲农至黄帝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 261600,
+      "char_count": 1305,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "三字经046-046_第46段_唐有虞号二帝",
+      "title": "三字经046-046_第46段_唐有虞号二帝",
+      "full_path": "蒙学经典/M1三字经/三字经046-046_第46段_唐有虞号二帝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 143200,
+      "char_count": 713,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "三字经047-047_第47段_夏有禹商有汤",
+      "title": "三字经047-047_第47段_夏有禹商有汤",
+      "full_path": "蒙学经典/M1三字经/三字经047-047_第47段_夏有禹商有汤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 184400,
+      "char_count": 919,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "三字经048-048_第48段_夏传子家天下",
+      "title": "三字经048-048_第48段_夏传子家天下",
+      "full_path": "蒙学经典/M1三字经/三字经048-048_第48段_夏传子家天下",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 207800,
+      "char_count": 1036,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "三字经049-049_第49段_汤伐夏国号商",
+      "title": "三字经049-049_第49段_汤伐夏国号商",
+      "full_path": "蒙学经典/M1三字经/三字经049-049_第49段_汤伐夏国号商",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 272000,
+      "char_count": 1357,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "三字经050-050_第50段_周武王始诛纣",
+      "title": "三字经050-050_第50段_周武王始诛纣",
+      "full_path": "蒙学经典/M1三字经/三字经050-050_第50段_周武王始诛纣",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 250400,
+      "char_count": 1249,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "三字经051-051_第51段_周辙东王纲坠",
+      "title": "三字经051-051_第51段_周辙东王纲坠",
+      "full_path": "蒙学经典/M1三字经/三字经051-051_第51段_周辙东王纲坠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 368200,
+      "char_count": 1836,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "三字经052-052_第52段_嬴秦氏始兼并",
+      "title": "三字经052-052_第52段_嬴秦氏始兼并",
+      "full_path": "蒙学经典/M1三字经/三字经052-052_第52段_嬴秦氏始兼并",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 213400,
+      "char_count": 1064,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "三字经053-053_第53段_高祖兴汉业建",
+      "title": "三字经053-053_第53段_高祖兴汉业建",
+      "full_path": "蒙学经典/M1三字经/三字经053-053_第53段_高祖兴汉业建",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 148400,
+      "char_count": 739,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "三字经054-054_第54段_光武兴为东汉",
+      "title": "三字经054-054_第54段_光武兴为东汉",
+      "full_path": "蒙学经典/M1三字经/三字经054-054_第54段_光武兴为东汉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 169800,
+      "char_count": 846,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "三字经055-055_第55段_魏蜀吴争汉鼎",
+      "title": "三字经055-055_第55段_魏蜀吴争汉鼎",
+      "full_path": "蒙学经典/M1三字经/三字经055-055_第55段_魏蜀吴争汉鼎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 164800,
+      "char_count": 821,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "三字经056-056_第56段_宋齐继梁陈承",
+      "title": "三字经056-056_第56段_宋齐继梁陈承",
+      "full_path": "蒙学经典/M1三字经/三字经056-056_第56段_宋齐继梁陈承",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 227200,
+      "char_count": 1131,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "三字经057-057_第57段_迨至隋一土宇",
+      "title": "三字经057-057_第57段_迨至隋一土宇",
+      "full_path": "蒙学经典/M1三字经/三字经057-057_第57段_迨至隋一土宇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 200400,
+      "char_count": 999,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "三字经058-058_第58段_唐高祖起义师",
+      "title": "三字经058-058_第58段_唐高祖起义师",
+      "full_path": "蒙学经典/M1三字经/三字经058-058_第58段_唐高祖起义师",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 245600,
+      "char_count": 1223,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "三字经059-059_第59段_梁唐晋及汉周",
+      "title": "三字经059-059_第59段_梁唐晋及汉周",
+      "full_path": "蒙学经典/M1三字经/三字经059-059_第59段_梁唐晋及汉周",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 154600,
+      "char_count": 770,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "三字经060-060_第60段_炎宋兴受周禅",
+      "title": "三字经060-060_第60段_炎宋兴受周禅",
+      "full_path": "蒙学经典/M1三字经/三字经060-060_第60段_炎宋兴受周禅",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 198800,
+      "char_count": 991,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "三字经061-061_第61段_辽与金皆称帝",
+      "title": "三字经061-061_第61段_辽与金皆称帝",
+      "full_path": "蒙学经典/M1三字经/三字经061-061_第61段_辽与金皆称帝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 134200,
+      "char_count": 668,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "三字经062-062_第62段_舆图广超前代",
+      "title": "三字经062-062_第62段_舆图广超前代",
+      "full_path": "蒙学经典/M1三字经/三字经062-062_第62段_舆图广超前代",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 153400,
+      "char_count": 764,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "三字经063-063_第63段_太祖兴国大明",
+      "title": "三字经063-063_第63段_太祖兴国大明",
+      "full_path": "蒙学经典/M1三字经/三字经063-063_第63段_太祖兴国大明",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 339400,
+      "char_count": 1692,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "三字经064-064_第64段_权阉肆寇如林",
+      "title": "三字经064-064_第64段_权阉肆寇如林",
+      "full_path": "蒙学经典/M1三字经/三字经064-064_第64段_权阉肆寇如林",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 248600,
+      "char_count": 1238,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "三字经065-065_第65段_清世祖膺景命",
+      "title": "三字经065-065_第65段_清世祖膺景命",
+      "full_path": "蒙学经典/M1三字经/三字经065-065_第65段_清世祖膺景命",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 292200,
+      "char_count": 1456,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "三字经066-066_第66段_道咸间变乱起",
+      "title": "三字经066-066_第66段_道咸间变乱起",
+      "full_path": "蒙学经典/M1三字经/三字经066-066_第66段_道咸间变乱起",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 188600,
+      "char_count": 938,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "三字经067-067_第67段_革命兴废帝制",
+      "title": "三字经067-067_第67段_革命兴废帝制",
+      "full_path": "蒙学经典/M1三字经/三字经067-067_第67段_革命兴废帝制",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 221000,
+      "char_count": 1100,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "三字经068-068_第68段_史虽繁读有次",
+      "title": "三字经068-068_第68段_史虽繁读有次",
+      "full_path": "蒙学经典/M1三字经/三字经068-068_第68段_史虽繁读有次",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 164600,
+      "char_count": 820,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "三字经069-069_第69段_后汉三国志四",
+      "title": "三字经069-069_第69段_后汉三国志四",
+      "full_path": "蒙学经典/M1三字经/三字经069-069_第69段_后汉三国志四",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 460600,
+      "char_count": 2298,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "三字经070-070_第70段_口而诵心而惟",
+      "title": "三字经070-070_第70段_口而诵心而惟",
+      "full_path": "蒙学经典/M1三字经/三字经070-070_第70段_口而诵心而惟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 183800,
+      "char_count": 916,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "三字经071-071_第71段_昔仲尼师项橐",
+      "title": "三字经071-071_第71段_昔仲尼师项橐",
+      "full_path": "蒙学经典/M1三字经/三字经071-071_第71段_昔仲尼师项橐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 157000,
+      "char_count": 782,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "三字经072-072_第72段_赵中令读鲁论",
+      "title": "三字经072-072_第72段_赵中令读鲁论",
+      "full_path": "蒙学经典/M1三字经/三字经072-072_第72段_赵中令读鲁论",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 135400,
+      "char_count": 674,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "三字经073-073_第73段_披蒲编削竹简",
+      "title": "三字经073-073_第73段_披蒲编削竹简",
+      "full_path": "蒙学经典/M1三字经/三字经073-073_第73段_披蒲编削竹简",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 188000,
+      "char_count": 936,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "三字经074-074_第74段_头悬梁锥刺股",
+      "title": "三字经074-074_第74段_头悬梁锥刺股",
+      "full_path": "蒙学经典/M1三字经/三字经074-074_第74段_头悬梁锥刺股",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 164800,
+      "char_count": 821,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "三字经075-075_第75段_如囊萤如映雪",
+      "title": "三字经075-075_第75段_如囊萤如映雪",
+      "full_path": "蒙学经典/M1三字经/三字经075-075_第75段_如囊萤如映雪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 199400,
+      "char_count": 994,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "三字经076-076_第76段_如负薪如挂角",
+      "title": "三字经076-076_第76段_如负薪如挂角",
+      "full_path": "蒙学经典/M1三字经/三字经076-076_第76段_如负薪如挂角",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 179200,
+      "char_count": 893,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "三字经077-077_第77段_苏老泉二十七",
+      "title": "三字经077-077_第77段_苏老泉二十七",
+      "full_path": "蒙学经典/M1三字经/三字经077-077_第77段_苏老泉二十七",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 208600,
+      "char_count": 1038,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "三字经078-078_第78段_若梁灏八十二",
+      "title": "三字经078-078_第78段_若梁灏八十二",
+      "full_path": "蒙学经典/M1三字经/三字经078-078_第78段_若梁灏八十二",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 244000,
+      "char_count": 1215,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "三字经079-079_第79段_莹八岁能咏诗",
+      "title": "三字经079-079_第79段_莹八岁能咏诗",
+      "full_path": "蒙学经典/M1三字经/三字经079-079_第79段_莹八岁能咏诗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 255000,
+      "char_count": 1270,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "三字经080-080_第80段_蔡文姬能辨琴",
+      "title": "三字经080-080_第80段_蔡文姬能辨琴",
+      "full_path": "蒙学经典/M1三字经/三字经080-080_第80段_蔡文姬能辨琴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 224200,
+      "char_count": 1116,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 81,
+      "chapter_id": "三字经081-081_第81段_唐刘晏方七岁",
+      "title": "三字经081-081_第81段_唐刘晏方七岁",
+      "full_path": "蒙学经典/M1三字经/三字经081-081_第81段_唐刘晏方七岁",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 246800,
+      "char_count": 1229,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 82,
+      "chapter_id": "三字经082-082_第82段_有为者亦若是",
+      "title": "三字经082-082_第82段_有为者亦若是",
+      "full_path": "蒙学经典/M1三字经/三字经082-082_第82段_有为者亦若是",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 295400,
+      "char_count": 1471,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 83,
+      "chapter_id": "三字经083-083_第83段_幼而学壮而行",
+      "title": "三字经083-083_第83段_幼而学壮而行",
+      "full_path": "蒙学经典/M1三字经/三字经083-083_第83段_幼而学壮而行",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 234200,
+      "char_count": 1166,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 84,
+      "chapter_id": "三字经084-084_第84段_人遗子金满籯",
+      "title": "三字经084-084_第84段_人遗子金满籯",
+      "full_path": "蒙学经典/M1三字经/三字经084-084_第84段_人遗子金满籯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 262600,
+      "char_count": 1308,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

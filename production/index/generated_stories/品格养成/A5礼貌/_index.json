@@ -1,0 +1,2451 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "品格养成/A5礼貌",
+  "name": "A5礼貌",
+  "cover": {
+    "cover_image_url": "covers/generated/品格养成/A5礼貌/A5礼貌.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 174,
+  "entries": [
+    {
+      "entry_id": "上厕所后按冲水说再见",
+      "title": "上厕所后按冲水说再见",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/上厕所后按冲水说再见",
+      "level": "L4",
+      "duration_ms": 497952,
+      "char_count": 1925,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/上厕所后按冲水说再见/上厕所后按冲水说再见.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "下雨天把伞让给妈妈时说“您先走”",
+      "title": "下雨天把伞让给妈妈时说“您先走”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/下雨天把伞让给妈妈时说“您先走”",
+      "level": "L4",
+      "duration_ms": 437777,
+      "char_count": 1724,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/下雨天把伞让给妈妈时说“您先走”/下雨天把伞让给妈妈时说“您先走”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心打碎花瓶后对妈妈说“对不起，我错了”",
+      "title": "不小心打碎花瓶后对妈妈说“对不起，我错了”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/不小心打碎花瓶后对妈妈说“对不起，我错了”",
+      "level": "L4",
+      "duration_ms": 350457,
+      "char_count": 1378,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/不小心打碎花瓶后对妈妈说“对不起，我错了”/不小心打碎花瓶后对妈妈说“对不起，我错了”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心打翻同桌的水杯该说什么",
+      "title": "不小心打翻同桌的水杯该说什么",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/不小心打翻同桌的水杯该说什么",
+      "level": "L4",
+      "duration_ms": 376062,
+      "char_count": 1438,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/不小心打翻同桌的水杯该说什么/不小心打翻同桌的水杯该说什么.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心撞到同学后小声说“对不起”",
+      "title": "不小心撞到同学后小声说“对不起”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/不小心撞到同学后小声说“对不起”",
+      "level": "L4",
+      "duration_ms": 368027,
+      "char_count": 1446,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/不小心撞到同学后小声说“对不起”/不小心撞到同学后小声说“对不起”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心看到别人的日记该说什么",
+      "title": "不小心看到别人的日记该说什么",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/不小心看到别人的日记该说什么",
+      "level": "L4",
+      "duration_ms": 414560,
+      "char_count": 1608,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/不小心看到别人的日记该说什么/不小心看到别人的日记该说什么.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心踩到同学脚后的道歉",
+      "title": "不小心踩到同学脚后的道歉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/不小心踩到同学脚后的道歉",
+      "level": "L4",
+      "duration_ms": 312846,
+      "char_count": 1213,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/不小心踩到同学脚后的道歉/不小心踩到同学脚后的道歉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心踩到小蚂蚁说‘对不起’",
+      "title": "不小心踩到小蚂蚁说‘对不起’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/不小心踩到小蚂蚁说‘对不起’",
+      "level": "L4",
+      "duration_ms": 301634,
+      "char_count": 1149,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/不小心踩到小蚂蚁说‘对不起’/不小心踩到小蚂蚁说‘对不起’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心踩到脚说没关系",
+      "title": "不小心踩到脚说没关系",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/不小心踩到脚说没关系",
+      "level": "L4",
+      "duration_ms": 394777,
+      "char_count": 1548,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/不小心踩到脚说没关系/不小心踩到脚说没关系.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "借同学的彩色铅笔时要说“请”和“谢谢”",
+      "title": "借同学的彩色铅笔时要说“请”和“谢谢”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/借同学的彩色铅笔时要说“请”和“谢谢”",
+      "level": "L4",
+      "duration_ms": 534129,
+      "char_count": 2073,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/借同学的彩色铅笔时要说“请”和“谢谢”/借同学的彩色铅笔时要说“请”和“谢谢”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "做作业时遇到难题想请教同学",
+      "title": "做作业时遇到难题想请教同学",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/做作业时遇到难题想请教同学",
+      "level": "L4",
+      "duration_ms": 515882,
+      "char_count": 1976,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/做作业时遇到难题想请教同学/做作业时遇到难题想请教同学.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公交车上给老人让座后的一声谢谢",
+      "title": "公交车上给老人让座后的一声谢谢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/公交车上给老人让座后的一声谢谢",
+      "level": "L4",
+      "duration_ms": 389063,
+      "char_count": 1538,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/公交车上给老人让座后的一声谢谢/公交车上给老人让座后的一声谢谢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "出门前对镜子说拜拜",
+      "title": "出门前对镜子说拜拜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/出门前对镜子说拜拜",
+      "level": "L4",
+      "duration_ms": 255598,
+      "char_count": 1004,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/出门前对镜子说拜拜/出门前对镜子说拜拜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "分享饼干时，小老鼠说“你一块我一块”",
+      "title": "分享饼干时，小老鼠说“你一块我一块”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/分享饼干时，小老鼠说“你一块我一块”",
+      "level": "L4",
+      "duration_ms": 463241,
+      "char_count": 1805,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/分享饼干时，小老鼠说“你一块我一块”/分享饼干时，小老鼠说“你一块我一块”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "别人帮助你时微笑着说谢谢",
+      "title": "别人帮助你时微笑着说谢谢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/别人帮助你时微笑着说谢谢",
+      "level": "L4",
+      "duration_ms": 326922,
+      "char_count": 1252,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/别人帮助你时微笑着说谢谢/别人帮助你时微笑着说谢谢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "别人帮忙穿鞋时说谢谢",
+      "title": "别人帮忙穿鞋时说谢谢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/别人帮忙穿鞋时说谢谢",
+      "level": "L4",
+      "duration_ms": 458741,
+      "char_count": 1785,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/别人帮忙穿鞋时说谢谢/别人帮忙穿鞋时说谢谢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "别人送给我礼物时该怎么说",
+      "title": "别人送给我礼物时该怎么说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/别人送给我礼物时该怎么说",
+      "level": "L4",
+      "duration_ms": 375490,
+      "char_count": 1486,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/别人送给我礼物时该怎么说/别人送给我礼物时该怎么说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "午睡时对老师说‘请轻轻关门’",
+      "title": "午睡时对老师说‘请轻轻关门’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/午睡时对老师说‘请轻轻关门’",
+      "level": "L4",
+      "duration_ms": 245637,
+      "char_count": 959,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/午睡时对老师说‘请轻轻关门’/午睡时对老师说‘请轻轻关门’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "午睡醒来小声说早上好",
+      "title": "午睡醒来小声说早上好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/午睡醒来小声说早上好",
+      "level": "L4",
+      "duration_ms": 576947,
+      "char_count": 2270,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/午睡醒来小声说早上好/午睡醒来小声说早上好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "去别人家做客时主动脱鞋",
+      "title": "去别人家做客时主动脱鞋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/去别人家做客时主动脱鞋",
+      "level": "L4",
+      "duration_ms": 516163,
+      "char_count": 2040,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/去别人家做客时主动脱鞋/去别人家做客时主动脱鞋.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "去别人家做客时想吃零食怎么办",
+      "title": "去别人家做客时想吃零食怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/去别人家做客时想吃零食怎么办",
+      "level": "L4",
+      "duration_ms": 318454,
+      "char_count": 1261,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/去别人家做客时想吃零食怎么办/去别人家做客时想吃零食怎么办.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "参加聚会时大方地自我介绍",
+      "title": "参加聚会时大方地自我介绍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/参加聚会时大方地自我介绍",
+      "level": "L4",
+      "duration_ms": 409418,
+      "char_count": 1572,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/参加聚会时大方地自我介绍/参加聚会时大方地自我介绍.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "发现好朋友说谎了该怎么和他说话",
+      "title": "发现好朋友说谎了该怎么和他说话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/发现好朋友说谎了该怎么和他说话",
+      "level": "L4",
+      "duration_ms": 647519,
+      "char_count": 2444,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/发现好朋友说谎了该怎么和他说话/发现好朋友说谎了该怎么和他说话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吃水果时递一片给奶奶",
+      "title": "吃水果时递一片给奶奶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/吃水果时递一片给奶奶",
+      "level": "L4",
+      "duration_ms": 433168,
+      "char_count": 1706,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/吃水果时递一片给奶奶/吃水果时递一片给奶奶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吃饭时对奶奶说‘请帮我夹菜’",
+      "title": "吃饭时对奶奶说‘请帮我夹菜’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/吃饭时对奶奶说‘请帮我夹菜’",
+      "level": "L4",
+      "duration_ms": 411669,
+      "char_count": 1614,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/吃饭时对奶奶说‘请帮我夹菜’/吃饭时对奶奶说‘请帮我夹菜’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吃饭时对奶奶说“您做的菜真好吃”",
+      "title": "吃饭时对奶奶说“您做的菜真好吃”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/吃饭时对奶奶说“您做的菜真好吃”",
+      "level": "L4",
+      "duration_ms": 526163,
+      "char_count": 2081,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/吃饭时对奶奶说“您做的菜真好吃”/吃饭时对奶奶说“您做的菜真好吃”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吃饭时张嘴说啊呜谢谢妈妈",
+      "title": "吃饭时张嘴说啊呜谢谢妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/吃饭时张嘴说啊呜谢谢妈妈",
+      "level": "L4",
+      "duration_ms": 388382,
+      "char_count": 1520,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/吃饭时张嘴说啊呜谢谢妈妈/吃饭时张嘴说啊呜谢谢妈妈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同学嘲笑我‘书呆子’时我说‘谢谢夸奖’",
+      "title": "同学嘲笑我‘书呆子’时我说‘谢谢夸奖’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/同学嘲笑我‘书呆子’时我说‘谢谢夸奖’",
+      "level": "L4",
+      "duration_ms": 480880,
+      "char_count": 1867,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/同学嘲笑我‘书呆子’时我说‘谢谢夸奖’/同学嘲笑我‘书呆子’时我说‘谢谢夸奖’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同学嘲笑我跑步慢我该怎么回应",
+      "title": "同学嘲笑我跑步慢我该怎么回应",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/同学嘲笑我跑步慢我该怎么回应",
+      "level": "L4",
+      "duration_ms": 351346,
+      "char_count": 1355,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/同学嘲笑我跑步慢我该怎么回应/同学嘲笑我跑步慢我该怎么回应.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同学抄袭我的作业我该怎么拒绝",
+      "title": "同学抄袭我的作业我该怎么拒绝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/同学抄袭我的作业我该怎么拒绝",
+      "level": "L4",
+      "duration_ms": 322024,
+      "char_count": 1249,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/同学抄袭我的作业我该怎么拒绝/同学抄袭我的作业我该怎么拒绝.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和同学发生矛盾后想和好怎么说",
+      "title": "和同学发生矛盾后想和好怎么说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/和同学发生矛盾后想和好怎么说",
+      "level": "L4",
+      "duration_ms": 390916,
+      "char_count": 1510,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/和同学发生矛盾后想和好怎么说/和同学发生矛盾后想和好怎么说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和小伙伴争吵后先开口说对不起",
+      "title": "和小伙伴争吵后先开口说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/和小伙伴争吵后先开口说对不起",
+      "level": "L4",
+      "duration_ms": 333991,
+      "char_count": 1314,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/和小伙伴争吵后先开口说对不起/和小伙伴争吵后先开口说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和小伙伴玩时说我们一起",
+      "title": "和小伙伴玩时说我们一起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/和小伙伴玩时说我们一起",
+      "level": "L4",
+      "duration_ms": 287029,
+      "char_count": 1127,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/和小伙伴玩时说我们一起/和小伙伴玩时说我们一起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和小朋友分享玩具时说‘给你’",
+      "title": "和小朋友分享玩具时说‘给你’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/和小朋友分享玩具时说‘给你’",
+      "level": "L4",
+      "duration_ms": 315776,
+      "char_count": 1220,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/和小朋友分享玩具时说‘给你’/和小朋友分享玩具时说‘给你’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和小朋友吵架后互相说‘对不起’",
+      "title": "和小朋友吵架后互相说‘对不起’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/和小朋友吵架后互相说‘对不起’",
+      "level": "L4",
+      "duration_ms": 378741,
+      "char_count": 1461,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/和小朋友吵架后互相说‘对不起’/和小朋友吵架后互相说‘对不起’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和爸爸一起写作业时礼貌地问“这道题怎么做”",
+      "title": "和爸爸一起写作业时礼貌地问“这道题怎么做”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/和爸爸一起写作业时礼貌地问“这道题怎么做”",
+      "level": "L4",
+      "duration_ms": 380597,
+      "char_count": 1479,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/和爸爸一起写作业时礼貌地问“这道题怎么做”/和爸爸一起写作业时礼貌地问“这道题怎么做”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和爸爸躲猫猫时说找到啦",
+      "title": "和爸爸躲猫猫时说找到啦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/和爸爸躲猫猫时说找到啦",
+      "level": "L4",
+      "duration_ms": 385878,
+      "char_count": 1494,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/和爸爸躲猫猫时说找到啦/和爸爸躲猫猫时说找到啦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和表弟抢电视时突然说‘你先看吧我写作业’",
+      "title": "和表弟抢电视时突然说‘你先看吧我写作业’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/和表弟抢电视时突然说‘你先看吧我写作业’",
+      "level": "L4",
+      "duration_ms": 542241,
+      "char_count": 2111,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/和表弟抢电视时突然说‘你先看吧我写作业’/和表弟抢电视时突然说‘你先看吧我写作业’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和邻居小朋友分享玩具时怎么说",
+      "title": "和邻居小朋友分享玩具时怎么说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/和邻居小朋友分享玩具时怎么说",
+      "level": "L4",
+      "duration_ms": 379919,
+      "char_count": 1476,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/和邻居小朋友分享玩具时怎么说/和邻居小朋友分享玩具时怎么说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和邻居爷爷打招呼时说“爷爷好”",
+      "title": "和邻居爷爷打招呼时说“爷爷好”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/和邻居爷爷打招呼时说“爷爷好”",
+      "level": "L4",
+      "duration_ms": 482703,
+      "char_count": 1868,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/和邻居爷爷打招呼时说“爷爷好”/和邻居爷爷打招呼时说“爷爷好”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "图书馆里大声说话被提醒",
+      "title": "图书馆里大声说话被提醒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/图书馆里大声说话被提醒",
+      "level": "L4",
+      "duration_ms": 371704,
+      "char_count": 1466,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/图书馆里大声说话被提醒/图书馆里大声说话被提醒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公交车上看到老奶奶让座时说“请坐”",
+      "title": "在公交车上看到老奶奶让座时说“请坐”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在公交车上看到老奶奶让座时说“请坐”",
+      "level": "L4",
+      "duration_ms": 272101,
+      "char_count": 1066,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在公交车上看到老奶奶让座时说“请坐”/在公交车上看到老奶奶让座时说“请坐”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公交车上遇到老人要让座怎么说",
+      "title": "在公交车上遇到老人要让座怎么说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在公交车上遇到老人要让座怎么说",
+      "level": "L4",
+      "duration_ms": 344134,
+      "char_count": 1365,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在公交车上遇到老人要让座怎么说/在公交车上遇到老人要让座怎么说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公交车上，把座位让给老爷爷并说“请坐”",
+      "title": "在公交车上，把座位让给老爷爷并说“请坐”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在公交车上，把座位让给老爷爷并说“请坐”",
+      "level": "L4",
+      "duration_ms": 339453,
+      "char_count": 1344,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在公交车上，把座位让给老爷爷并说“请坐”/在公交车上，把座位让给老爷爷并说“请坐”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公园摔倒后，对扶起我的叔叔说“谢谢”",
+      "title": "在公园摔倒后，对扶起我的叔叔说“谢谢”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在公园摔倒后，对扶起我的叔叔说“谢谢”",
+      "level": "L4",
+      "duration_ms": 447128,
+      "char_count": 1757,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在公园摔倒后，对扶起我的叔叔说“谢谢”/在公园摔倒后，对扶起我的叔叔说“谢谢”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公园荡秋千对排队的人说‘该你了’",
+      "title": "在公园荡秋千对排队的人说‘该你了’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在公园荡秋千对排队的人说‘该你了’",
+      "level": "L4",
+      "duration_ms": 405419,
+      "char_count": 1578,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在公园荡秋千对排队的人说‘该你了’/在公园荡秋千对排队的人说‘该你了’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公园荡秋千说轮到你了",
+      "title": "在公园荡秋千说轮到你了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在公园荡秋千说轮到你了",
+      "level": "L4",
+      "duration_ms": 373454,
+      "char_count": 1473,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在公园荡秋千说轮到你了/在公园荡秋千说轮到你了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公园里对陌生小朋友说“可以一起玩吗”",
+      "title": "在公园里对陌生小朋友说“可以一起玩吗”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在公园里对陌生小朋友说“可以一起玩吗”",
+      "level": "L4",
+      "duration_ms": 464346,
+      "char_count": 1814,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在公园里对陌生小朋友说“可以一起玩吗”/在公园里对陌生小朋友说“可以一起玩吗”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在动物园里对饲养员说“请问小熊猫吃什么”",
+      "title": "在动物园里对饲养员说“请问小熊猫吃什么”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在动物园里对饲养员说“请问小熊猫吃什么”",
+      "level": "L4",
+      "duration_ms": 318781,
+      "char_count": 1238,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在动物园里对饲养员说“请问小熊猫吃什么”/在动物园里对饲养员说“请问小熊猫吃什么”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在商场走丢后没有哭而是请保安叔叔帮忙广播",
+      "title": "在商场走丢后没有哭而是请保安叔叔帮忙广播",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在商场走丢后没有哭而是请保安叔叔帮忙广播",
+      "level": "L4",
+      "duration_ms": 372957,
+      "char_count": 1449,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在商场走丢后没有哭而是请保安叔叔帮忙广播/在商场走丢后没有哭而是请保安叔叔帮忙广播.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在商店买东西时想要换个颜色",
+      "title": "在商店买东西时想要换个颜色",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在商店买东西时想要换个颜色",
+      "level": "L4",
+      "duration_ms": 425594,
+      "char_count": 1652,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在商店买东西时想要换个颜色/在商店买东西时想要换个颜色.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在图书馆发现有人大声讲话怎么办",
+      "title": "在图书馆发现有人大声讲话怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在图书馆发现有人大声讲话怎么办",
+      "level": "L4",
+      "duration_ms": 441847,
+      "char_count": 1703,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在图书馆发现有人大声讲话怎么办/在图书馆发现有人大声讲话怎么办.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在图书馆里轻轻对管理员说“请问”借书",
+      "title": "在图书馆里轻轻对管理员说“请问”借书",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在图书馆里轻轻对管理员说“请问”借书",
+      "level": "L4",
+      "duration_ms": 394702,
+      "char_count": 1529,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在图书馆里轻轻对管理员说“请问”借书/在图书馆里轻轻对管理员说“请问”借书.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在图书馆里，小兔子轻声说“嘘——请安静”",
+      "title": "在图书馆里，小兔子轻声说“嘘——请安静”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在图书馆里，小兔子轻声说“嘘——请安静”",
+      "level": "L4",
+      "duration_ms": 478774,
+      "char_count": 1881,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在图书馆里，小兔子轻声说“嘘——请安静”/在图书馆里，小兔子轻声说“嘘——请安静”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在家里的餐桌上对爸爸说“请帮我夹菜”",
+      "title": "在家里的餐桌上对爸爸说“请帮我夹菜”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在家里的餐桌上对爸爸说“请帮我夹菜”",
+      "level": "L4",
+      "duration_ms": 415523,
+      "char_count": 1627,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在家里的餐桌上对爸爸说“请帮我夹菜”/在家里的餐桌上对爸爸说“请帮我夹菜”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在家长会上给正在吵架的父母各倒了一杯水",
+      "title": "在家长会上给正在吵架的父母各倒了一杯水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在家长会上给正在吵架的父母各倒了一杯水",
+      "level": "L4",
+      "duration_ms": 445703,
+      "char_count": 1732,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在家长会上给正在吵架的父母各倒了一杯水/在家长会上给正在吵架的父母各倒了一杯水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在幼儿园分享玩具时对朋友说“你先玩”",
+      "title": "在幼儿园分享玩具时对朋友说“你先玩”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在幼儿园分享玩具时对朋友说“你先玩”",
+      "level": "L4",
+      "duration_ms": 362386,
+      "char_count": 1418,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在幼儿园分享玩具时对朋友说“你先玩”/在幼儿园分享玩具时对朋友说“你先玩”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在幼儿园排队时对小朋友说“请先走”",
+      "title": "在幼儿园排队时对小朋友说“请先走”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在幼儿园排队时对小朋友说“请先走”",
+      "level": "L4",
+      "duration_ms": 210920,
+      "char_count": 818,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在幼儿园排队时对小朋友说“请先走”/在幼儿园排队时对小朋友说“请先走”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在抖音评论里给被网暴的同学发了一个拥抱表情",
+      "title": "在抖音评论里给被网暴的同学发了一个拥抱表情",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在抖音评论里给被网暴的同学发了一个拥抱表情",
+      "level": "L4",
+      "duration_ms": 379528,
+      "char_count": 1484,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在抖音评论里给被网暴的同学发了一个拥抱表情/在抖音评论里给被网暴的同学发了一个拥抱表情.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在操场上看到有人摔倒了该说什么",
+      "title": "在操场上看到有人摔倒了该说什么",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在操场上看到有人摔倒了该说什么",
+      "level": "L4",
+      "duration_ms": 392739,
+      "char_count": 1521,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在操场上看到有人摔倒了该说什么/在操场上看到有人摔倒了该说什么.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在操场上跑步时对摔倒的小朋友说“你还好吗”",
+      "title": "在操场上跑步时对摔倒的小朋友说“你还好吗”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在操场上跑步时对摔倒的小朋友说“你还好吗”",
+      "level": "L4",
+      "duration_ms": 328742,
+      "char_count": 1296,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在操场上跑步时对摔倒的小朋友说“你还好吗”/在操场上跑步时对摔倒的小朋友说“你还好吗”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在游戏里被队友骂‘菜狗’时回了句‘一起加油’",
+      "title": "在游戏里被队友骂‘菜狗’时回了句‘一起加油’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在游戏里被队友骂‘菜狗’时回了句‘一起加油’",
+      "level": "L4",
+      "duration_ms": 386239,
+      "char_count": 1505,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在游戏里被队友骂‘菜狗’时回了句‘一起加油’/在游戏里被队友骂‘菜狗’时回了句‘一起加油’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在滑梯前排好队说‘请你先玩’",
+      "title": "在滑梯前排好队说‘请你先玩’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在滑梯前排好队说‘请你先玩’",
+      "level": "L4",
+      "duration_ms": 321778,
+      "char_count": 1265,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在滑梯前排好队说‘请你先玩’/在滑梯前排好队说‘请你先玩’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在班级投票时把票投给了最讨厌的那个同学",
+      "title": "在班级投票时把票投给了最讨厌的那个同学",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在班级投票时把票投给了最讨厌的那个同学",
+      "level": "L4",
+      "duration_ms": 467167,
+      "char_count": 1807,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在班级投票时把票投给了最讨厌的那个同学/在班级投票时把票投给了最讨厌的那个同学.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在班级评比中把‘文明标兵’的名额让给了竞争对手",
+      "title": "在班级评比中把‘文明标兵’的名额让给了竞争对手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在班级评比中把‘文明标兵’的名额让给了竞争对手",
+      "level": "L4",
+      "duration_ms": 477385,
+      "char_count": 1835,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在班级评比中把‘文明标兵’的名额让给了竞争对手/在班级评比中把‘文明标兵’的名额让给了竞争对手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在电梯里帮邻居奶奶按住开门键等她的狗",
+      "title": "在电梯里帮邻居奶奶按住开门键等她的狗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在电梯里帮邻居奶奶按住开门键等她的狗",
+      "level": "L4",
+      "duration_ms": 494450,
+      "char_count": 1904,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在电梯里帮邻居奶奶按住开门键等她的狗/在电梯里帮邻居奶奶按住开门键等她的狗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在绘画课上对老师说“请帮我拿一下红色”",
+      "title": "在绘画课上对老师说“请帮我拿一下红色”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在绘画课上对老师说“请帮我拿一下红色”",
+      "level": "L4",
+      "duration_ms": 376169,
+      "char_count": 1473,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在绘画课上对老师说“请帮我拿一下红色”/在绘画课上对老师说“请帮我拿一下红色”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在超市想摸货架，先问“可以吗？”",
+      "title": "在超市想摸货架，先问“可以吗？”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在超市想摸货架，先问“可以吗？”",
+      "level": "L4",
+      "duration_ms": 422098,
+      "char_count": 1651,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在超市想摸货架，先问“可以吗？”/在超市想摸货架，先问“可以吗？”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在超市拿不到零食说‘请帮我拿’",
+      "title": "在超市拿不到零食说‘请帮我拿’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在超市拿不到零食说‘请帮我拿’",
+      "level": "L4",
+      "duration_ms": 402022,
+      "char_count": 1593,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在超市拿不到零食说‘请帮我拿’/在超市拿不到零食说‘请帮我拿’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在超市里对收银员阿姨说“谢谢阿姨”",
+      "title": "在超市里对收银员阿姨说“谢谢阿姨”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在超市里对收银员阿姨说“谢谢阿姨”",
+      "level": "L4",
+      "duration_ms": 392026,
+      "char_count": 1532,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在超市里对收银员阿姨说“谢谢阿姨”/在超市里对收银员阿姨说“谢谢阿姨”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在超市里帮妈妈拿东西时说的谢谢",
+      "title": "在超市里帮妈妈拿东西时说的谢谢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在超市里帮妈妈拿东西时说的谢谢",
+      "level": "L4",
+      "duration_ms": 406953,
+      "char_count": 1594,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在超市里帮妈妈拿东西时说的谢谢/在超市里帮妈妈拿东西时说的谢谢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在食堂打饭时对盛菜的阿姨说‘今天的菜很香’",
+      "title": "在食堂打饭时对盛菜的阿姨说‘今天的菜很香’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在食堂打饭时对盛菜的阿姨说‘今天的菜很香’",
+      "level": "L4",
+      "duration_ms": 285458,
+      "char_count": 1123,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在食堂打饭时对盛菜的阿姨说‘今天的菜很香’/在食堂打饭时对盛菜的阿姨说‘今天的菜很香’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在食堂打饭时想换个菜怎么跟阿姨说",
+      "title": "在食堂打饭时想换个菜怎么跟阿姨说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/在食堂打饭时想换个菜怎么跟阿姨说",
+      "level": "L4",
+      "duration_ms": 294957,
+      "char_count": 1145,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/在食堂打饭时想换个菜怎么跟阿姨说/在食堂打饭时想换个菜怎么跟阿姨说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "坐电梯时对邻居挥手说你好",
+      "title": "坐电梯时对邻居挥手说你好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/坐电梯时对邻居挥手说你好",
+      "level": "L4",
+      "duration_ms": 486412,
+      "char_count": 1898,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/坐电梯时对邻居挥手说你好/坐电梯时对邻居挥手说你好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "外婆的电话里，小猫咪说了“再见”",
+      "title": "外婆的电话里，小猫咪说了“再见”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/外婆的电话里，小猫咪说了“再见”",
+      "level": "L4",
+      "duration_ms": 492090,
+      "char_count": 1898,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/外婆的电话里，小猫咪说了“再见”/外婆的电话里，小猫咪说了“再见”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "大声说‘谢谢你’收到小红花",
+      "title": "大声说‘谢谢你’收到小红花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/大声说‘谢谢你’收到小红花",
+      "level": "L4",
+      "duration_ms": 474381,
+      "char_count": 1867,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/大声说‘谢谢你’收到小红花/大声说‘谢谢你’收到小红花.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈做饭时小声说请帮我",
+      "title": "妈妈做饭时小声说请帮我",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/妈妈做饭时小声说请帮我",
+      "level": "L4",
+      "duration_ms": 364809,
+      "char_count": 1427,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/妈妈做饭时小声说请帮我/妈妈做饭时小声说请帮我.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈做饭时想帮忙应该说点什么",
+      "title": "妈妈做饭时想帮忙应该说点什么",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/妈妈做饭时想帮忙应该说点什么",
+      "level": "L4",
+      "duration_ms": 436804,
+      "char_count": 1674,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/妈妈做饭时想帮忙应该说点什么/妈妈做饭时想帮忙应该说点什么.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈做饭时，我悄悄说“谢谢”",
+      "title": "妈妈做饭时，我悄悄说“谢谢”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/妈妈做饭时，我悄悄说“谢谢”",
+      "level": "L4",
+      "duration_ms": 330382,
+      "char_count": 1308,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/妈妈做饭时，我悄悄说“谢谢”/妈妈做饭时，我悄悄说“谢谢”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈受伤了轻轻说‘没关系我帮你’",
+      "title": "妈妈受伤了轻轻说‘没关系我帮你’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/妈妈受伤了轻轻说‘没关系我帮你’",
+      "level": "L4",
+      "duration_ms": 382239,
+      "char_count": 1516,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/妈妈受伤了轻轻说‘没关系我帮你’/妈妈受伤了轻轻说‘没关系我帮你’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈吼我‘就知道玩手机’时我选择了沉默",
+      "title": "妈妈吼我‘就知道玩手机’时我选择了沉默",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/妈妈吼我‘就知道玩手机’时我选择了沉默",
+      "level": "L4",
+      "duration_ms": 390778,
+      "char_count": 1538,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/妈妈吼我‘就知道玩手机’时我选择了沉默/妈妈吼我‘就知道玩手机’时我选择了沉默.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈帮我穿衣我说‘谢谢妈妈’",
+      "title": "妈妈帮我穿衣我说‘谢谢妈妈’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/妈妈帮我穿衣我说‘谢谢妈妈’",
+      "level": "L4",
+      "duration_ms": 348133,
+      "char_count": 1373,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/妈妈帮我穿衣我说‘谢谢妈妈’/妈妈帮我穿衣我说‘谢谢妈妈’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈辛苦做饭后说辛苦了",
+      "title": "妈妈辛苦做饭后说辛苦了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/妈妈辛苦做饭后说辛苦了",
+      "level": "L4",
+      "duration_ms": 418346,
+      "char_count": 1644,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/妈妈辛苦做饭后说辛苦了/妈妈辛苦做饭后说辛苦了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "姥姥抱抱时说谢谢姥姥",
+      "title": "姥姥抱抱时说谢谢姥姥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/姥姥抱抱时说谢谢姥姥",
+      "level": "L4",
+      "duration_ms": 441134,
+      "char_count": 1745,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/姥姥抱抱时说谢谢姥姥/姥姥抱抱时说谢谢姥姥.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "存钱罐满了后对妈妈说要捐给需要的人",
+      "title": "存钱罐满了后对妈妈说要捐给需要的人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/存钱罐满了后对妈妈说要捐给需要的人",
+      "level": "L4",
+      "duration_ms": 575590,
+      "char_count": 2241,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/存钱罐满了后对妈妈说要捐给需要的人/存钱罐满了后对妈妈说要捐给需要的人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "对哭泣的小伙伴说‘别哭我陪你’",
+      "title": "对哭泣的小伙伴说‘别哭我陪你’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/对哭泣的小伙伴说‘别哭我陪你’",
+      "level": "L4",
+      "duration_ms": 300382,
+      "char_count": 1186,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/对哭泣的小伙伴说‘别哭我陪你’/对哭泣的小伙伴说‘别哭我陪你’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔子的“请”字魔法糖",
+      "title": "小兔子的“请”字魔法糖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/小兔子的“请”字魔法糖",
+      "level": "L4",
+      "duration_ms": 580523,
+      "char_count": 2236,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/小兔子的“请”字魔法糖/小兔子的“请”字魔法糖.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔子说谢谢时眼睛弯成月亮",
+      "title": "小兔子说谢谢时眼睛弯成月亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/小兔子说谢谢时眼睛弯成月亮",
+      "level": "L4",
+      "duration_ms": 332100,
+      "char_count": 1279,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/小兔子说谢谢时眼睛弯成月亮/小兔子说谢谢时眼睛弯成月亮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔说‘请’才拿到饼干",
+      "title": "小兔说‘请’才拿到饼干",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/小兔说‘请’才拿到饼干",
+      "level": "L4",
+      "duration_ms": 245458,
+      "char_count": 949,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/小兔说‘请’才拿到饼干/小兔说‘请’才拿到饼干.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小熊道歉时，蜂蜜罐倒出了“对不起”",
+      "title": "小熊道歉时，蜂蜜罐倒出了“对不起”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/小熊道歉时，蜂蜜罐倒出了“对不起”",
+      "level": "L4",
+      "duration_ms": 367172,
+      "char_count": 1456,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/小熊道歉时，蜂蜜罐倒出了“对不起”/小熊道歉时，蜂蜜罐倒出了“对不起”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小狮子的“请”像彩虹桥，帮它过河",
+      "title": "小狮子的“请”像彩虹桥，帮它过河",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/小狮子的“请”像彩虹桥，帮它过河",
+      "level": "L4",
+      "duration_ms": 392917,
+      "char_count": 1508,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/小狮子的“请”像彩虹桥，帮它过河/小狮子的“请”像彩虹桥，帮它过河.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小蜗牛碰倒别人，慢慢说“对不起”",
+      "title": "小蜗牛碰倒别人，慢慢说“对不起”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/小蜗牛碰倒别人，慢慢说“对不起”",
+      "level": "L4",
+      "duration_ms": 442527,
+      "char_count": 1706,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/小蜗牛碰倒别人，慢慢说“对不起”/小蜗牛碰倒别人，慢慢说“对不起”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小鸭子借蜡笔，嘴边的“谢谢”像泡泡",
+      "title": "小鸭子借蜡笔，嘴边的“谢谢”像泡泡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/小鸭子借蜡笔，嘴边的“谢谢”像泡泡",
+      "level": "L4",
+      "duration_ms": 438883,
+      "char_count": 1723,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/小鸭子借蜡笔，嘴边的“谢谢”像泡泡/小鸭子借蜡笔，嘴边的“谢谢”像泡泡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "帮妈妈摘菜时，得意地说“我学会了谢谢”",
+      "title": "帮妈妈摘菜时，得意地说“我学会了谢谢”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/帮妈妈摘菜时，得意地说“我学会了谢谢”",
+      "level": "L4",
+      "duration_ms": 512627,
+      "char_count": 1953,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/帮妈妈摘菜时，得意地说“我学会了谢谢”/帮妈妈摘菜时，得意地说“我学会了谢谢”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "帮老师收拾积木后说‘不客气’",
+      "title": "帮老师收拾积木后说‘不客气’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/帮老师收拾积木后说‘不客气’",
+      "level": "L4",
+      "duration_ms": 584559,
+      "char_count": 2295,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/帮老师收拾积木后说‘不客气’/帮老师收拾积木后说‘不客气’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园午睡后，对帮忙穿鞋的老师说“谢谢”",
+      "title": "幼儿园午睡后，对帮忙穿鞋的老师说“谢谢”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/幼儿园午睡后，对帮忙穿鞋的老师说“谢谢”",
+      "level": "L4",
+      "duration_ms": 236852,
+      "char_count": 937,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/幼儿园午睡后，对帮忙穿鞋的老师说“谢谢”/幼儿园午睡后，对帮忙穿鞋的老师说“谢谢”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园里大声说“老师好”的早晨",
+      "title": "幼儿园里大声说“老师好”的早晨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/幼儿园里大声说“老师好”的早晨",
+      "level": "L4",
+      "duration_ms": 424167,
+      "char_count": 1687,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/幼儿园里大声说“老师好”的早晨/幼儿园里大声说“老师好”的早晨.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "幼儿园门口挥手说‘妈妈再见’",
+      "title": "幼儿园门口挥手说‘妈妈再见’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/幼儿园门口挥手说‘妈妈再见’",
+      "level": "L4",
+      "duration_ms": 361921,
+      "char_count": 1402,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/幼儿园门口挥手说‘妈妈再见’/幼儿园门口挥手说‘妈妈再见’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "当同桌偷偷递给我一张写着‘我喜欢你’的纸条",
+      "title": "当同桌偷偷递给我一张写着‘我喜欢你’的纸条",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/当同桌偷偷递给我一张写着‘我喜欢你’的纸条",
+      "level": "L4",
+      "duration_ms": 420849,
+      "char_count": 1629,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/当同桌偷偷递给我一张写着‘我喜欢你’的纸条/当同桌偷偷递给我一张写着‘我喜欢你’的纸条.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "忘记说对不起后朋友生气的脸",
+      "title": "忘记说对不起后朋友生气的脸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/忘记说对不起后朋友生气的脸",
+      "level": "L4",
+      "duration_ms": 292848,
+      "char_count": 1155,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/忘记说对不起后朋友生气的脸/忘记说对不起后朋友生气的脸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想喝水时举着杯子说请倒",
+      "title": "想喝水时举着杯子说请倒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想喝水时举着杯子说请倒",
+      "level": "L4",
+      "duration_ms": 318095,
+      "char_count": 1252,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想喝水时举着杯子说请倒/想喝水时举着杯子说请倒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想喝水时对爸爸说‘请帮我倒水’",
+      "title": "想喝水时对爸爸说‘请帮我倒水’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想喝水时对爸爸说‘请帮我倒水’",
+      "level": "L4",
+      "duration_ms": 311419,
+      "char_count": 1224,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想喝水时对爸爸说‘请帮我倒水’/想喝水时对爸爸说‘请帮我倒水’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想在公园玩别人的滑板车该怎么问",
+      "title": "想在公园玩别人的滑板车该怎么问",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想在公园玩别人的滑板车该怎么问",
+      "level": "L4",
+      "duration_ms": 334384,
+      "char_count": 1314,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想在公园玩别人的滑板车该怎么问/想在公园玩别人的滑板车该怎么问.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想妈妈时对老师说‘请抱抱我’",
+      "title": "想妈妈时对老师说‘请抱抱我’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想妈妈时对老师说‘请抱抱我’",
+      "level": "L4",
+      "duration_ms": 344205,
+      "char_count": 1370,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想妈妈时对老师说‘请抱抱我’/想妈妈时对老师说‘请抱抱我’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想妈妈时给老师一个拥抱说谢谢",
+      "title": "想妈妈时给老师一个拥抱说谢谢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想妈妈时给老师一个拥抱说谢谢",
+      "level": "L4",
+      "duration_ms": 336703,
+      "char_count": 1327,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想妈妈时给老师一个拥抱说谢谢/想妈妈时给老师一个拥抱说谢谢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想摸小猫时轻轻说可以吗",
+      "title": "想摸小猫时轻轻说可以吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想摸小猫时轻轻说可以吗",
+      "level": "L4",
+      "duration_ms": 506200,
+      "char_count": 1985,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想摸小猫时轻轻说可以吗/想摸小猫时轻轻说可以吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想玩别人的小汽车先问‘可以吗’",
+      "title": "想玩别人的小汽车先问‘可以吗’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想玩别人的小汽车先问‘可以吗’",
+      "level": "L4",
+      "duration_ms": 442382,
+      "char_count": 1721,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想玩别人的小汽车先问‘可以吗’/想玩别人的小汽车先问‘可以吗’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想玩积木时，先问“可以一起吗？”",
+      "title": "想玩积木时，先问“可以一起吗？”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想玩积木时，先问“可以一起吗？”",
+      "level": "L4",
+      "duration_ms": 364738,
+      "char_count": 1432,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想玩积木时，先问“可以一起吗？”/想玩积木时，先问“可以一起吗？”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想要借老师的绘本看该怎么开口",
+      "title": "想要借老师的绘本看该怎么开口",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想要借老师的绘本看该怎么开口",
+      "level": "L4",
+      "duration_ms": 359812,
+      "char_count": 1376,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想要借老师的绘本看该怎么开口/想要借老师的绘本看该怎么开口.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想要和同学一起玩游戏怎么邀请",
+      "title": "想要和同学一起玩游戏怎么邀请",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想要和同学一起玩游戏怎么邀请",
+      "level": "L4",
+      "duration_ms": 440593,
+      "char_count": 1706,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想要和同学一起玩游戏怎么邀请/想要和同学一起玩游戏怎么邀请.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想要抱抱时，先问“可以抱一下吗？”",
+      "title": "想要抱抱时，先问“可以抱一下吗？”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/想要抱抱时，先问“可以抱一下吗？”",
+      "level": "L4",
+      "duration_ms": 262781,
+      "char_count": 1043,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/想要抱抱时，先问“可以抱一下吗？”/想要抱抱时，先问“可以抱一下吗？”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打喷嚏时用手肘捂住并说对不起",
+      "title": "打喷嚏时用手肘捂住并说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/打喷嚏时用手肘捂住并说对不起",
+      "level": "L4",
+      "duration_ms": 556556,
+      "char_count": 2174,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/打喷嚏时用手肘捂住并说对不起/打喷嚏时用手肘捂住并说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打碎花瓶后，勇敢地说“对不起”",
+      "title": "打碎花瓶后，勇敢地说“对不起”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/打碎花瓶后，勇敢地说“对不起”",
+      "level": "L4",
+      "duration_ms": 385416,
+      "char_count": 1511,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/打碎花瓶后，勇敢地说“对不起”/打碎花瓶后，勇敢地说“对不起”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把掉落的树叶送回泥土说‘再见’",
+      "title": "把掉落的树叶送回泥土说‘再见’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/把掉落的树叶送回泥土说‘再见’",
+      "level": "L4",
+      "duration_ms": 400807,
+      "char_count": 1556,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/把掉落的树叶送回泥土说‘再见’/把掉落的树叶送回泥土说‘再见’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把掉落的玩具捡起来放好",
+      "title": "把掉落的玩具捡起来放好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/把掉落的玩具捡起来放好",
+      "level": "L4",
+      "duration_ms": 372455,
+      "char_count": 1460,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/把掉落的玩具捡起来放好/把掉落的玩具捡起来放好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "抢滑梯的小霸王学会了说“你先”",
+      "title": "抢滑梯的小霸王学会了说“你先”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/抢滑梯的小霸王学会了说“你先”",
+      "level": "L4",
+      "duration_ms": 388528,
+      "char_count": 1566,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/抢滑梯的小霸王学会了说“你先”/抢滑梯的小霸王学会了说“你先”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "抢玩具后说‘对不起’和好了",
+      "title": "抢玩具后说‘对不起’和好了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/抢玩具后说‘对不起’和好了",
+      "level": "L4",
+      "duration_ms": 383956,
+      "char_count": 1508,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/抢玩具后说‘对不起’和好了/抢玩具后说‘对不起’和好了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "抢玩具的小狗，学会说“请给我玩一会儿”",
+      "title": "抢玩具的小狗，学会说“请给我玩一会儿”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/抢玩具的小狗，学会说“请给我玩一会儿”",
+      "level": "L4",
+      "duration_ms": 470383,
+      "char_count": 1854,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/抢玩具的小狗，学会说“请给我玩一会儿”/抢玩具的小狗，学会说“请给我玩一会儿”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拒绝了好朋友抄袭作业的请求后陪他重写",
+      "title": "拒绝了好朋友抄袭作业的请求后陪他重写",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/拒绝了好朋友抄袭作业的请求后陪他重写",
+      "level": "L4",
+      "duration_ms": 280099,
+      "char_count": 1085,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/拒绝了好朋友抄袭作业的请求后陪他重写/拒绝了好朋友抄袭作业的请求后陪他重写.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "捡到东西交给老师后说的谢谢",
+      "title": "捡到东西交给老师后说的谢谢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/捡到东西交给老师后说的谢谢",
+      "level": "L4",
+      "duration_ms": 332953,
+      "char_count": 1267,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/捡到东西交给老师后说的谢谢/捡到东西交给老师后说的谢谢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "换牙时对牙医说“请您轻一点”",
+      "title": "换牙时对牙医说“请您轻一点”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/换牙时对牙医说“请您轻一点”",
+      "level": "L4",
+      "duration_ms": 385025,
+      "char_count": 1488,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/换牙时对牙医说“请您轻一点”/换牙时对牙医说“请您轻一点”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "排队时插队被后面人批评",
+      "title": "排队时插队被后面人批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/排队时插队被后面人批评",
+      "level": "L4",
+      "duration_ms": 373062,
+      "char_count": 1463,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/排队时插队被后面人批评/排队时插队被后面人批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "擦鼻涕时拿纸说我自己",
+      "title": "擦鼻涕时拿纸说我自己",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/擦鼻涕时拿纸说我自己",
+      "level": "L4",
+      "duration_ms": 342564,
+      "char_count": 1351,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/擦鼻涕时拿纸说我自己/擦鼻涕时拿纸说我自己.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "收到不喜欢的人送的生日礼物时说了声‘真用心’",
+      "title": "收到不喜欢的人送的生日礼物时说了声‘真用心’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/收到不喜欢的人送的生日礼物时说了声‘真用心’",
+      "level": "L4",
+      "duration_ms": 275315,
+      "char_count": 1078,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/收到不喜欢的人送的生日礼物时说了声‘真用心’/收到不喜欢的人送的生日礼物时说了声‘真用心’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "收到奶奶给的糖果时大声说“谢谢奶奶”",
+      "title": "收到奶奶给的糖果时大声说“谢谢奶奶”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/收到奶奶给的糖果时大声说“谢谢奶奶”",
+      "level": "L4",
+      "duration_ms": 339346,
+      "char_count": 1316,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/收到奶奶给的糖果时大声说“谢谢奶奶”/收到奶奶给的糖果时大声说“谢谢奶奶”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "收到批评时虚心说谢谢指教",
+      "title": "收到批评时虚心说谢谢指教",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/收到批评时虚心说谢谢指教",
+      "level": "L4",
+      "duration_ms": 365814,
+      "char_count": 1391,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/收到批评时虚心说谢谢指教/收到批评时虚心说谢谢指教.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "收到生日礼物开心地说‘谢谢’",
+      "title": "收到生日礼物开心地说‘谢谢’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/收到生日礼物开心地说‘谢谢’",
+      "level": "L4",
+      "duration_ms": 364063,
+      "char_count": 1403,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/收到生日礼物开心地说‘谢谢’/收到生日礼物开心地说‘谢谢’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "收到礼物时说出真诚的谢谢",
+      "title": "收到礼物时说出真诚的谢谢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/收到礼物时说出真诚的谢谢",
+      "level": "L4",
+      "duration_ms": 506810,
+      "char_count": 1963,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/收到礼物时说出真诚的谢谢/收到礼物时说出真诚的谢谢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "收到礼物时踮脚亲亲说喜欢",
+      "title": "收到礼物时踮脚亲亲说喜欢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/收到礼物时踮脚亲亲说喜欢",
+      "level": "L4",
+      "duration_ms": 407378,
+      "char_count": 1607,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/收到礼物时踮脚亲亲说喜欢/收到礼物时踮脚亲亲说喜欢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "放学时和保安叔叔说再见",
+      "title": "放学时和保安叔叔说再见",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/放学时和保安叔叔说再见",
+      "level": "L4",
+      "duration_ms": 365277,
+      "char_count": 1428,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/放学时和保安叔叔说再见/放学时和保安叔叔说再见.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "早教班分享饼干说给你吃",
+      "title": "早教班分享饼干说给你吃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/早教班分享饼干说给你吃",
+      "level": "L4",
+      "duration_ms": 365992,
+      "char_count": 1442,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/早教班分享饼干说给你吃/早教班分享饼干说给你吃.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "早晨对妈妈说的第一声“早上好”",
+      "title": "早晨对妈妈说的第一声“早上好”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/早晨对妈妈说的第一声“早上好”",
+      "level": "L4",
+      "duration_ms": 335812,
+      "char_count": 1326,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/早晨对妈妈说的第一声“早上好”/早晨对妈妈说的第一声“早上好”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "晚上睡觉前对月亮说‘晚安’",
+      "title": "晚上睡觉前对月亮说‘晚安’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/晚上睡觉前对月亮说‘晚安’",
+      "level": "L4",
+      "duration_ms": 320704,
+      "char_count": 1265,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/晚上睡觉前对月亮说‘晚安’/晚上睡觉前对月亮说‘晚安’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "晚上睡觉前对月亮说“晚安”然后亲亲妈妈",
+      "title": "晚上睡觉前对月亮说“晚安”然后亲亲妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/晚上睡觉前对月亮说“晚安”然后亲亲妈妈",
+      "level": "L4",
+      "duration_ms": 311994,
+      "char_count": 1202,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/晚上睡觉前对月亮说“晚安”然后亲亲妈妈/晚上睡觉前对月亮说“晚安”然后亲亲妈妈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "晚上睡觉前跟爸爸妈妈道晚安",
+      "title": "晚上睡觉前跟爸爸妈妈道晚安",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/晚上睡觉前跟爸爸妈妈道晚安",
+      "level": "L4",
+      "duration_ms": 239100,
+      "char_count": 941,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/晚上睡觉前跟爸爸妈妈道晚安/晚上睡觉前跟爸爸妈妈道晚安.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "晚饭时，对奶奶说“您先吃”的乖宝宝",
+      "title": "晚饭时，对奶奶说“您先吃”的乖宝宝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/晚饭时，对奶奶说“您先吃”的乖宝宝",
+      "level": "L4",
+      "duration_ms": 506809,
+      "char_count": 1992,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/晚饭时，对奶奶说“您先吃”的乖宝宝/晚饭时，对奶奶说“您先吃”的乖宝宝.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "比赛输了之后对对手说什么话",
+      "title": "比赛输了之后对对手说什么话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/比赛输了之后对对手说什么话",
+      "level": "L4",
+      "duration_ms": 470090,
+      "char_count": 1811,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/比赛输了之后对对手说什么话/比赛输了之后对对手说什么话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "毕业典礼上给每个教过自己的老师写了一张感谢卡",
+      "title": "毕业典礼上给每个教过自己的老师写了一张感谢卡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/毕业典礼上给每个教过自己的老师写了一张感谢卡",
+      "level": "L4",
+      "duration_ms": 466273,
+      "char_count": 1795,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/毕业典礼上给每个教过自己的老师写了一张感谢卡/毕业典礼上给每个教过自己的老师写了一张感谢卡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "深夜给失眠的好友发语音说‘我在呢别怕’",
+      "title": "深夜给失眠的好友发语音说‘我在呢别怕’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/深夜给失眠的好友发语音说‘我在呢别怕’",
+      "level": "L4",
+      "duration_ms": 612591,
+      "char_count": 2397,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/深夜给失眠的好友发语音说‘我在呢别怕’/深夜给失眠的好友发语音说‘我在呢别怕’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "深夜给通宵加班的爸爸热了一杯牛奶",
+      "title": "深夜给通宵加班的爸爸热了一杯牛奶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/深夜给通宵加班的爸爸热了一杯牛奶",
+      "level": "L4",
+      "duration_ms": 332171,
+      "char_count": 1298,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/深夜给通宵加班的爸爸热了一杯牛奶/深夜给通宵加班的爸爸热了一杯牛奶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "游乐场和小朋友分享玩具时说请",
+      "title": "游乐场和小朋友分享玩具时说请",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/游乐场和小朋友分享玩具时说请",
+      "level": "L4",
+      "duration_ms": 400631,
+      "char_count": 1573,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/游乐场和小朋友分享玩具时说请/游乐场和小朋友分享玩具时说请.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "游乐场排队时，小火车“请”让一让",
+      "title": "游乐场排队时，小火车“请”让一让",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/游乐场排队时，小火车“请”让一让",
+      "level": "L4",
+      "duration_ms": 339456,
+      "char_count": 1322,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/游乐场排队时，小火车“请”让一让/游乐场排队时，小火车“请”让一让.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "游戏时输了想发脾气但忍住了",
+      "title": "游戏时输了想发脾气但忍住了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/游戏时输了想发脾气但忍住了",
+      "level": "L4",
+      "duration_ms": 327955,
+      "char_count": 1295,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/游戏时输了想发脾气但忍住了/游戏时输了想发脾气但忍住了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑梯前小熊耐心排队等一等",
+      "title": "滑梯前小熊耐心排队等一等",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/滑梯前小熊耐心排队等一等",
+      "level": "L4",
+      "duration_ms": 369490,
+      "char_count": 1455,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/滑梯前小熊耐心排队等一等/滑梯前小熊耐心排队等一等.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "演讲前对观众鞠一躬",
+      "title": "演讲前对观众鞠一躬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/演讲前对观众鞠一躬",
+      "level": "L4",
+      "duration_ms": 336454,
+      "char_count": 1297,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/演讲前对观众鞠一躬/演讲前对观众鞠一躬.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爷爷进门时大声叫爷爷好",
+      "title": "爷爷进门时大声叫爷爷好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/爷爷进门时大声叫爷爷好",
+      "level": "L4",
+      "duration_ms": 320027,
+      "char_count": 1252,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/爷爷进门时大声叫爷爷好/爷爷进门时大声叫爷爷好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸加班回来，我帮忙递拖鞋说“辛苦啦”",
+      "title": "爸爸加班回来，我帮忙递拖鞋说“辛苦啦”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/爸爸加班回来，我帮忙递拖鞋说“辛苦啦”",
+      "level": "L4",
+      "duration_ms": 379133,
+      "char_count": 1485,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/爸爸加班回来，我帮忙递拖鞋说“辛苦啦”/爸爸加班回来，我帮忙递拖鞋说“辛苦啦”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爸爸教训我时我想表达自己想法",
+      "title": "爸爸教训我时我想表达自己想法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/爸爸教训我时我想表达自己想法",
+      "level": "L4",
+      "duration_ms": 372349,
+      "char_count": 1440,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/爸爸教训我时我想表达自己想法/爸爸教训我时我想表达自己想法.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "独自睡觉时对枕头说“我不害怕”然后勇敢",
+      "title": "独自睡觉时对枕头说“我不害怕”然后勇敢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/独自睡觉时对枕头说“我不害怕”然后勇敢",
+      "level": "L4",
+      "duration_ms": 700524,
+      "char_count": 2750,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/独自睡觉时对枕头说“我不害怕”然后勇敢/独自睡觉时对枕头说“我不害怕”然后勇敢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "玩具被抢时说请还给我",
+      "title": "玩具被抢时说请还给我",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/玩具被抢时说请还给我",
+      "level": "L4",
+      "duration_ms": 415381,
+      "char_count": 1626,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/玩具被抢时说请还给我/玩具被抢时说请还给我.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "班上转来新同学时主动坐在他旁边说‘我教你规则’",
+      "title": "班上转来新同学时主动坐在他旁边说‘我教你规则’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/班上转来新同学时主动坐在他旁边说‘我教你规则’",
+      "level": "L4",
+      "duration_ms": 396523,
+      "char_count": 1562,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/班上转来新同学时主动坐在他旁边说‘我教你规则’/班上转来新同学时主动坐在他旁边说‘我教你规则’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "球场上输球后主动向对手说‘你们打得真好’",
+      "title": "球场上输球后主动向对手说‘你们打得真好’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/球场上输球后主动向对手说‘你们打得真好’",
+      "level": "L4",
+      "duration_ms": 419629,
+      "char_count": 1624,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/球场上输球后主动向对手说‘你们打得真好’/球场上输球后主动向对手说‘你们打得真好’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "电梯里遇到邻居主动问好",
+      "title": "电梯里遇到邻居主动问好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/电梯里遇到邻居主动问好",
+      "level": "L4",
+      "duration_ms": 589198,
+      "char_count": 2318,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/电梯里遇到邻居主动问好/电梯里遇到邻居主动问好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "电话铃响先问您好",
+      "title": "电话铃响先问您好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/电话铃响先问您好",
+      "level": "L4",
+      "duration_ms": 369988,
+      "char_count": 1451,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/电话铃响先问您好/电话铃响先问您好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看到别的小朋友哭，轻轻问“需要帮忙吗？”",
+      "title": "看到别的小朋友哭，轻轻问“需要帮忙吗？”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/看到别的小朋友哭，轻轻问“需要帮忙吗？”",
+      "level": "L4",
+      "duration_ms": 305810,
+      "char_count": 1202,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/看到别的小朋友哭，轻轻问“需要帮忙吗？”/看到别的小朋友哭，轻轻问“需要帮忙吗？”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看到流浪猫躲在雨里时悄悄放了一把旧伞在墙角",
+      "title": "看到流浪猫躲在雨里时悄悄放了一把旧伞在墙角",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/看到流浪猫躲在雨里时悄悄放了一把旧伞在墙角",
+      "level": "L4",
+      "duration_ms": 362883,
+      "char_count": 1418,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/看到流浪猫躲在雨里时悄悄放了一把旧伞在墙角/看到流浪猫躲在雨里时悄悄放了一把旧伞在墙角.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "睡前对星星说晚安月亮",
+      "title": "睡前对星星说晚安月亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/睡前对星星说晚安月亮",
+      "level": "L4",
+      "duration_ms": 313847,
+      "char_count": 1217,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/睡前对星星说晚安月亮/睡前对星星说晚安月亮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "碰倒积木说对不起捡起来",
+      "title": "碰倒积木说对不起捡起来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/碰倒积木说对不起捡起来",
+      "level": "L4",
+      "duration_ms": 344815,
+      "char_count": 1344,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/碰倒积木说对不起捡起来/碰倒积木说对不起捡起来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次上小学前对妈妈说“我会礼貌地说再见”",
+      "title": "第一次上小学前对妈妈说“我会礼貌地说再见”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/第一次上小学前对妈妈说“我会礼貌地说再见”",
+      "level": "L4",
+      "duration_ms": 388670,
+      "char_count": 1502,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/第一次上小学前对妈妈说“我会礼貌地说再见”/第一次上小学前对妈妈说“我会礼貌地说再见”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次对镜子里的自己说‘其实你挺好看的’",
+      "title": "第一次对镜子里的自己说‘其实你挺好看的’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/第一次对镜子里的自己说‘其实你挺好看的’",
+      "level": "L4",
+      "duration_ms": 440309,
+      "char_count": 1713,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/第一次对镜子里的自己说‘其实你挺好看的’/第一次对镜子里的自己说‘其实你挺好看的’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次说‘你好’交到新朋友",
+      "title": "第一次说‘你好’交到新朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/第一次说‘你好’交到新朋友",
+      "level": "L4",
+      "duration_ms": 584236,
+      "char_count": 2287,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/第一次说‘你好’交到新朋友/第一次说‘你好’交到新朋友.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师提问举手而不是喊叫",
+      "title": "老师提问举手而不是喊叫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/老师提问举手而不是喊叫",
+      "level": "L4",
+      "duration_ms": 428774,
+      "char_count": 1652,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/老师提问举手而不是喊叫/老师提问举手而不是喊叫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老师点名回答问题时不知道怎么答",
+      "title": "老师点名回答问题时不知道怎么答",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/老师点名回答问题时不知道怎么答",
+      "level": "L4",
+      "duration_ms": 367956,
+      "char_count": 1434,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/老师点名回答问题时不知道怎么答/老师点名回答问题时不知道怎么答.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考试前对同桌说“加油”而不是嘲笑",
+      "title": "考试前对同桌说“加油”而不是嘲笑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/考试前对同桌说“加油”而不是嘲笑",
+      "level": "L4",
+      "duration_ms": 378844,
+      "char_count": 1477,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/考试前对同桌说“加油”而不是嘲笑/考试前对同桌说“加油”而不是嘲笑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考试前把唯一的学习资料借给了因焦虑哭鼻子的同学",
+      "title": "考试前把唯一的学习资料借给了因焦虑哭鼻子的同学",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/考试前把唯一的学习资料借给了因焦虑哭鼻子的同学",
+      "level": "L4",
+      "duration_ms": 505134,
+      "char_count": 1986,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/考试前把唯一的学习资料借给了因焦虑哭鼻子的同学/考试前把唯一的学习资料借给了因焦虑哭鼻子的同学.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被冤枉时冷静说请听我解释",
+      "title": "被冤枉时冷静说请听我解释",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/被冤枉时冷静说请听我解释",
+      "level": "L4",
+      "duration_ms": 346848,
+      "char_count": 1349,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/被冤枉时冷静说请听我解释/被冤枉时冷静说请听我解释.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被妈妈偷看日记后不是摔门而是画了一幅沟通的画",
+      "title": "被妈妈偷看日记后不是摔门而是画了一幅沟通的画",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/被妈妈偷看日记后不是摔门而是画了一幅沟通的画",
+      "level": "L4",
+      "duration_ms": 481062,
+      "char_count": 1885,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/被妈妈偷看日记后不是摔门而是画了一幅沟通的画/被妈妈偷看日记后不是摔门而是画了一幅沟通的画.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被老师冤枉抄作业后冷静说出‘我没有’",
+      "title": "被老师冤枉抄作业后冷静说出‘我没有’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/被老师冤枉抄作业后冷静说出‘我没有’",
+      "level": "L4",
+      "duration_ms": 471736,
+      "char_count": 1822,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/被老师冤枉抄作业后冷静说出‘我没有’/被老师冤枉抄作业后冷静说出‘我没有’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被老师点名时站起来说“到”然后说“谢谢”",
+      "title": "被老师点名时站起来说“到”然后说“谢谢”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/被老师点名时站起来说“到”然后说“谢谢”",
+      "level": "L4",
+      "duration_ms": 468022,
+      "char_count": 1819,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/被老师点名时站起来说“到”然后说“谢谢”/被老师点名时站起来说“到”然后说“谢谢”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "见到邻居奶奶主动叫‘奶奶好’",
+      "title": "见到邻居奶奶主动叫‘奶奶好’",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/见到邻居奶奶主动叫‘奶奶好’",
+      "level": "L4",
+      "duration_ms": 416667,
+      "char_count": 1640,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/见到邻居奶奶主动叫‘奶奶好’/见到邻居奶奶主动叫‘奶奶好’.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "见到长辈主动打招呼",
+      "title": "见到长辈主动打招呼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/见到长辈主动打招呼",
+      "level": "L4",
+      "duration_ms": 552272,
+      "char_count": 2166,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/见到长辈主动打招呼/见到长辈主动打招呼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "课堂上打断老师说话的那一刻",
+      "title": "课堂上打断老师说话的那一刻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/课堂上打断老师说话的那一刻",
+      "level": "L4",
+      "duration_ms": 505099,
+      "char_count": 1957,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/课堂上打断老师说话的那一刻/课堂上打断老师说话的那一刻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "过生日收到礼物，亲亲妈妈说“谢谢你”",
+      "title": "过生日收到礼物，亲亲妈妈说“谢谢你”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/过生日收到礼物，亲亲妈妈说“谢谢你”",
+      "level": "L4",
+      "duration_ms": 271668,
+      "char_count": 1063,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/过生日收到礼物，亲亲妈妈说“谢谢你”/过生日收到礼物，亲亲妈妈说“谢谢你”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "餐厅里对服务员阿姨说请的时候",
+      "title": "餐厅里对服务员阿姨说请的时候",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A5礼貌/餐厅里对服务员阿姨说请的时候",
+      "level": "L4",
+      "duration_ms": 419525,
+      "char_count": 1645,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/餐厅里对服务员阿姨说请的时候/餐厅里对服务员阿姨说请的时候.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

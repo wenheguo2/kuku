@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "蒙学经典/M9少年中国说",
+  "work_name": "M9少年中国说",
+  "cover": {
+    "cover_image_url": "covers/generated/蒙学经典/M9少年中国说/M9少年中国说.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 1,
+  "total_duration_ms": 599400,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "少年中国说001-013_全文_故今日之责任不",
+      "title": "少年中国说001-013_全文_故今日之责任不",
+      "full_path": "蒙学经典/M9少年中国说/少年中国说001-013_全文_故今日之责任不",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 599400,
+      "char_count": 2983,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M9少年中国说/M9少年中国说.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

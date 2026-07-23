@@ -1,0 +1,8 @@
+/* GL-02 玻璃拟态迷你播放栏定位（固定于底部，Tab 栏上方） */
+.mini-wrap {
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  bottom: 24px;
+  z-index: 100;
+}

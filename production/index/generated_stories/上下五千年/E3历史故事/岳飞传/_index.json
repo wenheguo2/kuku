@@ -1,0 +1,1216 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E3历史故事/岳飞传",
+  "work_name": "岳飞传",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 80,
+  "total_duration_ms": 74279921,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第001回 天遣赤须龙下界 佛谪金翅鸟降凡",
+      "title": "第001回 天遣赤须龙下界 佛谪金翅鸟降凡",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第001回 天遣赤须龙下界 佛谪金翅鸟降凡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1021233,
+      "char_count": 4014,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第002回 泛洪涛虬王报怨 抚孤寡员外施恩",
+      "title": "第002回 泛洪涛虬王报怨 抚孤寡员外施恩",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第002回 泛洪涛虬王报怨 抚孤寡员外施恩",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1212830,
+      "char_count": 4741,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第003回 岳院君闭门课子 周先生设帐授徒",
+      "title": "第003回 岳院君闭门课子 周先生设帐授徒",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第003回 岳院君闭门课子 周先生设帐授徒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 820272,
+      "char_count": 3193,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第004回 麒麟村小英雄结义 沥泉洞老蛇怪献枪",
+      "title": "第004回 麒麟村小英雄结义 沥泉洞老蛇怪献枪",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第004回 麒麟村小英雄结义 沥泉洞老蛇怪献枪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1079336,
+      "char_count": 4181,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第005回 岳飞巧试九枝箭 李春慨缔百年姻",
+      "title": "第005回 岳飞巧试九枝箭 李春慨缔百年姻",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第005回 岳飞巧试九枝箭 李春慨缔百年姻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 818233,
+      "char_count": 3144,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第006回 沥泉山岳飞庐墓 乱草冈牛皋剪径",
+      "title": "第006回 沥泉山岳飞庐墓 乱草冈牛皋剪径",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第006回 沥泉山岳飞庐墓 乱草冈牛皋剪径",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1040911,
+      "char_count": 4001,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第007回 梦飞虎徐仁荐贤 索贿赂洪先革职",
+      "title": "第007回 梦飞虎徐仁荐贤 索贿赂洪先革职",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第007回 梦飞虎徐仁荐贤 索贿赂洪先革职",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 827558,
+      "char_count": 3165,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第008回 岳飞完姻归故土 洪先纠盗劫行装",
+      "title": "第008回 岳飞完姻归故土 洪先纠盗劫行装",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第008回 岳飞完姻归故土 洪先纠盗劫行装",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 869479,
+      "char_count": 3382,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第009回 元帅府岳鹏举谈兵 招商店宗留守赐宴",
+      "title": "第009回 元帅府岳鹏举谈兵 招商店宗留守赐宴",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第009回 元帅府岳鹏举谈兵 招商店宗留守赐宴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 736165,
+      "char_count": 2793,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第010回 大相国寺闲听评话 小校场中私抢状元",
+      "title": "第010回 大相国寺闲听评话 小校场中私抢状元",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第010回 大相国寺闲听评话 小校场中私抢状元",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1225799,
+      "char_count": 4769,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第011回 周三畏遵训赠宝剑 宗留守立誓取真才",
+      "title": "第011回 周三畏遵训赠宝剑 宗留守立誓取真才",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第011回 周三畏遵训赠宝剑 宗留守立誓取真才",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 685450,
+      "char_count": 2651,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第012回 夺状元枪挑小梁王 反武场放走岳鹏举",
+      "title": "第012回 夺状元枪挑小梁王 反武场放走岳鹏举",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第012回 夺状元枪挑小梁王 反武场放走岳鹏举",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 944056,
+      "char_count": 3662,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第013回 昭丰镇王贵染病 牟驼冈宗泽踹营",
+      "title": "第013回 昭丰镇王贵染病 牟驼冈宗泽踹营",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第013回 昭丰镇王贵染病 牟驼冈宗泽踹营",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1034552,
+      "char_count": 4009,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第014回 岳飞破贼酬知己 施全剪径遇良朋",
+      "title": "第014回 岳飞破贼酬知己 施全剪径遇良朋",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第014回 岳飞破贼酬知己 施全剪径遇良朋",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 758271,
+      "char_count": 2946,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第015回 金兀术兴兵入寇 陆子敬设计御敌",
+      "title": "第015回 金兀术兴兵入寇 陆子敬设计御敌",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第015回 金兀术兴兵入寇 陆子敬设计御敌",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 649520,
+      "char_count": 2517,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "第016回 下假书哈迷蚩割鼻 破潞安陆节度尽忠",
+      "title": "第016回 下假书哈迷蚩割鼻 破潞安陆节度尽忠",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第016回 下假书哈迷蚩割鼻 破潞安陆节度尽忠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 724844,
+      "char_count": 2814,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "第017回 梁夫人炮炸失两狼 张叔夜假降保河间",
+      "title": "第017回 梁夫人炮炸失两狼 张叔夜假降保河间",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第017回 梁夫人炮炸失两狼 张叔夜假降保河间",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 915573,
+      "char_count": 3460,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "第018回 金兀术冰冻渡黄河 张邦昌奸谋倾社稷",
+      "title": "第018回 金兀术冰冻渡黄河 张邦昌奸谋倾社稷",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第018回 金兀术冰冻渡黄河 张邦昌奸谋倾社稷",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 836625,
+      "char_count": 3220,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "第019回 李侍郎拼命骂番王 崔总兵进衣传血诏",
+      "title": "第019回 李侍郎拼命骂番王 崔总兵进衣传血诏",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第019回 李侍郎拼命骂番王 崔总兵进衣传血诏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 970693,
+      "char_count": 3772,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "第020回 金营神鸟引真主 夹江泥马渡康王",
+      "title": "第020回 金营神鸟引真主 夹江泥马渡康王",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第020回 金营神鸟引真主 夹江泥马渡康王",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 894812,
+      "char_count": 3375,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "第021回 宋高宗金陵即帝位 岳鹏举划地绝交情",
+      "title": "第021回 宋高宗金陵即帝位 岳鹏举划地绝交情",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第021回 宋高宗金陵即帝位 岳鹏举划地绝交情",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 882905,
+      "char_count": 3381,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "第022回 结义盟王佐假名 刺精忠岳母训子",
+      "title": "第022回 结义盟王佐假名 刺精忠岳母训子",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第022回 结义盟王佐假名 刺精忠岳母训子",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1036197,
+      "char_count": 4053,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "第023回 胡先奉令探功绩 岳飞设计败金兵",
+      "title": "第023回 胡先奉令探功绩 岳飞设计败金兵",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第023回 胡先奉令探功绩 岳飞设计败金兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 724703,
+      "char_count": 2798,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "第024回 释番将刘豫降金 献玉玺邦昌拜相",
+      "title": "第024回 释番将刘豫降金 献玉玺邦昌拜相",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第024回 释番将刘豫降金 献玉玺邦昌拜相",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1413112,
+      "char_count": 5390,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "第025回 王横断桥霸渡口 邦昌假诏害忠良",
+      "title": "第025回 王横断桥霸渡口 邦昌假诏害忠良",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第025回 王横断桥霸渡口 邦昌假诏害忠良",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 692236,
+      "char_count": 2661,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "第026回 刘豫恃宠张珠盖 曹荣降贼献黄河",
+      "title": "第026回 刘豫恃宠张珠盖 曹荣降贼献黄河",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第026回 刘豫恃宠张珠盖 曹荣降贼献黄河",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 871559,
+      "char_count": 3314,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "第027回 岳飞大战爱华山 阮良水底擒兀术",
+      "title": "第027回 岳飞大战爱华山 阮良水底擒兀术",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第027回 岳飞大战爱华山 阮良水底擒兀术",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 955579,
+      "char_count": 3669,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "第028回 岳元帅调兵剿寇 牛统制巡湖被擒",
+      "title": "第028回 岳元帅调兵剿寇 牛统制巡湖被擒",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第028回 岳元帅调兵剿寇 牛统制巡湖被擒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 797735,
+      "char_count": 2796,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "第029回 岳元帅单身探贼 耿明达兄弟投诚",
+      "title": "第029回 岳元帅单身探贼 耿明达兄弟投诚",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第029回 岳元帅单身探贼 耿明达兄弟投诚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 667841,
+      "char_count": 2569,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "第030回 破兵船岳飞定计 袭洞庭杨虎归降",
+      "title": "第030回 破兵船岳飞定计 袭洞庭杨虎归降",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第030回 破兵船岳飞定计 袭洞庭杨虎归降",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 833194,
+      "char_count": 3233,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "第031回 穿梭镖明收虎将 苦肉计暗取康郎",
+      "title": "第031回 穿梭镖明收虎将 苦肉计暗取康郎",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第031回 穿梭镖明收虎将 苦肉计暗取康郎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 866734,
+      "char_count": 3357,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "第032回 牛皋酒醉破番兵 金节梦虎谐婚匹",
+      "title": "第032回 牛皋酒醉破番兵 金节梦虎谐婚匹",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第032回 牛皋酒醉破番兵 金节梦虎谐婚匹",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 868771,
+      "char_count": 3374,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "第033回 刘鲁王纵子行凶 孟邦杰逃灾遇友",
+      "title": "第033回 刘鲁王纵子行凶 孟邦杰逃灾遇友",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第033回 刘鲁王纵子行凶 孟邦杰逃灾遇友",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1318507,
+      "char_count": 5156,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "第034回 掘陷坑吉青被获 认兄弟张用献关",
+      "title": "第034回 掘陷坑吉青被获 认兄弟张用献关",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第034回 掘陷坑吉青被获 认兄弟张用献关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1185544,
+      "char_count": 4575,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "第035回 九宫山解粮遇盗 樊家庄争鹿招亲",
+      "title": "第035回 九宫山解粮遇盗 樊家庄争鹿招亲",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第035回 九宫山解粮遇盗 樊家庄争鹿招亲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1025338,
+      "char_count": 3983,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "第036回 何元庆两番被获 金兀术五路进兵",
+      "title": "第036回 何元庆两番被获 金兀术五路进兵",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第036回 何元庆两番被获 金兀术五路进兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1038412,
+      "char_count": 3990,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "第037回 五通神显灵航大海 宋康王被困牛头山",
+      "title": "第037回 五通神显灵航大海 宋康王被困牛头山",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第037回 五通神显灵航大海 宋康王被困牛头山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 775981,
+      "char_count": 2767,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "第038回 解军粮英雄归宋室 下战书福将进金营",
+      "title": "第038回 解军粮英雄归宋室 下战书福将进金营",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第038回 解军粮英雄归宋室 下战书福将进金营",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1401554,
+      "char_count": 5440,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "第039回 祭帅旗奸臣代畜 挑华车勇士遭殃",
+      "title": "第039回 祭帅旗奸臣代畜 挑华车勇士遭殃",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第039回 祭帅旗奸臣代畜 挑华车勇士遭殃",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 804597,
+      "char_count": 3174,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "第040回 杀番兵岳云保家属 赠赤兔关铃结义兄",
+      "title": "第040回 杀番兵岳云保家属 赠赤兔关铃结义兄",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第040回 杀番兵岳云保家属 赠赤兔关铃结义兄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 893409,
+      "char_count": 3483,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "第041回 巩家庄岳云聘妇 牛头山张宪救主",
+      "title": "第041回 巩家庄岳云聘妇 牛头山张宪救主",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第041回 巩家庄岳云聘妇 牛头山张宪救主",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1172737,
+      "char_count": 4560,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "第042回 打碎免战牌岳公子犯令 挑死大王子韩彦直冲营",
+      "title": "第042回 打碎免战牌岳公子犯令 挑死大王子韩彦直冲营",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第042回 打碎免战牌岳公子犯令 挑死大王子韩彦直冲营",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 658408,
+      "char_count": 2571,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "第043回 送客将军双结义 赠囊和尚泄天机",
+      "title": "第043回 送客将军双结义 赠囊和尚泄天机",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第043回 送客将军双结义 赠囊和尚泄天机",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 742875,
+      "char_count": 2879,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "第044回 梁夫人击鼓战金山 金兀术败走黄天荡",
+      "title": "第044回 梁夫人击鼓战金山 金兀术败走黄天荡",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第044回 梁夫人击鼓战金山 金兀术败走黄天荡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 919685,
+      "char_count": 3556,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "第045回 掘通老鹳河兀术逃生 迁都临安郡岳飞归里",
+      "title": "第045回 掘通老鹳河兀术逃生 迁都临安郡岳飞归里",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第045回 掘通老鹳河兀术逃生 迁都临安郡岳飞归里",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 889917,
+      "char_count": 3456,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "第046回 兀术施恩养秦桧 苗傅衔怨杀王渊",
+      "title": "第046回 兀术施恩养秦桧 苗傅衔怨杀王渊",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第046回 兀术施恩养秦桧 苗傅衔怨杀王渊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 691912,
+      "char_count": 2715,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "第047回 擒叛臣虎将勤王 召良帅贤后赐旗",
+      "title": "第047回 擒叛臣虎将勤王 召良帅贤后赐旗",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第047回 擒叛臣虎将勤王 召良帅贤后赐旗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 691198,
+      "char_count": 2658,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "第048回 杨景梦传杀手锏 王佐计设金兰宴",
+      "title": "第048回 杨景梦传杀手锏 王佐计设金兰宴",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第048回 杨景梦传杀手锏 王佐计设金兰宴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1328509,
+      "char_count": 4795,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "第049回 杨钦暗献地理图 世忠计破藏金窟",
+      "title": "第049回 杨钦暗献地理图 世忠计破藏金窟",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第049回 杨钦暗献地理图 世忠计破藏金窟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1146191,
+      "char_count": 4383,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "第050回 打酒坛福将遇神仙 探君山元戎遭厄难",
+      "title": "第050回 打酒坛福将遇神仙 探君山元戎遭厄难",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第050回 打酒坛福将遇神仙 探君山元戎遭厄难",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1012840,
+      "char_count": 3952,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "第051回 伍尚志火牛冲敌阵 鲍方祖赠宝破妖人",
+      "title": "第051回 伍尚志火牛冲敌阵 鲍方祖赠宝破妖人",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第051回 伍尚志火牛冲敌阵 鲍方祖赠宝破妖人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1022515,
+      "char_count": 3976,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "第052回 严成方较锤结义 戚统制暗箭报仇",
+      "title": "第052回 严成方较锤结义 戚统制暗箭报仇",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第052回 严成方较锤结义 戚统制暗箭报仇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 729516,
+      "char_count": 2821,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "第053回 岳元帅大破五方阵 杨再兴误走小商河",
+      "title": "第053回 岳元帅大破五方阵 杨再兴误走小商河",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第053回 岳元帅大破五方阵 杨再兴误走小商河",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 986666,
+      "char_count": 3880,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "第054回 贬九成秦桧弄权 送钦差汤怀自刎",
+      "title": "第054回 贬九成秦桧弄权 送钦差汤怀自刎",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第054回 贬九成秦桧弄权 送钦差汤怀自刎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 775973,
+      "char_count": 2910,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "第055回 陆殿下单身战五将 王统制断臂假降金",
+      "title": "第055回 陆殿下单身战五将 王统制断臂假降金",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第055回 陆殿下单身战五将 王统制断臂假降金",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1130187,
+      "char_count": 4406,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "第056回 述往事王佐献图 明邪正曹宁弑父",
+      "title": "第056回 述往事王佐献图 明邪正曹宁弑父",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第056回 述往事王佐献图 明邪正曹宁弑父",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 824267,
+      "char_count": 2760,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "第057回 演钩连大破连环马 射箭书潜避铁浮陀",
+      "title": "第057回 演钩连大破连环马 射箭书潜避铁浮陀",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第057回 演钩连大破连环马 射箭书潜避铁浮陀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 952687,
+      "char_count": 3717,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "第058回 再放报仇箭戚方丧命 大破金龙阵关铃逞能",
+      "title": "第058回 再放报仇箭戚方丧命 大破金龙阵关铃逞能",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第058回 再放报仇箭戚方丧命 大破金龙阵关铃逞能",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 998237,
+      "char_count": 3524,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "第059回 召回兵矫诏发金牌 详恶梦禅师赠偈语",
+      "title": "第059回 召回兵矫诏发金牌 详恶梦禅师赠偈语",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第059回 召回兵矫诏发金牌 详恶梦禅师赠偈语",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 892836,
+      "char_count": 3449,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "第060回 勘冤狱周三畏挂冠 探囹圄张总兵死义",
+      "title": "第060回 勘冤狱周三畏挂冠 探囹圄张总兵死义",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第060回 勘冤狱周三畏挂冠 探囹圄张总兵死义",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 780590,
+      "char_count": 3020,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "第061回 东窗下夫妻设计 风波亭父子归神",
+      "title": "第061回 东窗下夫妻设计 风波亭父子归神",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第061回 东窗下夫妻设计 风波亭父子归神",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 979625,
+      "char_count": 3777,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "第062回 韩家庄岳雷逢义友 七宝镇牛通闹酒坊",
+      "title": "第062回 韩家庄岳雷逢义友 七宝镇牛通闹酒坊",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第062回 韩家庄岳雷逢义友 七宝镇牛通闹酒坊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1264585,
+      "char_count": 4935,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "第063回 兴风浪忠魂显圣 投古井烈女殉身",
+      "title": "第063回 兴风浪忠魂显圣 投古井烈女殉身",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第063回 兴风浪忠魂显圣 投古井烈女殉身",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1086620,
+      "char_count": 4197,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "第064回 诸葛梦里授兵书 欧阳狱中施巧计",
+      "title": "第064回 诸葛梦里授兵书 欧阳狱中施巧计",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第064回 诸葛梦里授兵书 欧阳狱中施巧计",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 802062,
+      "char_count": 3170,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "第065回 小兄弟偷祭岳王坟 吕巡检贪赃闹乌镇",
+      "title": "第065回 小兄弟偷祭岳王坟 吕巡检贪赃闹乌镇",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第065回 小兄弟偷祭岳王坟 吕巡检贪赃闹乌镇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 880433,
+      "char_count": 3364,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "第066回 牛公子直言触父 柴娘娘恩义待仇",
+      "title": "第066回 牛公子直言触父 柴娘娘恩义待仇",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第066回 牛公子直言触父 柴娘娘恩义待仇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1337185,
+      "char_count": 5135,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "第067回 赵王府莽汉闹新房 问月庵兄弟双配匹",
+      "title": "第067回 赵王府莽汉闹新房 问月庵兄弟双配匹",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第067回 赵王府莽汉闹新房 问月庵兄弟双配匹",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 932723,
+      "char_count": 3628,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "第068回 牛通智取尽南关 岳霆途遇众好汉",
+      "title": "第068回 牛通智取尽南关 岳霆途遇众好汉",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第068回 牛通智取尽南关 岳霆途遇众好汉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 982515,
+      "char_count": 3450,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "第069回 打擂台同祭岳王坟 愤冤情哭诉潮神庙",
+      "title": "第069回 打擂台同祭岳王坟 愤冤情哭诉潮神庙",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第069回 打擂台同祭岳王坟 愤冤情哭诉潮神庙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 723629,
+      "char_count": 2801,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "第070回 灵隐寺进香疯僧游戏 众安桥行刺义士捐躯",
+      "title": "第070回 灵隐寺进香疯僧游戏 众安桥行刺义士捐躯",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第070回 灵隐寺进香疯僧游戏 众安桥行刺义士捐躯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 920197,
+      "char_count": 3599,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "第071回 苗王洞岳霖入赘 东南山何立见佛",
+      "title": "第071回 苗王洞岳霖入赘 东南山何立见佛",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第071回 苗王洞岳霖入赘 东南山何立见佛",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 793956,
+      "char_count": 3131,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "第072回 黑蛮龙提兵祭岳坟 秦丞相嚼舌归阴府",
+      "title": "第072回 黑蛮龙提兵祭岳坟 秦丞相嚼舌归阴府",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第072回 黑蛮龙提兵祭岳坟 秦丞相嚼舌归阴府",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 761378,
+      "char_count": 2918,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "第073回 胡梦蝶醉后吟诗游地狱 金兀术三曹对案再兴兵",
+      "title": "第073回 胡梦蝶醉后吟诗游地狱 金兀术三曹对案再兴兵",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第073回 胡梦蝶醉后吟诗游地狱 金兀术三曹对案再兴兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1226909,
+      "char_count": 4647,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "第074回 赦罪封功御祭岳王坟 勘奸定罪正法栖霞岭",
+      "title": "第074回 赦罪封功御祭岳王坟 勘奸定罪正法栖霞岭",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第074回 赦罪封功御祭岳王坟 勘奸定罪正法栖霞岭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 999799,
+      "char_count": 3858,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "第075回 万人口张俊应誓 杀奸属王彪报仇",
+      "title": "第075回 万人口张俊应誓 杀奸属王彪报仇",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第075回 万人口张俊应誓 杀奸属王彪报仇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 793416,
+      "char_count": 3061,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "第076回 普风师宝珠打宋将 诸葛锦火箭破驼龙",
+      "title": "第076回 普风师宝珠打宋将 诸葛锦火箭破驼龙",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第076回 普风师宝珠打宋将 诸葛锦火箭破驼龙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 700632,
+      "char_count": 2727,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "第077回 山狮驼兵阻界山 杨继周力敌番将",
+      "title": "第077回 山狮驼兵阻界山 杨继周力敌番将",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第077回 山狮驼兵阻界山 杨继周力敌番将",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 927479,
+      "char_count": 3602,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "第078回 黑风珠四将丧命 白龙带伍连遭擒",
+      "title": "第078回 黑风珠四将丧命 白龙带伍连遭擒",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第078回 黑风珠四将丧命 白龙带伍连遭擒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1057696,
+      "char_count": 4137,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "第079回 施岑收服乌灵圣母 牛皋气死完颜兀术",
+      "title": "第079回 施岑收服乌灵圣母 牛皋气死完颜兀术",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第079回 施岑收服乌灵圣母 牛皋气死完颜兀术",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 811448,
+      "char_count": 3180,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "第080回 表精忠墓顶加封 证因果大鹏归位",
+      "title": "第080回 表精忠墓顶加封 证因果大鹏归位",
+      "full_path": "上下五千年/E3历史故事/岳飞传/第080回 表精忠墓顶加封 证因果大鹏归位",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 829768,
+      "char_count": 3171,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

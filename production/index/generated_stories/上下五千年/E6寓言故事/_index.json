@@ -1,0 +1,1793 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "上下五千年/E6寓言故事",
+  "name": "E6寓言故事",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E6寓言故事/E6寓言故事.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 127,
+  "entries": [
+    {
+      "entry_id": "一傅众咻",
+      "title": "一傅众咻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/一傅众咻",
+      "level": "L6",
+      "duration_ms": 506379,
+      "char_count": 2162,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/一傅众咻/一傅众咻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "一蟹不如一蟹",
+      "title": "一蟹不如一蟹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/一蟹不如一蟹",
+      "level": "L6",
+      "duration_ms": 418169,
+      "char_count": 1733,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/一蟹不如一蟹/一蟹不如一蟹.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三个和尚",
+      "title": "三个和尚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/三个和尚",
+      "level": "L6",
+      "duration_ms": 379953,
+      "char_count": 1708,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/三个和尚/三个和尚.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三人市虎",
+      "title": "三人市虎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/三人市虎",
+      "level": "L6",
+      "duration_ms": 385093,
+      "char_count": 1681,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/三人市虎/三人市虎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三人成虎",
+      "title": "三人成虎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/三人成虎",
+      "level": "L6",
+      "duration_ms": 358989,
+      "char_count": 1543,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/三人成虎/三人成虎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三戒",
+      "title": "三戒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/三戒",
+      "level": "L6",
+      "duration_ms": 429347,
+      "char_count": 1872,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/三戒/三戒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不识车轭",
+      "title": "不识车轭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/不识车轭",
+      "level": "L6",
+      "duration_ms": 361705,
+      "char_count": 1554,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/不识车轭/不识车轭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不龟手之药",
+      "title": "不龟手之药",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/不龟手之药",
+      "level": "L6",
+      "duration_ms": 481490,
+      "char_count": 2044,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/不龟手之药/不龟手之药.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "东郭先生",
+      "title": "东郭先生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/东郭先生",
+      "level": "L6",
+      "duration_ms": 597734,
+      "char_count": 2541,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/东郭先生/东郭先生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "两小儿辩日",
+      "title": "两小儿辩日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/两小儿辩日",
+      "level": "L6",
+      "duration_ms": 479132,
+      "char_count": 1999,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/两小儿辩日/两小儿辩日.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "两臂重于天下",
+      "title": "两臂重于天下",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/两臂重于天下",
+      "level": "L6",
+      "duration_ms": 832842,
+      "char_count": 3490,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/两臂重于天下/两臂重于天下.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "临江之麋",
+      "title": "临江之麋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/临江之麋",
+      "level": "L6",
+      "duration_ms": 565058,
+      "char_count": 2377,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/临江之麋/临江之麋.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "九头争食",
+      "title": "九头争食",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/九头争食",
+      "level": "L6",
+      "duration_ms": 397205,
+      "char_count": 1768,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/九头争食/九头争食.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "九方皋相马",
+      "title": "九方皋相马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/九方皋相马",
+      "level": "L6",
+      "duration_ms": 361566,
+      "char_count": 1515,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/九方皋相马/九方皋相马.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "以羊易牛",
+      "title": "以羊易牛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/以羊易牛",
+      "level": "L6",
+      "duration_ms": 554165,
+      "char_count": 2301,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/以羊易牛/以羊易牛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "任公子钓鱼",
+      "title": "任公子钓鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/任公子钓鱼",
+      "level": "L6",
+      "duration_ms": 487810,
+      "char_count": 2065,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/任公子钓鱼/任公子钓鱼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偃师造人",
+      "title": "偃师造人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/偃师造人",
+      "level": "L6",
+      "duration_ms": 375562,
+      "char_count": 1623,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/偃师造人/偃师造人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "其父善游",
+      "title": "其父善游",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/其父善游",
+      "level": "L6",
+      "duration_ms": 409349,
+      "char_count": 1770,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/其父善游/其父善游.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "击瓮救童",
+      "title": "击瓮救童",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/击瓮救童",
+      "level": "L6",
+      "duration_ms": 517809,
+      "char_count": 2197,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/击瓮救童/击瓮救童.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "刘三姐对歌",
+      "title": "刘三姐对歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/刘三姐对歌",
+      "level": "L6",
+      "duration_ms": 439312,
+      "char_count": 1848,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/刘三姐对歌/刘三姐对歌.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "千日酒",
+      "title": "千日酒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/千日酒",
+      "level": "L6",
+      "duration_ms": 419669,
+      "char_count": 1777,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/千日酒/千日酒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "千金买骨",
+      "title": "千金买骨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/千金买骨",
+      "level": "L6",
+      "duration_ms": 407350,
+      "char_count": 1682,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/千金买骨/千金买骨.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "卖柑者言",
+      "title": "卖柑者言",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/卖柑者言",
+      "level": "L6",
+      "duration_ms": 357957,
+      "char_count": 1501,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/卖柑者言/卖柑者言.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "卖油翁",
+      "title": "卖油翁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/卖油翁",
+      "level": "L6",
+      "duration_ms": 287066,
+      "char_count": 1267,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/卖油翁/卖油翁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "卜妻为裤",
+      "title": "卜妻为裤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/卜妻为裤",
+      "level": "L6",
+      "duration_ms": 338490,
+      "char_count": 1408,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/卜妻为裤/卜妻为裤.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "去宥",
+      "title": "去宥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/去宥",
+      "level": "L6",
+      "duration_ms": 550204,
+      "char_count": 2344,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/去宥/去宥.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "反裘负薪",
+      "title": "反裘负薪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/反裘负薪",
+      "level": "L6",
+      "duration_ms": 361671,
+      "char_count": 1505,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/反裘负薪/反裘负薪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "周处除三害",
+      "title": "周处除三害",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/周处除三害",
+      "level": "L6",
+      "duration_ms": 259244,
+      "char_count": 1073,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/周处除三害/周处除三害.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "哀溺文",
+      "title": "哀溺文",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/哀溺文",
+      "level": "L6",
+      "duration_ms": 355206,
+      "char_count": 1507,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/哀溺文/哀溺文.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "唐打猎",
+      "title": "唐打猎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/唐打猎",
+      "level": "L6",
+      "duration_ms": 534491,
+      "char_count": 2204,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/唐打猎/唐打猎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "唐雎不辱使命",
+      "title": "唐雎不辱使命",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/唐雎不辱使命",
+      "level": "L6",
+      "duration_ms": 426811,
+      "char_count": 1772,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/唐雎不辱使命/唐雎不辱使命.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "城门失火殃及池鱼",
+      "title": "城门失火殃及池鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/城门失火殃及池鱼",
+      "level": "L6",
+      "duration_ms": 460596,
+      "char_count": 1958,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/城门失火殃及池鱼/城门失火殃及池鱼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "大铁椎传",
+      "title": "大铁椎传",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/大铁椎传",
+      "level": "L6",
+      "duration_ms": 708696,
+      "char_count": 3027,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/大铁椎传/大铁椎传.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "天河浮槎",
+      "title": "天河浮槎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/天河浮槎",
+      "level": "L6",
+      "duration_ms": 601664,
+      "char_count": 2521,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/天河浮槎/天河浮槎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "子余造舟",
+      "title": "子余造舟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/子余造舟",
+      "level": "L6",
+      "duration_ms": 429064,
+      "char_count": 1802,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/子余造舟/子余造舟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "季梁谏魏王",
+      "title": "季梁谏魏王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/季梁谏魏王",
+      "level": "L6",
+      "duration_ms": 623413,
+      "char_count": 2587,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/季梁谏魏王/季梁谏魏王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "尉迟恭三夺槊",
+      "title": "尉迟恭三夺槊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/尉迟恭三夺槊",
+      "level": "L6",
+      "duration_ms": 320207,
+      "char_count": 1445,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/尉迟恭三夺槊/尉迟恭三夺槊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小儿不畏虎",
+      "title": "小儿不畏虎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/小儿不畏虎",
+      "level": "L6",
+      "duration_ms": 703482,
+      "char_count": 2956,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/小儿不畏虎/小儿不畏虎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小儿辈破贼",
+      "title": "小儿辈破贼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/小儿辈破贼",
+      "level": "L6",
+      "duration_ms": 372026,
+      "char_count": 1559,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/小儿辈破贼/小儿辈破贼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小儿辩日",
+      "title": "小儿辩日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/小儿辩日",
+      "level": "L6",
+      "duration_ms": 463560,
+      "char_count": 1877,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/小儿辩日/小儿辩日.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "屠龙之技",
+      "title": "屠龙之技",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/屠龙之技",
+      "level": "L6",
+      "duration_ms": 515311,
+      "char_count": 2185,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/屠龙之技/屠龙之技.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "山市蜃楼",
+      "title": "山市蜃楼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/山市蜃楼",
+      "level": "L6",
+      "duration_ms": 704878,
+      "char_count": 2917,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/山市蜃楼/山市蜃楼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "山木与雁",
+      "title": "山木与雁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/山木与雁",
+      "level": "L6",
+      "duration_ms": 456169,
+      "char_count": 1871,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/山木与雁/山木与雁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "工之侨为琴",
+      "title": "工之侨为琴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/工之侨为琴",
+      "level": "L6",
+      "duration_ms": 667129,
+      "char_count": 2838,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/工之侨为琴/工之侨为琴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "工倕之巧",
+      "title": "工倕之巧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/工倕之巧",
+      "level": "L6",
+      "duration_ms": 602098,
+      "char_count": 2492,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/工倕之巧/工倕之巧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "差不多先生",
+      "title": "差不多先生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/差不多先生",
+      "level": "L6",
+      "duration_ms": 580666,
+      "char_count": 2460,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/差不多先生/差不多先生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "巴拉根仓的故事",
+      "title": "巴拉根仓的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/巴拉根仓的故事",
+      "level": "L6",
+      "duration_ms": 502845,
+      "char_count": 2156,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/巴拉根仓的故事/巴拉根仓的故事.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "师旷劝学",
+      "title": "师旷劝学",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/师旷劝学",
+      "level": "L6",
+      "duration_ms": 409810,
+      "char_count": 1739,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/师旷劝学/师旷劝学.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "庄周梦蝶",
+      "title": "庄周梦蝶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/庄周梦蝶",
+      "level": "L6",
+      "duration_ms": 435170,
+      "char_count": 1811,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/庄周梦蝶/庄周梦蝶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "庄周贷粟",
+      "title": "庄周贷粟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/庄周贷粟",
+      "level": "L6",
+      "duration_ms": 373457,
+      "char_count": 1609,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/庄周贷粟/庄周贷粟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弈秋诲弈",
+      "title": "弈秋诲弈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/弈秋诲弈",
+      "level": "L6",
+      "duration_ms": 662525,
+      "char_count": 2789,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/弈秋诲弈/弈秋诲弈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "引婴投江",
+      "title": "引婴投江",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/引婴投江",
+      "level": "L6",
+      "duration_ms": 439376,
+      "char_count": 1883,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/引婴投江/引婴投江.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "张华识龙肉",
+      "title": "张华识龙肉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/张华识龙肉",
+      "level": "L6",
+      "duration_ms": 459953,
+      "char_count": 1903,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/张华识龙肉/张华识龙肉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "循表涉河",
+      "title": "循表涉河",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/循表涉河",
+      "level": "L6",
+      "duration_ms": 594275,
+      "char_count": 2497,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/循表涉河/循表涉河.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "恶鬼技穷",
+      "title": "恶鬼技穷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/恶鬼技穷",
+      "level": "L6",
+      "duration_ms": 427137,
+      "char_count": 1774,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/恶鬼技穷/恶鬼技穷.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "愚公谷",
+      "title": "愚公谷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/愚公谷",
+      "level": "L6",
+      "duration_ms": 459739,
+      "char_count": 1910,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/愚公谷/愚公谷.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "扣盘扪烛",
+      "title": "扣盘扪烛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/扣盘扪烛",
+      "level": "L6",
+      "duration_ms": 447920,
+      "char_count": 1864,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/扣盘扪烛/扣盘扪烛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "执竿入城",
+      "title": "执竿入城",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/执竿入城",
+      "level": "L6",
+      "duration_ms": 398026,
+      "char_count": 1656,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/执竿入城/执竿入城.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "捕蛇者说",
+      "title": "捕蛇者说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/捕蛇者说",
+      "level": "L6",
+      "duration_ms": 502526,
+      "char_count": 2065,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/捕蛇者说/捕蛇者说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "掣肘难书",
+      "title": "掣肘难书",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/掣肘难书",
+      "level": "L6",
+      "duration_ms": 308635,
+      "char_count": 1318,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/掣肘难书/掣肘难书.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "揠苗助长",
+      "title": "揠苗助长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/揠苗助长",
+      "level": "L6",
+      "duration_ms": 420133,
+      "char_count": 1828,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/揠苗助长/揠苗助长.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "日喻",
+      "title": "日喻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/日喻",
+      "level": "L6",
+      "duration_ms": 549093,
+      "char_count": 2235,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/日喻/日喻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "智子疑邻",
+      "title": "智子疑邻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/智子疑邻",
+      "level": "L6",
+      "duration_ms": 458667,
+      "char_count": 1923,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/智子疑邻/智子疑邻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "曾参杀人",
+      "title": "曾参杀人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/曾参杀人",
+      "level": "L6",
+      "duration_ms": 487026,
+      "char_count": 2041,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/曾参杀人/曾参杀人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "曾子杀彘",
+      "title": "曾子杀彘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/曾子杀彘",
+      "level": "L6",
+      "duration_ms": 405168,
+      "char_count": 1821,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/曾子杀彘/曾子杀彘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "月攘一鸡",
+      "title": "月攘一鸡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/月攘一鸡",
+      "level": "L6",
+      "duration_ms": 578025,
+      "char_count": 2394,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/月攘一鸡/月攘一鸡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "望洋兴叹",
+      "title": "望洋兴叹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/望洋兴叹",
+      "level": "L6",
+      "duration_ms": 496523,
+      "char_count": 2091,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/望洋兴叹/望洋兴叹.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "李寄斩蛇",
+      "title": "李寄斩蛇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/李寄斩蛇",
+      "level": "L6",
+      "duration_ms": 634632,
+      "char_count": 2720,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/李寄斩蛇/李寄斩蛇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "材与不材之间",
+      "title": "材与不材之间",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/材与不材之间",
+      "level": "L6",
+      "duration_ms": 659166,
+      "char_count": 2669,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/材与不材之间/材与不材之间.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "杨布打狗",
+      "title": "杨布打狗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/杨布打狗",
+      "level": "L6",
+      "duration_ms": 390162,
+      "char_count": 1660,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/杨布打狗/杨布打狗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "林回弃璧",
+      "title": "林回弃璧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/林回弃璧",
+      "level": "L6",
+      "duration_ms": 475349,
+      "char_count": 1996,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/林回弃璧/林回弃璧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "格萨尔王降魔",
+      "title": "格萨尔王降魔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/格萨尔王降魔",
+      "level": "L6",
+      "duration_ms": 398169,
+      "char_count": 1772,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/格萨尔王降魔/格萨尔王降魔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "棘刺雕猴",
+      "title": "棘刺雕猴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/棘刺雕猴",
+      "level": "L6",
+      "duration_ms": 459915,
+      "char_count": 1934,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/棘刺雕猴/棘刺雕猴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "楚人学齐语",
+      "title": "楚人学齐语",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/楚人学齐语",
+      "level": "L6",
+      "duration_ms": 476022,
+      "char_count": 2045,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/楚人学齐语/楚人学齐语.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "歧路亡羊",
+      "title": "歧路亡羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/歧路亡羊",
+      "level": "L6",
+      "duration_ms": 367487,
+      "char_count": 1575,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/歧路亡羊/歧路亡羊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "永州之鼠",
+      "title": "永州之鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/永州之鼠",
+      "level": "L6",
+      "duration_ms": 608167,
+      "char_count": 2533,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/永州之鼠/永州之鼠.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "浑沌开窍",
+      "title": "浑沌开窍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/浑沌开窍",
+      "level": "L6",
+      "duration_ms": 593409,
+      "char_count": 2430,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/浑沌开窍/浑沌开窍.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "海上鸥鸟",
+      "title": "海上鸥鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/海上鸥鸟",
+      "level": "L6",
+      "duration_ms": 537094,
+      "char_count": 2281,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/海上鸥鸟/海上鸥鸟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "涸辙之鱼",
+      "title": "涸辙之鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/涸辙之鱼",
+      "level": "L6",
+      "duration_ms": 607954,
+      "char_count": 2600,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/涸辙之鱼/涸辙之鱼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "炳烛而学",
+      "title": "炳烛而学",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/炳烛而学",
+      "level": "L6",
+      "duration_ms": 436525,
+      "char_count": 1851,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/炳烛而学/炳烛而学.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "燕人还国",
+      "title": "燕人还国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/燕人还国",
+      "level": "L6",
+      "duration_ms": 506631,
+      "char_count": 2132,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/燕人还国/燕人还国.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狗猛酒酸",
+      "title": "狗猛酒酸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/狗猛酒酸",
+      "level": "L6",
+      "duration_ms": 329345,
+      "char_count": 1455,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/狗猛酒酸/狗猛酒酸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狙公之死",
+      "title": "狙公之死",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/狙公之死",
+      "level": "L6",
+      "duration_ms": 698452,
+      "char_count": 2921,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/狙公之死/狙公之死.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狼三则",
+      "title": "狼三则",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/狼三则",
+      "level": "L6",
+      "duration_ms": 343491,
+      "char_count": 1551,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/狼三则/狼三则.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猩猩好酒",
+      "title": "猩猩好酒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/猩猩好酒",
+      "level": "L6",
+      "duration_ms": 477381,
+      "char_count": 2102,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/猩猩好酒/猩猩好酒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猫头鹰搬家",
+      "title": "猫头鹰搬家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/猫头鹰搬家",
+      "level": "L6",
+      "duration_ms": 466814,
+      "char_count": 1905,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/猫头鹰搬家/猫头鹰搬家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猱搔虎痒",
+      "title": "猱搔虎痒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/猱搔虎痒",
+      "level": "L6",
+      "duration_ms": 573236,
+      "char_count": 2413,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/猱搔虎痒/猱搔虎痒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猴子逞能",
+      "title": "猴子逞能",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/猴子逞能",
+      "level": "L6",
+      "duration_ms": 480168,
+      "char_count": 2077,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/猴子逞能/猴子逞能.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "王戎识李",
+      "title": "王戎识李",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/王戎识李",
+      "level": "L6",
+      "duration_ms": 389736,
+      "char_count": 1697,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/王戎识李/王戎识李.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "盲人识日",
+      "title": "盲人识日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/盲人识日",
+      "level": "L6",
+      "duration_ms": 527773,
+      "char_count": 2223,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/盲人识日/盲人识日.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "祁黄羊荐贤",
+      "title": "祁黄羊荐贤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/祁黄羊荐贤",
+      "level": "L6",
+      "duration_ms": 474168,
+      "char_count": 2000,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/祁黄羊荐贤/祁黄羊荐贤.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "种树郭橐驼",
+      "title": "种树郭橐驼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/种树郭橐驼",
+      "level": "L6",
+      "duration_ms": 411884,
+      "char_count": 1720,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/种树郭橐驼/种树郭橐驼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿井得人",
+      "title": "穿井得人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/穿井得人",
+      "level": "L6",
+      "duration_ms": 412235,
+      "char_count": 1709,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/穿井得人/穿井得人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "管宁割席",
+      "title": "管宁割席",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/管宁割席",
+      "level": "L6",
+      "duration_ms": 592633,
+      "char_count": 2433,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/管宁割席/管宁割席.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "红线盗盒",
+      "title": "红线盗盒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/红线盗盒",
+      "level": "L6",
+      "duration_ms": 475561,
+      "char_count": 1970,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/红线盗盒/红线盗盒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "纪昌学射",
+      "title": "纪昌学射",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/纪昌学射",
+      "level": "L6",
+      "duration_ms": 467208,
+      "char_count": 1921,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/纪昌学射/纪昌学射.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "网开三面",
+      "title": "网开三面",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/网开三面",
+      "level": "L6",
+      "duration_ms": 395277,
+      "char_count": 1664,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/网开三面/网开三面.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老翁捕虎",
+      "title": "老翁捕虎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/老翁捕虎",
+      "level": "L6",
+      "duration_ms": 580416,
+      "char_count": 2448,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/老翁捕虎/老翁捕虎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "薛谭学讴",
+      "title": "薛谭学讴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/薛谭学讴",
+      "level": "L6",
+      "duration_ms": 493385,
+      "char_count": 2041,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/薛谭学讴/薛谭学讴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蜀贾卖药",
+      "title": "蜀贾卖药",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/蜀贾卖药",
+      "level": "L6",
+      "duration_ms": 448669,
+      "char_count": 1878,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/蜀贾卖药/蜀贾卖药.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蜗角之争",
+      "title": "蜗角之争",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/蜗角之争",
+      "level": "L6",
+      "duration_ms": 752739,
+      "char_count": 3240,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/蜗角之争/蜗角之争.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蝜蝂传",
+      "title": "蝜蝂传",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/蝜蝂传",
+      "level": "L6",
+      "duration_ms": 455777,
+      "char_count": 1918,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/蝜蝂传/蝜蝂传.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "讳疾忌医",
+      "title": "讳疾忌医",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/讳疾忌医",
+      "level": "L6",
+      "duration_ms": 381171,
+      "char_count": 1604,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/讳疾忌医/讳疾忌医.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "谢安泛海",
+      "title": "谢安泛海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/谢安泛海",
+      "level": "L6",
+      "duration_ms": 636699,
+      "char_count": 2704,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/谢安泛海/谢安泛海.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "象虎",
+      "title": "象虎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/象虎",
+      "level": "L6",
+      "duration_ms": 762125,
+      "char_count": 3246,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/象虎/象虎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "负薪救火",
+      "title": "负薪救火",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/负薪救火",
+      "level": "L6",
+      "duration_ms": 461914,
+      "char_count": 1997,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/负薪救火/负薪救火.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "赵人患鼠",
+      "title": "赵人患鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/赵人患鼠",
+      "level": "L6",
+      "duration_ms": 500024,
+      "char_count": 2122,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/赵人患鼠/赵人患鼠.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "越俎代庖",
+      "title": "越俎代庖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/越俎代庖",
+      "level": "L6",
+      "duration_ms": 519635,
+      "char_count": 2055,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/越俎代庖/越俎代庖.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "轮扁斫轮",
+      "title": "轮扁斫轮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/轮扁斫轮",
+      "level": "L6",
+      "duration_ms": 499343,
+      "char_count": 2040,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/轮扁斫轮/轮扁斫轮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "运斤成风",
+      "title": "运斤成风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/运斤成风",
+      "level": "L6",
+      "duration_ms": 273024,
+      "char_count": 1182,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/运斤成风/运斤成风.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "远水不救近火",
+      "title": "远水不救近火",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/远水不救近火",
+      "level": "L6",
+      "duration_ms": 505560,
+      "char_count": 2175,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/远水不救近火/远水不救近火.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "追女失妻",
+      "title": "追女失妻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/追女失妻",
+      "level": "L6",
+      "duration_ms": 691804,
+      "char_count": 2942,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/追女失妻/追女失妻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "逐臭之夫",
+      "title": "逐臭之夫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/逐臭之夫",
+      "level": "L6",
+      "duration_ms": 334994,
+      "char_count": 1428,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/逐臭之夫/逐臭之夫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "造父学车",
+      "title": "造父学车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/造父学车",
+      "level": "L6",
+      "duration_ms": 453028,
+      "char_count": 1898,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/造父学车/造父学车.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "道旁苦李",
+      "title": "道旁苦李",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/道旁苦李",
+      "level": "L6",
+      "duration_ms": 525664,
+      "char_count": 2236,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/道旁苦李/道旁苦李.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "郢书燕说",
+      "title": "郢书燕说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/郢书燕说",
+      "level": "L6",
+      "duration_ms": 514845,
+      "char_count": 2113,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/郢书燕说/郢书燕说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "长发妹",
+      "title": "长发妹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/长发妹",
+      "level": "L6",
+      "duration_ms": 508777,
+      "char_count": 2128,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/长发妹/长发妹.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "闽姝",
+      "title": "闽姝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/闽姝",
+      "level": "L6",
+      "duration_ms": 442454,
+      "char_count": 1884,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/闽姝/闽姝.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "马价十倍",
+      "title": "马价十倍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/马价十倍",
+      "level": "L6",
+      "duration_ms": 524561,
+      "char_count": 2211,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/马价十倍/马价十倍.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "骷髅说梦",
+      "title": "骷髅说梦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/骷髅说梦",
+      "level": "L6",
+      "duration_ms": 415667,
+      "char_count": 1706,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/骷髅说梦/骷髅说梦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鬼嘲夫子",
+      "title": "鬼嘲夫子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/鬼嘲夫子",
+      "level": "L6",
+      "duration_ms": 455491,
+      "char_count": 1888,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/鬼嘲夫子/鬼嘲夫子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鬼怕恶人",
+      "title": "鬼怕恶人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/鬼怕恶人",
+      "level": "L6",
+      "duration_ms": 436599,
+      "char_count": 1827,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/鬼怕恶人/鬼怕恶人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鲁侯养鸟",
+      "title": "鲁侯养鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/鲁侯养鸟",
+      "level": "L6",
+      "duration_ms": 465706,
+      "char_count": 1921,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/鲁侯养鸟/鲁侯养鸟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鲍子难客",
+      "title": "鲍子难客",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/鲍子难客",
+      "level": "L6",
+      "duration_ms": 462417,
+      "char_count": 1949,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/鲍子难客/鲍子难客.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "齐人攫金",
+      "title": "齐人攫金",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/齐人攫金",
+      "level": "L6",
+      "duration_ms": 465919,
+      "char_count": 1977,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/齐人攫金/齐人攫金.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "齐人有一妻一妾",
+      "title": "齐人有一妻一妾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/齐人有一妻一妾",
+      "level": "L6",
+      "duration_ms": 549165,
+      "char_count": 2267,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/齐人有一妻一妾/齐人有一妻一妾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "齿亡舌存",
+      "title": "齿亡舌存",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E6寓言故事/齿亡舌存",
+      "level": "L6",
+      "duration_ms": 398065,
+      "char_count": 1661,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/齿亡舌存/齿亡舌存.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

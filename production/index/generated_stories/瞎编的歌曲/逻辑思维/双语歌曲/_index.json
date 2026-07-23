@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/逻辑思维/双语歌曲",
+  "name": "双语歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/逻辑思维.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 20,
+  "entries": [
+    {
+      "entry_id": "ABAB规律-ABAB Pattern",
+      "title": "ABAB规律-ABAB Pattern",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/ABAB规律-ABAB Pattern"
+    },
+    {
+      "entry_id": "分析问题-Analyze Problem",
+      "title": "分析问题-Analyze Problem",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/分析问题-Analyze Problem"
+    },
+    {
+      "entry_id": "因为所以-Because Therefore",
+      "title": "因为所以-Because Therefore",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/因为所以-Because Therefore"
+    },
+    {
+      "entry_id": "因果关系-Cause and Effect",
+      "title": "因果关系-Cause and Effect",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/因果关系-Cause and Effect"
+    },
+    {
+      "entry_id": "图形规律-Shape Pattern",
+      "title": "图形规律-Shape Pattern",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/图形规律-Shape Pattern"
+    },
+    {
+      "entry_id": "多角度思考-Think Differently",
+      "title": "多角度思考-Think Differently",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/多角度思考-Think Differently"
+    },
+    {
+      "entry_id": "如果那么-If Then",
+      "title": "如果那么-If Then",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/如果那么-If Then"
+    },
+    {
+      "entry_id": "归纳推理-Inductive Reasoning",
+      "title": "归纳推理-Inductive Reasoning",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/归纳推理-Inductive Reasoning"
+    },
+    {
+      "entry_id": "找不同-Find the Odd One",
+      "title": "找不同-Find the Odd One",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/找不同-Find the Odd One"
+    },
+    {
+      "entry_id": "按大小分类-Sort by Size",
+      "title": "按大小分类-Sort by Size",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/按大小分类-Sort by Size"
+    },
+    {
+      "entry_id": "按形状分类-Sort by Shape",
+      "title": "按形状分类-Sort by Shape",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/按形状分类-Sort by Shape"
+    },
+    {
+      "entry_id": "按颜色分类-Sort by Color",
+      "title": "按颜色分类-Sort by Color",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/按颜色分类-Sort by Color"
+    },
+    {
+      "entry_id": "排除法-Process of Elimination",
+      "title": "排除法-Process of Elimination",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/排除法-Process of Elimination"
+    },
+    {
+      "entry_id": "提出方案-Brainstorm Solutions",
+      "title": "提出方案-Brainstorm Solutions",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/提出方案-Brainstorm Solutions"
+    },
+    {
+      "entry_id": "数字序列-Number Sequence",
+      "title": "数字序列-Number Sequence",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/数字序列-Number Sequence"
+    },
+    {
+      "entry_id": "演绎推理-Deductive Reasoning",
+      "title": "演绎推理-Deductive Reasoning",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/演绎推理-Deductive Reasoning"
+    },
+    {
+      "entry_id": "真假判断-True or False",
+      "title": "真假判断-True or False",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/真假判断-True or False"
+    },
+    {
+      "entry_id": "连锁反应-Chain Reaction",
+      "title": "连锁反应-Chain Reaction",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/连锁反应-Chain Reaction"
+    },
+    {
+      "entry_id": "预测下一个-Predict Next",
+      "title": "预测下一个-Predict Next",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/预测下一个-Predict Next"
+    },
+    {
+      "entry_id": "验证结果-Check Answer",
+      "title": "验证结果-Check Answer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/逻辑思维/双语歌曲/验证结果-Check Answer"
+    }
+  ]
+}

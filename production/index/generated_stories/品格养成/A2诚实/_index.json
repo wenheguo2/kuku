@@ -1,0 +1,2465 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "品格养成/A2诚实",
+  "name": "A2诚实",
+  "cover": {
+    "cover_image_url": "covers/generated/品格养成/A2诚实/A2诚实.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 175,
+  "entries": [
+    {
+      "entry_id": "不小心删掉爸爸的文件，我红着眼承认",
+      "title": "不小心删掉爸爸的文件，我红着眼承认",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/不小心删掉爸爸的文件，我红着眼承认",
+      "level": "L4",
+      "duration_ms": 406633,
+      "char_count": 1587,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/不小心删掉爸爸的文件，我红着眼承认/不小心删掉爸爸的文件，我红着眼承认.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心弄脏了新裤子，却说是别人弄的",
+      "title": "不小心弄脏了新裤子，却说是别人弄的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/不小心弄脏了新裤子，却说是别人弄的",
+      "level": "L4",
+      "duration_ms": 299135,
+      "char_count": 1174,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/不小心弄脏了新裤子，却说是别人弄的/不小心弄脏了新裤子，却说是别人弄的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心打翻教室的花盆，我假装去捡扫把",
+      "title": "不小心打翻教室的花盆，我假装去捡扫把",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/不小心打翻教室的花盆，我假装去捡扫把",
+      "level": "L4",
+      "duration_ms": 388523,
+      "char_count": 1526,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/不小心打翻教室的花盆，我假装去捡扫把/不小心打翻教室的花盆，我假装去捡扫把.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心把汤洒在桌布上我拿纸巾擦",
+      "title": "不小心把汤洒在桌布上我拿纸巾擦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/不小心把汤洒在桌布上我拿纸巾擦",
+      "level": "L4",
+      "duration_ms": 425993,
+      "char_count": 1665,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/不小心把汤洒在桌布上我拿纸巾擦/不小心把汤洒在桌布上我拿纸巾擦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心把颜料甩到墙上我拿来抹布",
+      "title": "不小心把颜料甩到墙上我拿来抹布",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/不小心把颜料甩到墙上我拿来抹布",
+      "level": "L4",
+      "duration_ms": 359779,
+      "char_count": 1427,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/不小心把颜料甩到墙上我拿来抹布/不小心把颜料甩到墙上我拿来抹布.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心把风筝挂在树上我承认是我扔的",
+      "title": "不小心把风筝挂在树上我承认是我扔的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/不小心把风筝挂在树上我承认是我扔的",
+      "level": "L4",
+      "duration_ms": 517914,
+      "char_count": 2038,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/不小心把风筝挂在树上我承认是我扔的/不小心把风筝挂在树上我承认是我扔的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心推倒了图书馆的书架",
+      "title": "不小心推倒了图书馆的书架",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/不小心推倒了图书馆的书架",
+      "level": "L4",
+      "duration_ms": 374493,
+      "char_count": 1462,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/不小心推倒了图书馆的书架/不小心推倒了图书馆的书架.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不小心推倒妹妹却说是妹妹自己摔的",
+      "title": "不小心推倒妹妹却说是妹妹自己摔的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/不小心推倒妹妹却说是妹妹自己摔的",
+      "level": "L4",
+      "duration_ms": 256276,
+      "char_count": 1004,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/不小心推倒妹妹却说是妹妹自己摔的/不小心推倒妹妹却说是妹妹自己摔的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不肯收拾玩具说玩具累了要睡觉",
+      "title": "不肯收拾玩具说玩具累了要睡觉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/不肯收拾玩具说玩具累了要睡觉",
+      "level": "L4",
+      "duration_ms": 420879,
+      "char_count": 1634,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/不肯收拾玩具说玩具累了要睡觉/不肯收拾玩具说玩具累了要睡觉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "为了不刷牙谎称牙刷不见了",
+      "title": "为了不刷牙谎称牙刷不见了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/为了不刷牙谎称牙刷不见了",
+      "level": "L4",
+      "duration_ms": 405951,
+      "char_count": 1574,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/为了不刷牙谎称牙刷不见了/为了不刷牙谎称牙刷不见了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "乐乐抢走玩具，后来乖乖还回去",
+      "title": "乐乐抢走玩具，后来乖乖还回去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/乐乐抢走玩具，后来乖乖还回去",
+      "level": "L4",
+      "duration_ms": 418135,
+      "char_count": 1649,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/乐乐抢走玩具，后来乖乖还回去/乐乐抢走玩具，后来乖乖还回去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "体育课故意绊倒对手的瞬间",
+      "title": "体育课故意绊倒对手的瞬间",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/体育课故意绊倒对手的瞬间",
+      "level": "L4",
+      "duration_ms": 239064,
+      "char_count": 919,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/体育课故意绊倒对手的瞬间/体育课故意绊倒对手的瞬间.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "体育课自己摔倒却怪别人，老师让我说实话",
+      "title": "体育课自己摔倒却怪别人，老师让我说实话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/体育课自己摔倒却怪别人，老师让我说实话",
+      "level": "L4",
+      "duration_ms": 407269,
+      "char_count": 1598,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/体育课自己摔倒却怪别人，老师让我说实话/体育课自己摔倒却怪别人，老师让我说实话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "作业没写完却撒谎说忘带了，老师看我的眼神",
+      "title": "作业没写完却撒谎说忘带了，老师看我的眼神",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/作业没写完却撒谎说忘带了，老师看我的眼神",
+      "level": "L4",
+      "duration_ms": 370027,
+      "char_count": 1460,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/作业没写完却撒谎说忘带了，老师看我的眼神/作业没写完却撒谎说忘带了，老师看我的眼神.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "借了同学的书忘归还，他问时我说没借过",
+      "title": "借了同学的书忘归还，他问时我说没借过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/借了同学的书忘归还，他问时我说没借过",
+      "level": "L4",
+      "duration_ms": 361131,
+      "char_count": 1402,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/借了同学的书忘归还，他问时我说没借过/借了同学的书忘归还，他问时我说没借过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "假装生病逃掉体育课之后",
+      "title": "假装生病逃掉体育课之后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/假装生病逃掉体育课之后",
+      "level": "L4",
+      "duration_ms": 392241,
+      "char_count": 1511,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/假装生病逃掉体育课之后/假装生病逃掉体育课之后.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷偷吃了冰箱里的蛋糕，留下空盒子",
+      "title": "偷偷吃了冰箱里的蛋糕，留下空盒子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷偷吃了冰箱里的蛋糕，留下空盒子",
+      "level": "L4",
+      "duration_ms": 393316,
+      "char_count": 1550,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷偷吃了冰箱里的蛋糕，留下空盒子/偷偷吃了冰箱里的蛋糕，留下空盒子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷偷拿了一块钱买零食，被发现了",
+      "title": "偷偷拿了一块钱买零食，被发现了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷偷拿了一块钱买零食，被发现了",
+      "level": "L4",
+      "duration_ms": 413814,
+      "char_count": 1610,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷偷拿了一块钱买零食，被发现了/偷偷拿了一块钱买零食，被发现了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷偷拿走小伙伴的贴纸说是自己买的",
+      "title": "偷偷拿走小伙伴的贴纸说是自己买的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷偷拿走小伙伴的贴纸说是自己买的",
+      "level": "L4",
+      "duration_ms": 469024,
+      "char_count": 1804,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷偷拿走小伙伴的贴纸说是自己买的/偷偷拿走小伙伴的贴纸说是自己买的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷偷撕坏绘本却说是弟弟干的",
+      "title": "偷偷撕坏绘本却说是弟弟干的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷偷撕坏绘本却说是弟弟干的",
+      "level": "L4",
+      "duration_ms": 403742,
+      "char_count": 1591,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷偷撕坏绘本却说是弟弟干的/偷偷撕坏绘本却说是弟弟干的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷偷用妈妈的化妆品画花了脸我笑着承认",
+      "title": "偷偷用妈妈的化妆品画花了脸我笑着承认",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷偷用妈妈的化妆品画花了脸我笑着承认",
+      "level": "L4",
+      "duration_ms": 441202,
+      "char_count": 1719,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷偷用妈妈的化妆品画花了脸我笑着承认/偷偷用妈妈的化妆品画花了脸我笑着承认.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷偷用零花钱买了游戏卡，怎么开口",
+      "title": "偷偷用零花钱买了游戏卡，怎么开口",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷偷用零花钱买了游戏卡，怎么开口",
+      "level": "L4",
+      "duration_ms": 311776,
+      "char_count": 1231,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷偷用零花钱买了游戏卡，怎么开口/偷偷用零花钱买了游戏卡，怎么开口.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷偷用零花钱给网友买了皮肤",
+      "title": "偷偷用零花钱给网友买了皮肤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷偷用零花钱给网友买了皮肤",
+      "level": "L4",
+      "duration_ms": 331850,
+      "char_count": 1293,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷偷用零花钱给网友买了皮肤/偷偷用零花钱给网友买了皮肤.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷偷看了同桌的答案，心里像揣了只兔子",
+      "title": "偷偷看了同桌的答案，心里像揣了只兔子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷偷看了同桌的答案，心里像揣了只兔子",
+      "level": "L4",
+      "duration_ms": 385739,
+      "char_count": 1519,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷偷看了同桌的答案，心里像揣了只兔子/偷偷看了同桌的答案，心里像揣了只兔子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷吃了橱柜里的饼干主动告诉妈妈",
+      "title": "偷吃了橱柜里的饼干主动告诉妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷吃了橱柜里的饼干主动告诉妈妈",
+      "level": "L4",
+      "duration_ms": 386346,
+      "char_count": 1521,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷吃了橱柜里的饼干主动告诉妈妈/偷吃了橱柜里的饼干主动告诉妈妈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷吃饼干却不承认嘴巴还沾着渣",
+      "title": "偷吃饼干却不承认嘴巴还沾着渣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷吃饼干却不承认嘴巴还沾着渣",
+      "level": "L4",
+      "duration_ms": 453028,
+      "char_count": 1781,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷吃饼干却不承认嘴巴还沾着渣/偷吃饼干却不承认嘴巴还沾着渣.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷吃饼干嘴角有渣承认了",
+      "title": "偷吃饼干嘴角有渣承认了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷吃饼干嘴角有渣承认了",
+      "level": "L4",
+      "duration_ms": 324634,
+      "char_count": 1282,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷吃饼干嘴角有渣承认了/偷吃饼干嘴角有渣承认了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷拿了一颗糖没付钱我拉着妈妈去付",
+      "title": "偷拿了一颗糖没付钱我拉着妈妈去付",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷拿了一颗糖没付钱我拉着妈妈去付",
+      "level": "L4",
+      "duration_ms": 317846,
+      "char_count": 1251,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷拿了一颗糖没付钱我拉着妈妈去付/偷拿了一颗糖没付钱我拉着妈妈去付.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷玩妈妈手机摔碎了屏，屏幕裂纹像蜘蛛网",
+      "title": "偷玩妈妈手机摔碎了屏，屏幕裂纹像蜘蛛网",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷玩妈妈手机摔碎了屏，屏幕裂纹像蜘蛛网",
+      "level": "L4",
+      "duration_ms": 635056,
+      "char_count": 2496,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷玩妈妈手机摔碎了屏，屏幕裂纹像蜘蛛网/偷玩妈妈手机摔碎了屏，屏幕裂纹像蜘蛛网.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "偷看别人日记被当场抓住",
+      "title": "偷看别人日记被当场抓住",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/偷看别人日记被当场抓住",
+      "level": "L4",
+      "duration_ms": 470668,
+      "char_count": 1814,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/偷看别人日记被当场抓住/偷看别人日记被当场抓住.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公园里弄坏别人的风筝线，我转身跑开了",
+      "title": "公园里弄坏别人的风筝线，我转身跑开了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/公园里弄坏别人的风筝线，我转身跑开了",
+      "level": "L4",
+      "duration_ms": 384134,
+      "char_count": 1507,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/公园里弄坏别人的风筝线，我转身跑开了/公园里弄坏别人的风筝线，我转身跑开了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吃了弟弟的巧克力却说是老鼠干的，香味出卖我",
+      "title": "吃了弟弟的巧克力却说是老鼠干的，香味出卖我",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/吃了弟弟的巧克力却说是老鼠干的，香味出卖我",
+      "level": "L4",
+      "duration_ms": 334525,
+      "char_count": 1319,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/吃了弟弟的巧克力却说是老鼠干的，香味出卖我/吃了弟弟的巧克力却说是老鼠干的，香味出卖我.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和同学一起欺负了小个子，深夜去道歉",
+      "title": "和同学一起欺负了小个子，深夜去道歉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/和同学一起欺负了小个子，深夜去道歉",
+      "level": "L4",
+      "duration_ms": 461558,
+      "char_count": 1809,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/和同学一起欺负了小个子，深夜去道歉/和同学一起欺负了小个子，深夜去道歉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和同学对答案时报了假数",
+      "title": "和同学对答案时报了假数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/和同学对答案时报了假数",
+      "level": "L4",
+      "duration_ms": 305132,
+      "char_count": 1182,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/和同学对答案时报了假数/和同学对答案时报了假数.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和妹妹吵架推倒了她，我主动去扶她",
+      "title": "和妹妹吵架推倒了她，我主动去扶她",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/和妹妹吵架推倒了她，我主动去扶她",
+      "level": "L4",
+      "duration_ms": 388312,
+      "char_count": 1539,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/和妹妹吵架推倒了她，我主动去扶她/和妹妹吵架推倒了她，我主动去扶她.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "喝牛奶时打翻了杯子我拿来拖把擦",
+      "title": "喝牛奶时打翻了杯子我拿来拖把擦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/喝牛奶时打翻了杯子我拿来拖把擦",
+      "level": "L4",
+      "duration_ms": 355351,
+      "char_count": 1413,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/喝牛奶时打翻了杯子我拿来拖把擦/喝牛奶时打翻了杯子我拿来拖把擦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在公园弄丢球低头认错",
+      "title": "在公园弄丢球低头认错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/在公园弄丢球低头认错",
+      "level": "L4",
+      "duration_ms": 381776,
+      "char_count": 1501,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/在公园弄丢球低头认错/在公园弄丢球低头认错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在图书馆撕破了书，我悄悄放回去了",
+      "title": "在图书馆撕破了书，我悄悄放回去了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/在图书馆撕破了书，我悄悄放回去了",
+      "level": "L4",
+      "duration_ms": 343635,
+      "char_count": 1356,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/在图书馆撕破了书，我悄悄放回去了/在图书馆撕破了书，我悄悄放回去了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在墙上贴满贴纸说是妈妈同意的",
+      "title": "在墙上贴满贴纸说是妈妈同意的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/在墙上贴满贴纸说是妈妈同意的",
+      "level": "L4",
+      "duration_ms": 490990,
+      "char_count": 1917,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/在墙上贴满贴纸说是妈妈同意的/在墙上贴满贴纸说是妈妈同意的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在奶奶家打碎青花茶杯，我躲到窗帘后面",
+      "title": "在奶奶家打碎青花茶杯，我躲到窗帘后面",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/在奶奶家打碎青花茶杯，我躲到窗帘后面",
+      "level": "L4",
+      "duration_ms": 427030,
+      "char_count": 1672,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/在奶奶家打碎青花茶杯，我躲到窗帘后面/在奶奶家打碎青花茶杯，我躲到窗帘后面.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在妈妈口红里掺了水彩笔",
+      "title": "在妈妈口红里掺了水彩笔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/在妈妈口红里掺了水彩笔",
+      "level": "L4",
+      "duration_ms": 279100,
+      "char_count": 1102,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/在妈妈口红里掺了水彩笔/在妈妈口红里掺了水彩笔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在学校走廊撞倒同学，我匆匆跑过假装没看见",
+      "title": "在学校走廊撞倒同学，我匆匆跑过假装没看见",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/在学校走廊撞倒同学，我匆匆跑过假装没看见",
+      "level": "L4",
+      "duration_ms": 351029,
+      "char_count": 1386,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/在学校走廊撞倒同学，我匆匆跑过假装没看见/在学校走廊撞倒同学，我匆匆跑过假装没看见.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在幼儿园尿裤子小声说",
+      "title": "在幼儿园尿裤子小声说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/在幼儿园尿裤子小声说",
+      "level": "L4",
+      "duration_ms": 320563,
+      "char_count": 1273,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/在幼儿园尿裤子小声说/在幼儿园尿裤子小声说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在操场上推倒同学后，我主动认错",
+      "title": "在操场上推倒同学后，我主动认错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/在操场上推倒同学后，我主动认错",
+      "level": "L4",
+      "duration_ms": 304170,
+      "char_count": 1164,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/在操场上推倒同学后，我主动认错/在操场上推倒同学后，我主动认错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在网上说了一句谎话，被朋友揭穿了",
+      "title": "在网上说了一句谎话，被朋友揭穿了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/在网上说了一句谎话，被朋友揭穿了",
+      "level": "L4",
+      "duration_ms": 372173,
+      "char_count": 1468,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/在网上说了一句谎话，被朋友揭穿了/在网上说了一句谎话，被朋友揭穿了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在超市偷偷拿糖放回去",
+      "title": "在超市偷偷拿糖放回去",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/在超市偷偷拿糖放回去",
+      "level": "L4",
+      "duration_ms": 298352,
+      "char_count": 1185,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/在超市偷偷拿糖放回去/在超市偷偷拿糖放回去.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好朋友让我帮他撒谎，我拒绝了",
+      "title": "好朋友让我帮他撒谎，我拒绝了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/好朋友让我帮他撒谎，我拒绝了",
+      "level": "L4",
+      "duration_ms": 410132,
+      "char_count": 1560,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/好朋友让我帮他撒谎，我拒绝了/好朋友让我帮他撒谎，我拒绝了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈手机里那笔隐藏的充值",
+      "title": "妈妈手机里那笔隐藏的充值",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/妈妈手机里那笔隐藏的充值",
+      "level": "L4",
+      "duration_ms": 444600,
+      "char_count": 1719,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/妈妈手机里那笔隐藏的充值/妈妈手机里那笔隐藏的充值.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "嫉妒好朋友得了第一名，我藏起了她的奖状",
+      "title": "嫉妒好朋友得了第一名，我藏起了她的奖状",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/嫉妒好朋友得了第一名，我藏起了她的奖状",
+      "level": "L4",
+      "duration_ms": 404100,
+      "char_count": 1575,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/嫉妒好朋友得了第一名，我藏起了她的奖状/嫉妒好朋友得了第一名，我藏起了她的奖状.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝吃饭撒一地，认错说下次小心",
+      "title": "宝宝吃饭撒一地，认错说下次小心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝吃饭撒一地，认错说下次小心",
+      "level": "L4",
+      "duration_ms": 359134,
+      "char_count": 1400,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝吃饭撒一地，认错说下次小心/宝宝吃饭撒一地，认错说下次小心.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝尿湿裤子，红脸告诉妈妈",
+      "title": "宝宝尿湿裤子，红脸告诉妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝尿湿裤子，红脸告诉妈妈",
+      "level": "L4",
+      "duration_ms": 298920,
+      "char_count": 1178,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝尿湿裤子，红脸告诉妈妈/宝宝尿湿裤子，红脸告诉妈妈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝弄丢小布熊，哭着找妈妈坦白",
+      "title": "宝宝弄丢小布熊，哭着找妈妈坦白",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝弄丢小布熊，哭着找妈妈坦白",
+      "level": "L4",
+      "duration_ms": 274638,
+      "char_count": 1104,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝弄丢小布熊，哭着找妈妈坦白/宝宝弄丢小布熊，哭着找妈妈坦白.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝弄乱拼图，一片片捡起道歉",
+      "title": "宝宝弄乱拼图，一片片捡起道歉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝弄乱拼图，一片片捡起道歉",
+      "level": "L4",
+      "duration_ms": 413347,
+      "char_count": 1635,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝弄乱拼图，一片片捡起道歉/宝宝弄乱拼图，一片片捡起道歉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝打碎杯子，铛啷声后说抱歉",
+      "title": "宝宝打碎杯子，铛啷声后说抱歉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝打碎杯子，铛啷声后说抱歉",
+      "level": "L4",
+      "duration_ms": 250777,
+      "char_count": 987,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝打碎杯子，铛啷声后说抱歉/宝宝打碎杯子，铛啷声后说抱歉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝打翻牛奶，咿呀说对不起",
+      "title": "宝宝打翻牛奶，咿呀说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝打翻牛奶，咿呀说对不起",
+      "level": "L4",
+      "duration_ms": 355133,
+      "char_count": 1398,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝打翻牛奶，咿呀说对不起/宝宝打翻牛奶，咿呀说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝把书扔水里，捞起来哇哇哭",
+      "title": "宝宝把书扔水里，捞起来哇哇哭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝把书扔水里，捞起来哇哇哭",
+      "level": "L4",
+      "duration_ms": 467383,
+      "char_count": 1828,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝把书扔水里，捞起来哇哇哭/宝宝把书扔水里，捞起来哇哇哭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝推倒小伙伴，扶起来说对不起",
+      "title": "宝宝推倒小伙伴，扶起来说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝推倒小伙伴，扶起来说对不起",
+      "level": "L4",
+      "duration_ms": 476847,
+      "char_count": 1880,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝推倒小伙伴，扶起来说对不起/宝宝推倒小伙伴，扶起来说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝摔跤怪地板，最后说“我笨”",
+      "title": "宝宝摔跤怪地板，最后说“我笨”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝摔跤怪地板，最后说“我笨”",
+      "level": "L6",
+      "duration_ms": 148500,
+      "char_count": 659,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝摔跤怪地板，最后说“我笨”/宝宝摔跤怪地板，最后说“我笨”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝碰倒水杯，哗啦水洒一地",
+      "title": "宝宝碰倒水杯，哗啦水洒一地",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝碰倒水杯，哗啦水洒一地",
+      "level": "L4",
+      "duration_ms": 261173,
+      "char_count": 1036,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝碰倒水杯，哗啦水洒一地/宝宝碰倒水杯，哗啦水洒一地.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝穿反鞋子，歪歪扭扭说不对",
+      "title": "宝宝穿反鞋子，歪歪扭扭说不对",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝穿反鞋子，歪歪扭扭说不对",
+      "level": "L4",
+      "duration_ms": 372204,
+      "char_count": 1454,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝穿反鞋子，歪歪扭扭说不对/宝宝穿反鞋子，歪歪扭扭说不对.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宝宝藏起爸爸眼镜，拿出来还他",
+      "title": "宝宝藏起爸爸眼镜，拿出来还他",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/宝宝藏起爸爸眼镜，拿出来还他",
+      "level": "L4",
+      "duration_ms": 257636,
+      "char_count": 1020,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/宝宝藏起爸爸眼镜，拿出来还他/宝宝藏起爸爸眼镜，拿出来还他.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔撕破图画，低头说“我错了”",
+      "title": "小兔撕破图画，低头说“我错了”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小兔撕破图画，低头说“我错了”",
+      "level": "L4",
+      "duration_ms": 251170,
+      "char_count": 991,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小兔撕破图画，低头说“我错了”/小兔撕破图画，低头说“我错了”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小兔踩到小猫脚，赶紧说“对不起”",
+      "title": "小兔踩到小猫脚，赶紧说“对不起”",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小兔踩到小猫脚，赶紧说“对不起”",
+      "level": "L4",
+      "duration_ms": 364452,
+      "char_count": 1435,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小兔踩到小猫脚，赶紧说“对不起”/小兔踩到小猫脚，赶紧说“对不起”.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小松鼠画图出线，涂涂改改认错",
+      "title": "小松鼠画图出线，涂涂改改认错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小松鼠画图出线，涂涂改改认错",
+      "level": "L4",
+      "duration_ms": 321417,
+      "char_count": 1279,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小松鼠画图出线，涂涂改改认错/小松鼠画图出线，涂涂改改认错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小海豚打翻水杯在桌上，赶紧擦",
+      "title": "小海豚打翻水杯在桌上，赶紧擦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小海豚打翻水杯在桌上，赶紧擦",
+      "level": "L4",
+      "duration_ms": 296063,
+      "char_count": 1174,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小海豚打翻水杯在桌上，赶紧擦/小海豚打翻水杯在桌上，赶紧擦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小熊弄倒积木，哇哇哭着承认",
+      "title": "小熊弄倒积木，哇哇哭着承认",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小熊弄倒积木，哇哇哭着承认",
+      "level": "L4",
+      "duration_ms": 328171,
+      "char_count": 1278,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小熊弄倒积木，哇哇哭着承认/小熊弄倒积木，哇哇哭着承认.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小熊猫藏起玩具，妈妈问时点头",
+      "title": "小熊猫藏起玩具，妈妈问时点头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小熊猫藏起玩具，妈妈问时点头",
+      "level": "L4",
+      "duration_ms": 345778,
+      "char_count": 1362,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小熊猫藏起玩具，妈妈问时点头/小熊猫藏起玩具，妈妈问时点头.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小狗狗在墙上画，擦不掉哇哇哭",
+      "title": "小狗狗在墙上画，擦不掉哇哇哭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小狗狗在墙上画，擦不掉哇哇哭",
+      "level": "L4",
+      "duration_ms": 464095,
+      "char_count": 1830,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小狗狗在墙上画，擦不掉哇哇哭/小狗狗在墙上画，擦不掉哇哇哭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小猫咪偷吃饼干，嘴边渣渣露馅",
+      "title": "小猫咪偷吃饼干，嘴边渣渣露馅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小猫咪偷吃饼干，嘴边渣渣露馅",
+      "level": "L4",
+      "duration_ms": 292096,
+      "char_count": 1145,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小猫咪偷吃饼干，嘴边渣渣露馅/小猫咪偷吃饼干，嘴边渣渣露馅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小猴子弄脏妈妈口红，悄悄承认",
+      "title": "小猴子弄脏妈妈口红，悄悄承认",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小猴子弄脏妈妈口红，悄悄承认",
+      "level": "L4",
+      "duration_ms": 339602,
+      "char_count": 1356,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小猴子弄脏妈妈口红，悄悄承认/小猴子弄脏妈妈口红，悄悄承认.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小组作业没做却推说搭档没通知，搭档低下头",
+      "title": "小组作业没做却推说搭档没通知，搭档低下头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小组作业没做却推说搭档没通知，搭档低下头",
+      "level": "L4",
+      "duration_ms": 360562,
+      "char_count": 1393,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小组作业没做却推说搭档没通知，搭档低下头/小组作业没做却推说搭档没通知，搭档低下头.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小羊弄脏新衣服，搓搓手指认错",
+      "title": "小羊弄脏新衣服，搓搓手指认错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小羊弄脏新衣服，搓搓手指认错",
+      "level": "L4",
+      "duration_ms": 294241,
+      "char_count": 1150,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小羊弄脏新衣服，搓搓手指认错/小羊弄脏新衣服，搓搓手指认错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小象在早教班打翻教具，主动捡",
+      "title": "小象在早教班打翻教具，主动捡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小象在早教班打翻教具，主动捡",
+      "level": "L4",
+      "duration_ms": 342884,
+      "char_count": 1356,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小象在早教班打翻教具，主动捡/小象在早教班打翻教具，主动捡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小鸭子打翻颜料，脏兮兮认错",
+      "title": "小鸭子打翻颜料，脏兮兮认错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/小鸭子打翻颜料，脏兮兮认错",
+      "level": "L4",
+      "duration_ms": 414417,
+      "char_count": 1625,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/小鸭子打翻颜料，脏兮兮认错/小鸭子打翻颜料，脏兮兮认错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "尿床后悄悄把被子藏到床底下",
+      "title": "尿床后悄悄把被子藏到床底下",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/尿床后悄悄把被子藏到床底下",
+      "level": "L4",
+      "duration_ms": 381423,
+      "char_count": 1499,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/尿床后悄悄把被子藏到床底下/尿床后悄悄把被子藏到床底下.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "帮同学保守作弊秘密，心里越来越不安",
+      "title": "帮同学保守作弊秘密，心里越来越不安",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/帮同学保守作弊秘密，心里越来越不安",
+      "level": "L4",
+      "duration_ms": 569242,
+      "char_count": 2166,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/帮同学保守作弊秘密，心里越来越不安/帮同学保守作弊秘密，心里越来越不安.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弄丢了妈妈给我的硬币我哭着说真话",
+      "title": "弄丢了妈妈给我的硬币我哭着说真话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/弄丢了妈妈给我的硬币我哭着说真话",
+      "level": "L4",
+      "duration_ms": 436561,
+      "char_count": 1707,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/弄丢了妈妈给我的硬币我哭着说真话/弄丢了妈妈给我的硬币我哭着说真话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弄丢了幼儿园的图书我向老师承认",
+      "title": "弄丢了幼儿园的图书我向老师承认",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/弄丢了幼儿园的图书我向老师承认",
+      "level": "L4",
+      "duration_ms": 401887,
+      "char_count": 1552,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/弄丢了幼儿园的图书我向老师承认/弄丢了幼儿园的图书我向老师承认.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弄丢贴纸哭着承认了",
+      "title": "弄丢贴纸哭着承认了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/弄丢贴纸哭着承认了",
+      "level": "L4",
+      "duration_ms": 324886,
+      "char_count": 1287,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/弄丢贴纸哭着承认了/弄丢贴纸哭着承认了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弄坏爸爸珍藏的旧打火机",
+      "title": "弄坏爸爸珍藏的旧打火机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/弄坏爸爸珍藏的旧打火机",
+      "level": "L4",
+      "duration_ms": 426633,
+      "char_count": 1652,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/弄坏爸爸珍藏的旧打火机/弄坏爸爸珍藏的旧打火机.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弄掉爸爸眼镜捡起来说",
+      "title": "弄掉爸爸眼镜捡起来说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/弄掉爸爸眼镜捡起来说",
+      "level": "L4",
+      "duration_ms": 454918,
+      "char_count": 1782,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/弄掉爸爸眼镜捡起来说/弄掉爸爸眼镜捡起来说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弄脏小朋友衣服说对不起",
+      "title": "弄脏小朋友衣服说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/弄脏小朋友衣服说对不起",
+      "level": "L4",
+      "duration_ms": 524813,
+      "char_count": 2059,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/弄脏小朋友衣服说对不起/弄脏小朋友衣服说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弄脏画纸红着脸找老师",
+      "title": "弄脏画纸红着脸找老师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/弄脏画纸红着脸找老师",
+      "level": "L4",
+      "duration_ms": 398778,
+      "char_count": 1576,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/弄脏画纸红着脸找老师/弄脏画纸红着脸找老师.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想自己骑车去上学，结果刮了别人的车",
+      "title": "想自己骑车去上学，结果刮了别人的车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/想自己骑车去上学，结果刮了别人的车",
+      "level": "L4",
+      "duration_ms": 592089,
+      "char_count": 2288,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/想自己骑车去上学，结果刮了别人的车/想自己骑车去上学，结果刮了别人的车.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "我偷偷删了同桌的游戏存档",
+      "title": "我偷偷删了同桌的游戏存档",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/我偷偷删了同桌的游戏存档",
+      "level": "L4",
+      "duration_ms": 721090,
+      "char_count": 2731,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/我偷偷删了同桌的游戏存档/我偷偷删了同桌的游戏存档.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打破玻璃杯后哭着说是风吹的",
+      "title": "打破玻璃杯后哭着说是风吹的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/打破玻璃杯后哭着说是风吹的",
+      "level": "L4",
+      "duration_ms": 345243,
+      "char_count": 1348,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/打破玻璃杯后哭着说是风吹的/打破玻璃杯后哭着说是风吹的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打碎妈妈的花瓶后，我手心直冒汗",
+      "title": "打碎妈妈的花瓶后，我手心直冒汗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/打碎妈妈的花瓶后，我手心直冒汗",
+      "level": "L4",
+      "duration_ms": 424812,
+      "char_count": 1662,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/打碎妈妈的花瓶后，我手心直冒汗/打碎妈妈的花瓶后，我手心直冒汗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打碎妈妈的花瓶后，我选择说实话",
+      "title": "打碎妈妈的花瓶后，我选择说实话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/打碎妈妈的花瓶后，我选择说实话",
+      "level": "L4",
+      "duration_ms": 421096,
+      "char_count": 1644,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/打碎妈妈的花瓶后，我选择说实话/打碎妈妈的花瓶后，我选择说实话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打碎妈妈的花瓶我主动捡起碎片",
+      "title": "打碎妈妈的花瓶我主动捡起碎片",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/打碎妈妈的花瓶我主动捡起碎片",
+      "level": "L4",
+      "duration_ms": 365671,
+      "char_count": 1444,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/打碎妈妈的花瓶我主动捡起碎片/打碎妈妈的花瓶我主动捡起碎片.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打碎教室玻璃后我举起了手",
+      "title": "打碎教室玻璃后我举起了手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/打碎教室玻璃后我举起了手",
+      "level": "L4",
+      "duration_ms": 255851,
+      "char_count": 1007,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/打碎教室玻璃后我举起了手/打碎教室玻璃后我举起了手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打碎花盆捧碎片找奶奶",
+      "title": "打碎花盆捧碎片找奶奶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/打碎花盆捧碎片找奶奶",
+      "level": "L4",
+      "duration_ms": 346097,
+      "char_count": 1368,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/打碎花盆捧碎片找奶奶/打碎花盆捧碎片找奶奶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打翻了爸爸的咖啡杯我赶紧拿抹布",
+      "title": "打翻了爸爸的咖啡杯我赶紧拿抹布",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/打翻了爸爸的咖啡杯我赶紧拿抹布",
+      "level": "L4",
+      "duration_ms": 413455,
+      "char_count": 1623,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/打翻了爸爸的咖啡杯我赶紧拿抹布/打翻了爸爸的咖啡杯我赶紧拿抹布.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打翻牛奶后他指着小猫说不是我",
+      "title": "打翻牛奶后他指着小猫说不是我",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/打翻牛奶后他指着小猫说不是我",
+      "level": "L4",
+      "duration_ms": 396279,
+      "char_count": 1550,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/打翻牛奶后他指着小猫说不是我/打翻牛奶后他指着小猫说不是我.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打翻牛奶杯后悄悄告诉妈妈",
+      "title": "打翻牛奶杯后悄悄告诉妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/打翻牛奶杯后悄悄告诉妈妈",
+      "level": "L4",
+      "duration_ms": 318459,
+      "char_count": 1264,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/打翻牛奶杯后悄悄告诉妈妈/打翻牛奶杯后悄悄告诉妈妈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "扔石子砸碎窗户说是小鸟闯的祸",
+      "title": "扔石子砸碎窗户说是小鸟闯的祸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/扔石子砸碎窗户说是小鸟闯的祸",
+      "level": "L4",
+      "duration_ms": 406135,
+      "char_count": 1577,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/扔石子砸碎窗户说是小鸟闯的祸/扔石子砸碎窗户说是小鸟闯的祸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把书撕破了一页我用胶带小心粘好",
+      "title": "把书撕破了一页我用胶带小心粘好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把书撕破了一页我用胶带小心粘好",
+      "level": "L4",
+      "duration_ms": 452241,
+      "char_count": 1758,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把书撕破了一页我用胶带小心粘好/把书撕破了一页我用胶带小心粘好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把书架上的书弄乱说是有妖怪",
+      "title": "把书架上的书弄乱说是有妖怪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把书架上的书弄乱说是有妖怪",
+      "level": "L4",
+      "duration_ms": 349170,
+      "char_count": 1374,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把书架上的书弄乱说是有妖怪/把书架上的书弄乱说是有妖怪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把冰淇淋掉在地上说是太滑了",
+      "title": "把冰淇淋掉在地上说是太滑了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把冰淇淋掉在地上说是太滑了",
+      "level": "L4",
+      "duration_ms": 389454,
+      "char_count": 1523,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把冰淇淋掉在地上说是太滑了/把冰淇淋掉在地上说是太滑了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把同学的新笔弄坏了，我拿出自己的赔",
+      "title": "把同学的新笔弄坏了，我拿出自己的赔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把同学的新笔弄坏了，我拿出自己的赔",
+      "level": "L4",
+      "duration_ms": 319280,
+      "char_count": 1262,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把同学的新笔弄坏了，我拿出自己的赔/把同学的新笔弄坏了，我拿出自己的赔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把哥哥的奖状折成了纸飞机",
+      "title": "把哥哥的奖状折成了纸飞机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把哥哥的奖状折成了纸飞机",
+      "level": "L4",
+      "duration_ms": 419704,
+      "char_count": 1625,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把哥哥的奖状折成了纸飞机/把哥哥的奖状折成了纸飞机.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把墙画花了拿抹布去擦",
+      "title": "把墙画花了拿抹布去擦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把墙画花了拿抹布去擦",
+      "level": "L4",
+      "duration_ms": 499955,
+      "char_count": 1945,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把墙画花了拿抹布去擦/把墙画花了拿抹布去擦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把妹妹的拼图藏起来一块",
+      "title": "把妹妹的拼图藏起来一块",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把妹妹的拼图藏起来一块",
+      "level": "L4",
+      "duration_ms": 352098,
+      "char_count": 1389,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把妹妹的拼图藏起来一块/把妹妹的拼图藏起来一块.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把妹妹的玩具小马摔断了腿，她哭得好伤心",
+      "title": "把妹妹的玩具小马摔断了腿，她哭得好伤心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把妹妹的玩具小马摔断了腿，她哭得好伤心",
+      "level": "L4",
+      "duration_ms": 665274,
+      "char_count": 2628,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把妹妹的玩具小马摔断了腿，她哭得好伤心/把妹妹的玩具小马摔断了腿，她哭得好伤心.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把家里的猫咪弄丢了，我哭着说实话",
+      "title": "把家里的猫咪弄丢了，我哭着说实话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把家里的猫咪弄丢了，我哭着说实话",
+      "level": "L4",
+      "duration_ms": 325028,
+      "char_count": 1281,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把家里的猫咪弄丢了，我哭着说实话/把家里的猫咪弄丢了，我哭着说实话.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把家里的遥控器摔碎了我主动拿出来",
+      "title": "把家里的遥控器摔碎了我主动拿出来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把家里的遥控器摔碎了我主动拿出来",
+      "level": "L4",
+      "duration_ms": 405243,
+      "char_count": 1619,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把家里的遥控器摔碎了我主动拿出来/把家里的遥控器摔碎了我主动拿出来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把幼儿园的蜡笔弄断了我告诉老师",
+      "title": "把幼儿园的蜡笔弄断了我告诉老师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把幼儿园的蜡笔弄断了我告诉老师",
+      "level": "L4",
+      "duration_ms": 359347,
+      "char_count": 1408,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把幼儿园的蜡笔弄断了我告诉老师/把幼儿园的蜡笔弄断了我告诉老师.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把弟弟的积木推倒了赶紧帮忙重新搭",
+      "title": "把弟弟的积木推倒了赶紧帮忙重新搭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把弟弟的积木推倒了赶紧帮忙重新搭",
+      "level": "L4",
+      "duration_ms": 511668,
+      "char_count": 2006,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把弟弟的积木推倒了赶紧帮忙重新搭/把弟弟的积木推倒了赶紧帮忙重新搭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把朋友的秘密告诉了第三者",
+      "title": "把朋友的秘密告诉了第三者",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把朋友的秘密告诉了第三者",
+      "level": "L4",
+      "duration_ms": 354097,
+      "char_count": 1371,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把朋友的秘密告诉了第三者/把朋友的秘密告诉了第三者.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把果汁洒在地毯上赶紧用玩具盖住",
+      "title": "把果汁洒在地毯上赶紧用玩具盖住",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把果汁洒在地毯上赶紧用玩具盖住",
+      "level": "L4",
+      "duration_ms": 446384,
+      "char_count": 1740,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把果汁洒在地毯上赶紧用玩具盖住/把果汁洒在地毯上赶紧用玩具盖住.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把爷爷的老花镜弄丢了我帮忙一起找",
+      "title": "把爷爷的老花镜弄丢了我帮忙一起找",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把爷爷的老花镜弄丢了我帮忙一起找",
+      "level": "L4",
+      "duration_ms": 359310,
+      "char_count": 1425,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把爷爷的老花镜弄丢了我帮忙一起找/把爷爷的老花镜弄丢了我帮忙一起找.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把爸爸的眼镜摔坏了我跑去书房认错",
+      "title": "把爸爸的眼镜摔坏了我跑去书房认错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把爸爸的眼镜摔坏了我跑去书房认错",
+      "level": "L4",
+      "duration_ms": 372706,
+      "char_count": 1459,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把爸爸的眼镜摔坏了我跑去书房认错/把爸爸的眼镜摔坏了我跑去书房认错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把玩具汽车拆坏了我主动告诉爸爸",
+      "title": "把玩具汽车拆坏了我主动告诉爸爸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把玩具汽车拆坏了我主动告诉爸爸",
+      "level": "L4",
+      "duration_ms": 501777,
+      "char_count": 1978,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把玩具汽车拆坏了我主动告诉爸爸/把玩具汽车拆坏了我主动告诉爸爸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把玩具藏起来主动归还",
+      "title": "把玩具藏起来主动归还",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把玩具藏起来主动归还",
+      "level": "L4",
+      "duration_ms": 354242,
+      "char_count": 1390,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把玩具藏起来主动归还/把玩具藏起来主动归还.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把玩具车摔坏后谎称是它自己坏的",
+      "title": "把玩具车摔坏后谎称是它自己坏的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把玩具车摔坏后谎称是它自己坏的",
+      "level": "L4",
+      "duration_ms": 513668,
+      "char_count": 1974,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把玩具车摔坏后谎称是它自己坏的/把玩具车摔坏后谎称是它自己坏的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把班级盆栽浇死后的坦白",
+      "title": "把班级盆栽浇死后的坦白",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把班级盆栽浇死后的坦白",
+      "level": "L4",
+      "duration_ms": 333709,
+      "char_count": 1310,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把班级盆栽浇死后的坦白/把班级盆栽浇死后的坦白.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把积木扔得到处都是却假装没看见",
+      "title": "把积木扔得到处都是却假装没看见",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把积木扔得到处都是却假装没看见",
+      "level": "L4",
+      "duration_ms": 517205,
+      "char_count": 2011,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把积木扔得到处都是却假装没看见/把积木扔得到处都是却假装没看见.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把积木筑的城堡推倒说是恐龙干的",
+      "title": "把积木筑的城堡推倒说是恐龙干的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把积木筑的城堡推倒说是恐龙干的",
+      "level": "L4",
+      "duration_ms": 431208,
+      "char_count": 1674,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把积木筑的城堡推倒说是恐龙干的/把积木筑的城堡推倒说是恐龙干的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把糖果纸扔在马路上我捡起来扔垃圾桶",
+      "title": "把糖果纸扔在马路上我捡起来扔垃圾桶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把糖果纸扔在马路上我捡起来扔垃圾桶",
+      "level": "L4",
+      "duration_ms": 414493,
+      "char_count": 1633,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把糖果纸扔在马路上我捡起来扔垃圾桶/把糖果纸扔在马路上我捡起来扔垃圾桶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把肥皂泡吹到沙发上假装没看见",
+      "title": "把肥皂泡吹到沙发上假装没看见",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把肥皂泡吹到沙发上假装没看见",
+      "level": "L4",
+      "duration_ms": 527348,
+      "char_count": 2066,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把肥皂泡吹到沙发上假装没看见/把肥皂泡吹到沙发上假装没看见.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把遥控器藏起来说是爸爸自己弄丢的",
+      "title": "把遥控器藏起来说是爸爸自己弄丢的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把遥控器藏起来说是爸爸自己弄丢的",
+      "level": "L4",
+      "duration_ms": 325560,
+      "char_count": 1286,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把遥控器藏起来说是爸爸自己弄丢的/把遥控器藏起来说是爸爸自己弄丢的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把邻居家的门铃按了就跑我回去说对不起",
+      "title": "把邻居家的门铃按了就跑我回去说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把邻居家的门铃按了就跑我回去说对不起",
+      "level": "L4",
+      "duration_ms": 384668,
+      "char_count": 1507,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把邻居家的门铃按了就跑我回去说对不起/把邻居家的门铃按了就跑我回去说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把鞋子穿反了说就是这样才酷",
+      "title": "把鞋子穿反了说就是这样才酷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把鞋子穿反了说就是这样才酷",
+      "level": "L4",
+      "duration_ms": 387739,
+      "char_count": 1496,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把鞋子穿反了说就是这样才酷/把鞋子穿反了说就是这样才酷.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把颜料染到衣服上说是小雨滴",
+      "title": "把颜料染到衣服上说是小雨滴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把颜料染到衣服上说是小雨滴",
+      "level": "L4",
+      "duration_ms": 341133,
+      "char_count": 1321,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把颜料染到衣服上说是小雨滴/把颜料染到衣服上说是小雨滴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "把饭粒撒一地自己拿扫帚",
+      "title": "把饭粒撒一地自己拿扫帚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/把饭粒撒一地自己拿扫帚",
+      "level": "L4",
+      "duration_ms": 535957,
+      "char_count": 2107,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/把饭粒撒一地自己拿扫帚/把饭粒撒一地自己拿扫帚.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "抢了积木主动说对不起",
+      "title": "抢了积木主动说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/抢了积木主动说对不起",
+      "level": "L4",
+      "duration_ms": 472811,
+      "char_count": 1850,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/抢了积木主动说对不起/抢了积木主动说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "抢走小朋友的橡皮泥躲进角落",
+      "title": "抢走小朋友的橡皮泥躲进角落",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/抢走小朋友的橡皮泥躲进角落",
+      "level": "L4",
+      "duration_ms": 462489,
+      "char_count": 1818,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/抢走小朋友的橡皮泥躲进角落/抢走小朋友的橡皮泥躲进角落.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拼图扔满地自己收拾好",
+      "title": "拼图扔满地自己收拾好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/拼图扔满地自己收拾好",
+      "level": "L4",
+      "duration_ms": 413203,
+      "char_count": 1629,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/拼图扔满地自己收拾好/拼图扔满地自己收拾好.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拿了同学的闪光贴纸，妈妈问起时我耳朵发烫",
+      "title": "拿了同学的闪光贴纸，妈妈问起时我耳朵发烫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/拿了同学的闪光贴纸，妈妈问起时我耳朵发烫",
+      "level": "L4",
+      "duration_ms": 288601,
+      "char_count": 1134,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/拿了同学的闪光贴纸，妈妈问起时我耳朵发烫/拿了同学的闪光贴纸，妈妈问起时我耳朵发烫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "推了小伙伴排队说抱歉",
+      "title": "推了小伙伴排队说抱歉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/推了小伙伴排队说抱歉",
+      "level": "L4",
+      "duration_ms": 372059,
+      "char_count": 1475,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/推了小伙伴排队说抱歉/推了小伙伴排队说抱歉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "摔坏玩具车低头告诉爸爸",
+      "title": "摔坏玩具车低头告诉爸爸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/摔坏玩具车低头告诉爸爸",
+      "level": "L4",
+      "duration_ms": 440671,
+      "char_count": 1740,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/摔坏玩具车低头告诉爸爸/摔坏玩具车低头告诉爸爸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "撒谎说作业忘带了的那天早晨",
+      "title": "撒谎说作业忘带了的那天早晨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/撒谎说作业忘带了的那天早晨",
+      "level": "L4",
+      "duration_ms": 355957,
+      "char_count": 1391,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/撒谎说作业忘带了的那天早晨/撒谎说作业忘带了的那天早晨.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "撕掉爸爸的重要文件说不知道",
+      "title": "撕掉爸爸的重要文件说不知道",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/撕掉爸爸的重要文件说不知道",
+      "level": "L4",
+      "duration_ms": 449842,
+      "char_count": 1766,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/撕掉爸爸的重要文件说不知道/撕掉爸爸的重要文件说不知道.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "撕破图书馆的书页，我把它悄悄放回架子",
+      "title": "撕破图书馆的书页，我把它悄悄放回架子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/撕破图书馆的书页，我把它悄悄放回架子",
+      "level": "L4",
+      "duration_ms": 446312,
+      "char_count": 1742,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/撕破图书馆的书页，我把它悄悄放回架子/撕破图书馆的书页，我把它悄悄放回架子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "撕破绘本抱着书找妈妈",
+      "title": "撕破绘本抱着书找妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/撕破绘本抱着书找妈妈",
+      "level": "L4",
+      "duration_ms": 385601,
+      "char_count": 1532,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/撕破绘本抱着书找妈妈/撕破绘本抱着书找妈妈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "操场上捡到的十元钱该还给谁",
+      "title": "操场上捡到的十元钱该还给谁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/操场上捡到的十元钱该还给谁",
+      "level": "L4",
+      "duration_ms": 388346,
+      "char_count": 1513,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/操场上捡到的十元钱该还给谁/操场上捡到的十元钱该还给谁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "改了试卷上的红叉叉，爸爸一眼就发现了",
+      "title": "改了试卷上的红叉叉，爸爸一眼就发现了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/改了试卷上的红叉叉，爸爸一眼就发现了",
+      "level": "L4",
+      "duration_ms": 307636,
+      "char_count": 1210,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/改了试卷上的红叉叉，爸爸一眼就发现了/改了试卷上的红叉叉，爸爸一眼就发现了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学没及格却报了满分，妈妈追问时",
+      "title": "数学没及格却报了满分，妈妈追问时",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/数学没及格却报了满分，妈妈追问时",
+      "level": "L4",
+      "duration_ms": 359058,
+      "char_count": 1406,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/数学没及格却报了满分，妈妈追问时/数学没及格却报了满分，妈妈追问时.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "暑期作业用手机搜了答案",
+      "title": "暑期作业用手机搜了答案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/暑期作业用手机搜了答案",
+      "level": "L4",
+      "duration_ms": 460701,
+      "char_count": 1790,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/暑期作业用手机搜了答案/暑期作业用手机搜了答案.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "模仿妈妈签名被看穿，我低下头认错",
+      "title": "模仿妈妈签名被看穿，我低下头认错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/模仿妈妈签名被看穿，我低下头认错",
+      "level": "L4",
+      "duration_ms": 357706,
+      "char_count": 1410,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/模仿妈妈签名被看穿，我低下头认错/模仿妈妈签名被看穿，我低下头认错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "水洒老师身上拿纸巾擦",
+      "title": "水洒老师身上拿纸巾擦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/水洒老师身上拿纸巾擦",
+      "level": "L4",
+      "duration_ms": 295815,
+      "char_count": 1173,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/水洒老师身上拿纸巾擦/水洒老师身上拿纸巾擦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "玩水把地板弄湿了我拿干毛巾吸水",
+      "title": "玩水把地板弄湿了我拿干毛巾吸水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/玩水把地板弄湿了我拿干毛巾吸水",
+      "level": "L4",
+      "duration_ms": 440022,
+      "char_count": 1726,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/玩水把地板弄湿了我拿干毛巾吸水/玩水把地板弄湿了我拿干毛巾吸水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "玩泥巴弄脏了沙发我拿来湿布擦",
+      "title": "玩泥巴弄脏了沙发我拿来湿布擦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/玩泥巴弄脏了沙发我拿来湿布擦",
+      "level": "L4",
+      "duration_ms": 485633,
+      "char_count": 1885,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/玩泥巴弄脏了沙发我拿来湿布擦/玩泥巴弄脏了沙发我拿来湿布擦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "玩球时砸坏了邻居的花盆我去敲门道歉",
+      "title": "玩球时砸坏了邻居的花盆我去敲门道歉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/玩球时砸坏了邻居的花盆我去敲门道歉",
+      "level": "L4",
+      "duration_ms": 315595,
+      "char_count": 1240,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/玩球时砸坏了邻居的花盆我去敲门道歉/玩球时砸坏了邻居的花盆我去敲门道歉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生日收到不喜欢的礼物，我却假装开心",
+      "title": "生日收到不喜欢的礼物，我却假装开心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/生日收到不喜欢的礼物，我却假装开心",
+      "level": "L4",
+      "duration_ms": 363600,
+      "char_count": 1426,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/生日收到不喜欢的礼物，我却假装开心/生日收到不喜欢的礼物，我却假装开心.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "用妈妈手机充值游戏，账单暴露了",
+      "title": "用妈妈手机充值游戏，账单暴露了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/用妈妈手机充值游戏，账单暴露了",
+      "level": "L4",
+      "duration_ms": 501742,
+      "char_count": 1953,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/用妈妈手机充值游戏，账单暴露了/用妈妈手机充值游戏，账单暴露了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "用蜡笔在墙上画画然后说是哥哥画的",
+      "title": "用蜡笔在墙上画画然后说是哥哥画的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/用蜡笔在墙上画画然后说是哥哥画的",
+      "level": "L4",
+      "duration_ms": 456164,
+      "char_count": 1790,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/用蜡笔在墙上画画然后说是哥哥画的/用蜡笔在墙上画画然后说是哥哥画的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "画画时画到了妹妹的裙子我说对不起",
+      "title": "画画时画到了妹妹的裙子我说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/画画时画到了妹妹的裙子我说对不起",
+      "level": "L4",
+      "duration_ms": 424100,
+      "char_count": 1652,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/画画时画到了妹妹的裙子我说对不起/画画时画到了妹妹的裙子我说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "科学课弄丢了小组的实验材料",
+      "title": "科学课弄丢了小组的实验材料",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/科学课弄丢了小组的实验材料",
+      "level": "L4",
+      "duration_ms": 457527,
+      "char_count": 1743,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/科学课弄丢了小组的实验材料/科学课弄丢了小组的实验材料.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "积木倒塌砸到人忙道歉",
+      "title": "积木倒塌砸到人忙道歉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/积木倒塌砸到人忙道歉",
+      "level": "L4",
+      "duration_ms": 332849,
+      "char_count": 1308,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/积木倒塌砸到人忙道歉/积木倒塌砸到人忙道歉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "竞选班长时我投了自己一票",
+      "title": "竞选班长时我投了自己一票",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/竞选班长时我投了自己一票",
+      "level": "L4",
+      "duration_ms": 446526,
+      "char_count": 1744,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/竞选班长时我投了自己一票/竞选班长时我投了自己一票.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "竞选班长时收买选票，事后后悔了",
+      "title": "竞选班长时收买选票，事后后悔了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/竞选班长时收买选票，事后后悔了",
+      "level": "L4",
+      "duration_ms": 340740,
+      "char_count": 1309,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/竞选班长时收买选票，事后后悔了/竞选班长时收买选票，事后后悔了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "答应保守的秘密被我说漏，好友再也不理我",
+      "title": "答应保守的秘密被我说漏，好友再也不理我",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/答应保守的秘密被我说漏，好友再也不理我",
+      "level": "L4",
+      "duration_ms": 471733,
+      "char_count": 1821,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/答应保守的秘密被我说漏，好友再也不理我/答应保守的秘密被我说漏，好友再也不理我.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "答应妈妈收拾房间却忘了，她回来时",
+      "title": "答应妈妈收拾房间却忘了，她回来时",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/答应妈妈收拾房间却忘了，她回来时",
+      "level": "L4",
+      "duration_ms": 403634,
+      "char_count": 1572,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/答应妈妈收拾房间却忘了，她回来时/答应妈妈收拾房间却忘了，她回来时.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "答应陪朋友却又想去玩，我决定坦白",
+      "title": "答应陪朋友却又想去玩，我决定坦白",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/答应陪朋友却又想去玩，我决定坦白",
+      "level": "L4",
+      "duration_ms": 376811,
+      "char_count": 1481,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/答应陪朋友却又想去玩，我决定坦白/答应陪朋友却又想去玩，我决定坦白.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "篮球砸到了低年级同学的头",
+      "title": "篮球砸到了低年级同学的头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/篮球砸到了低年级同学的头",
+      "level": "L4",
+      "duration_ms": 383849,
+      "char_count": 1500,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/篮球砸到了低年级同学的头/篮球砸到了低年级同学的头.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考试作弊得了高分，心里却像压了石头",
+      "title": "考试作弊得了高分，心里却像压了石头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/考试作弊得了高分，心里却像压了石头",
+      "level": "L4",
+      "duration_ms": 355671,
+      "char_count": 1397,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/考试作弊得了高分，心里却像压了石头/考试作弊得了高分，心里却像压了石头.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "考试时传纸条被老师发现了",
+      "title": "考试时传纸条被老师发现了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/考试时传纸条被老师发现了",
+      "level": "L4",
+      "duration_ms": 281209,
+      "char_count": 1100,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/考试时传纸条被老师发现了/考试时传纸条被老师发现了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "藏起弟弟奶瓶后来承认",
+      "title": "藏起弟弟奶瓶后来承认",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/藏起弟弟奶瓶后来承认",
+      "level": "L4",
+      "duration_ms": 331027,
+      "char_count": 1308,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/藏起弟弟奶瓶后来承认/藏起弟弟奶瓶后来承认.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "藏起电视遥控器骗妈妈说找不到了，她叹气了",
+      "title": "藏起电视遥控器骗妈妈说找不到了，她叹气了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/藏起电视遥控器骗妈妈说找不到了，她叹气了",
+      "level": "L4",
+      "duration_ms": 381131,
+      "char_count": 1499,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/藏起电视遥控器骗妈妈说找不到了，她叹气了/藏起电视遥控器骗妈妈说找不到了，她叹气了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "藏起面包说吃完又承认",
+      "title": "藏起面包说吃完又承认",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/藏起面包说吃完又承认",
+      "level": "L4",
+      "duration_ms": 424704,
+      "char_count": 1645,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/藏起面包说吃完又承认/藏起面包说吃完又承认.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "装病躲在家里，妈妈的手探上额头时我发抖",
+      "title": "装病躲在家里，妈妈的手探上额头时我发抖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/装病躲在家里，妈妈的手探上额头时我发抖",
+      "level": "L4",
+      "duration_ms": 289029,
+      "char_count": 1131,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/装病躲在家里，妈妈的手探上额头时我发抖/装病躲在家里，妈妈的手探上额头时我发抖.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "试卷上那道本可以改的错题",
+      "title": "试卷上那道本可以改的错题",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/试卷上那道本可以改的错题",
+      "level": "L4",
+      "duration_ms": 492091,
+      "char_count": 1890,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/试卷上那道本可以改的错题/试卷上那道本可以改的错题.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "课外班作业没写谎称交了，老师发现了",
+      "title": "课外班作业没写谎称交了，老师发现了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/课外班作业没写谎称交了，老师发现了",
+      "level": "L4",
+      "duration_ms": 386203,
+      "char_count": 1499,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/课外班作业没写谎称交了，老师发现了/课外班作业没写谎称交了，老师发现了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "赢了游戏是因为作弊，奖杯摸起来冰凉",
+      "title": "赢了游戏是因为作弊，奖杯摸起来冰凉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/赢了游戏是因为作弊，奖杯摸起来冰凉",
+      "level": "L4",
+      "duration_ms": 443488,
+      "char_count": 1704,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/赢了游戏是因为作弊，奖杯摸起来冰凉/赢了游戏是因为作弊，奖杯摸起来冰凉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "超市里偷偷拿了一颗糖，出门后它变得好苦",
+      "title": "超市里偷偷拿了一颗糖，出门后它变得好苦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/超市里偷偷拿了一颗糖，出门后它变得好苦",
+      "level": "L4",
+      "duration_ms": 369456,
+      "char_count": 1451,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/超市里偷偷拿了一颗糖，出门后它变得好苦/超市里偷偷拿了一颗糖，出门后它变得好苦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "足球赛犯规没被罚，我该说出来吗？",
+      "title": "足球赛犯规没被罚，我该说出来吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/足球赛犯规没被罚，我该说出来吗？",
+      "level": "L4",
+      "duration_ms": 340062,
+      "char_count": 1319,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/足球赛犯规没被罚，我该说出来吗？/足球赛犯规没被罚，我该说出来吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "跑步比赛抄近道被同学看见",
+      "title": "跑步比赛抄近道被同学看见",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/跑步比赛抄近道被同学看见",
+      "level": "L4",
+      "duration_ms": 324133,
+      "char_count": 1251,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/跑步比赛抄近道被同学看见/跑步比赛抄近道被同学看见.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "踢球踢碎了邻居家的玻璃窗",
+      "title": "踢球踢碎了邻居家的玻璃窗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/踢球踢碎了邻居家的玻璃窗",
+      "level": "L4",
+      "duration_ms": 388275,
+      "char_count": 1538,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/踢球踢碎了邻居家的玻璃窗/踢球踢碎了邻居家的玻璃窗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "踩到小猫尾巴抱抱说对不起",
+      "title": "踩到小猫尾巴抱抱说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/踩到小猫尾巴抱抱说对不起",
+      "level": "L4",
+      "duration_ms": 356099,
+      "char_count": 1407,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/踩到小猫尾巴抱抱说对不起/踩到小猫尾巴抱抱说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "踩坏了朋友搭的城堡我蹲下来一起重建",
+      "title": "踩坏了朋友搭的城堡我蹲下来一起重建",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/踩坏了朋友搭的城堡我蹲下来一起重建",
+      "level": "L4",
+      "duration_ms": 339669,
+      "char_count": 1336,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/踩坏了朋友搭的城堡我蹲下来一起重建/踩坏了朋友搭的城堡我蹲下来一起重建.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "踩坏妈妈的花盆说是风吹的",
+      "title": "踩坏妈妈的花盆说是风吹的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/踩坏妈妈的花盆说是风吹的",
+      "level": "L4",
+      "duration_ms": 276317,
+      "char_count": 1087,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/踩坏妈妈的花盆说是风吹的/踩坏妈妈的花盆说是风吹的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "踩坏蚂蚁窝蹲下说对不起",
+      "title": "踩坏蚂蚁窝蹲下说对不起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/踩坏蚂蚁窝蹲下说对不起",
+      "level": "L4",
+      "duration_ms": 308885,
+      "char_count": 1205,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/踩坏蚂蚁窝蹲下说对不起/踩坏蚂蚁窝蹲下说对不起.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "过家家时拿了不属于我的玩具，心里好别扭",
+      "title": "过家家时拿了不属于我的玩具，心里好别扭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/过家家时拿了不属于我的玩具，心里好别扭",
+      "level": "L4",
+      "duration_ms": 334669,
+      "char_count": 1310,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/过家家时拿了不属于我的玩具，心里好别扭/过家家时拿了不属于我的玩具，心里好别扭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "零花钱不见了却说是同桌偷的，他眼眶红了",
+      "title": "零花钱不见了却说是同桌偷的，他眼眶红了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/零花钱不见了却说是同桌偷的，他眼眶红了",
+      "level": "L4",
+      "duration_ms": 294456,
+      "char_count": 1162,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/零花钱不见了却说是同桌偷的，他眼眶红了/零花钱不见了却说是同桌偷的，他眼眶红了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "颜料弄脏地毯告诉妈妈",
+      "title": "颜料弄脏地毯告诉妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "品格养成/A2诚实/颜料弄脏地毯告诉妈妈",
+      "level": "L4",
+      "duration_ms": 321314,
+      "char_count": 1272,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/颜料弄脏地毯告诉妈妈/颜料弄脏地毯告诉妈妈.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

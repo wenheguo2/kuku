@@ -1,0 +1,1331 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "神州之外/K2经典寓言",
+  "name": "K2经典寓言",
+  "cover": {
+    "cover_image_url": "covers/generated/神州之外/K2经典寓言/K2经典寓言.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 94,
+  "entries": [
+    {
+      "entry_id": "三个骗子",
+      "title": "三个骗子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/三个骗子",
+      "level": "L5",
+      "duration_ms": 767276,
+      "char_count": 2914,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/三个骗子/三个骗子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "两只山羊过桥",
+      "title": "两只山羊过桥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/两只山羊过桥",
+      "level": "L5",
+      "duration_ms": 512556,
+      "char_count": 2019,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/两只山羊过桥/两只山羊过桥.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "两只青蛙",
+      "title": "两只青蛙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/两只青蛙",
+      "level": "L5",
+      "duration_ms": 612776,
+      "char_count": 2371,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/两只青蛙/两只青蛙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "乌鸦与狐狸",
+      "title": "乌鸦与狐狸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/乌鸦与狐狸",
+      "level": "L5",
+      "duration_ms": 627204,
+      "char_count": 2336,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/乌鸦与狐狸/乌鸦与狐狸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "乌鸦和狐狸拉封丹",
+      "title": "乌鸦和狐狸拉封丹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/乌鸦和狐狸拉封丹",
+      "level": "L5",
+      "duration_ms": 544199,
+      "char_count": 2001,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/乌鸦和狐狸拉封丹/乌鸦和狐狸拉封丹.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "人与狮子同行",
+      "title": "人与狮子同行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/人与狮子同行",
+      "level": "L5",
+      "duration_ms": 898447,
+      "char_count": 3373,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/人与狮子同行/人与狮子同行.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "人与跳蚤",
+      "title": "人与跳蚤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/人与跳蚤",
+      "level": "L5",
+      "duration_ms": 713059,
+      "char_count": 2605,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/人与跳蚤/人与跳蚤.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "兔子与大象",
+      "title": "兔子与大象",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/兔子与大象",
+      "level": "L5",
+      "duration_ms": 797842,
+      "char_count": 2963,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/兔子与大象/兔子与大象.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公正的兔子",
+      "title": "公正的兔子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/公正的兔子",
+      "level": "L5",
+      "duration_ms": 516667,
+      "char_count": 2184,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/公正的兔子/公正的兔子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公鸡与宝玉",
+      "title": "公鸡与宝玉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/公鸡与宝玉",
+      "level": "L5",
+      "duration_ms": 578525,
+      "char_count": 2175,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/公鸡与宝玉/公鸡与宝玉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "养蜂人",
+      "title": "养蜂人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/养蜂人",
+      "level": "L5",
+      "duration_ms": 589312,
+      "char_count": 2425,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/养蜂人/养蜂人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "农夫与蛇",
+      "title": "农夫与蛇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/农夫与蛇",
+      "level": "L5",
+      "duration_ms": 737345,
+      "char_count": 2800,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/农夫与蛇/农夫与蛇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "北风与太阳",
+      "title": "北风与太阳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/北风与太阳",
+      "level": "L5",
+      "duration_ms": 564849,
+      "char_count": 2198,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/北风与太阳/北风与太阳.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "卖雕像的人",
+      "title": "卖雕像的人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/卖雕像的人",
+      "level": "L5",
+      "duration_ms": 641597,
+      "char_count": 2365,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/卖雕像的人/卖雕像的人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "口渴的乌鸦",
+      "title": "口渴的乌鸦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/口渴的乌鸦",
+      "level": "L5",
+      "duration_ms": 771052,
+      "char_count": 2894,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/口渴的乌鸦/口渴的乌鸦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "四重奏",
+      "title": "四重奏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/四重奏",
+      "level": "L5",
+      "duration_ms": 584659,
+      "char_count": 2033,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/四重奏/四重奏.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "城里老鼠与乡下老鼠",
+      "title": "城里老鼠与乡下老鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/城里老鼠与乡下老鼠",
+      "level": "L5",
+      "duration_ms": 721631,
+      "char_count": 2644,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/城里老鼠与乡下老鼠/城里老鼠与乡下老鼠.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "天鹅梭子鱼与虾",
+      "title": "天鹅梭子鱼与虾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/天鹅梭子鱼与虾",
+      "level": "L5",
+      "duration_ms": 891479,
+      "char_count": 3374,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/天鹅梭子鱼与虾/天鹅梭子鱼与虾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "太阳与北风",
+      "title": "太阳与北风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/太阳与北风",
+      "level": "L5",
+      "duration_ms": 615272,
+      "char_count": 2249,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/太阳与北风/太阳与北风.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "婆罗门与老虎",
+      "title": "婆罗门与老虎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/婆罗门与老虎",
+      "level": "L5",
+      "duration_ms": 559491,
+      "char_count": 2348,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/婆罗门与老虎/婆罗门与老虎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "孩子和青蛙",
+      "title": "孩子和青蛙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/孩子和青蛙",
+      "level": "L5",
+      "duration_ms": 504302,
+      "char_count": 2240,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/孩子和青蛙/孩子和青蛙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "守财奴",
+      "title": "守财奴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/守财奴",
+      "level": "L5",
+      "duration_ms": 736733,
+      "char_count": 2777,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/守财奴/守财奴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "安纳西与智慧罐",
+      "title": "安纳西与智慧罐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/安纳西与智慧罐",
+      "level": "L5",
+      "duration_ms": 524030,
+      "char_count": 2152,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/安纳西与智慧罐/安纳西与智慧罐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "安纳西与洪水",
+      "title": "安纳西与洪水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/安纳西与洪水",
+      "level": "L5",
+      "duration_ms": 832992,
+      "char_count": 3531,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/安纳西与洪水/安纳西与洪水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "安纳西和乌龟",
+      "title": "安纳西和乌龟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/安纳西和乌龟",
+      "level": "L5",
+      "duration_ms": 779767,
+      "char_count": 3252,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/安纳西和乌龟/安纳西和乌龟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小丑与农夫",
+      "title": "小丑与农夫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/小丑与农夫",
+      "level": "L5",
+      "duration_ms": 754380,
+      "char_count": 2744,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/小丑与农夫/小丑与农夫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小羊和狼",
+      "title": "小羊和狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/小羊和狼",
+      "level": "L5",
+      "duration_ms": 626665,
+      "char_count": 2400,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/小羊和狼/小羊和狼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小鹿和他的母亲",
+      "title": "小鹿和他的母亲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/小鹿和他的母亲",
+      "level": "L5",
+      "duration_ms": 719096,
+      "char_count": 2683,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/小鹿和他的母亲/小鹿和他的母亲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "恋爱的狮子",
+      "title": "恋爱的狮子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/恋爱的狮子",
+      "level": "L5",
+      "duration_ms": 493632,
+      "char_count": 2176,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/恋爱的狮子/恋爱的狮子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "披着羊皮的狼",
+      "title": "披着羊皮的狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/披着羊皮的狼",
+      "level": "L5",
+      "duration_ms": 741807,
+      "char_count": 2753,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/披着羊皮的狼/披着羊皮的狼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "挤牛奶的姑娘",
+      "title": "挤牛奶的姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/挤牛奶的姑娘",
+      "level": "L5",
+      "duration_ms": 853454,
+      "char_count": 3273,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/挤牛奶的姑娘/挤牛奶的姑娘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "提达利克口渴的青蛙",
+      "title": "提达利克口渴的青蛙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/提达利克口渴的青蛙",
+      "level": "L5",
+      "duration_ms": 772696,
+      "char_count": 3326,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/提达利克口渴的青蛙/提达利克口渴的青蛙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "旅人与命运女神",
+      "title": "旅人与命运女神",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/旅人与命运女神",
+      "level": "L5",
+      "duration_ms": 518205,
+      "char_count": 2000,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/旅人与命运女神/旅人与命运女神.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "树懒与蝴蝶",
+      "title": "树懒与蝴蝶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/树懒与蝴蝶",
+      "level": "L5",
+      "duration_ms": 558810,
+      "char_count": 2405,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/树懒与蝴蝶/树懒与蝴蝶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "橡树与芦苇",
+      "title": "橡树与芦苇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/橡树与芦苇",
+      "level": "L5",
+      "duration_ms": 573169,
+      "char_count": 2162,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/橡树与芦苇/橡树与芦苇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "池塘边的雄鹿",
+      "title": "池塘边的雄鹿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/池塘边的雄鹿",
+      "level": "L5",
+      "duration_ms": 552309,
+      "char_count": 2055,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/池塘边的雄鹿/池塘边的雄鹿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "海豚与金枪鱼",
+      "title": "海豚与金枪鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/海豚与金枪鱼",
+      "level": "L5",
+      "duration_ms": 691306,
+      "char_count": 2539,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/海豚与金枪鱼/海豚与金枪鱼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "渔夫和小鱼",
+      "title": "渔夫和小鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/渔夫和小鱼",
+      "level": "L5",
+      "duration_ms": 701202,
+      "char_count": 2661,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/渔夫和小鱼/渔夫和小鱼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "熊与两个旅人",
+      "title": "熊与两个旅人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/熊与两个旅人",
+      "level": "L5",
+      "duration_ms": 676917,
+      "char_count": 2562,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/熊与两个旅人/熊与两个旅人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "父亲与儿子们",
+      "title": "父亲与儿子们",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/父亲与儿子们",
+      "level": "L5",
+      "duration_ms": 671839,
+      "char_count": 2550,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/父亲与儿子们/父亲与儿子们.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "牛与车轴",
+      "title": "牛与车轴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/牛与车轴",
+      "level": "L5",
+      "duration_ms": 641559,
+      "char_count": 2433,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/牛与车轴/牛与车轴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "牧童与狼",
+      "title": "牧童与狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/牧童与狼",
+      "level": "L5",
+      "duration_ms": 864662,
+      "char_count": 3234,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/牧童与狼/牧童与狼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狐狸与葡萄",
+      "title": "狐狸与葡萄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狐狸与葡萄",
+      "level": "L5",
+      "duration_ms": 540383,
+      "char_count": 2057,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狐狸与葡萄/狐狸与葡萄.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狐狸与鹤",
+      "title": "狐狸与鹤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狐狸与鹤",
+      "level": "L5",
+      "duration_ms": 556204,
+      "char_count": 2148,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狐狸与鹤/狐狸与鹤.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狐狸和刺猬",
+      "title": "狐狸和刺猬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狐狸和刺猬",
+      "level": "L5",
+      "duration_ms": 487272,
+      "char_count": 2008,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狐狸和刺猬/狐狸和刺猬.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狐狸和山羊",
+      "title": "狐狸和山羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狐狸和山羊",
+      "level": "L5",
+      "duration_ms": 481243,
+      "char_count": 2049,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狐狸和山羊/狐狸和山羊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狐狸和葡萄新编",
+      "title": "狐狸和葡萄新编",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狐狸和葡萄新编",
+      "level": "L5",
+      "duration_ms": 626131,
+      "char_count": 2311,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狐狸和葡萄新编/狐狸和葡萄新编.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狐狸和面具",
+      "title": "狐狸和面具",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狐狸和面具",
+      "level": "L5",
+      "duration_ms": 785912,
+      "char_count": 3027,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狐狸和面具/狐狸和面具.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狐狸和鹳",
+      "title": "狐狸和鹳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狐狸和鹳",
+      "level": "L5",
+      "duration_ms": 749345,
+      "char_count": 2818,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狐狸和鹳/狐狸和鹳.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狗与影子",
+      "title": "狗与影子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狗与影子",
+      "level": "L5",
+      "duration_ms": 687415,
+      "char_count": 2587,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狗与影子/狗与影子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狗与狼",
+      "title": "狗与狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狗与狼",
+      "level": "L5",
+      "duration_ms": 733132,
+      "char_count": 2719,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狗与狼/狗与狼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狡猾的狐狸与犰狳",
+      "title": "狡猾的狐狸与犰狳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狡猾的狐狸与犰狳",
+      "level": "L5",
+      "duration_ms": 737341,
+      "char_count": 2802,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狡猾的狐狸与犰狳/狡猾的狐狸与犰狳.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狮子与木匠",
+      "title": "狮子与木匠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狮子与木匠",
+      "level": "L5",
+      "duration_ms": 501309,
+      "char_count": 2120,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狮子与木匠/狮子与木匠.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狮子与老鼠",
+      "title": "狮子与老鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狮子与老鼠",
+      "level": "L5",
+      "duration_ms": 685884,
+      "char_count": 2532,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狮子与老鼠/狮子与老鼠.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狼和狗",
+      "title": "狼和狗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狼和狗",
+      "level": "L5",
+      "duration_ms": 666954,
+      "char_count": 2541,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狼和狗/狼和狗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狼和羔羊",
+      "title": "狼和羔羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狼和羔羊",
+      "level": "L5",
+      "duration_ms": 602312,
+      "char_count": 2242,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狼和羔羊/狼和羔羊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狼来了",
+      "title": "狼来了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/狼来了",
+      "level": "L5",
+      "duration_ms": 844875,
+      "char_count": 3139,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/狼来了/狼来了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猎人与骑马者",
+      "title": "猎人与骑马者",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/猎人与骑马者",
+      "level": "L5",
+      "duration_ms": 550993,
+      "char_count": 2301,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/猎人与骑马者/猎人与骑马者.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猎人和渔夫",
+      "title": "猎人和渔夫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/猎人和渔夫",
+      "level": "L5",
+      "duration_ms": 706093,
+      "char_count": 2656,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/猎人和渔夫/猎人和渔夫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猫与公鸡",
+      "title": "猫与公鸡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/猫与公鸡",
+      "level": "L5",
+      "duration_ms": 485309,
+      "char_count": 2084,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/猫与公鸡/猫与公鸡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猴子和眼镜",
+      "title": "猴子和眼镜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/猴子和眼镜",
+      "level": "L5",
+      "duration_ms": 585166,
+      "char_count": 2173,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/猴子和眼镜/猴子和眼镜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猴子和鳄鱼",
+      "title": "猴子和鳄鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/猴子和鳄鱼",
+      "level": "L5",
+      "duration_ms": 777667,
+      "char_count": 3007,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/猴子和鳄鱼/猴子和鳄鱼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "猴王桥",
+      "title": "猴王桥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/猴王桥",
+      "level": "L5",
+      "duration_ms": 848845,
+      "char_count": 3172,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/猴王桥/猴王桥.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "病鹿",
+      "title": "病鹿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/病鹿",
+      "level": "L5",
+      "duration_ms": 795093,
+      "char_count": 3038,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/病鹿/病鹿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "知了和蚂蚁",
+      "title": "知了和蚂蚁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/知了和蚂蚁",
+      "level": "L5",
+      "duration_ms": 639597,
+      "char_count": 2440,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/知了和蚂蚁/知了和蚂蚁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "磨坊主父子与驴",
+      "title": "磨坊主父子与驴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/磨坊主父子与驴",
+      "level": "L5",
+      "duration_ms": 531310,
+      "char_count": 2066,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/磨坊主父子与驴/磨坊主父子与驴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老妇与医生",
+      "title": "老妇与医生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/老妇与医生",
+      "level": "L5",
+      "duration_ms": 635562,
+      "char_count": 2422,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/老妇与医生/老妇与医生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老鼠和黄鼠狼",
+      "title": "老鼠和黄鼠狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/老鼠和黄鼠狼",
+      "level": "L5",
+      "duration_ms": 578484,
+      "char_count": 2230,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/老鼠和黄鼠狼/老鼠和黄鼠狼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老鼠开会",
+      "title": "老鼠开会",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/老鼠开会",
+      "level": "L5",
+      "duration_ms": 592951,
+      "char_count": 2532,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/老鼠开会/老鼠开会.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "胃与脚",
+      "title": "胃与脚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/胃与脚",
+      "level": "L5",
+      "duration_ms": 642630,
+      "char_count": 2289,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/胃与脚/胃与脚.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "苍蝇与蜜蜂",
+      "title": "苍蝇与蜜蜂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/苍蝇与蜜蜂",
+      "level": "L5",
+      "duration_ms": 556384,
+      "char_count": 2073,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/苍蝇与蜜蜂/苍蝇与蜜蜂.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蓝胡狼",
+      "title": "蓝胡狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/蓝胡狼",
+      "level": "L5",
+      "duration_ms": 546595,
+      "char_count": 2025,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/蓝胡狼/蓝胡狼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蚂蚁与蚂蚱",
+      "title": "蚂蚁与蚂蚱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/蚂蚁与蚂蚱",
+      "level": "L5",
+      "duration_ms": 574881,
+      "char_count": 2204,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/蚂蚁与蚂蚱/蚂蚁与蚂蚱.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蚊子与狮子",
+      "title": "蚊子与狮子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/蚊子与狮子",
+      "level": "L5",
+      "duration_ms": 833018,
+      "char_count": 3028,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/蚊子与狮子/蚊子与狮子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蝉与蚂蚁",
+      "title": "蝉与蚂蚁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/蝉与蚂蚁",
+      "level": "L5",
+      "duration_ms": 678597,
+      "char_count": 2608,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/蝉与蚂蚁/蝉与蚂蚁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蝙蝠与黄鼠狼",
+      "title": "蝙蝠与黄鼠狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/蝙蝠与黄鼠狼",
+      "level": "L5",
+      "duration_ms": 545922,
+      "char_count": 2235,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/蝙蝠与黄鼠狼/蝙蝠与黄鼠狼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "螳螂与创世",
+      "title": "螳螂与创世",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/螳螂与创世",
+      "level": "L5",
+      "duration_ms": 604093,
+      "char_count": 2237,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/螳螂与创世/螳螂与创世.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "豹子和兔子",
+      "title": "豹子和兔子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/豹子和兔子",
+      "level": "L5",
+      "duration_ms": 535598,
+      "char_count": 2091,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/豹子和兔子/豹子和兔子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "跳蚤和臭虫",
+      "title": "跳蚤和臭虫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/跳蚤和臭虫",
+      "level": "L5",
+      "duration_ms": 573343,
+      "char_count": 2206,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/跳蚤和臭虫/跳蚤和臭虫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "野兔和猎狗",
+      "title": "野兔和猎狗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/野兔和猎狗",
+      "level": "L5",
+      "duration_ms": 674944,
+      "char_count": 2456,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/野兔和猎狗/野兔和猎狗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "野猪与狐狸",
+      "title": "野猪与狐狸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/野猪与狐狸",
+      "level": "L5",
+      "duration_ms": 870597,
+      "char_count": 3371,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/野猪与狐狸/野猪与狐狸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "金蛋鹅",
+      "title": "金蛋鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/金蛋鹅",
+      "level": "L5",
+      "duration_ms": 576916,
+      "char_count": 2170,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/金蛋鹅/金蛋鹅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "青蛙想要一个国王",
+      "title": "青蛙想要一个国王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/青蛙想要一个国王",
+      "level": "L5",
+      "duration_ms": 628275,
+      "char_count": 2245,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/青蛙想要一个国王/青蛙想要一个国王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "驴与知了",
+      "title": "驴与知了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/驴与知了",
+      "level": "L5",
+      "duration_ms": 566526,
+      "char_count": 2182,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/驴与知了/驴与知了.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "驴和马",
+      "title": "驴和马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/驴和马",
+      "level": "L5",
+      "duration_ms": 520025,
+      "char_count": 2019,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/驴和马/驴和马.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "驴子与盐",
+      "title": "驴子与盐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/驴子与盐",
+      "level": "L5",
+      "duration_ms": 557164,
+      "char_count": 2105,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/驴子与盐/驴子与盐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "驴子和骡子",
+      "title": "驴子和骡子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/驴子和骡子",
+      "level": "L5",
+      "duration_ms": 598132,
+      "char_count": 2302,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/驴子和骡子/驴子和骡子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "骆驼和猪",
+      "title": "骆驼和猪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/骆驼和猪",
+      "level": "L5",
+      "duration_ms": 589025,
+      "char_count": 2289,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/骆驼和猪/骆驼和猪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鸽子和老鼠",
+      "title": "鸽子和老鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/鸽子和老鼠",
+      "level": "L5",
+      "duration_ms": 562919,
+      "char_count": 2182,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/鸽子和老鼠/鸽子和老鼠.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鹰与乌鸦",
+      "title": "鹰与乌鸦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/鹰与乌鸦",
+      "level": "L5",
+      "duration_ms": 637917,
+      "char_count": 2376,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/鹰与乌鸦/鹰与乌鸦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鹰与狐狸",
+      "title": "鹰与狐狸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/鹰与狐狸",
+      "level": "L5",
+      "duration_ms": 750697,
+      "char_count": 2847,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/鹰与狐狸/鹰与狐狸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鹰与甲虫",
+      "title": "鹰与甲虫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/鹰与甲虫",
+      "level": "L5",
+      "duration_ms": 523890,
+      "char_count": 2171,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/鹰与甲虫/鹰与甲虫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "龟与鹰",
+      "title": "龟与鹰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/龟与鹰",
+      "level": "L5",
+      "duration_ms": 625484,
+      "char_count": 2055,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/龟与鹰/龟与鹰.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "龟兔赛跑",
+      "title": "龟兔赛跑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K2经典寓言/龟兔赛跑",
+      "level": "L5",
+      "duration_ms": 540560,
+      "char_count": 2082,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/龟兔赛跑/龟兔赛跑.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

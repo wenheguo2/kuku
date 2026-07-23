@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/时间管理/双语歌曲",
+  "name": "双语歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/时间管理.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 24,
+  "entries": [
+    {
+      "entry_id": "24小时制-24 Hour Clock",
+      "title": "24小时制-24 Hour Clock",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/24小时制-24 Hour Clock"
+    },
+    {
+      "entry_id": "一分钟-One Minute",
+      "title": "一分钟-One Minute",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/一分钟-One Minute"
+    },
+    {
+      "entry_id": "一刻钟-Quarter Hour",
+      "title": "一刻钟-Quarter Hour",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/一刻钟-Quarter Hour"
+    },
+    {
+      "entry_id": "一小时-One Hour",
+      "title": "一小时-One Hour",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/一小时-One Hour"
+    },
+    {
+      "entry_id": "任务清单-To-Do List",
+      "title": "任务清单-To-Do List",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/任务清单-To-Do List"
+    },
+    {
+      "entry_id": "优先级-Priority",
+      "title": "优先级-Priority",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/优先级-Priority"
+    },
+    {
+      "entry_id": "估计时间-Estimate Time",
+      "title": "估计时间-Estimate Time",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/估计时间-Estimate Time"
+    },
+    {
+      "entry_id": "准时-Be On Time",
+      "title": "准时-Be On Time",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/准时-Be On Time"
+    },
+    {
+      "entry_id": "四季-Four Seasons",
+      "title": "四季-Four Seasons",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/四季-Four Seasons"
+    },
+    {
+      "entry_id": "年月日-Year Month Day",
+      "title": "年月日-Year Month Day",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/年月日-Year Month Day"
+    },
+    {
+      "entry_id": "快和慢-Fast and Slow",
+      "title": "快和慢-Fast and Slow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/快和慢-Fast and Slow"
+    },
+    {
+      "entry_id": "提前准备-Prepare Ahead",
+      "title": "提前准备-Prepare Ahead",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/提前准备-Prepare Ahead"
+    },
+    {
+      "entry_id": "整点半点-O Clock and Half",
+      "title": "整点半点-O Clock and Half",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/整点半点-O Clock and Half"
+    },
+    {
+      "entry_id": "早中晚-Morning Noon Night",
+      "title": "早中晚-Morning Noon Night",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/早中晚-Morning Noon Night"
+    },
+    {
+      "entry_id": "时分秒针-Hour Minute Second",
+      "title": "时分秒针-Hour Minute Second",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/时分秒针-Hour Minute Second"
+    },
+    {
+      "entry_id": "春夏秋冬-Four Seasons",
+      "title": "春夏秋冬-Four Seasons",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/春夏秋冬-Four Seasons"
+    },
+    {
+      "entry_id": "昨天今天明天-Yesterday Today Tomorrow",
+      "title": "昨天今天明天-Yesterday Today Tomorrow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/昨天今天明天-Yesterday Today Tomorrow"
+    },
+    {
+      "entry_id": "月份天数-Days in Month",
+      "title": "月份天数-Days in Month",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/月份天数-Days in Month"
+    },
+    {
+      "entry_id": "每日计划-Daily Plan",
+      "title": "每日计划-Daily Plan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/每日计划-Daily Plan"
+    },
+    {
+      "entry_id": "番茄工作法-Pomodoro Technique",
+      "title": "番茄工作法-Pomodoro Technique",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/番茄工作法-Pomodoro Technique"
+    },
+    {
+      "entry_id": "过去现在未来-Past Present Future",
+      "title": "过去现在未来-Past Present Future",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/过去现在未来-Past Present Future"
+    },
+    {
+      "entry_id": "迟到后果-Late Consequences",
+      "title": "迟到后果-Late Consequences",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/迟到后果-Late Consequences"
+    },
+    {
+      "entry_id": "闰年-Leap Year",
+      "title": "闰年-Leap Year",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/闰年-Leap Year"
+    },
+    {
+      "entry_id": "闹钟提醒-Use Alarm",
+      "title": "闹钟提醒-Use Alarm",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/时间管理/双语歌曲/闹钟提醒-Use Alarm"
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "神州之外/K8世界名人传记",
+  "name": "K8世界名人传记",
+  "cover": {
+    "cover_image_url": "covers/generated/神州之外/K8世界名人传记/K8世界名人传记.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 39,
+  "entries": [
+    {
+      "entry_id": "丘吉尔的至暗时刻",
+      "title": "丘吉尔的至暗时刻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/丘吉尔的至暗时刻",
+      "level": "L5",
+      "duration_ms": 1601265,
+      "char_count": 5779,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/丘吉尔的至暗时刻/丘吉尔的至暗时刻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "伽利略与望远镜",
+      "title": "伽利略与望远镜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/伽利略与望远镜",
+      "level": "L5",
+      "duration_ms": 1540729,
+      "char_count": 5614,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/伽利略与望远镜/伽利略与望远镜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "利文斯通在非洲",
+      "title": "利文斯通在非洲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/利文斯通在非洲",
+      "level": "L5",
+      "duration_ms": 1096546,
+      "char_count": 3965,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/利文斯通在非洲/利文斯通在非洲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "华盛顿与樱桃树",
+      "title": "华盛顿与樱桃树",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/华盛顿与樱桃树",
+      "level": "L5",
+      "duration_ms": 1519826,
+      "char_count": 5727,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/华盛顿与樱桃树/华盛顿与樱桃树.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "南丁格尔提灯女神",
+      "title": "南丁格尔提灯女神",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/南丁格尔提灯女神",
+      "level": "L5",
+      "duration_ms": 1365479,
+      "char_count": 5226,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/南丁格尔提灯女神/南丁格尔提灯女神.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "南森难民的护照",
+      "title": "南森难民的护照",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/南森难民的护照",
+      "level": "L5",
+      "duration_ms": 1018660,
+      "char_count": 3854,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/南森难民的护照/南森难民的护照.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "哥白尼的日心说",
+      "title": "哥白尼的日心说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/哥白尼的日心说",
+      "level": "L5",
+      "duration_ms": 1086975,
+      "char_count": 3949,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/哥白尼的日心说/哥白尼的日心说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "图灵的苹果",
+      "title": "图灵的苹果",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/图灵的苹果",
+      "level": "L5",
+      "duration_ms": 985118,
+      "char_count": 3713,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/图灵的苹果/图灵的苹果.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "安徒生的童话人生",
+      "title": "安徒生的童话人生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/安徒生的童话人生",
+      "level": "L5",
+      "duration_ms": 1086685,
+      "char_count": 4181,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/安徒生的童话人生/安徒生的童话人生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "居里夫人的实验室",
+      "title": "居里夫人的实验室",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/居里夫人的实验室",
+      "level": "L5",
+      "duration_ms": 1135480,
+      "char_count": 4104,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/居里夫人的实验室/居里夫人的实验室.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "巴赫与十二平均律",
+      "title": "巴赫与十二平均律",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/巴赫与十二平均律",
+      "level": "L5",
+      "duration_ms": 1133803,
+      "char_count": 4346,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/巴赫与十二平均律/巴赫与十二平均律.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拳王阿里的蝴蝶步",
+      "title": "拳王阿里的蝴蝶步",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/拳王阿里的蝴蝶步",
+      "level": "L5",
+      "duration_ms": 1505721,
+      "char_count": 5627,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/拳王阿里的蝴蝶步/拳王阿里的蝴蝶步.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "斯科特的南极绝笔",
+      "title": "斯科特的南极绝笔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/斯科特的南极绝笔",
+      "level": "L5",
+      "duration_ms": 1038873,
+      "char_count": 3880,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/斯科特的南极绝笔/斯科特的南极绝笔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "曼德拉的二十七年",
+      "title": "曼德拉的二十七年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/曼德拉的二十七年",
+      "level": "L7",
+      "duration_ms": 841384,
+      "char_count": 3540,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/曼德拉的二十七年/曼德拉的二十七年.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "林肯的葛底斯堡演讲",
+      "title": "林肯的葛底斯堡演讲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/林肯的葛底斯堡演讲",
+      "level": "L5",
+      "duration_ms": 1072516,
+      "char_count": 3961,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/林肯的葛底斯堡演讲/林肯的葛底斯堡演讲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "梵高的向日葵",
+      "title": "梵高的向日葵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/梵高的向日葵",
+      "level": "L5",
+      "duration_ms": 1088129,
+      "char_count": 4207,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/梵高的向日葵/梵高的向日葵.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "毕加索的立体世界",
+      "title": "毕加索的立体世界",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/毕加索的立体世界",
+      "level": "L5",
+      "duration_ms": 999229,
+      "char_count": 3861,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/毕加索的立体世界/毕加索的立体世界.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "法拉第的旋转线圈",
+      "title": "法拉第的旋转线圈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/法拉第的旋转线圈",
+      "level": "L5",
+      "duration_ms": 1052985,
+      "char_count": 4021,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/法拉第的旋转线圈/法拉第的旋转线圈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "海伦凯勒假如给我三天光明",
+      "title": "海伦凯勒假如给我三天光明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/海伦凯勒假如给我三天光明",
+      "level": "L5",
+      "duration_ms": 934837,
+      "char_count": 3549,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/海伦凯勒假如给我三天光明/海伦凯勒假如给我三天光明.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爱因斯坦的小提琴",
+      "title": "爱因斯坦的小提琴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/爱因斯坦的小提琴",
+      "level": "L5",
+      "duration_ms": 1409803,
+      "char_count": 5200,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/爱因斯坦的小提琴/爱因斯坦的小提琴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爱迪生的第一千次失败",
+      "title": "爱迪生的第一千次失败",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/爱迪生的第一千次失败",
+      "level": "L5",
+      "duration_ms": 1327015,
+      "char_count": 4980,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/爱迪生的第一千次失败/爱迪生的第一千次失败.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "牛顿与苹果",
+      "title": "牛顿与苹果",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/牛顿与苹果",
+      "level": "L5",
+      "duration_ms": 1042122,
+      "char_count": 3826,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/牛顿与苹果/牛顿与苹果.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "特斯拉的无线之梦",
+      "title": "特斯拉的无线之梦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/特斯拉的无线之梦",
+      "level": "L5",
+      "duration_ms": 1244228,
+      "char_count": 4548,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/特斯拉的无线之梦/特斯拉的无线之梦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "特蕾莎修女的赤脚",
+      "title": "特蕾莎修女的赤脚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/特蕾莎修女的赤脚",
+      "level": "L5",
+      "duration_ms": 1266153,
+      "char_count": 4726,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/特蕾莎修女的赤脚/特蕾莎修女的赤脚.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "球王贝利的赤脚童年",
+      "title": "球王贝利的赤脚童年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/球王贝利的赤脚童年",
+      "level": "L7",
+      "duration_ms": 1054236,
+      "char_count": 4471,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/球王贝利的赤脚童年/球王贝利的赤脚童年.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "甘地的一把盐",
+      "title": "甘地的一把盐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/甘地的一把盐",
+      "level": "L5",
+      "duration_ms": 1095448,
+      "char_count": 4057,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/甘地的一把盐/甘地的一把盐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "米开朗基罗与大卫",
+      "title": "米开朗基罗与大卫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/米开朗基罗与大卫",
+      "level": "L7",
+      "duration_ms": 853774,
+      "char_count": 3665,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/米开朗基罗与大卫/米开朗基罗与大卫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "莎士比亚的环球剧场",
+      "title": "莎士比亚的环球剧场",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/莎士比亚的环球剧场",
+      "level": "L5",
+      "duration_ms": 1028297,
+      "char_count": 3749,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/莎士比亚的环球剧场/莎士比亚的环球剧场.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "莫扎特的摇篮曲",
+      "title": "莫扎特的摇篮曲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/莫扎特的摇篮曲",
+      "level": "L7",
+      "duration_ms": 947597,
+      "char_count": 3934,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/莫扎特的摇篮曲/莫扎特的摇篮曲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "贝多芬敲开命运之门",
+      "title": "贝多芬敲开命运之门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/贝多芬敲开命运之门",
+      "level": "L5",
+      "duration_ms": 1432962,
+      "char_count": 4944,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/贝多芬敲开命运之门/贝多芬敲开命运之门.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "达尔文与小猎犬号",
+      "title": "达尔文与小猎犬号",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/达尔文与小猎犬号",
+      "level": "L7",
+      "duration_ms": 930097,
+      "char_count": 3826,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/达尔文与小猎犬号/达尔文与小猎犬号.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "达芬奇",
+      "title": "达芬奇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/达芬奇",
+      "level": "L7",
+      "duration_ms": 874341,
+      "char_count": 3711,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/达芬奇/达芬奇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿姆斯特朗的一小步",
+      "title": "阿姆斯特朗的一小步",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/阿姆斯特朗的一小步",
+      "level": "L5",
+      "duration_ms": 1287416,
+      "char_count": 4659,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/阿姆斯特朗的一小步/阿姆斯特朗的一小步.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿蒙森征服南极",
+      "title": "阿蒙森征服南极",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/阿蒙森征服南极",
+      "level": "L5",
+      "duration_ms": 1003050,
+      "char_count": 3590,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/阿蒙森征服南极/阿蒙森征服南极.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雨果与巴黎圣母院",
+      "title": "雨果与巴黎圣母院",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/雨果与巴黎圣母院",
+      "level": "L5",
+      "duration_ms": 1192117,
+      "char_count": 4350,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/雨果与巴黎圣母院/雨果与巴黎圣母院.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "马丁路德金我有一个梦想",
+      "title": "马丁路德金我有一个梦想",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/马丁路德金我有一个梦想",
+      "level": "L5",
+      "duration_ms": 1597323,
+      "char_count": 6145,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/马丁路德金我有一个梦想/马丁路德金我有一个梦想.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "马可波罗游东方",
+      "title": "马可波罗游东方",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/马可波罗游东方",
+      "level": "L5",
+      "duration_ms": 1167686,
+      "char_count": 4514,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/马可波罗游东方/马可波罗游东方.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "马拉拉为教育发声",
+      "title": "马拉拉为教育发声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/马拉拉为教育发声",
+      "level": "L5",
+      "duration_ms": 1118164,
+      "char_count": 4288,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/马拉拉为教育发声/马拉拉为教育发声.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "麦哲伦的环球航行",
+      "title": "麦哲伦的环球航行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K8世界名人传记/麦哲伦的环球航行",
+      "level": "L5",
+      "duration_ms": 987840,
+      "char_count": 3799,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/麦哲伦的环球航行/麦哲伦的环球航行.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

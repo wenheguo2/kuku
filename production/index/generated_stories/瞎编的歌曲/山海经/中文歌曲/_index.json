@@ -1,0 +1,1436 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/山海经/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/山海经/山海经.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 203,
+  "entries": [
+    {
+      "entry_id": "中文-䍺",
+      "title": "中文-䍺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-䍺"
+    },
+    {
+      "entry_id": "中文-䑏疏",
+      "title": "中文-䑏疏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-䑏疏"
+    },
+    {
+      "entry_id": "中文-䟣踢",
+      "title": "中文-䟣踢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-䟣踢"
+    },
+    {
+      "entry_id": "中文-䱻父鱼",
+      "title": "中文-䱻父鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-䱻父鱼"
+    },
+    {
+      "entry_id": "中文-一目国",
+      "title": "中文-一目国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-一目国"
+    },
+    {
+      "entry_id": "中文-一臂国",
+      "title": "中文-一臂国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-一臂国"
+    },
+    {
+      "entry_id": "中文-丈夫国",
+      "title": "中文-丈夫国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-丈夫国"
+    },
+    {
+      "entry_id": "中文-三苗国",
+      "title": "中文-三苗国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-三苗国"
+    },
+    {
+      "entry_id": "中文-三身国",
+      "title": "中文-三身国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-三身国"
+    },
+    {
+      "entry_id": "中文-三青鸟",
+      "title": "中文-三青鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-三青鸟"
+    },
+    {
+      "entry_id": "中文-三首国",
+      "title": "中文-三首国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-三首国"
+    },
+    {
+      "entry_id": "中文-不周山",
+      "title": "中文-不周山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-不周山"
+    },
+    {
+      "entry_id": "中文-不死国",
+      "title": "中文-不死国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-不死国"
+    },
+    {
+      "entry_id": "中文-丹穴山",
+      "title": "中文-丹穴山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-丹穴山"
+    },
+    {
+      "entry_id": "中文-九尾狐",
+      "title": "中文-九尾狐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-九尾狐"
+    },
+    {
+      "entry_id": "中文-交胫国",
+      "title": "中文-交胫国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-交胫国"
+    },
+    {
+      "entry_id": "中文-人鱼",
+      "title": "中文-人鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-人鱼"
+    },
+    {
+      "entry_id": "中文-何罗鱼",
+      "title": "中文-何罗鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-何罗鱼"
+    },
+    {
+      "entry_id": "中文-共工",
+      "title": "中文-共工",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-共工"
+    },
+    {
+      "entry_id": "中文-凤皇",
+      "title": "中文-凤皇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-凤皇"
+    },
+    {
+      "entry_id": "中文-刑天",
+      "title": "中文-刑天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-刑天"
+    },
+    {
+      "entry_id": "中文-劳民国",
+      "title": "中文-劳民国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-劳民国"
+    },
+    {
+      "entry_id": "中文-化蛇",
+      "title": "中文-化蛇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-化蛇"
+    },
+    {
+      "entry_id": "中文-北齐国",
+      "title": "中文-北齐国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-北齐国"
+    },
+    {
+      "entry_id": "中文-博父国",
+      "title": "中文-博父国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-博父国"
+    },
+    {
+      "entry_id": "中文-厌火国",
+      "title": "中文-厌火国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-厌火国"
+    },
+    {
+      "entry_id": "中文-双双",
+      "title": "中文-双双",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-双双"
+    },
+    {
+      "entry_id": "中文-叔歜国",
+      "title": "中文-叔歜国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-叔歜国"
+    },
+    {
+      "entry_id": "中文-句芒",
+      "title": "中文-句芒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-句芒"
+    },
+    {
+      "entry_id": "中文-合窳",
+      "title": "中文-合窳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-合窳"
+    },
+    {
+      "entry_id": "中文-后稷",
+      "title": "中文-后稷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-后稷"
+    },
+    {
+      "entry_id": "中文-君子国",
+      "title": "中文-君子国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-君子国"
+    },
+    {
+      "entry_id": "中文-周饶国",
+      "title": "中文-周饶国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-周饶国"
+    },
+    {
+      "entry_id": "中文-噎",
+      "title": "中文-噎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-噎"
+    },
+    {
+      "entry_id": "中文-土蝼",
+      "title": "中文-土蝼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-土蝼"
+    },
+    {
+      "entry_id": "中文-夏后启",
+      "title": "中文-夏后启",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-夏后启"
+    },
+    {
+      "entry_id": "中文-夔牛",
+      "title": "中文-夔牛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-夔牛"
+    },
+    {
+      "entry_id": "中文-大人国",
+      "title": "中文-大人国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-大人国"
+    },
+    {
+      "entry_id": "中文-大禹",
+      "title": "中文-大禹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-大禹"
+    },
+    {
+      "entry_id": "中文-大蟹",
+      "title": "中文-大蟹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-大蟹"
+    },
+    {
+      "entry_id": "中文-大鹗",
+      "title": "中文-大鹗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-大鹗"
+    },
+    {
+      "entry_id": "中文-天毒",
+      "title": "中文-天毒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-天毒"
+    },
+    {
+      "entry_id": "中文-天狗",
+      "title": "中文-天狗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-天狗"
+    },
+    {
+      "entry_id": "中文-太子长琴",
+      "title": "中文-太子长琴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-太子长琴"
+    },
+    {
+      "entry_id": "中文-夫诸",
+      "title": "中文-夫诸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-夫诸"
+    },
+    {
+      "entry_id": "中文-夸父",
+      "title": "中文-夸父",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-夸父"
+    },
+    {
+      "entry_id": "中文-奇肱国",
+      "title": "中文-奇肱国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-奇肱国"
+    },
+    {
+      "entry_id": "中文-奚仲",
+      "title": "中文-奚仲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-奚仲"
+    },
+    {
+      "entry_id": "中文-女丑",
+      "title": "中文-女丑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-女丑"
+    },
+    {
+      "entry_id": "中文-女娲",
+      "title": "中文-女娲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-女娲"
+    },
+    {
+      "entry_id": "中文-女子国",
+      "title": "中文-女子国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-女子国"
+    },
+    {
+      "entry_id": "中文-孟极",
+      "title": "中文-孟极",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-孟极"
+    },
+    {
+      "entry_id": "中文-孟鸟",
+      "title": "中文-孟鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-孟鸟"
+    },
+    {
+      "entry_id": "中文-孰湖",
+      "title": "中文-孰湖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-孰湖"
+    },
+    {
+      "entry_id": "中文-小人国",
+      "title": "中文-小人国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-小人国"
+    },
+    {
+      "entry_id": "中文-少昊",
+      "title": "中文-少昊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-少昊"
+    },
+    {
+      "entry_id": "中文-屏蓬",
+      "title": "中文-屏蓬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-屏蓬"
+    },
+    {
+      "entry_id": "中文-岐舌国",
+      "title": "中文-岐舌国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-岐舌国"
+    },
+    {
+      "entry_id": "中文-峳峳",
+      "title": "中文-峳峳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-峳峳"
+    },
+    {
+      "entry_id": "中文-巧倕",
+      "title": "中文-巧倕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-巧倕"
+    },
+    {
+      "entry_id": "中文-巫咸国",
+      "title": "中文-巫咸国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-巫咸国"
+    },
+    {
+      "entry_id": "中文-巴国",
+      "title": "中文-巴国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-巴国"
+    },
+    {
+      "entry_id": "中文-巴蛇",
+      "title": "中文-巴蛇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-巴蛇"
+    },
+    {
+      "entry_id": "中文-师鱼",
+      "title": "中文-师鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-师鱼"
+    },
+    {
+      "entry_id": "中文-帝丹朱",
+      "title": "中文-帝丹朱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-帝丹朱"
+    },
+    {
+      "entry_id": "中文-帝俊",
+      "title": "中文-帝俊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-帝俊"
+    },
+    {
+      "entry_id": "中文-帝台",
+      "title": "中文-帝台",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-帝台"
+    },
+    {
+      "entry_id": "中文-帝江",
+      "title": "中文-帝江",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-帝江"
+    },
+    {
+      "entry_id": "中文-幽鴳",
+      "title": "中文-幽鴳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-幽鴳"
+    },
+    {
+      "entry_id": "中文-应龙",
+      "title": "中文-应龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-应龙"
+    },
+    {
+      "entry_id": "中文-建木",
+      "title": "中文-建木",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-建木"
+    },
+    {
+      "entry_id": "中文-开明兽",
+      "title": "中文-开明兽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-开明兽"
+    },
+    {
+      "entry_id": "中文-当康",
+      "title": "中文-当康",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-当康"
+    },
+    {
+      "entry_id": "中文-彘",
+      "title": "中文-彘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-彘"
+    },
+    {
+      "entry_id": "中文-扶木",
+      "title": "中文-扶木",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-扶木"
+    },
+    {
+      "entry_id": "中文-拘缨国",
+      "title": "中文-拘缨国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-拘缨国"
+    },
+    {
+      "entry_id": "中文-文文",
+      "title": "中文-文文",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-文文"
+    },
+    {
+      "entry_id": "中文-文鳐鱼",
+      "title": "中文-文鳐鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-文鳐鱼"
+    },
+    {
+      "entry_id": "中文-旄马",
+      "title": "中文-旄马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-旄马"
+    },
+    {
+      "entry_id": "中文-无䏿国",
+      "title": "中文-无䏿国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-无䏿国"
+    },
+    {
+      "entry_id": "中文-无肠国",
+      "title": "中文-无肠国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-无肠国"
+    },
+    {
+      "entry_id": "中文-昆仑虚",
+      "title": "中文-昆仑虚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-昆仑虚"
+    },
+    {
+      "entry_id": "中文-朝鲜",
+      "title": "中文-朝鲜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-朝鲜"
+    },
+    {
+      "entry_id": "中文-朱卷",
+      "title": "中文-朱卷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-朱卷"
+    },
+    {
+      "entry_id": "中文-朱獳",
+      "title": "中文-朱獳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-朱獳"
+    },
+    {
+      "entry_id": "中文-柔利国",
+      "title": "中文-柔利国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-柔利国"
+    },
+    {
+      "entry_id": "中文-槐江山",
+      "title": "中文-槐江山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-槐江山"
+    },
+    {
+      "entry_id": "中文-武罗",
+      "title": "中文-武罗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-武罗"
+    },
+    {
+      "entry_id": "中文-毕方",
+      "title": "中文-毕方",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-毕方"
+    },
+    {
+      "entry_id": "中文-毛民",
+      "title": "中文-毛民",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-毛民"
+    },
+    {
+      "entry_id": "中文-水马",
+      "title": "中文-水马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-水马"
+    },
+    {
+      "entry_id": "中文-沃野",
+      "title": "中文-沃野",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-沃野"
+    },
+    {
+      "entry_id": "中文-泰逢",
+      "title": "中文-泰逢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-泰逢"
+    },
+    {
+      "entry_id": "中文-流波山",
+      "title": "中文-流波山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-流波山"
+    },
+    {
+      "entry_id": "中文-流黄辛氏",
+      "title": "中文-流黄辛氏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-流黄辛氏"
+    },
+    {
+      "entry_id": "中文-深目国",
+      "title": "中文-深目国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-深目国"
+    },
+    {
+      "entry_id": "中文-灌灌",
+      "title": "中文-灌灌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-灌灌"
+    },
+    {
+      "entry_id": "中文-灵山",
+      "title": "中文-灵山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-灵山"
+    },
+    {
+      "entry_id": "中文-烛龙",
+      "title": "中文-烛龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-烛龙"
+    },
+    {
+      "entry_id": "中文-熏池",
+      "title": "中文-熏池",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-熏池"
+    },
+    {
+      "entry_id": "中文-犀渠",
+      "title": "中文-犀渠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-犀渠"
+    },
+    {
+      "entry_id": "中文-犬戎国",
+      "title": "中文-犬戎国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-犬戎国"
+    },
+    {
+      "entry_id": "中文-犰狳",
+      "title": "中文-犰狳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-犰狳"
+    },
+    {
+      "entry_id": "中文-狌狌",
+      "title": "中文-狌狌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-狌狌"
+    },
+    {
+      "entry_id": "中文-狍鸮",
+      "title": "中文-狍鸮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-狍鸮"
+    },
+    {
+      "entry_id": "中文-狙如",
+      "title": "中文-狙如",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-狙如"
+    },
+    {
+      "entry_id": "中文-独㺍",
+      "title": "中文-独㺍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-独㺍"
+    },
+    {
+      "entry_id": "中文-狰",
+      "title": "中文-狰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-狰"
+    },
+    {
+      "entry_id": "中文-猩猩",
+      "title": "中文-猩猩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-猩猩"
+    },
+    {
+      "entry_id": "中文-猲狙",
+      "title": "中文-猲狙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-猲狙"
+    },
+    {
+      "entry_id": "中文-猼訑",
+      "title": "中文-猼訑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-猼訑"
+    },
+    {
+      "entry_id": "中文-猾褢",
+      "title": "中文-猾褢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-猾褢"
+    },
+    {
+      "entry_id": "中文-獙獙",
+      "title": "中文-獙獙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-獙獙"
+    },
+    {
+      "entry_id": "中文-獜",
+      "title": "中文-獜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-獜"
+    },
+    {
+      "entry_id": "中文-玄股国",
+      "title": "中文-玄股国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-玄股国"
+    },
+    {
+      "entry_id": "中文-玉山",
+      "title": "中文-玉山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-玉山"
+    },
+    {
+      "entry_id": "中文-琴虫",
+      "title": "中文-琴虫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-琴虫"
+    },
+    {
+      "entry_id": "中文-登葆山",
+      "title": "中文-登葆山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-登葆山"
+    },
+    {
+      "entry_id": "中文-白民国",
+      "title": "中文-白民国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-白民国"
+    },
+    {
+      "entry_id": "中文-白鵺",
+      "title": "中文-白鵺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-白鵺"
+    },
+    {
+      "entry_id": "中文-盐长国",
+      "title": "中文-盐长国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-盐长国"
+    },
+    {
+      "entry_id": "中文-相柳",
+      "title": "中文-相柳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-相柳"
+    },
+    {
+      "entry_id": "中文-瞿如",
+      "title": "中文-瞿如",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-瞿如"
+    },
+    {
+      "entry_id": "中文-祝融",
+      "title": "中文-祝融",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-祝融"
+    },
+    {
+      "entry_id": "中文-禺彊",
+      "title": "中文-禺彊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-禺彊"
+    },
+    {
+      "entry_id": "中文-穷奇",
+      "title": "中文-穷奇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-穷奇"
+    },
+    {
+      "entry_id": "中文-窫窳",
+      "title": "中文-窫窳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-窫窳"
+    },
+    {
+      "entry_id": "中文-章尾山",
+      "title": "中文-章尾山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-章尾山"
+    },
+    {
+      "entry_id": "中文-竦斯",
+      "title": "中文-竦斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-竦斯"
+    },
+    {
+      "entry_id": "中文-类",
+      "title": "中文-类",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-类"
+    },
+    {
+      "entry_id": "中文-精卫",
+      "title": "中文-精卫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-精卫"
+    },
+    {
+      "entry_id": "中文-絜钩",
+      "title": "中文-絜钩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-絜钩"
+    },
+    {
+      "entry_id": "中文-红光",
+      "title": "中文-红光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-红光"
+    },
+    {
+      "entry_id": "中文-结匈国",
+      "title": "中文-结匈国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-结匈国"
+    },
+    {
+      "entry_id": "中文-羬羊",
+      "title": "中文-羬羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-羬羊"
+    },
+    {
+      "entry_id": "中文-羽民国",
+      "title": "中文-羽民国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-羽民国"
+    },
+    {
+      "entry_id": "中文-聂耳国",
+      "title": "中文-聂耳国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-聂耳国"
+    },
+    {
+      "entry_id": "中文-肃慎国",
+      "title": "中文-肃慎国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-肃慎国"
+    },
+    {
+      "entry_id": "中文-肥遗",
+      "title": "中文-肥遗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-肥遗"
+    },
+    {
+      "entry_id": "中文-肥遗蛇",
+      "title": "中文-肥遗蛇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-肥遗蛇"
+    },
+    {
+      "entry_id": "中文-脩辟鱼",
+      "title": "中文-脩辟鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-脩辟鱼"
+    },
+    {
+      "entry_id": "中文-臷国",
+      "title": "中文-臷国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-臷国"
+    },
+    {
+      "entry_id": "中文-苗民",
+      "title": "中文-苗民",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-苗民"
+    },
+    {
+      "entry_id": "中文-若木",
+      "title": "中文-若木",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-若木"
+    },
+    {
+      "entry_id": "中文-英招",
+      "title": "中文-英招",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-英招"
+    },
+    {
+      "entry_id": "中文-葱聋",
+      "title": "中文-葱聋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-葱聋"
+    },
+    {
+      "entry_id": "中文-蓐收",
+      "title": "中文-蓐收",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-蓐收"
+    },
+    {
+      "entry_id": "中文-蓬莱山",
+      "title": "中文-蓬莱山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-蓬莱山"
+    },
+    {
+      "entry_id": "中文-虎蛟",
+      "title": "中文-虎蛟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-虎蛟"
+    },
+    {
+      "entry_id": "中文-蚩尤",
+      "title": "中文-蚩尤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-蚩尤"
+    },
+    {
+      "entry_id": "中文-蛊雕",
+      "title": "中文-蛊雕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-蛊雕"
+    },
+    {
+      "entry_id": "中文-蛮蛮",
+      "title": "中文-蛮蛮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-蛮蛮"
+    },
+    {
+      "entry_id": "中文-蜚",
+      "title": "中文-蜚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-蜚"
+    },
+    {
+      "entry_id": "中文-蜚蛭",
+      "title": "中文-蜚蛭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-蜚蛭"
+    },
+    {
+      "entry_id": "中文-蜮民",
+      "title": "中文-蜮民",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-蜮民"
+    },
+    {
+      "entry_id": "中文-蝡蛇",
+      "title": "中文-蝡蛇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-蝡蛇"
+    },
+    {
+      "entry_id": "中文-蟠蜚",
+      "title": "中文-蟠蜚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-蟠蜚"
+    },
+    {
+      "entry_id": "中文-西王母",
+      "title": "中文-西王母",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-西王母"
+    },
+    {
+      "entry_id": "中文-讙",
+      "title": "中文-讙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-讙"
+    },
+    {
+      "entry_id": "中文-讙头国",
+      "title": "中文-讙头国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-讙头国"
+    },
+    {
+      "entry_id": "中文-计蒙",
+      "title": "中文-计蒙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-计蒙"
+    },
+    {
+      "entry_id": "中文-诸夭之野",
+      "title": "中文-诸夭之野",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-诸夭之野"
+    },
+    {
+      "entry_id": "中文-诸怀",
+      "title": "中文-诸怀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-诸怀"
+    },
+    {
+      "entry_id": "中文-豪彘",
+      "title": "中文-豪彘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-豪彘"
+    },
+    {
+      "entry_id": "中文-贯匈国",
+      "title": "中文-贯匈国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-贯匈国"
+    },
+    {
+      "entry_id": "中文-赣巨人",
+      "title": "中文-赣巨人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-赣巨人"
+    },
+    {
+      "entry_id": "中文-赤鱬",
+      "title": "中文-赤鱬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-赤鱬"
+    },
+    {
+      "entry_id": "中文-跂踵国",
+      "title": "中文-跂踵国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-跂踵国"
+    },
+    {
+      "entry_id": "中文-轩辕之丘",
+      "title": "中文-轩辕之丘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-轩辕之丘"
+    },
+    {
+      "entry_id": "中文-轩辕国",
+      "title": "中文-轩辕国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-轩辕国"
+    },
+    {
+      "entry_id": "中文-都广之野",
+      "title": "中文-都广之野",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-都广之野"
+    },
+    {
+      "entry_id": "中文-钉灵国",
+      "title": "中文-钉灵国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-钉灵国"
+    },
+    {
+      "entry_id": "中文-钟山",
+      "title": "中文-钟山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-钟山"
+    },
+    {
+      "entry_id": "中文-钦原",
+      "title": "中文-钦原",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-钦原"
+    },
+    {
+      "entry_id": "中文-长乘",
+      "title": "中文-长乘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-长乘"
+    },
+    {
+      "entry_id": "中文-长右",
+      "title": "中文-长右",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-长右"
+    },
+    {
+      "entry_id": "中文-长股国",
+      "title": "中文-长股国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-长股国"
+    },
+    {
+      "entry_id": "中文-长臂国",
+      "title": "中文-长臂国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-长臂国"
+    },
+    {
+      "entry_id": "中文-闻獜",
+      "title": "中文-闻獜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-闻獜"
+    },
+    {
+      "entry_id": "中文-陵鱼",
+      "title": "中文-陵鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-陵鱼"
+    },
+    {
+      "entry_id": "中文-雨师妾",
+      "title": "中文-雨师妾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-雨师妾"
+    },
+    {
+      "entry_id": "中文-青丘国",
+      "title": "中文-青丘国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-青丘国"
+    },
+    {
+      "entry_id": "中文-青要山",
+      "title": "中文-青要山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-青要山"
+    },
+    {
+      "entry_id": "中文-青鴍",
+      "title": "中文-青鴍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-青鴍"
+    },
+    {
+      "entry_id": "中文-颉",
+      "title": "中文-颉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-颉"
+    },
+    {
+      "entry_id": "中文-颙",
+      "title": "中文-颙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-颙"
+    },
+    {
+      "entry_id": "中文-颛顼",
+      "title": "中文-颛顼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-颛顼"
+    },
+    {
+      "entry_id": "中文-飞鱼",
+      "title": "中文-飞鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-飞鱼"
+    },
+    {
+      "entry_id": "中文-马腹",
+      "title": "中文-马腹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-马腹"
+    },
+    {
+      "entry_id": "中文-骄虫",
+      "title": "中文-骄虫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-骄虫"
+    },
+    {
+      "entry_id": "中文-鬿雀",
+      "title": "中文-鬿雀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鬿雀"
+    },
+    {
+      "entry_id": "中文-鯈鱼",
+      "title": "中文-鯈鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鯈鱼"
+    },
+    {
+      "entry_id": "中文-鯥",
+      "title": "中文-鯥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鯥"
+    },
+    {
+      "entry_id": "中文-鲧",
+      "title": "中文-鲧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鲧"
+    },
+    {
+      "entry_id": "中文-鵸鵌",
+      "title": "中文-鵸鵌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鵸鵌"
+    },
+    {
+      "entry_id": "中文-鵹鹕",
+      "title": "中文-鵹鹕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鵹鹕"
+    },
+    {
+      "entry_id": "中文-鸣蛇",
+      "title": "中文-鸣蛇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鸣蛇"
+    },
+    {
+      "entry_id": "中文-鸰䳩",
+      "title": "中文-鸰䳩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鸰䳩"
+    },
+    {
+      "entry_id": "中文-鸾鸟",
+      "title": "中文-鸾鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鸾鸟"
+    },
+    {
+      "entry_id": "中文-鹑鸟",
+      "title": "中文-鹑鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鹑鸟"
+    },
+    {
+      "entry_id": "中文-鹿蜀",
+      "title": "中文-鹿蜀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-鹿蜀"
+    },
+    {
+      "entry_id": "中文-黄帝",
+      "title": "中文-黄帝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-黄帝"
+    },
+    {
+      "entry_id": "中文-黑齿国",
+      "title": "中文-黑齿国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/山海经/中文歌曲/中文-黑齿国"
+    }
+  ]
+}

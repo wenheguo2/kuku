@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E4神话故事/搜神记",
+  "work_name": "搜神记",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 15,
+  "total_duration_ms": 15957788,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第01章 董永遇仙七仙女",
+      "title": "第01章 董永遇仙七仙女",
+      "full_path": "上下五千年/E4神话故事/搜神记/第01章 董永遇仙七仙女",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1607723,
+      "char_count": 6284,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第02章 干将莫邪铸剑",
+      "title": "第02章 干将莫邪铸剑",
+      "full_path": "上下五千年/E4神话故事/搜神记/第02章 干将莫邪铸剑",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 992928,
+      "char_count": 3794,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第03章 韩凭夫妇相思树",
+      "title": "第03章 韩凭夫妇相思树",
+      "full_path": "上下五千年/E4神话故事/搜神记/第03章 韩凭夫妇相思树",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 996451,
+      "char_count": 3886,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第04章 宋定伯捉鬼",
+      "title": "第04章 宋定伯捉鬼",
+      "full_path": "上下五千年/E4神话故事/搜神记/第04章 宋定伯捉鬼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 731991,
+      "char_count": 2874,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第05章 徐光种瓜",
+      "title": "第05章 徐光种瓜",
+      "full_path": "上下五千年/E4神话故事/搜神记/第05章 徐光种瓜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1305870,
+      "char_count": 5066,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第06章 吴王小女紫玉",
+      "title": "第06章 吴王小女紫玉",
+      "full_path": "上下五千年/E4神话故事/搜神记/第06章 吴王小女紫玉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1095366,
+      "char_count": 4251,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第07章 管辂算命救赵颜",
+      "title": "第07章 管辂算命救赵颜",
+      "full_path": "上下五千年/E4神话故事/搜神记/第07章 管辂算命救赵颜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 771415,
+      "char_count": 2967,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第08章 张助种李",
+      "title": "第08章 张助种李",
+      "full_path": "上下五千年/E4神话故事/搜神记/第08章 张助种李",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1140734,
+      "char_count": 4376,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第09章 营陵道人令见亡妇",
+      "title": "第09章 营陵道人令见亡妇",
+      "full_path": "上下五千年/E4神话故事/搜神记/第09章 营陵道人令见亡妇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 842730,
+      "char_count": 3126,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第10章 焦尾琴蔡邕救木",
+      "title": "第10章 焦尾琴蔡邕救木",
+      "full_path": "上下五千年/E4神话故事/搜神记/第10章 焦尾琴蔡邕救木",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1069587,
+      "char_count": 4043,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第11章 田真兄弟分荆",
+      "title": "第11章 田真兄弟分荆",
+      "full_path": "上下五千年/E4神话故事/搜神记/第11章 田真兄弟分荆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1446664,
+      "char_count": 5558,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第12章 李娥魂游地府",
+      "title": "第12章 李娥魂游地府",
+      "full_path": "上下五千年/E4神话故事/搜神记/第12章 李娥魂游地府",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 919305,
+      "char_count": 3517,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第13章 张璞嫁女",
+      "title": "第13章 张璞嫁女",
+      "full_path": "上下五千年/E4神话故事/搜神记/第13章 张璞嫁女",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1331803,
+      "char_count": 5195,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第14章 于吉祈雨",
+      "title": "第14章 于吉祈雨",
+      "full_path": "上下五千年/E4神话故事/搜神记/第14章 于吉祈雨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 820131,
+      "char_count": 3138,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第15章 刘晨阮肇天台山",
+      "title": "第15章 刘晨阮肇天台山",
+      "full_path": "上下五千年/E4神话故事/搜神记/第15章 刘晨阮肇天台山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 885090,
+      "char_count": 3469,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

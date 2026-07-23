@@ -1,0 +1,1492 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/职业认知",
+  "name": "职业认知",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/职业认知/职业认知.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 211,
+  "entries": [
+    {
+      "entry_id": "中文-主持人",
+      "title": "中文-主持人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-主持人"
+    },
+    {
+      "entry_id": "中文-企业家",
+      "title": "中文-企业家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-企业家"
+    },
+    {
+      "entry_id": "中文-会计",
+      "title": "中文-会计",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-会计"
+    },
+    {
+      "entry_id": "中文-作家",
+      "title": "中文-作家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-作家"
+    },
+    {
+      "entry_id": "中文-保安",
+      "title": "中文-保安",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-保安"
+    },
+    {
+      "entry_id": "中文-修理工",
+      "title": "中文-修理工",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-修理工"
+    },
+    {
+      "entry_id": "中文-公交司机",
+      "title": "中文-公交司机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-公交司机"
+    },
+    {
+      "entry_id": "中文-公务员",
+      "title": "中文-公务员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-公务员"
+    },
+    {
+      "entry_id": "中文-兽医",
+      "title": "中文-兽医",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-兽医"
+    },
+    {
+      "entry_id": "中文-军人",
+      "title": "中文-军人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-军人"
+    },
+    {
+      "entry_id": "中文-农民",
+      "title": "中文-农民",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-农民"
+    },
+    {
+      "entry_id": "中文-出租车司机",
+      "title": "中文-出租车司机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-出租车司机"
+    },
+    {
+      "entry_id": "中文-动物园管理员",
+      "title": "中文-动物园管理员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-动物园管理员"
+    },
+    {
+      "entry_id": "中文-助产士",
+      "title": "中文-助产士",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-助产士"
+    },
+    {
+      "entry_id": "中文-医生",
+      "title": "中文-医生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-医生"
+    },
+    {
+      "entry_id": "中文-医生外科",
+      "title": "中文-医生外科",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-医生外科"
+    },
+    {
+      "entry_id": "中文-厨师",
+      "title": "中文-厨师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-厨师"
+    },
+    {
+      "entry_id": "中文-发明家",
+      "title": "中文-发明家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-发明家"
+    },
+    {
+      "entry_id": "中文-售货员",
+      "title": "中文-售货员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-售货员"
+    },
+    {
+      "entry_id": "中文-园丁",
+      "title": "中文-园丁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-园丁"
+    },
+    {
+      "entry_id": "中文-图书管理员",
+      "title": "中文-图书管理员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-图书管理员"
+    },
+    {
+      "entry_id": "中文-地质学家",
+      "title": "中文-地质学家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-地质学家"
+    },
+    {
+      "entry_id": "中文-外交官",
+      "title": "中文-外交官",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-外交官"
+    },
+    {
+      "entry_id": "中文-天文学家",
+      "title": "中文-天文学家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-天文学家"
+    },
+    {
+      "entry_id": "中文-宇航员",
+      "title": "中文-宇航员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-宇航员"
+    },
+    {
+      "entry_id": "中文-导游",
+      "title": "中文-导游",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-导游"
+    },
+    {
+      "entry_id": "中文-导演",
+      "title": "中文-导演",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-导演"
+    },
+    {
+      "entry_id": "中文-小丑",
+      "title": "中文-小丑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-小丑"
+    },
+    {
+      "entry_id": "中文-工程师",
+      "title": "中文-工程师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-工程师"
+    },
+    {
+      "entry_id": "中文-康复师",
+      "title": "中文-康复师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-康复师"
+    },
+    {
+      "entry_id": "中文-建筑师",
+      "title": "中文-建筑师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-建筑师"
+    },
+    {
+      "entry_id": "中文-律师",
+      "title": "中文-律师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-律师"
+    },
+    {
+      "entry_id": "中文-心理学家",
+      "title": "中文-心理学家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-心理学家"
+    },
+    {
+      "entry_id": "中文-快递分拣员",
+      "title": "中文-快递分拣员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-快递分拣员"
+    },
+    {
+      "entry_id": "中文-快递员",
+      "title": "中文-快递员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-快递员"
+    },
+    {
+      "entry_id": "中文-手工艺人",
+      "title": "中文-手工艺人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-手工艺人"
+    },
+    {
+      "entry_id": "中文-护士",
+      "title": "中文-护士",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-护士"
+    },
+    {
+      "entry_id": "中文-护林员",
+      "title": "中文-护林员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-护林员"
+    },
+    {
+      "entry_id": "中文-探险家",
+      "title": "中文-探险家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-探险家"
+    },
+    {
+      "entry_id": "中文-摄影师",
+      "title": "中文-摄影师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-摄影师"
+    },
+    {
+      "entry_id": "中文-播音员",
+      "title": "中文-播音员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-播音员"
+    },
+    {
+      "entry_id": "中文-收银员",
+      "title": "中文-收银员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-收银员"
+    },
+    {
+      "entry_id": "中文-政治家",
+      "title": "中文-政治家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-政治家"
+    },
+    {
+      "entry_id": "中文-救生员",
+      "title": "中文-救生员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-救生员"
+    },
+    {
+      "entry_id": "中文-教师",
+      "title": "中文-教师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-教师"
+    },
+    {
+      "entry_id": "中文-教练",
+      "title": "中文-教练",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-教练"
+    },
+    {
+      "entry_id": "中文-数据分析师",
+      "title": "中文-数据分析师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-数据分析师"
+    },
+    {
+      "entry_id": "中文-服务员",
+      "title": "中文-服务员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-服务员"
+    },
+    {
+      "entry_id": "中文-木匠",
+      "title": "中文-木匠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-木匠"
+    },
+    {
+      "entry_id": "中文-检察官",
+      "title": "中文-检察官",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-检察官"
+    },
+    {
+      "entry_id": "中文-歌手",
+      "title": "中文-歌手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-歌手"
+    },
+    {
+      "entry_id": "中文-气象学家",
+      "title": "中文-气象学家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-气象学家"
+    },
+    {
+      "entry_id": "中文-水管工",
+      "title": "中文-水管工",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-水管工"
+    },
+    {
+      "entry_id": "中文-法医",
+      "title": "中文-法医",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-法医"
+    },
+    {
+      "entry_id": "中文-法官",
+      "title": "中文-法官",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-法官"
+    },
+    {
+      "entry_id": "中文-测量员",
+      "title": "中文-测量员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-测量员"
+    },
+    {
+      "entry_id": "中文-海关关员",
+      "title": "中文-海关关员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-海关关员"
+    },
+    {
+      "entry_id": "中文-海洋生物学家",
+      "title": "中文-海洋生物学家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-海洋生物学家"
+    },
+    {
+      "entry_id": "中文-消防员",
+      "title": "中文-消防员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-消防员"
+    },
+    {
+      "entry_id": "中文-清洁工",
+      "title": "中文-清洁工",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-清洁工"
+    },
+    {
+      "entry_id": "中文-渔夫",
+      "title": "中文-渔夫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-渔夫"
+    },
+    {
+      "entry_id": "中文-演员",
+      "title": "中文-演员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-演员"
+    },
+    {
+      "entry_id": "中文-潜水员",
+      "title": "中文-潜水员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-潜水员"
+    },
+    {
+      "entry_id": "中文-火车司机",
+      "title": "中文-火车司机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-火车司机"
+    },
+    {
+      "entry_id": "中文-牙医",
+      "title": "中文-牙医",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-牙医"
+    },
+    {
+      "entry_id": "中文-牧民",
+      "title": "中文-牧民",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-牧民"
+    },
+    {
+      "entry_id": "中文-环卫工人",
+      "title": "中文-环卫工人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-环卫工人"
+    },
+    {
+      "entry_id": "中文-珠宝匠",
+      "title": "中文-珠宝匠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-珠宝匠"
+    },
+    {
+      "entry_id": "中文-理发师",
+      "title": "中文-理发师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-理发师"
+    },
+    {
+      "entry_id": "中文-电工",
+      "title": "中文-电工",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-电工"
+    },
+    {
+      "entry_id": "中文-画家",
+      "title": "中文-画家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-画家"
+    },
+    {
+      "entry_id": "中文-登山家",
+      "title": "中文-登山家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-登山家"
+    },
+    {
+      "entry_id": "中文-矿工",
+      "title": "中文-矿工",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-矿工"
+    },
+    {
+      "entry_id": "中文-科学家",
+      "title": "中文-科学家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-科学家"
+    },
+    {
+      "entry_id": "中文-程序员",
+      "title": "中文-程序员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-程序员"
+    },
+    {
+      "entry_id": "中文-空乘",
+      "title": "中文-空乘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-空乘"
+    },
+    {
+      "entry_id": "中文-编辑",
+      "title": "中文-编辑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-编辑"
+    },
+    {
+      "entry_id": "中文-网络工程师",
+      "title": "中文-网络工程师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-网络工程师"
+    },
+    {
+      "entry_id": "中文-翻译",
+      "title": "中文-翻译",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-翻译"
+    },
+    {
+      "entry_id": "中文-考古学家",
+      "title": "中文-考古学家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-考古学家"
+    },
+    {
+      "entry_id": "中文-舞蹈家",
+      "title": "中文-舞蹈家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-舞蹈家"
+    },
+    {
+      "entry_id": "中文-船长",
+      "title": "中文-船长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-船长"
+    },
+    {
+      "entry_id": "中文-茶农",
+      "title": "中文-茶农",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-茶农"
+    },
+    {
+      "entry_id": "中文-药剂师",
+      "title": "中文-药剂师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-药剂师"
+    },
+    {
+      "entry_id": "中文-营养师",
+      "title": "中文-营养师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-营养师"
+    },
+    {
+      "entry_id": "中文-蜂农",
+      "title": "中文-蜂农",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-蜂农"
+    },
+    {
+      "entry_id": "中文-裁判",
+      "title": "中文-裁判",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-裁判"
+    },
+    {
+      "entry_id": "中文-裁缝",
+      "title": "中文-裁缝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-裁缝"
+    },
+    {
+      "entry_id": "中文-警察",
+      "title": "中文-警察",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-警察"
+    },
+    {
+      "entry_id": "中文-记者",
+      "title": "中文-记者",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-记者"
+    },
+    {
+      "entry_id": "中文-设计师",
+      "title": "中文-设计师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-设计师"
+    },
+    {
+      "entry_id": "中文-赛车手",
+      "title": "中文-赛车手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-赛车手"
+    },
+    {
+      "entry_id": "中文-运动员",
+      "title": "中文-运动员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-运动员"
+    },
+    {
+      "entry_id": "中文-邮递员",
+      "title": "中文-邮递员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-邮递员"
+    },
+    {
+      "entry_id": "中文-钟表匠",
+      "title": "中文-钟表匠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-钟表匠"
+    },
+    {
+      "entry_id": "中文-铁匠",
+      "title": "中文-铁匠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-铁匠"
+    },
+    {
+      "entry_id": "中文-银行职员",
+      "title": "中文-银行职员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-银行职员"
+    },
+    {
+      "entry_id": "中文-陶艺师",
+      "title": "中文-陶艺师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-陶艺师"
+    },
+    {
+      "entry_id": "中文-面包师",
+      "title": "中文-面包师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-面包师"
+    },
+    {
+      "entry_id": "中文-音乐家",
+      "title": "中文-音乐家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-音乐家"
+    },
+    {
+      "entry_id": "中文-领航员",
+      "title": "中文-领航员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-领航员"
+    },
+    {
+      "entry_id": "中文-飞行员",
+      "title": "中文-飞行员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-飞行员"
+    },
+    {
+      "entry_id": "中文-驯兽师",
+      "title": "中文-驯兽师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-驯兽师"
+    },
+    {
+      "entry_id": "中文-验光师",
+      "title": "中文-验光师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-验光师"
+    },
+    {
+      "entry_id": "中文-魔术师",
+      "title": "中文-魔术师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/中文-魔术师"
+    },
+    {
+      "entry_id": "主持人 Host",
+      "title": "主持人 Host",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/主持人 Host"
+    },
+    {
+      "entry_id": "企业家 Entrepreneur",
+      "title": "企业家 Entrepreneur",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/企业家 Entrepreneur"
+    },
+    {
+      "entry_id": "会计 Accountant",
+      "title": "会计 Accountant",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/会计 Accountant"
+    },
+    {
+      "entry_id": "作家 Writer",
+      "title": "作家 Writer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/作家 Writer"
+    },
+    {
+      "entry_id": "保安 Security Guard",
+      "title": "保安 Security Guard",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/保安 Security Guard"
+    },
+    {
+      "entry_id": "修理工 Repairman",
+      "title": "修理工 Repairman",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/修理工 Repairman"
+    },
+    {
+      "entry_id": "公交司机 Bus Driver",
+      "title": "公交司机 Bus Driver",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/公交司机 Bus Driver"
+    },
+    {
+      "entry_id": "公务员 Civil Servant",
+      "title": "公务员 Civil Servant",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/公务员 Civil Servant"
+    },
+    {
+      "entry_id": "兽医 Veterinarian",
+      "title": "兽医 Veterinarian",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/兽医 Veterinarian"
+    },
+    {
+      "entry_id": "军人 Soldier",
+      "title": "军人 Soldier",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/军人 Soldier"
+    },
+    {
+      "entry_id": "农民 Farmer",
+      "title": "农民 Farmer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/农民 Farmer"
+    },
+    {
+      "entry_id": "出租车司机 Taxi Driver",
+      "title": "出租车司机 Taxi Driver",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/出租车司机 Taxi Driver"
+    },
+    {
+      "entry_id": "动物园管理员 Zoo Keeper",
+      "title": "动物园管理员 Zoo Keeper",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/动物园管理员 Zoo Keeper"
+    },
+    {
+      "entry_id": "助产士 Midwife",
+      "title": "助产士 Midwife",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/助产士 Midwife"
+    },
+    {
+      "entry_id": "医生 Doctor",
+      "title": "医生 Doctor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/医生 Doctor"
+    },
+    {
+      "entry_id": "医生外科 Surgeon",
+      "title": "医生外科 Surgeon",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/医生外科 Surgeon"
+    },
+    {
+      "entry_id": "厨师 Chef",
+      "title": "厨师 Chef",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/厨师 Chef"
+    },
+    {
+      "entry_id": "发明家 Inventor",
+      "title": "发明家 Inventor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/发明家 Inventor"
+    },
+    {
+      "entry_id": "售货员 Salesperson",
+      "title": "售货员 Salesperson",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/售货员 Salesperson"
+    },
+    {
+      "entry_id": "园丁 Gardener",
+      "title": "园丁 Gardener",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/园丁 Gardener"
+    },
+    {
+      "entry_id": "图书管理员 Librarian",
+      "title": "图书管理员 Librarian",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/图书管理员 Librarian"
+    },
+    {
+      "entry_id": "地质学家 Geologist",
+      "title": "地质学家 Geologist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/地质学家 Geologist"
+    },
+    {
+      "entry_id": "外交官 Diplomat",
+      "title": "外交官 Diplomat",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/外交官 Diplomat"
+    },
+    {
+      "entry_id": "天文学家 Astronomer",
+      "title": "天文学家 Astronomer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/天文学家 Astronomer"
+    },
+    {
+      "entry_id": "宇航员 Astronaut",
+      "title": "宇航员 Astronaut",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/宇航员 Astronaut"
+    },
+    {
+      "entry_id": "导游 Tour Guide",
+      "title": "导游 Tour Guide",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/导游 Tour Guide"
+    },
+    {
+      "entry_id": "导演 Director",
+      "title": "导演 Director",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/导演 Director"
+    },
+    {
+      "entry_id": "小丑 Clown",
+      "title": "小丑 Clown",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/小丑 Clown"
+    },
+    {
+      "entry_id": "工程师 Engineer",
+      "title": "工程师 Engineer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/工程师 Engineer"
+    },
+    {
+      "entry_id": "康复师 Therapist",
+      "title": "康复师 Therapist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/康复师 Therapist"
+    },
+    {
+      "entry_id": "建筑师 Architect",
+      "title": "建筑师 Architect",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/建筑师 Architect"
+    },
+    {
+      "entry_id": "律师 Lawyer",
+      "title": "律师 Lawyer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/律师 Lawyer"
+    },
+    {
+      "entry_id": "心理学家 Psychologist",
+      "title": "心理学家 Psychologist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/心理学家 Psychologist"
+    },
+    {
+      "entry_id": "快递分拣员 Package Sorter",
+      "title": "快递分拣员 Package Sorter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/快递分拣员 Package Sorter"
+    },
+    {
+      "entry_id": "快递员 Courier",
+      "title": "快递员 Courier",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/快递员 Courier"
+    },
+    {
+      "entry_id": "手工艺人 Craftsman",
+      "title": "手工艺人 Craftsman",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/手工艺人 Craftsman"
+    },
+    {
+      "entry_id": "护士 Nurse",
+      "title": "护士 Nurse",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/护士 Nurse"
+    },
+    {
+      "entry_id": "护林员 Forest Ranger",
+      "title": "护林员 Forest Ranger",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/护林员 Forest Ranger"
+    },
+    {
+      "entry_id": "探险家 Explorer",
+      "title": "探险家 Explorer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/探险家 Explorer"
+    },
+    {
+      "entry_id": "摄影师 Photographer",
+      "title": "摄影师 Photographer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/摄影师 Photographer"
+    },
+    {
+      "entry_id": "播音员 Announcer",
+      "title": "播音员 Announcer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/播音员 Announcer"
+    },
+    {
+      "entry_id": "收银员 Cashier",
+      "title": "收银员 Cashier",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/收银员 Cashier"
+    },
+    {
+      "entry_id": "政治家 Politician",
+      "title": "政治家 Politician",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/政治家 Politician"
+    },
+    {
+      "entry_id": "救生员 Lifeguard",
+      "title": "救生员 Lifeguard",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/救生员 Lifeguard"
+    },
+    {
+      "entry_id": "教师 Teacher",
+      "title": "教师 Teacher",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/教师 Teacher"
+    },
+    {
+      "entry_id": "教练 Coach",
+      "title": "教练 Coach",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/教练 Coach"
+    },
+    {
+      "entry_id": "数据分析师 Data Analyst",
+      "title": "数据分析师 Data Analyst",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/数据分析师 Data Analyst"
+    },
+    {
+      "entry_id": "服务员 Waiter",
+      "title": "服务员 Waiter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/服务员 Waiter"
+    },
+    {
+      "entry_id": "木匠 Carpenter",
+      "title": "木匠 Carpenter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/木匠 Carpenter"
+    },
+    {
+      "entry_id": "检察官 Prosecutor",
+      "title": "检察官 Prosecutor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/检察官 Prosecutor"
+    },
+    {
+      "entry_id": "歌手 Singer",
+      "title": "歌手 Singer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/歌手 Singer"
+    },
+    {
+      "entry_id": "气象学家 Meteorologist",
+      "title": "气象学家 Meteorologist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/气象学家 Meteorologist"
+    },
+    {
+      "entry_id": "水管工 Plumber",
+      "title": "水管工 Plumber",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/水管工 Plumber"
+    },
+    {
+      "entry_id": "法医 Forensic Doctor",
+      "title": "法医 Forensic Doctor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/法医 Forensic Doctor"
+    },
+    {
+      "entry_id": "法官 Judge",
+      "title": "法官 Judge",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/法官 Judge"
+    },
+    {
+      "entry_id": "测量员 Surveyor",
+      "title": "测量员 Surveyor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/测量员 Surveyor"
+    },
+    {
+      "entry_id": "海关关员 Customs Officer",
+      "title": "海关关员 Customs Officer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/海关关员 Customs Officer"
+    },
+    {
+      "entry_id": "海洋生物学家 Marine Biologist",
+      "title": "海洋生物学家 Marine Biologist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/海洋生物学家 Marine Biologist"
+    },
+    {
+      "entry_id": "消防员 Firefighter",
+      "title": "消防员 Firefighter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/消防员 Firefighter"
+    },
+    {
+      "entry_id": "清洁工 Cleaner",
+      "title": "清洁工 Cleaner",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/清洁工 Cleaner"
+    },
+    {
+      "entry_id": "渔夫 Fisherman",
+      "title": "渔夫 Fisherman",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/渔夫 Fisherman"
+    },
+    {
+      "entry_id": "演员 Actor",
+      "title": "演员 Actor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/演员 Actor"
+    },
+    {
+      "entry_id": "潜水员 Diver",
+      "title": "潜水员 Diver",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/潜水员 Diver"
+    },
+    {
+      "entry_id": "火车司机 Train Driver",
+      "title": "火车司机 Train Driver",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/火车司机 Train Driver"
+    },
+    {
+      "entry_id": "牙医 Dentist",
+      "title": "牙医 Dentist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/牙医 Dentist"
+    },
+    {
+      "entry_id": "牧民 Herdsman",
+      "title": "牧民 Herdsman",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/牧民 Herdsman"
+    },
+    {
+      "entry_id": "环卫工人 Sanitation Worker",
+      "title": "环卫工人 Sanitation Worker",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/环卫工人 Sanitation Worker"
+    },
+    {
+      "entry_id": "珠宝匠 Jeweler",
+      "title": "珠宝匠 Jeweler",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/珠宝匠 Jeweler"
+    },
+    {
+      "entry_id": "理发师 Barber",
+      "title": "理发师 Barber",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/理发师 Barber"
+    },
+    {
+      "entry_id": "电工 Electrician",
+      "title": "电工 Electrician",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/电工 Electrician"
+    },
+    {
+      "entry_id": "画家 Painter",
+      "title": "画家 Painter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/画家 Painter"
+    },
+    {
+      "entry_id": "登山家 Mountaineer",
+      "title": "登山家 Mountaineer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/登山家 Mountaineer"
+    },
+    {
+      "entry_id": "矿工 Miner",
+      "title": "矿工 Miner",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/矿工 Miner"
+    },
+    {
+      "entry_id": "科学家 Scientist",
+      "title": "科学家 Scientist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/科学家 Scientist"
+    },
+    {
+      "entry_id": "程序员 Programmer",
+      "title": "程序员 Programmer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/程序员 Programmer"
+    },
+    {
+      "entry_id": "空乘 Flight Attendant",
+      "title": "空乘 Flight Attendant",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/空乘 Flight Attendant"
+    },
+    {
+      "entry_id": "编辑 Editor",
+      "title": "编辑 Editor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/编辑 Editor"
+    },
+    {
+      "entry_id": "网络工程师 Network Engineer",
+      "title": "网络工程师 Network Engineer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/网络工程师 Network Engineer"
+    },
+    {
+      "entry_id": "翻译 Translator",
+      "title": "翻译 Translator",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/翻译 Translator"
+    },
+    {
+      "entry_id": "考古学家 Archaeologist",
+      "title": "考古学家 Archaeologist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/考古学家 Archaeologist"
+    },
+    {
+      "entry_id": "舞蹈家 Dancer",
+      "title": "舞蹈家 Dancer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/舞蹈家 Dancer"
+    },
+    {
+      "entry_id": "船长 Ship Captain",
+      "title": "船长 Ship Captain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/船长 Ship Captain"
+    },
+    {
+      "entry_id": "茶农 Tea Farmer",
+      "title": "茶农 Tea Farmer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/茶农 Tea Farmer"
+    },
+    {
+      "entry_id": "药剂师 Pharmacist",
+      "title": "药剂师 Pharmacist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/药剂师 Pharmacist"
+    },
+    {
+      "entry_id": "营养师 Dietitian",
+      "title": "营养师 Dietitian",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/营养师 Dietitian"
+    },
+    {
+      "entry_id": "蜂农 Beekeeper",
+      "title": "蜂农 Beekeeper",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/蜂农 Beekeeper"
+    },
+    {
+      "entry_id": "裁判 Referee",
+      "title": "裁判 Referee",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/裁判 Referee"
+    },
+    {
+      "entry_id": "裁缝 Tailor",
+      "title": "裁缝 Tailor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/裁缝 Tailor"
+    },
+    {
+      "entry_id": "警察 Police Officer",
+      "title": "警察 Police Officer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/警察 Police Officer"
+    },
+    {
+      "entry_id": "记者 Journalist",
+      "title": "记者 Journalist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/记者 Journalist"
+    },
+    {
+      "entry_id": "设计师 Designer",
+      "title": "设计师 Designer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/设计师 Designer"
+    },
+    {
+      "entry_id": "赛车手 Race Car Driver",
+      "title": "赛车手 Race Car Driver",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/赛车手 Race Car Driver"
+    },
+    {
+      "entry_id": "运动员 Athlete",
+      "title": "运动员 Athlete",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/运动员 Athlete"
+    },
+    {
+      "entry_id": "邮递员 Postman",
+      "title": "邮递员 Postman",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/邮递员 Postman"
+    },
+    {
+      "entry_id": "钟表匠 Watchmaker",
+      "title": "钟表匠 Watchmaker",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/钟表匠 Watchmaker"
+    },
+    {
+      "entry_id": "铁匠 Blacksmith",
+      "title": "铁匠 Blacksmith",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/铁匠 Blacksmith"
+    },
+    {
+      "entry_id": "银行职员 Bank Clerk",
+      "title": "银行职员 Bank Clerk",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/银行职员 Bank Clerk"
+    },
+    {
+      "entry_id": "陶艺师 Potter",
+      "title": "陶艺师 Potter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/陶艺师 Potter"
+    },
+    {
+      "entry_id": "面包师 Baker",
+      "title": "面包师 Baker",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/面包师 Baker"
+    },
+    {
+      "entry_id": "音乐家 Musician",
+      "title": "音乐家 Musician",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/音乐家 Musician"
+    },
+    {
+      "entry_id": "领航员 Navigator",
+      "title": "领航员 Navigator",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/领航员 Navigator"
+    },
+    {
+      "entry_id": "飞行员 Airline Pilot",
+      "title": "飞行员 Airline Pilot",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/飞行员 Airline Pilot"
+    },
+    {
+      "entry_id": "飞行员 Pilot",
+      "title": "飞行员 Pilot",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/飞行员 Pilot"
+    },
+    {
+      "entry_id": "驯兽师 Animal Trainer",
+      "title": "驯兽师 Animal Trainer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/驯兽师 Animal Trainer"
+    },
+    {
+      "entry_id": "验光师 Optometrist",
+      "title": "验光师 Optometrist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/验光师 Optometrist"
+    },
+    {
+      "entry_id": "魔术师 Magician",
+      "title": "魔术师 Magician",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/职业认知/魔术师 Magician"
+    }
+  ]
+}

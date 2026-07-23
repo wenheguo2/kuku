@@ -1,0 +1,1636 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E3历史故事/东周列国志",
+  "work_name": "东周列国志",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 108,
+  "total_duration_ms": 105636687,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第001回 周宣王闻谣轻杀 杜大夫化厉鸣冤",
+      "title": "第001回 周宣王闻谣轻杀 杜大夫化厉鸣冤",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第001回 周宣王闻谣轻杀 杜大夫化厉鸣冤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1643369,
+      "char_count": 6341,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第002回 褒人赎罪献美女 幽王烽火戏诸侯",
+      "title": "第002回 褒人赎罪献美女 幽王烽火戏诸侯",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第002回 褒人赎罪献美女 幽王烽火戏诸侯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1070162,
+      "char_count": 4151,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第003回 犬戎主大闹镐京 周平王东迁洛邑",
+      "title": "第003回 犬戎主大闹镐京 周平王东迁洛邑",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第003回 犬戎主大闹镐京 周平王东迁洛邑",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 760096,
+      "char_count": 2953,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第004回 秦文公郊天应梦 郑庄公掘地见母",
+      "title": "第004回 秦文公郊天应梦 郑庄公掘地见母",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第004回 秦文公郊天应梦 郑庄公掘地见母",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 908738,
+      "char_count": 3529,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第005回 宠虢公周郑交质 助卫逆鲁宋兴兵",
+      "title": "第005回 宠虢公周郑交质 助卫逆鲁宋兴兵",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第005回 宠虢公周郑交质 助卫逆鲁宋兴兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1129977,
+      "char_count": 4325,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第006回 卫石蜡大义灭亲 郑庄公假命伐宋",
+      "title": "第006回 卫石蜡大义灭亲 郑庄公假命伐宋",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第006回 卫石蜡大义灭亲 郑庄公假命伐宋",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1177159,
+      "char_count": 4435,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第007回 公孙阏争车射考叔 公子翚献谄贼隐公",
+      "title": "第007回 公孙阏争车射考叔 公子翚献谄贼隐公",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第007回 公孙阏争车射考叔 公子翚献谄贼隐公",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 854447,
+      "char_count": 3272,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第008回 立新君华督行赂 败戎兵郑忽辞婚",
+      "title": "第008回 立新君华督行赂 败戎兵郑忽辞婚",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第008回 立新君华督行赂 败戎兵郑忽辞婚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1508994,
+      "char_count": 5706,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第009回 齐侯送文姜婚鲁 祝聃射周王中肩",
+      "title": "第009回 齐侯送文姜婚鲁 祝聃射周王中肩",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第009回 齐侯送文姜婚鲁 祝聃射周王中肩",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 914270,
+      "char_count": 3416,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第010回 楚熊通僭号称王 郑祭足被胁立庶",
+      "title": "第010回 楚熊通僭号称王 郑祭足被胁立庶",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第010回 楚熊通僭号称王 郑祭足被胁立庶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 765447,
+      "char_count": 2986,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第011回 宋庄公贪赂搏兵 郑祭足杀婿逐主",
+      "title": "第011回 宋庄公贪赂搏兵 郑祭足杀婿逐主",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第011回 宋庄公贪赂搏兵 郑祭足杀婿逐主",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 816125,
+      "char_count": 3165,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第012回 卫宣公筑台纳媳 高渠弥乘间易君",
+      "title": "第012回 卫宣公筑台纳媳 高渠弥乘间易君",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第012回 卫宣公筑台纳媳 高渠弥乘间易君",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1234091,
+      "char_count": 4799,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第013回 鲁桓公夫妇如齐 郑子亹君臣为戮",
+      "title": "第013回 鲁桓公夫妇如齐 郑子亹君臣为戮",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第013回 鲁桓公夫妇如齐 郑子亹君臣为戮",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 892017,
+      "char_count": 3502,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第014回 卫侯朔抗王入国 齐襄公出猎遇鬼",
+      "title": "第014回 卫侯朔抗王入国 齐襄公出猎遇鬼",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第014回 卫侯朔抗王入国 齐襄公出猎遇鬼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 709954,
+      "char_count": 2809,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第015回 雍大夫计杀无知 鲁庄公乾时大战",
+      "title": "第015回 雍大夫计杀无知 鲁庄公乾时大战",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第015回 雍大夫计杀无知 鲁庄公乾时大战",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1211838,
+      "char_count": 4678,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "第016回 释槛囚鲍叔荐仲 战长勺曹刿败齐",
+      "title": "第016回 释槛囚鲍叔荐仲 战长勺曹刿败齐",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第016回 释槛囚鲍叔荐仲 战长勺曹刿败齐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 837944,
+      "char_count": 3233,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "第017回 宋国纳赂诛长万 楚王杯酒虏息妫",
+      "title": "第017回 宋国纳赂诛长万 楚王杯酒虏息妫",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第017回 宋国纳赂诛长万 楚王杯酒虏息妫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 837449,
+      "char_count": 3255,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "第018回 曹沫手剑劫齐侯 桓公举火爵宁戚",
+      "title": "第018回 曹沫手剑劫齐侯 桓公举火爵宁戚",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第018回 曹沫手剑劫齐侯 桓公举火爵宁戚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 978987,
+      "char_count": 3747,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "第019回 擒傅暇厉公复国 杀子颓惠王反正",
+      "title": "第019回 擒傅暇厉公复国 杀子颓惠王反正",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第019回 擒傅暇厉公复国 杀子颓惠王反正",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 848274,
+      "char_count": 3314,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "第020回 晋献公违卜立骊姬 楚成王平乱相子文",
+      "title": "第020回 晋献公违卜立骊姬 楚成王平乱相子文",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第020回 晋献公违卜立骊姬 楚成王平乱相子文",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 967766,
+      "char_count": 3714,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "第021回 管夷吾智辨俞儿 齐桓公兵定孤竹",
+      "title": "第021回 管夷吾智辨俞儿 齐桓公兵定孤竹",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第021回 管夷吾智辨俞儿 齐桓公兵定孤竹",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1048722,
+      "char_count": 4036,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "第022回 公子友两定鲁君 齐皇子独对委蛇",
+      "title": "第022回 公子友两定鲁君 齐皇子独对委蛇",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第022回 公子友两定鲁君 齐皇子独对委蛇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 771773,
+      "char_count": 2976,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "第023回 卫懿公好鹤亡国 齐桓公兴兵伐楚",
+      "title": "第023回 卫懿公好鹤亡国 齐桓公兴兵伐楚",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第023回 卫懿公好鹤亡国 齐桓公兴兵伐楚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 760558,
+      "char_count": 2914,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "第024回 盟召陵礼款楚大夫 会葵邱义戴周天子",
+      "title": "第024回 盟召陵礼款楚大夫 会葵邱义戴周天子",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第024回 盟召陵礼款楚大夫 会葵邱义戴周天子",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 703595,
+      "char_count": 2718,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "第025回 智荀息假途灭虢 穷百里饲牛拜相",
+      "title": "第025回 智荀息假途灭虢 穷百里饲牛拜相",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第025回 智荀息假途灭虢 穷百里饲牛拜相",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 764659,
+      "char_count": 2924,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "第026回 歌扊扅百里认妻 获陈宝穆公证梦",
+      "title": "第026回 歌扊扅百里认妻 获陈宝穆公证梦",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第026回 歌扊扅百里认妻 获陈宝穆公证梦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 671631,
+      "char_count": 2609,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "第027回 骊姬巧计杀申生 献公临终嘱荀息",
+      "title": "第027回 骊姬巧计杀申生 献公临终嘱荀息",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第027回 骊姬巧计杀申生 献公临终嘱荀息",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 807375,
+      "char_count": 2839,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "第028回 里克两弑孤主 穆公一平晋乱",
+      "title": "第028回 里克两弑孤主 穆公一平晋乱",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第028回 里克两弑孤主 穆公一平晋乱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 918833,
+      "char_count": 3531,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "第029回 晋惠公大诛群臣 管夷吾病榻论相",
+      "title": "第029回 晋惠公大诛群臣 管夷吾病榻论相",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第029回 晋惠公大诛群臣 管夷吾病榻论相",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 836413,
+      "char_count": 3224,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "第030回 秦晋大战龙门山 穆姬登台要大赦",
+      "title": "第030回 秦晋大战龙门山 穆姬登台要大赦",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第030回 秦晋大战龙门山 穆姬登台要大赦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 840987,
+      "char_count": 3233,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "第031回 晋惠公怒杀庆郑 介子推割股啖君",
+      "title": "第031回 晋惠公怒杀庆郑 介子推割股啖君",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第031回 晋惠公怒杀庆郑 介子推割股啖君",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 806091,
+      "char_count": 3118,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "第032回 晏蛾儿逾墙殉节 群公子大闹朝堂",
+      "title": "第032回 晏蛾儿逾墙殉节 群公子大闹朝堂",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第032回 晏蛾儿逾墙殉节 群公子大闹朝堂",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 764873,
+      "char_count": 2948,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "第033回 宋公伐齐纳子昭 楚人伏兵劫盟主",
+      "title": "第033回 宋公伐齐纳子昭 楚人伏兵劫盟主",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第033回 宋公伐齐纳子昭 楚人伏兵劫盟主",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 887835,
+      "char_count": 3391,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "第034回 宋襄公假仁失众 齐姜氏乘醉遣夫",
+      "title": "第034回 宋襄公假仁失众 齐姜氏乘醉遣夫",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第034回 宋襄公假仁失众 齐姜氏乘醉遣夫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 697483,
+      "char_count": 2701,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "第035回 晋重耳周游列国 秦怀嬴重婚公子",
+      "title": "第035回 晋重耳周游列国 秦怀嬴重婚公子",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第035回 晋重耳周游列国 秦怀嬴重婚公子",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1134441,
+      "char_count": 4357,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "第036回 晋吕郤夜焚公宫 秦穆公再平晋乱",
+      "title": "第036回 晋吕郤夜焚公宫 秦穆公再平晋乱",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第036回 晋吕郤夜焚公宫 秦穆公再平晋乱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 963015,
+      "char_count": 3716,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "第037回 介子推守志焚绵上 太叔带怙宠入宫中",
+      "title": "第037回 介子推守志焚绵上 太叔带怙宠入宫中",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第037回 介子推守志焚绵上 太叔带怙宠入宫中",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1193716,
+      "char_count": 4517,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "第038回 周襄王避乱居郑 晋文公守信降原",
+      "title": "第038回 周襄王避乱居郑 晋文公守信降原",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第038回 周襄王避乱居郑 晋文公守信降原",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1030087,
+      "char_count": 3656,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "第039回 柳下惠授词却敌 晋文公伐卫破曹",
+      "title": "第039回 柳下惠授词却敌 晋文公伐卫破曹",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第039回 柳下惠授词却敌 晋文公伐卫破曹",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1198798,
+      "char_count": 4558,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "第040回 先轸诡谋激子玉 晋楚城濮大交兵",
+      "title": "第040回 先轸诡谋激子玉 晋楚城濮大交兵",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第040回 先轸诡谋激子玉 晋楚城濮大交兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 788196,
+      "char_count": 3040,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "第041回 连谷城子玉自杀 践土坛晋侯主盟",
+      "title": "第041回 连谷城子玉自杀 践土坛晋侯主盟",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第041回 连谷城子玉自杀 践土坛晋侯主盟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 816983,
+      "char_count": 3143,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "第042回 周襄王河阳受觐 卫元咺公馆对狱",
+      "title": "第042回 周襄王河阳受觐 卫元咺公馆对狱",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第042回 周襄王河阳受觐 卫元咺公馆对狱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 920130,
+      "char_count": 3518,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "第043回 智宁俞假鸩复卫 老烛武缒城说秦",
+      "title": "第043回 智宁俞假鸩复卫 老烛武缒城说秦",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第043回 智宁俞假鸩复卫 老烛武缒城说秦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1075230,
+      "char_count": 4135,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "第044回 叔詹据鼎抗晋侯 弦高假命犒秦军",
+      "title": "第044回 叔詹据鼎抗晋侯 弦高假命犒秦军",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第044回 叔詹据鼎抗晋侯 弦高假命犒秦军",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 924480,
+      "char_count": 3576,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "第045回 晋襄公墨縗败秦 先元帅免胄殉翟",
+      "title": "第045回 晋襄公墨縗败秦 先元帅免胄殉翟",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第045回 晋襄公墨縗败秦 先元帅免胄殉翟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 667916,
+      "char_count": 2596,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "第046回 楚商臣宫中弑父 秦穆公崤谷封尸",
+      "title": "第046回 楚商臣宫中弑父 秦穆公崤谷封尸",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第046回 楚商臣宫中弑父 秦穆公崤谷封尸",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1066021,
+      "char_count": 4124,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "第047回 弄玉吹箫双跨凤 赵盾背秦立灵公",
+      "title": "第047回 弄玉吹箫双跨凤 赵盾背秦立灵公",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第047回 弄玉吹箫双跨凤 赵盾背秦立灵公",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 967735,
+      "char_count": 3413,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "第048回 刺先克五将乱晋 召士会寿余绐秦",
+      "title": "第048回 刺先克五将乱晋 召士会寿余绐秦",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第048回 刺先克五将乱晋 召士会寿余绐秦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1091225,
+      "char_count": 4224,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "第049回 公子鲍厚施买国 齐懿公竹池遇变",
+      "title": "第049回 公子鲍厚施买国 齐懿公竹池遇变",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第049回 公子鲍厚施买国 齐懿公竹池遇变",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 648238,
+      "char_count": 2519,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "第050回 东门遂援立子倭 赵宣子桃园强谏",
+      "title": "第050回 东门遂援立子倭 赵宣子桃园强谏",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第050回 东门遂援立子倭 赵宣子桃园强谏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1055542,
+      "char_count": 4077,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "第051回 责赵盾董狐直笔 诛斗椒绝缨大会",
+      "title": "第051回 责赵盾董狐直笔 诛斗椒绝缨大会",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第051回 责赵盾董狐直笔 诛斗椒绝缨大会",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 810374,
+      "char_count": 3105,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "第052回 公子宋尝鼋构逆 陈灵公衵服戏朝",
+      "title": "第052回 公子宋尝鼋构逆 陈灵公衵服戏朝",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第052回 公子宋尝鼋构逆 陈灵公衵服戏朝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1237369,
+      "char_count": 4873,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "第053回 楚庄王纳谏复陈 晋景公出师救郑",
+      "title": "第053回 楚庄王纳谏复陈 晋景公出师救郑",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第053回 楚庄王纳谏复陈 晋景公出师救郑",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1111400,
+      "char_count": 4242,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "第054回 荀林父纵属亡师 孟侏儒托优悟主",
+      "title": "第054回 荀林父纵属亡师 孟侏儒托优悟主",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第054回 荀林父纵属亡师 孟侏儒托优悟主",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 771705,
+      "char_count": 2979,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "第055回 华元登床劫子反 老人结草亢杜回",
+      "title": "第055回 华元登床劫子反 老人结草亢杜回",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第055回 华元登床劫子反 老人结草亢杜回",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 950765,
+      "char_count": 3711,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "第056回 萧夫人登台笑客 逢丑父易服免君",
+      "title": "第056回 萧夫人登台笑客 逢丑父易服免君",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第056回 萧夫人登台笑客 逢丑父易服免君",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 689163,
+      "char_count": 2711,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "第057回 娶夏姬巫臣逃晋 围下宫程婴匿孤",
+      "title": "第057回 娶夏姬巫臣逃晋 围下宫程婴匿孤",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第057回 娶夏姬巫臣逃晋 围下宫程婴匿孤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 796239,
+      "char_count": 3097,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "第058回 说秦伯魏相迎医 报魏锜养叔献艺",
+      "title": "第058回 说秦伯魏相迎医 报魏锜养叔献艺",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第058回 说秦伯魏相迎医 报魏锜养叔献艺",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1255651,
+      "char_count": 4820,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "第059回 宠胥童晋国大乱 诛岸贾赵氏复兴",
+      "title": "第059回 宠胥童晋国大乱 诛岸贾赵氏复兴",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第059回 宠胥童晋国大乱 诛岸贾赵氏复兴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1005119,
+      "char_count": 3866,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "第060回 智武子分军肆敌 逼阳城三将斗力",
+      "title": "第060回 智武子分军肆敌 逼阳城三将斗力",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第060回 智武子分军肆敌 逼阳城三将斗力",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 687841,
+      "char_count": 2677,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "第061回 晋悼公驾楚会萧鱼 孙林父因歌逐献公",
+      "title": "第061回 晋悼公驾楚会萧鱼 孙林父因歌逐献公",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第061回 晋悼公驾楚会萧鱼 孙林父因歌逐献公",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1481282,
+      "char_count": 5743,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "第062回 诸侯同心围齐国 晋臣合计逐栾盈",
+      "title": "第062回 诸侯同心围齐国 晋臣合计逐栾盈",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第062回 诸侯同心围齐国 晋臣合计逐栾盈",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 714804,
+      "char_count": 2746,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "第063回 老祁奚力救羊舌 小范鞅智劫魏舒",
+      "title": "第063回 老祁奚力救羊舌 小范鞅智劫魏舒",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第063回 老祁奚力救羊舌 小范鞅智劫魏舒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1072836,
+      "char_count": 4094,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "第064回 曲沃城栾盈灭族 且于门杞梁死战",
+      "title": "第064回 曲沃城栾盈灭族 且于门杞梁死战",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第064回 曲沃城栾盈灭族 且于门杞梁死战",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 807950,
+      "char_count": 2957,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "第065回 弑齐光崔庆专权 纳卫衎宁喜擅政",
+      "title": "第065回 弑齐光崔庆专权 纳卫衎宁喜擅政",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第065回 弑齐光崔庆专权 纳卫衎宁喜擅政",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 897196,
+      "char_count": 3264,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "第066回 杀宁喜子鱄出奔 戮崔杼庆封独相",
+      "title": "第066回 杀宁喜子鱄出奔 戮崔杼庆封独相",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第066回 杀宁喜子鱄出奔 戮崔杼庆封独相",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1106651,
+      "char_count": 4304,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "第067回 卢蒲癸计逐庆封 楚灵王大合诸侯",
+      "title": "第067回 卢蒲癸计逐庆封 楚灵王大合诸侯",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第067回 卢蒲癸计逐庆封 楚灵王大合诸侯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1397013,
+      "char_count": 5369,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "第068回 贺虒祁师旷辨新声 散家财陈氏买齐国",
+      "title": "第068回 贺虒祁师旷辨新声 散家财陈氏买齐国",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第068回 贺虒祁师旷辨新声 散家财陈氏买齐国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 730272,
+      "char_count": 2836,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "第069回 楚灵王挟诈灭陈蔡 晏平仲巧辩服荆蛮",
+      "title": "第069回 楚灵王挟诈灭陈蔡 晏平仲巧辩服荆蛮",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第069回 楚灵王挟诈灭陈蔡 晏平仲巧辩服荆蛮",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 932482,
+      "char_count": 3556,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "第070回 杀三兄楚平王即位 劫齐鲁晋昭公寻盟",
+      "title": "第070回 杀三兄楚平王即位 劫齐鲁晋昭公寻盟",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第070回 杀三兄楚平王即位 劫齐鲁晋昭公寻盟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 906020,
+      "char_count": 3512,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "第071回 晏平仲二桃杀三士 楚平王娶媳逐世子",
+      "title": "第071回 晏平仲二桃杀三士 楚平王娶媳逐世子",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第071回 晏平仲二桃杀三士 楚平王娶媳逐世子",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1059521,
+      "char_count": 4085,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "第072回 棠公尚捐躯奔父难 伍子胥微服过昭关",
+      "title": "第072回 棠公尚捐躯奔父难 伍子胥微服过昭关",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第072回 棠公尚捐躯奔父难 伍子胥微服过昭关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1122768,
+      "char_count": 4352,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "第073回 伍员吹箫乞吴市 专诸进炙刺王僚",
+      "title": "第073回 伍员吹箫乞吴市 专诸进炙刺王僚",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第073回 伍员吹箫乞吴市 专诸进炙刺王僚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1343266,
+      "char_count": 5137,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "第074回 囊瓦惧谤诛无极 要离贪名刺庆忌",
+      "title": "第074回 囊瓦惧谤诛无极 要离贪名刺庆忌",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第074回 囊瓦惧谤诛无极 要离贪名刺庆忌",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1313065,
+      "char_count": 4986,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "第075回 孙武子演阵斩美姬 蔡昭侯纳质乞吴师",
+      "title": "第075回 孙武子演阵斩美姬 蔡昭侯纳质乞吴师",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第075回 孙武子演阵斩美姬 蔡昭侯纳质乞吴师",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 834985,
+      "char_count": 3242,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "第076回 楚昭王弃郢西奔 伍子胥掘墓鞭尸",
+      "title": "第076回 楚昭王弃郢西奔 伍子胥掘墓鞭尸",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第076回 楚昭王弃郢西奔 伍子胥掘墓鞭尸",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1475190,
+      "char_count": 5719,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "第077回 泣秦庭申包胥借兵 退吴师楚昭王返国",
+      "title": "第077回 泣秦庭申包胥借兵 退吴师楚昭王返国",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第077回 泣秦庭申包胥借兵 退吴师楚昭王返国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1361701,
+      "char_count": 4963,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "第078回 会夹谷孔子却齐 堕三都闻人伏法",
+      "title": "第078回 会夹谷孔子却齐 堕三都闻人伏法",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第078回 会夹谷孔子却齐 堕三都闻人伏法",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1436434,
+      "char_count": 5570,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "第079回 归女乐黎弥阻孔子 栖会稽文种通宰嚭",
+      "title": "第079回 归女乐黎弥阻孔子 栖会稽文种通宰嚭",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第079回 归女乐黎弥阻孔子 栖会稽文种通宰嚭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 857735,
+      "char_count": 3330,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "第080回 夫差违谏释越 勾践竭力事吴",
+      "title": "第080回 夫差违谏释越 勾践竭力事吴",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第080回 夫差违谏释越 勾践竭力事吴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1169546,
+      "char_count": 4489,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 81,
+      "chapter_id": "第081回 美人计吴宫宠西施 言语科子贡说列国",
+      "title": "第081回 美人计吴宫宠西施 言语科子贡说列国",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第081回 美人计吴宫宠西施 言语科子贡说列国",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1219869,
+      "char_count": 4653,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 82,
+      "chapter_id": "第082回 杀子胥夫差争歃 纳蒯瞆子路结缨",
+      "title": "第082回 杀子胥夫差争歃 纳蒯瞆子路结缨",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第082回 杀子胥夫差争歃 纳蒯瞆子路结缨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 933662,
+      "char_count": 3603,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 83,
+      "chapter_id": "第083回 诛芈胜叶公定楚 灭夫差越王称霸",
+      "title": "第083回 诛芈胜叶公定楚 灭夫差越王称霸",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第083回 诛芈胜叶公定楚 灭夫差越王称霸",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1045081,
+      "char_count": 4068,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 84,
+      "chapter_id": "第084回 智伯决水灌晋阳 豫让击衣报襄子",
+      "title": "第084回 智伯决水灌晋阳 豫让击衣报襄子",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第084回 智伯决水灌晋阳 豫让击衣报襄子",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 996364,
+      "char_count": 3889,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 85,
+      "chapter_id": "第085回 乐羊子怒餟中山羹 西门豹乔送河伯妇",
+      "title": "第085回 乐羊子怒餟中山羹 西门豹乔送河伯妇",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第085回 乐羊子怒餟中山羹 西门豹乔送河伯妇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 831771,
+      "char_count": 3214,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 86,
+      "chapter_id": "第086回 吴起杀妻求将 邹忌鼓琴取相",
+      "title": "第086回 吴起杀妻求将 邹忌鼓琴取相",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第086回 吴起杀妻求将 邹忌鼓琴取相",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 922668,
+      "char_count": 3578,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 87,
+      "chapter_id": "第087回 说秦君卫鞅变法 辞鬼谷孙膑下山",
+      "title": "第087回 说秦君卫鞅变法 辞鬼谷孙膑下山",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第087回 说秦君卫鞅变法 辞鬼谷孙膑下山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 846233,
+      "char_count": 3236,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 88,
+      "chapter_id": "第088回 孙膑佯狂脱祸 庞涓兵败桂陵",
+      "title": "第088回 孙膑佯狂脱祸 庞涓兵败桂陵",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第088回 孙膑佯狂脱祸 庞涓兵败桂陵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1192156,
+      "char_count": 4621,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 89,
+      "chapter_id": "第089回 马陵道万弩射庞涓 咸阳市五牛分商鞅",
+      "title": "第089回 马陵道万弩射庞涓 咸阳市五牛分商鞅",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第089回 马陵道万弩射庞涓 咸阳市五牛分商鞅",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 865415,
+      "char_count": 3069,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 90,
+      "chapter_id": "第090回 苏秦合纵相六国 张仪被激往秦邦",
+      "title": "第090回 苏秦合纵相六国 张仪被激往秦邦",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第090回 苏秦合纵相六国 张仪被激往秦邦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1012409,
+      "char_count": 3873,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 91,
+      "chapter_id": "第091回 学让国燕哙召兵 伪献地张仪欺楚",
+      "title": "第091回 学让国燕哙召兵 伪献地张仪欺楚",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第091回 学让国燕哙召兵 伪献地张仪欺楚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1040406,
+      "char_count": 3991,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 92,
+      "chapter_id": "第092回 赛举鼎秦武王绝胫 莽赴会楚怀王陷秦",
+      "title": "第092回 赛举鼎秦武王绝胫 莽赴会楚怀王陷秦",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第092回 赛举鼎秦武王绝胫 莽赴会楚怀王陷秦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 891879,
+      "char_count": 3447,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 93,
+      "chapter_id": "第093回 赵主父饿死沙邱宫 孟尝君偷过函谷关",
+      "title": "第093回 赵主父饿死沙邱宫 孟尝君偷过函谷关",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第093回 赵主父饿死沙邱宫 孟尝君偷过函谷关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1059091,
+      "char_count": 4138,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 94,
+      "chapter_id": "第094回 冯谖弹铗客孟尝 齐王纠兵伐桀宋",
+      "title": "第094回 冯谖弹铗客孟尝 齐王纠兵伐桀宋",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第094回 冯谖弹铗客孟尝 齐王纠兵伐桀宋",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1284367,
+      "char_count": 4943,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 95,
+      "chapter_id": "第095回 说四国乐毅灭齐 驱火牛田单破燕",
+      "title": "第095回 说四国乐毅灭齐 驱火牛田单破燕",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第095回 说四国乐毅灭齐 驱火牛田单破燕",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 947125,
+      "char_count": 3728,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 96,
+      "chapter_id": "第096回 蔺相如两屈秦王 马服君单解韩围",
+      "title": "第096回 蔺相如两屈秦王 马服君单解韩围",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第096回 蔺相如两屈秦王 马服君单解韩围",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 824344,
+      "char_count": 3223,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 97,
+      "chapter_id": "第097回 死范睢计逃秦国 假张禄廷辱魏使",
+      "title": "第097回 死范睢计逃秦国 假张禄廷辱魏使",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第097回 死范睢计逃秦国 假张禄廷辱魏使",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1078618,
+      "char_count": 3754,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 98,
+      "chapter_id": "第098回 质平原秦王索魏齐 败长平白起坑赵卒",
+      "title": "第098回 质平原秦王索魏齐 败长平白起坑赵卒",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第098回 质平原秦王索魏齐 败长平白起坑赵卒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 809875,
+      "char_count": 3046,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 99,
+      "chapter_id": "第099回 武安君含冤死杜邮 吕不韦巧计归异人",
+      "title": "第099回 武安君含冤死杜邮 吕不韦巧计归异人",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第099回 武安君含冤死杜邮 吕不韦巧计归异人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1178503,
+      "char_count": 4466,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 100,
+      "chapter_id": "第100回 鲁仲连不肯帝秦 信陵君窃符救赵",
+      "title": "第100回 鲁仲连不肯帝秦 信陵君窃符救赵",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第100回 鲁仲连不肯帝秦 信陵君窃符救赵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 831019,
+      "char_count": 3162,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 101,
+      "chapter_id": "第101回 秦王灭周迁九鼎 廉颇败燕杀二将",
+      "title": "第101回 秦王灭周迁九鼎 廉颇败燕杀二将",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第101回 秦王灭周迁九鼎 廉颇败燕杀二将",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1101372,
+      "char_count": 4215,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 102,
+      "chapter_id": "第102回 华阴道信陵败蒙骜 胡卢河庞煖斩剧辛",
+      "title": "第102回 华阴道信陵败蒙骜 胡卢河庞煖斩剧辛",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第102回 华阴道信陵败蒙骜 胡卢河庞煖斩剧辛",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 764520,
+      "char_count": 2711,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 103,
+      "chapter_id": "第103回 李国舅争权除黄歇 樊於期传檄讨秦王",
+      "title": "第103回 李国舅争权除黄歇 樊於期传檄讨秦王",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第103回 李国舅争权除黄歇 樊於期传檄讨秦王",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 734421,
+      "char_count": 2843,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 104,
+      "chapter_id": "第104回 甘罗童年取高位 嫪毐伪腐乱秦宫",
+      "title": "第104回 甘罗童年取高位 嫪毐伪腐乱秦宫",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第104回 甘罗童年取高位 嫪毐伪腐乱秦宫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1163420,
+      "char_count": 4562,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 105,
+      "chapter_id": "第105回 茅焦解衣谏秦王 李牧坚壁却桓齮",
+      "title": "第105回 茅焦解衣谏秦王 李牧坚壁却桓齮",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第105回 茅焦解衣谏秦王 李牧坚壁却桓齮",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 709916,
+      "char_count": 2757,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 106,
+      "chapter_id": "第106回 王敖反间杀李牧 田光刎颈荐荆轲",
+      "title": "第106回 王敖反间杀李牧 田光刎颈荐荆轲",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第106回 王敖反间杀李牧 田光刎颈荐荆轲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 909236,
+      "char_count": 3505,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 107,
+      "chapter_id": "第107回 献地图荆轲闹秦庭 论兵法王翦代李信",
+      "title": "第107回 献地图荆轲闹秦庭 论兵法王翦代李信",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第107回 献地图荆轲闹秦庭 论兵法王翦代李信",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1231118,
+      "char_count": 4776,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 108,
+      "chapter_id": "第108回 兼六国混一舆图 号始皇建立郡县",
+      "title": "第108回 兼六国混一舆图 号始皇建立郡县",
+      "full_path": "上下五千年/E3历史故事/东周列国志/第108回 兼六国混一舆图 号始皇建立郡县",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 985801,
+      "char_count": 3699,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

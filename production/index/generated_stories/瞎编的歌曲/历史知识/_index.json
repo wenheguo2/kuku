@@ -1,0 +1,1936 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/历史知识",
+  "name": "历史知识",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/历史知识.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 274,
+  "entries": [
+    {
+      "entry_id": "一五计划 First Five-Year Plan",
+      "title": "一五计划 First Five-Year Plan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/一五计划 First Five-Year Plan"
+    },
+    {
+      "entry_id": "一带一路 Belt and Road Initiative",
+      "title": "一带一路 Belt and Road Initiative",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/一带一路 Belt and Road Initiative"
+    },
+    {
+      "entry_id": "七七事变 Marco Polo Bridge Incident",
+      "title": "七七事变 Marco Polo Bridge Incident",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/七七事变 Marco Polo Bridge Incident"
+    },
+    {
+      "entry_id": "七擒孟获 Seven Captures of Meng Huo",
+      "title": "七擒孟获 Seven Captures of Meng Huo",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/七擒孟获 Seven Captures of Meng Huo"
+    },
+    {
+      "entry_id": "万历三大征 Three Campaigns of Wanli",
+      "title": "万历三大征 Three Campaigns of Wanli",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/万历三大征 Three Campaigns of Wanli"
+    },
+    {
+      "entry_id": "万历援朝援救 Korea Expedition",
+      "title": "万历援朝援救 Korea Expedition",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/万历援朝援救 Korea Expedition"
+    },
+    {
+      "entry_id": "三反五反运动 Three-Anti Five-Anti Campaign",
+      "title": "三反五反运动 Three-Anti Five-Anti Campaign",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/三反五反运动 Three-Anti Five-Anti Campaign"
+    },
+    {
+      "entry_id": "三国鼎立 Three Kingdoms",
+      "title": "三国鼎立 Three Kingdoms",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/三国鼎立 Three Kingdoms"
+    },
+    {
+      "entry_id": "三大战役 Three Great Campaigns",
+      "title": "三大战役 Three Great Campaigns",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/三大战役 Three Great Campaigns"
+    },
+    {
+      "entry_id": "三家分晋 Three Families Partition Jin",
+      "title": "三家分晋 Three Families Partition Jin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/三家分晋 Three Families Partition Jin"
+    },
+    {
+      "entry_id": "三峡工程 Three Gorges Dam",
+      "title": "三峡工程 Three Gorges Dam",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/三峡工程 Three Gorges Dam"
+    },
+    {
+      "entry_id": "三藩之乱 Revolt of Three Feudatories",
+      "title": "三藩之乱 Revolt of Three Feudatories",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/三藩之乱 Revolt of Three Feudatories"
+    },
+    {
+      "entry_id": "上海世博会 Shanghai World Expo",
+      "title": "上海世博会 Shanghai World Expo",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/上海世博会 Shanghai World Expo"
+    },
+    {
+      "entry_id": "东林党争 Donglin Faction Struggle",
+      "title": "东林党争 Donglin Faction Struggle",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/东林党争 Donglin Faction Struggle"
+    },
+    {
+      "entry_id": "丝绸之路 Silk Road",
+      "title": "丝绸之路 Silk Road",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/丝绸之路 Silk Road"
+    },
+    {
+      "entry_id": "两弹一星 Two Bombs One Satellite",
+      "title": "两弹一星 Two Bombs One Satellite",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/两弹一星 Two Bombs One Satellite"
+    },
+    {
+      "entry_id": "中共一大 CPC First Congress",
+      "title": "中共一大 CPC First Congress",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中共一大 CPC First Congress"
+    },
+    {
+      "entry_id": "中文-七擒孟获",
+      "title": "中文-七擒孟获",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-七擒孟获"
+    },
+    {
+      "entry_id": "中文-三家分晋",
+      "title": "中文-三家分晋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-三家分晋"
+    },
+    {
+      "entry_id": "中文-上海世博会",
+      "title": "中文-上海世博会",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-上海世博会"
+    },
+    {
+      "entry_id": "中文-义和团运动",
+      "title": "中文-义和团运动",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-义和团运动"
+    },
+    {
+      "entry_id": "中文-二里头文化",
+      "title": "中文-二里头文化",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-二里头文化"
+    },
+    {
+      "entry_id": "中文-于谦保卫北京",
+      "title": "中文-于谦保卫北京",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-于谦保卫北京"
+    },
+    {
+      "entry_id": "中文-井冈山会师",
+      "title": "中文-井冈山会师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-井冈山会师"
+    },
+    {
+      "entry_id": "中文-侯景之乱",
+      "title": "中文-侯景之乱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-侯景之乱"
+    },
+    {
+      "entry_id": "中文-光武中兴",
+      "title": "中文-光武中兴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-光武中兴"
+    },
+    {
+      "entry_id": "中文-南明抗清",
+      "title": "中文-南明抗清",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-南明抗清"
+    },
+    {
+      "entry_id": "中文-司马氏篡魏",
+      "title": "中文-司马氏篡魏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-司马氏篡魏"
+    },
+    {
+      "entry_id": "中文-周公辅政",
+      "title": "中文-周公辅政",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-周公辅政"
+    },
+    {
+      "entry_id": "中文-商鞅变法",
+      "title": "中文-商鞅变法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-商鞅变法"
+    },
+    {
+      "entry_id": "中文-土木之变",
+      "title": "中文-土木之变",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-土木之变"
+    },
+    {
+      "entry_id": "中文-夷陵之战",
+      "title": "中文-夷陵之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-夷陵之战"
+    },
+    {
+      "entry_id": "中文-宋江起义",
+      "title": "中文-宋江起义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-宋江起义"
+    },
+    {
+      "entry_id": "中文-官渡之战",
+      "title": "中文-官渡之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-官渡之战"
+    },
+    {
+      "entry_id": "中文-平定准噶尔",
+      "title": "中文-平定准噶尔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-平定准噶尔"
+    },
+    {
+      "entry_id": "中文-开皇之治",
+      "title": "中文-开皇之治",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-开皇之治"
+    },
+    {
+      "entry_id": "中文-张衡地动仪",
+      "title": "中文-张衡地动仪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-张衡地动仪"
+    },
+    {
+      "entry_id": "中文-文化大革命",
+      "title": "中文-文化大革命",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-文化大革命"
+    },
+    {
+      "entry_id": "中文-新中国成立",
+      "title": "中文-新中国成立",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-新中国成立"
+    },
+    {
+      "entry_id": "中文-春秋五霸",
+      "title": "中文-春秋五霸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-春秋五霸"
+    },
+    {
+      "entry_id": "中文-李自成起义",
+      "title": "中文-李自成起义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-李自成起义"
+    },
+    {
+      "entry_id": "中文-武王伐纣",
+      "title": "中文-武王伐纣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-武王伐纣"
+    },
+    {
+      "entry_id": "中文-永乐大典",
+      "title": "中文-永乐大典",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-永乐大典"
+    },
+    {
+      "entry_id": "中文-永贞革新",
+      "title": "中文-永贞革新",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-永贞革新"
+    },
+    {
+      "entry_id": "中文-河姆渡文化",
+      "title": "中文-河姆渡文化",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-河姆渡文化"
+    },
+    {
+      "entry_id": "中文-洋务运动",
+      "title": "中文-洋务运动",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-洋务运动"
+    },
+    {
+      "entry_id": "中文-清军入关",
+      "title": "中文-清军入关",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-清军入关"
+    },
+    {
+      "entry_id": "中文-焚书坑儒",
+      "title": "中文-焚书坑儒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-焚书坑儒"
+    },
+    {
+      "entry_id": "中文-甘露之变",
+      "title": "中文-甘露之变",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-甘露之变"
+    },
+    {
+      "entry_id": "中文-神农尝百草",
+      "title": "中文-神农尝百草",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-神农尝百草"
+    },
+    {
+      "entry_id": "中文-脱贫攻坚",
+      "title": "中文-脱贫攻坚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-脱贫攻坚"
+    },
+    {
+      "entry_id": "中文-蒙古西征",
+      "title": "中文-蒙古西征",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-蒙古西征"
+    },
+    {
+      "entry_id": "中文-诸葛亮出师表",
+      "title": "中文-诸葛亮出师表",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-诸葛亮出师表"
+    },
+    {
+      "entry_id": "中文-贞观之治",
+      "title": "中文-贞观之治",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-贞观之治"
+    },
+    {
+      "entry_id": "中文-郑和下西洋",
+      "title": "中文-郑和下西洋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-郑和下西洋"
+    },
+    {
+      "entry_id": "中文-郑和宝船",
+      "title": "中文-郑和宝船",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-郑和宝船"
+    },
+    {
+      "entry_id": "中文-郭子仪收复长安",
+      "title": "中文-郭子仪收复长安",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-郭子仪收复长安"
+    },
+    {
+      "entry_id": "中文-长平之战",
+      "title": "中文-长平之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-长平之战"
+    },
+    {
+      "entry_id": "中文-陈胜吴广起义",
+      "title": "中文-陈胜吴广起义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-陈胜吴广起义"
+    },
+    {
+      "entry_id": "中文-陶渊明归隐",
+      "title": "中文-陶渊明归隐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-陶渊明归隐"
+    },
+    {
+      "entry_id": "中文-雅克萨之战",
+      "title": "中文-雅克萨之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-雅克萨之战"
+    },
+    {
+      "entry_id": "中文-雕版印刷",
+      "title": "中文-雕版印刷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-雕版印刷"
+    },
+    {
+      "entry_id": "中文-马陵之战",
+      "title": "中文-马陵之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-马陵之战"
+    },
+    {
+      "entry_id": "中文-鸦片战争",
+      "title": "中文-鸦片战争",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-鸦片战争"
+    },
+    {
+      "entry_id": "中文-黄巾起义",
+      "title": "中文-黄巾起义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-黄巾起义"
+    },
+    {
+      "entry_id": "中文-黄帝战蚩尤",
+      "title": "中文-黄帝战蚩尤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-黄帝战蚩尤"
+    },
+    {
+      "entry_id": "中文-黄海海战",
+      "title": "中文-黄海海战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-黄海海战"
+    },
+    {
+      "entry_id": "中文-齐桓公称霸",
+      "title": "中文-齐桓公称霸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/中文-齐桓公称霸"
+    },
+    {
+      "entry_id": "义和团运动 Boxer Rebellion",
+      "title": "义和团运动 Boxer Rebellion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/义和团运动 Boxer Rebellion"
+    },
+    {
+      "entry_id": "书同文车同轨 Standardization",
+      "title": "书同文车同轨 Standardization",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/书同文车同轨 Standardization"
+    },
+    {
+      "entry_id": "二里头文化 Erlitou Culture",
+      "title": "二里头文化 Erlitou Culture",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/二里头文化 Erlitou Culture"
+    },
+    {
+      "entry_id": "于谦保卫北京 Yu Qian Defends Beijing",
+      "title": "于谦保卫北京 Yu Qian Defends Beijing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/于谦保卫北京 Yu Qian Defends Beijing"
+    },
+    {
+      "entry_id": "五卅运动 May Thirtieth Movement",
+      "title": "五卅运动 May Thirtieth Movement",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/五卅运动 May Thirtieth Movement"
+    },
+    {
+      "entry_id": "五四运动 May Fourth Movement",
+      "title": "五四运动 May Fourth Movement",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/五四运动 May Fourth Movement"
+    },
+    {
+      "entry_id": "五胡乱华 Five Barbarians Invade",
+      "title": "五胡乱华 Five Barbarians Invade",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/五胡乱华 Five Barbarians Invade"
+    },
+    {
+      "entry_id": "井冈山会师 Jinggangshan Reunion",
+      "title": "井冈山会师 Jinggangshan Reunion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/井冈山会师 Jinggangshan Reunion"
+    },
+    {
+      "entry_id": "仰韶文化 Yangshao Culture",
+      "title": "仰韶文化 Yangshao Culture",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/仰韶文化 Yangshao Culture"
+    },
+    {
+      "entry_id": "会昌灭佛 Huichang Persecution",
+      "title": "会昌灭佛 Huichang Persecution",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/会昌灭佛 Huichang Persecution"
+    },
+    {
+      "entry_id": "侯景之乱 Hou Jing Rebellion",
+      "title": "侯景之乱 Hou Jing Rebellion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/侯景之乱 Hou Jing Rebellion"
+    },
+    {
+      "entry_id": "修筑长城 Building the Great Wall",
+      "title": "修筑长城 Building the Great Wall",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/修筑长城 Building the Great Wall"
+    },
+    {
+      "entry_id": "元曲兴盛 Yuan Opera Flourishes",
+      "title": "元曲兴盛 Yuan Opera Flourishes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/元曲兴盛 Yuan Opera Flourishes"
+    },
+    {
+      "entry_id": "光武中兴 Guangwu Restoration",
+      "title": "光武中兴 Guangwu Restoration",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/光武中兴 Guangwu Restoration"
+    },
+    {
+      "entry_id": "党锢之祸 Party Imprisonment Incident",
+      "title": "党锢之祸 Party Imprisonment Incident",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/党锢之祸 Party Imprisonment Incident"
+    },
+    {
+      "entry_id": "八王之乱 War of the Eight Princes",
+      "title": "八王之乱 War of the Eight Princes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/八王之乱 War of the Eight Princes"
+    },
+    {
+      "entry_id": "公车上书 Petition of the Examination Candidates",
+      "title": "公车上书 Petition of the Examination Candidates",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/公车上书 Petition of the Examination Candidates"
+    },
+    {
+      "entry_id": "六朝古都 Six Dynasties Capital",
+      "title": "六朝古都 Six Dynasties Capital",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/六朝古都 Six Dynasties Capital"
+    },
+    {
+      "entry_id": "加入世贸 WTO Accession",
+      "title": "加入世贸 WTO Accession",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/加入世贸 WTO Accession"
+    },
+    {
+      "entry_id": "勾践卧薪尝胆 Goujian Endures Hardships",
+      "title": "勾践卧薪尝胆 Goujian Endures Hardships",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/勾践卧薪尝胆 Goujian Endures Hardships"
+    },
+    {
+      "entry_id": "北京人 Peking Man",
+      "title": "北京人 Peking Man",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/北京人 Peking Man"
+    },
+    {
+      "entry_id": "北京奥运 Beijing Olympics",
+      "title": "北京奥运 Beijing Olympics",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/北京奥运 Beijing Olympics"
+    },
+    {
+      "entry_id": "北伐战争 Northern Expedition",
+      "title": "北伐战争 Northern Expedition",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/北伐战争 Northern Expedition"
+    },
+    {
+      "entry_id": "北魏分裂 Northern Wei Splits",
+      "title": "北魏分裂 Northern Wei Splits",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/北魏分裂 Northern Wei Splits"
+    },
+    {
+      "entry_id": "北魏孝文帝改革 Emperor Xiaowen Reforms",
+      "title": "北魏孝文帝改革 Emperor Xiaowen Reforms",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/北魏孝文帝改革 Emperor Xiaowen Reforms"
+    },
+    {
+      "entry_id": "南京大屠杀 Nanjing Massacre",
+      "title": "南京大屠杀 Nanjing Massacre",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/南京大屠杀 Nanjing Massacre"
+    },
+    {
+      "entry_id": "南京条约 Treaty of Nanjing",
+      "title": "南京条约 Treaty of Nanjing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/南京条约 Treaty of Nanjing"
+    },
+    {
+      "entry_id": "南京长江大桥 Nanjing Yangtze Bridge",
+      "title": "南京长江大桥 Nanjing Yangtze Bridge",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/南京长江大桥 Nanjing Yangtze Bridge"
+    },
+    {
+      "entry_id": "南巡讲话 Southern Tour Speeches",
+      "title": "南巡讲话 Southern Tour Speeches",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/南巡讲话 Southern Tour Speeches"
+    },
+    {
+      "entry_id": "南昌起义 Nanchang Uprising",
+      "title": "南昌起义 Nanchang Uprising",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/南昌起义 Nanchang Uprising"
+    },
+    {
+      "entry_id": "南明抗清 Southern Ming Resistance",
+      "title": "南明抗清 Southern Ming Resistance",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/南明抗清 Southern Ming Resistance"
+    },
+    {
+      "entry_id": "卫青霍去病北伐 Huo Qubing Battle the Xiongnu",
+      "title": "卫青霍去病北伐 Huo Qubing Battle the Xiongnu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/卫青霍去病北伐 Huo Qubing Battle the Xiongnu"
+    },
+    {
+      "entry_id": "即墨之战 Battle of Jimo",
+      "title": "即墨之战 Battle of Jimo",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/即墨之战 Battle of Jimo"
+    },
+    {
+      "entry_id": "史可法守扬州 Shi Kefa Defends Yangzhou",
+      "title": "史可法守扬州 Shi Kefa Defends Yangzhou",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/史可法守扬州 Shi Kefa Defends Yangzhou"
+    },
+    {
+      "entry_id": "司马氏夺权 Sima Clan Seizes Power",
+      "title": "司马氏夺权 Sima Clan Seizes Power",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/司马氏夺权 Sima Clan Seizes Power"
+    },
+    {
+      "entry_id": "司马氏篡魏 Sima Clan Takes Over Wei",
+      "title": "司马氏篡魏 Sima Clan Takes Over Wei",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/司马氏篡魏 Sima Clan Takes Over Wei"
+    },
+    {
+      "entry_id": "合纵连横 Vertical and Horizontal Alliances",
+      "title": "合纵连横 Vertical and Horizontal Alliances",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/合纵连横 Vertical and Horizontal Alliances"
+    },
+    {
+      "entry_id": "吴越争霸 Wu-Yue Rivalry",
+      "title": "吴越争霸 Wu-Yue Rivalry",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/吴越争霸 Wu-Yue Rivalry"
+    },
+    {
+      "entry_id": "周公辅政 Duke Zhou Regent",
+      "title": "周公辅政 Duke Zhou Regent",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/周公辅政 Duke Zhou Regent"
+    },
+    {
+      "entry_id": "周平王东迁 Eastern Zhou Moves East",
+      "title": "周平王东迁 Eastern Zhou Moves East",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/周平王东迁 Eastern Zhou Moves East"
+    },
+    {
+      "entry_id": "唐末割据 Late Tang Warlords",
+      "title": "唐末割据 Late Tang Warlords",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/唐末割据 Late Tang Warlords"
+    },
+    {
+      "entry_id": "商汤灭桀 Tang Overthrows Jie",
+      "title": "商汤灭桀 Tang Overthrows Jie",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/商汤灭桀 Tang Overthrows Jie"
+    },
+    {
+      "entry_id": "商鞅变法 Shang Yang Reform",
+      "title": "商鞅变法 Shang Yang Reform",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/商鞅变法 Shang Yang Reform"
+    },
+    {
+      "entry_id": "四一二政变 April 12 Incident",
+      "title": "四一二政变 April 12 Incident",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/四一二政变 April 12 Incident"
+    },
+    {
+      "entry_id": "四面楚歌 Songs from All Sides",
+      "title": "四面楚歌 Songs from All Sides",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/四面楚歌 Songs from All Sides"
+    },
+    {
+      "entry_id": "土地改革 Land Reform",
+      "title": "土地改革 Land Reform",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/土地改革 Land Reform"
+    },
+    {
+      "entry_id": "土尔扈特东归 Torgut Return",
+      "title": "土尔扈特东归 Torgut Return",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/土尔扈特东归 Torgut Return"
+    },
+    {
+      "entry_id": "土木之变 Tumu Crisis",
+      "title": "土木之变 Tumu Crisis",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/土木之变 Tumu Crisis"
+    },
+    {
+      "entry_id": "夏朝建立 Xia Dynasty Founded",
+      "title": "夏朝建立 Xia Dynasty Founded",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/夏朝建立 Xia Dynasty Founded"
+    },
+    {
+      "entry_id": "大庆油田 Daqing Oilfield",
+      "title": "大庆油田 Daqing Oilfield",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/大庆油田 Daqing Oilfield"
+    },
+    {
+      "entry_id": "大生产运动 Great Production Campaign",
+      "title": "大生产运动 Great Production Campaign",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/大生产运动 Great Production Campaign"
+    },
+    {
+      "entry_id": "大禹治水 Yu the Great Controls the Flood",
+      "title": "大禹治水 Yu the Great Controls the Flood",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/大禹治水 Yu the Great Controls the Flood"
+    },
+    {
+      "entry_id": "大跃进 Great Leap Forward",
+      "title": "大跃进 Great Leap Forward",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/大跃进 Great Leap Forward"
+    },
+    {
+      "entry_id": "大运河 Grand Canal",
+      "title": "大运河 Grand Canal",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/大运河 Grand Canal"
+    },
+    {
+      "entry_id": "太平天国 Taiping Rebellion",
+      "title": "太平天国 Taiping Rebellion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/太平天国 Taiping Rebellion"
+    },
+    {
+      "entry_id": "夷陵之战 Battle of Yiling",
+      "title": "夷陵之战 Battle of Yiling",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/夷陵之战 Battle of Yiling"
+    },
+    {
+      "entry_id": "女娲补天 Nuwa Mends the Sky",
+      "title": "女娲补天 Nuwa Mends the Sky",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/女娲补天 Nuwa Mends the Sky"
+    },
+    {
+      "entry_id": "子产铸刑鼎 Zi Chan Casts Law Tripod",
+      "title": "子产铸刑鼎 Zi Chan Casts Law Tripod",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/子产铸刑鼎 Zi Chan Casts Law Tripod"
+    },
+    {
+      "entry_id": "安史之乱 An Lushan Rebellion",
+      "title": "安史之乱 An Lushan Rebellion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/安史之乱 An Lushan Rebellion"
+    },
+    {
+      "entry_id": "宋江起义 Song Jiang Rebellion",
+      "title": "宋江起义 Song Jiang Rebellion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/宋江起义 Song Jiang Rebellion"
+    },
+    {
+      "entry_id": "完璧归赵 Returning the Jade Intact",
+      "title": "完璧归赵 Returning the Jade Intact",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/完璧归赵 Returning the Jade Intact"
+    },
+    {
+      "entry_id": "官渡之战 Battle of Guandu",
+      "title": "官渡之战 Battle of Guandu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/官渡之战 Battle of Guandu"
+    },
+    {
+      "entry_id": "家庭联产承包责任制 Household Contract System",
+      "title": "家庭联产承包责任制 Household Contract System",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/家庭联产承包责任制 Household Contract System"
+    },
+    {
+      "entry_id": "尼布楚条约 Treaty of Nerchinsk",
+      "title": "尼布楚条约 Treaty of Nerchinsk",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/尼布楚条约 Treaty of Nerchinsk"
+    },
+    {
+      "entry_id": "岳飞之死 Death of Yue Fei",
+      "title": "岳飞之死 Death of Yue Fei",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/岳飞之死 Death of Yue Fei"
+    },
+    {
+      "entry_id": "岳飞抗金 Yue Fei Fights the Jin",
+      "title": "岳飞抗金 Yue Fei Fights the Jin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/岳飞抗金 Yue Fei Fights the Jin"
+    },
+    {
+      "entry_id": "崖山海战 Battle of Yamen",
+      "title": "崖山海战 Battle of Yamen",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/崖山海战 Battle of Yamen"
+    },
+    {
+      "entry_id": "希望工程 Project Hope",
+      "title": "希望工程 Project Hope",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/希望工程 Project Hope"
+    },
+    {
+      "entry_id": "平定准噶尔 Pacification of Dzungar",
+      "title": "平定准噶尔 Pacification of Dzungar",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/平定准噶尔 Pacification of Dzungar"
+    },
+    {
+      "entry_id": "庆历新政 Qingli Reforms",
+      "title": "庆历新政 Qingli Reforms",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/庆历新政 Qingli Reforms"
+    },
+    {
+      "entry_id": "康乾盛世 Kangqian Golden Age",
+      "title": "康乾盛世 Kangqian Golden Age",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/康乾盛世 Kangqian Golden Age"
+    },
+    {
+      "entry_id": "开元盛世 Kaiyuan Golden Age",
+      "title": "开元盛世 Kaiyuan Golden Age",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/开元盛世 Kaiyuan Golden Age"
+    },
+    {
+      "entry_id": "开国大典 Founding Ceremony",
+      "title": "开国大典 Founding Ceremony",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/开国大典 Founding Ceremony"
+    },
+    {
+      "entry_id": "开皇之治 Kaihuang Reign",
+      "title": "开皇之治 Kaihuang Reign",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/开皇之治 Kaihuang Reign"
+    },
+    {
+      "entry_id": "张居正改革 Zhang Juzheng Reforms",
+      "title": "张居正改革 Zhang Juzheng Reforms",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/张居正改革 Zhang Juzheng Reforms"
+    },
+    {
+      "entry_id": "张衡地动仪 Zhang Heng Seismograph",
+      "title": "张衡地动仪 Zhang Heng Seismograph",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/张衡地动仪 Zhang Heng Seismograph"
+    },
+    {
+      "entry_id": "张骞通西域 Zhang Qian Opens the West",
+      "title": "张骞通西域 Zhang Qian Opens the West",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/张骞通西域 Zhang Qian Opens the West"
+    },
+    {
+      "entry_id": "恢复高考 Gaokao Restored",
+      "title": "恢复高考 Gaokao Restored",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/恢复高考 Gaokao Restored"
+    },
+    {
+      "entry_id": "戊戌变法 Hundred Days Reform",
+      "title": "戊戌变法 Hundred Days Reform",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/戊戌变法 Hundred Days Reform"
+    },
+    {
+      "entry_id": "成吉思汗统一蒙古 Genghis Khan Unites Mongolia",
+      "title": "成吉思汗统一蒙古 Genghis Khan Unites Mongolia",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/成吉思汗统一蒙古 Genghis Khan Unites Mongolia"
+    },
+    {
+      "entry_id": "成康之治 Chengkang Golden Age",
+      "title": "成康之治 Chengkang Golden Age",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/成康之治 Chengkang Golden Age"
+    },
+    {
+      "entry_id": "战国七雄 Seven Warring States",
+      "title": "战国七雄 Seven Warring States",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/战国七雄 Seven Warring States"
+    },
+    {
+      "entry_id": "戚继光抗倭 Qi Jiguang Fight Pirates",
+      "title": "戚继光抗倭 Qi Jiguang Fight Pirates",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/戚继光抗倭 Qi Jiguang Fight Pirates"
+    },
+    {
+      "entry_id": "抗击新冠疫情 COVID-19 Fight",
+      "title": "抗击新冠疫情 COVID-19 Fight",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/抗击新冠疫情 COVID-19 Fight"
+    },
+    {
+      "entry_id": "抗日战争胜利 Victory of Chinese People",
+      "title": "抗日战争胜利 Victory of Chinese People",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/抗日战争胜利 Victory of Chinese People"
+    },
+    {
+      "entry_id": "抗美援朝 Korean War",
+      "title": "抗美援朝 Korean War",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/抗美援朝 Korean War"
+    },
+    {
+      "entry_id": "推恩令 Order of Grace",
+      "title": "推恩令 Order of Grace",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/推恩令 Order of Grace"
+    },
+    {
+      "entry_id": "改革开放 Reform and Opening Up",
+      "title": "改革开放 Reform and Opening Up",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/改革开放 Reform and Opening Up"
+    },
+    {
+      "entry_id": "文化大革命 Cultural Revolution",
+      "title": "文化大革命 Cultural Revolution",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/文化大革命 Cultural Revolution"
+    },
+    {
+      "entry_id": "文成公主入藏 Princess Wencheng Marries Tibet",
+      "title": "文成公主入藏 Princess Wencheng Marries Tibet",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/文成公主入藏 Princess Wencheng Marries Tibet"
+    },
+    {
+      "entry_id": "文景之治 Wenjing Golden Age",
+      "title": "文景之治 Wenjing Golden Age",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/文景之治 Wenjing Golden Age"
+    },
+    {
+      "entry_id": "新中国成立 Founding of PRC",
+      "title": "新中国成立 Founding of PRC",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/新中国成立 Founding of PRC"
+    },
+    {
+      "entry_id": "新文化运动 New Culture Movement",
+      "title": "新文化运动 New Culture Movement",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/新文化运动 New Culture Movement"
+    },
+    {
+      "entry_id": "方腊起义 Fang La Rebellion",
+      "title": "方腊起义 Fang La Rebellion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/方腊起义 Fang La Rebellion"
+    },
+    {
+      "entry_id": "春秋五霸 Five Hegemons of Spring and Autumn",
+      "title": "春秋五霸 Five Hegemons of Spring and Autumn",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/春秋五霸 Five Hegemons of Spring and Autumn"
+    },
+    {
+      "entry_id": "昭君出塞 Wang Zhaojun Marries the Khan",
+      "title": "昭君出塞 Wang Zhaojun Marries the Khan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/昭君出塞 Wang Zhaojun Marries the Khan"
+    },
+    {
+      "entry_id": "晋文公重耳 Duke Wen of Jin",
+      "title": "晋文公重耳 Duke Wen of Jin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/晋文公重耳 Duke Wen of Jin"
+    },
+    {
+      "entry_id": "朱元璋建明 Zhu Yuanzhang Establishes Ming",
+      "title": "朱元璋建明 Zhu Yuanzhang Establishes Ming",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/朱元璋建明 Zhu Yuanzhang Establishes Ming"
+    },
+    {
+      "entry_id": "李自成起义 Li Zicheng Rebellion",
+      "title": "李自成起义 Li Zicheng Rebellion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/李自成起义 Li Zicheng Rebellion"
+    },
+    {
+      "entry_id": "杯酒释兵权 Release Military Power Over Wine",
+      "title": "杯酒释兵权 Release Military Power Over Wine",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/杯酒释兵权 Release Military Power Over Wine"
+    },
+    {
+      "entry_id": "桂陵之战 Battle of Guiling",
+      "title": "桂陵之战 Battle of Guiling",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/桂陵之战 Battle of Guiling"
+    },
+    {
+      "entry_id": "楚庄王问鼎 King Zhuang of Chu",
+      "title": "楚庄王问鼎 King Zhuang of Chu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/楚庄王问鼎 King Zhuang of Chu"
+    },
+    {
+      "entry_id": "楚汉争霸 Chu-Han Contention",
+      "title": "楚汉争霸 Chu-Han Contention",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/楚汉争霸 Chu-Han Contention"
+    },
+    {
+      "entry_id": "武则天称帝 Wu Zetian Becomes Empress",
+      "title": "武则天称帝 Wu Zetian Becomes Empress",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/武则天称帝 Wu Zetian Becomes Empress"
+    },
+    {
+      "entry_id": "武昌起义 Wuchang Uprising",
+      "title": "武昌起义 Wuchang Uprising",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/武昌起义 Wuchang Uprising"
+    },
+    {
+      "entry_id": "武王伐纣 King Wu Overthrows Zhou",
+      "title": "武王伐纣 King Wu Overthrows Zhou",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/武王伐纣 King Wu Overthrows Zhou"
+    },
+    {
+      "entry_id": "永乐大典 Yongle Encyclopedia",
+      "title": "永乐大典 Yongle Encyclopedia",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/永乐大典 Yongle Encyclopedia"
+    },
+    {
+      "entry_id": "永嘉之乱 Disaster of Yongjia",
+      "title": "永嘉之乱 Disaster of Yongjia",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/永嘉之乱 Disaster of Yongjia"
+    },
+    {
+      "entry_id": "永贞革新 Yongzhen Reform",
+      "title": "永贞革新 Yongzhen Reform",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/永贞革新 Yongzhen Reform"
+    },
+    {
+      "entry_id": "汉赋兴盛 Han Fu Flourishes",
+      "title": "汉赋兴盛 Han Fu Flourishes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/汉赋兴盛 Han Fu Flourishes"
+    },
+    {
+      "entry_id": "汶川地震救灾 Wenchuan Earthquake Relief",
+      "title": "汶川地震救灾 Wenchuan Earthquake Relief",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/汶川地震救灾 Wenchuan Earthquake Relief"
+    },
+    {
+      "entry_id": "河姆渡文化 Hemudu Culture",
+      "title": "河姆渡文化 Hemudu Culture",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/河姆渡文化 Hemudu Culture"
+    },
+    {
+      "entry_id": "泰山封禅 Mount Tai Fengshan Ceremony",
+      "title": "泰山封禅 Mount Tai Fengshan Ceremony",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/泰山封禅 Mount Tai Fengshan Ceremony"
+    },
+    {
+      "entry_id": "洋务运动 Self-Strengthening Movement",
+      "title": "洋务运动 Self-Strengthening Movement",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/洋务运动 Self-Strengthening Movement"
+    },
+    {
+      "entry_id": "洪武之治 Hongwu Reign",
+      "title": "洪武之治 Hongwu Reign",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/洪武之治 Hongwu Reign"
+    },
+    {
+      "entry_id": "淝水之战 Battle of Feishui",
+      "title": "淝水之战 Battle of Feishui",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/淝水之战 Battle of Feishui"
+    },
+    {
+      "entry_id": "清军入关 Manchu Enter the Pass",
+      "title": "清军入关 Manchu Enter the Pass",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/清军入关 Manchu Enter the Pass"
+    },
+    {
+      "entry_id": "澳门回归 Macau's Return",
+      "title": "澳门回归 Macau's Return",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/澳门回归 Macau's Return"
+    },
+    {
+      "entry_id": "澶渊之盟 Chanyuan Treaty",
+      "title": "澶渊之盟 Chanyuan Treaty",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/澶渊之盟 Chanyuan Treaty"
+    },
+    {
+      "entry_id": "灵渠工程 Lingqu Canal",
+      "title": "灵渠工程 Lingqu Canal",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/灵渠工程 Lingqu Canal"
+    },
+    {
+      "entry_id": "烽火戏诸侯 Beacon Tower Trick",
+      "title": "烽火戏诸侯 Beacon Tower Trick",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/烽火戏诸侯 Beacon Tower Trick"
+    },
+    {
+      "entry_id": "焚书坑儒 Burning Books and Burying Scholars",
+      "title": "焚书坑儒 Burning Books and Burying Scholars",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/焚书坑儒 Burning Books and Burying Scholars"
+    },
+    {
+      "entry_id": "牛李党争 Niu-Li Faction Strife",
+      "title": "牛李党争 Niu-Li Faction Strife",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/牛李党争 Niu-Li Faction Strife"
+    },
+    {
+      "entry_id": "玄奘取经 Xuanzang's Journey to the West",
+      "title": "玄奘取经 Xuanzang's Journey to the West",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/玄奘取经 Xuanzang's Journey to the West"
+    },
+    {
+      "entry_id": "玄武门之变 Xuanwu Gate Incident",
+      "title": "玄武门之变 Xuanwu Gate Incident",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/玄武门之变 Xuanwu Gate Incident"
+    },
+    {
+      "entry_id": "王安石变法 Wang Anshi Reforms",
+      "title": "王安石变法 Wang Anshi Reforms",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/王安石变法 Wang Anshi Reforms"
+    },
+    {
+      "entry_id": "王羲之兰亭序 Wang Xizhi's Lanting Preface",
+      "title": "王羲之兰亭序 Wang Xizhi's Lanting Preface",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/王羲之兰亭序 Wang Xizhi's Lanting Preface"
+    },
+    {
+      "entry_id": "王莽改制 Wang Mang Reforms",
+      "title": "王莽改制 Wang Mang Reforms",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/王莽改制 Wang Mang Reforms"
+    },
+    {
+      "entry_id": "班超定西域 Ban Chao Pacifies the West",
+      "title": "班超定西域 Ban Chao Pacifies the West",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/班超定西域 Ban Chao Pacifies the West"
+    },
+    {
+      "entry_id": "甘露之变 Sweet Dew Incident",
+      "title": "甘露之变 Sweet Dew Incident",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/甘露之变 Sweet Dew Incident"
+    },
+    {
+      "entry_id": "田氏代齐 Tian Clan Replaces Qi",
+      "title": "田氏代齐 Tian Clan Replaces Qi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/田氏代齐 Tian Clan Replaces Qi"
+    },
+    {
+      "entry_id": "白登之围 Siege of Baideng",
+      "title": "白登之围 Siege of Baideng",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/白登之围 Siege of Baideng"
+    },
+    {
+      "entry_id": "百团大战 Hundred Regiments Offensive",
+      "title": "百团大战 Hundred Regiments Offensive",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/百团大战 Hundred Regiments Offensive"
+    },
+    {
+      "entry_id": "皖南事变 South Anhui Incident",
+      "title": "皖南事变 South Anhui Incident",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/皖南事变 South Anhui Incident"
+    },
+    {
+      "entry_id": "盐铁论 Debate on Salt and Iron",
+      "title": "盐铁论 Debate on Salt and Iron",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/盐铁论 Debate on Salt and Iron"
+    },
+    {
+      "entry_id": "盘古开天 Pangu Creates the World",
+      "title": "盘古开天 Pangu Creates the World",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/盘古开天 Pangu Creates the World"
+    },
+    {
+      "entry_id": "盘庚迁都 Pangeng Moves Capital",
+      "title": "盘庚迁都 Pangeng Moves Capital",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/盘庚迁都 Pangeng Moves Capital"
+    },
+    {
+      "entry_id": "祖逖中流击楫 Zu Ti's Oath",
+      "title": "祖逖中流击楫 Zu Ti's Oath",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/祖逖中流击楫 Zu Ti's Oath"
+    },
+    {
+      "entry_id": "神农尝百草 Shennong Tastes Herbs",
+      "title": "神农尝百草 Shennong Tastes Herbs",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/神农尝百草 Shennong Tastes Herbs"
+    },
+    {
+      "entry_id": "神舟飞天 Shenzhou Space Flight",
+      "title": "神舟飞天 Shenzhou Space Flight",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/神舟飞天 Shenzhou Space Flight"
+    },
+    {
+      "entry_id": "禹贡九州 Yu's Nine Provinces",
+      "title": "禹贡九州 Yu's Nine Provinces",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/禹贡九州 Yu's Nine Provinces"
+    },
+    {
+      "entry_id": "秋收起义 Autumn Harvest Uprising",
+      "title": "秋收起义 Autumn Harvest Uprising",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/秋收起义 Autumn Harvest Uprising"
+    },
+    {
+      "entry_id": "科举制度 Civil Service Exam Created",
+      "title": "科举制度 Civil Service Exam Created",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/科举制度 Civil Service Exam Created"
+    },
+    {
+      "entry_id": "秦修驰道 Qin Builds Highways",
+      "title": "秦修驰道 Qin Builds Highways",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/秦修驰道 Qin Builds Highways"
+    },
+    {
+      "entry_id": "秦末起义 Late Qin Uprisings",
+      "title": "秦末起义 Late Qin Uprisings",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/秦末起义 Late Qin Uprisings"
+    },
+    {
+      "entry_id": "秦灭六国 Qin Unifies China",
+      "title": "秦灭六国 Qin Unifies China",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/秦灭六国 Qin Unifies China"
+    },
+    {
+      "entry_id": "第二次鸦片战争 Second Opium War",
+      "title": "第二次鸦片战争 Second Opium War",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/第二次鸦片战争 Second Opium War"
+    },
+    {
+      "entry_id": "红军长征 Red Army Long March",
+      "title": "红军长征 Red Army Long March",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/红军长征 Red Army Long March"
+    },
+    {
+      "entry_id": "绍兴和议 Shaoxing Treaty",
+      "title": "绍兴和议 Shaoxing Treaty",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/绍兴和议 Shaoxing Treaty"
+    },
+    {
+      "entry_id": "经济特区 Economic Zones",
+      "title": "经济特区 Economic Zones",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/经济特区 Economic Zones"
+    },
+    {
+      "entry_id": "绿林赤眉起义 Green Woodsmen Uprising",
+      "title": "绿林赤眉起义 Green Woodsmen Uprising",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/绿林赤眉起义 Green Woodsmen Uprising"
+    },
+    {
+      "entry_id": "罢黜百家独尊儒术 Confucianism Established",
+      "title": "罢黜百家独尊儒术 Confucianism Established",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/罢黜百家独尊儒术 Confucianism Established"
+    },
+    {
+      "entry_id": "脱贫攻坚 Poverty Alleviation",
+      "title": "脱贫攻坚 Poverty Alleviation",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/脱贫攻坚 Poverty Alleviation"
+    },
+    {
+      "entry_id": "脱贫攻坚全面胜利 Complete Poverty Victory",
+      "title": "脱贫攻坚全面胜利 Complete Poverty Victory",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/脱贫攻坚全面胜利 Complete Poverty Victory"
+    },
+    {
+      "entry_id": "良渚文化 Liangzhu Culture",
+      "title": "良渚文化 Liangzhu Culture",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/良渚文化 Liangzhu Culture"
+    },
+    {
+      "entry_id": "苏武牧羊 Su Wu Herds Sheep",
+      "title": "苏武牧羊 Su Wu Herds Sheep",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/苏武牧羊 Su Wu Herds Sheep"
+    },
+    {
+      "entry_id": "荆轲刺秦王 Jing Ke Assassinates the King",
+      "title": "荆轲刺秦王 Jing Ke Assassinates the King",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/荆轲刺秦王 Jing Ke Assassinates the King"
+    },
+    {
+      "entry_id": "蒙古灭金 Mongolia Destroys Jin",
+      "title": "蒙古灭金 Mongolia Destroys Jin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/蒙古灭金 Mongolia Destroys Jin"
+    },
+    {
+      "entry_id": "蒙古西征 Mongol Western Expedition",
+      "title": "蒙古西征 Mongol Western Expedition",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/蒙古西征 Mongol Western Expedition"
+    },
+    {
+      "entry_id": "蔡伦造纸 Cai Lun Invents Paper",
+      "title": "蔡伦造纸 Cai Lun Invents Paper",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/蔡伦造纸 Cai Lun Invents Paper"
+    },
+    {
+      "entry_id": "虎门销烟 Humen Opium Destruction",
+      "title": "虎门销烟 Humen Opium Destruction",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/虎门销烟 Humen Opium Destruction"
+    },
+    {
+      "entry_id": "衣冠南渡 Southward Migration of Nobility",
+      "title": "衣冠南渡 Southward Migration of Nobility",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/衣冠南渡 Southward Migration of Nobility"
+    },
+    {
+      "entry_id": "襄樊之战 Battle of Xiangyang",
+      "title": "襄樊之战 Battle of Xiangyang",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/襄樊之战 Battle of Xiangyang"
+    },
+    {
+      "entry_id": "西安事变 Xi'an Incident",
+      "title": "西安事变 Xi'an Incident",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/西安事变 Xi'an Incident"
+    },
+    {
+      "entry_id": "西藏和平解放 Peaceful Liberation of Tibet",
+      "title": "西藏和平解放 Peaceful Liberation of Tibet",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/西藏和平解放 Peaceful Liberation of Tibet"
+    },
+    {
+      "entry_id": "诸葛亮出师表 Zhuge Liang's Memorial",
+      "title": "诸葛亮出师表 Zhuge Liang's Memorial",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/诸葛亮出师表 Zhuge Liang's Memorial"
+    },
+    {
+      "entry_id": "贞观之治 Zhenguan Golden Age",
+      "title": "贞观之治 Zhenguan Golden Age",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/贞观之治 Zhenguan Golden Age"
+    },
+    {
+      "entry_id": "赤壁之战 Battle of Red Cliffs",
+      "title": "赤壁之战 Battle of Red Cliffs",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/赤壁之战 Battle of Red Cliffs"
+    },
+    {
+      "entry_id": "赵武灵王胡服骑射 King Wuling Adopts Nomad Dress",
+      "title": "赵武灵王胡服骑射 King Wuling Adopts Nomad Dress",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/赵武灵王胡服骑射 King Wuling Adopts Nomad Dress"
+    },
+    {
+      "entry_id": "辛弃疾北伐 Xin Qiji's Expedition",
+      "title": "辛弃疾北伐 Xin Qiji's Expedition",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/辛弃疾北伐 Xin Qiji's Expedition"
+    },
+    {
+      "entry_id": "迁都北京 Moving Capital to Beijing",
+      "title": "迁都北京 Moving Capital to Beijing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/迁都北京 Moving Capital to Beijing"
+    },
+    {
+      "entry_id": "遵义会议 Zunyi Conference",
+      "title": "遵义会议 Zunyi Conference",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/遵义会议 Zunyi Conference"
+    },
+    {
+      "entry_id": "邯郸之战 Battle of Handan",
+      "title": "邯郸之战 Battle of Handan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/邯郸之战 Battle of Handan"
+    },
+    {
+      "entry_id": "郑和下西洋 Zheng He's Voyages",
+      "title": "郑和下西洋 Zheng He's Voyages",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/郑和下西洋 Zheng He's Voyages"
+    },
+    {
+      "entry_id": "郑和宝船 Zheng He's Treasure Ships",
+      "title": "郑和宝船 Zheng He's Treasure Ships",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/郑和宝船 Zheng He's Treasure Ships"
+    },
+    {
+      "entry_id": "郭子仪收复长安 Guo Ziyi Recaptures Chang'an",
+      "title": "郭子仪收复长安 Guo Ziyi Recaptures Chang'an",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/郭子仪收复长安 Guo Ziyi Recaptures Chang'an"
+    },
+    {
+      "entry_id": "郭守敬授时历 Guo Shoujing's Calendar",
+      "title": "郭守敬授时历 Guo Shoujing's Calendar",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/郭守敬授时历 Guo Shoujing's Calendar"
+    },
+    {
+      "entry_id": "重庆谈判 Chongqing Negotiations",
+      "title": "重庆谈判 Chongqing Negotiations",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/重庆谈判 Chongqing Negotiations"
+    },
+    {
+      "entry_id": "重返联合国 Return to United Nations",
+      "title": "重返联合国 Return to United Nations",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/重返联合国 Return to United Nations"
+    },
+    {
+      "entry_id": "钓鱼城之战 Battle of Diaoyu City",
+      "title": "钓鱼城之战 Battle of Diaoyu City",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/钓鱼城之战 Battle of Diaoyu City"
+    },
+    {
+      "entry_id": "镇南关大捷 Battle of Zhennan Pass",
+      "title": "镇南关大捷 Battle of Zhennan Pass",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/镇南关大捷 Battle of Zhennan Pass"
+    },
+    {
+      "entry_id": "长平之战 Battle of Changping",
+      "title": "长平之战 Battle of Changping",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/长平之战 Battle of Changping"
+    },
+    {
+      "entry_id": "长征 Long March",
+      "title": "长征 Long March",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/长征 Long March"
+    },
+    {
+      "entry_id": "闭关锁国 Closed Door Policy",
+      "title": "闭关锁国 Closed Door Policy",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/闭关锁国 Closed Door Policy"
+    },
+    {
+      "entry_id": "陈桥兵变 Chenqiao Mutiny",
+      "title": "陈桥兵变 Chenqiao Mutiny",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/陈桥兵变 Chenqiao Mutiny"
+    },
+    {
+      "entry_id": "陈胜吴广起义 Chen Sheng Wu Guang Rebellion",
+      "title": "陈胜吴广起义 Chen Sheng Wu Guang Rebellion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/陈胜吴广起义 Chen Sheng Wu Guang Rebellion"
+    },
+    {
+      "entry_id": "陶渊明归隐 Tao Yuanming Retires",
+      "title": "陶渊明归隐 Tao Yuanming Retires",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/陶渊明归隐 Tao Yuanming Retires"
+    },
+    {
+      "entry_id": "隋末起义 Late Sui Rebellions",
+      "title": "隋末起义 Late Sui Rebellions",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/隋末起义 Late Sui Rebellions"
+    },
+    {
+      "entry_id": "隋统一南北 Sui Reunifies China",
+      "title": "隋统一南北 Sui Reunifies China",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/隋统一南北 Sui Reunifies China"
+    },
+    {
+      "entry_id": "雅克萨之战 Battle of Yaksa",
+      "title": "雅克萨之战 Battle of Yaksa",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/雅克萨之战 Battle of Yaksa"
+    },
+    {
+      "entry_id": "雕版印刷 Woodblock Printing Invented",
+      "title": "雕版印刷 Woodblock Printing Invented",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/雕版印刷 Woodblock Printing Invented"
+    },
+    {
+      "entry_id": "霸王别姬 Farewell to My Concubine",
+      "title": "霸王别姬 Farewell to My Concubine",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/霸王别姬 Farewell to My Concubine"
+    },
+    {
+      "entry_id": "青藏铁路 Qinghai-Tibet Railway",
+      "title": "青藏铁路 Qinghai-Tibet Railway",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/青藏铁路 Qinghai-Tibet Railway"
+    },
+    {
+      "entry_id": "靖康之耻 Jingkang Humiliation",
+      "title": "靖康之耻 Jingkang Humiliation",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/靖康之耻 Jingkang Humiliation"
+    },
+    {
+      "entry_id": "靖难之役 Jingnan Campaign",
+      "title": "靖难之役 Jingnan Campaign",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/靖难之役 Jingnan Campaign"
+    },
+    {
+      "entry_id": "香港回归 Hong Kong's Return",
+      "title": "香港回归 Hong Kong's Return",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/香港回归 Hong Kong's Return"
+    },
+    {
+      "entry_id": "马可波罗来华 Marco Polo in China",
+      "title": "马可波罗来华 Marco Polo in China",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/马可波罗来华 Marco Polo in China"
+    },
+    {
+      "entry_id": "马尾海战 Battle of Fuzhou",
+      "title": "马尾海战 Battle of Fuzhou",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/马尾海战 Battle of Fuzhou"
+    },
+    {
+      "entry_id": "马嵬坡之变 Mawei Slope Incident",
+      "title": "马嵬坡之变 Mawei Slope Incident",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/马嵬坡之变 Mawei Slope Incident"
+    },
+    {
+      "entry_id": "马陵之战 Battle of Maling",
+      "title": "马陵之战 Battle of Maling",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/马陵之战 Battle of Maling"
+    },
+    {
+      "entry_id": "鸦片战争 Opium War",
+      "title": "鸦片战争 Opium War",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/鸦片战争 Opium War"
+    },
+    {
+      "entry_id": "黄巢起义 Huang Chao Rebellion",
+      "title": "黄巢起义 Huang Chao Rebellion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/黄巢起义 Huang Chao Rebellion"
+    },
+    {
+      "entry_id": "黄巾起义 Yellow Turban Rebellion",
+      "title": "黄巾起义 Yellow Turban Rebellion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/黄巾起义 Yellow Turban Rebellion"
+    },
+    {
+      "entry_id": "黄帝战蚩尤 Yellow Emperor vs Chiyou",
+      "title": "黄帝战蚩尤 Yellow Emperor vs Chiyou",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/黄帝战蚩尤 Yellow Emperor vs Chiyou"
+    },
+    {
+      "entry_id": "黄海海战 Battle of Yellow Sea",
+      "title": "黄海海战 Battle of Yellow Sea",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/黄海海战 Battle of Yellow Sea"
+    },
+    {
+      "entry_id": "齐桓公称霸 Duke Huan of Qi",
+      "title": "齐桓公称霸 Duke Huan of Qi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/齐桓公称霸 Duke Huan of Qi"
+    }
+  ],
+  "sub_categories": [
+    "国际历史"
+  ]
+}

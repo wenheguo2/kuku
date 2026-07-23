@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "multi_level",
+  "display_as": "nested_category",
+  "path": "瞎编的歌曲/蒙学歌曲",
+  "name": "蒙学歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+    "cover_level": "category"
+  },
+  "sub_category_count": 7,
+  "sub_categories": [
+    {
+      "id": "三字经",
+      "name": "三字经",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 17,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "千字文",
+      "name": "千字文",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 24,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "声律启蒙",
+      "name": "声律启蒙",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 45,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "幼学琼林",
+      "name": "幼学琼林",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 32,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "弟子规",
+      "name": "弟子规",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 10,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "百家姓",
+      "name": "百家姓",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 22,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "笠翁对韵",
+      "name": "笠翁对韵",
+      "structure_type": "txt_collection",
+      "display_as": "category_card",
+      "entry_count": 45,
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

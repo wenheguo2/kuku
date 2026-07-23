@@ -1,0 +1,631 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "蒙学经典/M4弟子规",
+  "work_name": "M4弟子规",
+  "cover": {
+    "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 41,
+  "total_duration_ms": 10898800,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "弟子规001-001_第1段_弟子规圣人训",
+      "title": "弟子规001-001_第1段_弟子规圣人训",
+      "full_path": "蒙学经典/M4弟子规/弟子规001-001_第1段_弟子规圣人训",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 280200,
+      "char_count": 1396,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "弟子规002-002_第2段_父母呼应勿缓",
+      "title": "弟子规002-002_第2段_父母呼应勿缓",
+      "full_path": "蒙学经典/M4弟子规/弟子规002-002_第2段_父母呼应勿缓",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 180600,
+      "char_count": 900,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "弟子规003-003_第3段_父母教须敬听",
+      "title": "弟子规003-003_第3段_父母教须敬听",
+      "full_path": "蒙学经典/M4弟子规/弟子规003-003_第3段_父母教须敬听",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 213800,
+      "char_count": 1066,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "弟子规004-004_第4段_冬则温夏则凊",
+      "title": "弟子规004-004_第4段_冬则温夏则凊",
+      "full_path": "蒙学经典/M4弟子规/弟子规004-004_第4段_冬则温夏则凊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 187800,
+      "char_count": 936,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "弟子规005-005_第5段_出必告反必面",
+      "title": "弟子规005-005_第5段_出必告反必面",
+      "full_path": "蒙学经典/M4弟子规/弟子规005-005_第5段_出必告反必面",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 213800,
+      "char_count": 1066,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "弟子规006-006_第6段_事虽小勿擅为",
+      "title": "弟子规006-006_第6段_事虽小勿擅为",
+      "full_path": "蒙学经典/M4弟子规/弟子规006-006_第6段_事虽小勿擅为",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 287200,
+      "char_count": 1431,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "弟子规007-007_第7段_亲所好力为具",
+      "title": "弟子规007-007_第7段_亲所好力为具",
+      "full_path": "蒙学经典/M4弟子规/弟子规007-007_第7段_亲所好力为具",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 434400,
+      "char_count": 2167,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "弟子规008-008_第8段_亲爱我孝何难",
+      "title": "弟子规008-008_第8段_亲爱我孝何难",
+      "full_path": "蒙学经典/M4弟子规/弟子规008-008_第8段_亲爱我孝何难",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 171800,
+      "char_count": 856,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "弟子规009-009_第9段_亲有过谏使更",
+      "title": "弟子规009-009_第9段_亲有过谏使更",
+      "full_path": "蒙学经典/M4弟子规/弟子规009-009_第9段_亲有过谏使更",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 257000,
+      "char_count": 1280,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "弟子规010-010_第10段_亲有疾药先尝",
+      "title": "弟子规010-010_第10段_亲有疾药先尝",
+      "full_path": "蒙学经典/M4弟子规/弟子规010-010_第10段_亲有疾药先尝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 468200,
+      "char_count": 2334,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "弟子规011-011_第11段_兄道友弟道恭",
+      "title": "弟子规011-011_第11段_兄道友弟道恭",
+      "full_path": "蒙学经典/M4弟子规/弟子规011-011_第11段_兄道友弟道恭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 139000,
+      "char_count": 692,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "弟子规012-012_第12段_财物轻怨何生",
+      "title": "弟子规012-012_第12段_财物轻怨何生",
+      "full_path": "蒙学经典/M4弟子规/弟子规012-012_第12段_财物轻怨何生",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 195600,
+      "char_count": 975,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "弟子规013-013_第13段_或饮食或坐走",
+      "title": "弟子规013-013_第13段_或饮食或坐走",
+      "full_path": "蒙学经典/M4弟子规/弟子规013-013_第13段_或饮食或坐走",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 219400,
+      "char_count": 1092,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "弟子规014-014_第14段_称尊长勿呼名",
+      "title": "弟子规014-014_第14段_称尊长勿呼名",
+      "full_path": "蒙学经典/M4弟子规/弟子规014-014_第14段_称尊长勿呼名",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 260400,
+      "char_count": 1295,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "弟子规015-015_第15段_长者立幼勿坐",
+      "title": "弟子规015-015_第15段_长者立幼勿坐",
+      "full_path": "蒙学经典/M4弟子规/弟子规015-015_第15段_长者立幼勿坐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 245400,
+      "char_count": 1218,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "弟子规016-016_第16段_朝起早夜眠迟",
+      "title": "弟子规016-016_第16段_朝起早夜眠迟",
+      "full_path": "蒙学经典/M4弟子规/弟子规016-016_第16段_朝起早夜眠迟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 293400,
+      "char_count": 1462,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "弟子规017-017_第17段_冠必正纽必结",
+      "title": "弟子规017-017_第17段_冠必正纽必结",
+      "full_path": "蒙学经典/M4弟子规/弟子规017-017_第17段_冠必正纽必结",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 307000,
+      "char_count": 1530,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "弟子规018-018_第18段_衣贵洁不贵华",
+      "title": "弟子规018-018_第18段_衣贵洁不贵华",
+      "full_path": "蒙学经典/M4弟子规/弟子规018-018_第18段_衣贵洁不贵华",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 267800,
+      "char_count": 1332,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "弟子规019-019_第19段_步从容立端正",
+      "title": "弟子规019-019_第19段_步从容立端正",
+      "full_path": "蒙学经典/M4弟子规/弟子规019-019_第19段_步从容立端正",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 339800,
+      "char_count": 1694,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "弟子规020-020_第20段_缓揭帘勿有声",
+      "title": "弟子规020-020_第20段_缓揭帘勿有声",
+      "full_path": "蒙学经典/M4弟子规/弟子规020-020_第20段_缓揭帘勿有声",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 288200,
+      "char_count": 1436,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "弟子规021-021_第21段_事勿忙忙多错",
+      "title": "弟子规021-021_第21段_事勿忙忙多错",
+      "full_path": "蒙学经典/M4弟子规/弟子规021-021_第21段_事勿忙忙多错",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 393400,
+      "char_count": 1962,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "弟子规022-022_第22段_将入门问孰存",
+      "title": "弟子规022-022_第22段_将入门问孰存",
+      "full_path": "蒙学经典/M4弟子规/弟子规022-022_第22段_将入门问孰存",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 414000,
+      "char_count": 2061,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "弟子规023-023_第23段_凡出言信为先",
+      "title": "弟子规023-023_第23段_凡出言信为先",
+      "full_path": "蒙学经典/M4弟子规/弟子规023-023_第23段_凡出言信为先",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 235000,
+      "char_count": 1169,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "弟子规024-024_第24段_见未真勿轻言",
+      "title": "弟子规024-024_第24段_见未真勿轻言",
+      "full_path": "蒙学经典/M4弟子规/弟子规024-024_第24段_见未真勿轻言",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 376800,
+      "char_count": 1875,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "弟子规025-025_第25段_见人善即思齐",
+      "title": "弟子规025-025_第25段_见人善即思齐",
+      "full_path": "蒙学经典/M4弟子规/弟子规025-025_第25段_见人善即思齐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 210600,
+      "char_count": 1048,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "弟子规026-026_第26段_唯德学唯才艺",
+      "title": "弟子规026-026_第26段_唯德学唯才艺",
+      "full_path": "蒙学经典/M4弟子规/弟子规026-026_第26段_唯德学唯才艺",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 171000,
+      "char_count": 852,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "弟子规027-027_第27段_闻过怒闻誉乐",
+      "title": "弟子规027-027_第27段_闻过怒闻誉乐",
+      "full_path": "蒙学经典/M4弟子规/弟子规027-027_第27段_闻过怒闻誉乐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 225200,
+      "char_count": 1121,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "弟子规028-028_第28段_无心非名为错",
+      "title": "弟子规028-028_第28段_无心非名为错",
+      "full_path": "蒙学经典/M4弟子规/弟子规028-028_第28段_无心非名为错",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 157400,
+      "char_count": 782,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "弟子规029-029_第29段_凡是人皆须爱",
+      "title": "弟子规029-029_第29段_凡是人皆须爱",
+      "full_path": "蒙学经典/M4弟子规/弟子规029-029_第29段_凡是人皆须爱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 165600,
+      "char_count": 825,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "弟子规030-030_第30段_行高者名自高",
+      "title": "弟子规030-030_第30段_行高者名自高",
+      "full_path": "蒙学经典/M4弟子规/弟子规030-030_第30段_行高者名自高",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 295200,
+      "char_count": 1471,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "弟子规031-031_第31段_己有能勿自私",
+      "title": "弟子规031-031_第31段_己有能勿自私",
+      "full_path": "蒙学经典/M4弟子规/弟子规031-031_第31段_己有能勿自私",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 235600,
+      "char_count": 1173,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "弟子规032-032_第32段_人不闲勿事搅",
+      "title": "弟子规032-032_第32段_人不闲勿事搅",
+      "full_path": "蒙学经典/M4弟子规/弟子规032-032_第32段_人不闲勿事搅",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 302000,
+      "char_count": 1505,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "弟子规033-033_第33段_道人善即是善",
+      "title": "弟子规033-033_第33段_道人善即是善",
+      "full_path": "蒙学经典/M4弟子规/弟子规033-033_第33段_道人善即是善",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 324200,
+      "char_count": 1614,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "弟子规034-034_第34段_凡取与贵分晓",
+      "title": "弟子规034-034_第34段_凡取与贵分晓",
+      "full_path": "蒙学经典/M4弟子规/弟子规034-034_第34段_凡取与贵分晓",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 235800,
+      "char_count": 1172,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "弟子规035-035_第35段_待婢仆身贵端",
+      "title": "弟子规035-035_第35段_待婢仆身贵端",
+      "full_path": "蒙学经典/M4弟子规/弟子规035-035_第35段_待婢仆身贵端",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 224200,
+      "char_count": 1116,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "弟子规036-036_第36段_同是人类不齐",
+      "title": "弟子规036-036_第36段_同是人类不齐",
+      "full_path": "蒙学经典/M4弟子规/弟子规036-036_第36段_同是人类不齐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 267400,
+      "char_count": 1328,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "弟子规037-037_第37段_不力行但学文",
+      "title": "弟子规037-037_第37段_不力行但学文",
+      "full_path": "蒙学经典/M4弟子规/弟子规037-037_第37段_不力行但学文",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 219400,
+      "char_count": 1092,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "弟子规038-038_第38段_读书法有三到",
+      "title": "弟子规038-038_第38段_读书法有三到",
+      "full_path": "蒙学经典/M4弟子规/弟子规038-038_第38段_读书法有三到",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 352600,
+      "char_count": 1754,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "弟子规039-039_第39段_房室清墙壁净",
+      "title": "弟子规039-039_第39段_房室清墙壁净",
+      "full_path": "蒙学经典/M4弟子规/弟子规039-039_第39段_房室清墙壁净",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 297600,
+      "char_count": 1483,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "弟子规040-040_第40段_列典籍有定处",
+      "title": "弟子规040-040_第40段_列典籍有定处",
+      "full_path": "蒙学经典/M4弟子规/弟子规040-040_第40段_列典籍有定处",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 189400,
+      "char_count": 942,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "弟子规041-041_第41段_非圣书屏勿视",
+      "title": "弟子规041-041_第41段_非圣书屏勿视",
+      "full_path": "蒙学经典/M4弟子规/弟子规041-041_第41段_非圣书屏勿视",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 355600,
+      "char_count": 1773,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

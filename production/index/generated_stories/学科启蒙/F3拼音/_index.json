@@ -1,0 +1,1015 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "学科启蒙/F3拼音",
+  "name": "F3拼音",
+  "cover": {
+    "cover_image_url": "covers/generated/学科启蒙/学科启蒙.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 100,
+  "entries": [
+    {
+      "entry_id": "拼音0：a",
+      "title": "拼音0：a",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音0：a",
+      "level": "",
+      "duration_ms": 652750,
+      "char_count": 2549
+    },
+    {
+      "entry_id": "拼音10：d",
+      "title": "拼音10：d",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音10：d",
+      "level": "",
+      "duration_ms": 632250,
+      "char_count": 2502
+    },
+    {
+      "entry_id": "拼音11：t",
+      "title": "拼音11：t",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音11：t",
+      "level": "",
+      "duration_ms": 587250,
+      "char_count": 2346
+    },
+    {
+      "entry_id": "拼音12：n",
+      "title": "拼音12：n",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音12：n",
+      "level": "",
+      "duration_ms": 695250,
+      "char_count": 2779
+    },
+    {
+      "entry_id": "拼音13：l",
+      "title": "拼音13：l",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音13：l",
+      "level": "",
+      "duration_ms": 628250,
+      "char_count": 2508
+    },
+    {
+      "entry_id": "拼音14：g",
+      "title": "拼音14：g",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音14：g",
+      "level": "",
+      "duration_ms": 723500,
+      "char_count": 2894
+    },
+    {
+      "entry_id": "拼音15：k",
+      "title": "拼音15：k",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音15：k",
+      "level": "",
+      "duration_ms": 710750,
+      "char_count": 2841
+    },
+    {
+      "entry_id": "拼音16：h",
+      "title": "拼音16：h",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音16：h",
+      "level": "",
+      "duration_ms": 516500,
+      "char_count": 2066
+    },
+    {
+      "entry_id": "拼音17：j",
+      "title": "拼音17：j",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音17：j",
+      "level": "",
+      "duration_ms": 494250,
+      "char_count": 1971
+    },
+    {
+      "entry_id": "拼音18：q",
+      "title": "拼音18：q",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音18：q",
+      "level": "",
+      "duration_ms": 506250,
+      "char_count": 2023
+    },
+    {
+      "entry_id": "拼音19：x",
+      "title": "拼音19：x",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音19：x",
+      "level": "",
+      "duration_ms": 615250,
+      "char_count": 2461
+    },
+    {
+      "entry_id": "拼音1：o",
+      "title": "拼音1：o",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音1：o",
+      "level": "",
+      "duration_ms": 636500,
+      "char_count": 2540
+    },
+    {
+      "entry_id": "拼音20：zh",
+      "title": "拼音20：zh",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音20：zh",
+      "level": "",
+      "duration_ms": 579500,
+      "char_count": 2318
+    },
+    {
+      "entry_id": "拼音21：ch",
+      "title": "拼音21：ch",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音21：ch",
+      "level": "",
+      "duration_ms": 562750,
+      "char_count": 2247
+    },
+    {
+      "entry_id": "拼音22：sh",
+      "title": "拼音22：sh",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音22：sh",
+      "level": "",
+      "duration_ms": 594250,
+      "char_count": 2377
+    },
+    {
+      "entry_id": "拼音23：r",
+      "title": "拼音23：r",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音23：r",
+      "level": "",
+      "duration_ms": 602250,
+      "char_count": 2388
+    },
+    {
+      "entry_id": "拼音24：z",
+      "title": "拼音24：z",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音24：z",
+      "level": "",
+      "duration_ms": 662750,
+      "char_count": 2646
+    },
+    {
+      "entry_id": "拼音25：c",
+      "title": "拼音25：c",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音25：c",
+      "level": "",
+      "duration_ms": 645000,
+      "char_count": 2562
+    },
+    {
+      "entry_id": "拼音26：s",
+      "title": "拼音26：s",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音26：s",
+      "level": "",
+      "duration_ms": 662750,
+      "char_count": 2651
+    },
+    {
+      "entry_id": "拼音27：y",
+      "title": "拼音27：y",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音27：y",
+      "level": "",
+      "duration_ms": 660750,
+      "char_count": 2643
+    },
+    {
+      "entry_id": "拼音28：w",
+      "title": "拼音28：w",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音28：w",
+      "level": "",
+      "duration_ms": 577250,
+      "char_count": 2307
+    },
+    {
+      "entry_id": "拼音29：ai",
+      "title": "拼音29：ai",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音29：ai",
+      "level": "",
+      "duration_ms": 639500,
+      "char_count": 2511
+    },
+    {
+      "entry_id": "拼音2：e",
+      "title": "拼音2：e",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音2：e",
+      "level": "",
+      "duration_ms": 765000,
+      "char_count": 3049
+    },
+    {
+      "entry_id": "拼音30：ei",
+      "title": "拼音30：ei",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音30：ei",
+      "level": "",
+      "duration_ms": 602750,
+      "char_count": 2411
+    },
+    {
+      "entry_id": "拼音31：ui",
+      "title": "拼音31：ui",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音31：ui",
+      "level": "",
+      "duration_ms": 776500,
+      "char_count": 3096
+    },
+    {
+      "entry_id": "拼音32：ao",
+      "title": "拼音32：ao",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音32：ao",
+      "level": "",
+      "duration_ms": 566250,
+      "char_count": 2265
+    },
+    {
+      "entry_id": "拼音33：ou",
+      "title": "拼音33：ou",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音33：ou",
+      "level": "",
+      "duration_ms": 568250,
+      "char_count": 2240
+    },
+    {
+      "entry_id": "拼音34：iu",
+      "title": "拼音34：iu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音34：iu",
+      "level": "",
+      "duration_ms": 574250,
+      "char_count": 2297
+    },
+    {
+      "entry_id": "拼音35：ie",
+      "title": "拼音35：ie",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音35：ie",
+      "level": "",
+      "duration_ms": 678750,
+      "char_count": 2703
+    },
+    {
+      "entry_id": "拼音36：üe",
+      "title": "拼音36：üe",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音36：üe",
+      "level": "",
+      "duration_ms": 613500,
+      "char_count": 2449
+    },
+    {
+      "entry_id": "拼音37：er",
+      "title": "拼音37：er",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音37：er",
+      "level": "",
+      "duration_ms": 678250,
+      "char_count": 2713
+    },
+    {
+      "entry_id": "拼音38：an",
+      "title": "拼音38：an",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音38：an",
+      "level": "",
+      "duration_ms": 734000,
+      "char_count": 2935
+    },
+    {
+      "entry_id": "拼音39：en",
+      "title": "拼音39：en",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音39：en",
+      "level": "",
+      "duration_ms": 559500,
+      "char_count": 2238
+    },
+    {
+      "entry_id": "拼音3：i",
+      "title": "拼音3：i",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音3：i",
+      "level": "",
+      "duration_ms": 615250,
+      "char_count": 2449
+    },
+    {
+      "entry_id": "拼音40：in",
+      "title": "拼音40：in",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音40：in",
+      "level": "",
+      "duration_ms": 565000,
+      "char_count": 2260
+    },
+    {
+      "entry_id": "拼音41：un",
+      "title": "拼音41：un",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音41：un",
+      "level": "",
+      "duration_ms": 544500,
+      "char_count": 2157
+    },
+    {
+      "entry_id": "拼音42：ün",
+      "title": "拼音42：ün",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音42：ün",
+      "level": "",
+      "duration_ms": 565250,
+      "char_count": 2254
+    },
+    {
+      "entry_id": "拼音43：ang",
+      "title": "拼音43：ang",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音43：ang",
+      "level": "",
+      "duration_ms": 660000,
+      "char_count": 2635
+    },
+    {
+      "entry_id": "拼音44：eng",
+      "title": "拼音44：eng",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音44：eng",
+      "level": "",
+      "duration_ms": 557250,
+      "char_count": 2222
+    },
+    {
+      "entry_id": "拼音45：ing",
+      "title": "拼音45：ing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音45：ing",
+      "level": "",
+      "duration_ms": 645000,
+      "char_count": 2578
+    },
+    {
+      "entry_id": "拼音46：ong",
+      "title": "拼音46：ong",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音46：ong",
+      "level": "",
+      "duration_ms": 610000,
+      "char_count": 2438
+    },
+    {
+      "entry_id": "拼音47：zhi",
+      "title": "拼音47：zhi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音47：zhi",
+      "level": "",
+      "duration_ms": 583250,
+      "char_count": 2333
+    },
+    {
+      "entry_id": "拼音48：chi",
+      "title": "拼音48：chi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音48：chi",
+      "level": "",
+      "duration_ms": 619750,
+      "char_count": 2479
+    },
+    {
+      "entry_id": "拼音49：shi",
+      "title": "拼音49：shi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音49：shi",
+      "level": "",
+      "duration_ms": 528500,
+      "char_count": 2114
+    },
+    {
+      "entry_id": "拼音4：u",
+      "title": "拼音4：u",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音4：u",
+      "level": "",
+      "duration_ms": 623000,
+      "char_count": 2491
+    },
+    {
+      "entry_id": "拼音50：ri",
+      "title": "拼音50：ri",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音50：ri",
+      "level": "",
+      "duration_ms": 720500,
+      "char_count": 2862
+    },
+    {
+      "entry_id": "拼音51：zi",
+      "title": "拼音51：zi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音51：zi",
+      "level": "",
+      "duration_ms": 887500,
+      "char_count": 3546
+    },
+    {
+      "entry_id": "拼音52：ci",
+      "title": "拼音52：ci",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音52：ci",
+      "level": "",
+      "duration_ms": 646750,
+      "char_count": 2587
+    },
+    {
+      "entry_id": "拼音53：si",
+      "title": "拼音53：si",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音53：si",
+      "level": "",
+      "duration_ms": 658000,
+      "char_count": 2632
+    },
+    {
+      "entry_id": "拼音54：yi",
+      "title": "拼音54：yi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音54：yi",
+      "level": "",
+      "duration_ms": 759500,
+      "char_count": 3038
+    },
+    {
+      "entry_id": "拼音55：wu",
+      "title": "拼音55：wu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音55：wu",
+      "level": "",
+      "duration_ms": 462750,
+      "char_count": 1835
+    },
+    {
+      "entry_id": "拼音56：yu",
+      "title": "拼音56：yu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音56：yu",
+      "level": "",
+      "duration_ms": 580750,
+      "char_count": 2320
+    },
+    {
+      "entry_id": "拼音57：ye",
+      "title": "拼音57：ye",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音57：ye",
+      "level": "",
+      "duration_ms": 595750,
+      "char_count": 2382
+    },
+    {
+      "entry_id": "拼音58：yue",
+      "title": "拼音58：yue",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音58：yue",
+      "level": "",
+      "duration_ms": 536000,
+      "char_count": 2141
+    },
+    {
+      "entry_id": "拼音59：yuan",
+      "title": "拼音59：yuan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音59：yuan",
+      "level": "",
+      "duration_ms": 573250,
+      "char_count": 2293
+    },
+    {
+      "entry_id": "拼音5：ü",
+      "title": "拼音5：ü",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音5：ü",
+      "level": "",
+      "duration_ms": 571750,
+      "char_count": 2270
+    },
+    {
+      "entry_id": "拼音60：yin",
+      "title": "拼音60：yin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音60：yin",
+      "level": "",
+      "duration_ms": 545250,
+      "char_count": 2181
+    },
+    {
+      "entry_id": "拼音61：yun",
+      "title": "拼音61：yun",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音61：yun",
+      "level": "",
+      "duration_ms": 560500,
+      "char_count": 2146
+    },
+    {
+      "entry_id": "拼音62：ying",
+      "title": "拼音62：ying",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音62：ying",
+      "level": "",
+      "duration_ms": 651250,
+      "char_count": 2605
+    },
+    {
+      "entry_id": "拼音63：bpmf拼读实战",
+      "title": "拼音63：bpmf拼读实战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音63：bpmf拼读实战",
+      "level": "",
+      "duration_ms": 650500,
+      "char_count": 2602
+    },
+    {
+      "entry_id": "拼音64：dtnl拼读实战",
+      "title": "拼音64：dtnl拼读实战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音64：dtnl拼读实战",
+      "level": "",
+      "duration_ms": 956000,
+      "char_count": 3824
+    },
+    {
+      "entry_id": "拼音65：gkh拼读实战",
+      "title": "拼音65：gkh拼读实战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音65：gkh拼读实战",
+      "level": "",
+      "duration_ms": 791000,
+      "char_count": 3163
+    },
+    {
+      "entry_id": "拼音66：jqx拼读实战",
+      "title": "拼音66：jqx拼读实战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音66：jqx拼读实战",
+      "level": "",
+      "duration_ms": 810750,
+      "char_count": 3241
+    },
+    {
+      "entry_id": "拼音67：zhchshr拼读实战",
+      "title": "拼音67：zhchshr拼读实战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音67：zhchshr拼读实战",
+      "level": "",
+      "duration_ms": 632000,
+      "char_count": 2515
+    },
+    {
+      "entry_id": "拼音68：zcs拼读实战",
+      "title": "拼音68：zcs拼读实战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音68：zcs拼读实战",
+      "level": "",
+      "duration_ms": 554000,
+      "char_count": 2216
+    },
+    {
+      "entry_id": "拼音69：yw拼读实战",
+      "title": "拼音69：yw拼读实战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音69：yw拼读实战",
+      "level": "",
+      "duration_ms": 673500,
+      "char_count": 2645
+    },
+    {
+      "entry_id": "拼音6：b",
+      "title": "拼音6：b",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音6：b",
+      "level": "",
+      "duration_ms": 605500,
+      "char_count": 2399
+    },
+    {
+      "entry_id": "拼音70：声母配ai-ei-ui",
+      "title": "拼音70：声母配ai-ei-ui",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音70：声母配ai-ei-ui",
+      "level": "",
+      "duration_ms": 657250,
+      "char_count": 2613
+    },
+    {
+      "entry_id": "拼音71：声母配ao-ou-iu",
+      "title": "拼音71：声母配ao-ou-iu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音71：声母配ao-ou-iu",
+      "level": "",
+      "duration_ms": 751750,
+      "char_count": 3007
+    },
+    {
+      "entry_id": "拼音72：声母配ie-üe-er",
+      "title": "拼音72：声母配ie-üe-er",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音72：声母配ie-üe-er",
+      "level": "",
+      "duration_ms": 530750,
+      "char_count": 2123
+    },
+    {
+      "entry_id": "拼音73：声母配an-en-in",
+      "title": "拼音73：声母配an-en-in",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音73：声母配an-en-in",
+      "level": "",
+      "duration_ms": 824500,
+      "char_count": 3298
+    },
+    {
+      "entry_id": "拼音74：声母配un-ün",
+      "title": "拼音74：声母配un-ün",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音74：声母配un-ün",
+      "level": "",
+      "duration_ms": 734500,
+      "char_count": 2927
+    },
+    {
+      "entry_id": "拼音75：声母配ang-eng-ing-ong",
+      "title": "拼音75：声母配ang-eng-ing-ong",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音75：声母配ang-eng-ing-ong",
+      "level": "",
+      "duration_ms": 661500,
+      "char_count": 2646
+    },
+    {
+      "entry_id": "拼音76：三拼连读：i介母",
+      "title": "拼音76：三拼连读：i介母",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音76：三拼连读：i介母",
+      "level": "",
+      "duration_ms": 861000,
+      "char_count": 3444
+    },
+    {
+      "entry_id": "拼音77：三拼连读：u介母",
+      "title": "拼音77：三拼连读：u介母",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音77：三拼连读：u介母",
+      "level": "",
+      "duration_ms": 906250,
+      "char_count": 3625
+    },
+    {
+      "entry_id": "拼音78：三拼连读综合",
+      "title": "拼音78：三拼连读综合",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音78：三拼连读综合",
+      "level": "",
+      "duration_ms": 848750,
+      "char_count": 3392
+    },
+    {
+      "entry_id": "拼音79：综合故事1",
+      "title": "拼音79：综合故事1",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音79：综合故事1",
+      "level": "",
+      "duration_ms": 654500,
+      "char_count": 2611
+    },
+    {
+      "entry_id": "拼音7：p",
+      "title": "拼音7：p",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音7：p",
+      "level": "",
+      "duration_ms": 541500,
+      "char_count": 2166
+    },
+    {
+      "entry_id": "拼音80：综合故事2",
+      "title": "拼音80：综合故事2",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音80：综合故事2",
+      "level": "",
+      "duration_ms": 997000,
+      "char_count": 3968
+    },
+    {
+      "entry_id": "拼音81：综合故事3",
+      "title": "拼音81：综合故事3",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音81：综合故事3",
+      "level": "",
+      "duration_ms": 618250,
+      "char_count": 2473
+    },
+    {
+      "entry_id": "拼音82：综合故事4",
+      "title": "拼音82：综合故事4",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音82：综合故事4",
+      "level": "",
+      "duration_ms": 672000,
+      "char_count": 2688
+    },
+    {
+      "entry_id": "拼音83：综合故事5",
+      "title": "拼音83：综合故事5",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音83：综合故事5",
+      "level": "",
+      "duration_ms": 938250,
+      "char_count": 3744
+    },
+    {
+      "entry_id": "拼音84：综合故事6",
+      "title": "拼音84：综合故事6",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音84：综合故事6",
+      "level": "",
+      "duration_ms": 737750,
+      "char_count": 2939
+    },
+    {
+      "entry_id": "拼音85：综合故事7",
+      "title": "拼音85：综合故事7",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音85：综合故事7",
+      "level": "",
+      "duration_ms": 708500,
+      "char_count": 2834
+    },
+    {
+      "entry_id": "拼音86：综合故事8",
+      "title": "拼音86：综合故事8",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音86：综合故事8",
+      "level": "",
+      "duration_ms": 672000,
+      "char_count": 2688
+    },
+    {
+      "entry_id": "拼音87：综合故事9",
+      "title": "拼音87：综合故事9",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音87：综合故事9",
+      "level": "",
+      "duration_ms": 717750,
+      "char_count": 2871
+    },
+    {
+      "entry_id": "拼音88：综合故事10",
+      "title": "拼音88：综合故事10",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音88：综合故事10",
+      "level": "",
+      "duration_ms": 1336750,
+      "char_count": 5291
+    },
+    {
+      "entry_id": "拼音89：综合故事11",
+      "title": "拼音89：综合故事11",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音89：综合故事11",
+      "level": "",
+      "duration_ms": 1341250,
+      "char_count": 5358
+    },
+    {
+      "entry_id": "拼音8：m",
+      "title": "拼音8：m",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音8：m",
+      "level": "",
+      "duration_ms": 600000,
+      "char_count": 2400
+    },
+    {
+      "entry_id": "拼音90：综合故事12",
+      "title": "拼音90：综合故事12",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音90：综合故事12",
+      "level": "",
+      "duration_ms": 1472250,
+      "char_count": 5889
+    },
+    {
+      "entry_id": "拼音91：综合故事13",
+      "title": "拼音91：综合故事13",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音91：综合故事13",
+      "level": "",
+      "duration_ms": 1030000,
+      "char_count": 4120
+    },
+    {
+      "entry_id": "拼音92：综合故事14",
+      "title": "拼音92：综合故事14",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音92：综合故事14",
+      "level": "",
+      "duration_ms": 1307000,
+      "char_count": 5226
+    },
+    {
+      "entry_id": "拼音93：综合故事15",
+      "title": "拼音93：综合故事15",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音93：综合故事15",
+      "level": "",
+      "duration_ms": 1724000,
+      "char_count": 6891
+    },
+    {
+      "entry_id": "拼音94：综合故事16",
+      "title": "拼音94：综合故事16",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音94：综合故事16",
+      "level": "",
+      "duration_ms": 1355500,
+      "char_count": 5421
+    },
+    {
+      "entry_id": "拼音95：综合故事17",
+      "title": "拼音95：综合故事17",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音95：综合故事17",
+      "level": "",
+      "duration_ms": 1623250,
+      "char_count": 6493
+    },
+    {
+      "entry_id": "拼音96：综合故事18",
+      "title": "拼音96：综合故事18",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音96：综合故事18",
+      "level": "",
+      "duration_ms": 1273000,
+      "char_count": 5092
+    },
+    {
+      "entry_id": "拼音97：综合故事19",
+      "title": "拼音97：综合故事19",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音97：综合故事19",
+      "level": "",
+      "duration_ms": 1239000,
+      "char_count": 4943
+    },
+    {
+      "entry_id": "拼音98：综合故事20",
+      "title": "拼音98：综合故事20",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音98：综合故事20",
+      "level": "",
+      "duration_ms": 1456750,
+      "char_count": 5819
+    },
+    {
+      "entry_id": "拼音99：综合故事21",
+      "title": "拼音99：综合故事21",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音99：综合故事21",
+      "level": "",
+      "duration_ms": 1971750,
+      "char_count": 7886
+    },
+    {
+      "entry_id": "拼音9：f",
+      "title": "拼音9：f",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "学科启蒙/F3拼音/拼音9：f",
+      "level": "",
+      "duration_ms": 649750,
+      "char_count": 2597
+    }
+  ]
+}

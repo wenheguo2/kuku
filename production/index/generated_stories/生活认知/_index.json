@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "index_type": "subject_index",
+  "subject_id": "生活认知",
+  "subject_name": "生活认知",
+  "cover": {
+    "cover_image_url": "covers/generated/生活认知/生活认知.webp",
+    "cover_level": "subject"
+  },
+  "category_count": 9,
+  "categories": [
+    {
+      "id": "B1口才",
+      "name": "B1口才",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 207,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B1口才/B1口才.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "B2财商",
+      "name": "B2财商",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 94,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B2财商/B2财商.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "B3社交",
+      "name": "B3社交",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 117,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B3社交/B3社交.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "B4焦虑",
+      "name": "B4焦虑",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 97,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B4焦虑/B4焦虑.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "B5屏幕与数字生活",
+      "name": "B5屏幕与数字生活",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 95,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B5屏幕与数字生活/B5屏幕与数字生活.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "B6身体自主与性教育",
+      "name": "B6身体自主与性教育",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 97,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B6身体自主与性教育/B6身体自主与性教育.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "B7第一次",
+      "name": "B7第一次",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 112,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B7第一次/B7第一次.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "B8安全教育",
+      "name": "B8安全教育",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 93,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B8安全教育/B8安全教育.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "B9职业认知",
+      "name": "B9职业认知",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 94,
+      "cover": {
+        "cover_image_url": "covers/generated/生活认知/B9职业认知/B9职业认知.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1816 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E3历史故事/红楼梦",
+  "work_name": "红楼梦",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 120,
+  "total_duration_ms": 111530084,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第001回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+      "title": "第001回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第001回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1202265,
+      "char_count": 4651,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第002回 贾夫人仙逝扬州城 冷子兴演说荣国府",
+      "title": "第002回 贾夫人仙逝扬州城 冷子兴演说荣国府",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第002回 贾夫人仙逝扬州城 冷子兴演说荣国府",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1067396,
+      "char_count": 4048,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第003回 托内兄如海荐西宾 接外孙贾母惜孤女",
+      "title": "第003回 托内兄如海荐西宾 接外孙贾母惜孤女",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第003回 托内兄如海荐西宾 接外孙贾母惜孤女",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1214300,
+      "char_count": 4771,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第004回 薄命女偏逢薄命郎 葫芦僧判断葫芦案",
+      "title": "第004回 薄命女偏逢薄命郎 葫芦僧判断葫芦案",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第004回 薄命女偏逢薄命郎 葫芦僧判断葫芦案",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 846590,
+      "char_count": 3228,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第005回 贾宝玉神游太虚观 警幻仙曲演红楼梦",
+      "title": "第005回 贾宝玉神游太虚观 警幻仙曲演红楼梦",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第005回 贾宝玉神游太虚观 警幻仙曲演红楼梦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 770270,
+      "char_count": 2770,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第006回 贾宝玉初试云雨情 刘姥姥一进荣国府",
+      "title": "第006回 贾宝玉初试云雨情 刘姥姥一进荣国府",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第006回 贾宝玉初试云雨情 刘姥姥一进荣国府",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1122844,
+      "char_count": 4318,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第007回 送宫花贾琏戏熙凤 宴宁府宝玉会秦钟",
+      "title": "第007回 送宫花贾琏戏熙凤 宴宁府宝玉会秦钟",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第007回 送宫花贾琏戏熙凤 宴宁府宝玉会秦钟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1127728,
+      "char_count": 4393,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第008回 贾宝玉奇缘识金锁 薛宝钗巧合认通灵",
+      "title": "第008回 贾宝玉奇缘识金锁 薛宝钗巧合认通灵",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第008回 贾宝玉奇缘识金锁 薛宝钗巧合认通灵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 901416,
+      "char_count": 3502,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第009回 训劣子李贵承申饬 嗔顽童茗烟闹书房",
+      "title": "第009回 训劣子李贵承申饬 嗔顽童茗烟闹书房",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第009回 训劣子李贵承申饬 嗔顽童茗烟闹书房",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1241592,
+      "char_count": 4863,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第010回 金寡妇贪利权受辱 张太医论病细穷源",
+      "title": "第010回 金寡妇贪利权受辱 张太医论病细穷源",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第010回 金寡妇贪利权受辱 张太医论病细穷源",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 994773,
+      "char_count": 3820,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第011回 庆寿辰宁府摆家宴 见熙凤贾瑞起淫心",
+      "title": "第011回 庆寿辰宁府摆家宴 见熙凤贾瑞起淫心",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第011回 庆寿辰宁府摆家宴 见熙凤贾瑞起淫心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 852087,
+      "char_count": 2917,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第012回 王熙凤毒设相思局 贾天祥正照风月鉴",
+      "title": "第012回 王熙凤毒设相思局 贾天祥正照风月鉴",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第012回 王熙凤毒设相思局 贾天祥正照风月鉴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 737130,
+      "char_count": 2932,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第013回 秦可卿死封龙禁尉 王熙凤协理宁国府",
+      "title": "第013回 秦可卿死封龙禁尉 王熙凤协理宁国府",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第013回 秦可卿死封龙禁尉 王熙凤协理宁国府",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 862623,
+      "char_count": 3328,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第014回 林如海捐馆扬州城 贾宝玉路谒北静王",
+      "title": "第014回 林如海捐馆扬州城 贾宝玉路谒北静王",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第014回 林如海捐馆扬州城 贾宝玉路谒北静王",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 697980,
+      "char_count": 2734,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第015回 王凤姐弄权铁槛寺 秦鲸卿得趣馒头庵",
+      "title": "第015回 王凤姐弄权铁槛寺 秦鲸卿得趣馒头庵",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第015回 王凤姐弄权铁槛寺 秦鲸卿得趣馒头庵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 972917,
+      "char_count": 3757,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "第016回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路",
+      "title": "第016回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第016回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 880413,
+      "char_count": 3404,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "第017回 大观园试才题对额 荣国府归省庆元宵",
+      "title": "第017回 大观园试才题对额 荣国府归省庆元宵",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第017回 大观园试才题对额 荣国府归省庆元宵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 807336,
+      "char_count": 3111,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "第018回 皇恩重元妃省父母 天伦乐宝玉呈才藻",
+      "title": "第018回 皇恩重元妃省父母 天伦乐宝玉呈才藻",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第018回 皇恩重元妃省父母 天伦乐宝玉呈才藻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 955205,
+      "char_count": 3759,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "第019回 情切切良宵花解语 意绵绵静日玉生香",
+      "title": "第019回 情切切良宵花解语 意绵绵静日玉生香",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第019回 情切切良宵花解语 意绵绵静日玉生香",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 929550,
+      "char_count": 3613,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "第020回 王熙凤正言弹妒意 林黛玉俏语谑娇音",
+      "title": "第020回 王熙凤正言弹妒意 林黛玉俏语谑娇音",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第020回 王熙凤正言弹妒意 林黛玉俏语谑娇音",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1053478,
+      "char_count": 4046,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "第021回 贤袭人娇嗔箴宝玉 俏平儿软语救贾琏",
+      "title": "第021回 贤袭人娇嗔箴宝玉 俏平儿软语救贾琏",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第021回 贤袭人娇嗔箴宝玉 俏平儿软语救贾琏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 949944,
+      "char_count": 3720,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "第022回 听曲文宝玉悟禅机 制灯谜贾政悲谶语",
+      "title": "第022回 听曲文宝玉悟禅机 制灯谜贾政悲谶语",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第022回 听曲文宝玉悟禅机 制灯谜贾政悲谶语",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1035522,
+      "char_count": 4032,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "第023回 西厢记妙词通戏语 牡丹亭艳曲警芳心",
+      "title": "第023回 西厢记妙词通戏语 牡丹亭艳曲警芳心",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第023回 西厢记妙词通戏语 牡丹亭艳曲警芳心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 813730,
+      "char_count": 3168,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "第024回 醉金刚轻财尚义侠 痴女儿遗帕惹相思",
+      "title": "第024回 醉金刚轻财尚义侠 痴女儿遗帕惹相思",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第024回 醉金刚轻财尚义侠 痴女儿遗帕惹相思",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1003874,
+      "char_count": 3924,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "第025回 魇魔法叔嫂逢五鬼 通灵玉蒙蔽遇双真",
+      "title": "第025回 魇魔法叔嫂逢五鬼 通灵玉蒙蔽遇双真",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第025回 魇魔法叔嫂逢五鬼 通灵玉蒙蔽遇双真",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 836698,
+      "char_count": 3288,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "第026回 蜂腰桥设言传心事 潇湘馆春困发幽情",
+      "title": "第026回 蜂腰桥设言传心事 潇湘馆春困发幽情",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第026回 蜂腰桥设言传心事 潇湘馆春困发幽情",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 749235,
+      "char_count": 2903,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "第027回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红",
+      "title": "第027回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第027回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1070629,
+      "char_count": 4193,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "第028回 蒋玉菡情赠茜香罗 薛宝钗羞笼红麝串",
+      "title": "第028回 蒋玉菡情赠茜香罗 薛宝钗羞笼红麝串",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第028回 蒋玉菡情赠茜香罗 薛宝钗羞笼红麝串",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 892553,
+      "char_count": 3515,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "第029回 享福人福深还祷福 痴情女情重愈斟情",
+      "title": "第029回 享福人福深还祷福 痴情女情重愈斟情",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第029回 享福人福深还祷福 痴情女情重愈斟情",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1516861,
+      "char_count": 5866,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "第030回 宝钗借扇机带双敲 龄官画蔷痴及局外",
+      "title": "第030回 宝钗借扇机带双敲 龄官画蔷痴及局外",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第030回 宝钗借扇机带双敲 龄官画蔷痴及局外",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 777129,
+      "char_count": 3068,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "第031回 撕扇子作千金一笑 因麒麟伏白首双星",
+      "title": "第031回 撕扇子作千金一笑 因麒麟伏白首双星",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第031回 撕扇子作千金一笑 因麒麟伏白首双星",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 847873,
+      "char_count": 3304,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "第032回 诉肺腑心迷活宝玉 含耻辱情烈死金钏",
+      "title": "第032回 诉肺腑心迷活宝玉 含耻辱情烈死金钏",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第032回 诉肺腑心迷活宝玉 含耻辱情烈死金钏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 655987,
+      "char_count": 2537,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "第033回 手足眈眈小动唇舌 不肖种种大承笞挞",
+      "title": "第033回 手足眈眈小动唇舌 不肖种种大承笞挞",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第033回 手足眈眈小动唇舌 不肖种种大承笞挞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 674130,
+      "char_count": 2573,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "第034回 情中情因情感妹妹 错里错以错劝哥哥",
+      "title": "第034回 情中情因情感妹妹 错里错以错劝哥哥",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第034回 情中情因情感妹妹 错里错以错劝哥哥",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 815906,
+      "char_count": 2804,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "第035回 白玉钏亲尝莲叶羹 黄金莺巧结梅花络",
+      "title": "第035回 白玉钏亲尝莲叶羹 黄金莺巧结梅花络",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第035回 白玉钏亲尝莲叶羹 黄金莺巧结梅花络",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 881520,
+      "char_count": 3451,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "第036回 绣鸳鸯梦兆绛芸轩 识分定情悟梨香院",
+      "title": "第036回 绣鸳鸯梦兆绛芸轩 识分定情悟梨香院",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第036回 绣鸳鸯梦兆绛芸轩 识分定情悟梨香院",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 670273,
+      "char_count": 2604,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "第037回 秋爽斋偶结海棠社 蘅芜苑夜拟菊花题",
+      "title": "第037回 秋爽斋偶结海棠社 蘅芜苑夜拟菊花题",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第037回 秋爽斋偶结海棠社 蘅芜苑夜拟菊花题",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 933124,
+      "char_count": 3595,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "第038回 林潇湘魁夺菊花诗 薛蘅芜讽和螃蟹咏",
+      "title": "第038回 林潇湘魁夺菊花诗 薛蘅芜讽和螃蟹咏",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第038回 林潇湘魁夺菊花诗 薛蘅芜讽和螃蟹咏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 677561,
+      "char_count": 2654,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "第039回 村姥姥是信口开河 情哥哥偏寻根究底",
+      "title": "第039回 村姥姥是信口开河 情哥哥偏寻根究底",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第039回 村姥姥是信口开河 情哥哥偏寻根究底",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 898151,
+      "char_count": 3472,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "第040回 史太君两宴大观园 金鸳鸯三宣牙牌令",
+      "title": "第040回 史太君两宴大观园 金鸳鸯三宣牙牌令",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第040回 史太君两宴大观园 金鸳鸯三宣牙牌令",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 984330,
+      "char_count": 3797,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "第041回 栊翠庵茶品梅花雪 怡红院劫遇母蝗虫",
+      "title": "第041回 栊翠庵茶品梅花雪 怡红院劫遇母蝗虫",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第041回 栊翠庵茶品梅花雪 怡红院劫遇母蝗虫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 892261,
+      "char_count": 3473,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "第042回 蘅芜君兰言解疑癖 潇湘子雅谑补馀香",
+      "title": "第042回 蘅芜君兰言解疑癖 潇湘子雅谑补馀香",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第042回 蘅芜君兰言解疑癖 潇湘子雅谑补馀香",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 843880,
+      "char_count": 3217,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "第043回 闲取乐偶攒金庆寿 不了情暂撮土为香",
+      "title": "第043回 闲取乐偶攒金庆寿 不了情暂撮土为香",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第043回 闲取乐偶攒金庆寿 不了情暂撮土为香",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 887595,
+      "char_count": 3427,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "第044回 变生不测凤姐泼醋 喜出望外平儿理妆",
+      "title": "第044回 变生不测凤姐泼醋 喜出望外平儿理妆",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第044回 变生不测凤姐泼醋 喜出望外平儿理妆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 979990,
+      "char_count": 3804,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "第045回 金兰契互剖金兰语 风雨夕闷制风雨词",
+      "title": "第045回 金兰契互剖金兰语 风雨夕闷制风雨词",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第045回 金兰契互剖金兰语 风雨夕闷制风雨词",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1227198,
+      "char_count": 4720,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "第046回 尴尬人难免尴尬事 鸳鸯女誓绝鸳鸯偶",
+      "title": "第046回 尴尬人难免尴尬事 鸳鸯女誓绝鸳鸯偶",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第046回 尴尬人难免尴尬事 鸳鸯女誓绝鸳鸯偶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 957267,
+      "char_count": 3704,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "第047回 呆霸王调情遭苦打 冷郎君惧祸走他乡",
+      "title": "第047回 呆霸王调情遭苦打 冷郎君惧祸走他乡",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第047回 呆霸王调情遭苦打 冷郎君惧祸走他乡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 875090,
+      "char_count": 3436,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "第048回 滥情人情误思游艺 慕雅女雅集苦吟诗",
+      "title": "第048回 滥情人情误思游艺 慕雅女雅集苦吟诗",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第048回 滥情人情误思游艺 慕雅女雅集苦吟诗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 872625,
+      "char_count": 3378,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "第049回 琉璃世界白雪红梅 脂粉香娃割腥啖膻",
+      "title": "第049回 琉璃世界白雪红梅 脂粉香娃割腥啖膻",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第049回 琉璃世界白雪红梅 脂粉香娃割腥啖膻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 960618,
+      "char_count": 3711,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "第050回 芦雪庵争联即景诗 暖香坞雅制春灯谜",
+      "title": "第050回 芦雪庵争联即景诗 暖香坞雅制春灯谜",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第050回 芦雪庵争联即景诗 暖香坞雅制春灯谜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 907935,
+      "char_count": 3525,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "第051回 薛小妹新编怀古诗 胡庸医乱用虎狼药",
+      "title": "第051回 薛小妹新编怀古诗 胡庸医乱用虎狼药",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第051回 薛小妹新编怀古诗 胡庸医乱用虎狼药",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 980048,
+      "char_count": 3784,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "第052回 俏平儿情掩虾须镯 勇晴雯病补雀金裘",
+      "title": "第052回 俏平儿情掩虾须镯 勇晴雯病补雀金裘",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第052回 俏平儿情掩虾须镯 勇晴雯病补雀金裘",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1007015,
+      "char_count": 3917,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "第053回 宁国府除夕祭宗祠 荣国府元宵开夜宴",
+      "title": "第053回 宁国府除夕祭宗祠 荣国府元宵开夜宴",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第053回 宁国府除夕祭宗祠 荣国府元宵开夜宴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1439056,
+      "char_count": 5231,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "第054回 史太君破陈腐旧套 王熙凤效戏彩斑衣",
+      "title": "第054回 史太君破陈腐旧套 王熙凤效戏彩斑衣",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第054回 史太君破陈腐旧套 王熙凤效戏彩斑衣",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 684202,
+      "char_count": 2619,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "第055回 辱亲女愚妾争闲气 欺幼主刁奴蓄险心",
+      "title": "第055回 辱亲女愚妾争闲气 欺幼主刁奴蓄险心",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第055回 辱亲女愚妾争闲气 欺幼主刁奴蓄险心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 786307,
+      "char_count": 3030,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "第056回 敏探春兴利除宿弊 识宝钗小惠全大体",
+      "title": "第056回 敏探春兴利除宿弊 识宝钗小惠全大体",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第056回 敏探春兴利除宿弊 识宝钗小惠全大体",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1018409,
+      "char_count": 3765,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "第057回 慧紫鹃情辞试莽玉 慈姨妈爱语慰痴颦",
+      "title": "第057回 慧紫鹃情辞试莽玉 慈姨妈爱语慰痴颦",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第057回 慧紫鹃情辞试莽玉 慈姨妈爱语慰痴颦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1091593,
+      "char_count": 4218,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "第058回 杏子阴假凤泣虚凰 茜纱窗真情揆痴理",
+      "title": "第058回 杏子阴假凤泣虚凰 茜纱窗真情揆痴理",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第058回 杏子阴假凤泣虚凰 茜纱窗真情揆痴理",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 738018,
+      "char_count": 2561,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "第059回 柳叶渚边嗔莺咤燕 绛云轩里召将飞符",
+      "title": "第059回 柳叶渚边嗔莺咤燕 绛云轩里召将飞符",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第059回 柳叶渚边嗔莺咤燕 绛云轩里召将飞符",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 956194,
+      "char_count": 3694,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "第060回 茉莉粉替去蔷薇硝 玫瑰露引来茯苓霜",
+      "title": "第060回 茉莉粉替去蔷薇硝 玫瑰露引来茯苓霜",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第060回 茉莉粉替去蔷薇硝 玫瑰露引来茯苓霜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1150548,
+      "char_count": 4422,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "第061回 投鼠忌器宝玉瞒赃 判冤决狱平儿行权",
+      "title": "第061回 投鼠忌器宝玉瞒赃 判冤决狱平儿行权",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第061回 投鼠忌器宝玉瞒赃 判冤决狱平儿行权",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 910618,
+      "char_count": 3467,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "第062回 憨湘云醉眠芍药茵 呆香菱情解石榴裙",
+      "title": "第062回 憨湘云醉眠芍药茵 呆香菱情解石榴裙",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第062回 憨湘云醉眠芍药茵 呆香菱情解石榴裙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 763801,
+      "char_count": 2988,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "第063回 寿怡红群芳开夜宴 死金丹独艳理亲丧",
+      "title": "第063回 寿怡红群芳开夜宴 死金丹独艳理亲丧",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第063回 寿怡红群芳开夜宴 死金丹独艳理亲丧",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 847805,
+      "char_count": 3325,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "第064回 幽淑女悲题五美吟 浪荡子情遗九龙佩",
+      "title": "第064回 幽淑女悲题五美吟 浪荡子情遗九龙佩",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第064回 幽淑女悲题五美吟 浪荡子情遗九龙佩",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 742488,
+      "char_count": 2880,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "第065回 贾二舍偷娶尤二姨 尤三姐思嫁柳二郎",
+      "title": "第065回 贾二舍偷娶尤二姨 尤三姐思嫁柳二郎",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第065回 贾二舍偷娶尤二姨 尤三姐思嫁柳二郎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1138588,
+      "char_count": 4351,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "第066回 情小妹耻情归地府 冷二郎一冷入空门",
+      "title": "第066回 情小妹耻情归地府 冷二郎一冷入空门",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第066回 情小妹耻情归地府 冷二郎一冷入空门",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 834372,
+      "char_count": 2828,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "第067回 见土仪颦卿思故里 闻秘事凤姐讯家童",
+      "title": "第067回 见土仪颦卿思故里 闻秘事凤姐讯家童",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第067回 见土仪颦卿思故里 闻秘事凤姐讯家童",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 975622,
+      "char_count": 3771,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "第068回 苦尤娘赚入大观园 酸凤姐大闹宁国府",
+      "title": "第068回 苦尤娘赚入大观园 酸凤姐大闹宁国府",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第068回 苦尤娘赚入大观园 酸凤姐大闹宁国府",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 987050,
+      "char_count": 3813,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "第069回 弄小巧用借剑杀人 觉大限吞生金自逝",
+      "title": "第069回 弄小巧用借剑杀人 觉大限吞生金自逝",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第069回 弄小巧用借剑杀人 觉大限吞生金自逝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 897164,
+      "char_count": 3510,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "第070回 林黛玉重建桃花社 史湘云偶填柳絮词",
+      "title": "第070回 林黛玉重建桃花社 史湘云偶填柳絮词",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第070回 林黛玉重建桃花社 史湘云偶填柳絮词",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 942378,
+      "char_count": 3619,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "第071回 嫌隙人有心生嫌隙 鸳鸯女无意遇鸳鸯",
+      "title": "第071回 嫌隙人有心生嫌隙 鸳鸯女无意遇鸳鸯",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第071回 嫌隙人有心生嫌隙 鸳鸯女无意遇鸳鸯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 764205,
+      "char_count": 2951,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "第072回 王熙凤恃强羞说病 来旺妇倚势霸成亲",
+      "title": "第072回 王熙凤恃强羞说病 来旺妇倚势霸成亲",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第072回 王熙凤恃强羞说病 来旺妇倚势霸成亲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1506638,
+      "char_count": 5881,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "第073回 痴丫头误拾绣春囊 懦小姐不问累金凤",
+      "title": "第073回 痴丫头误拾绣春囊 懦小姐不问累金凤",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第073回 痴丫头误拾绣春囊 懦小姐不问累金凤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 711882,
+      "char_count": 2740,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "第074回 惑奸谗抄检大观园 矢孤介杜绝宁国府",
+      "title": "第074回 惑奸谗抄检大观园 矢孤介杜绝宁国府",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第074回 惑奸谗抄检大观园 矢孤介杜绝宁国府",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 917770,
+      "char_count": 3539,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "第075回 开夜宴异兆发悲音 赏中秋新词得佳谶",
+      "title": "第075回 开夜宴异兆发悲音 赏中秋新词得佳谶",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第075回 开夜宴异兆发悲音 赏中秋新词得佳谶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 959193,
+      "char_count": 3388,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "第076回 凸碧堂品笛感凄清 凹晶馆联诗悲寂寞",
+      "title": "第076回 凸碧堂品笛感凄清 凹晶馆联诗悲寂寞",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第076回 凸碧堂品笛感凄清 凹晶馆联诗悲寂寞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 666557,
+      "char_count": 2557,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "第077回 俏丫鬟抱屈夭风流 美优伶斩情归水月",
+      "title": "第077回 俏丫鬟抱屈夭风流 美优伶斩情归水月",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第077回 俏丫鬟抱屈夭风流 美优伶斩情归水月",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 676520,
+      "char_count": 2638,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "第078回 老学士闲征姽婳词 痴公子杜撰芙蓉诔",
+      "title": "第078回 老学士闲征姽婳词 痴公子杜撰芙蓉诔",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第078回 老学士闲征姽婳词 痴公子杜撰芙蓉诔",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1075584,
+      "char_count": 4137,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "第079回 薛文龙悔娶河东狮 贾迎春误嫁中山狼",
+      "title": "第079回 薛文龙悔娶河东狮 贾迎春误嫁中山狼",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第079回 薛文龙悔娶河东狮 贾迎春误嫁中山狼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 783951,
+      "char_count": 3067,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "第080回 美香菱屈受贪夫棒 王道士胡诌妒妇方",
+      "title": "第080回 美香菱屈受贪夫棒 王道士胡诌妒妇方",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第080回 美香菱屈受贪夫棒 王道士胡诌妒妇方",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 854337,
+      "char_count": 3350,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 81,
+      "chapter_id": "第081回 占旺相四美钓游鱼 奉严词两番入家塾",
+      "title": "第081回 占旺相四美钓游鱼 奉严词两番入家塾",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第081回 占旺相四美钓游鱼 奉严词两番入家塾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 929730,
+      "char_count": 3625,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 82,
+      "chapter_id": "第082回 老学究讲义警顽心 病潇湘痴魂惊恶梦",
+      "title": "第082回 老学究讲义警顽心 病潇湘痴魂惊恶梦",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第082回 老学究讲义警顽心 病潇湘痴魂惊恶梦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 876665,
+      "char_count": 3173,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 83,
+      "chapter_id": "第083回 省宫闱贾元妃染恙 闹闺阃薛宝钗吞声",
+      "title": "第083回 省宫闱贾元妃染恙 闹闺阃薛宝钗吞声",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第083回 省宫闱贾元妃染恙 闹闺阃薛宝钗吞声",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 961359,
+      "char_count": 3670,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 84,
+      "chapter_id": "第084回 试文字宝玉始提亲 探惊风贾环重结怨",
+      "title": "第084回 试文字宝玉始提亲 探惊风贾环重结怨",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第084回 试文字宝玉始提亲 探惊风贾环重结怨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 703345,
+      "char_count": 2679,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 85,
+      "chapter_id": "第085回 贾存周报升郎中任 薛文起复惹放流刑",
+      "title": "第085回 贾存周报升郎中任 薛文起复惹放流刑",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第085回 贾存周报升郎中任 薛文起复惹放流刑",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 931763,
+      "char_count": 3393,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 86,
+      "chapter_id": "第086回 受私贿老官翻案牍 寄闲情淑女解琴书",
+      "title": "第086回 受私贿老官翻案牍 寄闲情淑女解琴书",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第086回 受私贿老官翻案牍 寄闲情淑女解琴书",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 795340,
+      "char_count": 3067,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 87,
+      "chapter_id": "第087回 感秋深抚琴悲往事 坐禅寂走火入邪魔",
+      "title": "第087回 感秋深抚琴悲往事 坐禅寂走火入邪魔",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第087回 感秋深抚琴悲往事 坐禅寂走火入邪魔",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1056946,
+      "char_count": 4087,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 88,
+      "chapter_id": "第088回 博庭欢宝玉赞孤儿 正家法贾珍鞭悍仆",
+      "title": "第088回 博庭欢宝玉赞孤儿 正家法贾珍鞭悍仆",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第088回 博庭欢宝玉赞孤儿 正家法贾珍鞭悍仆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1100556,
+      "char_count": 4311,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 89,
+      "chapter_id": "第089回 人亡物在公子填词 蛇影杯弓颦卿绝粒",
+      "title": "第089回 人亡物在公子填词 蛇影杯弓颦卿绝粒",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第089回 人亡物在公子填词 蛇影杯弓颦卿绝粒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1003014,
+      "char_count": 3928,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 90,
+      "chapter_id": "第090回 失绵衣贫女耐嗷嘈 送果品小郎惊叵测",
+      "title": "第090回 失绵衣贫女耐嗷嘈 送果品小郎惊叵测",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第090回 失绵衣贫女耐嗷嘈 送果品小郎惊叵测",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 843591,
+      "char_count": 3002,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 91,
+      "chapter_id": "第091回 纵淫心宝蟾工设计 布疑阵宝玉妄谈禅",
+      "title": "第091回 纵淫心宝蟾工设计 布疑阵宝玉妄谈禅",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第091回 纵淫心宝蟾工设计 布疑阵宝玉妄谈禅",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 727802,
+      "char_count": 2845,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 92,
+      "chapter_id": "第092回 评女传巧姐慕贤良 玩母珠贾政参聚散",
+      "title": "第092回 评女传巧姐慕贤良 玩母珠贾政参聚散",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第092回 评女传巧姐慕贤良 玩母珠贾政参聚散",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 917728,
+      "char_count": 3489,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 93,
+      "chapter_id": "第093回 甄家仆投靠贾家门 水月庵掀翻风月案",
+      "title": "第093回 甄家仆投靠贾家门 水月庵掀翻风月案",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第093回 甄家仆投靠贾家门 水月庵掀翻风月案",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 996509,
+      "char_count": 3793,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 94,
+      "chapter_id": "第094回 宴海棠贾母赏花妖 失宝玉通灵知奇祸",
+      "title": "第094回 宴海棠贾母赏花妖 失宝玉通灵知奇祸",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第094回 宴海棠贾母赏花妖 失宝玉通灵知奇祸",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 841480,
+      "char_count": 3310,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 95,
+      "chapter_id": "第095回 因讹成实元妃薨逝 以假混真宝玉疯颠",
+      "title": "第095回 因讹成实元妃薨逝 以假混真宝玉疯颠",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第095回 因讹成实元妃薨逝 以假混真宝玉疯颠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1140225,
+      "char_count": 4463,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 96,
+      "chapter_id": "第096回 瞒消息凤姐设奇谋 泄机关颦儿迷本性",
+      "title": "第096回 瞒消息凤姐设奇谋 泄机关颦儿迷本性",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第096回 瞒消息凤姐设奇谋 泄机关颦儿迷本性",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 934318,
+      "char_count": 3027,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 97,
+      "chapter_id": "第097回 林黛玉焚稿断痴情 薛宝钗出闺成大礼",
+      "title": "第097回 林黛玉焚稿断痴情 薛宝钗出闺成大礼",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第097回 林黛玉焚稿断痴情 薛宝钗出闺成大礼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1245618,
+      "char_count": 4846,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 98,
+      "chapter_id": "第098回 苦绛珠魂归离恨天 病神瑛泪洒相思地",
+      "title": "第098回 苦绛珠魂归离恨天 病神瑛泪洒相思地",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第098回 苦绛珠魂归离恨天 病神瑛泪洒相思地",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 902559,
+      "char_count": 3549,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 99,
+      "chapter_id": "第099回 守官箴恶奴同破例 阅邸报老舅自担惊",
+      "title": "第099回 守官箴恶奴同破例 阅邸报老舅自担惊",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第099回 守官箴恶奴同破例 阅邸报老舅自担惊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1194945,
+      "char_count": 4552,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 100,
+      "chapter_id": "第100回 破好事香菱结深恨 悲远嫁宝玉感离情",
+      "title": "第100回 破好事香菱结深恨 悲远嫁宝玉感离情",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第100回 破好事香菱结深恨 悲远嫁宝玉感离情",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 680314,
+      "char_count": 2640,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 101,
+      "chapter_id": "第101回 大观园月夜警幽魂 散花寺神签惊异兆",
+      "title": "第101回 大观园月夜警幽魂 散花寺神签惊异兆",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第101回 大观园月夜警幽魂 散花寺神签惊异兆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 680595,
+      "char_count": 2649,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 102,
+      "chapter_id": "第102回 宁国府骨肉病灾祲 大观园符水驱妖孽",
+      "title": "第102回 宁国府骨肉病灾祲 大观园符水驱妖孽",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第102回 宁国府骨肉病灾祲 大观园符水驱妖孽",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 792840,
+      "char_count": 3136,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 103,
+      "chapter_id": "第103回 施毒计金桂自焚身 昧真禅雨村空遇旧",
+      "title": "第103回 施毒计金桂自焚身 昧真禅雨村空遇旧",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第103回 施毒计金桂自焚身 昧真禅雨村空遇旧",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 771662,
+      "char_count": 2975,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 104,
+      "chapter_id": "第104回 醉金刚小鳅生大浪 痴公子余痛触前情",
+      "title": "第104回 醉金刚小鳅生大浪 痴公子余痛触前情",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第104回 醉金刚小鳅生大浪 痴公子余痛触前情",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 981121,
+      "char_count": 3792,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 105,
+      "chapter_id": "第105回 锦衣军查抄宁国府 骢马使弹劾平安州",
+      "title": "第105回 锦衣军查抄宁国府 骢马使弹劾平安州",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第105回 锦衣军查抄宁国府 骢马使弹劾平安州",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1130651,
+      "char_count": 4282,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 106,
+      "chapter_id": "第106回 王熙凤致祸抱羞惭 贾太君祷天消灾患",
+      "title": "第106回 王熙凤致祸抱羞惭 贾太君祷天消灾患",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第106回 王熙凤致祸抱羞惭 贾太君祷天消灾患",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 961771,
+      "char_count": 3419,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 107,
+      "chapter_id": "第107回 散余资贾母明大义 复世职政老沐天恩",
+      "title": "第107回 散余资贾母明大义 复世职政老沐天恩",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第107回 散余资贾母明大义 复世职政老沐天恩",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 679130,
+      "char_count": 2590,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 108,
+      "chapter_id": "第108回 强欢笑蘅芜庆生辰 死缠绵潇湘闻鬼哭",
+      "title": "第108回 强欢笑蘅芜庆生辰 死缠绵潇湘闻鬼哭",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第108回 强欢笑蘅芜庆生辰 死缠绵潇湘闻鬼哭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 923659,
+      "char_count": 3269,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 109,
+      "chapter_id": "第109回 候芳魂五儿承错爱 还孽债迎女返真元",
+      "title": "第109回 候芳魂五儿承错爱 还孽债迎女返真元",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第109回 候芳魂五儿承错爱 还孽债迎女返真元",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 967985,
+      "char_count": 3742,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 110,
+      "chapter_id": "第110回 史太君寿终归地府 王凤姐力诎失人心",
+      "title": "第110回 史太君寿终归地府 王凤姐力诎失人心",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第110回 史太君寿终归地府 王凤姐力诎失人心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1021625,
+      "char_count": 4011,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 111,
+      "chapter_id": "第111回 鸳鸯女殉主登太虚 狗彘奴欺天招伙盗",
+      "title": "第111回 鸳鸯女殉主登太虚 狗彘奴欺天招伙盗",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第111回 鸳鸯女殉主登太虚 狗彘奴欺天招伙盗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 831022,
+      "char_count": 2991,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 112,
+      "chapter_id": "第112回 活冤孽妙尼遭大劫 死雠仇赵妾赴冥曹",
+      "title": "第112回 活冤孽妙尼遭大劫 死雠仇赵妾赴冥曹",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第112回 活冤孽妙尼遭大劫 死雠仇赵妾赴冥曹",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 890403,
+      "char_count": 3469,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 113,
+      "chapter_id": "第113回 忏宿冤凤姐托村妪 释旧憾情婢感痴郎",
+      "title": "第113回 忏宿冤凤姐托村妪 释旧憾情婢感痴郎",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第113回 忏宿冤凤姐托村妪 释旧憾情婢感痴郎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1272223,
+      "char_count": 4958,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 114,
+      "chapter_id": "第114回 王熙凤历幻返金陵 甄应嘉蒙恩还玉阙",
+      "title": "第114回 王熙凤历幻返金陵 甄应嘉蒙恩还玉阙",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第114回 王熙凤历幻返金陵 甄应嘉蒙恩还玉阙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 881149,
+      "char_count": 3434,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 115,
+      "chapter_id": "第115回 惑偏私惜春矢素志 证同类宝玉失相知",
+      "title": "第115回 惑偏私惜春矢素志 证同类宝玉失相知",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第115回 惑偏私惜春矢素志 证同类宝玉失相知",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 822847,
+      "char_count": 3106,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 116,
+      "chapter_id": "第116回 得通灵幻境悟仙缘 送慈柩故乡全孝道",
+      "title": "第116回 得通灵幻境悟仙缘 送慈柩故乡全孝道",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第116回 得通灵幻境悟仙缘 送慈柩故乡全孝道",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1231193,
+      "char_count": 4740,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 117,
+      "chapter_id": "第117回 阻超凡佳人双护玉 欣聚党恶子独承家",
+      "title": "第117回 阻超凡佳人双护玉 欣聚党恶子独承家",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第117回 阻超凡佳人双护玉 欣聚党恶子独承家",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1065938,
+      "char_count": 4173,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 118,
+      "chapter_id": "第118回 记微嫌舅兄欺弱女 惊谜语妻妾谏痴人",
+      "title": "第118回 记微嫌舅兄欺弱女 惊谜语妻妾谏痴人",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第118回 记微嫌舅兄欺弱女 惊谜语妻妾谏痴人",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 922128,
+      "char_count": 3556,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 119,
+      "chapter_id": "第119回 中乡魁宝玉却尘缘 沐皇恩贾家延世泽",
+      "title": "第119回 中乡魁宝玉却尘缘 沐皇恩贾家延世泽",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第119回 中乡魁宝玉却尘缘 沐皇恩贾家延世泽",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 990158,
+      "char_count": 3883,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 120,
+      "chapter_id": "第120回 甄士隐详说太虚情 贾雨村归结红楼梦",
+      "title": "第120回 甄士隐详说太虚情 贾雨村归结红楼梦",
+      "full_path": "上下五千年/E3历史故事/红楼梦/第120回 甄士隐详说太虚情 贾雨村归结红楼梦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 792882,
+      "char_count": 2958,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

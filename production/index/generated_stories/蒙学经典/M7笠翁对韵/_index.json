@@ -1,0 +1,1276 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "蒙学经典/M7笠翁对韵",
+  "work_name": "M7笠翁对韵",
+  "cover": {
+    "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 84,
+  "total_duration_ms": 34804400,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "笠翁对韵001-001_第1段_天对地雨对风",
+      "title": "笠翁对韵001-001_第1段_天对地雨对风",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵001-001_第1段_天对地雨对风",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 325600,
+      "char_count": 1621,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "笠翁对韵002-002_第2段_河对汉绿对红",
+      "title": "笠翁对韵002-002_第2段_河对汉绿对红",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵002-002_第2段_河对汉绿对红",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 375000,
+      "char_count": 1868,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "笠翁对韵003-003_第3段_山对海华对嵩",
+      "title": "笠翁对韵003-003_第3段_山对海华对嵩",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵003-003_第3段_山对海华对嵩",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 356800,
+      "char_count": 1777,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "笠翁对韵004-004_第4段_晨对午夏对冬",
+      "title": "笠翁对韵004-004_第4段_晨对午夏对冬",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵004-004_第4段_晨对午夏对冬",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 343200,
+      "char_count": 1709,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "笠翁对韵005-005_第5段_清对淡薄对浓",
+      "title": "笠翁对韵005-005_第5段_清对淡薄对浓",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵005-005_第5段_清对淡薄对浓",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 413000,
+      "char_count": 2058,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "笠翁对韵006-006_第6段_繁对简叠对重",
+      "title": "笠翁对韵006-006_第6段_繁对简叠对重",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵006-006_第6段_繁对简叠对重",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 306200,
+      "char_count": 1524,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "笠翁对韵007-007_第7段_奇对偶只对双",
+      "title": "笠翁对韵007-007_第7段_奇对偶只对双",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵007-007_第7段_奇对偶只对双",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 362000,
+      "char_count": 1803,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "笠翁对韵008-008_第8段_颜对貌像对庞",
+      "title": "笠翁对韵008-008_第8段_颜对貌像对庞",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵008-008_第8段_颜对貌像对庞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 341000,
+      "char_count": 1698,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "笠翁对韵009-009_第9段_泉对石干对枝",
+      "title": "笠翁对韵009-009_第9段_泉对石干对枝",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵009-009_第9段_泉对石干对枝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 383200,
+      "char_count": 1909,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "笠翁对韵010-010_第10段_菹对醢赋对诗",
+      "title": "笠翁对韵010-010_第10段_菹对醢赋对诗",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵010-010_第10段_菹对醢赋对诗",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 420400,
+      "char_count": 2095,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "笠翁对韵011-011_第11段_箴对赞缶对卮",
+      "title": "笠翁对韵011-011_第11段_箴对赞缶对卮",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵011-011_第11段_箴对赞缶对卮",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 454600,
+      "char_count": 2266,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "笠翁对韵012-012_第12段_争对让望对思",
+      "title": "笠翁对韵012-012_第12段_争对让望对思",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵012-012_第12段_争对让望对思",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 389400,
+      "char_count": 1940,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "笠翁对韵013-013_第13段_贤对圣是对非",
+      "title": "笠翁对韵013-013_第13段_贤对圣是对非",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵013-013_第13段_贤对圣是对非",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 466400,
+      "char_count": 2325,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "笠翁对韵014-014_第14段_戈对甲幄对帷",
+      "title": "笠翁对韵014-014_第14段_戈对甲幄对帷",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵014-014_第14段_戈对甲幄对帷",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 498800,
+      "char_count": 2487,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "笠翁对韵015-015_第15段_衰对盛密对稀",
+      "title": "笠翁对韵015-015_第15段_衰对盛密对稀",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵015-015_第15段_衰对盛密对稀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 411400,
+      "char_count": 2050,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "笠翁对韵016-016_第16段_羹对饭柳对榆",
+      "title": "笠翁对韵016-016_第16段_羹对饭柳对榆",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵016-016_第16段_羹对饭柳对榆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 411800,
+      "char_count": 2052,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "笠翁对韵017-017_第17段_吾对汝尔对余",
+      "title": "笠翁对韵017-017_第17段_吾对汝尔对余",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵017-017_第17段_吾对汝尔对余",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 404800,
+      "char_count": 2017,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "笠翁对韵018-018_第18段_欹对正密对疏",
+      "title": "笠翁对韵018-018_第18段_欹对正密对疏",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵018-018_第18段_欹对正密对疏",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 359800,
+      "char_count": 1792,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "笠翁对韵019-019_第19段_红对白有对无",
+      "title": "笠翁对韵019-019_第19段_红对白有对无",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵019-019_第19段_红对白有对无",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 370800,
+      "char_count": 1847,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "笠翁对韵020-020_第20段_罗对绮茗对蔬",
+      "title": "笠翁对韵020-020_第20段_罗对绮茗对蔬",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵020-020_第20段_罗对绮茗对蔬",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 282600,
+      "char_count": 1406,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "笠翁对韵021-021_第21段_宾对主婢对奴",
+      "title": "笠翁对韵021-021_第21段_宾对主婢对奴",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵021-021_第21段_宾对主婢对奴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 458600,
+      "char_count": 2286,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "笠翁对韵022-022_第22段_君对父魏对吴",
+      "title": "笠翁对韵022-022_第22段_君对父魏对吴",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵022-022_第22段_君对父魏对吴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 344200,
+      "char_count": 1714,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "笠翁对韵023-023_第23段_鸾对凤犬对鸡",
+      "title": "笠翁对韵023-023_第23段_鸾对凤犬对鸡",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵023-023_第23段_鸾对凤犬对鸡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 356800,
+      "char_count": 1777,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "笠翁对韵024-024_第24段_鸣对吠泛对栖",
+      "title": "笠翁对韵024-024_第24段_鸣对吠泛对栖",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵024-024_第24段_鸣对吠泛对栖",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 354600,
+      "char_count": 1766,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "笠翁对韵025-025_第25段_越对赵楚对齐",
+      "title": "笠翁对韵025-025_第25段_越对赵楚对齐",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵025-025_第25段_越对赵楚对齐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 487200,
+      "char_count": 2429,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "笠翁对韵026-026_第26段_门对户陌对街",
+      "title": "笠翁对韵026-026_第26段_门对户陌对街",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵026-026_第26段_门对户陌对街",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 449400,
+      "char_count": 2240,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "笠翁对韵027-027_第27段_冠对履袜对鞋",
+      "title": "笠翁对韵027-027_第27段_冠对履袜对鞋",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵027-027_第27段_冠对履袜对鞋",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 457600,
+      "char_count": 2281,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "笠翁对韵028-028_第28段_勤对俭巧对乖",
+      "title": "笠翁对韵028-028_第28段_勤对俭巧对乖",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵028-028_第28段_勤对俭巧对乖",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 403400,
+      "char_count": 2010,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "笠翁对韵029-029_第29段_杞对梓桧对楷",
+      "title": "笠翁对韵029-029_第29段_杞对梓桧对楷",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵029-029_第29段_杞对梓桧对楷",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 328000,
+      "char_count": 1633,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "笠翁对韵030-030_第30段_春对夏喜对哀",
+      "title": "笠翁对韵030-030_第30段_春对夏喜对哀",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵030-030_第30段_春对夏喜对哀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 453600,
+      "char_count": 2261,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "笠翁对韵031-031_第31段_朝对暮去对来",
+      "title": "笠翁对韵031-031_第31段_朝对暮去对来",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵031-031_第31段_朝对暮去对来",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 362000,
+      "char_count": 1802,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "笠翁对韵032-032_第32段_忠对信博对赅",
+      "title": "笠翁对韵032-032_第32段_忠对信博对赅",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵032-032_第32段_忠对信博对赅",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 395000,
+      "char_count": 1968,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "笠翁对韵033-033_第33段_莲对菊凤对麟",
+      "title": "笠翁对韵033-033_第33段_莲对菊凤对麟",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵033-033_第33段_莲对菊凤对麟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 508000,
+      "char_count": 2527,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "笠翁对韵034-034_第34段_兄对弟吏对民",
+      "title": "笠翁对韵034-034_第34段_兄对弟吏对民",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵034-034_第34段_兄对弟吏对民",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 534400,
+      "char_count": 2665,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "笠翁对韵035-035_第35段_申对午侃对訚",
+      "title": "笠翁对韵035-035_第35段_申对午侃对訚",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵035-035_第35段_申对午侃对訚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 432200,
+      "char_count": 2154,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "笠翁对韵036-036_第36段_忧对喜戚对欣",
+      "title": "笠翁对韵036-036_第36段_忧对喜戚对欣",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵036-036_第36段_忧对喜戚对欣",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 377800,
+      "char_count": 1882,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "笠翁对韵037-037_第37段_词对赋懒对勤",
+      "title": "笠翁对韵037-037_第37段_词对赋懒对勤",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵037-037_第37段_词对赋懒对勤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 377800,
+      "char_count": 1882,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "笠翁对韵038-038_第38段_言对笑绩对勋",
+      "title": "笠翁对韵038-038_第38段_言对笑绩对勋",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵038-038_第38段_言对笑绩对勋",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 442200,
+      "char_count": 2204,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "笠翁对韵039-039_第39段_卑对长季对昆",
+      "title": "笠翁对韵039-039_第39段_卑对长季对昆",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵039-039_第39段_卑对长季对昆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 323600,
+      "char_count": 1611,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "笠翁对韵040-040_第40段_君对相祖对孙",
+      "title": "笠翁对韵040-040_第40段_君对相祖对孙",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵040-040_第40段_君对相祖对孙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 351600,
+      "char_count": 1751,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "笠翁对韵041-041_第41段_家对国治对安",
+      "title": "笠翁对韵041-041_第41段_家对国治对安",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵041-041_第41段_家对国治对安",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 362800,
+      "char_count": 1807,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "笠翁对韵042-042_第42段_肥对瘦窄对宽",
+      "title": "笠翁对韵042-042_第42段_肥对瘦窄对宽",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵042-042_第42段_肥对瘦窄对宽",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 365000,
+      "char_count": 1818,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "笠翁对韵043-043_第43段_行对卧听对看",
+      "title": "笠翁对韵043-043_第43段_行对卧听对看",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵043-043_第43段_行对卧听对看",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 307400,
+      "char_count": 1530,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "笠翁对韵044-044_第44段_林对坞岭对湾",
+      "title": "笠翁对韵044-044_第44段_林对坞岭对湾",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵044-044_第44段_林对坞岭对湾",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 357200,
+      "char_count": 1779,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "笠翁对韵045-045_第45段_骄对傲吝对悭",
+      "title": "笠翁对韵045-045_第45段_骄对傲吝对悭",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵045-045_第45段_骄对傲吝对悭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 504800,
+      "char_count": 2517,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "笠翁对韵046-046_第46段_寒对暑日对年",
+      "title": "笠翁对韵046-046_第46段_寒对暑日对年",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵046-046_第46段_寒对暑日对年",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 384200,
+      "char_count": 1914,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "笠翁对韵047-047_第47段_轻对重脆对坚",
+      "title": "笠翁对韵047-047_第47段_轻对重脆对坚",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵047-047_第47段_轻对重脆对坚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 352600,
+      "char_count": 1756,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "笠翁对韵048-048_第48段_吟对咏授对传",
+      "title": "笠翁对韵048-048_第48段_吟对咏授对传",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵048-048_第48段_吟对咏授对传",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 355800,
+      "char_count": 1772,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "笠翁对韵049-049_第49段_中对外后对先",
+      "title": "笠翁对韵049-049_第49段_中对外后对先",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵049-049_第49段_中对外后对先",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 344600,
+      "char_count": 1715,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "笠翁对韵050-050_第50段_琴对管釜对瓢",
+      "title": "笠翁对韵050-050_第50段_琴对管釜对瓢",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵050-050_第50段_琴对管釜对瓢",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 378400,
+      "char_count": 1885,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "笠翁对韵051-051_第51段_荣对悴夕对朝",
+      "title": "笠翁对韵051-051_第51段_荣对悴夕对朝",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵051-051_第51段_荣对悴夕对朝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 388600,
+      "char_count": 1936,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "笠翁对韵052-052_第52段_耕对读牧对樵",
+      "title": "笠翁对韵052-052_第52段_耕对读牧对樵",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵052-052_第52段_耕对读牧对樵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 528600,
+      "char_count": 2628,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "笠翁对韵053-053_第53段_诗对礼卦对爻",
+      "title": "笠翁对韵053-053_第53段_诗对礼卦对爻",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵053-053_第53段_诗对礼卦对爻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 352400,
+      "char_count": 1755,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "笠翁对韵054-054_第54段_歌对舞笑对嘲",
+      "title": "笠翁对韵054-054_第54段_歌对舞笑对嘲",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵054-054_第54段_歌对舞笑对嘲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 522000,
+      "char_count": 2602,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "笠翁对韵055-055_第55段_衙对舍廪对庖",
+      "title": "笠翁对韵055-055_第55段_衙对舍廪对庖",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵055-055_第55段_衙对舍廪对庖",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 387000,
+      "char_count": 1928,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "笠翁对韵056-056_第56段_菱对芡荻对蒿",
+      "title": "笠翁对韵056-056_第56段_菱对芡荻对蒿",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵056-056_第56段_菱对芡荻对蒿",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 317400,
+      "char_count": 1580,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "笠翁对韵057-057_第57段_梅对杏李对桃",
+      "title": "笠翁对韵057-057_第57段_梅对杏李对桃",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵057-057_第57段_梅对杏李对桃",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 610600,
+      "char_count": 3039,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "笠翁对韵058-058_第58段_台对省署对曹",
+      "title": "笠翁对韵058-058_第58段_台对省署对曹",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵058-058_第58段_台对省署对曹",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 431000,
+      "char_count": 2148,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "笠翁对韵059-059_第59段_微对巨少对多",
+      "title": "笠翁对韵059-059_第59段_微对巨少对多",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵059-059_第59段_微对巨少对多",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 386400,
+      "char_count": 1925,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "笠翁对韵060-060_第60段_慈对善虐对苛",
+      "title": "笠翁对韵060-060_第60段_慈对善虐对苛",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵060-060_第60段_慈对善虐对苛",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 377600,
+      "char_count": 1881,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "笠翁对韵061-061_第61段_松对竹荇对荷",
+      "title": "笠翁对韵061-061_第61段_松对竹荇对荷",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵061-061_第61段_松对竹荇对荷",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 341800,
+      "char_count": 1702,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "笠翁对韵062-062_第62段_笼对槛巢对窝",
+      "title": "笠翁对韵062-062_第62段_笼对槛巢对窝",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵062-062_第62段_笼对槛巢对窝",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 447000,
+      "char_count": 2226,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "笠翁对韵063-063_第63段_清对浊美对嘉",
+      "title": "笠翁对韵063-063_第63段_清对浊美对嘉",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵063-063_第63段_清对浊美对嘉",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 393600,
+      "char_count": 1958,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "笠翁对韵064-064_第64段_雷对电雾对霞",
+      "title": "笠翁对韵064-064_第64段_雷对电雾对霞",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵064-064_第64段_雷对电雾对霞",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 433400,
+      "char_count": 2160,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "笠翁对韵065-065_第65段_圆对缺正对斜",
+      "title": "笠翁对韵065-065_第65段_圆对缺正对斜",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵065-065_第65段_圆对缺正对斜",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 448800,
+      "char_count": 2236,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "笠翁对韵066-066_第66段_疏对密朴对华",
+      "title": "笠翁对韵066-066_第66段_疏对密朴对华",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵066-066_第66段_疏对密朴对华",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 474200,
+      "char_count": 2361,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "笠翁对韵067-067_第67段_台对阁沼对塘",
+      "title": "笠翁对韵067-067_第67段_台对阁沼对塘",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵067-067_第67段_台对阁沼对塘",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 356800,
+      "char_count": 1777,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "笠翁对韵068-068_第68段_红对白绿对黄",
+      "title": "笠翁对韵068-068_第68段_红对白绿对黄",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵068-068_第68段_红对白绿对黄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 462000,
+      "char_count": 2300,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "笠翁对韵069-069_第69段_衰对壮弱对强",
+      "title": "笠翁对韵069-069_第69段_衰对壮弱对强",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵069-069_第69段_衰对壮弱对强",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 485000,
+      "char_count": 2418,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "笠翁对韵070-070_第70段_臣对子帝对王",
+      "title": "笠翁对韵070-070_第70段_臣对子帝对王",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵070-070_第70段_臣对子帝对王",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 748600,
+      "char_count": 3730,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "笠翁对韵071-071_第71段_形对貌色对声",
+      "title": "笠翁对韵071-071_第71段_形对貌色对声",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵071-071_第71段_形对貌色对声",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 511800,
+      "char_count": 2552,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "笠翁对韵072-072_第72段_功对业性对情",
+      "title": "笠翁对韵072-072_第72段_功对业性对情",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵072-072_第72段_功对业性对情",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 491600,
+      "char_count": 2451,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "笠翁对韵073-073_第73段_昏对旦晦对明",
+      "title": "笠翁对韵073-073_第73段_昏对旦晦对明",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵073-073_第73段_昏对旦晦对明",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 327200,
+      "char_count": 1629,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "笠翁对韵074-074_第74段_庚对甲己对丁",
+      "title": "笠翁对韵074-074_第74段_庚对甲己对丁",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵074-074_第74段_庚对甲己对丁",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 377600,
+      "char_count": 1881,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "笠翁对韵075-075_第75段_危对乱泰对宁",
+      "title": "笠翁对韵075-075_第75段_危对乱泰对宁",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵075-075_第75段_危对乱泰对宁",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 475600,
+      "char_count": 2367,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "笠翁对韵076-076_第76段_萍对蓼芡对菱",
+      "title": "笠翁对韵076-076_第76段_萍对蓼芡对菱",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵076-076_第76段_萍对蓼芡对菱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 404400,
+      "char_count": 2015,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "笠翁对韵077-077_第77段_谈对吐谓对称",
+      "title": "笠翁对韵077-077_第77段_谈对吐谓对称",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵077-077_第77段_谈对吐谓对称",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 384400,
+      "char_count": 1915,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "笠翁对韵078-078_第78段_荣对辱喜对忧",
+      "title": "笠翁对韵078-078_第78段_荣对辱喜对忧",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵078-078_第78段_荣对辱喜对忧",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 675600,
+      "char_count": 3364,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "笠翁对韵079-079_第79段_冠对履舄对裘",
+      "title": "笠翁对韵079-079_第79段_冠对履舄对裘",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵079-079_第79段_冠对履舄对裘",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 320600,
+      "char_count": 1596,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "笠翁对韵080-080_第80段_鱼对鸟鹡对鸠",
+      "title": "笠翁对韵080-080_第80段_鱼对鸟鹡对鸠",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵080-080_第80段_鱼对鸟鹡对鸠",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 352800,
+      "char_count": 1757,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 81,
+      "chapter_id": "笠翁对韵081-081_第81段_歌对曲啸对吟",
+      "title": "笠翁对韵081-081_第81段_歌对曲啸对吟",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵081-081_第81段_歌对曲啸对吟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 390800,
+      "char_count": 1947,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 82,
+      "chapter_id": "笠翁对韵082-082_第82段_登对眺涉对临",
+      "title": "笠翁对韵082-082_第82段_登对眺涉对临",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵082-082_第82段_登对眺涉对临",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 413800,
+      "char_count": 2061,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 83,
+      "chapter_id": "笠翁对韵083-083_第83段_宫对阙座对龛",
+      "title": "笠翁对韵083-083_第83段_宫对阙座对龛",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵083-083_第83段_宫对阙座对龛",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 821200,
+      "char_count": 4092,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 84,
+      "chapter_id": "笠翁对韵084-084_第84段_闻对见解对谙",
+      "title": "笠翁对韵084-084_第84段_闻对见解对谙",
+      "full_path": "蒙学经典/M7笠翁对韵/笠翁对韵084-084_第84段_闻对见解对谙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 376600,
+      "char_count": 1876,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

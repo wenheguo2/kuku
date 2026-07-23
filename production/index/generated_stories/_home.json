@@ -1,0 +1,795 @@
+{
+  "schema_version": "1.0",
+  "index_type": "home_index",
+  "generated_at": "2026-07-23T14:27:11.757150",
+  "chaptered_works": [
+    {
+      "title": "三十六计",
+      "path": "上下五千年/E3历史故事/三十六计",
+      "subject": "上下五千年",
+      "total_chapters": 36,
+      "cover": "covers/generated/上下五千年/E3历史故事/三十六计/三十六计.webp"
+    },
+    {
+      "title": "三国演义",
+      "path": "上下五千年/E3历史故事/三国演义",
+      "subject": "上下五千年",
+      "total_chapters": 120,
+      "cover": "covers/generated/上下五千年/E3历史故事/三国演义/三国演义.webp"
+    },
+    {
+      "title": "东周列国志",
+      "path": "上下五千年/E3历史故事/东周列国志",
+      "subject": "上下五千年",
+      "total_chapters": 108,
+      "cover": "covers/generated/上下五千年/E3历史故事/东周列国志/东周列国志.webp"
+    },
+    {
+      "title": "包公案",
+      "path": "上下五千年/E3历史故事/包公案",
+      "subject": "上下五千年",
+      "total_chapters": 35,
+      "cover": "covers/generated/上下五千年/E3历史故事/包公案/包公案.webp"
+    },
+    {
+      "title": "岳飞传",
+      "path": "上下五千年/E3历史故事/岳飞传",
+      "subject": "上下五千年",
+      "total_chapters": 80,
+      "cover": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp"
+    },
+    {
+      "title": "杨家将",
+      "path": "上下五千年/E3历史故事/杨家将",
+      "subject": "上下五千年",
+      "total_chapters": 58,
+      "cover": "covers/generated/上下五千年/E3历史故事/杨家将/杨家将.webp"
+    },
+    {
+      "title": "楚汉争霸",
+      "path": "上下五千年/E3历史故事/楚汉争霸",
+      "subject": "上下五千年",
+      "total_chapters": 25,
+      "cover": "covers/generated/上下五千年/E3历史故事/楚汉争霸/楚汉争霸.webp"
+    },
+    {
+      "title": "水浒传",
+      "path": "上下五千年/E3历史故事/水浒传",
+      "subject": "上下五千年",
+      "total_chapters": 120,
+      "cover": "covers/generated/上下五千年/E3历史故事/水浒传/水浒传.webp"
+    },
+    {
+      "title": "红楼梦",
+      "path": "上下五千年/E3历史故事/红楼梦",
+      "subject": "上下五千年",
+      "total_chapters": 120,
+      "cover": "covers/generated/上下五千年/E3历史故事/红楼梦/红楼梦.webp"
+    },
+    {
+      "title": "隋唐演义",
+      "path": "上下五千年/E3历史故事/隋唐演义",
+      "subject": "上下五千年",
+      "total_chapters": 100,
+      "cover": "covers/generated/上下五千年/E3历史故事/隋唐演义/隋唐演义.webp"
+    },
+    {
+      "title": "八仙",
+      "path": "上下五千年/E4神话故事/八仙",
+      "subject": "上下五千年",
+      "total_chapters": 15,
+      "cover": "covers/generated/上下五千年/E4神话故事/八仙/八仙.webp"
+    },
+    {
+      "title": "封神演义",
+      "path": "上下五千年/E4神话故事/封神演义",
+      "subject": "上下五千年",
+      "total_chapters": 100,
+      "cover": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp"
+    },
+    {
+      "title": "山海经",
+      "path": "上下五千年/E4神话故事/山海经",
+      "subject": "上下五千年",
+      "total_chapters": 80,
+      "cover": "covers/generated/上下五千年/E4神话故事/山海经/山海经.webp"
+    },
+    {
+      "title": "搜神记",
+      "path": "上下五千年/E4神话故事/搜神记",
+      "subject": "上下五千年",
+      "total_chapters": 15,
+      "cover": "covers/generated/上下五千年/E4神话故事/搜神记/搜神记.webp"
+    },
+    {
+      "title": "西游记",
+      "path": "上下五千年/E4神话故事/西游记",
+      "subject": "上下五千年",
+      "total_chapters": 100,
+      "cover": "covers/generated/上下五千年/E4神话故事/西游记/西游记.webp"
+    },
+    {
+      "title": "镜花缘",
+      "path": "上下五千年/E4神话故事/镜花缘",
+      "subject": "上下五千年",
+      "total_chapters": 100,
+      "cover": "covers/generated/上下五千年/E4神话故事/镜花缘/镜花缘.webp"
+    },
+    {
+      "title": "阿凡提",
+      "path": "上下五千年/E4神话故事/阿凡提",
+      "subject": "上下五千年",
+      "total_chapters": 25,
+      "cover": "covers/generated/上下五千年/E4神话故事/阿凡提/阿凡提.webp"
+    },
+    {
+      "title": "B1口才",
+      "path": "生活认知/B1口才",
+      "subject": "生活认知",
+      "total_chapters": 207,
+      "cover": "covers/generated/生活认知/B1口才/B1口才.webp"
+    },
+    {
+      "title": "B2财商",
+      "path": "生活认知/B2财商",
+      "subject": "生活认知",
+      "total_chapters": 94,
+      "cover": "covers/generated/生活认知/B2财商/B2财商.webp"
+    },
+    {
+      "title": "B7第一次",
+      "path": "生活认知/B7第一次",
+      "subject": "生活认知",
+      "total_chapters": 112,
+      "cover": "covers/generated/生活认知/B7第一次/B7第一次.webp"
+    },
+    {
+      "title": "K7国外历史故事",
+      "path": "神州之外/K7国外历史故事",
+      "subject": "神州之外",
+      "total_chapters": 11,
+      "cover": "covers/generated/神州之外/K7国外历史故事/K7国外历史故事.webp"
+    },
+    {
+      "title": "M1三字经",
+      "path": "蒙学经典/M1三字经",
+      "subject": "蒙学经典",
+      "total_chapters": 84,
+      "cover": "covers/generated/蒙学经典/M1三字经/M1三字经.webp"
+    },
+    {
+      "title": "M2百家姓",
+      "path": "蒙学经典/M2百家姓",
+      "subject": "蒙学经典",
+      "total_chapters": 72,
+      "cover": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp"
+    },
+    {
+      "title": "M3千字文",
+      "path": "蒙学经典/M3千字文",
+      "subject": "蒙学经典",
+      "total_chapters": 48,
+      "cover": "covers/generated/蒙学经典/M3千字文/M3千字文.webp"
+    },
+    {
+      "title": "M4弟子规",
+      "path": "蒙学经典/M4弟子规",
+      "subject": "蒙学经典",
+      "total_chapters": 41,
+      "cover": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp"
+    },
+    {
+      "title": "M5增广贤文",
+      "path": "蒙学经典/M5增广贤文",
+      "subject": "蒙学经典",
+      "total_chapters": 50,
+      "cover": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp"
+    },
+    {
+      "title": "M6声律启蒙",
+      "path": "蒙学经典/M6声律启蒙",
+      "subject": "蒙学经典",
+      "total_chapters": 75,
+      "cover": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp"
+    },
+    {
+      "title": "M7笠翁对韵",
+      "path": "蒙学经典/M7笠翁对韵",
+      "subject": "蒙学经典",
+      "total_chapters": 84,
+      "cover": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp"
+    },
+    {
+      "title": "M8幼学琼林",
+      "path": "蒙学经典/M8幼学琼林",
+      "subject": "蒙学经典",
+      "total_chapters": 30,
+      "cover": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp"
+    },
+    {
+      "title": "M9少年中国说",
+      "path": "蒙学经典/M9少年中国说",
+      "subject": "蒙学经典",
+      "total_chapters": 1,
+      "cover": "covers/generated/蒙学经典/M9少年中国说/M9少年中国说.webp"
+    }
+  ],
+  "standalone_picks": [
+    {
+      "title": "为了全人类的和平与进步中国人来到了太空",
+      "path": "上下五千年/E8惊世名句/为了全人类的和平与进步中国人来到了太空",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 395705,
+      "cover": "covers/generated/上下五千年/E8惊世名句/为了全人类的和平与进步中国人来到了太空/为了全人类的和平与进步中国人来到了太空.webp"
+    },
+    {
+      "title": "提达利克口渴的青蛙",
+      "path": "神州之外/K2经典寓言/提达利克口渴的青蛙",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 772696,
+      "cover": "covers/generated/神州之外/K2经典寓言/提达利克口渴的青蛙/提达利克口渴的青蛙.webp"
+    },
+    {
+      "title": "泼水节",
+      "path": "上下五千年/E2节日故事/泼水节",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 442885,
+      "cover": "covers/generated/上下五千年/E2节日故事/泼水节/泼水节.webp"
+    },
+    {
+      "title": "倚马可待",
+      "path": "上下五千年/E1成语故事/倚马可待",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 657382,
+      "cover": "covers/generated/上下五千年/E1成语故事/倚马可待/倚马可待.webp"
+    },
+    {
+      "title": "春节",
+      "path": "上下五千年/E2节日故事/春节",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 521344,
+      "cover": "covers/generated/上下五千年/E2节日故事/春节/春节.webp"
+    },
+    {
+      "title": "地球是人类的摇篮但人类不可能永远被束缚在摇篮里",
+      "path": "上下五千年/E8惊世名句/地球是人类的摇篮但人类不可能永远被束缚在摇篮里",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 475589,
+      "cover": "covers/generated/上下五千年/E8惊世名句/地球是人类的摇篮但人类不可能永远被束缚在摇篮里/地球是人类的摇篮但人类不可能永远被束缚在摇篮里.webp"
+    },
+    {
+      "title": "五彩缤纷",
+      "path": "上下五千年/E1成语故事/五彩缤纷",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 546558,
+      "cover": "covers/generated/上下五千年/E1成语故事/五彩缤纷/五彩缤纷.webp"
+    },
+    {
+      "title": "淡泊明志",
+      "path": "上下五千年/E1成语故事/淡泊明志",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 535703,
+      "cover": "covers/generated/上下五千年/E1成语故事/淡泊明志/淡泊明志.webp"
+    },
+    {
+      "title": "各自为政",
+      "path": "上下五千年/E1成语故事/各自为政",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 402349,
+      "cover": "covers/generated/上下五千年/E1成语故事/各自为政/各自为政.webp"
+    },
+    {
+      "title": "六畜兴旺",
+      "path": "上下五千年/E1成语故事/六畜兴旺",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 430883,
+      "cover": "covers/generated/上下五千年/E1成语故事/六畜兴旺/六畜兴旺.webp"
+    },
+    {
+      "title": "林则徐虎门销烟",
+      "path": "上下五千年/E3历史故事/其他/林则徐虎门销烟",
+      "subject": "上下五千年",
+      "level": "L5",
+      "duration_ms": 665880,
+      "cover": "covers/generated/上下五千年/E3历史故事/其他/林则徐虎门销烟/林则徐虎门销烟.webp"
+    },
+    {
+      "title": "彩虹蛇与创世",
+      "path": "神州之外/K3神话传说/彩虹蛇与创世",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 1275649,
+      "cover": "covers/generated/神州之外/K3神话传说/彩虹蛇与创世/彩虹蛇与创世.webp"
+    },
+    {
+      "title": "寒露",
+      "path": "上下五千年/E5二十四节气/寒露",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 491632,
+      "cover": "covers/generated/上下五千年/E5二十四节气/寒露/寒露.webp"
+    },
+    {
+      "title": "对待同志要像春天般的温暖对待工作要像夏天一样火热",
+      "path": "上下五千年/E8惊世名句/对待同志要像春天般的温暖对待工作要像夏天一样火热",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 557920,
+      "cover": "covers/generated/上下五千年/E8惊世名句/对待同志要像春天般的温暖对待工作要像夏天一样火热/对待同志要像春天般的温暖对待工作要像夏天一样火热.webp"
+    },
+    {
+      "title": "深思熟虑",
+      "path": "上下五千年/E1成语故事/深思熟虑",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 840907,
+      "cover": "covers/generated/上下五千年/E1成语故事/深思熟虑/深思熟虑.webp"
+    },
+    {
+      "title": "孟姜女",
+      "path": "上下五千年/E4神话故事/孟姜女",
+      "subject": "上下五千年",
+      "level": "L5",
+      "duration_ms": 1647493,
+      "cover": "covers/generated/上下五千年/E4神话故事/孟姜女/孟姜女.webp"
+    },
+    {
+      "title": "马钧造指南车",
+      "path": "上下五千年/E3历史故事/其他/马钧造指南车",
+      "subject": "上下五千年",
+      "level": "L5",
+      "duration_ms": 949341,
+      "cover": "covers/generated/上下五千年/E3历史故事/其他/马钧造指南车/马钧造指南车.webp"
+    },
+    {
+      "title": "雒龙君与瓯姬",
+      "path": "神州之外/K3神话传说/雒龙君与瓯姬",
+      "subject": "神州之外",
+      "level": "L6",
+      "duration_ms": 975196,
+      "cover": "covers/generated/神州之外/K3神话传说/雒龙君与瓯姬/雒龙君与瓯姬.webp"
+    },
+    {
+      "title": "知足常乐",
+      "path": "上下五千年/E1成语故事/知足常乐",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 368993,
+      "cover": "covers/generated/上下五千年/E1成语故事/知足常乐/知足常乐.webp"
+    },
+    {
+      "title": "坐井观天",
+      "path": "上下五千年/E1成语故事/坐井观天",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 396561,
+      "cover": "covers/generated/上下五千年/E1成语故事/坐井观天/坐井观天.webp"
+    },
+    {
+      "title": "秉公执法",
+      "path": "上下五千年/E1成语故事/秉公执法",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 406813,
+      "cover": "covers/generated/上下五千年/E1成语故事/秉公执法/秉公执法.webp"
+    },
+    {
+      "title": "徐悲鸿",
+      "path": "上下五千年/E7近现代史/徐悲鸿",
+      "subject": "上下五千年",
+      "level": "L7",
+      "duration_ms": 421064,
+      "cover": "covers/generated/上下五千年/E7近现代史/徐悲鸿/徐悲鸿.webp"
+    },
+    {
+      "title": "萧瑟秋风今又是换了人间",
+      "path": "上下五千年/E8惊世名句/萧瑟秋风今又是换了人间",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 524526,
+      "cover": "covers/generated/上下五千年/E8惊世名句/萧瑟秋风今又是换了人间/萧瑟秋风今又是换了人间.webp"
+    },
+    {
+      "title": "高山流水",
+      "path": "上下五千年/E1成语故事/高山流水",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 394674,
+      "cover": "covers/generated/上下五千年/E1成语故事/高山流水/高山流水.webp"
+    },
+    {
+      "title": "驽马十驾功在不舍",
+      "path": "上下五千年/E1成语故事/驽马十驾功在不舍",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 588237,
+      "cover": "covers/generated/上下五千年/E1成语故事/驽马十驾功在不舍/驽马十驾功在不舍.webp"
+    },
+    {
+      "title": "泰国水灯节",
+      "path": "神州之外/K9世界各国节日/泰国水灯节",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 871517,
+      "cover": "covers/generated/神州之外/K9世界各国节日/泰国水灯节/泰国水灯节.webp"
+    },
+    {
+      "title": "于谦保卫北京",
+      "path": "上下五千年/E3历史故事/其他/于谦保卫北京",
+      "subject": "上下五千年",
+      "level": "L5",
+      "duration_ms": 904874,
+      "cover": "covers/generated/上下五千年/E3历史故事/其他/于谦保卫北京/于谦保卫北京.webp"
+    },
+    {
+      "title": "居里夫人的实验室",
+      "path": "神州之外/K8世界名人传记/居里夫人的实验室",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 1135480,
+      "cover": "covers/generated/神州之外/K8世界名人传记/居里夫人的实验室/居里夫人的实验室.webp"
+    },
+    {
+      "title": "紫色云",
+      "path": "神州之外/K5科幻幻想/紫色云",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 1069799,
+      "cover": "covers/generated/神州之外/K5科幻幻想/紫色云/紫色云.webp"
+    },
+    {
+      "title": "引蛇出洞",
+      "path": "上下五千年/E1成语故事/引蛇出洞",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 425062,
+      "cover": "covers/generated/上下五千年/E1成语故事/引蛇出洞/引蛇出洞.webp"
+    },
+    {
+      "title": "甘地的一把盐",
+      "path": "神州之外/K8世界名人传记/甘地的一把盐",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 1095448,
+      "cover": "covers/generated/神州之外/K8世界名人传记/甘地的一把盐/甘地的一把盐.webp"
+    },
+    {
+      "title": "乌合之众",
+      "path": "上下五千年/E1成语故事/乌合之众",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 505027,
+      "cover": "covers/generated/上下五千年/E1成语故事/乌合之众/乌合之众.webp"
+    },
+    {
+      "title": "知行合一",
+      "path": "上下五千年/E1成语故事/知行合一",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 562850,
+      "cover": "covers/generated/上下五千年/E1成语故事/知行合一/知行合一.webp"
+    },
+    {
+      "title": "大智若愚",
+      "path": "上下五千年/E1成语故事/大智若愚",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 568631,
+      "cover": "covers/generated/上下五千年/E1成语故事/大智若愚/大智若愚.webp"
+    },
+    {
+      "title": "雨过天晴",
+      "path": "上下五千年/E1成语故事/雨过天晴",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 434025,
+      "cover": "covers/generated/上下五千年/E1成语故事/雨过天晴/雨过天晴.webp"
+    },
+    {
+      "title": "鸿鹄之志",
+      "path": "上下五千年/E1成语故事/鸿鹄之志",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 400918,
+      "cover": "covers/generated/上下五千年/E1成语故事/鸿鹄之志/鸿鹄之志.webp"
+    },
+    {
+      "title": "蛇船竞赛",
+      "path": "神州之外/K9世界各国节日/蛇船竞赛",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 988300,
+      "cover": "covers/generated/神州之外/K9世界各国节日/蛇船竞赛/蛇船竞赛.webp"
+    },
+    {
+      "title": "绿豆童子",
+      "path": "神州之外/K3神话传说/绿豆童子",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 973042,
+      "cover": "covers/generated/神州之外/K3神话传说/绿豆童子/绿豆童子.webp"
+    },
+    {
+      "title": "露西亚节",
+      "path": "神州之外/K9世界各国节日/露西亚节",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 1309373,
+      "cover": "covers/generated/神州之外/K9世界各国节日/露西亚节/露西亚节.webp"
+    },
+    {
+      "title": "熊皮人",
+      "path": "神州之外/K1西方童话/熊皮人",
+      "subject": "神州之外",
+      "level": "L6",
+      "duration_ms": 863205,
+      "cover": "covers/generated/神州之外/K1西方童话/熊皮人/熊皮人.webp"
+    },
+    {
+      "title": "冬至世界各地的仪式",
+      "path": "神州之外/K9世界各国节日/冬至世界各地的仪式",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 929161,
+      "cover": "covers/generated/神州之外/K9世界各国节日/冬至世界各地的仪式/冬至世界各地的仪式.webp"
+    },
+    {
+      "title": "引婴投江",
+      "path": "上下五千年/E6寓言故事/引婴投江",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 439376,
+      "cover": "covers/generated/上下五千年/E6寓言故事/引婴投江/引婴投江.webp"
+    },
+    {
+      "title": "王阳明格竹",
+      "path": "上下五千年/E3历史故事/其他/王阳明格竹",
+      "subject": "上下五千年",
+      "level": "L5",
+      "duration_ms": 885665,
+      "cover": "covers/generated/上下五千年/E3历史故事/其他/王阳明格竹/王阳明格竹.webp"
+    },
+    {
+      "title": "狼和狗",
+      "path": "神州之外/K2经典寓言/狼和狗",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 666954,
+      "cover": "covers/generated/神州之外/K2经典寓言/狼和狗/狼和狗.webp"
+    },
+    {
+      "title": "花朝节",
+      "path": "上下五千年/E2节日故事/花朝节",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 615953,
+      "cover": "covers/generated/上下五千年/E2节日故事/花朝节/花朝节.webp"
+    },
+    {
+      "title": "不入虎穴，焉得虎子",
+      "path": "上下五千年/E8惊世名句/不入虎穴，焉得虎子",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 526595,
+      "cover": "covers/generated/上下五千年/E8惊世名句/不入虎穴，焉得虎子/不入虎穴，焉得虎子.webp"
+    },
+    {
+      "title": "月攘一鸡",
+      "path": "上下五千年/E6寓言故事/月攘一鸡",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 578025,
+      "cover": "covers/generated/上下五千年/E6寓言故事/月攘一鸡/月攘一鸡.webp"
+    },
+    {
+      "title": "永州之鼠",
+      "path": "上下五千年/E6寓言故事/永州之鼠",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 608167,
+      "cover": "covers/generated/上下五千年/E6寓言故事/永州之鼠/永州之鼠.webp"
+    },
+    {
+      "title": "那达慕",
+      "path": "上下五千年/E2节日故事/那达慕",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 428811,
+      "cover": "covers/generated/上下五千年/E2节日故事/那达慕/那达慕.webp"
+    },
+    {
+      "title": "西西弗斯",
+      "path": "神州之外/K3神话传说/西西弗斯",
+      "subject": "神州之外",
+      "level": "L6",
+      "duration_ms": 1348627,
+      "cover": "covers/generated/神州之外/K3神话传说/西西弗斯/西西弗斯.webp"
+    },
+    {
+      "title": "辛巴达七次航海",
+      "path": "神州之外/K3神话传说/辛巴达七次航海",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 1225265,
+      "cover": "covers/generated/神州之外/K3神话传说/辛巴达七次航海/辛巴达七次航海.webp"
+    },
+    {
+      "title": "才高八斗",
+      "path": "上下五千年/E1成语故事/才高八斗",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 692841,
+      "cover": "covers/generated/上下五千年/E1成语故事/才高八斗/才高八斗.webp"
+    },
+    {
+      "title": "纺锤梭子和缝衣针",
+      "path": "神州之外/K1西方童话/纺锤梭子和缝衣针",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 2023235,
+      "cover": "covers/generated/神州之外/K1西方童话/纺锤梭子和缝衣针/纺锤梭子和缝衣针.webp"
+    },
+    {
+      "title": "驼背人的故事",
+      "path": "神州之外/K3神话传说/驼背人的故事",
+      "subject": "神州之外",
+      "level": "L6",
+      "duration_ms": 960555,
+      "cover": "covers/generated/神州之外/K3神话传说/驼背人的故事/驼背人的故事.webp"
+    },
+    {
+      "title": "世上无难事，只要肯登攀",
+      "path": "上下五千年/E8惊世名句/世上无难事，只要肯登攀",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 543272,
+      "cover": "covers/generated/上下五千年/E8惊世名句/世上无难事，只要肯登攀/世上无难事，只要肯登攀.webp"
+    },
+    {
+      "title": "责无旁贷",
+      "path": "上下五千年/E1成语故事/责无旁贷",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 633410,
+      "cover": "covers/generated/上下五千年/E1成语故事/责无旁贷/责无旁贷.webp"
+    },
+    {
+      "title": "樱花前线",
+      "path": "神州之外/K9世界各国节日/樱花前线",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 1129978,
+      "cover": "covers/generated/神州之外/K9世界各国节日/樱花前线/樱花前线.webp"
+    },
+    {
+      "title": "死灰复燃",
+      "path": "上下五千年/E1成语故事/死灰复燃",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 620805,
+      "cover": "covers/generated/上下五千年/E1成语故事/死灰复燃/死灰复燃.webp"
+    },
+    {
+      "title": "狼来了",
+      "path": "神州之外/K2经典寓言/狼来了",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 844875,
+      "cover": "covers/generated/神州之外/K2经典寓言/狼来了/狼来了.webp"
+    },
+    {
+      "title": "李时珍著《本草纲目》",
+      "path": "上下五千年/E3历史故事/其他/李时珍著《本草纲目》",
+      "subject": "上下五千年",
+      "level": "L5",
+      "duration_ms": 1125298,
+      "cover": "covers/generated/上下五千年/E3历史故事/其他/李时珍著《本草纲目》/李时珍著《本草纲目》.webp"
+    }
+  ],
+  "hot": [
+    {
+      "type": "standalone",
+      "title": "责无旁贷",
+      "path": "上下五千年/E1成语故事/责无旁贷",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 633410,
+      "cover": "covers/generated/上下五千年/E1成语故事/责无旁贷/责无旁贷.webp"
+    },
+    {
+      "type": "standalone",
+      "title": "蛇船竞赛",
+      "path": "神州之外/K9世界各国节日/蛇船竞赛",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 988300,
+      "cover": "covers/generated/神州之外/K9世界各国节日/蛇船竞赛/蛇船竞赛.webp"
+    },
+    {
+      "type": "standalone",
+      "title": "提达利克口渴的青蛙",
+      "path": "神州之外/K2经典寓言/提达利克口渴的青蛙",
+      "subject": "神州之外",
+      "level": "L5",
+      "duration_ms": 772696,
+      "cover": "covers/generated/神州之外/K2经典寓言/提达利克口渴的青蛙/提达利克口渴的青蛙.webp"
+    },
+    {
+      "type": "standalone",
+      "title": "驼背人的故事",
+      "path": "神州之外/K3神话传说/驼背人的故事",
+      "subject": "神州之外",
+      "level": "L6",
+      "duration_ms": 960555,
+      "cover": "covers/generated/神州之外/K3神话传说/驼背人的故事/驼背人的故事.webp"
+    },
+    {
+      "type": "standalone",
+      "title": "马钧造指南车",
+      "path": "上下五千年/E3历史故事/其他/马钧造指南车",
+      "subject": "上下五千年",
+      "level": "L5",
+      "duration_ms": 949341,
+      "cover": "covers/generated/上下五千年/E3历史故事/其他/马钧造指南车/马钧造指南车.webp"
+    },
+    {
+      "type": "standalone",
+      "title": "地球是人类的摇篮但人类不可能永远被束缚在摇篮里",
+      "path": "上下五千年/E8惊世名句/地球是人类的摇篮但人类不可能永远被束缚在摇篮里",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 475589,
+      "cover": "covers/generated/上下五千年/E8惊世名句/地球是人类的摇篮但人类不可能永远被束缚在摇篮里/地球是人类的摇篮但人类不可能永远被束缚在摇篮里.webp"
+    },
+    {
+      "type": "chaptered",
+      "title": "岳飞传",
+      "path": "上下五千年/E3历史故事/岳飞传",
+      "subject": "上下五千年",
+      "total_chapters": 80,
+      "cover": "covers/generated/上下五千年/E3历史故事/岳飞传/岳飞传.webp"
+    },
+    {
+      "type": "standalone",
+      "title": "死灰复燃",
+      "path": "上下五千年/E1成语故事/死灰复燃",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 620805,
+      "cover": "covers/generated/上下五千年/E1成语故事/死灰复燃/死灰复燃.webp"
+    },
+    {
+      "type": "standalone",
+      "title": "西西弗斯",
+      "path": "神州之外/K3神话传说/西西弗斯",
+      "subject": "神州之外",
+      "level": "L6",
+      "duration_ms": 1348627,
+      "cover": "covers/generated/神州之外/K3神话传说/西西弗斯/西西弗斯.webp"
+    },
+    {
+      "type": "standalone",
+      "title": "倚马可待",
+      "path": "上下五千年/E1成语故事/倚马可待",
+      "subject": "上下五千年",
+      "level": "L6",
+      "duration_ms": 657382,
+      "cover": "covers/generated/上下五千年/E1成语故事/倚马可待/倚马可待.webp"
+    }
+  ],
+  "stats": {
+    "chaptered_count": 30,
+    "standalone_pool": 60,
+    "hot_count": 10
+  }
+}

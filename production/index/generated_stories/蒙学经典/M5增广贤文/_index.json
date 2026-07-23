@@ -1,0 +1,766 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "蒙学经典/M5增广贤文",
+  "work_name": "M5增广贤文",
+  "cover": {
+    "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 50,
+  "total_duration_ms": 10982100,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "增广贤文001-001_第1则_昔时贤文诲汝谆",
+      "title": "增广贤文001-001_第1则_昔时贤文诲汝谆",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文001-001_第1则_昔时贤文诲汝谆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 203000,
+      "char_count": 1011,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "增广贤文002-002_第2则_观今宜鉴古无古",
+      "title": "增广贤文002-002_第2则_观今宜鉴古无古",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文002-002_第2则_观今宜鉴古无古",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 188700,
+      "char_count": 939,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "增广贤文003-003_第3则_知己知彼将心比",
+      "title": "增广贤文003-003_第3则_知己知彼将心比",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文003-003_第3则_知己知彼将心比",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 173400,
+      "char_count": 863,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "增广贤文004-004_第4则_酒逢知己饮诗向",
+      "title": "增广贤文004-004_第4则_酒逢知己饮诗向",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文004-004_第4则_酒逢知己饮诗向",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 193900,
+      "char_count": 966,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "增广贤文005-005_第5则_相识满天下知心",
+      "title": "增广贤文005-005_第5则_相识满天下知心",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文005-005_第5则_相识满天下知心",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 230800,
+      "char_count": 1150,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "增广贤文006-006_第6则_相逢好似初相识",
+      "title": "增广贤文006-006_第6则_相逢好似初相识",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文006-006_第6则_相逢好似初相识",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 235200,
+      "char_count": 1172,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "增广贤文007-007_第7则_近水知鱼性近山",
+      "title": "增广贤文007-007_第7则_近水知鱼性近山",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文007-007_第7则_近水知鱼性近山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 211600,
+      "char_count": 1054,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "增广贤文008-008_第8则_易涨易退山溪水",
+      "title": "增广贤文008-008_第8则_易涨易退山溪水",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文008-008_第8则_易涨易退山溪水",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 262900,
+      "char_count": 1310,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "增广贤文009-009_第9则_运去金成铁时来",
+      "title": "增广贤文009-009_第9则_运去金成铁时来",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文009-009_第9则_运去金成铁时来",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 207100,
+      "char_count": 1032,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "增广贤文010-010_第10则_读书须用意一字",
+      "title": "增广贤文010-010_第10则_读书须用意一字",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文010-010_第10则_读书须用意一字",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 186200,
+      "char_count": 928,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "增广贤文011-011_第11则_逢人且说三分话",
+      "title": "增广贤文011-011_第11则_逢人且说三分话",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文011-011_第11则_逢人且说三分话",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 200800,
+      "char_count": 1001,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "增广贤文012-012_第12则_有意栽花花不发",
+      "title": "增广贤文012-012_第12则_有意栽花花不发",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文012-012_第12则_有意栽花花不发",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 253700,
+      "char_count": 1265,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "增广贤文013-013_第13则_画虎画皮难画骨",
+      "title": "增广贤文013-013_第13则_画虎画皮难画骨",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文013-013_第13则_画虎画皮难画骨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 273400,
+      "char_count": 1364,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "增广贤文014-014_第14则_钱财如粪土仁义",
+      "title": "增广贤文014-014_第14则_钱财如粪土仁义",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文014-014_第14则_钱财如粪土仁义",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 153600,
+      "char_count": 765,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "增广贤文015-015_第15则_流水下滩非有意",
+      "title": "增广贤文015-015_第15则_流水下滩非有意",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文015-015_第15则_流水下滩非有意",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 321000,
+      "char_count": 1601,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "增广贤文016-016_第16则_路遥知马力事久",
+      "title": "增广贤文016-016_第16则_路遥知马力事久",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文016-016_第16则_路遥知马力事久",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 232700,
+      "char_count": 1159,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "增广贤文017-017_第17则_马行无力皆因瘦",
+      "title": "增广贤文017-017_第17则_马行无力皆因瘦",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文017-017_第17则_马行无力皆因瘦",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 177000,
+      "char_count": 882,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "增广贤文018-018_第18则_饶人不是痴汉痴",
+      "title": "增广贤文018-018_第18则_饶人不是痴汉痴",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文018-018_第18则_饶人不是痴汉痴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 190900,
+      "char_count": 951,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "增广贤文019-019_第19则_是亲不是亲非亲",
+      "title": "增广贤文019-019_第19则_是亲不是亲非亲",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文019-019_第19则_是亲不是亲非亲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 187000,
+      "char_count": 932,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "增广贤文020-020_第20则_莺花犹怕春光老",
+      "title": "增广贤文020-020_第20则_莺花犹怕春光老",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文020-020_第20则_莺花犹怕春光老",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 178500,
+      "char_count": 889,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "增广贤文021-021_第21则_相逢不饮空归去",
+      "title": "增广贤文021-021_第21则_相逢不饮空归去",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文021-021_第21则_相逢不饮空归去",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 270000,
+      "char_count": 1346,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "增广贤文022-022_第22则_红粉佳人休使老",
+      "title": "增广贤文022-022_第22则_红粉佳人休使老",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文022-022_第22则_红粉佳人休使老",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 242700,
+      "char_count": 1210,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "增广贤文023-023_第23则_在家不会迎宾客",
+      "title": "增广贤文023-023_第23则_在家不会迎宾客",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文023-023_第23则_在家不会迎宾客",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 192300,
+      "char_count": 958,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "增广贤文024-024_第24则_贫居闹市无人问",
+      "title": "增广贤文024-024_第24则_贫居闹市无人问",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文024-024_第24则_贫居闹市无人问",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 205100,
+      "char_count": 1022,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "增广贤文025-025_第25则_谁人背后无人说",
+      "title": "增广贤文025-025_第25则_谁人背后无人说",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文025-025_第25则_谁人背后无人说",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 169100,
+      "char_count": 842,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "增广贤文026-026_第26则_有钱道真语无钱",
+      "title": "增广贤文026-026_第26则_有钱道真语无钱",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文026-026_第26则_有钱道真语无钱",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 210900,
+      "char_count": 1049,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "增广贤文027-027_第27则_不信但看筵中酒",
+      "title": "增广贤文027-027_第27则_不信但看筵中酒",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文027-027_第27则_不信但看筵中酒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 275400,
+      "char_count": 1374,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "增广贤文028-028_第28则_闹里有钱静处安",
+      "title": "增广贤文028-028_第28则_闹里有钱静处安",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文028-028_第28则_闹里有钱静处安",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 218500,
+      "char_count": 1089,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "增广贤文029-029_第29则_长江后浪推前浪",
+      "title": "增广贤文029-029_第29则_长江后浪推前浪",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文029-029_第29则_长江后浪推前浪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 210200,
+      "char_count": 1048,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "增广贤文030-030_第30则_近水楼台先得月",
+      "title": "增广贤文030-030_第30则_近水楼台先得月",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文030-030_第30则_近水楼台先得月",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 233700,
+      "char_count": 1165,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "增广贤文031-031_第31则_古人不见今时月",
+      "title": "增广贤文031-031_第31则_古人不见今时月",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文031-031_第31则_古人不见今时月",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 154300,
+      "char_count": 768,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "增广贤文032-032_第32则_先到为君后到为",
+      "title": "增广贤文032-032_第32则_先到为君后到为",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文032-032_第32则_先到为君后到为",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 199900,
+      "char_count": 996,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "增广贤文033-033_第33则_莫信直中直须防",
+      "title": "增广贤文033-033_第33则_莫信直中直须防",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文033-033_第33则_莫信直中直须防",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 217700,
+      "char_count": 1085,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "增广贤文034-034_第34则_自恨枝无叶莫怨",
+      "title": "增广贤文034-034_第34则_自恨枝无叶莫怨",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文034-034_第34则_自恨枝无叶莫怨",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 215600,
+      "char_count": 1074,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "增广贤文035-035_第35则_一年之计在于春",
+      "title": "增广贤文035-035_第35则_一年之计在于春",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文035-035_第35则_一年之计在于春",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 191700,
+      "char_count": 955,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "增广贤文036-036_第36则_一家之计在于和",
+      "title": "增广贤文036-036_第36则_一家之计在于和",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文036-036_第36则_一家之计在于和",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 210800,
+      "char_count": 1050,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "增广贤文037-037_第37则_责人之心责己恕",
+      "title": "增广贤文037-037_第37则_责人之心责己恕",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文037-037_第37则_责人之心责己恕",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 212300,
+      "char_count": 1058,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "增广贤文038-038_第38则_守口如瓶防意如",
+      "title": "增广贤文038-038_第38则_守口如瓶防意如",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文038-038_第38则_守口如瓶防意如",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 306100,
+      "char_count": 1527,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "增广贤文039-039_第39则_再三须慎意第一",
+      "title": "增广贤文039-039_第39则_再三须慎意第一",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文039-039_第39则_再三须慎意第一",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 273500,
+      "char_count": 1364,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "增广贤文040-040_第40则_来说是非者便是",
+      "title": "增广贤文040-040_第40则_来说是非者便是",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文040-040_第40则_来说是非者便是",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 231400,
+      "char_count": 1153,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "增广贤文041-041_第41则_远水难救近火远",
+      "title": "增广贤文041-041_第41则_远水难救近火远",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文041-041_第41则_远水难救近火远",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 275600,
+      "char_count": 1374,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "增广贤文042-042_第42则_人情似纸张张薄",
+      "title": "增广贤文042-042_第42则_人情似纸张张薄",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文042-042_第42则_人情似纸张张薄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 282200,
+      "char_count": 1407,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "增广贤文043-043_第43则_山中也有千年树",
+      "title": "增广贤文043-043_第43则_山中也有千年树",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文043-043_第43则_山中也有千年树",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 236000,
+      "char_count": 1177,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "增广贤文044-044_第44则_力微休负重言轻",
+      "title": "增广贤文044-044_第44则_力微休负重言轻",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文044-044_第44则_力微休负重言轻",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 223400,
+      "char_count": 1114,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "增广贤文045-045_第45则_平生莫做皱眉事",
+      "title": "增广贤文045-045_第45则_平生莫做皱眉事",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文045-045_第45则_平生莫做皱眉事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 222600,
+      "char_count": 1109,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "增广贤文046-046_第46则_士者国之宝儒为",
+      "title": "增广贤文046-046_第46则_士者国之宝儒为",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文046-046_第46则_士者国之宝儒为",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 156100,
+      "char_count": 776,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "增广贤文047-047_第47则_若要断酒法醒眼",
+      "title": "增广贤文047-047_第47则_若要断酒法醒眼",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文047-047_第47则_若要断酒法醒眼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 216900,
+      "char_count": 1081,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "增广贤文048-048_第48则_求人须求大丈夫",
+      "title": "增广贤文048-048_第48则_求人须求大丈夫",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文048-048_第48则_求人须求大丈夫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 217100,
+      "char_count": 1081,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "增广贤文049-049_第49则_渴时一滴如甘露",
+      "title": "增广贤文049-049_第49则_渴时一滴如甘露",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文049-049_第49则_渴时一滴如甘露",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 228100,
+      "char_count": 1137,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "增广贤文050-050_第50则_久住令人贱频来",
+      "title": "增广贤文050-050_第50则_久住令人贱频来",
+      "full_path": "蒙学经典/M5增广贤文/增广贤文050-050_第50则_久住令人贱频来",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "",
+      "duration_ms": 221500,
+      "char_count": 1104,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

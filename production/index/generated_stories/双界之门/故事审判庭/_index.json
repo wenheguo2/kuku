@@ -1,0 +1,3137 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "双界之门/故事审判庭",
+  "name": "故事审判庭",
+  "cover": {
+    "cover_image_url": "covers/generated/双界之门/故事审判庭/故事审判庭.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 223,
+  "entries": [
+    {
+      "entry_id": "三国大辩护",
+      "title": "三国大辩护",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/三国大辩护",
+      "level": "",
+      "duration_ms": 1439977,
+      "char_count": 5526,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/三国大辩护/三国大辩护.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "双界法庭：萧何月下追韩信大审判",
+      "title": "双界法庭：萧何月下追韩信大审判",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/双界法庭：萧何月下追韩信大审判",
+      "level": "L5",
+      "duration_ms": 762193,
+      "char_count": 2928,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/双界法庭：萧何月下追韩信大审判/双界法庭：萧何月下追韩信大审判.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "后羿的功与过",
+      "title": "后羿的功与过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/后羿的功与过",
+      "level": "",
+      "duration_ms": 573378,
+      "char_count": 2181,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/后羿的功与过/后羿的功与过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判三只小猪",
+      "title": "审判三只小猪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判三只小猪",
+      "level": "",
+      "duration_ms": 744193,
+      "char_count": 2848,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判三只小猪/审判三只小猪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判亚瑟王：有功还是有过",
+      "title": "审判亚瑟王：有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判亚瑟王：有功还是有过",
+      "level": "L5",
+      "duration_ms": 818230,
+      "char_count": 3135,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判亚瑟王：有功还是有过/审判亚瑟王：有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判亚瑟王：隐瞒身世拔剑算作弊吗",
+      "title": "审判亚瑟王：隐瞒身世拔剑算作弊吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判亚瑟王：隐瞒身世拔剑算作弊吗",
+      "level": "L5",
+      "duration_ms": 721549,
+      "char_count": 2721,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判亚瑟王：隐瞒身世拔剑算作弊吗/审判亚瑟王：隐瞒身世拔剑算作弊吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判仓颉",
+      "title": "审判仓颉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判仓颉",
+      "level": "",
+      "duration_ms": 723485,
+      "char_count": 2764,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判仓颉/审判仓颉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判仓颉：是对是错",
+      "title": "审判仓颉：是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判仓颉：是对是错",
+      "level": "L5",
+      "duration_ms": 771093,
+      "char_count": 2933,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判仓颉：是对是错/审判仓颉：是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判伊卡洛斯·是对是错",
+      "title": "审判伊卡洛斯·是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判伊卡洛斯·是对是错",
+      "level": "",
+      "duration_ms": 660871,
+      "char_count": 2491,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判伊卡洛斯·是对是错/审判伊卡洛斯·是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判伊卡洛斯：是勇敢还是鲁莽",
+      "title": "审判伊卡洛斯：是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判伊卡洛斯：是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 603094,
+      "char_count": 2304,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判伊卡洛斯：是勇敢还是鲁莽/审判伊卡洛斯：是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判关羽：该赞扬还是批评",
+      "title": "审判关羽：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判关羽：该赞扬还是批评",
+      "level": "L5",
+      "duration_ms": 421736,
+      "char_count": 1626,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判关羽：该赞扬还是批评/审判关羽：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判冰雪女王：把小孩带走是绑架吗",
+      "title": "审判冰雪女王：把小孩带走是绑架吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判冰雪女王：把小孩带走是绑架吗",
+      "level": "L5",
+      "duration_ms": 922304,
+      "char_count": 3561,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判冰雪女王：把小孩带走是绑架吗/审判冰雪女王：把小孩带走是绑架吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判冰雪女王：是智慧还是狡猾",
+      "title": "审判冰雪女王：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判冰雪女王：是智慧还是狡猾",
+      "level": "L5",
+      "duration_ms": 884950,
+      "char_count": 3379,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判冰雪女王：是智慧还是狡猾/审判冰雪女王：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判刑天：没有头还要打是找茬吗",
+      "title": "审判刑天：没有头还要打是找茬吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判刑天：没有头还要打是找茬吗",
+      "level": "L5",
+      "duration_ms": 651914,
+      "char_count": 2498,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判刑天：没有头还要打是找茬吗/审判刑天：没有头还要打是找茬吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判刘邦：是英雄还是反派",
+      "title": "审判刘邦：是英雄还是反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判刘邦：是英雄还是反派",
+      "level": "L5",
+      "duration_ms": 822698,
+      "char_count": 3161,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判刘邦：是英雄还是反派/审判刘邦：是英雄还是反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判勾践：卧薪尝胆是励志还是自虐",
+      "title": "审判勾践：卧薪尝胆是励志还是自虐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判勾践：卧薪尝胆是励志还是自虐",
+      "level": "L5",
+      "duration_ms": 810623,
+      "char_count": 3105,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判勾践：卧薪尝胆是励志还是自虐/审判勾践：卧薪尝胆是励志还是自虐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判包公：是英雄还是反派",
+      "title": "审判包公：是英雄还是反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判包公：是英雄还是反派",
+      "level": "",
+      "duration_ms": 799156,
+      "char_count": 3059,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判包公：是英雄还是反派/审判包公：是英雄还是反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判匹诺曹：该赞扬还是批评",
+      "title": "审判匹诺曹：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判匹诺曹：该赞扬还是批评",
+      "level": "L5",
+      "duration_ms": 726486,
+      "char_count": 2749,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判匹诺曹：该赞扬还是批评/审判匹诺曹：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判匹诺曹：说谎是自我保护还是坏习惯",
+      "title": "审判匹诺曹：说谎是自我保护还是坏习惯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判匹诺曹：说谎是自我保护还是坏习惯",
+      "level": "L5",
+      "duration_ms": 1120334,
+      "char_count": 4274,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判匹诺曹：说谎是自我保护还是坏习惯/审判匹诺曹：说谎是自我保护还是坏习惯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判华佗——是勇敢还是鲁莽",
+      "title": "审判华佗——是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判华佗——是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 889190,
+      "char_count": 3408,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判华佗——是勇敢还是鲁莽/审判华佗——是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判华佗——是智慧还是狡猾",
+      "title": "审判华佗——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判华佗——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 699189,
+      "char_count": 2625,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判华佗——是智慧还是狡猾/审判华佗——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判华佗——该赞扬还是批评",
+      "title": "审判华佗——该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判华佗——该赞扬还是批评",
+      "level": "",
+      "duration_ms": 854372,
+      "char_count": 3278,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判华佗——该赞扬还是批评/审判华佗——该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判华佗：要给曹操开颅是谋杀还是手术",
+      "title": "审判华佗：要给曹操开颅是谋杀还是手术",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判华佗：要给曹操开颅是谋杀还是手术",
+      "level": "L5",
+      "duration_ms": 706273,
+      "char_count": 2679,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判华佗：要给曹操开颅是谋杀还是手术/审判华佗：要给曹操开颅是谋杀还是手术.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判卖火柴女孩",
+      "title": "审判卖火柴女孩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判卖火柴女孩",
+      "level": "",
+      "duration_ms": 740546,
+      "char_count": 2834,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判卖火柴女孩/审判卖火柴女孩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判卖火柴女孩的爸爸：让女儿卖火柴是虐待吗",
+      "title": "审判卖火柴女孩的爸爸：让女儿卖火柴是虐待吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判卖火柴女孩的爸爸：让女儿卖火柴是虐待吗",
+      "level": "L5",
+      "duration_ms": 765199,
+      "char_count": 2915,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判卖火柴女孩的爸爸：让女儿卖火柴是虐待吗/审判卖火柴女孩的爸爸：让女儿卖火柴是虐待吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判卖火柴的小女孩",
+      "title": "审判卖火柴的小女孩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判卖火柴的小女孩",
+      "level": "",
+      "duration_ms": 640162,
+      "char_count": 2424,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判卖火柴的小女孩/审判卖火柴的小女孩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判后羿",
+      "title": "审判后羿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判后羿",
+      "level": "",
+      "duration_ms": 875446,
+      "char_count": 3336,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判后羿/审判后羿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判后羿——是智慧还是狡猾",
+      "title": "审判后羿——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判后羿——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 937695,
+      "char_count": 3566,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判后羿——是智慧还是狡猾/审判后羿——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判后羿：九个太阳凭什么射下来",
+      "title": "审判后羿：九个太阳凭什么射下来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判后羿：九个太阳凭什么射下来",
+      "level": "L5",
+      "duration_ms": 892948,
+      "char_count": 3414,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判后羿：九个太阳凭什么射下来/审判后羿：九个太阳凭什么射下来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判吕布——三姓家奴还是缺父爱的孤儿？",
+      "title": "审判吕布——三姓家奴还是缺父爱的孤儿？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判吕布——三姓家奴还是缺父爱的孤儿？",
+      "level": "",
+      "duration_ms": 675335,
+      "char_count": 2541,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判吕布——三姓家奴还是缺父爱的孤儿？/审判吕布——三姓家奴还是缺父爱的孤儿？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判吕布：是智慧还是狡猾",
+      "title": "审判吕布：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判吕布：是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 987829,
+      "char_count": 3708,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判吕布：是智慧还是狡猾/审判吕布：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判吕布：该赞扬还是批评",
+      "title": "审判吕布：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判吕布：该赞扬还是批评",
+      "level": "L5",
+      "duration_ms": 558414,
+      "char_count": 2134,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判吕布：该赞扬还是批评/审判吕布：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判周瑜",
+      "title": "审判周瑜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判周瑜",
+      "level": "",
+      "duration_ms": 596842,
+      "char_count": 2313,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判周瑜/审判周瑜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判周瑜·是对是错",
+      "title": "审判周瑜·是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判周瑜·是对是错",
+      "level": "",
+      "duration_ms": 714156,
+      "char_count": 2700,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判周瑜·是对是错/审判周瑜·是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判周瑜：被气死还是箭伤复发",
+      "title": "审判周瑜：被气死还是箭伤复发",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判周瑜：被气死还是箭伤复发",
+      "level": "L5",
+      "duration_ms": 793915,
+      "char_count": 3070,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判周瑜：被气死还是箭伤复发/审判周瑜：被气死还是箭伤复发.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判哈迪斯：是勇敢还是鲁莽",
+      "title": "审判哈迪斯：是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判哈迪斯：是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 913014,
+      "char_count": 3477,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判哈迪斯：是勇敢还是鲁莽/审判哈迪斯：是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判哪吒——是勇敢还是鲁莽",
+      "title": "审判哪吒——是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判哪吒——是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 762301,
+      "char_count": 2941,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判哪吒——是勇敢还是鲁莽/审判哪吒——是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判哪吒传奇",
+      "title": "审判哪吒传奇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判哪吒传奇",
+      "level": "",
+      "duration_ms": 650489,
+      "char_count": 2472,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判哪吒传奇/审判哪吒传奇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判哪吒：闹海是正当防卫还是寻衅滋事",
+      "title": "审判哪吒：闹海是正当防卫还是寻衅滋事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判哪吒：闹海是正当防卫还是寻衅滋事",
+      "level": "L5",
+      "duration_ms": 544590,
+      "char_count": 2109,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判哪吒：闹海是正当防卫还是寻衅滋事/审判哪吒：闹海是正当防卫还是寻衅滋事.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判唐僧",
+      "title": "审判唐僧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判唐僧",
+      "level": "",
+      "duration_ms": 715302,
+      "char_count": 2669,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判唐僧/审判唐僧.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判唐僧：为什么总冤枉孙悟空",
+      "title": "审判唐僧：为什么总冤枉孙悟空",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判唐僧：为什么总冤枉孙悟空",
+      "level": "L5",
+      "duration_ms": 741305,
+      "char_count": 2857,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判唐僧：为什么总冤枉孙悟空/审判唐僧：为什么总冤枉孙悟空.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判圣诞老人：一年只上一天班合理吗",
+      "title": "审判圣诞老人：一年只上一天班合理吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判圣诞老人：一年只上一天班合理吗",
+      "level": "L5",
+      "duration_ms": 685230,
+      "char_count": 2554,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判圣诞老人：一年只上一天班合理吗/审判圣诞老人：一年只上一天班合理吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判圣诞老人：是智慧还是狡猾",
+      "title": "审判圣诞老人：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判圣诞老人：是智慧还是狡猾",
+      "level": "L5",
+      "duration_ms": 955520,
+      "char_count": 3623,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判圣诞老人：是智慧还是狡猾/审判圣诞老人：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判基督山伯爵——是智慧还是狡猾",
+      "title": "审判基督山伯爵——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判基督山伯爵——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 819374,
+      "char_count": 3099,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判基督山伯爵——是智慧还是狡猾/审判基督山伯爵——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判基督山伯爵：复仇过度了吗",
+      "title": "审判基督山伯爵：复仇过度了吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判基督山伯爵：复仇过度了吗",
+      "level": "L5",
+      "duration_ms": 820701,
+      "char_count": 3097,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判基督山伯爵：复仇过度了吗/审判基督山伯爵：复仇过度了吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判复活节兔子：藏彩蛋是欺骗小朋友吗",
+      "title": "审判复活节兔子：藏彩蛋是欺骗小朋友吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判复活节兔子：藏彩蛋是欺骗小朋友吗",
+      "level": "L5",
+      "duration_ms": 652163,
+      "char_count": 2476,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判复活节兔子：藏彩蛋是欺骗小朋友吗/审判复活节兔子：藏彩蛋是欺骗小朋友吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判多萝西：是智慧还是狡猾",
+      "title": "审判多萝西：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判多萝西：是智慧还是狡猾",
+      "level": "L5",
+      "duration_ms": 788553,
+      "char_count": 2999,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判多萝西：是智慧还是狡猾/审判多萝西：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判多萝西：用水浇死东方女巫是谋杀还是意外",
+      "title": "审判多萝西：用水浇死东方女巫是谋杀还是意外",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判多萝西：用水浇死东方女巫是谋杀还是意外",
+      "level": "L5",
+      "duration_ms": 499167,
+      "char_count": 1907,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判多萝西：用水浇死东方女巫是谋杀还是意外/审判多萝西：用水浇死东方女巫是谋杀还是意外.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判多萝西：该赞扬还是批评",
+      "title": "审判多萝西：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判多萝西：该赞扬还是批评",
+      "level": "L5",
+      "duration_ms": 745450,
+      "char_count": 2868,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判多萝西：该赞扬还是批评/审判多萝西：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判太白金星：招安是馊主意吗",
+      "title": "审判太白金星：招安是馊主意吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判太白金星：招安是馊主意吗",
+      "level": "L5",
+      "duration_ms": 583596,
+      "char_count": 2249,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判太白金星：招安是馊主意吗/审判太白金星：招安是馊主意吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判夸父：是英雄还是反派",
+      "title": "审判夸父：是英雄还是反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判夸父：是英雄还是反派",
+      "level": "L5",
+      "duration_ms": 774265,
+      "char_count": 2903,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判夸父：是英雄还是反派/审判夸父：是英雄还是反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判奥丁：该赞扬还是批评",
+      "title": "审判奥丁：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判奥丁：该赞扬还是批评",
+      "level": "L5",
+      "duration_ms": 1111555,
+      "char_count": 4241,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判奥丁：该赞扬还是批评/审判奥丁：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判奥德修斯",
+      "title": "审判奥德修斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判奥德修斯",
+      "level": "",
+      "duration_ms": 519919,
+      "char_count": 1993,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判奥德修斯/审判奥德修斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判奥德修斯：木马计是智慧还是欺诈",
+      "title": "审判奥德修斯：木马计是智慧还是欺诈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判奥德修斯：木马计是智慧还是欺诈",
+      "level": "L5",
+      "duration_ms": 667200,
+      "char_count": 2522,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判奥德修斯：木马计是智慧还是欺诈/审判奥德修斯：木马计是智慧还是欺诈.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判女娲·是对是错",
+      "title": "审判女娲·是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判女娲·是对是错",
+      "level": "",
+      "duration_ms": 843522,
+      "char_count": 3248,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判女娲·是对是错/审判女娲·是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判女娲——该赞扬还是批评",
+      "title": "审判女娲——该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判女娲——该赞扬还是批评",
+      "level": "",
+      "duration_ms": 607628,
+      "char_count": 2329,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判女娲——该赞扬还是批评/审判女娲——该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判妲己——智慧还是狡猾？",
+      "title": "审判妲己——智慧还是狡猾？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判妲己——智慧还是狡猾？",
+      "level": "",
+      "duration_ms": 608732,
+      "char_count": 2467,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判妲己——智慧还是狡猾？/审判妲己——智慧还是狡猾？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判妲己有功还是有过",
+      "title": "审判妲己有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判妲己有功还是有过",
+      "level": "",
+      "duration_ms": 790203,
+      "char_count": 2877,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判妲己有功还是有过/审判妲己有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判妲己：祸水还是替罪羊",
+      "title": "审判妲己：祸水还是替罪羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判妲己：祸水还是替罪羊",
+      "level": "L5",
+      "duration_ms": 638123,
+      "char_count": 2420,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判妲己：祸水还是替罪羊/审判妲己：祸水还是替罪羊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判姜子牙：是勇敢还是鲁莽",
+      "title": "审判姜子牙：是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判姜子牙：是勇敢还是鲁莽",
+      "level": "L5",
+      "duration_ms": 515558,
+      "char_count": 1987,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判姜子牙：是勇敢还是鲁莽/审判姜子牙：是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判姜子牙：有功还是有过",
+      "title": "审判姜子牙：有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判姜子牙：有功还是有过",
+      "level": "L5",
+      "duration_ms": 744409,
+      "char_count": 2803,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判姜子牙：有功还是有过/审判姜子牙：有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判孔子·是智慧还是狡猾",
+      "title": "审判孔子·是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判孔子·是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 998479,
+      "char_count": 3847,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判孔子·是智慧还是狡猾/审判孔子·是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判孔子：是对是错",
+      "title": "审判孔子：是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判孔子：是对是错",
+      "level": "",
+      "duration_ms": 668240,
+      "char_count": 2563,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判孔子：是对是错/审判孔子：是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判孔融：让梨是自愿还是被迫",
+      "title": "审判孔融：让梨是自愿还是被迫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判孔融：让梨是自愿还是被迫",
+      "level": "L5",
+      "duration_ms": 946156,
+      "char_count": 3642,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判孔融：让梨是自愿还是被迫/审判孔融：让梨是自愿还是被迫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判孙悟空",
+      "title": "审判孙悟空",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判孙悟空",
+      "level": "",
+      "duration_ms": 903766,
+      "char_count": 3505,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判孙悟空/审判孙悟空.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判孙悟空——有功还是有过",
+      "title": "审判孙悟空——有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判孙悟空——有功还是有过",
+      "level": "",
+      "duration_ms": 792308,
+      "char_count": 2978,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判孙悟空——有功还是有过/审判孙悟空——有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判孟姜女：哭倒长城破坏文物",
+      "title": "审判孟姜女：哭倒长城破坏文物",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判孟姜女：哭倒长城破坏文物",
+      "level": "L5",
+      "duration_ms": 591985,
+      "char_count": 2254,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判孟姜女：哭倒长城破坏文物/审判孟姜女：哭倒长城破坏文物.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判孟姜女：是智慧还是狡猾",
+      "title": "审判孟姜女：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判孟姜女：是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 884833,
+      "char_count": 3428,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判孟姜女：是智慧还是狡猾/审判孟姜女：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判孟姜女：该赞扬还是批评",
+      "title": "审判孟姜女：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判孟姜女：该赞扬还是批评",
+      "level": "L5",
+      "duration_ms": 775089,
+      "char_count": 2958,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判孟姜女：该赞扬还是批评/审判孟姜女：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判宙斯：是智慧还是狡猾",
+      "title": "审判宙斯：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判宙斯：是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 780127,
+      "char_count": 2981,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判宙斯：是智慧还是狡猾/审判宙斯：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判宙斯：是英雄还是反派",
+      "title": "审判宙斯：是英雄还是反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判宙斯：是英雄还是反派",
+      "level": "L5",
+      "duration_ms": 883688,
+      "char_count": 3364,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判宙斯：是英雄还是反派/审判宙斯：是英雄还是反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判小熊维尼——是英雄还是反派？",
+      "title": "审判小熊维尼——是英雄还是反派？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判小熊维尼——是英雄还是反派？",
+      "level": "",
+      "duration_ms": 608951,
+      "char_count": 2344,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判小熊维尼——是英雄还是反派？/审判小熊维尼——是英雄还是反派？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判小熊维尼：偷蜂蜜算盗窃吗",
+      "title": "审判小熊维尼：偷蜂蜜算盗窃吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判小熊维尼：偷蜂蜜算盗窃吗",
+      "level": "L5",
+      "duration_ms": 760516,
+      "char_count": 2927,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判小熊维尼：偷蜂蜜算盗窃吗/审判小熊维尼：偷蜂蜜算盗窃吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判小王子：离开玫瑰花算背叛吗",
+      "title": "审判小王子：离开玫瑰花算背叛吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判小王子：离开玫瑰花算背叛吗",
+      "level": "L5",
+      "duration_ms": 1002659,
+      "char_count": 3819,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判小王子：离开玫瑰花算背叛吗/审判小王子：离开玫瑰花算背叛吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判小红帽·是智慧还是狡猾",
+      "title": "审判小红帽·是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判小红帽·是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 767155,
+      "char_count": 2880,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判小红帽·是智慧还是狡猾/审判小红帽·是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判小美人鱼：为爱变泡沫值得吗",
+      "title": "审判小美人鱼：为爱变泡沫值得吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判小美人鱼：为爱变泡沫值得吗",
+      "level": "L5",
+      "duration_ms": 767983,
+      "char_count": 2899,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判小美人鱼：为爱变泡沫值得吗/审判小美人鱼：为爱变泡沫值得吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判尼尔斯——是智慧还是狡猾",
+      "title": "审判尼尔斯——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判尼尔斯——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 715874,
+      "char_count": 2752,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判尼尔斯——是智慧还是狡猾/审判尼尔斯——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判尼尔斯：有功还是有过",
+      "title": "审判尼尔斯：有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判尼尔斯：有功还是有过",
+      "level": "L5",
+      "duration_ms": 587882,
+      "char_count": 2249,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判尼尔斯：有功还是有过/审判尼尔斯：有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判尼尔斯：该赞扬还是批评",
+      "title": "审判尼尔斯：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判尼尔斯：该赞扬还是批评",
+      "level": "L5",
+      "duration_ms": 773770,
+      "char_count": 2972,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判尼尔斯：该赞扬还是批评/审判尼尔斯：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判屈原",
+      "title": "审判屈原",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判屈原",
+      "level": "",
+      "duration_ms": 727157,
+      "char_count": 2737,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判屈原/审判屈原.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判屈原——是智慧还是狡猾",
+      "title": "审判屈原——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判屈原——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 630342,
+      "char_count": 2439,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判屈原——是智慧还是狡猾/审判屈原——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判屈原：跳江是爱国还是逃避",
+      "title": "审判屈原：跳江是爱国还是逃避",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判屈原：跳江是爱国还是逃避",
+      "level": "L5",
+      "duration_ms": 598660,
+      "char_count": 2284,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判屈原：跳江是爱国还是逃避/审判屈原：跳江是爱国还是逃避.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判山姆：跟弗罗多去魔多算自愿还是被迫",
+      "title": "审判山姆：跟弗罗多去魔多算自愿还是被迫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判山姆：跟弗罗多去魔多算自愿还是被迫",
+      "level": "L5",
+      "duration_ms": 678483,
+      "char_count": 2608,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判山姆：跟弗罗多去魔多算自愿还是被迫/审判山姆：跟弗罗多去魔多算自愿还是被迫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判岳飞—是智慧还是狡猾",
+      "title": "审判岳飞—是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判岳飞—是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 675554,
+      "char_count": 2645,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判岳飞—是智慧还是狡猾/审判岳飞—是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判岳飞：抗金是爱国还是抗旨",
+      "title": "审判岳飞：抗金是爱国还是抗旨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判岳飞：抗金是爱国还是抗旨",
+      "level": "L5",
+      "duration_ms": 694879,
+      "char_count": 2677,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判岳飞：抗金是爱国还是抗旨/审判岳飞：抗金是爱国还是抗旨.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判巴德尔：是勇敢还是鲁莽",
+      "title": "审判巴德尔：是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判巴德尔：是勇敢还是鲁莽",
+      "level": "L5",
+      "duration_ms": 888798,
+      "char_count": 3417,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判巴德尔：是勇敢还是鲁莽/审判巴德尔：是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判巴德尔：是智慧还是狡猾",
+      "title": "审判巴德尔：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判巴德尔：是智慧还是狡猾",
+      "level": "L5",
+      "duration_ms": 809589,
+      "char_count": 3096,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判巴德尔：是智慧还是狡猾/审判巴德尔：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判巴德尔：该赞扬还是批评",
+      "title": "审判巴德尔：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判巴德尔：该赞扬还是批评",
+      "level": "L5",
+      "duration_ms": 757661,
+      "char_count": 2905,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判巴德尔：该赞扬还是批评/审判巴德尔：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判张衡：是勇敢还是鲁莽",
+      "title": "审判张衡：是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判张衡：是勇敢还是鲁莽",
+      "level": "L5",
+      "duration_ms": 643235,
+      "char_count": 2449,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判张衡：是勇敢还是鲁莽/审判张衡：是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判张飞——是智慧还是狡猾",
+      "title": "审判张飞——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判张飞——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 738057,
+      "char_count": 2844,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判张飞——是智慧还是狡猾/审判张飞——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判彼得潘：偷影子算盗窃吗",
+      "title": "审判彼得潘：偷影子算盗窃吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判彼得潘：偷影子算盗窃吗",
+      "level": "L5",
+      "duration_ms": 706772,
+      "char_count": 2739,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判彼得潘：偷影子算盗窃吗/审判彼得潘：偷影子算盗窃吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判愚公——是智慧还是狡猾",
+      "title": "审判愚公——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判愚公——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 824228,
+      "char_count": 3129,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判愚公——是智慧还是狡猾/审判愚公——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判愚公：是对是错",
+      "title": "审判愚公：是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判愚公：是对是错",
+      "level": "L5",
+      "duration_ms": 671128,
+      "char_count": 2614,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判愚公：是对是错/审判愚公：是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判愚公：有功还是有过",
+      "title": "审判愚公：有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判愚公：有功还是有过",
+      "level": "L5",
+      "duration_ms": 705342,
+      "char_count": 2702,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判愚公：有功还是有过/审判愚公：有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判愚公：破坏生态环境",
+      "title": "审判愚公：破坏生态环境",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判愚公：破坏生态环境",
+      "level": "L5",
+      "duration_ms": 602378,
+      "char_count": 2296,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判愚公：破坏生态环境/审判愚公：破坏生态环境.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判扁鹊——是勇敢还是鲁莽",
+      "title": "审判扁鹊——是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判扁鹊——是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 770519,
+      "char_count": 2964,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判扁鹊——是勇敢还是鲁莽/审判扁鹊——是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判扁鹊——英雄还是反派",
+      "title": "审判扁鹊——英雄还是反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判扁鹊——英雄还是反派",
+      "level": "",
+      "duration_ms": 903840,
+      "char_count": 3469,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判扁鹊——英雄还是反派/审判扁鹊——英雄还是反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判托尔：是智慧还是狡猾",
+      "title": "审判托尔：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判托尔：是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 614731,
+      "char_count": 2355,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判托尔：是智慧还是狡猾/审判托尔：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判拇指姑娘：有功还是有过",
+      "title": "审判拇指姑娘：有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判拇指姑娘：有功还是有过",
+      "level": "L5",
+      "duration_ms": 691694,
+      "char_count": 2621,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判拇指姑娘：有功还是有过/审判拇指姑娘：有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判文天祥：不投降是对是错",
+      "title": "审判文天祥：不投降是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判文天祥：不投降是对是错",
+      "level": "L5",
+      "duration_ms": 879585,
+      "char_count": 3294,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判文天祥：不投降是对是错/审判文天祥：不投降是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判普罗米修斯",
+      "title": "审判普罗米修斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判普罗米修斯",
+      "level": "",
+      "duration_ms": 856234,
+      "char_count": 3293,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判普罗米修斯/审判普罗米修斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判普罗米修斯：盗火给人类是对是错",
+      "title": "审判普罗米修斯：盗火给人类是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判普罗米修斯：盗火给人类是对是错",
+      "level": "L5",
+      "duration_ms": 812512,
+      "char_count": 3083,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判普罗米修斯：盗火给人类是对是错/审判普罗米修斯：盗火给人类是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判曹操：奸雄还是最后汉臣",
+      "title": "审判曹操：奸雄还是最后汉臣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判曹操：奸雄还是最后汉臣",
+      "level": "L5",
+      "duration_ms": 614128,
+      "char_count": 2343,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判曹操：奸雄还是最后汉臣/审判曹操：奸雄还是最后汉臣.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判李白",
+      "title": "审判李白",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判李白",
+      "level": "",
+      "duration_ms": 707803,
+      "char_count": 2700,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判李白/审判李白.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判李逵",
+      "title": "审判李逵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判李逵",
+      "level": "",
+      "duration_ms": 772839,
+      "char_count": 2926,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判李逵/审判李逵.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判杨修：聪明有罪吗",
+      "title": "审判杨修：聪明有罪吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判杨修：聪明有罪吗",
+      "level": "L5",
+      "duration_ms": 681987,
+      "char_count": 2604,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判杨修：聪明有罪吗/审判杨修：聪明有罪吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判杨戬：是勇敢还是鲁莽",
+      "title": "审判杨戬：是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判杨戬：是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 534378,
+      "char_count": 2039,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判杨戬：是勇敢还是鲁莽/审判杨戬：是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判杰克——是勇敢还是鲁莽",
+      "title": "审判杰克——是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判杰克——是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 653131,
+      "char_count": 2511,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判杰克——是勇敢还是鲁莽/审判杰克——是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判杰克：偷巨人的金蛋是盗窃吗",
+      "title": "审判杰克：偷巨人的金蛋是盗窃吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判杰克：偷巨人的金蛋是盗窃吗",
+      "level": "L5",
+      "duration_ms": 760058,
+      "char_count": 2920,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判杰克：偷巨人的金蛋是盗窃吗/审判杰克：偷巨人的金蛋是盗窃吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判杰克：有功还是有过",
+      "title": "审判杰克：有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判杰克：有功还是有过",
+      "level": "L5",
+      "duration_ms": 581701,
+      "char_count": 2206,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判杰克：有功还是有过/审判杰克：有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判林黛玉：葬花是文艺还是矫情",
+      "title": "审判林黛玉：葬花是文艺还是矫情",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判林黛玉：葬花是文艺还是矫情",
+      "level": "L5",
+      "duration_ms": 646873,
+      "char_count": 2488,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判林黛玉：葬花是文艺还是矫情/审判林黛玉：葬花是文艺还是矫情.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判格列佛·是对是错",
+      "title": "审判格列佛·是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判格列佛·是对是错",
+      "level": "",
+      "duration_ms": 798909,
+      "char_count": 3023,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判格列佛·是对是错/审判格列佛·是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判格列佛—是勇敢还是鲁莽",
+      "title": "审判格列佛—是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判格列佛—是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 651051,
+      "char_count": 2449,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判格列佛—是勇敢还是鲁莽/审判格列佛—是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判格列佛：小人国救火破坏皇宫",
+      "title": "审判格列佛：小人国救火破坏皇宫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判格列佛：小人国救火破坏皇宫",
+      "level": "L5",
+      "duration_ms": 622880,
+      "char_count": 2386,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判格列佛：小人国救火破坏皇宫/审判格列佛：小人国救火破坏皇宫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判格列佛：该赞扬还是批评",
+      "title": "审判格列佛：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判格列佛：该赞扬还是批评",
+      "level": "",
+      "duration_ms": 644515,
+      "char_count": 2427,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判格列佛：该赞扬还是批评/审判格列佛：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判梁山伯：为什么不去提亲",
+      "title": "审判梁山伯：为什么不去提亲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判梁山伯：为什么不去提亲",
+      "level": "L5",
+      "duration_ms": 646294,
+      "char_count": 2451,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判梁山伯：为什么不去提亲/审判梁山伯：为什么不去提亲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判梅林：用魔法干预政治对吗",
+      "title": "审判梅林：用魔法干预政治对吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判梅林：用魔法干预政治对吗",
+      "level": "L5",
+      "duration_ms": 650728,
+      "char_count": 2444,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判梅林：用魔法干预政治对吗/审判梅林：用魔法干预政治对吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判武松",
+      "title": "审判武松",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判武松",
+      "level": "",
+      "duration_ms": 771335,
+      "char_count": 2944,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判武松/审判武松.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判武松——是对是错",
+      "title": "审判武松——是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判武松——是对是错",
+      "level": "",
+      "duration_ms": 937517,
+      "char_count": 3580,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判武松——是对是错/审判武松——是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判武松——是智慧还是狡猾",
+      "title": "审判武松——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判武松——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 850262,
+      "char_count": 3167,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判武松——是智慧还是狡猾/审判武松——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判汤姆索亚",
+      "title": "审判汤姆索亚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判汤姆索亚",
+      "level": "",
+      "duration_ms": 648056,
+      "char_count": 2448,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判汤姆索亚/审判汤姆索亚.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判汤姆索亚：装死骗姨妈对吗",
+      "title": "审判汤姆索亚：装死骗姨妈对吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判汤姆索亚：装死骗姨妈对吗",
+      "level": "L5",
+      "duration_ms": 603524,
+      "char_count": 2305,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判汤姆索亚：装死骗姨妈对吗/审判汤姆索亚：装死骗姨妈对吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判汤姆索亚：该赞扬还是批评",
+      "title": "审判汤姆索亚：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判汤姆索亚：该赞扬还是批评",
+      "level": "L5",
+      "duration_ms": 636197,
+      "char_count": 2450,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判汤姆索亚：该赞扬还是批评/审判汤姆索亚：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判沙僧·是英雄还是反派",
+      "title": "审判沙僧·是英雄还是反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判沙僧·是英雄还是反派",
+      "level": "",
+      "duration_ms": 690878,
+      "char_count": 2638,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判沙僧·是英雄还是反派/审判沙僧·是英雄还是反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判沙僧：是勇敢还是鲁莽",
+      "title": "审判沙僧：是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判沙僧：是勇敢还是鲁莽",
+      "level": "L5",
+      "duration_ms": 601661,
+      "char_count": 2338,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判沙僧：是勇敢还是鲁莽/审判沙僧：是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判沙僧：有功还是有过",
+      "title": "审判沙僧：有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判沙僧：有功还是有过",
+      "level": "L5",
+      "duration_ms": 658017,
+      "char_count": 2502,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判沙僧：有功还是有过/审判沙僧：有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判波塞冬：是对是错",
+      "title": "审判波塞冬：是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判波塞冬：是对是错",
+      "level": "",
+      "duration_ms": 862123,
+      "char_count": 3302,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判波塞冬：是对是错/审判波塞冬：是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判波塞冬：有功还是有过",
+      "title": "审判波塞冬：有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判波塞冬：有功还是有过",
+      "level": "L5",
+      "duration_ms": 892091,
+      "char_count": 3467,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判波塞冬：有功还是有过/审判波塞冬：有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判洛基——是勇敢还是鲁莽",
+      "title": "审判洛基——是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判洛基——是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 886052,
+      "char_count": 3396,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判洛基——是勇敢还是鲁莽/审判洛基——是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判洛基——是智慧还是狡猾",
+      "title": "审判洛基——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判洛基——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 627726,
+      "char_count": 2378,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判洛基——是智慧还是狡猾/审判洛基——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判洛基：是英雄还是反派",
+      "title": "审判洛基：是英雄还是反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判洛基：是英雄还是反派",
+      "level": "L5",
+      "duration_ms": 713592,
+      "char_count": 2731,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判洛基：是英雄还是反派/审判洛基：是英雄还是反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判洛基：有功还是有过",
+      "title": "审判洛基：有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判洛基：有功还是有过",
+      "level": "L5",
+      "duration_ms": 809165,
+      "char_count": 3095,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判洛基：有功还是有过/审判洛基：有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判海的女儿姐姐们",
+      "title": "审判海的女儿姐姐们",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判海的女儿姐姐们",
+      "level": "",
+      "duration_ms": 742845,
+      "char_count": 2818,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判海的女儿姐姐们/审判海的女儿姐姐们.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判潘多拉：打开盒子是谁的错",
+      "title": "审判潘多拉：打开盒子是谁的错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判潘多拉：打开盒子是谁的错",
+      "level": "L5",
+      "duration_ms": 893124,
+      "char_count": 3365,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判潘多拉：打开盒子是谁的错/审判潘多拉：打开盒子是谁的错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判潘多拉：是对是错",
+      "title": "审判潘多拉：是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判潘多拉：是对是错",
+      "level": "L5",
+      "duration_ms": 590130,
+      "char_count": 2226,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判潘多拉：是对是错/审判潘多拉：是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判灰姑娘",
+      "title": "审判灰姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判灰姑娘",
+      "level": "",
+      "duration_ms": 850683,
+      "char_count": 3157,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判灰姑娘/审判灰姑娘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判灰姑娘后妈：偏心是错还是自我保护",
+      "title": "审判灰姑娘后妈：偏心是错还是自我保护",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判灰姑娘后妈：偏心是错还是自我保护",
+      "level": "L5",
+      "duration_ms": 576705,
+      "char_count": 2192,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判灰姑娘后妈：偏心是错还是自我保护/审判灰姑娘后妈：偏心是错还是自我保护.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判爱丽丝",
+      "title": "审判爱丽丝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判爱丽丝",
+      "level": "",
+      "duration_ms": 731238,
+      "char_count": 2800,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判爱丽丝/审判爱丽丝.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判爱丽丝：是英雄还是反派",
+      "title": "审判爱丽丝：是英雄还是反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判爱丽丝：是英雄还是反派",
+      "level": "L5",
+      "duration_ms": 710550,
+      "char_count": 2655,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判爱丽丝：是英雄还是反派/审判爱丽丝：是英雄还是反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判牙仙：偷牙齿是什么罪",
+      "title": "审判牙仙：偷牙齿是什么罪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判牙仙：偷牙齿是什么罪",
+      "level": "L5",
+      "duration_ms": 701056,
+      "char_count": 2676,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判牙仙：偷牙齿是什么罪/审判牙仙：偷牙齿是什么罪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判牛郎·是对是错",
+      "title": "审判牛郎·是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判牛郎·是对是错",
+      "level": "",
+      "duration_ms": 811695,
+      "char_count": 3065,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判牛郎·是对是错/审判牛郎·是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判牛郎——是智慧还是狡猾",
+      "title": "审判牛郎——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判牛郎——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 870768,
+      "char_count": 3333,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判牛郎——是智慧还是狡猾/审判牛郎——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判牛郎：偷衣服是对是错",
+      "title": "审判牛郎：偷衣服是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判牛郎：偷衣服是对是错",
+      "level": "L5",
+      "duration_ms": 748808,
+      "char_count": 2687,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判牛郎：偷衣服是对是错/审判牛郎：偷衣服是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判猪八戒：好吃懒做该不该开除取经队伍",
+      "title": "审判猪八戒：好吃懒做该不该开除取经队伍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判猪八戒：好吃懒做该不该开除取经队伍",
+      "level": "L5",
+      "duration_ms": 770126,
+      "char_count": 2925,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判猪八戒：好吃懒做该不该开除取经队伍/审判猪八戒：好吃懒做该不该开除取经队伍.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判猪八戒：有功还是有过",
+      "title": "审判猪八戒：有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判猪八戒：有功还是有过",
+      "level": "",
+      "duration_ms": 733835,
+      "char_count": 2881,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判猪八戒：有功还是有过/审判猪八戒：有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判玉皇大帝：为什么不管猴子闹天宫",
+      "title": "审判玉皇大帝：为什么不管猴子闹天宫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判玉皇大帝：为什么不管猴子闹天宫",
+      "level": "L5",
+      "duration_ms": 665592,
+      "char_count": 2558,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判玉皇大帝：为什么不管猴子闹天宫/审判玉皇大帝：为什么不管猴子闹天宫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判王昭君：和亲是光荣还是牺牲",
+      "title": "审判王昭君：和亲是光荣还是牺牲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判王昭君：和亲是光荣还是牺牲",
+      "level": "",
+      "duration_ms": 548699,
+      "char_count": 2153,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判王昭君：和亲是光荣还是牺牲/审判王昭君：和亲是光荣还是牺牲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判王熙凤：精明强干还是机关算尽",
+      "title": "审判王熙凤：精明强干还是机关算尽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判王熙凤：精明强干还是机关算尽",
+      "level": "L5",
+      "duration_ms": 1064870,
+      "char_count": 4069,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判王熙凤：精明强干还是机关算尽/审判王熙凤：精明强干还是机关算尽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判王羲之——是智慧还是狡猾",
+      "title": "审判王羲之——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判王羲之——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 499023,
+      "char_count": 1937,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判王羲之——是智慧还是狡猾/审判王羲之——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判白素贞",
+      "title": "审判白素贞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判白素贞",
+      "level": "",
+      "duration_ms": 735126,
+      "char_count": 2817,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判白素贞/审判白素贞.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判白雪公主：是勇敢还是鲁莽",
+      "title": "审判白雪公主：是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判白雪公主：是勇敢还是鲁莽",
+      "level": "L5",
+      "duration_ms": 778512,
+      "char_count": 2950,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判白雪公主：是勇敢还是鲁莽/审判白雪公主：是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判白雪公主：是智慧还是狡猾",
+      "title": "审判白雪公主：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判白雪公主：是智慧还是狡猾",
+      "level": "L5",
+      "duration_ms": 919376,
+      "char_count": 3516,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判白雪公主：是智慧还是狡猾/审判白雪公主：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判白骨精：吃唐僧是她的错吗",
+      "title": "审判白骨精：吃唐僧是她的错吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判白骨精：吃唐僧是她的错吗",
+      "level": "L5",
+      "duration_ms": 621983,
+      "char_count": 2377,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判白骨精：吃唐僧是她的错吗/审判白骨精：吃唐僧是她的错吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判盘古",
+      "title": "审判盘古",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判盘古",
+      "level": "",
+      "duration_ms": 865162,
+      "char_count": 3300,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判盘古/审判盘古.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判盘古——是勇敢还是鲁莽",
+      "title": "审判盘古——是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判盘古——是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 1023551,
+      "char_count": 3912,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判盘古——是勇敢还是鲁莽/审判盘古——是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判睡美人·有功还是有过",
+      "title": "审判睡美人·有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判睡美人·有功还是有过",
+      "level": "",
+      "duration_ms": 813807,
+      "char_count": 3116,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判睡美人·有功还是有过/审判睡美人·有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判睡美人：是英雄还是反派",
+      "title": "审判睡美人：是英雄还是反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判睡美人：是英雄还是反派",
+      "level": "",
+      "duration_ms": 707091,
+      "char_count": 2712,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判睡美人：是英雄还是反派/审判睡美人：是英雄还是反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判神农——是勇敢还是鲁莽",
+      "title": "审判神农——是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判神农——是勇敢还是鲁莽",
+      "level": "",
+      "duration_ms": 750702,
+      "char_count": 2889,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判神农——是勇敢还是鲁莽/审判神农——是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判祢衡：脱衣骂曹是言论自由还是公开侮辱",
+      "title": "审判祢衡：脱衣骂曹是言论自由还是公开侮辱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判祢衡：脱衣骂曹是言论自由还是公开侮辱",
+      "level": "L5",
+      "duration_ms": 797448,
+      "char_count": 3026,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判祢衡：脱衣骂曹是言论自由还是公开侮辱/审判祢衡：脱衣骂曹是言论自由还是公开侮辱.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判秦始皇",
+      "title": "审判秦始皇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判秦始皇",
+      "level": "",
+      "duration_ms": 699234,
+      "char_count": 2704,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判秦始皇/审判秦始皇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判秦桧：卖国贼还是卧底",
+      "title": "审判秦桧：卖国贼还是卧底",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判秦桧：卖国贼还是卧底",
+      "level": "L5",
+      "duration_ms": 502909,
+      "char_count": 1958,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判秦桧：卖国贼还是卧底/审判秦桧：卖国贼还是卧底.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判穿靴子的猫：欺骗国王是什么罪",
+      "title": "审判穿靴子的猫：欺骗国王是什么罪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判穿靴子的猫：欺骗国王是什么罪",
+      "level": "L5",
+      "duration_ms": 638632,
+      "char_count": 2410,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判穿靴子的猫：欺骗国王是什么罪/审判穿靴子的猫：欺骗国王是什么罪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判精卫",
+      "title": "审判精卫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判精卫",
+      "level": "",
+      "duration_ms": 870806,
+      "char_count": 3351,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判精卫/审判精卫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判精卫：是对是错",
+      "title": "审判精卫：是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判精卫：是对是错",
+      "level": "L5",
+      "duration_ms": 786655,
+      "char_count": 3027,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判精卫：是对是错/审判精卫：是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判精灵女王：给弗罗多礼物是帮助还是收买",
+      "title": "审判精灵女王：给弗罗多礼物是帮助还是收买",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判精灵女王：给弗罗多礼物是帮助还是收买",
+      "level": "L5",
+      "duration_ms": 508417,
+      "char_count": 1916,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判精灵女王：给弗罗多礼物是帮助还是收买/审判精灵女王：给弗罗多礼物是帮助还是收买.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判红孩儿",
+      "title": "审判红孩儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判红孩儿",
+      "level": "",
+      "duration_ms": 653023,
+      "char_count": 2483,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判红孩儿/审判红孩儿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判绿野仙踪奥兹大法师：你是骗子吗",
+      "title": "审判绿野仙踪奥兹大法师：你是骗子吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判绿野仙踪奥兹大法师：你是骗子吗",
+      "level": "L5",
+      "duration_ms": 618054,
+      "char_count": 2310,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判绿野仙踪奥兹大法师：你是骗子吗/审判绿野仙踪奥兹大法师：你是骗子吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判罗宾汉——是对是错",
+      "title": "审判罗宾汉——是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判罗宾汉——是对是错",
+      "level": "",
+      "duration_ms": 962834,
+      "char_count": 3671,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判罗宾汉——是对是错/审判罗宾汉——是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判罗宾汉：劫富济贫是正义还是抢劫？",
+      "title": "审判罗宾汉：劫富济贫是正义还是抢劫？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判罗宾汉：劫富济贫是正义还是抢劫？",
+      "level": "L5",
+      "duration_ms": 720193,
+      "char_count": 2751,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判罗宾汉：劫富济贫是正义还是抢劫？/审判罗宾汉：劫富济贫是正义还是抢劫？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判胡克船长：复仇有错吗",
+      "title": "审判胡克船长：复仇有错吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判胡克船长：复仇有错吗",
+      "level": "L5",
+      "duration_ms": 687298,
+      "char_count": 2633,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判胡克船长：复仇有错吗/审判胡克船长：复仇有错吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判胡桃夹子——该赞扬还是批评",
+      "title": "审判胡桃夹子——该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判胡桃夹子——该赞扬还是批评",
+      "level": "",
+      "duration_ms": 940658,
+      "char_count": 3571,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判胡桃夹子——该赞扬还是批评/审判胡桃夹子——该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判胡桃夹子：是勇敢还是鲁莽",
+      "title": "审判胡桃夹子：是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判胡桃夹子：是勇敢还是鲁莽",
+      "level": "L5",
+      "duration_ms": 573486,
+      "char_count": 2222,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判胡桃夹子：是勇敢还是鲁莽/审判胡桃夹子：是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判芬里尔",
+      "title": "审判芬里尔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判芬里尔",
+      "level": "",
+      "duration_ms": 628485,
+      "char_count": 2388,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判芬里尔/审判芬里尔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判芬里尔：该赞扬还是批评",
+      "title": "审判芬里尔：该赞扬还是批评",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判芬里尔：该赞扬还是批评",
+      "level": "L5",
+      "duration_ms": 705411,
+      "char_count": 2708,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判芬里尔：该赞扬还是批评/审判芬里尔：该赞扬还是批评.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判花木兰：是智慧还是狡猾",
+      "title": "审判花木兰：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判花木兰：是智慧还是狡猾",
+      "level": "L5",
+      "duration_ms": 870229,
+      "char_count": 3370,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判花木兰：是智慧还是狡猾/审判花木兰：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判范增：为什么离开项羽",
+      "title": "审判范增：为什么离开项羽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判范增：为什么离开项羽",
+      "level": "L5",
+      "duration_ms": 619446,
+      "char_count": 2393,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判范增：为什么离开项羽/审判范增：为什么离开项羽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判荆轲",
+      "title": "审判荆轲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判荆轲",
+      "level": "",
+      "duration_ms": 715343,
+      "char_count": 2755,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判荆轲/审判荆轲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判荆轲——有功还是有过",
+      "title": "审判荆轲——有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判荆轲——有功还是有过",
+      "level": "",
+      "duration_ms": 612121,
+      "char_count": 2319,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判荆轲——有功还是有过/审判荆轲——有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判莴苣姑娘的巫婆：把孩子锁塔里是抚养还是囚禁",
+      "title": "审判莴苣姑娘的巫婆：把孩子锁塔里是抚养还是囚禁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判莴苣姑娘的巫婆：把孩子锁塔里是抚养还是囚禁",
+      "level": "L5",
+      "duration_ms": 972982,
+      "char_count": 3745,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判莴苣姑娘的巫婆：把孩子锁塔里是抚养还是囚禁/审判莴苣姑娘的巫婆：把孩子锁塔里是抚养还是囚禁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判蓝胡子：杀妻是事实还是冤枉",
+      "title": "审判蓝胡子：杀妻是事实还是冤枉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判蓝胡子：杀妻是事实还是冤枉",
+      "level": "L5",
+      "duration_ms": 746221,
+      "char_count": 2808,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判蓝胡子：杀妻是事实还是冤枉/审判蓝胡子：杀妻是事实还是冤枉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判薛宝钗：金玉良缘是巧合还是心机",
+      "title": "审判薛宝钗：金玉良缘是巧合还是心机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判薛宝钗：金玉良缘是巧合还是心机",
+      "level": "L5",
+      "duration_ms": 864301,
+      "char_count": 3273,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判薛宝钗：金玉良缘是巧合还是心机/审判薛宝钗：金玉良缘是巧合还是心机.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判蜘蛛精：开寺庙收门票是诈骗吗",
+      "title": "审判蜘蛛精：开寺庙收门票是诈骗吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判蜘蛛精：开寺庙收门票是诈骗吗",
+      "level": "L5",
+      "duration_ms": 627946,
+      "char_count": 2412,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判蜘蛛精：开寺庙收门票是诈骗吗/审判蜘蛛精：开寺庙收门票是诈骗吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判蝎子精：扎如来是正当防卫吗",
+      "title": "审判蝎子精：扎如来是正当防卫吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判蝎子精：扎如来是正当防卫吗",
+      "level": "L5",
+      "duration_ms": 681126,
+      "char_count": 2565,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判蝎子精：扎如来是正当防卫吗/审判蝎子精：扎如来是正当防卫吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判西西弗斯——是对是错",
+      "title": "审判西西弗斯——是对是错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判西西弗斯——是对是错",
+      "level": "",
+      "duration_ms": 992447,
+      "char_count": 3807,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判西西弗斯——是对是错/审判西西弗斯——是对是错.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判西西弗斯：推石头有意义吗",
+      "title": "审判西西弗斯：推石头有意义吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判西西弗斯：推石头有意义吗",
+      "level": "L5",
+      "duration_ms": 822235,
+      "char_count": 3160,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判西西弗斯：推石头有意义吗/审判西西弗斯：推石头有意义吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判许仙",
+      "title": "审判许仙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判许仙",
+      "level": "",
+      "duration_ms": 1047218,
+      "char_count": 3984,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判许仙/审判许仙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判许仙：懦夫还是凡人",
+      "title": "审判许仙：懦夫还是凡人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判许仙：懦夫还是凡人",
+      "level": "L5",
+      "duration_ms": 711808,
+      "char_count": 2715,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判许仙：懦夫还是凡人/审判许仙：懦夫还是凡人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判诸葛亮",
+      "title": "审判诸葛亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判诸葛亮",
+      "level": "",
+      "duration_ms": 875087,
+      "char_count": 3369,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判诸葛亮/审判诸葛亮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判诸葛亮——英雄还是反派？",
+      "title": "审判诸葛亮——英雄还是反派？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判诸葛亮——英雄还是反派？",
+      "level": "",
+      "duration_ms": 599307,
+      "char_count": 2328,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判诸葛亮——英雄还是反派？/审判诸葛亮——英雄还是反派？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判诸葛亮：挥泪斩马谡",
+      "title": "审判诸葛亮：挥泪斩马谡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判诸葛亮：挥泪斩马谡",
+      "level": "L5",
+      "duration_ms": 595668,
+      "char_count": 2285,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判诸葛亮：挥泪斩马谡/审判诸葛亮：挥泪斩马谡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判贾宝玉：出家是不孝还是觉悟",
+      "title": "审判贾宝玉：出家是不孝还是觉悟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判贾宝玉：出家是不孝还是觉悟",
+      "level": "L5",
+      "duration_ms": 697662,
+      "char_count": 2612,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判贾宝玉：出家是不孝还是觉悟/审判贾宝玉：出家是不孝还是觉悟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判赫拉克勒斯：十二试炼是惩罚还是证明",
+      "title": "审判赫拉克勒斯：十二试炼是惩罚还是证明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判赫拉克勒斯：十二试炼是惩罚还是证明",
+      "level": "L5",
+      "duration_ms": 747126,
+      "char_count": 2830,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判赫拉克勒斯：十二试炼是惩罚还是证明/审判赫拉克勒斯：十二试炼是惩罚还是证明.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判赫拉克勒斯：是智慧还是狡猾",
+      "title": "审判赫拉克勒斯：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判赫拉克勒斯：是智慧还是狡猾",
+      "level": "L5",
+      "duration_ms": 794198,
+      "char_count": 3005,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判赫拉克勒斯：是智慧还是狡猾/审判赫拉克勒斯：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判赵括：纸上谈兵还是替身赴死",
+      "title": "审判赵括：纸上谈兵还是替身赴死",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判赵括：纸上谈兵还是替身赴死",
+      "level": "L5",
+      "duration_ms": 514489,
+      "char_count": 1945,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判赵括：纸上谈兵还是替身赴死/审判赵括：纸上谈兵还是替身赴死.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判郑和",
+      "title": "审判郑和",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判郑和",
+      "level": "",
+      "duration_ms": 783378,
+      "char_count": 2997,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判郑和/审判郑和.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判野兽：把爸爸关起来绑架罪",
+      "title": "审判野兽：把爸爸关起来绑架罪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判野兽：把爸爸关起来绑架罪",
+      "level": "L5",
+      "duration_ms": 559588,
+      "char_count": 2125,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判野兽：把爸爸关起来绑架罪/审判野兽：把爸爸关起来绑架罪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判野天鹅：是智慧还是狡猾",
+      "title": "审判野天鹅：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判野天鹅：是智慧还是狡猾",
+      "level": "L5",
+      "duration_ms": 648878,
+      "char_count": 2379,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判野天鹅：是智慧还是狡猾/审判野天鹅：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判野天鹅：爱能打破沉默吗？",
+      "title": "审判野天鹅：爱能打破沉默吗？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判野天鹅：爱能打破沉默吗？",
+      "level": "L5",
+      "duration_ms": 788663,
+      "char_count": 3045,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判野天鹅：爱能打破沉默吗？/审判野天鹅：爱能打破沉默吗？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判长袜子皮皮",
+      "title": "审判长袜子皮皮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判长袜子皮皮",
+      "level": "",
+      "duration_ms": 514055,
+      "char_count": 1948,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判长袜子皮皮/审判长袜子皮皮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判长袜子皮皮——是智慧还是狡猾",
+      "title": "审判长袜子皮皮——是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判长袜子皮皮——是智慧还是狡猾",
+      "level": "",
+      "duration_ms": 874977,
+      "char_count": 3278,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判长袜子皮皮——是智慧还是狡猾/审判长袜子皮皮——是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判阎王：乱勾生死簿谁管",
+      "title": "审判阎王：乱勾生死簿谁管",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判阎王：乱勾生死簿谁管",
+      "level": "L5",
+      "duration_ms": 720446,
+      "char_count": 2691,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判阎王：乱勾生死簿谁管/审判阎王：乱勾生死簿谁管.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判阿喀琉斯：是勇敢还是鲁莽",
+      "title": "审判阿喀琉斯：是勇敢还是鲁莽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判阿喀琉斯：是勇敢还是鲁莽",
+      "level": "L5",
+      "duration_ms": 677950,
+      "char_count": 2640,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判阿喀琉斯：是勇敢还是鲁莽/审判阿喀琉斯：是勇敢还是鲁莽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判阿喀琉斯：脚踝弱点该不该藏",
+      "title": "审判阿喀琉斯：脚踝弱点该不该藏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判阿喀琉斯：脚踝弱点该不该藏",
+      "level": "L5",
+      "duration_ms": 696834,
+      "char_count": 2647,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判阿喀琉斯：脚踝弱点该不该藏/审判阿喀琉斯：脚踝弱点该不该藏.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判阿拉丁，是智慧还是狡猾？",
+      "title": "审判阿拉丁，是智慧还是狡猾？",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判阿拉丁，是智慧还是狡猾？",
+      "level": "",
+      "duration_ms": 1132046,
+      "char_count": 4396,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判阿拉丁，是智慧还是狡猾？/审判阿拉丁，是智慧还是狡猾？.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判阿拉丁：用神灯算作弊吗",
+      "title": "审判阿拉丁：用神灯算作弊吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判阿拉丁：用神灯算作弊吗",
+      "level": "L5",
+      "duration_ms": 728838,
+      "char_count": 2760,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判阿拉丁：用神灯算作弊吗/审判阿拉丁：用神灯算作弊吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判阿波罗——是英雄还是反派",
+      "title": "审判阿波罗——是英雄还是反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判阿波罗——是英雄还是反派",
+      "level": "",
+      "duration_ms": 770089,
+      "char_count": 2946,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判阿波罗——是英雄还是反派/审判阿波罗——是英雄还是反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判阿里巴巴——有功还是有过",
+      "title": "审判阿里巴巴——有功还是有过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判阿里巴巴——有功还是有过",
+      "level": "",
+      "duration_ms": 1178717,
+      "char_count": 4454,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判阿里巴巴——有功还是有过/审判阿里巴巴——有功还是有过.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判陈宫：为什么不降曹操",
+      "title": "审判陈宫：为什么不降曹操",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判陈宫：为什么不降曹操",
+      "level": "L5",
+      "duration_ms": 614236,
+      "char_count": 2314,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判陈宫：为什么不降曹操/审判陈宫：为什么不降曹操.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判项羽：为什么不渡乌江",
+      "title": "审判项羽：为什么不渡乌江",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判项羽：为什么不渡乌江",
+      "level": "L5",
+      "duration_ms": 670516,
+      "char_count": 2518,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判项羽：为什么不渡乌江/审判项羽：为什么不渡乌江.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判马谡：街亭之败他一个人的错吗",
+      "title": "审判马谡：街亭之败他一个人的错吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判马谡：街亭之败他一个人的错吗",
+      "level": "L5",
+      "duration_ms": 702875,
+      "char_count": 2670,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判马谡：街亭之败他一个人的错吗/审判马谡：街亭之败他一个人的错吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判魏延：真反骨还是被冤枉",
+      "title": "审判魏延：真反骨还是被冤枉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判魏延：真反骨还是被冤枉",
+      "level": "L5",
+      "duration_ms": 524381,
+      "char_count": 1993,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判魏延：真反骨还是被冤枉/审判魏延：真反骨还是被冤枉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判鲁滨逊",
+      "title": "审判鲁滨逊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判鲁滨逊",
+      "level": "",
+      "duration_ms": 910940,
+      "char_count": 3464,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判鲁滨逊/审判鲁滨逊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判鲁滨逊：星期五是你奴隶还是朋友",
+      "title": "审判鲁滨逊：星期五是你奴隶还是朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判鲁滨逊：星期五是你奴隶还是朋友",
+      "level": "L5",
+      "duration_ms": 646238,
+      "char_count": 2475,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判鲁滨逊：星期五是你奴隶还是朋友/审判鲁滨逊：星期五是你奴隶还是朋友.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判鲁滨逊：是智慧还是狡猾",
+      "title": "审判鲁滨逊：是智慧还是狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判鲁滨逊：是智慧还是狡猾",
+      "level": "L5",
+      "duration_ms": 690018,
+      "char_count": 2592,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判鲁滨逊：是智慧还是狡猾/审判鲁滨逊：是智慧还是狡猾.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判鲁班",
+      "title": "审判鲁班",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判鲁班",
+      "level": "",
+      "duration_ms": 996587,
+      "char_count": 3823,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判鲁班/审判鲁班.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判黄袍怪：为爱下凡是错吗",
+      "title": "审判黄袍怪：为爱下凡是错吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判黄袍怪：为爱下凡是错吗",
+      "level": "L5",
+      "duration_ms": 694339,
+      "char_count": 2695,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判黄袍怪：为爱下凡是错吗/审判黄袍怪：为爱下凡是错吗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "审判龙王：下雨是权利还是义务",
+      "title": "审判龙王：下雨是权利还是义务",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/审判龙王：下雨是权利还是义务",
+      "level": "L5",
+      "duration_ms": 753020,
+      "char_count": 2907,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/审判龙王：下雨是权利还是义务/审判龙王：下雨是权利还是义务.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "波塞冬的智慧之浪",
+      "title": "波塞冬的智慧之浪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/波塞冬的智慧之浪",
+      "level": "",
+      "duration_ms": 599272,
+      "char_count": 2280,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/波塞冬的智慧之浪/波塞冬的智慧之浪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "秦始皇的功过天平",
+      "title": "秦始皇的功过天平",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/秦始皇的功过天平",
+      "level": "",
+      "duration_ms": 563450,
+      "char_count": 2142,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/秦始皇的功过天平/秦始皇的功过天平.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "童话翻案",
+      "title": "童话翻案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/童话翻案",
+      "level": "",
+      "duration_ms": 1306042,
+      "char_count": 4981,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/童话翻案/童话翻案.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "莉迪亚的美貌审判",
+      "title": "莉迪亚的美貌审判",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/莉迪亚的美貌审判",
+      "level": "",
+      "duration_ms": 522275,
+      "char_count": 2003,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/莉迪亚的美貌审判/莉迪亚的美貌审判.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "西游重审",
+      "title": "西游重审",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/西游重审",
+      "level": "",
+      "duration_ms": 1021758,
+      "char_count": 3889,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/西游重审/西游重审.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鲁班的智慧与狡猾",
+      "title": "鲁班的智慧与狡猾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/故事审判庭/鲁班的智慧与狡猾",
+      "level": "",
+      "duration_ms": 861682,
+      "char_count": 3272,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/故事审判庭/鲁班的智慧与狡猾/鲁班的智慧与狡猾.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

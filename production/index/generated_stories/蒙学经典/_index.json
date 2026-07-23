@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "index_type": "subject_index",
+  "subject_id": "蒙学经典",
+  "subject_name": "蒙学经典",
+  "cover": {
+    "cover_image_url": "covers/generated/蒙学经典/蒙学经典.webp",
+    "cover_level": "subject"
+  },
+  "category_count": 9,
+  "categories": [
+    {
+      "id": "M1三字经",
+      "name": "M1三字经",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 84,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M1三字经/M1三字经.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "M2百家姓",
+      "name": "M2百家姓",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 72,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M2百家姓/M2百家姓.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "M3千字文",
+      "name": "M3千字文",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 48,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M3千字文/M3千字文.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "M4弟子规",
+      "name": "M4弟子规",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 41,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M4弟子规/M4弟子规.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "M5增广贤文",
+      "name": "M5增广贤文",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 50,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M5增广贤文/M5增广贤文.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "M6声律启蒙",
+      "name": "M6声律启蒙",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 75,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M6声律启蒙/M6声律启蒙.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "M7笠翁对韵",
+      "name": "M7笠翁对韵",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 84,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M7笠翁对韵/M7笠翁对韵.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "M8幼学琼林",
+      "name": "M8幼学琼林",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 30,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M8幼学琼林/M8幼学琼林.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "M9少年中国说",
+      "name": "M9少年中国说",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 1,
+      "cover": {
+        "cover_image_url": "covers/generated/蒙学经典/M9少年中国说/M9少年中国说.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

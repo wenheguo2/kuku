@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "index_type": "subject_index",
+  "subject_id": "神州之外",
+  "subject_name": "神州之外",
+  "cover": {
+    "cover_image_url": "covers/generated/神州之外/神州之外.webp",
+    "cover_level": "subject"
+  },
+  "category_count": 9,
+  "categories": [
+    {
+      "id": "K1西方童话",
+      "name": "K1西方童话",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 103,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K1西方童话/K1西方童话.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "K2经典寓言",
+      "name": "K2经典寓言",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 94,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K2经典寓言/K2经典寓言.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "K3神话传说",
+      "name": "K3神话传说",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 139,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/K3神话传说.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "K4儿童文学",
+      "name": "K4儿童文学",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 43,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/K4儿童文学.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "K5科幻幻想",
+      "name": "K5科幻幻想",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 26,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/K5科幻幻想.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "K6探险传奇",
+      "name": "K6探险传奇",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 46,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/K6探险传奇.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "K7国外历史故事",
+      "name": "K7国外历史故事",
+      "structure_type": "chaptered_work",
+      "display_as": "chaptered_card",
+      "entry_count": 11,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K7国外历史故事/K7国外历史故事.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "K8世界名人传记",
+      "name": "K8世界名人传记",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 39,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K8世界名人传记/K8世界名人传记.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "K9世界各国节日",
+      "name": "K9世界各国节日",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 53,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K9世界各国节日/K9世界各国节日.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

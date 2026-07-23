@@ -1,0 +1,1961 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "神州之外/K3神话传说",
+  "name": "K3神话传说",
+  "cover": {
+    "cover_image_url": "covers/generated/神州之外/K3神话传说/K3神话传说.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 139,
+  "entries": [
+    {
+      "entry_id": "一寸法师",
+      "title": "一寸法师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/一寸法师",
+      "level": "L5",
+      "duration_ms": 1073014,
+      "char_count": 4053,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/一寸法师/一寸法师.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三姐妹峰",
+      "title": "三姐妹峰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/三姐妹峰",
+      "level": "L5",
+      "duration_ms": 982729,
+      "char_count": 3655,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/三姐妹峰/三姐妹峰.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "世界树尤克特拉希尔",
+      "title": "世界树尤克特拉希尔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/世界树尤克特拉希尔",
+      "level": "L6",
+      "duration_ms": 1346016,
+      "char_count": 5685,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/世界树尤克特拉希尔/世界树尤克特拉希尔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "乌鲁鲁的巨人",
+      "title": "乌鲁鲁的巨人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/乌鲁鲁的巨人",
+      "level": "L6",
+      "duration_ms": 810230,
+      "char_count": 3506,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/乌鲁鲁的巨人/乌鲁鲁的巨人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "乌鸦偷日",
+      "title": "乌鸦偷日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/乌鸦偷日",
+      "level": "L5",
+      "duration_ms": 1035619,
+      "char_count": 3853,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/乌鸦偷日/乌鸦偷日.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "九尾狐",
+      "title": "九尾狐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/九尾狐",
+      "level": "L5",
+      "duration_ms": 1249266,
+      "char_count": 4728,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/九尾狐/九尾狐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "亚库玛玛",
+      "title": "亚库玛玛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/亚库玛玛",
+      "level": "L6",
+      "duration_ms": 1042729,
+      "char_count": 4517,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/亚库玛玛/亚库玛玛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "亚瑟王",
+      "title": "亚瑟王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/亚瑟王",
+      "level": "L5",
+      "duration_ms": 2192001,
+      "char_count": 8143,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/亚瑟王/亚瑟王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "代代科尔库特",
+      "title": "代代科尔库特",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/代代科尔库特",
+      "level": "L6",
+      "duration_ms": 858845,
+      "char_count": 3623,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/代代科尔库特/代代科尔库特.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "代达罗斯",
+      "title": "代达罗斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/代达罗斯",
+      "level": "L5",
+      "duration_ms": 1208689,
+      "char_count": 4377,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/代达罗斯/代达罗斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "伊卡洛斯",
+      "title": "伊卡洛斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/伊卡洛斯",
+      "level": "L5",
+      "duration_ms": 1175298,
+      "char_count": 4550,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/伊卡洛斯/伊卡洛斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "伊瓜苏瀑布传说",
+      "title": "伊瓜苏瀑布传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/伊瓜苏瀑布传说",
+      "level": "L5",
+      "duration_ms": 1369396,
+      "char_count": 5141,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/伊瓜苏瀑布传说/伊瓜苏瀑布传说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "伊阿宋与金羊毛",
+      "title": "伊阿宋与金羊毛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/伊阿宋与金羊毛",
+      "level": "L6",
+      "duration_ms": 1281158,
+      "char_count": 5656,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/伊阿宋与金羊毛/伊阿宋与金羊毛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "佩蕾火山女神",
+      "title": "佩蕾火山女神",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/佩蕾火山女神",
+      "level": "L5",
+      "duration_ms": 1025302,
+      "char_count": 3671,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/佩蕾火山女神/佩蕾火山女神.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "俄耳甫斯与欧律狄刻",
+      "title": "俄耳甫斯与欧律狄刻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/俄耳甫斯与欧律狄刻",
+      "level": "L5",
+      "duration_ms": 1063835,
+      "char_count": 3991,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/俄耳甫斯与欧律狄刻/俄耳甫斯与欧律狄刻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "克里希纳偷黄油",
+      "title": "克里希纳偷黄油",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/克里希纳偷黄油",
+      "level": "L6",
+      "duration_ms": 945844,
+      "char_count": 4077,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/克里希纳偷黄油/克里希纳偷黄油.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "兰斯洛特与桂妮薇",
+      "title": "兰斯洛特与桂妮薇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/兰斯洛特与桂妮薇",
+      "level": "L6",
+      "duration_ms": 864778,
+      "char_count": 3554,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/兰斯洛特与桂妮薇/兰斯洛特与桂妮薇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "凯尔派",
+      "title": "凯尔派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/凯尔派",
+      "level": "L5",
+      "duration_ms": 1163947,
+      "char_count": 4383,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/凯尔派/凯尔派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "加鲁达与那伽",
+      "title": "加鲁达与那伽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/加鲁达与那伽",
+      "level": "L5",
+      "duration_ms": 1052911,
+      "char_count": 4050,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/加鲁达与那伽/加鲁达与那伽.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "南海女王",
+      "title": "南海女王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/南海女王",
+      "level": "L6",
+      "duration_ms": 1263040,
+      "char_count": 5327,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/南海女王/南海女王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "厄科与那喀索斯",
+      "title": "厄科与那喀索斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/厄科与那喀索斯",
+      "level": "L5",
+      "duration_ms": 1074949,
+      "char_count": 4133,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/厄科与那喀索斯/厄科与那喀索斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "双胞胎英雄",
+      "title": "双胞胎英雄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/双胞胎英雄",
+      "level": "L6",
+      "duration_ms": 948840,
+      "char_count": 3979,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/双胞胎英雄/双胞胎英雄.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "哈奴曼",
+      "title": "哈奴曼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/哈奴曼",
+      "level": "L6",
+      "duration_ms": 1120877,
+      "char_count": 4796,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/哈奴曼/哈奴曼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "喀迈拉之死",
+      "title": "喀迈拉之死",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/喀迈拉之死",
+      "level": "L6",
+      "duration_ms": 1082447,
+      "char_count": 4495,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/喀迈拉之死/喀迈拉之死.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "圆桌骑士",
+      "title": "圆桌骑士",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/圆桌骑士",
+      "level": "L6",
+      "duration_ms": 988018,
+      "char_count": 4174,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/圆桌骑士/圆桌骑士.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "圣杯",
+      "title": "圣杯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/圣杯",
+      "level": "L6",
+      "duration_ms": 1048913,
+      "char_count": 4429,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/圣杯/圣杯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "塔法基攀天梯",
+      "title": "塔法基攀天梯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/塔法基攀天梯",
+      "level": "L6",
+      "duration_ms": 1148447,
+      "char_count": 4827,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/塔法基攀天梯/塔法基攀天梯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "塞尔基",
+      "title": "塞尔基",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/塞尔基",
+      "level": "L6",
+      "duration_ms": 1012875,
+      "char_count": 4417,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/塞尔基/塞尔基.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "天女的故事",
+      "title": "天女的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/天女的故事",
+      "level": "L5",
+      "duration_ms": 1136685,
+      "char_count": 4391,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/天女的故事/天女的故事.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "天狗",
+      "title": "天狗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/天狗",
+      "level": "L6",
+      "duration_ms": 936130,
+      "char_count": 4053,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/天狗/天狗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奥丁",
+      "title": "奥丁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/奥丁",
+      "level": "L6",
+      "duration_ms": 1471579,
+      "char_count": 6229,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/奥丁/奥丁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奥德修斯",
+      "title": "奥德修斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/奥德修斯",
+      "level": "L5",
+      "duration_ms": 1572277,
+      "char_count": 5776,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/奥德修斯/奥德修斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "奥西里斯与伊西斯",
+      "title": "奥西里斯与伊西斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/奥西里斯与伊西斯",
+      "level": "L5",
+      "duration_ms": 1484089,
+      "char_count": 5716,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/奥西里斯与伊西斯/奥西里斯与伊西斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "姆温多史诗",
+      "title": "姆温多史诗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/姆温多史诗",
+      "level": "L5",
+      "duration_ms": 1356900,
+      "char_count": 5183,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/姆温多史诗/姆温多史诗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "娜迦与湄公河",
+      "title": "娜迦与湄公河",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/娜迦与湄公河",
+      "level": "L5",
+      "duration_ms": 948914,
+      "char_count": 3712,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/娜迦与湄公河/娜迦与湄公河.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宙斯",
+      "title": "宙斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/宙斯",
+      "level": "L6",
+      "duration_ms": 1491444,
+      "char_count": 6200,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/宙斯/宙斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "山精水精",
+      "title": "山精水精",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/山精水精",
+      "level": "L6",
+      "duration_ms": 1066864,
+      "char_count": 4581,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/山精水精/山精水精.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "巴库纳瓦吞月",
+      "title": "巴库纳瓦吞月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/巴库纳瓦吞月",
+      "level": "L5",
+      "duration_ms": 1040768,
+      "char_count": 3867,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/巴库纳瓦吞月/巴库纳瓦吞月.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "巴德尔的梦",
+      "title": "巴德尔的梦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/巴德尔的梦",
+      "level": "L6",
+      "duration_ms": 912769,
+      "char_count": 3965,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/巴德尔的梦/巴德尔的梦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "巴拿巴的祖先",
+      "title": "巴拿巴的祖先",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/巴拿巴的祖先",
+      "level": "L5",
+      "duration_ms": 1202296,
+      "char_count": 4516,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/巴拿巴的祖先/巴拿巴的祖先.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "布兰的航海",
+      "title": "布兰的航海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/布兰的航海",
+      "level": "L6",
+      "duration_ms": 867450,
+      "char_count": 3570,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/布兰的航海/布兰的航海.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "布拉格魔像",
+      "title": "布拉格魔像",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/布拉格魔像",
+      "level": "L5",
+      "duration_ms": 1041157,
+      "char_count": 4027,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/布拉格魔像/布拉格魔像.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "库丘林",
+      "title": "库丘林",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/库丘林",
+      "level": "L6",
+      "duration_ms": 1328248,
+      "char_count": 5901,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/库丘林/库丘林.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "库里皮拉",
+      "title": "库里皮拉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/库里皮拉",
+      "level": "L5",
+      "duration_ms": 1364843,
+      "char_count": 5279,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/库里皮拉/库里皮拉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "座敷童子",
+      "title": "座敷童子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/座敷童子",
+      "level": "L5",
+      "duration_ms": 1114410,
+      "char_count": 4260,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/座敷童子/座敷童子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弗蕾娅",
+      "title": "弗蕾娅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/弗蕾娅",
+      "level": "L6",
+      "duration_ms": 830127,
+      "char_count": 3614,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/弗蕾娅/弗蕾娅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弗雷的神剑",
+      "title": "弗雷的神剑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/弗雷的神剑",
+      "level": "L6",
+      "duration_ms": 956986,
+      "char_count": 4028,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/弗雷的神剑/弗雷的神剑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "弥达斯国王点金术",
+      "title": "弥达斯国王点金术",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/弥达斯国王点金术",
+      "level": "L5",
+      "duration_ms": 1053479,
+      "char_count": 3893,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/弥达斯国王点金术/弥达斯国王点金术.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "彩虹蛇",
+      "title": "彩虹蛇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/彩虹蛇",
+      "level": "L6",
+      "duration_ms": 962844,
+      "char_count": 3946,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/彩虹蛇/彩虹蛇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "彩虹蛇与创世",
+      "title": "彩虹蛇与创世",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/彩虹蛇与创世",
+      "level": "L5",
+      "duration_ms": 1275649,
+      "char_count": 4835,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/彩虹蛇与创世/彩虹蛇与创世.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "得墨忒尔与四季",
+      "title": "得墨忒尔与四季",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/得墨忒尔与四季",
+      "level": "L6",
+      "duration_ms": 1004950,
+      "char_count": 4218,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/得墨忒尔与四季/得墨忒尔与四季.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "忒修斯",
+      "title": "忒修斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/忒修斯",
+      "level": "L6",
+      "duration_ms": 1736731,
+      "char_count": 7352,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/忒修斯/忒修斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "恒河降临",
+      "title": "恒河降临",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/恒河降临",
+      "level": "L5",
+      "duration_ms": 1110697,
+      "char_count": 4174,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/恒河降临/恒河降临.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "托特与文字",
+      "title": "托特与文字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/托特与文字",
+      "level": "L6",
+      "duration_ms": 1108983,
+      "char_count": 4564,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/托特与文字/托特与文字.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拉神",
+      "title": "拉神",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/拉神",
+      "level": "L5",
+      "duration_ms": 1043691,
+      "char_count": 3952,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/拉神/拉神.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "提尔与巨狼",
+      "title": "提尔与巨狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/提尔与巨狼",
+      "level": "L6",
+      "duration_ms": 1039769,
+      "char_count": 4328,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/提尔与巨狼/提尔与巨狼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "提尔纳诺",
+      "title": "提尔纳诺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/提尔纳诺",
+      "level": "L6",
+      "duration_ms": 935370,
+      "char_count": 3900,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/提尔纳诺/提尔纳诺.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "搅拌乳海",
+      "title": "搅拌乳海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/搅拌乳海",
+      "level": "L5",
+      "duration_ms": 1349340,
+      "char_count": 5179,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/搅拌乳海/搅拌乳海.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "斯芬克斯之谜",
+      "title": "斯芬克斯之谜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/斯芬克斯之谜",
+      "level": "L6",
+      "duration_ms": 854021,
+      "char_count": 3513,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/斯芬克斯之谜/斯芬克斯之谜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "普罗米修斯盗火",
+      "title": "普罗米修斯盗火",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/普罗米修斯盗火",
+      "level": "L6",
+      "duration_ms": 1337382,
+      "char_count": 5462,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/普罗米修斯盗火/普罗米修斯盗火.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "月亮公主巴塔拉",
+      "title": "月亮公主巴塔拉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/月亮公主巴塔拉",
+      "level": "L5",
+      "duration_ms": 1243864,
+      "char_count": 4583,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/月亮公主巴塔拉/月亮公主巴塔拉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "朱特和两个哥哥",
+      "title": "朱特和两个哥哥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/朱特和两个哥哥",
+      "level": "L6",
+      "duration_ms": 826809,
+      "char_count": 3515,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/朱特和两个哥哥/朱特和两个哥哥.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "格斯尔汗",
+      "title": "格斯尔汗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/格斯尔汗",
+      "level": "L6",
+      "duration_ms": 937846,
+      "char_count": 3992,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/格斯尔汗/格斯尔汗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "桃太郎",
+      "title": "桃太郎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/桃太郎",
+      "level": "L6",
+      "duration_ms": 897055,
+      "char_count": 3846,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/桃太郎/桃太郎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "桑迪亚塔凯塔",
+      "title": "桑迪亚塔凯塔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/桑迪亚塔凯塔",
+      "level": "L6",
+      "duration_ms": 978808,
+      "char_count": 4170,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/桑迪亚塔凯塔/桑迪亚塔凯塔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "梅林",
+      "title": "梅林",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/梅林",
+      "level": "L6",
+      "duration_ms": 1098837,
+      "char_count": 4683,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/梅林/梅林.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "毛伊与太阳",
+      "title": "毛伊与太阳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/毛伊与太阳",
+      "level": "L6",
+      "duration_ms": 869913,
+      "char_count": 3635,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/毛伊与太阳/毛伊与太阳.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "毛伊偷火种",
+      "title": "毛伊偷火种",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/毛伊偷火种",
+      "level": "L6",
+      "duration_ms": 941234,
+      "char_count": 3985,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/毛伊偷火种/毛伊偷火种.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "毛伊钓海岛",
+      "title": "毛伊钓海岛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/毛伊钓海岛",
+      "level": "L5",
+      "duration_ms": 1066800,
+      "char_count": 4037,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/毛伊钓海岛/毛伊钓海岛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "沈清传",
+      "title": "沈清传",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/沈清传",
+      "level": "L5",
+      "duration_ms": 1116439,
+      "char_count": 4069,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/沈清传/沈清传.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "波塞冬",
+      "title": "波塞冬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/波塞冬",
+      "level": "L6",
+      "duration_ms": 1408909,
+      "char_count": 5888,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/波塞冬/波塞冬.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "洛基",
+      "title": "洛基",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/洛基",
+      "level": "L6",
+      "duration_ms": 1505935,
+      "char_count": 6316,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/洛基/洛基.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "浦岛太郎",
+      "title": "浦岛太郎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/浦岛太郎",
+      "level": "L6",
+      "duration_ms": 877803,
+      "char_count": 3970,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/浦岛太郎/浦岛太郎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "海拉与冥界",
+      "title": "海拉与冥界",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/海拉与冥界",
+      "level": "L6",
+      "duration_ms": 1815721,
+      "char_count": 7621,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/海拉与冥界/海拉与冥界.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "渔夫和魔鬼",
+      "title": "渔夫和魔鬼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/渔夫和魔鬼",
+      "level": "L6",
+      "duration_ms": 1079151,
+      "char_count": 4615,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/渔夫和魔鬼/渔夫和魔鬼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "湖中仙女",
+      "title": "湖中仙女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/湖中仙女",
+      "level": "L5",
+      "duration_ms": 1160122,
+      "char_count": 4380,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/湖中仙女/湖中仙女.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "潘多拉",
+      "title": "潘多拉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/潘多拉",
+      "level": "L6",
+      "duration_ms": 821734,
+      "char_count": 3745,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/潘多拉/潘多拉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "特洛伊",
+      "title": "特洛伊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/特洛伊",
+      "level": "L5",
+      "duration_ms": 2180610,
+      "char_count": 8146,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/特洛伊/特洛伊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狄俄尼索斯的诞生",
+      "title": "狄俄尼索斯的诞生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/狄俄尼索斯的诞生",
+      "level": "L6",
+      "duration_ms": 1153228,
+      "char_count": 4955,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/狄俄尼索斯的诞生/狄俄尼索斯的诞生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "狮戈福莫",
+      "title": "狮戈福莫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/狮戈福莫",
+      "level": "L6",
+      "duration_ms": 1485072,
+      "char_count": 6352,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/狮戈福莫/狮戈福莫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "玉米母亲",
+      "title": "玉米母亲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/玉米母亲",
+      "level": "L6",
+      "duration_ms": 956268,
+      "char_count": 4157,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/玉米母亲/玉米母亲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "珀尔修斯与美杜莎",
+      "title": "珀尔修斯与美杜莎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/珀尔修斯与美杜莎",
+      "level": "L6",
+      "duration_ms": 1409399,
+      "char_count": 6014,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/珀尔修斯与美杜莎/珀尔修斯与美杜莎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "瓦维尔龙",
+      "title": "瓦维尔龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/瓦维尔龙",
+      "level": "L6",
+      "duration_ms": 1211713,
+      "char_count": 5149,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/瓦维尔龙/瓦维尔龙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "白色母鹿",
+      "title": "白色母鹿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/白色母鹿",
+      "level": "L5",
+      "duration_ms": 1498722,
+      "char_count": 5674,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/白色母鹿/白色母鹿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "白象传说",
+      "title": "白象传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/白象传说",
+      "level": "L6",
+      "duration_ms": 842592,
+      "char_count": 3593,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/白象传说/白象传说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "的的喀喀湖太阳与月亮",
+      "title": "的的喀喀湖太阳与月亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/的的喀喀湖太阳与月亮",
+      "level": "L6",
+      "duration_ms": 1003660,
+      "char_count": 4226,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/的的喀喀湖太阳与月亮/的的喀喀湖太阳与月亮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "石中剑",
+      "title": "石中剑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/石中剑",
+      "level": "L5",
+      "duration_ms": 1088515,
+      "char_count": 4165,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/石中剑/石中剑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "维拉科查创世",
+      "title": "维拉科查创世",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/维拉科查创世",
+      "level": "L6",
+      "duration_ms": 1015086,
+      "char_count": 4404,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/维拉科查创世/维拉科查创世.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "绿豆童子",
+      "title": "绿豆童子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/绿豆童子",
+      "level": "L5",
+      "duration_ms": 973042,
+      "char_count": 3624,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/绿豆童子/绿豆童子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "罗摩与悉多",
+      "title": "罗摩与悉多",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/罗摩与悉多",
+      "level": "L6",
+      "duration_ms": 1561766,
+      "char_count": 6452,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/罗摩与悉多/罗摩与悉多.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "罗摩衍那泰版拉玛坚",
+      "title": "罗摩衍那泰版拉玛坚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/罗摩衍那泰版拉玛坚",
+      "level": "L6",
+      "duration_ms": 882770,
+      "char_count": 3768,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/罗摩衍那泰版拉玛坚/罗摩衍那泰版拉玛坚.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "耶梦加得",
+      "title": "耶梦加得",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/耶梦加得",
+      "level": "L6",
+      "duration_ms": 1928211,
+      "char_count": 8582,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/耶梦加得/耶梦加得.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "芬恩与巨人堤道",
+      "title": "芬恩与巨人堤道",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/芬恩与巨人堤道",
+      "level": "L6",
+      "duration_ms": 1087456,
+      "char_count": 4472,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/芬恩与巨人堤道/芬恩与巨人堤道.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "芬里尔",
+      "title": "芬里尔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/芬里尔",
+      "level": "L6",
+      "duration_ms": 1699043,
+      "char_count": 7119,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/芬里尔/芬里尔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "苏赫巴托尔的马",
+      "title": "苏赫巴托尔的马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/苏赫巴托尔的马",
+      "level": "L5",
+      "duration_ms": 1517194,
+      "char_count": 5660,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/苏赫巴托尔的马/苏赫巴托尔的马.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "荷鲁斯与塞特之战",
+      "title": "荷鲁斯与塞特之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/荷鲁斯与塞特之战",
+      "level": "L6",
+      "duration_ms": 1114378,
+      "char_count": 4584,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/荷鲁斯与塞特之战/荷鲁斯与塞特之战.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "荷鲁斯之眼",
+      "title": "荷鲁斯之眼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/荷鲁斯之眼",
+      "level": "L6",
+      "duration_ms": 1016594,
+      "char_count": 4202,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/荷鲁斯之眼/荷鲁斯之眼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "莫德雷德",
+      "title": "莫德雷德",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/莫德雷德",
+      "level": "L5",
+      "duration_ms": 1178473,
+      "char_count": 4400,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/莫德雷德/莫德雷德.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "西西弗斯",
+      "title": "西西弗斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/西西弗斯",
+      "level": "L6",
+      "duration_ms": 1348627,
+      "char_count": 5603,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/西西弗斯/西西弗斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "诸神黄昏",
+      "title": "诸神黄昏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/诸神黄昏",
+      "level": "L5",
+      "duration_ms": 1052550,
+      "char_count": 3893,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/诸神黄昏/诸神黄昏.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "象头神迦尼萨",
+      "title": "象头神迦尼萨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/象头神迦尼萨",
+      "level": "L6",
+      "duration_ms": 815232,
+      "char_count": 3590,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/象头神迦尼萨/象头神迦尼萨.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "贝斯特与猫",
+      "title": "贝斯特与猫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/贝斯特与猫",
+      "level": "L6",
+      "duration_ms": 986801,
+      "char_count": 4262,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/贝斯特与猫/贝斯特与猫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "赫克托耳与安德洛玛刻",
+      "title": "赫克托耳与安德洛玛刻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/赫克托耳与安德洛玛刻",
+      "level": "L6",
+      "duration_ms": 1133232,
+      "char_count": 4869,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/赫克托耳与安德洛玛刻/赫克托耳与安德洛玛刻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "赫尔墨斯与神偷",
+      "title": "赫尔墨斯与神偷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/赫尔墨斯与神偷",
+      "level": "L6",
+      "duration_ms": 954413,
+      "char_count": 4105,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/赫尔墨斯与神偷/赫尔墨斯与神偷.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "赫拉克勒斯",
+      "title": "赫拉克勒斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/赫拉克勒斯",
+      "level": "L5",
+      "duration_ms": 2253813,
+      "char_count": 8466,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/赫拉克勒斯/赫拉克勒斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "跳鼠与太阳",
+      "title": "跳鼠与太阳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/跳鼠与太阳",
+      "level": "L5",
+      "duration_ms": 1221407,
+      "char_count": 4587,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/跳鼠与太阳/跳鼠与太阳.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "辉夜姬",
+      "title": "辉夜姬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/辉夜姬",
+      "level": "L5",
+      "duration_ms": 1243688,
+      "char_count": 4572,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/辉夜姬/辉夜姬.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "辛巴达七次航海",
+      "title": "辛巴达七次航海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/辛巴达七次航海",
+      "level": "L5",
+      "duration_ms": 1225265,
+      "char_count": 4684,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/辛巴达七次航海/辛巴达七次航海.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "郊狼创世",
+      "title": "郊狼创世",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/郊狼创世",
+      "level": "L6",
+      "duration_ms": 1425691,
+      "char_count": 5847,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/郊狼创世/郊狼创世.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "里安农",
+      "title": "里安农",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/里安农",
+      "level": "L5",
+      "duration_ms": 1048117,
+      "char_count": 3810,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/里安农/里安农.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "里尔的孩子",
+      "title": "里尔的孩子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/里尔的孩子",
+      "level": "L6",
+      "duration_ms": 997058,
+      "char_count": 4235,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/里尔的孩子/里尔的孩子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "金苹果之争",
+      "title": "金苹果之争",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/金苹果之争",
+      "level": "L6",
+      "duration_ms": 947307,
+      "char_count": 3939,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/金苹果之争/金苹果之争.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿努比斯称心",
+      "title": "阿努比斯称心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/阿努比斯称心",
+      "level": "L6",
+      "duration_ms": 984836,
+      "char_count": 4176,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/阿努比斯称心/阿努比斯称心.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿喀琉斯",
+      "title": "阿喀琉斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/阿喀琉斯",
+      "level": "L6",
+      "duration_ms": 1345951,
+      "char_count": 5579,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/阿喀琉斯/阿喀琉斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿喀琉斯之踵",
+      "title": "阿喀琉斯之踵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/阿喀琉斯之踵",
+      "level": "L6",
+      "duration_ms": 1576407,
+      "char_count": 6616,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/阿喀琉斯之踵/阿喀琉斯之踵.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿塔兰忒",
+      "title": "阿塔兰忒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/阿塔兰忒",
+      "level": "L5",
+      "duration_ms": 1363036,
+      "char_count": 4947,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/阿塔兰忒/阿塔兰忒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿尔忒弥斯与猎户座",
+      "title": "阿尔忒弥斯与猎户座",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/阿尔忒弥斯与猎户座",
+      "level": "L5",
+      "duration_ms": 1155262,
+      "char_count": 4197,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/阿尔忒弥斯与猎户座/阿尔忒弥斯与猎户座.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿拉丁与神灯",
+      "title": "阿拉丁与神灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/阿拉丁与神灯",
+      "level": "L6",
+      "duration_ms": 815195,
+      "char_count": 3500,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/阿拉丁与神灯/阿拉丁与神灯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿波罗",
+      "title": "阿波罗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/阿波罗",
+      "level": "L5",
+      "duration_ms": 1051590,
+      "char_count": 3894,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/阿波罗/阿波罗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿特拉斯擎天",
+      "title": "阿特拉斯擎天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/阿特拉斯擎天",
+      "level": "L6",
+      "duration_ms": 916990,
+      "char_count": 3968,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/阿特拉斯擎天/阿特拉斯擎天.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿里巴巴与四十大盗",
+      "title": "阿里巴巴与四十大盗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/阿里巴巴与四十大盗",
+      "level": "L5",
+      "duration_ms": 955592,
+      "char_count": 3700,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/阿里巴巴与四十大盗/阿里巴巴与四十大盗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雅典娜",
+      "title": "雅典娜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/雅典娜",
+      "level": "L6",
+      "duration_ms": 1013794,
+      "char_count": 4301,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/雅典娜/雅典娜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雒龙君与瓯姬",
+      "title": "雒龙君与瓯姬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/雒龙君与瓯姬",
+      "level": "L6",
+      "duration_ms": 975196,
+      "char_count": 4122,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/雒龙君与瓯姬/雒龙君与瓯姬.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雪女",
+      "title": "雪女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/雪女",
+      "level": "L5",
+      "duration_ms": 948662,
+      "char_count": 3539,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/雪女/雪女.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雷电鸟",
+      "title": "雷电鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/雷电鸟",
+      "level": "L6",
+      "duration_ms": 967156,
+      "char_count": 4233,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/雷电鸟/雷电鸟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雷电鸟与大洪水",
+      "title": "雷电鸟与大洪水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/雷电鸟与大洪水",
+      "level": "L6",
+      "duration_ms": 1852390,
+      "char_count": 7614,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/雷电鸟与大洪水/雷电鸟与大洪水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雷神之锤的诞生",
+      "title": "雷神之锤的诞生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/雷神之锤的诞生",
+      "level": "L6",
+      "duration_ms": 1596126,
+      "char_count": 6770,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/雷神之锤的诞生/雷神之锤的诞生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雷神托尔",
+      "title": "雷神托尔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/雷神托尔",
+      "level": "L6",
+      "duration_ms": 1422584,
+      "char_count": 5810,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/雷神托尔/雷神托尔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "青春女神伊登的金苹果",
+      "title": "青春女神伊登的金苹果",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/青春女神伊登的金苹果",
+      "level": "L6",
+      "duration_ms": 1277796,
+      "char_count": 5517,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/青春女神伊登的金苹果/青春女神伊登的金苹果.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "额尔古涅昆",
+      "title": "额尔古涅昆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/额尔古涅昆",
+      "level": "L6",
+      "duration_ms": 1186154,
+      "char_count": 4953,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/额尔古涅昆/额尔古涅昆.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "飞马珀伽索斯",
+      "title": "飞马珀伽索斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/飞马珀伽索斯",
+      "level": "L6",
+      "duration_ms": 1045733,
+      "char_count": 4435,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/飞马珀伽索斯/飞马珀伽索斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "马尔科克拉列维奇",
+      "title": "马尔科克拉列维奇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/马尔科克拉列维奇",
+      "level": "L5",
+      "duration_ms": 1077446,
+      "char_count": 3982,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/马尔科克拉列维奇/马尔科克拉列维奇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "马平瓜里",
+      "title": "马平瓜里",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/马平瓜里",
+      "level": "L5",
+      "duration_ms": 966190,
+      "char_count": 3654,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/马平瓜里/马平瓜里.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "马拉克与马甘达",
+      "title": "马拉克与马甘达",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/马拉克与马甘达",
+      "level": "L5",
+      "duration_ms": 953050,
+      "char_count": 3581,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/马拉克与马甘达/马拉克与马甘达.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "马比诺吉昂",
+      "title": "马比诺吉昂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/马比诺吉昂",
+      "level": "L6",
+      "duration_ms": 844415,
+      "char_count": 3616,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/马比诺吉昂/马比诺吉昂.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "驼背人的故事",
+      "title": "驼背人的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/驼背人的故事",
+      "level": "L6",
+      "duration_ms": 960555,
+      "char_count": 4086,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/驼背人的故事/驼背人的故事.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "高文爵士与绿骑士",
+      "title": "高文爵士与绿骑士",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/高文爵士与绿骑士",
+      "level": "L6",
+      "duration_ms": 895594,
+      "char_count": 3871,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/高文爵士与绿骑士/高文爵士与绿骑士.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鲸鱼骑士",
+      "title": "鲸鱼骑士",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/鲸鱼骑士",
+      "level": "L5",
+      "duration_ms": 1000550,
+      "char_count": 3926,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/鲸鱼骑士/鲸鱼骑士.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "麦仑沙迈",
+      "title": "麦仑沙迈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K3神话传说/麦仑沙迈",
+      "level": "L6",
+      "duration_ms": 1106017,
+      "char_count": 4658,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K3神话传说/麦仑沙迈/麦仑沙迈.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

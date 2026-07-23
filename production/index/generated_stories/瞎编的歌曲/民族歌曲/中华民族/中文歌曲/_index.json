@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/民族歌曲/民族歌曲.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 56,
+  "entries": [
+    {
+      "entry_id": "中文-东乡族",
+      "title": "中文-东乡族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-东乡族"
+    },
+    {
+      "entry_id": "中文-乌孜别克族",
+      "title": "中文-乌孜别克族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-乌孜别克族"
+    },
+    {
+      "entry_id": "中文-京族",
+      "title": "中文-京族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-京族"
+    },
+    {
+      "entry_id": "中文-仡佬族",
+      "title": "中文-仡佬族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-仡佬族"
+    },
+    {
+      "entry_id": "中文-仫佬族",
+      "title": "中文-仫佬族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-仫佬族"
+    },
+    {
+      "entry_id": "中文-佤族",
+      "title": "中文-佤族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-佤族"
+    },
+    {
+      "entry_id": "中文-侗族",
+      "title": "中文-侗族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-侗族"
+    },
+    {
+      "entry_id": "中文-俄罗斯族",
+      "title": "中文-俄罗斯族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-俄罗斯族"
+    },
+    {
+      "entry_id": "中文-保安族",
+      "title": "中文-保安族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-保安族"
+    },
+    {
+      "entry_id": "中文-傈僳族",
+      "title": "中文-傈僳族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-傈僳族"
+    },
+    {
+      "entry_id": "中文-傣族",
+      "title": "中文-傣族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-傣族"
+    },
+    {
+      "entry_id": "中文-哈尼族",
+      "title": "中文-哈尼族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-哈尼族"
+    },
+    {
+      "entry_id": "中文-哈萨克族",
+      "title": "中文-哈萨克族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-哈萨克族"
+    },
+    {
+      "entry_id": "中文-回族",
+      "title": "中文-回族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-回族"
+    },
+    {
+      "entry_id": "中文-土家族",
+      "title": "中文-土家族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-土家族"
+    },
+    {
+      "entry_id": "中文-土族",
+      "title": "中文-土族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-土族"
+    },
+    {
+      "entry_id": "中文-基诺族",
+      "title": "中文-基诺族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-基诺族"
+    },
+    {
+      "entry_id": "中文-塔吉克族",
+      "title": "中文-塔吉克族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-塔吉克族"
+    },
+    {
+      "entry_id": "中文-塔塔尔族",
+      "title": "中文-塔塔尔族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-塔塔尔族"
+    },
+    {
+      "entry_id": "中文-壮族",
+      "title": "中文-壮族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-壮族"
+    },
+    {
+      "entry_id": "中文-布依族",
+      "title": "中文-布依族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-布依族"
+    },
+    {
+      "entry_id": "中文-布朗族",
+      "title": "中文-布朗族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-布朗族"
+    },
+    {
+      "entry_id": "中文-彝族",
+      "title": "中文-彝族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-彝族"
+    },
+    {
+      "entry_id": "中文-德昂族",
+      "title": "中文-德昂族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-德昂族"
+    },
+    {
+      "entry_id": "中文-怒族",
+      "title": "中文-怒族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-怒族"
+    },
+    {
+      "entry_id": "中文-拉祜族",
+      "title": "中文-拉祜族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-拉祜族"
+    },
+    {
+      "entry_id": "中文-撒拉族",
+      "title": "中文-撒拉族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-撒拉族"
+    },
+    {
+      "entry_id": "中文-普米族",
+      "title": "中文-普米族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-普米族"
+    },
+    {
+      "entry_id": "中文-景颇族",
+      "title": "中文-景颇族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-景颇族"
+    },
+    {
+      "entry_id": "中文-朝鲜族",
+      "title": "中文-朝鲜族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-朝鲜族"
+    },
+    {
+      "entry_id": "中文-柯尔克孜族",
+      "title": "中文-柯尔克孜族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-柯尔克孜族"
+    },
+    {
+      "entry_id": "中文-毛南族",
+      "title": "中文-毛南族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-毛南族"
+    },
+    {
+      "entry_id": "中文-水族",
+      "title": "中文-水族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-水族"
+    },
+    {
+      "entry_id": "中文-汉族",
+      "title": "中文-汉族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-汉族"
+    },
+    {
+      "entry_id": "中文-满族",
+      "title": "中文-满族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-满族"
+    },
+    {
+      "entry_id": "中文-独龙族",
+      "title": "中文-独龙族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-独龙族"
+    },
+    {
+      "entry_id": "中文-珞巴族",
+      "title": "中文-珞巴族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-珞巴族"
+    },
+    {
+      "entry_id": "中文-瑶族",
+      "title": "中文-瑶族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-瑶族"
+    },
+    {
+      "entry_id": "中文-畲族",
+      "title": "中文-畲族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-畲族"
+    },
+    {
+      "entry_id": "中文-白族",
+      "title": "中文-白族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-白族"
+    },
+    {
+      "entry_id": "中文-纳西族",
+      "title": "中文-纳西族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-纳西族"
+    },
+    {
+      "entry_id": "中文-维吾尔族",
+      "title": "中文-维吾尔族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-维吾尔族"
+    },
+    {
+      "entry_id": "中文-羌族",
+      "title": "中文-羌族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-羌族"
+    },
+    {
+      "entry_id": "中文-苗族",
+      "title": "中文-苗族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-苗族"
+    },
+    {
+      "entry_id": "中文-蒙古族",
+      "title": "中文-蒙古族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-蒙古族"
+    },
+    {
+      "entry_id": "中文-藏族",
+      "title": "中文-藏族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-藏族"
+    },
+    {
+      "entry_id": "中文-裕固族",
+      "title": "中文-裕固族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-裕固族"
+    },
+    {
+      "entry_id": "中文-赫哲族",
+      "title": "中文-赫哲族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-赫哲族"
+    },
+    {
+      "entry_id": "中文-达斡尔族",
+      "title": "中文-达斡尔族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-达斡尔族"
+    },
+    {
+      "entry_id": "中文-鄂伦春族",
+      "title": "中文-鄂伦春族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-鄂伦春族"
+    },
+    {
+      "entry_id": "中文-鄂温克族",
+      "title": "中文-鄂温克族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-鄂温克族"
+    },
+    {
+      "entry_id": "中文-锡伯族",
+      "title": "中文-锡伯族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-锡伯族"
+    },
+    {
+      "entry_id": "中文-门巴族",
+      "title": "中文-门巴族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-门巴族"
+    },
+    {
+      "entry_id": "中文-阿昌族",
+      "title": "中文-阿昌族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-阿昌族"
+    },
+    {
+      "entry_id": "中文-高山族",
+      "title": "中文-高山族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-高山族"
+    },
+    {
+      "entry_id": "中文-黎族",
+      "title": "中文-黎族",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/民族歌曲/中华民族/中文歌曲/中文-黎族"
+    }
+  ]
+}

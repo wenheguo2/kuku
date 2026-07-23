@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "index_type": "subject_index",
+  "subject_id": "上下五千年",
+  "subject_name": "上下五千年",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/上下五千年.webp",
+    "cover_level": "subject"
+  },
+  "category_count": 8,
+  "categories": [
+    {
+      "id": "E1成语故事",
+      "name": "E1成语故事",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 801,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E1成语故事/E1成语故事.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "E2节日故事",
+      "name": "E2节日故事",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 35,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E2节日故事/E2节日故事.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "E3历史故事",
+      "name": "E3历史故事",
+      "structure_type": "mixed",
+      "display_as": "mixed_container",
+      "entry_count": 950,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E3历史故事/E3历史故事.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "E4神话故事",
+      "name": "E4神话故事",
+      "structure_type": "mixed",
+      "display_as": "mixed_container",
+      "entry_count": 470,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/E4神话故事.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "E5二十四节气",
+      "name": "E5二十四节气",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 24,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E5二十四节气/E5二十四节气.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "E6寓言故事",
+      "name": "E6寓言故事",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 127,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E6寓言故事/E6寓言故事.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "E7近现代史",
+      "name": "E7近现代史",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 100,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E7近现代史/E7近现代史.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "E8惊世名句",
+      "name": "E8惊世名句",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 190,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E8惊世名句/E8惊世名句.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

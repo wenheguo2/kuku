@@ -1,0 +1,617 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "神州之外/K4儿童文学",
+  "name": "K4儿童文学",
+  "cover": {
+    "cover_image_url": "covers/generated/神州之外/K4儿童文学/K4儿童文学.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 43,
+  "entries": [
+    {
+      "entry_id": "丛林之书",
+      "title": "丛林之书",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/丛林之书",
+      "level": "L5",
+      "duration_ms": 2472276,
+      "char_count": 9566,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/丛林之书/丛林之书.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "五个孩子与沙精",
+      "title": "五个孩子与沙精",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/五个孩子与沙精",
+      "level": "L7",
+      "duration_ms": 1185762,
+      "char_count": 5086,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/五个孩子与沙精/五个孩子与沙精.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公主与哥布林",
+      "title": "公主与哥布林",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/公主与哥布林",
+      "level": "L7",
+      "duration_ms": 960733,
+      "char_count": 4109,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/公主与哥布林/公主与哥布林.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "凤凰与魔毯",
+      "title": "凤凰与魔毯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/凤凰与魔毯",
+      "level": "L7",
+      "duration_ms": 896488,
+      "char_count": 3727,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/凤凰与魔毯/凤凰与魔毯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "北风的背后",
+      "title": "北风的背后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/北风的背后",
+      "level": "L7",
+      "duration_ms": 1005666,
+      "char_count": 4249,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/北风的背后/北风的背后.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "卡佳做了什么",
+      "title": "卡佳做了什么",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/卡佳做了什么",
+      "level": "L7",
+      "duration_ms": 979696,
+      "char_count": 4230,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/卡佳做了什么/卡佳做了什么.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "原来如此的故事",
+      "title": "原来如此的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/原来如此的故事",
+      "level": "L7",
+      "duration_ms": 1084049,
+      "char_count": 4585,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/原来如此的故事/原来如此的故事.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吹牛大王历险记",
+      "title": "吹牛大王历险记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/吹牛大王历险记",
+      "level": "L7",
+      "duration_ms": 1060549,
+      "char_count": 4394,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/吹牛大王历险记/吹牛大王历险记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "哈默林的吹笛人",
+      "title": "哈默林的吹笛人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/哈默林的吹笛人",
+      "level": "L7",
+      "duration_ms": 1035666,
+      "char_count": 4348,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/哈默林的吹笛人/哈默林的吹笛人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "失落的王子",
+      "title": "失落的王子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/失落的王子",
+      "level": "L7",
+      "duration_ms": 840304,
+      "char_count": 3516,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/失落的王子/失落的王子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "寻宝人的故事",
+      "title": "寻宝人的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/寻宝人的故事",
+      "level": "L7",
+      "duration_ms": 923444,
+      "char_count": 3926,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/寻宝人的故事/寻宝人的故事.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小妇人",
+      "title": "小妇人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/小妇人",
+      "level": "L5",
+      "duration_ms": 3439226,
+      "char_count": 12863,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/小妇人/小妇人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小少爷方特洛伊",
+      "title": "小少爷方特洛伊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/小少爷方特洛伊",
+      "level": "L5",
+      "duration_ms": 1938322,
+      "char_count": 7465,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/小少爷方特洛伊/小少爷方特洛伊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小熊维尼",
+      "title": "小熊维尼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/小熊维尼",
+      "level": "L7",
+      "duration_ms": 1052327,
+      "char_count": 4390,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/小熊维尼/小熊维尼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "尼尔斯骑鹅旅行记",
+      "title": "尼尔斯骑鹅旅行记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/尼尔斯骑鹅旅行记",
+      "level": "L5",
+      "duration_ms": 2464104,
+      "char_count": 9197,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/尼尔斯骑鹅旅行记/尼尔斯骑鹅旅行记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "彼得兔的故事",
+      "title": "彼得兔的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/彼得兔的故事",
+      "level": "L5",
+      "duration_ms": 1066344,
+      "char_count": 3909,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/彼得兔的故事/彼得兔的故事.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "彼得潘",
+      "title": "彼得潘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/彼得潘",
+      "level": "L5",
+      "duration_ms": 2002157,
+      "char_count": 6662,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/彼得潘/彼得潘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "护身符的故事",
+      "title": "护身符的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/护身符的故事",
+      "level": "L7",
+      "duration_ms": 875741,
+      "char_count": 3625,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/护身符的故事/护身符的故事.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "木偶奇遇记",
+      "title": "木偶奇遇记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/木偶奇遇记",
+      "level": "L7",
+      "duration_ms": 1200584,
+      "char_count": 5208,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/木偶奇遇记/木偶奇遇记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "杜立德医生",
+      "title": "杜立德医生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/杜立德医生",
+      "level": "L7",
+      "duration_ms": 901338,
+      "char_count": 3891,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/杜立德医生/杜立德医生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "杜立德医生航海记",
+      "title": "杜立德医生航海记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/杜立德医生航海记",
+      "level": "L7",
+      "duration_ms": 1066649,
+      "char_count": 4625,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/杜立德医生航海记/杜立德医生航海记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "柳林风声",
+      "title": "柳林风声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/柳林风声",
+      "level": "L7",
+      "duration_ms": 1179546,
+      "char_count": 4965,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/柳林风声/柳林风声.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "格列佛游记",
+      "title": "格列佛游记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/格列佛游记",
+      "level": "L5",
+      "duration_ms": 2150144,
+      "char_count": 7984,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/格列佛游记/格列佛游记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "桑尼布鲁克农场的丽贝卡",
+      "title": "桑尼布鲁克农场的丽贝卡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/桑尼布鲁克农场的丽贝卡",
+      "level": "L7",
+      "duration_ms": 1012378,
+      "char_count": 4325,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/桑尼布鲁克农场的丽贝卡/桑尼布鲁克农场的丽贝卡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "水孩子",
+      "title": "水孩子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/水孩子",
+      "level": "L7",
+      "duration_ms": 890373,
+      "char_count": 3792,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/水孩子/水孩子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "汤姆索亚历险记",
+      "title": "汤姆索亚历险记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/汤姆索亚历险记",
+      "level": "L5",
+      "duration_ms": 2580106,
+      "char_count": 9640,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/汤姆索亚历险记/汤姆索亚历险记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "波普先生的企鹅",
+      "title": "波普先生的企鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/波普先生的企鹅",
+      "level": "L7",
+      "duration_ms": 1015553,
+      "char_count": 4356,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/波普先生的企鹅/波普先生的企鹅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "波莉安娜",
+      "title": "波莉安娜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/波莉安娜",
+      "level": "L7",
+      "duration_ms": 976010,
+      "char_count": 4082,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/波莉安娜/波莉安娜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爱丽丝梦游仙境",
+      "title": "爱丽丝梦游仙境",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/爱丽丝梦游仙境",
+      "level": "L5",
+      "duration_ms": 2218383,
+      "char_count": 8258,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/爱丽丝梦游仙境/爱丽丝梦游仙境.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "瑞士家庭鲁滨逊",
+      "title": "瑞士家庭鲁滨逊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/瑞士家庭鲁滨逊",
+      "level": "L7",
+      "duration_ms": 1267787,
+      "char_count": 5634,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/瑞士家庭鲁滨逊/瑞士家庭鲁滨逊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "秘密花园",
+      "title": "秘密花园",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/秘密花园",
+      "level": "L5",
+      "duration_ms": 961159,
+      "char_count": 3732,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/秘密花园/秘密花园.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "绒布小兔子",
+      "title": "绒布小兔子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/绒布小兔子",
+      "level": "L7",
+      "duration_ms": 878884,
+      "char_count": 3626,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/绒布小兔子/绒布小兔子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "绿山墙的安妮",
+      "title": "绿山墙的安妮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/绿山墙的安妮",
+      "level": "L5",
+      "duration_ms": 2936903,
+      "char_count": 10863,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/绿山墙的安妮/绿山墙的安妮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "绿野仙踪",
+      "title": "绿野仙踪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/绿野仙踪",
+      "level": "L7",
+      "duration_ms": 805374,
+      "char_count": 3502,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/绿野仙踪/绿野仙踪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "胡桃夹子",
+      "title": "胡桃夹子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/胡桃夹子",
+      "level": "L7",
+      "duration_ms": 1003979,
+      "char_count": 4237,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/胡桃夹子/胡桃夹子.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "苦儿流浪记",
+      "title": "苦儿流浪记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/苦儿流浪记",
+      "level": "L5",
+      "duration_ms": 2177419,
+      "char_count": 8290,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/苦儿流浪记/苦儿流浪记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "草原上的小木屋",
+      "title": "草原上的小木屋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/草原上的小木屋",
+      "level": "L7",
+      "duration_ms": 1021942,
+      "char_count": 4291,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/草原上的小木屋/草原上的小木屋.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "金银岛",
+      "title": "金银岛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/金银岛",
+      "level": "L5",
+      "duration_ms": 3085735,
+      "char_count": 11431,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/金银岛/金银岛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "铁路边的孩子们",
+      "title": "铁路边的孩子们",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/铁路边的孩子们",
+      "level": "L5",
+      "duration_ms": 1037085,
+      "char_count": 4020,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/铁路边的孩子们/铁路边的孩子们.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "银冰鞋",
+      "title": "银冰鞋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/银冰鞋",
+      "level": "L7",
+      "duration_ms": 1281585,
+      "char_count": 5470,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/银冰鞋/银冰鞋.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "青鸟",
+      "title": "青鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/青鸟",
+      "level": "L5",
+      "duration_ms": 2271644,
+      "char_count": 8378,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/青鸟/青鸟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "魔法城堡",
+      "title": "魔法城堡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/魔法城堡",
+      "level": "L7",
+      "duration_ms": 944768,
+      "char_count": 3997,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/魔法城堡/魔法城堡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "黑骏马",
+      "title": "黑骏马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K4儿童文学/黑骏马",
+      "level": "L7",
+      "duration_ms": 1055627,
+      "char_count": 4517,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K4儿童文学/黑骏马/黑骏马.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

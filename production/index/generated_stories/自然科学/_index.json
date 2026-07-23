@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "index_type": "subject_index",
+  "subject_id": "自然科学",
+  "subject_name": "自然科学",
+  "cover": {
+    "cover_image_url": "covers/generated/自然科学/自然科学.webp",
+    "cover_level": "subject"
+  },
+  "category_count": 7,
+  "categories": [
+    {
+      "id": "C1动物",
+      "name": "C1动物",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 315,
+      "cover": {
+        "cover_image_url": "covers/generated/自然科学/C1动物/C1动物.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "C2植物",
+      "name": "C2植物",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 244,
+      "cover": {
+        "cover_image_url": "covers/generated/自然科学/C2植物/C2植物.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "C3天气",
+      "name": "C3天气",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 190,
+      "cover": {
+        "cover_image_url": "covers/generated/自然科学/C3天气/C3天气.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "C4身体",
+      "name": "C4身体",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 168,
+      "cover": {
+        "cover_image_url": "covers/generated/自然科学/C4身体/C4身体.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "C5天文",
+      "name": "C5天文",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 147,
+      "cover": {
+        "cover_image_url": "covers/generated/自然科学/C5天文/C5天文.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "C6物理化学",
+      "name": "C6物理化学",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 169,
+      "cover": {
+        "cover_image_url": "covers/generated/自然科学/C6物理化学/C6物理化学.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "C7环保",
+      "name": "C7环保",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 98,
+      "cover": {
+        "cover_image_url": "covers/generated/自然科学/C7环保/C7环保.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

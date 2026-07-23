@@ -1,0 +1,76 @@
+/**
+ * variables.scss — 全局设计令牌（单一数据源：md/UI设计/design-tokens.json）
+ * 由 config/index.ts 的 sass.resource 全局注入，页面直接用变量，无需 @import。
+ * 主题：默认浅色；深色通过 page[data-theme=dark] / .theme-dark 覆盖 CSS 变量（决策 D-06）。
+ */
+
+// ---- SCSS 变量（编译期） ----
+$color-primary: #FF8C42;
+$color-primary-dark: #F2751F;
+$color-primary-soft: #FFF3E7;
+$color-blue: #3FC5BC;
+$color-green: #7FC96A;
+$color-pink: #FF8E9E;
+$color-purple: #B8A9E8;
+$color-gold: #FFC93C;
+
+// v4 中文衬线字体（故事名/主标题/典藏感）
+$font-serif: 'Songti SC', 'STSong', 'Noto Serif SC', 'SimSun', serif;
+
+// 四级朋友等级色（与后端 current_stage 0/1/2/3 对齐）
+$stage-0: #D1D5DB; // 未遇见
+$stage-1: #FFD93D; // 已相识
+$stage-2: #6BCBFF; // 好朋友
+$stage-3: #7ED957; // 好伙伴
+
+$radius-card: 18px;
+$radius-pill: 22px;
+$shadow-card: 0 8px 28px rgba(232, 201, 160, 0.35);
+$shadow-btn: 0 8px 20px rgba(255, 140, 66, 0.35);
+
+// ---- CSS 变量（运行期，支持主题切换） ----
+:root {
+  --color-primary: #{$color-primary};
+  --color-primary-dark: #{$color-primary-dark};
+  --color-primary-soft: #{$color-primary-soft};
+  --color-bg: #FFF9F0;
+  --color-card: #FFFFFF;
+  --color-text: #2D3142;
+  --color-text-secondary: #8B8D9E;
+  --color-border: #F0E6D8;
+  --stage-0: #{$stage-0};
+  --stage-1: #{$stage-1};
+  --stage-2: #{$stage-2};
+  --stage-3: #{$stage-3};
+  --font-serif: #{$font-serif};
+
+  /* v4 夜间/故事灯（播放器/睡前模式用） */
+  --night-bg: #171D33;
+  --night-bg2: #222C4E;
+  --night-text: #E8ECFF;
+  --night-sub: #8A93B8;
+  --lamp: #FFC98F;
+  --lamp-gold: #FFD873;
+  /* v4 鎏金书匣（会员用） */
+  --gold-bg: #221E17;
+  --gold-bg2: #37301F;
+  --gold-text: #F5E6C8;
+  --gold-hi: #FFE9A8;
+  --gold-deep: #FFC93C;
+  --gold-ink: #5A3D00;
+}
+
+// 深色主题（v4 夜间蓝）
+.theme-dark {
+  --color-bg: #171D33;
+  --color-card: #232F55;
+  --color-text: #E8ECFF;
+  --color-text-secondary: #8A93B8;
+  --color-border: rgba(255, 255, 255, 0.1);
+}
+
+@mixin card {
+  background: var(--color-card);
+  border-radius: $radius-card;
+  box-shadow: $shadow-card;
+}

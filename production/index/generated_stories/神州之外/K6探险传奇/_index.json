@@ -1,0 +1,659 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "神州之外/K6探险传奇",
+  "name": "K6探险传奇",
+  "cover": {
+    "cover_image_url": "covers/generated/神州之外/K6探险传奇/K6探险传奇.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 46,
+  "entries": [
+    {
+      "entry_id": "一张彩票",
+      "title": "一张彩票",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/一张彩票",
+      "level": "L5",
+      "duration_ms": 1492796,
+      "char_count": 5652,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/一张彩票/一张彩票.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "三个火枪手",
+      "title": "三个火枪手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/三个火枪手",
+      "level": "L5",
+      "duration_ms": 1048475,
+      "char_count": 3813,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/三个火枪手/三个火枪手.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "两年假期",
+      "title": "两年假期",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/两年假期",
+      "level": "L5",
+      "duration_ms": 1449213,
+      "char_count": 5416,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/两年假期/两年假期.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "亚瑟王宫廷里的美国人",
+      "title": "亚瑟王宫廷里的美国人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/亚瑟王宫廷里的美国人",
+      "level": "L5",
+      "duration_ms": 1879715,
+      "char_count": 6472,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/亚瑟王宫廷里的美国人/亚瑟王宫廷里的美国人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "八十天环游地球",
+      "title": "八十天环游地球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/八十天环游地球",
+      "level": "L5",
+      "duration_ms": 2528040,
+      "char_count": 9303,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/八十天环游地球/八十天环游地球.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "冰岛渔夫",
+      "title": "冰岛渔夫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/冰岛渔夫",
+      "level": "L7",
+      "duration_ms": 1006846,
+      "char_count": 4151,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/冰岛渔夫/冰岛渔夫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "勇敢的船长",
+      "title": "勇敢的船长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/勇敢的船长",
+      "level": "L5",
+      "duration_ms": 1070652,
+      "char_count": 4113,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/勇敢的船长/勇敢的船长.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "勇闯亚马孙",
+      "title": "勇闯亚马孙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/勇闯亚马孙",
+      "level": "L7",
+      "duration_ms": 1184232,
+      "char_count": 4909,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/勇闯亚马孙/勇闯亚马孙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "十五少年漂流记",
+      "title": "十五少年漂流记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/十五少年漂流记",
+      "level": "L7",
+      "duration_ms": 965262,
+      "char_count": 4190,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/十五少年漂流记/十五少年漂流记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "印度贵妇的五亿法郎",
+      "title": "印度贵妇的五亿法郎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/印度贵妇的五亿法郎",
+      "level": "L5",
+      "duration_ms": 1180081,
+      "char_count": 4326,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/印度贵妇的五亿法郎/印度贵妇的五亿法郎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "哈克贝利费恩历险记",
+      "title": "哈克贝利费恩历险记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/哈克贝利费恩历险记",
+      "level": "L5",
+      "duration_ms": 1046840,
+      "char_count": 3970,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/哈克贝利费恩历险记/哈克贝利费恩历险记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "喀尔巴阡城堡",
+      "title": "喀尔巴阡城堡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/喀尔巴阡城堡",
+      "level": "L7",
+      "duration_ms": 938698,
+      "char_count": 3863,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/喀尔巴阡城堡/喀尔巴阡城堡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "基姆",
+      "title": "基姆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/基姆",
+      "level": "L5",
+      "duration_ms": 958693,
+      "char_count": 3649,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/基姆/基姆.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "基督山伯爵",
+      "title": "基督山伯爵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/基督山伯爵",
+      "level": "L5",
+      "duration_ms": 1813219,
+      "char_count": 6898,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/基督山伯爵/基督山伯爵.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "大臣号遇难者",
+      "title": "大臣号遇难者",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/大臣号遇难者",
+      "level": "L5",
+      "duration_ms": 1046474,
+      "char_count": 4094,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/大臣号遇难者/大臣号遇难者.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "太阳系历险记",
+      "title": "太阳系历险记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/太阳系历险记",
+      "level": "L7",
+      "duration_ms": 1104108,
+      "char_count": 4588,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/太阳系历险记/太阳系历险记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "她",
+      "title": "她",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/她",
+      "level": "L5",
+      "duration_ms": 1163158,
+      "char_count": 4275,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/她/她.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "巴伦特雷的少爷",
+      "title": "巴伦特雷的少爷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/巴伦特雷的少爷",
+      "level": "L5",
+      "duration_ms": 955411,
+      "char_count": 3662,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/巴伦特雷的少爷/巴伦特雷的少爷.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "征服者罗比尔",
+      "title": "征服者罗比尔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/征服者罗比尔",
+      "level": "L5",
+      "duration_ms": 1190213,
+      "char_count": 4475,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/征服者罗比尔/征服者罗比尔.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想做国王的人",
+      "title": "想做国王的人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/想做国王的人",
+      "level": "L7",
+      "duration_ms": 1067793,
+      "char_count": 4540,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/想做国王的人/想做国王的人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "所罗门王的宝藏",
+      "title": "所罗门王的宝藏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/所罗门王的宝藏",
+      "level": "L5",
+      "duration_ms": 960515,
+      "char_count": 3587,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/所罗门王的宝藏/所罗门王的宝藏.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "旋转乾坤",
+      "title": "旋转乾坤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/旋转乾坤",
+      "level": "L7",
+      "duration_ms": 959437,
+      "char_count": 4148,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/旋转乾坤/旋转乾坤.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "曾达的囚徒",
+      "title": "曾达的囚徒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/曾达的囚徒",
+      "level": "L7",
+      "duration_ms": 901807,
+      "char_count": 3809,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/曾达的囚徒/曾达的囚徒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最后一个莫希干人",
+      "title": "最后一个莫希干人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/最后一个莫希干人",
+      "level": "L5",
+      "duration_ms": 1116981,
+      "char_count": 4070,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/最后一个莫希干人/最后一个莫希干人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "杜立德医生历险记",
+      "title": "杜立德医生历险记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/杜立德医生历险记",
+      "level": "L7",
+      "duration_ms": 1187162,
+      "char_count": 5054,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/杜立德医生历险记/杜立德医生历险记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "格兰特船长的儿女",
+      "title": "格兰特船长的儿女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/格兰特船长的儿女",
+      "level": "L5",
+      "duration_ms": 1261221,
+      "char_count": 4752,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/格兰特船长的儿女/格兰特船长的儿女.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "桑道夫伯爵",
+      "title": "桑道夫伯爵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/桑道夫伯爵",
+      "level": "L5",
+      "duration_ms": 1056340,
+      "char_count": 4031,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/桑道夫伯爵/桑道夫伯爵.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "气球上的五星期",
+      "title": "气球上的五星期",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/气球上的五星期",
+      "level": "L5",
+      "duration_ms": 2397900,
+      "char_count": 9343,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/气球上的五星期/气球上的五星期.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "汤姆布朗的学校生活",
+      "title": "汤姆布朗的学校生活",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/汤姆布朗的学校生活",
+      "level": "L5",
+      "duration_ms": 1093435,
+      "char_count": 4284,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/汤姆布朗的学校生活/汤姆布朗的学校生活.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "海狼",
+      "title": "海狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/海狼",
+      "level": "L5",
+      "duration_ms": 1392735,
+      "char_count": 5167,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/海狼/海狼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "潘特瓦尔多夫斯基",
+      "title": "潘特瓦尔多夫斯基",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/潘特瓦尔多夫斯基",
+      "level": "L7",
+      "duration_ms": 1099276,
+      "char_count": 4590,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/潘特瓦尔多夫斯基/潘特瓦尔多夫斯基.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "王子与贫儿",
+      "title": "王子与贫儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/王子与贫儿",
+      "level": "L7",
+      "duration_ms": 934194,
+      "char_count": 3945,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/王子与贫儿/王子与贫儿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "珊瑚岛",
+      "title": "珊瑚岛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/珊瑚岛",
+      "level": "L7",
+      "duration_ms": 876909,
+      "char_count": 3730,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/珊瑚岛/珊瑚岛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "白牙",
+      "title": "白牙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/白牙",
+      "level": "L5",
+      "duration_ms": 1010518,
+      "char_count": 3901,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/白牙/白牙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "白衣女人",
+      "title": "白衣女人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/白衣女人",
+      "level": "L5",
+      "duration_ms": 1023305,
+      "char_count": 3899,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/白衣女人/白衣女人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "白鲸记",
+      "title": "白鲸记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/白鲸记",
+      "level": "L5",
+      "duration_ms": 2151598,
+      "char_count": 8078,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/白鲸记/白鲸记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "红花侠",
+      "title": "红花侠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/红花侠",
+      "level": "L7",
+      "duration_ms": 1121055,
+      "char_count": 4658,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/红花侠/红花侠.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "艾伦夸特曼",
+      "title": "艾伦夸特曼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/艾伦夸特曼",
+      "level": "L5",
+      "duration_ms": 1425834,
+      "char_count": 5416,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/艾伦夸特曼/艾伦夸特曼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蒙特祖玛的女儿",
+      "title": "蒙特祖玛的女儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/蒙特祖玛的女儿",
+      "level": "L7",
+      "duration_ms": 972769,
+      "char_count": 4010,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/蒙特祖玛的女儿/蒙特祖玛的女儿.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "诱拐",
+      "title": "诱拐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/诱拐",
+      "level": "L7",
+      "duration_ms": 969170,
+      "char_count": 4179,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/诱拐/诱拐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "辛格顿船长",
+      "title": "辛格顿船长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/辛格顿船长",
+      "level": "L7",
+      "duration_ms": 862378,
+      "char_count": 3509,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/辛格顿船长/辛格顿船长.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "野性的呼唤",
+      "title": "野性的呼唤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/野性的呼唤",
+      "level": "L5",
+      "duration_ms": 2497208,
+      "char_count": 9366,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/野性的呼唤/野性的呼唤.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "铁面人",
+      "title": "铁面人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/铁面人",
+      "level": "L5",
+      "duration_ms": 1140553,
+      "char_count": 4240,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/铁面人/铁面人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鲁滨逊漂流记",
+      "title": "鲁滨逊漂流记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/鲁滨逊漂流记",
+      "level": "L5",
+      "duration_ms": 2171036,
+      "char_count": 8229,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/鲁滨逊漂流记/鲁滨逊漂流记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "黄金国传说",
+      "title": "黄金国传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/黄金国传说",
+      "level": "L5",
+      "duration_ms": 1139584,
+      "char_count": 4149,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/黄金国传说/黄金国传说.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "黑箭",
+      "title": "黑箭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K6探险传奇/黑箭",
+      "level": "L5",
+      "duration_ms": 1038981,
+      "char_count": 3965,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K6探险传奇/黑箭/黑箭.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

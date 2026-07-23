@@ -1,0 +1,379 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "神州之外/K5科幻幻想",
+  "name": "K5科幻幻想",
+  "cover": {
+    "cover_image_url": "covers/generated/神州之外/K5科幻幻想/K5科幻幻想.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 26,
+  "entries": [
+    {
+      "entry_id": "世界主宰者",
+      "title": "世界主宰者",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/世界主宰者",
+      "level": "L5",
+      "duration_ms": 1154580,
+      "char_count": 4450,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/世界主宰者/世界主宰者.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "人猿泰山",
+      "title": "人猿泰山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/人猿泰山",
+      "level": "L5",
+      "duration_ms": 2264372,
+      "char_count": 8596,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/人猿泰山/人猿泰山.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "从地球到月球",
+      "title": "从地球到月球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/从地球到月球",
+      "level": "L5",
+      "duration_ms": 2643947,
+      "char_count": 9575,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/从地球到月球/从地球到月球.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "地心历险记",
+      "title": "地心历险记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/地心历险记",
+      "level": "L5",
+      "duration_ms": 2412211,
+      "char_count": 8984,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/地心历险记/地心历险记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "地心游记",
+      "title": "地心游记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/地心游记",
+      "level": "L5",
+      "duration_ms": 2271404,
+      "char_count": 8736,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/地心游记/地心游记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "大机器停转",
+      "title": "大机器停转",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/大机器停转",
+      "level": "L5",
+      "duration_ms": 1152087,
+      "char_count": 4295,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/大机器停转/大机器停转.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "失落的世界",
+      "title": "失落的世界",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/失落的世界",
+      "level": "L5",
+      "duration_ms": 1700785,
+      "char_count": 6298,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/失落的世界/失落的世界.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "失落的大陆",
+      "title": "失落的大陆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/失落的大陆",
+      "level": "L5",
+      "duration_ms": 1621690,
+      "char_count": 6166,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/失落的大陆/失落的大陆.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "平面国",
+      "title": "平面国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/平面国",
+      "level": "L5",
+      "duration_ms": 1321516,
+      "char_count": 4963,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/平面国/平面国.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "时间机器",
+      "title": "时间机器",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/时间机器",
+      "level": "L5",
+      "duration_ms": 2481476,
+      "char_count": 9723,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/时间机器/时间机器.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "星际战争",
+      "title": "星际战争",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/星际战争",
+      "level": "L5",
+      "duration_ms": 2102927,
+      "char_count": 8021,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/星际战争/星际战争.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最先登上月球的人",
+      "title": "最先登上月球的人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/最先登上月球的人",
+      "level": "L5",
+      "duration_ms": 1955197,
+      "char_count": 7232,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/最先登上月球的人/最先登上月球的人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "机器岛",
+      "title": "机器岛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/机器岛",
+      "level": "L5",
+      "duration_ms": 1417694,
+      "char_count": 5323,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/机器岛/机器岛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "沉睡者醒来",
+      "title": "沉睡者醒来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/沉睡者醒来",
+      "level": "L5",
+      "duration_ms": 1106122,
+      "char_count": 4143,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/沉睡者醒来/沉睡者醒来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "流星追逐记",
+      "title": "流星追逐记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/流星追逐记",
+      "level": "L5",
+      "duration_ms": 1788138,
+      "char_count": 6487,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/流星追逐记/流星追逐记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "海底城",
+      "title": "海底城",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/海底城",
+      "level": "L5",
+      "duration_ms": 1432478,
+      "char_count": 5527,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/海底城/海底城.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "濒死的地球",
+      "title": "濒死的地球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/濒死的地球",
+      "level": "L5",
+      "duration_ms": 1170946,
+      "char_count": 4438,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/濒死的地球/濒死的地球.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "火星公主",
+      "title": "火星公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/火星公主",
+      "level": "L5",
+      "duration_ms": 1516441,
+      "char_count": 5682,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/火星公主/火星公主.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "环绕月球",
+      "title": "环绕月球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/环绕月球",
+      "level": "L5",
+      "duration_ms": 1259588,
+      "char_count": 4802,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/环绕月球/环绕月球.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "神的食物",
+      "title": "神的食物",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/神的食物",
+      "level": "L5",
+      "duration_ms": 1128161,
+      "char_count": 4085,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/神的食物/神的食物.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "神秘岛",
+      "title": "神秘岛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/神秘岛",
+      "level": "L5",
+      "duration_ms": 2187494,
+      "char_count": 8394,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/神秘岛/神秘岛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "紫色云",
+      "title": "紫色云",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/紫色云",
+      "level": "L5",
+      "duration_ms": 1069799,
+      "char_count": 4030,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/紫色云/紫色云.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "莫罗博士之岛",
+      "title": "莫罗博士之岛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/莫罗博士之岛",
+      "level": "L5",
+      "duration_ms": 1178509,
+      "char_count": 4274,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/莫罗博士之岛/莫罗博士之岛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "被时间遗忘的土地",
+      "title": "被时间遗忘的土地",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/被时间遗忘的土地",
+      "level": "L5",
+      "duration_ms": 1666258,
+      "char_count": 6289,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/被时间遗忘的土地/被时间遗忘的土地.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "银河系漫游指南",
+      "title": "银河系漫游指南",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/银河系漫游指南",
+      "level": "L5",
+      "duration_ms": 1226867,
+      "char_count": 4457,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/银河系漫游指南/银河系漫游指南.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "隐身人",
+      "title": "隐身人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "神州之外/K5科幻幻想/隐身人",
+      "level": "L5",
+      "duration_ms": 3058699,
+      "char_count": 11451,
+      "cover": {
+        "cover_image_url": "covers/generated/神州之外/K5科幻幻想/隐身人/隐身人.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

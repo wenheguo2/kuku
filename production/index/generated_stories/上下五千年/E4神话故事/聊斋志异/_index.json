@@ -1,0 +1,225 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "上下五千年/E4神话故事/聊斋志异",
+  "name": "聊斋志异",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/聊斋志异.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 15,
+  "entries": [
+    {
+      "entry_id": "促织",
+      "title": "促织",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/促织",
+      "level": "L5",
+      "duration_ms": 1104345,
+      "char_count": 4375,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/促织/促织.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "婴宁",
+      "title": "婴宁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/婴宁",
+      "level": "L5",
+      "duration_ms": 1177285,
+      "char_count": 4740,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/婴宁/婴宁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小翠",
+      "title": "小翠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/小翠",
+      "level": "L5",
+      "duration_ms": 942231,
+      "char_count": 3700,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/小翠/小翠.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "崂山道士",
+      "title": "崂山道士",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/崂山道士",
+      "level": "L5",
+      "duration_ms": 892588,
+      "char_count": 3428,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/崂山道士/崂山道士.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "席方平",
+      "title": "席方平",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/席方平",
+      "level": "",
+      "duration_ms": 1077872,
+      "char_count": 4170,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/席方平/席方平.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "画皮",
+      "title": "画皮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/画皮",
+      "level": "L5",
+      "duration_ms": 1010344,
+      "char_count": 3919,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/画皮/画皮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "罗刹海市",
+      "title": "罗刹海市",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/罗刹海市",
+      "level": "L5",
+      "duration_ms": 1392913,
+      "char_count": 5484,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/罗刹海市/罗刹海市.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "翩翩",
+      "title": "翩翩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/翩翩",
+      "level": "L5",
+      "duration_ms": 1152730,
+      "char_count": 4544,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/翩翩/翩翩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "聂小倩",
+      "title": "聂小倩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/聂小倩",
+      "level": "L5",
+      "duration_ms": 1013407,
+      "char_count": 3624,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/聂小倩/聂小倩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "西湖主",
+      "title": "西湖主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/西湖主",
+      "level": "L5",
+      "duration_ms": 1723865,
+      "char_count": 6715,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/西湖主/西湖主.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "辛十四娘",
+      "title": "辛十四娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/辛十四娘",
+      "level": "L5",
+      "duration_ms": 954843,
+      "char_count": 3377,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/辛十四娘/辛十四娘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "连城",
+      "title": "连城",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/连城",
+      "level": "L5",
+      "duration_ms": 1088623,
+      "char_count": 4264,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/连城/连城.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿宝",
+      "title": "阿宝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/阿宝",
+      "level": "L5",
+      "duration_ms": 951052,
+      "char_count": 3659,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/阿宝/阿宝.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿绣",
+      "title": "阿绣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/阿绣",
+      "level": "L5",
+      "duration_ms": 1582339,
+      "char_count": 6196,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/阿绣/阿绣.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "陆判",
+      "title": "陆判",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "上下五千年/E4神话故事/聊斋志异/陆判",
+      "level": "L5",
+      "duration_ms": 1304733,
+      "char_count": 5106,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/聊斋志异/陆判/陆判.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3515 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "standalone_collection",
+  "display_as": "category_card",
+  "path": "双界之门/啊我成主角了",
+  "name": "啊我成主角了",
+  "cover": {
+    "cover_image_url": "covers/generated/双界之门/啊我成主角了/啊我成主角了.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 250,
+  "entries": [
+    {
+      "entry_id": "三个火枪手的新伙伴",
+      "title": "三个火枪手的新伙伴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/三个火枪手的新伙伴",
+      "level": "",
+      "duration_ms": 843582,
+      "char_count": 3255,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/三个火枪手的新伙伴/三个火枪手的新伙伴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "伯邑考的救赎",
+      "title": "伯邑考的救赎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/伯邑考的救赎",
+      "level": "",
+      "duration_ms": 809128,
+      "char_count": 3128,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/伯邑考的救赎/伯邑考的救赎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "双界奇缘：三圣母的自由",
+      "title": "双界奇缘：三圣母的自由",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/双界奇缘：三圣母的自由",
+      "level": "L5",
+      "duration_ms": 691522,
+      "char_count": 2714,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/双界奇缘：三圣母的自由/双界奇缘：三圣母的自由.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "双重希望·潘多拉的魔法盒",
+      "title": "双重希望·潘多拉的魔法盒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/双重希望·潘多拉的魔法盒",
+      "level": "L5",
+      "duration_ms": 524705,
+      "char_count": 2057,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/双重希望·潘多拉的魔法盒/双重希望·潘多拉的魔法盒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "哪吒出生·爱的诞生",
+      "title": "哪吒出生·爱的诞生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/哪吒出生·爱的诞生",
+      "level": "L5",
+      "duration_ms": 615168,
+      "char_count": 2406,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/哪吒出生·爱的诞生/哪吒出生·爱的诞生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "啊我成主角啦：穿成杰克我拍了一部电影",
+      "title": "啊我成主角啦：穿成杰克我拍了一部电影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/啊我成主角啦：穿成杰克我拍了一部电影",
+      "level": "",
+      "duration_ms": 633985,
+      "char_count": 2489,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/啊我成主角啦：穿成杰克我拍了一部电影/啊我成主角啦：穿成杰克我拍了一部电影.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "女儿国奇遇",
+      "title": "女儿国奇遇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/女儿国奇遇",
+      "level": "",
+      "duration_ms": 677839,
+      "char_count": 2620,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/女儿国奇遇/女儿国奇遇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "山洞前的阿里巴巴",
+      "title": "山洞前的阿里巴巴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/山洞前的阿里巴巴",
+      "level": "",
+      "duration_ms": 874084,
+      "char_count": 3494,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/山洞前的阿里巴巴/山洞前的阿里巴巴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "张飞营帐大冒险",
+      "title": "张飞营帐大冒险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/张飞营帐大冒险",
+      "level": "",
+      "duration_ms": 612665,
+      "char_count": 2364,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/张飞营帐大冒险/张飞营帐大冒险.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拯救郭嘉",
+      "title": "拯救郭嘉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/拯救郭嘉",
+      "level": "",
+      "duration_ms": 519240,
+      "char_count": 2021,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/拯救郭嘉/拯救郭嘉.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "改造童话的安徒生",
+      "title": "改造童话的安徒生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/改造童话的安徒生",
+      "level": "L5",
+      "duration_ms": 578846,
+      "char_count": 2256,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/改造童话的安徒生/改造童话的安徒生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "智破曾头市",
+      "title": "智破曾头市",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/智破曾头市",
+      "level": "",
+      "duration_ms": 467452,
+      "char_count": 1827,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/智破曾头市/智破曾头市.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "最后一根火柴的奇迹",
+      "title": "最后一根火柴的奇迹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/最后一根火柴的奇迹",
+      "level": "L5",
+      "duration_ms": 532561,
+      "char_count": 2083,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/最后一根火柴的奇迹/最后一根火柴的奇迹.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "本草纲目奇遇记",
+      "title": "本草纲目奇遇记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/本草纲目奇遇记",
+      "level": "",
+      "duration_ms": 742943,
+      "char_count": 2888,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/本草纲目奇遇记/本草纲目奇遇记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "梁山好汉的新抉择",
+      "title": "梁山好汉的新抉择",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/梁山好汉的新抉择",
+      "level": "",
+      "duration_ms": 674843,
+      "char_count": 2631,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/梁山好汉的新抉择/梁山好汉的新抉择.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "比干的七窍玲珑心",
+      "title": "比干的七窍玲珑心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/比干的七窍玲珑心",
+      "level": "",
+      "duration_ms": 669843,
+      "char_count": 2627,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/比干的七窍玲珑心/比干的七窍玲珑心.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "毛遂自荐大冒险",
+      "title": "毛遂自荐大冒险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/毛遂自荐大冒险",
+      "level": "",
+      "duration_ms": 725557,
+      "char_count": 2816,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/毛遂自荐大冒险/毛遂自荐大冒险.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "灰姑娘的新乐章",
+      "title": "灰姑娘的新乐章",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/灰姑娘的新乐章",
+      "level": "",
+      "duration_ms": 822329,
+      "char_count": 3231,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/灰姑娘的新乐章/灰姑娘的新乐章.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "点亮星星的画家",
+      "title": "点亮星星的画家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/点亮星星的画家",
+      "level": "",
+      "duration_ms": 831411,
+      "char_count": 3318,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/点亮星星的画家/点亮星星的画家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "皮皮搬家大冒险",
+      "title": "皮皮搬家大冒险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/皮皮搬家大冒险",
+      "level": "",
+      "duration_ms": 803805,
+      "char_count": 3176,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/皮皮搬家大冒险/皮皮搬家大冒险.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "真假美猴王奇遇记",
+      "title": "真假美猴王奇遇记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/真假美猴王奇遇记",
+      "level": "",
+      "duration_ms": 617521,
+      "char_count": 2378,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/真假美猴王奇遇记/真假美猴王奇遇记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "空城计大冒险",
+      "title": "空城计大冒险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/空城计大冒险",
+      "level": "",
+      "duration_ms": 646269,
+      "char_count": 2510,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/空城计大冒险/空城计大冒险.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "空食盒的密语",
+      "title": "空食盒的密语",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/空食盒的密语",
+      "level": "",
+      "duration_ms": 612807,
+      "char_count": 2425,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/空食盒的密语/空食盒的密语.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成三个火枪手决斗",
+      "title": "穿成三个火枪手决斗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成三个火枪手决斗",
+      "level": "L5",
+      "duration_ms": 631483,
+      "char_count": 2450,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成三个火枪手决斗/穿成三个火枪手决斗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成三只小猪的老大",
+      "title": "穿成三只小猪的老大",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成三只小猪的老大",
+      "level": "",
+      "duration_ms": 631025,
+      "char_count": 2518,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成三只小猪的老大/穿成三只小猪的老大.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成不来梅音乐家上路",
+      "title": "穿成不来梅音乐家上路",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成不来梅音乐家上路",
+      "level": "",
+      "duration_ms": 853190,
+      "char_count": 3353,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成不来梅音乐家上路/穿成不来梅音乐家上路.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成丑小鸭被赶走那天",
+      "title": "穿成丑小鸭被赶走那天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成丑小鸭被赶走那天",
+      "level": "",
+      "duration_ms": 610272,
+      "char_count": 2377,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成丑小鸭被赶走那天/穿成丑小鸭被赶走那天.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成于禁被水淹七军",
+      "title": "穿成于禁被水淹七军",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成于禁被水淹七军",
+      "level": "L5",
+      "duration_ms": 610163,
+      "char_count": 2406,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成于禁被水淹七军/穿成于禁被水淹七军.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成亚瑟王拔剑前",
+      "title": "穿成亚瑟王拔剑前",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成亚瑟王拔剑前",
+      "level": "",
+      "duration_ms": 434312,
+      "char_count": 1697,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成亚瑟王拔剑前/穿成亚瑟王拔剑前.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成仓颉我摆了个摊",
+      "title": "穿成仓颉我摆了个摊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成仓颉我摆了个摊",
+      "level": "L5",
+      "duration_ms": 806733,
+      "char_count": 3159,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成仓颉我摆了个摊/穿成仓颉我摆了个摊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成仓颉造字",
+      "title": "穿成仓颉造字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成仓颉造字",
+      "level": "",
+      "duration_ms": 641022,
+      "char_count": 2498,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成仓颉造字/穿成仓颉造字.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成伊卡洛斯起飞",
+      "title": "穿成伊卡洛斯起飞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成伊卡洛斯起飞",
+      "level": "L5",
+      "duration_ms": 886909,
+      "char_count": 3447,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成伊卡洛斯起飞/穿成伊卡洛斯起飞.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成伽利略我比萨斜塔上同时扔了羽毛和铁球",
+      "title": "穿成伽利略我比萨斜塔上同时扔了羽毛和铁球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成伽利略我比萨斜塔上同时扔了羽毛和铁球",
+      "level": "L5",
+      "duration_ms": 755414,
+      "char_count": 2931,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成伽利略我比萨斜塔上同时扔了羽毛和铁球/穿成伽利略我比萨斜塔上同时扔了羽毛和铁球.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成俞伯牙摔琴",
+      "title": "穿成俞伯牙摔琴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成俞伯牙摔琴",
+      "level": "L5",
+      "duration_ms": 573024,
+      "char_count": 2221,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成俞伯牙摔琴/穿成俞伯牙摔琴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成信陵君",
+      "title": "穿成信陵君",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成信陵君",
+      "level": "L5",
+      "duration_ms": 763415,
+      "char_count": 2978,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成信陵君/穿成信陵君.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成八十天环游出发",
+      "title": "穿成八十天环游出发",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成八十天环游出发",
+      "level": "L5",
+      "duration_ms": 807626,
+      "char_count": 3180,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成八十天环游出发/穿成八十天环游出发.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成八十天环游到印度",
+      "title": "穿成八十天环游到印度",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成八十天环游到印度",
+      "level": "",
+      "duration_ms": 798159,
+      "char_count": 3092,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成八十天环游到印度/穿成八十天环游到印度.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成典韦宛城之战",
+      "title": "穿成典韦宛城之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成典韦宛城之战",
+      "level": "L5",
+      "duration_ms": 679735,
+      "char_count": 2697,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成典韦宛城之战/穿成典韦宛城之战.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成冰雪女王带走小男孩",
+      "title": "穿成冰雪女王带走小男孩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成冰雪女王带走小男孩",
+      "level": "L5",
+      "duration_ms": 631200,
+      "char_count": 2464,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成冰雪女王带走小男孩/穿成冰雪女王带走小男孩.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成刘禅投降前夜",
+      "title": "穿成刘禅投降前夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成刘禅投降前夜",
+      "level": "L5",
+      "duration_ms": 759050,
+      "char_count": 2981,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成刘禅投降前夜/穿成刘禅投降前夜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成刘邦我建了个群聊",
+      "title": "穿成刘邦我建了个群聊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成刘邦我建了个群聊",
+      "level": "",
+      "duration_ms": 1128373,
+      "char_count": 4383,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成刘邦我建了个群聊/穿成刘邦我建了个群聊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成刘邦白登山",
+      "title": "穿成刘邦白登山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成刘邦白登山",
+      "level": "L5",
+      "duration_ms": 585309,
+      "char_count": 2293,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成刘邦白登山/穿成刘邦白登山.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成刘邦赴鸿门宴",
+      "title": "穿成刘邦赴鸿门宴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成刘邦赴鸿门宴",
+      "level": "L5",
+      "duration_ms": 726591,
+      "char_count": 2875,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成刘邦赴鸿门宴/穿成刘邦赴鸿门宴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成包公审案",
+      "title": "穿成包公审案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成包公审案",
+      "level": "L5",
+      "duration_ms": 645267,
+      "char_count": 2475,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成包公审案/穿成包公审案.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成匡衡凿壁",
+      "title": "穿成匡衡凿壁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成匡衡凿壁",
+      "level": "L5",
+      "duration_ms": 851686,
+      "char_count": 3331,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成匡衡凿壁/穿成匡衡凿壁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成匹诺曹被鲸吞",
+      "title": "穿成匹诺曹被鲸吞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成匹诺曹被鲸吞",
+      "level": "",
+      "duration_ms": 632664,
+      "char_count": 2494,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成匹诺曹被鲸吞/穿成匹诺曹被鲸吞.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成华佗给曹操治病",
+      "title": "穿成华佗给曹操治病",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成华佗给曹操治病",
+      "level": "",
+      "duration_ms": 563239,
+      "char_count": 2217,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成华佗给曹操治病/穿成华佗给曹操治病.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成卖火柴女孩我交到了新朋友",
+      "title": "穿成卖火柴女孩我交到了新朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成卖火柴女孩我交到了新朋友",
+      "level": "",
+      "duration_ms": 762450,
+      "char_count": 2986,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成卖火柴女孩我交到了新朋友/穿成卖火柴女孩我交到了新朋友.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成卖火柴女孩我遇到了平行宇宙的自己",
+      "title": "穿成卖火柴女孩我遇到了平行宇宙的自己",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成卖火柴女孩我遇到了平行宇宙的自己",
+      "level": "",
+      "duration_ms": 845625,
+      "char_count": 3325,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成卖火柴女孩我遇到了平行宇宙的自己/穿成卖火柴女孩我遇到了平行宇宙的自己.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成卢俊义喝毒酒",
+      "title": "穿成卢俊义喝毒酒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成卢俊义喝毒酒",
+      "level": "",
+      "duration_ms": 574020,
+      "char_count": 2225,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成卢俊义喝毒酒/穿成卢俊义喝毒酒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成司马光我不砸缸我抽水",
+      "title": "穿成司马光我不砸缸我抽水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成司马光我不砸缸我抽水",
+      "level": "L5",
+      "duration_ms": 587985,
+      "char_count": 2313,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成司马光我不砸缸我抽水/穿成司马光我不砸缸我抽水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成司马光砸缸",
+      "title": "穿成司马光砸缸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成司马光砸缸",
+      "level": "L5",
+      "duration_ms": 623558,
+      "char_count": 2469,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成司马光砸缸/穿成司马光砸缸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成司马迁",
+      "title": "穿成司马迁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成司马迁",
+      "level": "",
+      "duration_ms": 593167,
+      "char_count": 2331,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成司马迁/穿成司马迁.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成后羿射日",
+      "title": "穿成后羿射日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成后羿射日",
+      "level": "L5",
+      "duration_ms": 677302,
+      "char_count": 2656,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成后羿射日/穿成后羿射日.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成吕不韦",
+      "title": "穿成吕不韦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成吕不韦",
+      "level": "",
+      "duration_ms": 859302,
+      "char_count": 3366,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成吕不韦/穿成吕不韦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成吕布杀董卓前夜",
+      "title": "穿成吕布杀董卓前夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成吕布杀董卓前夜",
+      "level": "L5",
+      "duration_ms": 610873,
+      "char_count": 2382,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成吕布杀董卓前夜/穿成吕布杀董卓前夜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成吴刚伐桂",
+      "title": "穿成吴刚伐桂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成吴刚伐桂",
+      "level": "L5",
+      "duration_ms": 581126,
+      "char_count": 2282,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成吴刚伐桂/穿成吴刚伐桂.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成吴刚我决定不砍树了改种桂花",
+      "title": "穿成吴刚我决定不砍树了改种桂花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成吴刚我决定不砍树了改种桂花",
+      "level": "L5",
+      "duration_ms": 641629,
+      "char_count": 2503,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成吴刚我决定不砍树了改种桂花/穿成吴刚我决定不砍树了改种桂花.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成吴用智劝卢俊义",
+      "title": "穿成吴用智劝卢俊义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成吴用智劝卢俊义",
+      "level": "L5",
+      "duration_ms": 655054,
+      "char_count": 2551,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成吴用智劝卢俊义/穿成吴用智劝卢俊义.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成周处除三害",
+      "title": "穿成周处除三害",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成周处除三害",
+      "level": "",
+      "duration_ms": 614735,
+      "char_count": 2425,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成周处除三害/穿成周处除三害.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成周瑜临死",
+      "title": "穿成周瑜临死",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成周瑜临死",
+      "level": "",
+      "duration_ms": 670526,
+      "char_count": 2628,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成周瑜临死/穿成周瑜临死.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成哥伦布我带了顺风快递",
+      "title": "穿成哥伦布我带了顺风快递",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成哥伦布我带了顺风快递",
+      "level": "",
+      "duration_ms": 691595,
+      "char_count": 2698,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成哥伦布我带了顺风快递/穿成哥伦布我带了顺风快递.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成哪吒自杀前",
+      "title": "穿成哪吒自杀前",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成哪吒自杀前",
+      "level": "",
+      "duration_ms": 613628,
+      "char_count": 2375,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成哪吒自杀前/穿成哪吒自杀前.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成唐僧西天取经出发",
+      "title": "穿成唐僧西天取经出发",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成唐僧西天取经出发",
+      "level": "",
+      "duration_ms": 754838,
+      "char_count": 2932,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成唐僧西天取经出发/穿成唐僧西天取经出发.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成圣诞老人出发前夜",
+      "title": "穿成圣诞老人出发前夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成圣诞老人出发前夜",
+      "level": "L5",
+      "duration_ms": 719915,
+      "char_count": 2813,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成圣诞老人出发前夜/穿成圣诞老人出发前夜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成基督山伯爵出狱",
+      "title": "穿成基督山伯爵出狱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成基督山伯爵出狱",
+      "level": "L5",
+      "duration_ms": 875842,
+      "char_count": 3456,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成基督山伯爵出狱/穿成基督山伯爵出狱.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成基督山伯爵被捕前",
+      "title": "穿成基督山伯爵被捕前",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成基督山伯爵被捕前",
+      "level": "",
+      "duration_ms": 1033474,
+      "char_count": 4056,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成基督山伯爵被捕前/穿成基督山伯爵被捕前.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成多萝西的红鞋",
+      "title": "穿成多萝西的红鞋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成多萝西的红鞋",
+      "level": "L5",
+      "duration_ms": 924377,
+      "char_count": 3632,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成多萝西的红鞋/穿成多萝西的红鞋.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成大禹治水",
+      "title": "穿成大禹治水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成大禹治水",
+      "level": "",
+      "duration_ms": 940842,
+      "char_count": 3675,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成大禹治水/穿成大禹治水.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成夸父我开了个培训班",
+      "title": "穿成夸父我开了个培训班",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成夸父我开了个培训班",
+      "level": "L5",
+      "duration_ms": 655089,
+      "char_count": 2510,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成夸父我开了个培训班/穿成夸父我开了个培训班.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成夸父追日",
+      "title": "穿成夸父追日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成夸父追日",
+      "level": "L5",
+      "duration_ms": 614950,
+      "char_count": 2433,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成夸父追日/穿成夸父追日.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成奥丁献眼",
+      "title": "穿成奥丁献眼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成奥丁献眼",
+      "level": "",
+      "duration_ms": 743269,
+      "char_count": 2921,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成奥丁献眼/穿成奥丁献眼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成奥德修斯出海",
+      "title": "穿成奥德修斯出海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成奥德修斯出海",
+      "level": "L5",
+      "duration_ms": 914585,
+      "char_count": 3608,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成奥德修斯出海/穿成奥德修斯出海.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成女娲补天",
+      "title": "穿成女娲补天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成女娲补天",
+      "level": "L5",
+      "duration_ms": 587735,
+      "char_count": 2311,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成女娲补天/穿成女娲补天.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成妲己进宫",
+      "title": "穿成妲己进宫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成妲己进宫",
+      "level": "L5",
+      "duration_ms": 636874,
+      "char_count": 2492,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成妲己进宫/穿成妲己进宫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成姆温多出生",
+      "title": "穿成姆温多出生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成姆温多出生",
+      "level": "",
+      "duration_ms": 709057,
+      "char_count": 2775,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成姆温多出生/穿成姆温多出生.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成姜子牙我做了个PPT",
+      "title": "穿成姜子牙我做了个PPT",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成姜子牙我做了个PPT",
+      "level": "",
+      "duration_ms": 642165,
+      "char_count": 2515,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成姜子牙我做了个PPT/穿成姜子牙我做了个PPT.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成姜子牙钓鱼",
+      "title": "穿成姜子牙钓鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成姜子牙钓鱼",
+      "level": "L5",
+      "duration_ms": 775126,
+      "char_count": 3022,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成姜子牙钓鱼/穿成姜子牙钓鱼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成姜维最后一战",
+      "title": "穿成姜维最后一战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成姜维最后一战",
+      "level": "",
+      "duration_ms": 516949,
+      "char_count": 2040,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成姜维最后一战/穿成姜维最后一战.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成嫦娥奔月",
+      "title": "穿成嫦娥奔月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成嫦娥奔月",
+      "level": "L5",
+      "duration_ms": 497914,
+      "char_count": 1970,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成嫦娥奔月/穿成嫦娥奔月.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成孔子周游列国",
+      "title": "穿成孔子周游列国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成孔子周游列国",
+      "level": "",
+      "duration_ms": 806771,
+      "char_count": 3157,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成孔子周游列国/穿成孔子周游列国.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成孙悟空",
+      "title": "穿成孙悟空",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成孙悟空",
+      "level": "",
+      "duration_ms": 953398,
+      "char_count": 3714,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成孙悟空/穿成孙悟空.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成孙悟空三打白骨精",
+      "title": "穿成孙悟空三打白骨精",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成孙悟空三打白骨精",
+      "level": "",
+      "duration_ms": 609128,
+      "char_count": 2384,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成孙悟空三打白骨精/穿成孙悟空三打白骨精.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成孙悟空借芭蕉扇",
+      "title": "穿成孙悟空借芭蕉扇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成孙悟空借芭蕉扇",
+      "level": "",
+      "duration_ms": 735377,
+      "char_count": 2906,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成孙悟空借芭蕉扇/穿成孙悟空借芭蕉扇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成孙悟空大闹天宫",
+      "title": "穿成孙悟空大闹天宫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成孙悟空大闹天宫",
+      "level": "L5",
+      "duration_ms": 627630,
+      "char_count": 2453,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成孙悟空大闹天宫/穿成孙悟空大闹天宫.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成孙悟空被压五行山",
+      "title": "穿成孙悟空被压五行山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成孙悟空被压五行山",
+      "level": "",
+      "duration_ms": 662917,
+      "char_count": 2597,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成孙悟空被压五行山/穿成孙悟空被压五行山.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成孙权砍桌角",
+      "title": "穿成孙权砍桌角",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成孙权砍桌角",
+      "level": "",
+      "duration_ms": 459091,
+      "char_count": 1815,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成孙权砍桌角/穿成孙权砍桌角.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成孟姜女出发前",
+      "title": "穿成孟姜女出发前",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成孟姜女出发前",
+      "level": "L5",
+      "duration_ms": 902720,
+      "char_count": 3506,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成孟姜女出发前/穿成孟姜女出发前.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成孟子见梁惠王",
+      "title": "穿成孟子见梁惠王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成孟子见梁惠王",
+      "level": "L5",
+      "duration_ms": 564490,
+      "char_count": 2202,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成孟子见梁惠王/穿成孟子见梁惠王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成宋江我写了个攻略",
+      "title": "穿成宋江我写了个攻略",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成宋江我写了个攻略",
+      "level": "",
+      "duration_ms": 786908,
+      "char_count": 3100,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成宋江我写了个攻略/穿成宋江我写了个攻略.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成宋江我决定改写结局",
+      "title": "穿成宋江我决定改写结局",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成宋江我决定改写结局",
+      "level": "",
+      "duration_ms": 677274,
+      "char_count": 2618,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成宋江我决定改写结局/穿成宋江我决定改写结局.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成宋江我录了个vlog",
+      "title": "穿成宋江我录了个vlog",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成宋江我录了个vlog",
+      "level": "",
+      "duration_ms": 598807,
+      "char_count": 2352,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成宋江我录了个vlog/穿成宋江我录了个vlog.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成宋江杀惜",
+      "title": "穿成宋江杀惜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成宋江杀惜",
+      "level": "",
+      "duration_ms": 677447,
+      "char_count": 2627,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成宋江杀惜/穿成宋江杀惜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成完璧归赵",
+      "title": "穿成完璧归赵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成完璧归赵",
+      "level": "L5",
+      "duration_ms": 968054,
+      "char_count": 3772,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成完璧归赵/穿成完璧归赵.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成宙斯我拯救了反派",
+      "title": "穿成宙斯我拯救了反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成宙斯我拯救了反派",
+      "level": "L5",
+      "duration_ms": 627800,
+      "char_count": 2436,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成宙斯我拯救了反派/穿成宙斯我拯救了反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成小熊维尼找蜂蜜",
+      "title": "穿成小熊维尼找蜂蜜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成小熊维尼找蜂蜜",
+      "level": "L5",
+      "duration_ms": 962334,
+      "char_count": 3743,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成小熊维尼找蜂蜜/穿成小熊维尼找蜂蜜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成小白龙被贬前",
+      "title": "穿成小白龙被贬前",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成小白龙被贬前",
+      "level": "",
+      "duration_ms": 814087,
+      "char_count": 3149,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成小白龙被贬前/穿成小白龙被贬前.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成小红帽去外婆家",
+      "title": "穿成小红帽去外婆家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成小红帽去外婆家",
+      "level": "L5",
+      "duration_ms": 726879,
+      "char_count": 2881,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成小红帽去外婆家/穿成小红帽去外婆家.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成尼尔斯骑鹅",
+      "title": "穿成尼尔斯骑鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成尼尔斯骑鹅",
+      "level": "L5",
+      "duration_ms": 891726,
+      "char_count": 3474,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成尼尔斯骑鹅/穿成尼尔斯骑鹅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成屈原投江之前",
+      "title": "穿成屈原投江之前",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成屈原投江之前",
+      "level": "",
+      "duration_ms": 638274,
+      "char_count": 2487,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成屈原投江之前/穿成屈原投江之前.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成岳飞我建了个群聊",
+      "title": "穿成岳飞我建了个群聊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成岳飞我建了个群聊",
+      "level": "",
+      "duration_ms": 749308,
+      "char_count": 2945,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成岳飞我建了个群聊/穿成岳飞我建了个群聊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成岳飞练字",
+      "title": "穿成岳飞练字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成岳飞练字",
+      "level": "L5",
+      "duration_ms": 778093,
+      "char_count": 3078,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成岳飞练字/穿成岳飞练字.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成巴德尔死的那天",
+      "title": "穿成巴德尔死的那天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成巴德尔死的那天",
+      "level": "L5",
+      "duration_ms": 800375,
+      "char_count": 3150,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成巴德尔死的那天/穿成巴德尔死的那天.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成庄子梦蝶",
+      "title": "穿成庄子梦蝶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成庄子梦蝶",
+      "level": "L5",
+      "duration_ms": 641132,
+      "char_count": 2505,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成庄子梦蝶/穿成庄子梦蝶.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成庞统落凤坡",
+      "title": "穿成庞统落凤坡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成庞统落凤坡",
+      "level": "L5",
+      "duration_ms": 678490,
+      "char_count": 2641,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成庞统落凤坡/穿成庞统落凤坡.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成张衡我在地动仪上装了蜂鸣器",
+      "title": "穿成张衡我在地动仪上装了蜂鸣器",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成张衡我在地动仪上装了蜂鸣器",
+      "level": "L5",
+      "duration_ms": 916803,
+      "char_count": 3578,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成张衡我在地动仪上装了蜂鸣器/穿成张衡我在地动仪上装了蜂鸣器.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成张衡造地动仪",
+      "title": "穿成张衡造地动仪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成张衡造地动仪",
+      "level": "L5",
+      "duration_ms": 918651,
+      "char_count": 3534,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成张衡造地动仪/穿成张衡造地动仪.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成张骞出使",
+      "title": "穿成张骞出使",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成张骞出使",
+      "level": "",
+      "duration_ms": 652916,
+      "char_count": 2585,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成张骞出使/穿成张骞出使.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成弥达斯求点金术",
+      "title": "穿成弥达斯求点金术",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成弥达斯求点金术",
+      "level": "L5",
+      "duration_ms": 675525,
+      "char_count": 2663,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成弥达斯求点金术/穿成弥达斯求点金术.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成彼得潘飞起来",
+      "title": "穿成彼得潘飞起来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成彼得潘飞起来",
+      "level": "",
+      "duration_ms": 759048,
+      "char_count": 2990,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成彼得潘飞起来/穿成彼得潘飞起来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成徐福我带了GPS去不是寻仙药",
+      "title": "穿成徐福我带了GPS去不是寻仙药",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成徐福我带了GPS去不是寻仙药",
+      "level": "L5",
+      "duration_ms": 602344,
+      "char_count": 2158,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成徐福我带了GPS去不是寻仙药/穿成徐福我带了GPS去不是寻仙药.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成徐霞客游记",
+      "title": "穿成徐霞客游记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成徐霞客游记",
+      "level": "",
+      "duration_ms": 714840,
+      "char_count": 2821,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成徐霞客游记/穿成徐霞客游记.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成愚公我做了个PPT",
+      "title": "穿成愚公我做了个PPT",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成愚公我做了个PPT",
+      "level": "",
+      "duration_ms": 542879,
+      "char_count": 2153,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成愚公我做了个PPT/穿成愚公我做了个PPT.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成愚公我开了直播",
+      "title": "穿成愚公我开了直播",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成愚公我开了直播",
+      "level": "",
+      "duration_ms": 1043836,
+      "char_count": 4009,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成愚公我开了直播/穿成愚公我开了直播.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成愚公移山",
+      "title": "穿成愚公移山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成愚公移山",
+      "level": "L5",
+      "duration_ms": 607921,
+      "char_count": 2379,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成愚公移山/穿成愚公移山.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成托尔我改变了故事基调",
+      "title": "穿成托尔我改变了故事基调",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成托尔我改变了故事基调",
+      "level": "",
+      "duration_ms": 575880,
+      "char_count": 2264,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成托尔我改变了故事基调/穿成托尔我改变了故事基调.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成拇指姑娘我交到了新朋友",
+      "title": "穿成拇指姑娘我交到了新朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成拇指姑娘我交到了新朋友",
+      "level": "",
+      "duration_ms": 516986,
+      "char_count": 2028,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成拇指姑娘我交到了新朋友/穿成拇指姑娘我交到了新朋友.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成拇指姑娘被抢走",
+      "title": "穿成拇指姑娘被抢走",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成拇指姑娘被抢走",
+      "level": "L5",
+      "duration_ms": 1103345,
+      "char_count": 4353,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成拇指姑娘被抢走/穿成拇指姑娘被抢走.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成指鹿为马的赵高",
+      "title": "穿成指鹿为马的赵高",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成指鹿为马的赵高",
+      "level": "L5",
+      "duration_ms": 661732,
+      "char_count": 2573,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成指鹿为马的赵高/穿成指鹿为马的赵高.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成方腊被擒",
+      "title": "穿成方腊被擒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成方腊被擒",
+      "level": "L5",
+      "duration_ms": 576165,
+      "char_count": 2266,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成方腊被擒/穿成方腊被擒.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成无底洞老鼠精",
+      "title": "穿成无底洞老鼠精",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成无底洞老鼠精",
+      "level": "",
+      "duration_ms": 792798,
+      "char_count": 3125,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成无底洞老鼠精/穿成无底洞老鼠精.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成曹冲称象",
+      "title": "穿成曹冲称象",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成曹冲称象",
+      "level": "L5",
+      "duration_ms": 536663,
+      "char_count": 2115,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成曹冲称象/穿成曹冲称象.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成曹冲称象我把船换成了地磅",
+      "title": "穿成曹冲称象我把船换成了地磅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成曹冲称象我把船换成了地磅",
+      "level": "L5",
+      "duration_ms": 680376,
+      "char_count": 2691,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成曹冲称象我把船换成了地磅/穿成曹冲称象我把船换成了地磅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成李世民玄武门",
+      "title": "穿成李世民玄武门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成李世民玄武门",
+      "level": "L5",
+      "duration_ms": 667806,
+      "char_count": 2629,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成李世民玄武门/穿成李世民玄武门.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成李白我做了个PPT",
+      "title": "穿成李白我做了个PPT",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成李白我做了个PPT",
+      "level": "",
+      "duration_ms": 564416,
+      "char_count": 2209,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成李白我做了个PPT/穿成李白我做了个PPT.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成李白醉写",
+      "title": "穿成李白醉写",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成李白醉写",
+      "level": "L5",
+      "duration_ms": 317744,
+      "char_count": 1253,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成李白醉写/穿成李白醉写.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成李逵我决定改写结局",
+      "title": "穿成李逵我决定改写结局",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成李逵我决定改写结局",
+      "level": "",
+      "duration_ms": 622089,
+      "char_count": 2440,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成李逵我决定改写结局/穿成李逵我决定改写结局.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成李逵接母亲",
+      "title": "穿成李逵接母亲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成李逵接母亲",
+      "level": "",
+      "duration_ms": 687904,
+      "char_count": 2748,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成李逵接母亲/穿成李逵接母亲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成杜甫写茅屋为秋风所破歌",
+      "title": "穿成杜甫写茅屋为秋风所破歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成杜甫写茅屋为秋风所破歌",
+      "level": "",
+      "duration_ms": 857343,
+      "char_count": 3359,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成杜甫写茅屋为秋风所破歌/穿成杜甫写茅屋为秋风所破歌.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成杨修说鸡肋",
+      "title": "穿成杨修说鸡肋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成杨修说鸡肋",
+      "level": "L5",
+      "duration_ms": 776372,
+      "char_count": 3005,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成杨修说鸡肋/穿成杨修说鸡肋.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成杨志卖刀",
+      "title": "穿成杨志卖刀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成杨志卖刀",
+      "level": "",
+      "duration_ms": 657517,
+      "char_count": 2552,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成杨志卖刀/穿成杨志卖刀.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成杰克爬上豆茎",
+      "title": "穿成杰克爬上豆茎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成杰克爬上豆茎",
+      "level": "L5",
+      "duration_ms": 596952,
+      "char_count": 2370,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成杰克爬上豆茎/穿成杰克爬上豆茎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成林冲风雪山神庙",
+      "title": "穿成林冲风雪山神庙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成林冲风雪山神庙",
+      "level": "L5",
+      "duration_ms": 678021,
+      "char_count": 2681,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成林冲风雪山神庙/穿成林冲风雪山神庙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成柳林风声的蟾蜍",
+      "title": "穿成柳林风声的蟾蜍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成柳林风声的蟾蜍",
+      "level": "",
+      "duration_ms": 753983,
+      "char_count": 2980,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成柳林风声的蟾蜍/穿成柳林风声的蟾蜍.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成格列佛出航",
+      "title": "穿成格列佛出航",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成格列佛出航",
+      "level": "L5",
+      "duration_ms": 693699,
+      "char_count": 2753,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成格列佛出航/穿成格列佛出航.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成格列佛到大人国",
+      "title": "穿成格列佛到大人国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成格列佛到大人国",
+      "level": "",
+      "duration_ms": 605170,
+      "char_count": 2361,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成格列佛到大人国/穿成格列佛到大人国.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成格列佛我拯救了反派",
+      "title": "穿成格列佛我拯救了反派",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成格列佛我拯救了反派",
+      "level": "",
+      "duration_ms": 482311,
+      "char_count": 1916,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成格列佛我拯救了反派/穿成格列佛我拯救了反派.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成格列佛我改变了故事基调",
+      "title": "穿成格列佛我改变了故事基调",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成格列佛我改变了故事基调",
+      "level": "",
+      "duration_ms": 555594,
+      "char_count": 2190,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成格列佛我改变了故事基调/穿成格列佛我改变了故事基调.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成梁山伯去提亲",
+      "title": "穿成梁山伯去提亲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成梁山伯去提亲",
+      "level": "L5",
+      "duration_ms": 725412,
+      "char_count": 2851,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成梁山伯去提亲/穿成梁山伯去提亲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成武则天登基",
+      "title": "穿成武则天登基",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成武则天登基",
+      "level": "L5",
+      "duration_ms": 698378,
+      "char_count": 2730,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成武则天登基/穿成武则天登基.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成武松打虎",
+      "title": "穿成武松打虎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成武松打虎",
+      "level": "L5",
+      "duration_ms": 790374,
+      "char_count": 3113,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成武松打虎/穿成武松打虎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成毕昇活字",
+      "title": "穿成毕昇活字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成毕昇活字",
+      "level": "",
+      "duration_ms": 983441,
+      "char_count": 3851,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成毕昇活字/穿成毕昇活字.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成汤姆索亚刷墙",
+      "title": "穿成汤姆索亚刷墙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成汤姆索亚刷墙",
+      "level": "L5",
+      "duration_ms": 586946,
+      "char_count": 2272,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成汤姆索亚刷墙/穿成汤姆索亚刷墙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成汤姆索亚当海盗",
+      "title": "穿成汤姆索亚当海盗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成汤姆索亚当海盗",
+      "level": "",
+      "duration_ms": 696629,
+      "char_count": 2724,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成汤姆索亚当海盗/穿成汤姆索亚当海盗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成沙僧我开了直播",
+      "title": "穿成沙僧我开了直播",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成沙僧我开了直播",
+      "level": "",
+      "duration_ms": 830021,
+      "char_count": 3248,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成沙僧我开了直播/穿成沙僧我开了直播.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成沙僧流沙河",
+      "title": "穿成沙僧流沙河",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成沙僧流沙河",
+      "level": "L5",
+      "duration_ms": 716737,
+      "char_count": 2810,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成沙僧流沙河/穿成沙僧流沙河.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成洛基恶作剧时",
+      "title": "穿成洛基恶作剧时",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成洛基恶作剧时",
+      "level": "",
+      "duration_ms": 697447,
+      "char_count": 2728,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成洛基恶作剧时/穿成洛基恶作剧时.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成渑池之会",
+      "title": "穿成渑池之会",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成渑池之会",
+      "level": "L5",
+      "duration_ms": 630908,
+      "char_count": 2488,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成渑池之会/穿成渑池之会.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成灰姑娘去舞会前",
+      "title": "穿成灰姑娘去舞会前",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成灰姑娘去舞会前",
+      "level": "",
+      "duration_ms": 1045045,
+      "char_count": 4121,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成灰姑娘去舞会前/穿成灰姑娘去舞会前.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成灰姑娘我拍了一部电影",
+      "title": "穿成灰姑娘我拍了一部电影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成灰姑娘我拍了一部电影",
+      "level": "",
+      "duration_ms": 646585,
+      "char_count": 2526,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成灰姑娘我拍了一部电影/穿成灰姑娘我拍了一部电影.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成燕青救卢俊义",
+      "title": "穿成燕青救卢俊义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成燕青救卢俊义",
+      "level": "L5",
+      "duration_ms": 770983,
+      "char_count": 3041,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成燕青救卢俊义/穿成燕青救卢俊义.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成燧人氏钻木取火",
+      "title": "穿成燧人氏钻木取火",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成燧人氏钻木取火",
+      "level": "",
+      "duration_ms": 763984,
+      "char_count": 3010,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成燧人氏钻木取火/穿成燧人氏钻木取火.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成爱丽丝疯帽匠茶会",
+      "title": "穿成爱丽丝疯帽匠茶会",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成爱丽丝疯帽匠茶会",
+      "level": "L5",
+      "duration_ms": 737414,
+      "char_count": 2908,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成爱丽丝疯帽匠茶会/穿成爱丽丝疯帽匠茶会.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成牛郎偷衣时",
+      "title": "穿成牛郎偷衣时",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成牛郎偷衣时",
+      "level": "",
+      "duration_ms": 1048871,
+      "char_count": 4036,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成牛郎偷衣时/穿成牛郎偷衣时.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成牛顿我被苹果砸中发现了别的",
+      "title": "穿成牛顿我被苹果砸中发现了别的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成牛顿我被苹果砸中发现了别的",
+      "level": "",
+      "duration_ms": 957501,
+      "char_count": 3752,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成牛顿我被苹果砸中发现了别的/穿成牛顿我被苹果砸中发现了别的.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成猪八戒我写了个攻略",
+      "title": "穿成猪八戒我写了个攻略",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成猪八戒我写了个攻略",
+      "level": "L5",
+      "duration_ms": 706014,
+      "char_count": 2763,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成猪八戒我写了个攻略/穿成猪八戒我写了个攻略.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成猪八戒背媳妇",
+      "title": "穿成猪八戒背媳妇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成猪八戒背媳妇",
+      "level": "L5",
+      "duration_ms": 629052,
+      "char_count": 2508,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成猪八戒背媳妇/穿成猪八戒背媳妇.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成猪八戒高老庄",
+      "title": "穿成猪八戒高老庄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成猪八戒高老庄",
+      "level": "",
+      "duration_ms": 754056,
+      "char_count": 2951,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成猪八戒高老庄/穿成猪八戒高老庄.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成王伦拒林冲",
+      "title": "穿成王伦拒林冲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成王伦拒林冲",
+      "level": "L5",
+      "duration_ms": 646481,
+      "char_count": 2517,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成王伦拒林冲/穿成王伦拒林冲.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成王戎不取道旁李",
+      "title": "穿成王戎不取道旁李",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成王戎不取道旁李",
+      "level": "L5",
+      "duration_ms": 696917,
+      "char_count": 2765,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成王戎不取道旁李/穿成王戎不取道旁李.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成王羲之写兰亭序",
+      "title": "穿成王羲之写兰亭序",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成王羲之写兰亭序",
+      "level": "L5",
+      "duration_ms": 580559,
+      "char_count": 2294,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成王羲之写兰亭序/穿成王羲之写兰亭序.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成王羲之我建了个群聊",
+      "title": "穿成王羲之我建了个群聊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成王羲之我建了个群聊",
+      "level": "",
+      "duration_ms": 816411,
+      "char_count": 3224,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成王羲之我建了个群聊/穿成王羲之我建了个群聊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成王羲之我提前带了最好的宣纸",
+      "title": "穿成王羲之我提前带了最好的宣纸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成王羲之我提前带了最好的宣纸",
+      "level": "L5",
+      "duration_ms": 657595,
+      "char_count": 2563,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成王羲之我提前带了最好的宣纸/穿成王羲之我提前带了最好的宣纸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成甘罗十二为相",
+      "title": "穿成甘罗十二为相",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成甘罗十二为相",
+      "level": "",
+      "duration_ms": 782233,
+      "char_count": 3017,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成甘罗十二为相/穿成甘罗十二为相.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成田忌赛马",
+      "title": "穿成田忌赛马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成田忌赛马",
+      "level": "L5",
+      "duration_ms": 681628,
+      "char_count": 2666,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成田忌赛马/穿成田忌赛马.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成申公豹",
+      "title": "穿成申公豹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成申公豹",
+      "level": "",
+      "duration_ms": 749481,
+      "char_count": 2928,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成申公豹/穿成申公豹.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成白居易写长恨歌",
+      "title": "穿成白居易写长恨歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成白居易写长恨歌",
+      "level": "",
+      "duration_ms": 701448,
+      "char_count": 2757,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成白居易写长恨歌/穿成白居易写长恨歌.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成白素贞端午",
+      "title": "穿成白素贞端午",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成白素贞端午",
+      "level": "",
+      "duration_ms": 649553,
+      "char_count": 2556,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成白素贞端午/穿成白素贞端午.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成白骨精第一次",
+      "title": "穿成白骨精第一次",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成白骨精第一次",
+      "level": "L5",
+      "duration_ms": 586558,
+      "char_count": 2278,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成白骨精第一次/穿成白骨精第一次.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成皇帝新装的大臣",
+      "title": "穿成皇帝新装的大臣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成皇帝新装的大臣",
+      "level": "",
+      "duration_ms": 665487,
+      "char_count": 2617,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成皇帝新装的大臣/穿成皇帝新装的大臣.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成盘古开天地",
+      "title": "穿成盘古开天地",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成盘古开天地",
+      "level": "L5",
+      "duration_ms": 562703,
+      "char_count": 2228,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成盘古开天地/穿成盘古开天地.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成睡美人被纺锤扎到前",
+      "title": "穿成睡美人被纺锤扎到前",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成睡美人被纺锤扎到前",
+      "level": "L5",
+      "duration_ms": 1116052,
+      "char_count": 4373,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成睡美人被纺锤扎到前/穿成睡美人被纺锤扎到前.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成祖逖北伐",
+      "title": "穿成祖逖北伐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成祖逖北伐",
+      "level": "L5",
+      "duration_ms": 567414,
+      "char_count": 2223,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成祖逖北伐/穿成祖逖北伐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成祝英台出嫁前夜",
+      "title": "穿成祝英台出嫁前夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成祝英台出嫁前夜",
+      "level": "L5",
+      "duration_ms": 670730,
+      "char_count": 2592,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成祝英台出嫁前夜/穿成祝英台出嫁前夜.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成神农尝百草",
+      "title": "穿成神农尝百草",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成神农尝百草",
+      "level": "L5",
+      "duration_ms": 767511,
+      "char_count": 3028,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成神农尝百草/穿成神农尝百草.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成秘密花园春天到来",
+      "title": "穿成秘密花园春天到来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成秘密花园春天到来",
+      "level": "L5",
+      "duration_ms": 828055,
+      "char_count": 3230,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成秘密花园春天到来/穿成秘密花园春天到来.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成秘密花园的钥匙",
+      "title": "穿成秘密花园的钥匙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成秘密花园的钥匙",
+      "level": "L5",
+      "duration_ms": 816591,
+      "char_count": 3220,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成秘密花园的钥匙/穿成秘密花园的钥匙.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成秦桧接金牌",
+      "title": "穿成秦桧接金牌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成秦桧接金牌",
+      "level": "L5",
+      "duration_ms": 848591,
+      "char_count": 3314,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成秦桧接金牌/穿成秦桧接金牌.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成穿靴子的猫找主人",
+      "title": "穿成穿靴子的猫找主人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成穿靴子的猫找主人",
+      "level": "L5",
+      "duration_ms": 795125,
+      "char_count": 3092,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成穿靴子的猫找主人/穿成穿靴子的猫找主人.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成窃符救赵",
+      "title": "穿成窃符救赵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成窃符救赵",
+      "level": "L5",
+      "duration_ms": 590267,
+      "char_count": 2316,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成窃符救赵/穿成窃符救赵.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成精卫填海",
+      "title": "穿成精卫填海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成精卫填海",
+      "level": "L5",
+      "duration_ms": 723948,
+      "char_count": 2786,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成精卫填海/穿成精卫填海.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成精卫我写了个攻略",
+      "title": "穿成精卫我写了个攻略",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成精卫我写了个攻略",
+      "level": "",
+      "duration_ms": 762985,
+      "char_count": 2936,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成精卫我写了个攻略/穿成精卫我写了个攻略.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成纣王女娲宫进香",
+      "title": "穿成纣王女娲宫进香",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成纣王女娲宫进香",
+      "level": "",
+      "duration_ms": 529953,
+      "char_count": 2101,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成纣王女娲宫进香/穿成纣王女娲宫进香.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成绿野仙踪狮子寻勇气",
+      "title": "穿成绿野仙踪狮子寻勇气",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成绿野仙踪狮子寻勇气",
+      "level": "",
+      "duration_ms": 654451,
+      "char_count": 2583,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成绿野仙踪狮子寻勇气/穿成绿野仙踪狮子寻勇气.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成缇萦救父",
+      "title": "穿成缇萦救父",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成缇萦救父",
+      "level": "",
+      "duration_ms": 556374,
+      "char_count": 2169,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成缇萦救父/穿成缇萦救父.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成罗宾汉第一次射箭",
+      "title": "穿成罗宾汉第一次射箭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成罗宾汉第一次射箭",
+      "level": "L5",
+      "duration_ms": 721450,
+      "char_count": 2825,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成罗宾汉第一次射箭/穿成罗宾汉第一次射箭.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成美人鱼变泡沫前",
+      "title": "穿成美人鱼变泡沫前",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成美人鱼变泡沫前",
+      "level": "L5",
+      "duration_ms": 672624,
+      "char_count": 2602,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成美人鱼变泡沫前/穿成美人鱼变泡沫前.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成美女我改变了故事基调",
+      "title": "穿成美女我改变了故事基调",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成美女我改变了故事基调",
+      "level": "",
+      "duration_ms": 853230,
+      "char_count": 3341,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成美女我改变了故事基调/穿成美女我改变了故事基调.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成胡克船长对战彼得潘",
+      "title": "穿成胡克船长对战彼得潘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成胡克船长对战彼得潘",
+      "level": "L5",
+      "duration_ms": 745563,
+      "char_count": 2940,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成胡克船长对战彼得潘/穿成胡克船长对战彼得潘.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成芬里尔被铁链绑",
+      "title": "穿成芬里尔被铁链绑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成芬里尔被铁链绑",
+      "level": "",
+      "duration_ms": 783949,
+      "char_count": 3025,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成芬里尔被铁链绑/穿成芬里尔被铁链绑.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成花木兰我录了个vlog",
+      "title": "穿成花木兰我录了个vlog",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成花木兰我录了个vlog",
+      "level": "",
+      "duration_ms": 421876,
+      "char_count": 1650,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成花木兰我录了个vlog/穿成花木兰我录了个vlog.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成花木兰我组建了粉丝团",
+      "title": "穿成花木兰我组建了粉丝团",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成花木兰我组建了粉丝团",
+      "level": "L5",
+      "duration_ms": 565627,
+      "char_count": 2253,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成花木兰我组建了粉丝团/穿成花木兰我组建了粉丝团.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成花木兰被发现",
+      "title": "穿成花木兰被发现",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成花木兰被发现",
+      "level": "L5",
+      "duration_ms": 926446,
+      "char_count": 3644,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成花木兰被发现/穿成花木兰被发现.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成苏护献女",
+      "title": "穿成苏护献女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成苏护献女",
+      "level": "L5",
+      "duration_ms": 748167,
+      "char_count": 2910,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成苏护献女/穿成苏护献女.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成荆轲刺秦",
+      "title": "穿成荆轲刺秦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成荆轲刺秦",
+      "level": "L5",
+      "duration_ms": 586665,
+      "char_count": 2288,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成荆轲刺秦/穿成荆轲刺秦.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成荆轲我开了直播",
+      "title": "穿成荆轲我开了直播",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成荆轲我开了直播",
+      "level": "L5",
+      "duration_ms": 687310,
+      "char_count": 2676,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成荆轲我开了直播/穿成荆轲我开了直播.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成草原上的小木屋",
+      "title": "穿成草原上的小木屋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成草原上的小木屋",
+      "level": "",
+      "duration_ms": 583631,
+      "char_count": 2303,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成草原上的小木屋/穿成草原上的小木屋.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成莎士比亚我直接写了电脑剧本",
+      "title": "穿成莎士比亚我直接写了电脑剧本",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成莎士比亚我直接写了电脑剧本",
+      "level": "L5",
+      "duration_ms": 751166,
+      "char_count": 2919,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成莎士比亚我直接写了电脑剧本/穿成莎士比亚我直接写了电脑剧本.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成董永和七仙女",
+      "title": "穿成董永和七仙女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成董永和七仙女",
+      "level": "",
+      "duration_ms": 952869,
+      "char_count": 3750,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成董永和七仙女/穿成董永和七仙女.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成蔡伦我做了个PPT",
+      "title": "穿成蔡伦我做了个PPT",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成蔡伦我做了个PPT",
+      "level": "",
+      "duration_ms": 689340,
+      "char_count": 2686,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成蔡伦我做了个PPT/穿成蔡伦我做了个PPT.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成蔡伦造纸",
+      "title": "穿成蔡伦造纸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成蔡伦造纸",
+      "level": "L5",
+      "duration_ms": 760594,
+      "char_count": 2987,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成蔡伦造纸/穿成蔡伦造纸.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成蜘蛛精盘丝洞",
+      "title": "穿成蜘蛛精盘丝洞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成蜘蛛精盘丝洞",
+      "level": "",
+      "duration_ms": 888089,
+      "char_count": 3487,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成蜘蛛精盘丝洞/穿成蜘蛛精盘丝洞.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成袁绍官渡之战",
+      "title": "穿成袁绍官渡之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成袁绍官渡之战",
+      "level": "L5",
+      "duration_ms": 671874,
+      "char_count": 2614,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成袁绍官渡之战/穿成袁绍官渡之战.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成许仙见法海",
+      "title": "穿成许仙见法海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成许仙见法海",
+      "level": "L5",
+      "duration_ms": 409849,
+      "char_count": 1620,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成许仙见法海/穿成许仙见法海.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成诸葛亮",
+      "title": "穿成诸葛亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成诸葛亮",
+      "level": "",
+      "duration_ms": 847090,
+      "char_count": 3323,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成诸葛亮/穿成诸葛亮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成诸葛亮七星灯我提前找了备用灯",
+      "title": "穿成诸葛亮七星灯我提前找了备用灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成诸葛亮七星灯我提前找了备用灯",
+      "level": "L5",
+      "duration_ms": 575132,
+      "char_count": 2260,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成诸葛亮七星灯我提前找了备用灯/穿成诸葛亮七星灯我提前找了备用灯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成诸葛亮造木牛流马",
+      "title": "穿成诸葛亮造木牛流马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成诸葛亮造木牛流马",
+      "level": "",
+      "duration_ms": 579736,
+      "char_count": 2284,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成诸葛亮造木牛流马/穿成诸葛亮造木牛流马.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成贝多芬我用骨传导技术恢复了听力",
+      "title": "穿成贝多芬我用骨传导技术恢复了听力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成贝多芬我用骨传导技术恢复了听力",
+      "level": "L5",
+      "duration_ms": 582239,
+      "char_count": 2316,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成贝多芬我用骨传导技术恢复了听力/穿成贝多芬我用骨传导技术恢复了听力.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成赫拉克勒斯接任务",
+      "title": "穿成赫拉克勒斯接任务",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成赫拉克勒斯接任务",
+      "level": "L5",
+      "duration_ms": 622478,
+      "char_count": 2395,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成赫拉克勒斯接任务/穿成赫拉克勒斯接任务.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成赵公明下山",
+      "title": "穿成赵公明下山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成赵公明下山",
+      "level": "L5",
+      "duration_ms": 850196,
+      "char_count": 3307,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成赵公明下山/穿成赵公明下山.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成赵括长平之战",
+      "title": "穿成赵括长平之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成赵括长平之战",
+      "level": "L5",
+      "duration_ms": 542775,
+      "char_count": 2135,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成赵括长平之战/穿成赵括长平之战.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成赵氏孤儿程婴",
+      "title": "穿成赵氏孤儿程婴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成赵氏孤儿程婴",
+      "level": "L5",
+      "duration_ms": 698194,
+      "char_count": 2786,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成赵氏孤儿程婴/穿成赵氏孤儿程婴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成辉夜姬回到月亮",
+      "title": "穿成辉夜姬回到月亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成辉夜姬回到月亮",
+      "level": "L5",
+      "duration_ms": 666772,
+      "char_count": 2603,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成辉夜姬回到月亮/穿成辉夜姬回到月亮.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成辛巴达第一次出海",
+      "title": "穿成辛巴达第一次出海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成辛巴达第一次出海",
+      "level": "L5",
+      "duration_ms": 845094,
+      "char_count": 3279,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成辛巴达第一次出海/穿成辛巴达第一次出海.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成达芬奇我画了圆形的蒙娜丽莎",
+      "title": "穿成达芬奇我画了圆形的蒙娜丽莎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成达芬奇我画了圆形的蒙娜丽莎",
+      "level": "",
+      "duration_ms": 662444,
+      "char_count": 2584,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成达芬奇我画了圆形的蒙娜丽莎/穿成达芬奇我画了圆形的蒙娜丽莎.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成通天河老龟",
+      "title": "穿成通天河老龟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成通天河老龟",
+      "level": "L5",
+      "duration_ms": 631263,
+      "char_count": 2464,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成通天河老龟/穿成通天河老龟.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成郑和下西洋",
+      "title": "穿成郑和下西洋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成郑和下西洋",
+      "level": "",
+      "duration_ms": 593770,
+      "char_count": 2365,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成郑和下西洋/穿成郑和下西洋.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成野兽的最后一瓣玫瑰",
+      "title": "穿成野兽的最后一瓣玫瑰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成野兽的最后一瓣玫瑰",
+      "level": "L5",
+      "duration_ms": 678663,
+      "char_count": 2660,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成野兽的最后一瓣玫瑰/穿成野兽的最后一瓣玫瑰.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成野天鹅公主织荨麻",
+      "title": "穿成野天鹅公主织荨麻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成野天鹅公主织荨麻",
+      "level": "",
+      "duration_ms": 876270,
+      "char_count": 3437,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成野天鹅公主织荨麻/穿成野天鹅公主织荨麻.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成金翅大鹏",
+      "title": "穿成金翅大鹏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成金翅大鹏",
+      "level": "L5",
+      "duration_ms": 647628,
+      "char_count": 2543,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成金翅大鹏/穿成金翅大鹏.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成金角大王",
+      "title": "穿成金角大王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成金角大王",
+      "level": "L5",
+      "duration_ms": 698518,
+      "char_count": 2689,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成金角大王/穿成金角大王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成钟馗见唐玄宗",
+      "title": "穿成钟馗见唐玄宗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成钟馗见唐玄宗",
+      "level": "",
+      "duration_ms": 534382,
+      "char_count": 2130,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成钟馗见唐玄宗/穿成钟馗见唐玄宗.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成铁扇公主",
+      "title": "穿成铁扇公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成铁扇公主",
+      "level": "",
+      "duration_ms": 725483,
+      "char_count": 2855,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成铁扇公主/穿成铁扇公主.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成长袜子皮皮我拍了一部电影",
+      "title": "穿成长袜子皮皮我拍了一部电影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成长袜子皮皮我拍了一部电影",
+      "level": "",
+      "duration_ms": 712842,
+      "char_count": 2791,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成长袜子皮皮我拍了一部电影/穿成长袜子皮皮我拍了一部电影.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成闻仲出征",
+      "title": "穿成闻仲出征",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成闻仲出征",
+      "level": "L5",
+      "duration_ms": 630626,
+      "char_count": 2476,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成闻仲出征/穿成闻仲出征.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成阿拉丁擦神灯",
+      "title": "穿成阿拉丁擦神灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成阿拉丁擦神灯",
+      "level": "L5",
+      "duration_ms": 632800,
+      "char_count": 2473,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成阿拉丁擦神灯/穿成阿拉丁擦神灯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成阿拉丁遇见魔法师",
+      "title": "穿成阿拉丁遇见魔法师",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成阿拉丁遇见魔法师",
+      "level": "L5",
+      "duration_ms": 1010226,
+      "char_count": 3915,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成阿拉丁遇见魔法师/穿成阿拉丁遇见魔法师.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成阿里巴巴我拍了一部电影",
+      "title": "穿成阿里巴巴我拍了一部电影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成阿里巴巴我拍了一部电影",
+      "level": "",
+      "duration_ms": 667481,
+      "char_count": 2632,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成阿里巴巴我拍了一部电影/穿成阿里巴巴我拍了一部电影.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成陈宫白门楼",
+      "title": "穿成陈宫白门楼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成陈宫白门楼",
+      "level": "",
+      "duration_ms": 639598,
+      "char_count": 2505,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成陈宫白门楼/穿成陈宫白门楼.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成陶渊明归隐",
+      "title": "穿成陶渊明归隐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成陶渊明归隐",
+      "level": "L5",
+      "duration_ms": 622087,
+      "char_count": 2393,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成陶渊明归隐/穿成陶渊明归隐.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成雷神托尔举锤",
+      "title": "穿成雷神托尔举锤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成雷神托尔举锤",
+      "level": "L5",
+      "duration_ms": 696948,
+      "char_count": 2705,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成雷神托尔举锤/穿成雷神托尔举锤.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成青鸟寻找之旅",
+      "title": "穿成青鸟寻找之旅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成青鸟寻找之旅",
+      "level": "L5",
+      "duration_ms": 800199,
+      "char_count": 3117,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成青鸟寻找之旅/穿成青鸟寻找之旅.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成韩信钻胯下",
+      "title": "穿成韩信钻胯下",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成韩信钻胯下",
+      "level": "L5",
+      "duration_ms": 804902,
+      "char_count": 3186,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成韩信钻胯下/穿成韩信钻胯下.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成魏延喊谁敢杀我",
+      "title": "穿成魏延喊谁敢杀我",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成魏延喊谁敢杀我",
+      "level": "",
+      "duration_ms": 655664,
+      "char_count": 2584,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成魏延喊谁敢杀我/穿成魏延喊谁敢杀我.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成鲁滨逊上船",
+      "title": "穿成鲁滨逊上船",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成鲁滨逊上船",
+      "level": "",
+      "duration_ms": 983296,
+      "char_count": 3890,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成鲁滨逊上船/穿成鲁滨逊上船.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成鲁滨逊我带了全套露营装备",
+      "title": "穿成鲁滨逊我带了全套露营装备",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成鲁滨逊我带了全套露营装备",
+      "level": "L5",
+      "duration_ms": 773483,
+      "char_count": 3027,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成鲁滨逊我带了全套露营装备/穿成鲁滨逊我带了全套露营装备.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成鲁滨逊遇见荒岛",
+      "title": "穿成鲁滨逊遇见荒岛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成鲁滨逊遇见荒岛",
+      "level": "L5",
+      "duration_ms": 612055,
+      "char_count": 2389,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成鲁滨逊遇见荒岛/穿成鲁滨逊遇见荒岛.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成鲁班我开了直播",
+      "title": "穿成鲁班我开了直播",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成鲁班我开了直播",
+      "level": "L5",
+      "duration_ms": 623520,
+      "char_count": 2473,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成鲁班我开了直播/穿成鲁班我开了直播.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成鲁班我摆了个摊",
+      "title": "穿成鲁班我摆了个摊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成鲁班我摆了个摊",
+      "level": "L5",
+      "duration_ms": 761981,
+      "char_count": 2982,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成鲁班我摆了个摊/穿成鲁班我摆了个摊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成鲁班造木鸢",
+      "title": "穿成鲁班造木鸢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成鲁班造木鸢",
+      "level": "L5",
+      "duration_ms": 1000692,
+      "char_count": 3940,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成鲁班造木鸢/穿成鲁班造木鸢.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿成黄眉大王",
+      "title": "穿成黄眉大王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿成黄眉大王",
+      "level": "L5",
+      "duration_ms": 680985,
+      "char_count": 2688,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿成黄眉大王/穿成黄眉大王.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿越官渡！我是许攸小伙伴",
+      "title": "穿越官渡！我是许攸小伙伴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿越官渡！我是许攸小伙伴",
+      "level": "L5",
+      "duration_ms": 902301,
+      "char_count": 3476,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿越官渡！我是许攸小伙伴/穿越官渡！我是许攸小伙伴.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿越火焰山",
+      "title": "穿越火焰山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿越火焰山",
+      "level": "",
+      "duration_ms": 676377,
+      "char_count": 2635,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿越火焰山/穿越火焰山.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿越荆轲带手机",
+      "title": "穿越荆轲带手机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/穿越荆轲带手机",
+      "level": "",
+      "duration_ms": 865692,
+      "char_count": 3421,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/穿越荆轲带手机/穿越荆轲带手机.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "苏武牧羊",
+      "title": "苏武牧羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/苏武牧羊",
+      "level": "",
+      "duration_ms": 694486,
+      "char_count": 2730,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/苏武牧羊/苏武牧羊.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "赤壁前夜的奇妙穿越",
+      "title": "赤壁前夜的奇妙穿越",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/赤壁前夜的奇妙穿越",
+      "level": "",
+      "duration_ms": 756559,
+      "char_count": 2971,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/赤壁前夜的奇妙穿越/赤壁前夜的奇妙穿越.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "酷酷和桃子变身西西弗斯",
+      "title": "酷酷和桃子变身西西弗斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/酷酷和桃子变身西西弗斯",
+      "level": "",
+      "duration_ms": 626951,
+      "char_count": 2430,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/酷酷和桃子变身西西弗斯/酷酷和桃子变身西西弗斯.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "金发姑娘与三只熊·友谊粥",
+      "title": "金发姑娘与三只熊·友谊粥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/金发姑娘与三只熊·友谊粥",
+      "level": "L5",
+      "duration_ms": 676372,
+      "char_count": 2690,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/金发姑娘与三只熊·友谊粥/金发姑娘与三只熊·友谊粥.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "金银岛大冒险",
+      "title": "金银岛大冒险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/金银岛大冒险",
+      "level": "",
+      "duration_ms": 688017,
+      "char_count": 2675,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/金银岛大冒险/金银岛大冒险.webp",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "霸王别姬新传·双界之门",
+      "title": "霸王别姬新传·双界之门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "双界之门/啊我成主角了/霸王别姬新传·双界之门",
+      "level": "L5",
+      "duration_ms": 686203,
+      "char_count": 2691,
+      "cover": {
+        "cover_image_url": "covers/generated/双界之门/啊我成主角了/霸王别姬新传·双界之门/霸王别姬新传·双界之门.webp",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

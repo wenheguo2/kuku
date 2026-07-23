@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "index_type": "subject_index",
+  "subject_id": "诗词天地",
+  "subject_name": "诗词天地",
+  "cover": {
+    "cover_image_url": "covers/generated/诗词天地/诗词天地.webp",
+    "cover_level": "subject"
+  },
+  "category_count": 2,
+  "categories": [
+    {
+      "id": "P0诗词",
+      "name": "P0诗词",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 229,
+      "cover": {
+        "cover_image_url": "covers/generated/诗词天地/P0诗词/P0诗词.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "P1诗词",
+      "name": "P1诗词",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 260,
+      "cover": {
+        "cover_image_url": "covers/generated/诗词天地/P1诗词/P1诗词.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

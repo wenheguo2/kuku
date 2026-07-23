@@ -1,0 +1,225 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/冥想放松/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/冥想放松/冥想放松.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 30,
+  "entries": [
+    {
+      "entry_id": "mindful eating",
+      "title": "mindful eating",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/mindful eating"
+    },
+    {
+      "entry_id": "专注当下",
+      "title": "专注当下",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/专注当下"
+    },
+    {
+      "entry_id": "云朵漂浮",
+      "title": "云朵漂浮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/云朵漂浮"
+    },
+    {
+      "entry_id": "从头到脚放松",
+      "title": "从头到脚放松",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/从头到脚放松"
+    },
+    {
+      "entry_id": "伤心安慰",
+      "title": "伤心安慰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/伤心安慰"
+    },
+    {
+      "entry_id": "全身放松睡",
+      "title": "全身放松睡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/全身放松睡"
+    },
+    {
+      "entry_id": "压力释放",
+      "title": "压力释放",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/压力释放"
+    },
+    {
+      "entry_id": "开心分享",
+      "title": "开心分享",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/开心分享"
+    },
+    {
+      "entry_id": "排除干扰",
+      "title": "排除干扰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/排除干扰"
+    },
+    {
+      "entry_id": "接纳情绪",
+      "title": "接纳情绪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/接纳情绪"
+    },
+    {
+      "entry_id": "数息法",
+      "title": "数息法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/数息法"
+    },
+    {
+      "entry_id": "星星催眠曲",
+      "title": "星星催眠曲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/星星催眠曲"
+    },
+    {
+      "entry_id": "晚安冥想",
+      "title": "晚安冥想",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/晚安冥想"
+    },
+    {
+      "entry_id": "气球呼吸",
+      "title": "气球呼吸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/气球呼吸"
+    },
+    {
+      "entry_id": "注意力集中",
+      "title": "注意力集中",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/注意力集中"
+    },
+    {
+      "entry_id": "海浪呼吸",
+      "title": "海浪呼吸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/海浪呼吸"
+    },
+    {
+      "entry_id": "深呼吸放松",
+      "title": "深呼吸放松",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/深呼吸放松"
+    },
+    {
+      "entry_id": "温暖阳光照",
+      "title": "温暖阳光照",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/温暖阳光照"
+    },
+    {
+      "entry_id": "焦虑缓解",
+      "title": "焦虑缓解",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/焦虑缓解"
+    },
+    {
+      "entry_id": "生气时冷静",
+      "title": "生气时冷静",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/生气时冷静"
+    },
+    {
+      "entry_id": "美梦之旅",
+      "title": "美梦之旅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/美梦之旅"
+    },
+    {
+      "entry_id": "耐心培养",
+      "title": "耐心培养",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/耐心培养"
+    },
+    {
+      "entry_id": "肌肉放松歌",
+      "title": "肌肉放松歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/肌肉放松歌"
+    },
+    {
+      "entry_id": "花香呼吸",
+      "title": "花香呼吸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/花香呼吸"
+    },
+    {
+      "entry_id": "观察细节",
+      "title": "观察细节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/观察细节"
+    },
+    {
+      "entry_id": "觉察思绪",
+      "title": "觉察思绪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/觉察思绪"
+    },
+    {
+      "entry_id": "身体感知",
+      "title": "身体感知",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/身体感知"
+    },
+    {
+      "entry_id": "轻飘飘感觉",
+      "title": "轻飘飘感觉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/轻飘飘感觉"
+    },
+    {
+      "entry_id": "静心学习",
+      "title": "静心学习",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/静心学习"
+    },
+    {
+      "entry_id": "静心观察",
+      "title": "静心观察",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/冥想放松/中文歌曲/静心观察"
+    }
+  ]
+}

@@ -1,0 +1,1516 @@
+{
+  "schema_version": "1.0",
+  "index_type": "work_index",
+  "structure_type": "chaptered_work",
+  "display_as": "chaptered_card",
+  "path": "上下五千年/E4神话故事/封神演义",
+  "work_name": "封神演义",
+  "cover": {
+    "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+    "cover_level": "work"
+  },
+  "total_chapters": 100,
+  "total_duration_ms": 98412979,
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_id": "第001回 纣王女娲宫进香",
+      "title": "第001回 纣王女娲宫进香",
+      "full_path": "上下五千年/E4神话故事/封神演义/第001回 纣王女娲宫进香",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 928772,
+      "char_count": 3606,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": "第002回 冀州侯苏护反商",
+      "title": "第002回 冀州侯苏护反商",
+      "full_path": "上下五千年/E4神话故事/封神演义/第002回 冀州侯苏护反商",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 919626,
+      "char_count": 3565,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": "第003回 姬昌解围进妲己",
+      "title": "第003回 姬昌解围进妲己",
+      "full_path": "上下五千年/E4神话故事/封神演义/第003回 姬昌解围进妲己",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1223093,
+      "char_count": 4818,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": "第004回 恩州驿狐狸死妲己",
+      "title": "第004回 恩州驿狐狸死妲己",
+      "full_path": "上下五千年/E4神话故事/封神演义/第004回 恩州驿狐狸死妲己",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1418792,
+      "char_count": 5623,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": "第005回 云中子进剑除妖",
+      "title": "第005回 云中子进剑除妖",
+      "full_path": "上下五千年/E4神话故事/封神演义/第005回 云中子进剑除妖",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 962269,
+      "char_count": 3731,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": "第006回 纣王无道造炮烙",
+      "title": "第006回 纣王无道造炮烙",
+      "full_path": "上下五千年/E4神话故事/封神演义/第006回 纣王无道造炮烙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 687709,
+      "char_count": 2637,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": "第007回 费仲计废姜皇后",
+      "title": "第007回 费仲计废姜皇后",
+      "full_path": "上下五千年/E4神话故事/封神演义/第007回 费仲计废姜皇后",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 800629,
+      "char_count": 3087,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": "第008回 方弼方相反朝歌",
+      "title": "第008回 方弼方相反朝歌",
+      "full_path": "上下五千年/E4神话故事/封神演义/第008回 方弼方相反朝歌",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1005757,
+      "char_count": 3895,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": "第009回 商容九间殿死节",
+      "title": "第009回 商容九间殿死节",
+      "full_path": "上下五千年/E4神话故事/封神演义/第009回 商容九间殿死节",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 856448,
+      "char_count": 3273,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": "第010回 姬伯燕山收雷震",
+      "title": "第010回 姬伯燕山收雷震",
+      "full_path": "上下五千年/E4神话故事/封神演义/第010回 姬伯燕山收雷震",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 902403,
+      "char_count": 3504,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": "第011回 羑里城囚西伯侯",
+      "title": "第011回 羑里城囚西伯侯",
+      "full_path": "上下五千年/E4神话故事/封神演义/第011回 羑里城囚西伯侯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1611007,
+      "char_count": 6139,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": "第012回 陈塘关哪吒出世",
+      "title": "第012回 陈塘关哪吒出世",
+      "full_path": "上下五千年/E4神话故事/封神演义/第012回 陈塘关哪吒出世",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 994341,
+      "char_count": 3914,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": "第013回 太乙真人收石矶",
+      "title": "第013回 太乙真人收石矶",
+      "full_path": "上下五千年/E4神话故事/封神演义/第013回 太乙真人收石矶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1120876,
+      "char_count": 4337,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": "第014回 哪吒现莲花化身",
+      "title": "第014回 哪吒现莲花化身",
+      "full_path": "上下五千年/E4神话故事/封神演义/第014回 哪吒现莲花化身",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 879843,
+      "char_count": 3451,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": "第015回 昆仑山子牙下山",
+      "title": "第015回 昆仑山子牙下山",
+      "full_path": "上下五千年/E4神话故事/封神演义/第015回 昆仑山子牙下山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1181912,
+      "char_count": 4572,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 16,
+      "chapter_id": "第016回 子牙火烧琵琶精",
+      "title": "第016回 子牙火烧琵琶精",
+      "full_path": "上下五千年/E4神话故事/封神演义/第016回 子牙火烧琵琶精",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 988452,
+      "char_count": 3852,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 17,
+      "chapter_id": "第017回 苏妲己置造虿盆",
+      "title": "第017回 苏妲己置造虿盆",
+      "full_path": "上下五千年/E4神话故事/封神演义/第017回 苏妲己置造虿盆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1496038,
+      "char_count": 5700,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 18,
+      "chapter_id": "第018回 子牙谏主隐磻溪",
+      "title": "第018回 子牙谏主隐磻溪",
+      "full_path": "上下五千年/E4神话故事/封神演义/第018回 子牙谏主隐磻溪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 827350,
+      "char_count": 3078,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 19,
+      "chapter_id": "第019回 伯邑考进贡赎罪",
+      "title": "第019回 伯邑考进贡赎罪",
+      "full_path": "上下五千年/E4神话故事/封神演义/第019回 伯邑考进贡赎罪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 913091,
+      "char_count": 3524,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 20,
+      "chapter_id": "第020回 散宜生私通费尤",
+      "title": "第020回 散宜生私通费尤",
+      "full_path": "上下五千年/E4神话故事/封神演义/第020回 散宜生私通费尤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1181545,
+      "char_count": 4117,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 21,
+      "chapter_id": "第021回 文王夸官逃五关",
+      "title": "第021回 文王夸官逃五关",
+      "full_path": "上下五千年/E4神话故事/封神演义/第021回 文王夸官逃五关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1131686,
+      "char_count": 4419,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 22,
+      "chapter_id": "第022回 西伯侯文王吐子",
+      "title": "第022回 西伯侯文王吐子",
+      "full_path": "上下五千年/E4神话故事/封神演义/第022回 西伯侯文王吐子",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 737880,
+      "char_count": 2887,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 23,
+      "chapter_id": "第023回 文王夜梦飞熊兆",
+      "title": "第023回 文王夜梦飞熊兆",
+      "full_path": "上下五千年/E4神话故事/封神演义/第023回 文王夜梦飞熊兆",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1326940,
+      "char_count": 5161,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 24,
+      "chapter_id": "第024回 渭水文王聘子牙",
+      "title": "第024回 渭水文王聘子牙",
+      "full_path": "上下五千年/E4神话故事/封神演义/第024回 渭水文王聘子牙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 876704,
+      "char_count": 3361,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 25,
+      "chapter_id": "第025回 苏妲己请妖赴宴",
+      "title": "第025回 苏妲己请妖赴宴",
+      "full_path": "上下五千年/E4神话故事/封神演义/第025回 苏妲己请妖赴宴",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1012948,
+      "char_count": 3919,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 26,
+      "chapter_id": "第026回 妲己设计害比干",
+      "title": "第026回 妲己设计害比干",
+      "full_path": "上下五千年/E4神话故事/封神演义/第026回 妲己设计害比干",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 833911,
+      "char_count": 3223,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 27,
+      "chapter_id": "第027回 太师回兵陈十策",
+      "title": "第027回 太师回兵陈十策",
+      "full_path": "上下五千年/E4神话故事/封神演义/第027回 太师回兵陈十策",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 958302,
+      "char_count": 3680,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 28,
+      "chapter_id": "第028回 西伯兵伐崇侯虎",
+      "title": "第028回 西伯兵伐崇侯虎",
+      "full_path": "上下五千年/E4神话故事/封神演义/第028回 西伯兵伐崇侯虎",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1176687,
+      "char_count": 4014,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 29,
+      "chapter_id": "第029回 斩侯虎文王托孤",
+      "title": "第029回 斩侯虎文王托孤",
+      "full_path": "上下五千年/E4神话故事/封神演义/第029回 斩侯虎文王托孤",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 764313,
+      "char_count": 2967,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 30,
+      "chapter_id": "第030回 周纪激反武成王",
+      "title": "第030回 周纪激反武成王",
+      "full_path": "上下五千年/E4神话故事/封神演义/第030回 周纪激反武成王",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1064365,
+      "char_count": 4107,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 31,
+      "chapter_id": "第031回 闻太师驱兵追袭",
+      "title": "第031回 闻太师驱兵追袭",
+      "full_path": "上下五千年/E4神话故事/封神演义/第031回 闻太师驱兵追袭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 712480,
+      "char_count": 2776,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 32,
+      "chapter_id": "第032回 黄天化潼关会父",
+      "title": "第032回 黄天化潼关会父",
+      "full_path": "上下五千年/E4神话故事/封神演义/第032回 黄天化潼关会父",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1208837,
+      "char_count": 4666,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 33,
+      "chapter_id": "第033回 黄飞虎泗水大战",
+      "title": "第033回 黄飞虎泗水大战",
+      "full_path": "上下五千年/E4神话故事/封神演义/第033回 黄飞虎泗水大战",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1170084,
+      "char_count": 4580,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 34,
+      "chapter_id": "第034回 飞虎归周见子牙",
+      "title": "第034回 飞虎归周见子牙",
+      "full_path": "上下五千年/E4神话故事/封神演义/第034回 飞虎归周见子牙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1109939,
+      "char_count": 4268,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 35,
+      "chapter_id": "第035回 晁田兵探西岐事",
+      "title": "第035回 晁田兵探西岐事",
+      "full_path": "上下五千年/E4神话故事/封神演义/第035回 晁田兵探西岐事",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1190078,
+      "char_count": 4612,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 36,
+      "chapter_id": "第036回 张桂芳奉诏西征",
+      "title": "第036回 张桂芳奉诏西征",
+      "full_path": "上下五千年/E4神话故事/封神演义/第036回 张桂芳奉诏西征",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 992444,
+      "char_count": 3872,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 37,
+      "chapter_id": "第037回 姜子牙一上昆仑",
+      "title": "第037回 姜子牙一上昆仑",
+      "full_path": "上下五千年/E4神话故事/封神演义/第037回 姜子牙一上昆仑",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1336188,
+      "char_count": 5166,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 38,
+      "chapter_id": "第038回 四圣西岐会子牙",
+      "title": "第038回 四圣西岐会子牙",
+      "full_path": "上下五千年/E4神话故事/封神演义/第038回 四圣西岐会子牙",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1023946,
+      "char_count": 3953,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 39,
+      "chapter_id": "第039回 姜子牙冰冻岐山",
+      "title": "第039回 姜子牙冰冻岐山",
+      "full_path": "上下五千年/E4神话故事/封神演义/第039回 姜子牙冰冻岐山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1022834,
+      "char_count": 3928,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 40,
+      "chapter_id": "第040回 四天王遇丙灵公",
+      "title": "第040回 四天王遇丙灵公",
+      "full_path": "上下五千年/E4神话故事/封神演义/第040回 四天王遇丙灵公",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1452147,
+      "char_count": 5400,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 41,
+      "chapter_id": "第041回 闻太师兵伐西岐",
+      "title": "第041回 闻太师兵伐西岐",
+      "full_path": "上下五千年/E4神话故事/封神演义/第041回 闻太师兵伐西岐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1122331,
+      "char_count": 4401,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 42,
+      "chapter_id": "第042回 黄花山收邓辛张陶",
+      "title": "第042回 黄花山收邓辛张陶",
+      "full_path": "上下五千年/E4神话故事/封神演义/第042回 黄花山收邓辛张陶",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1011625,
+      "char_count": 3794,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 43,
+      "chapter_id": "第043回 闻太师西岐大战",
+      "title": "第043回 闻太师西岐大战",
+      "full_path": "上下五千年/E4神话故事/封神演义/第043回 闻太师西岐大战",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 722988,
+      "char_count": 2839,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 44,
+      "chapter_id": "第044回 子牙魂游昆仑山",
+      "title": "第044回 子牙魂游昆仑山",
+      "full_path": "上下五千年/E4神话故事/封神演义/第044回 子牙魂游昆仑山",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 704634,
+      "char_count": 2720,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 45,
+      "chapter_id": "第045回 燃灯议破十绝阵",
+      "title": "第045回 燃灯议破十绝阵",
+      "full_path": "上下五千年/E4神话故事/封神演义/第045回 燃灯议破十绝阵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 948728,
+      "char_count": 3742,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 46,
+      "chapter_id": "第046回 广成子破金光阵",
+      "title": "第046回 广成子破金光阵",
+      "full_path": "上下五千年/E4神话故事/封神演义/第046回 广成子破金光阵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 707632,
+      "char_count": 2752,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 47,
+      "chapter_id": "第047回 公明辅佐闻太师",
+      "title": "第047回 公明辅佐闻太师",
+      "full_path": "上下五千年/E4神话故事/封神演义/第047回 公明辅佐闻太师",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1011193,
+      "char_count": 3951,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 48,
+      "chapter_id": "第048回 陆压献计射公明",
+      "title": "第048回 陆压献计射公明",
+      "full_path": "上下五千年/E4神话故事/封神演义/第048回 陆压献计射公明",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 847591,
+      "char_count": 3317,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 49,
+      "chapter_id": "第049回 武王失陷红沙阵",
+      "title": "第049回 武王失陷红沙阵",
+      "full_path": "上下五千年/E4神话故事/封神演义/第049回 武王失陷红沙阵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1430188,
+      "char_count": 5509,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 50,
+      "chapter_id": "第050回 三姑计摆黄河阵",
+      "title": "第050回 三姑计摆黄河阵",
+      "full_path": "上下五千年/E4神话故事/封神演义/第050回 三姑计摆黄河阵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 767191,
+      "char_count": 2981,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 51,
+      "chapter_id": "第051回 子牙劫营破闻仲",
+      "title": "第051回 子牙劫营破闻仲",
+      "full_path": "上下五千年/E4神话故事/封神演义/第051回 子牙劫营破闻仲",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1305508,
+      "char_count": 5151,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 52,
+      "chapter_id": "第052回 绝龙岭闻仲归天",
+      "title": "第052回 绝龙岭闻仲归天",
+      "full_path": "上下五千年/E4神话故事/封神演义/第052回 绝龙岭闻仲归天",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 914920,
+      "char_count": 3593,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 53,
+      "chapter_id": "第053回 邓九公奉敕西征",
+      "title": "第053回 邓九公奉敕西征",
+      "full_path": "上下五千年/E4神话故事/封神演义/第053回 邓九公奉敕西征",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 788443,
+      "char_count": 3077,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 54,
+      "chapter_id": "第054回 土行孙立功显耀",
+      "title": "第054回 土行孙立功显耀",
+      "full_path": "上下五千年/E4神话故事/封神演义/第054回 土行孙立功显耀",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 728024,
+      "char_count": 2816,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 55,
+      "chapter_id": "第055回 土行孙归伏西岐",
+      "title": "第055回 土行孙归伏西岐",
+      "full_path": "上下五千年/E4神话故事/封神演义/第055回 土行孙归伏西岐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1118516,
+      "char_count": 4298,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 56,
+      "chapter_id": "第056回 子牙设计收九公",
+      "title": "第056回 子牙设计收九公",
+      "full_path": "上下五千年/E4神话故事/封神演义/第056回 子牙设计收九公",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 833161,
+      "char_count": 3219,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 57,
+      "chapter_id": "第057回 冀州侯苏护伐西岐",
+      "title": "第057回 冀州侯苏护伐西岐",
+      "full_path": "上下五千年/E4神话故事/封神演义/第057回 冀州侯苏护伐西岐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 762236,
+      "char_count": 2967,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 58,
+      "chapter_id": "第058回 子牙西岐逢吕岳",
+      "title": "第058回 子牙西岐逢吕岳",
+      "full_path": "上下五千年/E4神话故事/封神演义/第058回 子牙西岐逢吕岳",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 909449,
+      "char_count": 3282,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 59,
+      "chapter_id": "第059回 殷洪下山收四将",
+      "title": "第059回 殷洪下山收四将",
+      "full_path": "上下五千年/E4神话故事/封神演义/第059回 殷洪下山收四将",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 984230,
+      "char_count": 3802,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 60,
+      "chapter_id": "第060回 马元下山助殷洪",
+      "title": "第060回 马元下山助殷洪",
+      "full_path": "上下五千年/E4神话故事/封神演义/第060回 马元下山助殷洪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 806952,
+      "char_count": 3155,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 61,
+      "chapter_id": "第061回 太极图殷洪绝命",
+      "title": "第061回 太极图殷洪绝命",
+      "full_path": "上下五千年/E4神话故事/封神演义/第061回 太极图殷洪绝命",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1020165,
+      "char_count": 3942,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 62,
+      "chapter_id": "第062回 张山李锦伐西岐",
+      "title": "第062回 张山李锦伐西岐",
+      "full_path": "上下五千年/E4神话故事/封神演义/第062回 张山李锦伐西岐",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1098835,
+      "char_count": 4298,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 63,
+      "chapter_id": "第063回 申公豹说反殷郊",
+      "title": "第063回 申公豹说反殷郊",
+      "full_path": "上下五千年/E4神话故事/封神演义/第063回 申公豹说反殷郊",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 840519,
+      "char_count": 3218,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 64,
+      "chapter_id": "第064回 罗宣火焚西岐城",
+      "title": "第064回 罗宣火焚西岐城",
+      "full_path": "上下五千年/E4神话故事/封神演义/第064回 罗宣火焚西岐城",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 790304,
+      "char_count": 3095,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 65,
+      "chapter_id": "第065回 殷郊岐山受犁锄",
+      "title": "第065回 殷郊岐山受犁锄",
+      "full_path": "上下五千年/E4神话故事/封神演义/第065回 殷郊岐山受犁锄",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 696059,
+      "char_count": 2690,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 66,
+      "chapter_id": "第066回 洪锦西岐城大战",
+      "title": "第066回 洪锦西岐城大战",
+      "full_path": "上下五千年/E4神话故事/封神演义/第066回 洪锦西岐城大战",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 897845,
+      "char_count": 3484,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 67,
+      "chapter_id": "第067回 姜子牙金台拜将",
+      "title": "第067回 姜子牙金台拜将",
+      "full_path": "上下五千年/E4神话故事/封神演义/第067回 姜子牙金台拜将",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1066698,
+      "char_count": 4141,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 68,
+      "chapter_id": "第068回 首阳山夷齐阻兵",
+      "title": "第068回 首阳山夷齐阻兵",
+      "full_path": "上下五千年/E4神话故事/封神演义/第068回 首阳山夷齐阻兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1119268,
+      "char_count": 4230,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 69,
+      "chapter_id": "第069回 孔宣兵阻金鸡岭",
+      "title": "第069回 孔宣兵阻金鸡岭",
+      "full_path": "上下五千年/E4神话故事/封神演义/第069回 孔宣兵阻金鸡岭",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 814694,
+      "char_count": 3072,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 70,
+      "chapter_id": "第070回 准提道人收孔宣",
+      "title": "第070回 准提道人收孔宣",
+      "full_path": "上下五千年/E4神话故事/封神演义/第070回 准提道人收孔宣",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 930055,
+      "char_count": 3387,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 71,
+      "chapter_id": "第071回 姜子牙三路分兵",
+      "title": "第071回 姜子牙三路分兵",
+      "full_path": "上下五千年/E4神话故事/封神演义/第071回 姜子牙三路分兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1030511,
+      "char_count": 4009,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 72,
+      "chapter_id": "第072回 广成子三谒碧游宫",
+      "title": "第072回 广成子三谒碧游宫",
+      "full_path": "上下五千年/E4神话故事/封神演义/第072回 广成子三谒碧游宫",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 874159,
+      "char_count": 3397,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 73,
+      "chapter_id": "第073回 青龙关飞虎折兵",
+      "title": "第073回 青龙关飞虎折兵",
+      "full_path": "上下五千年/E4神话故事/封神演义/第073回 青龙关飞虎折兵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 673130,
+      "char_count": 2612,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 74,
+      "chapter_id": "第074回 哼哈二将显神通",
+      "title": "第074回 哼哈二将显神通",
+      "full_path": "上下五千年/E4神话故事/封神演义/第074回 哼哈二将显神通",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1031835,
+      "char_count": 4065,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 75,
+      "chapter_id": "第075回 土行孙盗骑陷身",
+      "title": "第075回 土行孙盗骑陷身",
+      "full_path": "上下五千年/E4神话故事/封神演义/第075回 土行孙盗骑陷身",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 896167,
+      "char_count": 3536,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 76,
+      "chapter_id": "第076回 郑伦捉将取汜水关",
+      "title": "第076回 郑伦捉将取汜水关",
+      "full_path": "上下五千年/E4神话故事/封神演义/第076回 郑伦捉将取汜水关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1048478,
+      "char_count": 4060,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 77,
+      "chapter_id": "第077回 老子一气化三清",
+      "title": "第077回 老子一气化三清",
+      "full_path": "上下五千年/E4神话故事/封神演义/第077回 老子一气化三清",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 875165,
+      "char_count": 3454,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 78,
+      "chapter_id": "第078回 三教会破诛仙阵",
+      "title": "第078回 三教会破诛仙阵",
+      "full_path": "上下五千年/E4神话故事/封神演义/第078回 三教会破诛仙阵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1215305,
+      "char_count": 4757,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 79,
+      "chapter_id": "第079回 穿云关四将被擒",
+      "title": "第079回 穿云关四将被擒",
+      "full_path": "上下五千年/E4神话故事/封神演义/第079回 穿云关四将被擒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1017440,
+      "char_count": 4031,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 80,
+      "chapter_id": "第080回 杨任下山破瘟司",
+      "title": "第080回 杨任下山破瘟司",
+      "full_path": "上下五千年/E4神话故事/封神演义/第080回 杨任下山破瘟司",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1157978,
+      "char_count": 4463,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 81,
+      "chapter_id": "第081回 子牙潼关遇痘神",
+      "title": "第081回 子牙潼关遇痘神",
+      "full_path": "上下五千年/E4神话故事/封神演义/第081回 子牙潼关遇痘神",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 875588,
+      "char_count": 3380,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 82,
+      "chapter_id": "第082回 三教大会万仙阵",
+      "title": "第082回 三教大会万仙阵",
+      "full_path": "上下五千年/E4神话故事/封神演义/第082回 三教大会万仙阵",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 822948,
+      "char_count": 3207,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 83,
+      "chapter_id": "第083回 三大师收狮象犼",
+      "title": "第083回 三大师收狮象犼",
+      "full_path": "上下五千年/E4神话故事/封神演义/第083回 三大师收狮象犼",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1222896,
+      "char_count": 4769,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 84,
+      "chapter_id": "第084回 子牙兵取临潼关",
+      "title": "第084回 子牙兵取临潼关",
+      "full_path": "上下五千年/E4神话故事/封神演义/第084回 子牙兵取临潼关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 751339,
+      "char_count": 2965,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 85,
+      "chapter_id": "第085回 邓芮二侯归周主",
+      "title": "第085回 邓芮二侯归周主",
+      "full_path": "上下五千年/E4神话故事/封神演义/第085回 邓芮二侯归周主",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 942083,
+      "char_count": 3586,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 86,
+      "chapter_id": "第086回 渑池县五岳归天",
+      "title": "第086回 渑池县五岳归天",
+      "full_path": "上下五千年/E4神话故事/封神演义/第086回 渑池县五岳归天",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 947910,
+      "char_count": 3705,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 87,
+      "chapter_id": "第087回 土行孙夫妻阵亡",
+      "title": "第087回 土行孙夫妻阵亡",
+      "full_path": "上下五千年/E4神话故事/封神演义/第087回 土行孙夫妻阵亡",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 916340,
+      "char_count": 3542,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 88,
+      "chapter_id": "第088回 武王白鱼跃龙舟",
+      "title": "第088回 武王白鱼跃龙舟",
+      "full_path": "上下五千年/E4神话故事/封神演义/第088回 武王白鱼跃龙舟",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1176656,
+      "char_count": 4529,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 89,
+      "chapter_id": "第089回 纣王敲骨剖孕妇",
+      "title": "第089回 纣王敲骨剖孕妇",
+      "full_path": "上下五千年/E4神话故事/封神演义/第089回 纣王敲骨剖孕妇",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 846593,
+      "char_count": 3273,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 90,
+      "chapter_id": "第090回 子牙捉神荼郁垒",
+      "title": "第090回 子牙捉神荼郁垒",
+      "full_path": "上下五千年/E4神话故事/封神演义/第090回 子牙捉神荼郁垒",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 928012,
+      "char_count": 3616,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 91,
+      "chapter_id": "第091回 蟠龙岭烧邬文化",
+      "title": "第091回 蟠龙岭烧邬文化",
+      "full_path": "上下五千年/E4神话故事/封神演义/第091回 蟠龙岭烧邬文化",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 861299,
+      "char_count": 3336,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 92,
+      "chapter_id": "第092回 杨戬哪吒收七怪",
+      "title": "第092回 杨戬哪吒收七怪",
+      "full_path": "上下五千年/E4神话故事/封神演义/第092回 杨戬哪吒收七怪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 915694,
+      "char_count": 3631,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 93,
+      "chapter_id": "第093回 金吒智取游魂关",
+      "title": "第093回 金吒智取游魂关",
+      "full_path": "上下五千年/E4神话故事/封神演义/第093回 金吒智取游魂关",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1132302,
+      "char_count": 4402,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 94,
+      "chapter_id": "第094回 文焕怒斩殷破败",
+      "title": "第094回 文焕怒斩殷破败",
+      "full_path": "上下五千年/E4神话故事/封神演义/第094回 文焕怒斩殷破败",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1296009,
+      "char_count": 4926,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 95,
+      "chapter_id": "第095回 子牙暴纣王十罪",
+      "title": "第095回 子牙暴纣王十罪",
+      "full_path": "上下五千年/E4神话故事/封神演义/第095回 子牙暴纣王十罪",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 979834,
+      "char_count": 3752,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 96,
+      "chapter_id": "第096回 子牙发柬擒妲己",
+      "title": "第096回 子牙发柬擒妲己",
+      "full_path": "上下五千年/E4神话故事/封神演义/第096回 子牙发柬擒妲己",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 856087,
+      "char_count": 3326,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 97,
+      "chapter_id": "第097回 摘星楼纣王自焚",
+      "title": "第097回 摘星楼纣王自焚",
+      "full_path": "上下五千年/E4神话故事/封神演义/第097回 摘星楼纣王自焚",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 706988,
+      "char_count": 2754,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 98,
+      "chapter_id": "第098回 周武王鹿台散财",
+      "title": "第098回 周武王鹿台散财",
+      "full_path": "上下五千年/E4神话故事/封神演义/第098回 周武王鹿台散财",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 977940,
+      "char_count": 3757,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 99,
+      "chapter_id": "第099回 姜子牙归国封神",
+      "title": "第099回 姜子牙归国封神",
+      "full_path": "上下五千年/E4神话故事/封神演义/第099回 姜子牙归国封神",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 722310,
+      "char_count": 2773,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    },
+    {
+      "chapter_index": 100,
+      "chapter_id": "第100回 武王封列国诸侯",
+      "title": "第100回 武王封列国诸侯",
+      "full_path": "上下五千年/E4神话故事/封神演义/第100回 武王封列国诸侯",
+      "structure_type": "chapter",
+      "display_as": "chapter_item",
+      "level": "L5",
+      "duration_ms": 1011335,
+      "char_count": 3896,
+      "cover": {
+        "cover_image_url": "covers/generated/上下五千年/E4神话故事/封神演义/封神演义.webp",
+        "cover_level": "chapter"
+      }
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲",
+  "name": "英文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/历史知识.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 80,
+  "entries": [
+    {
+      "entry_id": "世界七大奇迹 Seven Wonders",
+      "title": "世界七大奇迹 Seven Wonders",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/世界七大奇迹 Seven Wonders"
+    },
+    {
+      "entry_id": "丝绸之路 Silk Road",
+      "title": "丝绸之路 Silk Road",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/丝绸之路 Silk Road"
+    },
+    {
+      "entry_id": "中世纪 Middle Ages",
+      "title": "中世纪 Middle Ages",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/中世纪 Middle Ages"
+    },
+    {
+      "entry_id": "互联网 Internet",
+      "title": "互联网 Internet",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/互联网 Internet"
+    },
+    {
+      "entry_id": "亚瑟王 King Arthur",
+      "title": "亚瑟王 King Arthur",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/亚瑟王 King Arthur"
+    },
+    {
+      "entry_id": "伊丽莎白一世 Elizabeth I",
+      "title": "伊丽莎白一世 Elizabeth I",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/伊丽莎白一世 Elizabeth I"
+    },
+    {
+      "entry_id": "伊斯兰教 Islam",
+      "title": "伊斯兰教 Islam",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/伊斯兰教 Islam"
+    },
+    {
+      "entry_id": "伽利略 Galileo",
+      "title": "伽利略 Galileo",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/伽利略 Galileo"
+    },
+    {
+      "entry_id": "佛教 Buddhism",
+      "title": "佛教 Buddhism",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/佛教 Buddhism"
+    },
+    {
+      "entry_id": "兵马俑 Terracotta Army",
+      "title": "兵马俑 Terracotta Army",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/兵马俑 Terracotta Army"
+    },
+    {
+      "entry_id": "冷战 Cold War",
+      "title": "冷战 Cold War",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/冷战 Cold War"
+    },
+    {
+      "entry_id": "凡尔赛宫 Palace of Versailles",
+      "title": "凡尔赛宫 Palace of Versailles",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/凡尔赛宫 Palace of Versailles"
+    },
+    {
+      "entry_id": "凯撒 Caesar",
+      "title": "凯撒 Caesar",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/凯撒 Caesar"
+    },
+    {
+      "entry_id": "十字军东征 Crusades",
+      "title": "十字军东征 Crusades",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/十字军东征 Crusades"
+    },
+    {
+      "entry_id": "十月革命 Russian Revolution",
+      "title": "十月革命 Russian Revolution",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/十月革命 Russian Revolution"
+    },
+    {
+      "entry_id": "华盛顿 George Washington",
+      "title": "华盛顿 George Washington",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/华盛顿 George Washington"
+    },
+    {
+      "entry_id": "印刷术 Printing Press",
+      "title": "印刷术 Printing Press",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/印刷术 Printing Press"
+    },
+    {
+      "entry_id": "印加帝国 Inca Empire",
+      "title": "印加帝国 Inca Empire",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/印加帝国 Inca Empire"
+    },
+    {
+      "entry_id": "印象派 Impressionism",
+      "title": "印象派 Impressionism",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/印象派 Impressionism"
+    },
+    {
+      "entry_id": "古中国文明 Ancient China",
+      "title": "古中国文明 Ancient China",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/古中国文明 Ancient China"
+    },
+    {
+      "entry_id": "古印度文明 Ancient India",
+      "title": "古印度文明 Ancient India",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/古印度文明 Ancient India"
+    },
+    {
+      "entry_id": "古埃及文明 Ancient Egypt",
+      "title": "古埃及文明 Ancient Egypt",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/古埃及文明 Ancient Egypt"
+    },
+    {
+      "entry_id": "古巴比伦 Babylon",
+      "title": "古巴比伦 Babylon",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/古巴比伦 Babylon"
+    },
+    {
+      "entry_id": "古希腊文明 Ancient Greece",
+      "title": "古希腊文明 Ancient Greece",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/古希腊文明 Ancient Greece"
+    },
+    {
+      "entry_id": "古罗马文明 Ancient Rome",
+      "title": "古罗马文明 Ancient Rome",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/古罗马文明 Ancient Rome"
+    },
+    {
+      "entry_id": "启蒙运动 Enlightenment",
+      "title": "启蒙运动 Enlightenment",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/启蒙运动 Enlightenment"
+    },
+    {
+      "entry_id": "吴哥窟 Angkor Wat",
+      "title": "吴哥窟 Angkor Wat",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/吴哥窟 Angkor Wat"
+    },
+    {
+      "entry_id": "哥伦布 Columbus",
+      "title": "哥伦布 Columbus",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/哥伦布 Columbus"
+    },
+    {
+      "entry_id": "哥白尼 Copernicus",
+      "title": "哥白尼 Copernicus",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/哥白尼 Copernicus"
+    },
+    {
+      "entry_id": "圣女贞德 Joan of Arc",
+      "title": "圣女贞德 Joan of Arc",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/圣女贞德 Joan of Arc"
+    },
+    {
+      "entry_id": "埃及艳后 Cleopatra",
+      "title": "埃及艳后 Cleopatra",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/埃及艳后 Cleopatra"
+    },
+    {
+      "entry_id": "基督教 Christianity",
+      "title": "基督教 Christianity",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/基督教 Christianity"
+    },
+    {
+      "entry_id": "大航海时代 Age of Exploration",
+      "title": "大航海时代 Age of Exploration",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/大航海时代 Age of Exploration"
+    },
+    {
+      "entry_id": "太空竞赛 Space Race",
+      "title": "太空竞赛 Space Race",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/太空竞赛 Space Race"
+    },
+    {
+      "entry_id": "宗教改革 Reformation",
+      "title": "宗教改革 Reformation",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/宗教改革 Reformation"
+    },
+    {
+      "entry_id": "居里夫人 Marie Curie",
+      "title": "居里夫人 Marie Curie",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/居里夫人 Marie Curie"
+    },
+    {
+      "entry_id": "工业革命 Industrial Revolution",
+      "title": "工业革命 Industrial Revolution",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/工业革命 Industrial Revolution"
+    },
+    {
+      "entry_id": "希腊神话 Greek Mythology",
+      "title": "希腊神话 Greek Mythology",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/希腊神话 Greek Mythology"
+    },
+    {
+      "entry_id": "帕特农神庙 Parthenon",
+      "title": "帕特农神庙 Parthenon",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/帕特农神庙 Parthenon"
+    },
+    {
+      "entry_id": "成吉思汗 Genghis Khan",
+      "title": "成吉思汗 Genghis Khan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/成吉思汗 Genghis Khan"
+    },
+    {
+      "entry_id": "拜占庭帝国 Byzantine Empire",
+      "title": "拜占庭帝国 Byzantine Empire",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/拜占庭帝国 Byzantine Empire"
+    },
+    {
+      "entry_id": "拿破仑 Napoleon",
+      "title": "拿破仑 Napoleon",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/拿破仑 Napoleon"
+    },
+    {
+      "entry_id": "指南针 Compass",
+      "title": "指南针 Compass",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/指南针 Compass"
+    },
+    {
+      "entry_id": "文艺复兴 Renaissance",
+      "title": "文艺复兴 Renaissance",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/文艺复兴 Renaissance"
+    },
+    {
+      "entry_id": "木乃伊 Mummies",
+      "title": "木乃伊 Mummies",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/木乃伊 Mummies"
+    },
+    {
+      "entry_id": "林肯 Abraham Lincoln",
+      "title": "林肯 Abraham Lincoln",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/林肯 Abraham Lincoln"
+    },
+    {
+      "entry_id": "汉尼拔 Hannibal",
+      "title": "汉尼拔 Hannibal",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/汉尼拔 Hannibal"
+    },
+    {
+      "entry_id": "法国大革命 French Revolution",
+      "title": "法国大革命 French Revolution",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/法国大革命 French Revolution"
+    },
+    {
+      "entry_id": "法老 Pharaohs",
+      "title": "法老 Pharaohs",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/法老 Pharaohs"
+    },
+    {
+      "entry_id": "波斯帝国 Persian Empire",
+      "title": "波斯帝国 Persian Empire",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/波斯帝国 Persian Empire"
+    },
+    {
+      "entry_id": "泰姬陵 Taj Mahal",
+      "title": "泰姬陵 Taj Mahal",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/泰姬陵 Taj Mahal"
+    },
+    {
+      "entry_id": "滑铁卢战役 Battle of Waterloo",
+      "title": "滑铁卢战役 Battle of Waterloo",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/滑铁卢战役 Battle of Waterloo"
+    },
+    {
+      "entry_id": "爱因斯坦 Einstein",
+      "title": "爱因斯坦 Einstein",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/爱因斯坦 Einstein"
+    },
+    {
+      "entry_id": "爵士乐 Jazz",
+      "title": "爵士乐 Jazz",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/爵士乐 Jazz"
+    },
+    {
+      "entry_id": "牛顿 Newton",
+      "title": "牛顿 Newton",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/牛顿 Newton"
+    },
+    {
+      "entry_id": "特洛伊木马 Trojan Horse",
+      "title": "特洛伊木马 Trojan Horse",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/特洛伊木马 Trojan Horse"
+    },
+    {
+      "entry_id": "玛雅文明 Maya Civilization",
+      "title": "玛雅文明 Maya Civilization",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/玛雅文明 Maya Civilization"
+    },
+    {
+      "entry_id": "甘地 Gandhi",
+      "title": "甘地 Gandhi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/甘地 Gandhi"
+    },
+    {
+      "entry_id": "电的发明 Invention of Electricity",
+      "title": "电的发明 Invention of Electricity",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/电的发明 Invention of Electricity"
+    },
+    {
+      "entry_id": "登月 Moon Landing",
+      "title": "登月 Moon Landing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/登月 Moon Landing"
+    },
+    {
+      "entry_id": "第一次世界大战 World War I",
+      "title": "第一次世界大战 World War I",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/第一次世界大战 World War I"
+    },
+    {
+      "entry_id": "第二次世界大战 World War II",
+      "title": "第二次世界大战 World War II",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/第二次世界大战 World War II"
+    },
+    {
+      "entry_id": "维京人 Vikings",
+      "title": "维京人 Vikings",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/维京人 Vikings"
+    },
+    {
+      "entry_id": "罗宾汉 Robin Hood",
+      "title": "罗宾汉 Robin Hood",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/罗宾汉 Robin Hood"
+    },
+    {
+      "entry_id": "罗马斗兽场 Colosseum",
+      "title": "罗马斗兽场 Colosseum",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/罗马斗兽场 Colosseum"
+    },
+    {
+      "entry_id": "美国内战 American Civil War",
+      "title": "美国内战 American Civil War",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/美国内战 American Civil War"
+    },
+    {
+      "entry_id": "美国宪法 US Constitution",
+      "title": "美国宪法 US Constitution",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/美国宪法 US Constitution"
+    },
+    {
+      "entry_id": "美国独立战争 American Revolution",
+      "title": "美国独立战争 American Revolution",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/美国独立战争 American Revolution"
+    },
+    {
+      "entry_id": "联合国 United Nations",
+      "title": "联合国 United Nations",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/联合国 United Nations"
+    },
+    {
+      "entry_id": "莎士比亚 Shakespeare",
+      "title": "莎士比亚 Shakespeare",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/莎士比亚 Shakespeare"
+    },
+    {
+      "entry_id": "莫卧儿帝国 Mughal Empire",
+      "title": "莫卧儿帝国 Mughal Empire",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/莫卧儿帝国 Mughal Empire"
+    },
+    {
+      "entry_id": "蒸汽机 Steam Engine",
+      "title": "蒸汽机 Steam Engine",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/蒸汽机 Steam Engine"
+    },
+    {
+      "entry_id": "诺贝尔奖 Nobel Prize",
+      "title": "诺贝尔奖 Nobel Prize",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/诺贝尔奖 Nobel Prize"
+    },
+    {
+      "entry_id": "达尔文 Darwin",
+      "title": "达尔文 Darwin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/达尔文 Darwin"
+    },
+    {
+      "entry_id": "金字塔 Pyramids",
+      "title": "金字塔 Pyramids",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/金字塔 Pyramids"
+    },
+    {
+      "entry_id": "长城 Great Wall",
+      "title": "长城 Great Wall",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/长城 Great Wall"
+    },
+    {
+      "entry_id": "阿拉伯帝国 Abbasid Caliphate",
+      "title": "阿拉伯帝国 Abbasid Caliphate",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/阿拉伯帝国 Abbasid Caliphate"
+    },
+    {
+      "entry_id": "马丁·路德·金 Martin Luther King",
+      "title": "马丁·路德·金 Martin Luther King",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/马丁·路德·金 Martin Luther King"
+    },
+    {
+      "entry_id": "马可·波罗 Marco Polo",
+      "title": "马可·波罗 Marco Polo",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/马可·波罗 Marco Polo"
+    },
+    {
+      "entry_id": "黑死病 Black Death",
+      "title": "黑死病 Black Death",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/国际历史/英文歌曲/黑死病 Black Death"
+    }
+  ]
+}

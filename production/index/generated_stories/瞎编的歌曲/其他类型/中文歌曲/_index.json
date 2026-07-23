@@ -1,0 +1,3879 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/其他类型/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他类型.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 552,
+  "entries": [
+    {
+      "entry_id": "一个人的旅行",
+      "title": "一个人的旅行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/一个人的旅行"
+    },
+    {
+      "entry_id": "一个人的晚餐",
+      "title": "一个人的晚餐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/一个人的晚餐"
+    },
+    {
+      "entry_id": "一家人的团圆",
+      "title": "一家人的团圆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/一家人的团圆"
+    },
+    {
+      "entry_id": "一往无前",
+      "title": "一往无前",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/一往无前"
+    },
+    {
+      "entry_id": "一脉相承",
+      "title": "一脉相承",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/一脉相承"
+    },
+    {
+      "entry_id": "一起走到最后",
+      "title": "一起走到最后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/一起走到最后"
+    },
+    {
+      "entry_id": "一起跳舞吧",
+      "title": "一起跳舞吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/一起跳舞吧"
+    },
+    {
+      "entry_id": "一路生花",
+      "title": "一路生花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/一路生花"
+    },
+    {
+      "entry_id": "万物的共鸣",
+      "title": "万物的共鸣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/万物的共鸣"
+    },
+    {
+      "entry_id": "万马奔腾",
+      "title": "万马奔腾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/万马奔腾"
+    },
+    {
+      "entry_id": "三牲五谷",
+      "title": "三牲五谷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/三牲五谷"
+    },
+    {
+      "entry_id": "上传中",
+      "title": "上传中",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/上传中"
+    },
+    {
+      "entry_id": "上香",
+      "title": "上香",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/上香"
+    },
+    {
+      "entry_id": "下载中",
+      "title": "下载中",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/下载中"
+    },
+    {
+      "entry_id": "下雨天",
+      "title": "下雨天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/下雨天"
+    },
+    {
+      "entry_id": "不忘根本",
+      "title": "不忘根本",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/不忘根本"
+    },
+    {
+      "entry_id": "不破不立",
+      "title": "不破不立",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/不破不立"
+    },
+    {
+      "entry_id": "不败的传说",
+      "title": "不败的传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/不败的传说"
+    },
+    {
+      "entry_id": "世间美好",
+      "title": "世间美好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/世间美好"
+    },
+    {
+      "entry_id": "乐呵呵",
+      "title": "乐呵呵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/乐呵呵"
+    },
+    {
+      "entry_id": "乐开了花",
+      "title": "乐开了花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/乐开了花"
+    },
+    {
+      "entry_id": "书香",
+      "title": "书香",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/书香"
+    },
+    {
+      "entry_id": "乾坤朗朗",
+      "title": "乾坤朗朗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/乾坤朗朗"
+    },
+    {
+      "entry_id": "二次元的约定",
+      "title": "二次元的约定",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/二次元的约定"
+    },
+    {
+      "entry_id": "二泉映月",
+      "title": "二泉映月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/二泉映月"
+    },
+    {
+      "entry_id": "二进制心跳",
+      "title": "二进制心跳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/二进制心跳"
+    },
+    {
+      "entry_id": "云上的日子",
+      "title": "云上的日子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/云上的日子"
+    },
+    {
+      "entry_id": "云端之上",
+      "title": "云端之上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/云端之上"
+    },
+    {
+      "entry_id": "人工智能",
+      "title": "人工智能",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/人工智能"
+    },
+    {
+      "entry_id": "今夜无风",
+      "title": "今夜无风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/今夜无风"
+    },
+    {
+      "entry_id": "今天是个好日子",
+      "title": "今天是个好日子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/今天是个好日子"
+    },
+    {
+      "entry_id": "从北京到上海",
+      "title": "从北京到上海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/从北京到上海"
+    },
+    {
+      "entry_id": "从广州到深圳",
+      "title": "从广州到深圳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/从广州到深圳"
+    },
+    {
+      "entry_id": "从成都到重庆",
+      "title": "从成都到重庆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/从成都到重庆"
+    },
+    {
+      "entry_id": "从拉萨到丽江",
+      "title": "从拉萨到丽江",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/从拉萨到丽江"
+    },
+    {
+      "entry_id": "从西安到敦煌",
+      "title": "从西安到敦煌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/从西安到敦煌"
+    },
+    {
+      "entry_id": "仰天长啸",
+      "title": "仰天长啸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/仰天长啸"
+    },
+    {
+      "entry_id": "仿生人会流泪吗",
+      "title": "仿生人会流泪吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/仿生人会流泪吗"
+    },
+    {
+      "entry_id": "伏羲女娲",
+      "title": "伏羲女娲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/伏羲女娲"
+    },
+    {
+      "entry_id": "伙伴同行",
+      "title": "伙伴同行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/伙伴同行"
+    },
+    {
+      "entry_id": "传家宝",
+      "title": "传家宝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/传家宝"
+    },
+    {
+      "entry_id": "作家的键盘",
+      "title": "作家的键盘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/作家的键盘"
+    },
+    {
+      "entry_id": "你的微笑",
+      "title": "你的微笑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/你的微笑"
+    },
+    {
+      "entry_id": "信号丢失",
+      "title": "信号丢失",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/信号丢失"
+    },
+    {
+      "entry_id": "修鞋匠老王",
+      "title": "修鞋匠老王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/修鞋匠老王"
+    },
+    {
+      "entry_id": "候机厅",
+      "title": "候机厅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/候机厅"
+    },
+    {
+      "entry_id": "傍晚的微风",
+      "title": "傍晚的微风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/傍晚的微风"
+    },
+    {
+      "entry_id": "儿时的天空",
+      "title": "儿时的天空",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/儿时的天空"
+    },
+    {
+      "entry_id": "兄弟的酒",
+      "title": "兄弟的酒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/兄弟的酒"
+    },
+    {
+      "entry_id": "先祖在上",
+      "title": "先祖在上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/先祖在上"
+    },
+    {
+      "entry_id": "先祖庇佑",
+      "title": "先祖庇佑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/先祖庇佑"
+    },
+    {
+      "entry_id": "光子跃迁",
+      "title": "光子跃迁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/光子跃迁"
+    },
+    {
+      "entry_id": "光宗耀祖",
+      "title": "光宗耀祖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/光宗耀祖"
+    },
+    {
+      "entry_id": "光缆之下",
+      "title": "光缆之下",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/光缆之下"
+    },
+    {
+      "entry_id": "光芒万丈",
+      "title": "光芒万丈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/光芒万丈"
+    },
+    {
+      "entry_id": "全息投影",
+      "title": "全息投影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/全息投影"
+    },
+    {
+      "entry_id": "兰陵王",
+      "title": "兰陵王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/兰陵王"
+    },
+    {
+      "entry_id": "关山月",
+      "title": "关山月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/关山月"
+    },
+    {
+      "entry_id": "内心的平静",
+      "title": "内心的平静",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/内心的平静"
+    },
+    {
+      "entry_id": "再聚首",
+      "title": "再聚首",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/再聚首"
+    },
+    {
+      "entry_id": "再见少年",
+      "title": "再见少年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/再见少年"
+    },
+    {
+      "entry_id": "冒险启程",
+      "title": "冒险启程",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/冒险启程"
+    },
+    {
+      "entry_id": "写给明天的信",
+      "title": "写给明天的信",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/写给明天的信"
+    },
+    {
+      "entry_id": "写给母亲",
+      "title": "写给母亲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/写给母亲"
+    },
+    {
+      "entry_id": "冬日暖阳",
+      "title": "冬日暖阳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/冬日暖阳"
+    },
+    {
+      "entry_id": "冬日的暖阳",
+      "title": "冬日的暖阳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/冬日的暖阳"
+    },
+    {
+      "entry_id": "冰淇淋的夏天",
+      "title": "冰淇淋的夏天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/冰淇淋的夏天"
+    },
+    {
+      "entry_id": "冲向顶点",
+      "title": "冲向顶点",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/冲向顶点"
+    },
+    {
+      "entry_id": "冲破云霄",
+      "title": "冲破云霄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/冲破云霄"
+    },
+    {
+      "entry_id": "冲破极限",
+      "title": "冲破极限",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/冲破极限"
+    },
+    {
+      "entry_id": "凌晨三点的思念",
+      "title": "凌晨三点的思念",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/凌晨三点的思念"
+    },
+    {
+      "entry_id": "凌晨的街头",
+      "title": "凌晨的街头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/凌晨的街头"
+    },
+    {
+      "entry_id": "凤求凰",
+      "title": "凤求凰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/凤求凰"
+    },
+    {
+      "entry_id": "刀光剑影",
+      "title": "刀光剑影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/刀光剑影"
+    },
+    {
+      "entry_id": "刀锋所向",
+      "title": "刀锋所向",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/刀锋所向"
+    },
+    {
+      "entry_id": "分界线",
+      "title": "分界线",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/分界线"
+    },
+    {
+      "entry_id": "别着急",
+      "title": "别着急",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/别着急"
+    },
+    {
+      "entry_id": "剪辑师的剪刀",
+      "title": "剪辑师的剪刀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/剪辑师的剪刀"
+    },
+    {
+      "entry_id": "加密",
+      "title": "加密",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/加密"
+    },
+    {
+      "entry_id": "动漫之歌",
+      "title": "动漫之歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/动漫之歌"
+    },
+    {
+      "entry_id": "势不可当",
+      "title": "势不可当",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/势不可当"
+    },
+    {
+      "entry_id": "势不可挡",
+      "title": "势不可挡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/势不可挡"
+    },
+    {
+      "entry_id": "势如破竹",
+      "title": "势如破竹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/势如破竹"
+    },
+    {
+      "entry_id": "勇者之心",
+      "title": "勇者之心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/勇者之心"
+    },
+    {
+      "entry_id": "北国的雪",
+      "title": "北国的雪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/北国的雪"
+    },
+    {
+      "entry_id": "北方的小镇",
+      "title": "北方的小镇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/北方的小镇"
+    },
+    {
+      "entry_id": "千军万马",
+      "title": "千军万马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/千军万马"
+    },
+    {
+      "entry_id": "升华",
+      "title": "升华",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/升华"
+    },
+    {
+      "entry_id": "升级",
+      "title": "升级",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/升级"
+    },
+    {
+      "entry_id": "华严经",
+      "title": "华严经",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/华严经"
+    },
+    {
+      "entry_id": "华夏之根",
+      "title": "华夏之根",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/华夏之根"
+    },
+    {
+      "entry_id": "卖火柴的小女孩",
+      "title": "卖火柴的小女孩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/卖火柴的小女孩"
+    },
+    {
+      "entry_id": "卖豆腐的阿婆",
+      "title": "卖豆腐的阿婆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/卖豆腐的阿婆"
+    },
+    {
+      "entry_id": "南方的姑娘",
+      "title": "南方的姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/南方的姑娘"
+    },
+    {
+      "entry_id": "友情不败",
+      "title": "友情不败",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/友情不败"
+    },
+    {
+      "entry_id": "友谊地久天长",
+      "title": "友谊地久天长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/友谊地久天长"
+    },
+    {
+      "entry_id": "双喜临门",
+      "title": "双喜临门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/双喜临门"
+    },
+    {
+      "entry_id": "反重力",
+      "title": "反重力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/反重力"
+    },
+    {
+      "entry_id": "古琴吟",
+      "title": "古琴吟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/古琴吟"
+    },
+    {
+      "entry_id": "古道西风",
+      "title": "古道西风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/古道西风"
+    },
+    {
+      "entry_id": "叩首",
+      "title": "叩首",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/叩首"
+    },
+    {
+      "entry_id": "号角吹响",
+      "title": "号角吹响",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/号角吹响"
+    },
+    {
+      "entry_id": "各奔东西",
+      "title": "各奔东西",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/各奔东西"
+    },
+    {
+      "entry_id": "合成器浪潮",
+      "title": "合成器浪潮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/合成器浪潮"
+    },
+    {
+      "entry_id": "同桌的你还好吗",
+      "title": "同桌的你还好吗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/同桌的你还好吗"
+    },
+    {
+      "entry_id": "向日葵的等待",
+      "title": "向日葵的等待",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/向日葵的等待"
+    },
+    {
+      "entry_id": "听雨",
+      "title": "听雨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/听雨"
+    },
+    {
+      "entry_id": "周五狂欢",
+      "title": "周五狂欢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/周五狂欢"
+    },
+    {
+      "entry_id": "命运的齿轮",
+      "title": "命运的齿轮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/命运的齿轮"
+    },
+    {
+      "entry_id": "命运红线",
+      "title": "命运红线",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/命运红线"
+    },
+    {
+      "entry_id": "和平之歌",
+      "title": "和平之歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/和平之歌"
+    },
+    {
+      "entry_id": "哈利路亚",
+      "title": "哈利路亚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/哈利路亚"
+    },
+    {
+      "entry_id": "喜上加喜",
+      "title": "喜上加喜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/喜上加喜"
+    },
+    {
+      "entry_id": "喜气洋洋",
+      "title": "喜气洋洋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/喜气洋洋"
+    },
+    {
+      "entry_id": "喜洋洋",
+      "title": "喜洋洋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/喜洋洋"
+    },
+    {
+      "entry_id": "噩梦",
+      "title": "噩梦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/噩梦"
+    },
+    {
+      "entry_id": "四叶草",
+      "title": "四叶草",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/四叶草"
+    },
+    {
+      "entry_id": "四季",
+      "title": "四季",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/四季"
+    },
+    {
+      "entry_id": "团圆饭",
+      "title": "团圆饭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/团圆饭"
+    },
+    {
+      "entry_id": "团结就是力量",
+      "title": "团结就是力量",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/团结就是力量"
+    },
+    {
+      "entry_id": "圣光降临",
+      "title": "圣光降临",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/圣光降临"
+    },
+    {
+      "entry_id": "圣歌合唱",
+      "title": "圣歌合唱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/圣歌合唱"
+    },
+    {
+      "entry_id": "圣母颂",
+      "title": "圣母颂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/圣母颂"
+    },
+    {
+      "entry_id": "圣洁之光",
+      "title": "圣洁之光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/圣洁之光"
+    },
+    {
+      "entry_id": "在云端",
+      "title": "在云端",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/在云端"
+    },
+    {
+      "entry_id": "在可可西里迷路",
+      "title": "在可可西里迷路",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/在可可西里迷路"
+    },
+    {
+      "entry_id": "在城市",
+      "title": "在城市",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/在城市"
+    },
+    {
+      "entry_id": "在大理晒太阳",
+      "title": "在大理晒太阳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/在大理晒太阳"
+    },
+    {
+      "entry_id": "在山顶",
+      "title": "在山顶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/在山顶"
+    },
+    {
+      "entry_id": "在洱海边醒来",
+      "title": "在洱海边醒来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/在洱海边醒来"
+    },
+    {
+      "entry_id": "在海边",
+      "title": "在海边",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/在海边"
+    },
+    {
+      "entry_id": "在漠河等极光",
+      "title": "在漠河等极光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/在漠河等极光"
+    },
+    {
+      "entry_id": "在田野",
+      "title": "在田野",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/在田野"
+    },
+    {
+      "entry_id": "在西藏看见星星",
+      "title": "在西藏看见星星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/在西藏看见星星"
+    },
+    {
+      "entry_id": "地动山摇",
+      "title": "地动山摇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/地动山摇"
+    },
+    {
+      "entry_id": "地德",
+      "title": "地德",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/地德"
+    },
+    {
+      "entry_id": "城市之光",
+      "title": "城市之光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/城市之光"
+    },
+    {
+      "entry_id": "城市的灯火",
+      "title": "城市的灯火",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/城市的灯火"
+    },
+    {
+      "entry_id": "塞上曲",
+      "title": "塞上曲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/塞上曲"
+    },
+    {
+      "entry_id": "夏夜的萤火虫",
+      "title": "夏夜的萤火虫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/夏夜的萤火虫"
+    },
+    {
+      "entry_id": "夏日终曲",
+      "title": "夏日终曲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/夏日终曲"
+    },
+    {
+      "entry_id": "夏荷",
+      "title": "夏荷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/夏荷"
+    },
+    {
+      "entry_id": "夕阳箫鼓",
+      "title": "夕阳箫鼓",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/夕阳箫鼓"
+    },
+    {
+      "entry_id": "外婆的澎湖湾",
+      "title": "外婆的澎湖湾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/外婆的澎湖湾"
+    },
+    {
+      "entry_id": "夜归人",
+      "title": "夜归人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/夜归人"
+    },
+    {
+      "entry_id": "夜深沉",
+      "title": "夜深沉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/夜深沉"
+    },
+    {
+      "entry_id": "夜跑",
+      "title": "夜跑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/夜跑"
+    },
+    {
+      "entry_id": "大地赞美诗",
+      "title": "大地赞美诗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/大地赞美诗"
+    },
+    {
+      "entry_id": "大家一起嗨",
+      "title": "大家一起嗨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/大家一起嗨"
+    },
+    {
+      "entry_id": "大悲咒",
+      "title": "大悲咒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/大悲咒"
+    },
+    {
+      "entry_id": "大祭",
+      "title": "大祭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/大祭"
+    },
+    {
+      "entry_id": "天人合一",
+      "title": "天人合一",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/天人合一"
+    },
+    {
+      "entry_id": "天使之音",
+      "title": "天使之音",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/天使之音"
+    },
+    {
+      "entry_id": "天国的阶梯",
+      "title": "天国的阶梯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/天国的阶梯"
+    },
+    {
+      "entry_id": "天地人和",
+      "title": "天地人和",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/天地人和"
+    },
+    {
+      "entry_id": "天地正气",
+      "title": "天地正气",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/天地正气"
+    },
+    {
+      "entry_id": "天地祭",
+      "title": "天地祭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/天地祭"
+    },
+    {
+      "entry_id": "天德",
+      "title": "天德",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/天德"
+    },
+    {
+      "entry_id": "天籁之音",
+      "title": "天籁之音",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/天籁之音"
+    },
+    {
+      "entry_id": "太空电梯",
+      "title": "太空电梯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/太空电梯"
+    },
+    {
+      "entry_id": "失控边缘",
+      "title": "失控边缘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/失控边缘"
+    },
+    {
+      "entry_id": "奇迹再现",
+      "title": "奇迹再现",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/奇迹再现"
+    },
+    {
+      "entry_id": "奶奶的针线",
+      "title": "奶奶的针线",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/奶奶的针线"
+    },
+    {
+      "entry_id": "好心情",
+      "title": "好心情",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/好心情"
+    },
+    {
+      "entry_id": "好日子在前头",
+      "title": "好日子在前头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/好日子在前头"
+    },
+    {
+      "entry_id": "好运来",
+      "title": "好运来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/好运来"
+    },
+    {
+      "entry_id": "妈妈的唠叨",
+      "title": "妈妈的唠叨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/妈妈的唠叨"
+    },
+    {
+      "entry_id": "姐妹的午后",
+      "title": "姐妹的午后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/姐妹的午后"
+    },
+    {
+      "entry_id": "姐姐的嫁衣",
+      "title": "姐姐的嫁衣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/姐姐的嫁衣"
+    },
+    {
+      "entry_id": "婚礼进行曲",
+      "title": "婚礼进行曲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/婚礼进行曲"
+    },
+    {
+      "entry_id": "孝德",
+      "title": "孝德",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/孝德"
+    },
+    {
+      "entry_id": "孝道",
+      "title": "孝道",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/孝道"
+    },
+    {
+      "entry_id": "孤勇者之歌",
+      "title": "孤勇者之歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/孤勇者之歌"
+    },
+    {
+      "entry_id": "宇宙的和谐",
+      "title": "宇宙的和谐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/宇宙的和谐"
+    },
+    {
+      "entry_id": "守夜人",
+      "title": "守夜人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/守夜人"
+    },
+    {
+      "entry_id": "守护者",
+      "title": "守护者",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/守护者"
+    },
+    {
+      "entry_id": "安魂曲",
+      "title": "安魂曲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/安魂曲"
+    },
+    {
+      "entry_id": "家的味道",
+      "title": "家的味道",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/家的味道"
+    },
+    {
+      "entry_id": "家训",
+      "title": "家训",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/家训"
+    },
+    {
+      "entry_id": "家风",
+      "title": "家风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/家风"
+    },
+    {
+      "entry_id": "宿舍的夜谈",
+      "title": "宿舍的夜谈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/宿舍的夜谈"
+    },
+    {
+      "entry_id": "封印解除",
+      "title": "封印解除",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/封印解除"
+    },
+    {
+      "entry_id": "将进酒",
+      "title": "将进酒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/将进酒"
+    },
+    {
+      "entry_id": "小桥流水",
+      "title": "小桥流水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/小桥流水"
+    },
+    {
+      "entry_id": "山海之约",
+      "title": "山海之约",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/山海之约"
+    },
+    {
+      "entry_id": "山间的风铃",
+      "title": "山间的风铃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/山间的风铃"
+    },
+    {
+      "entry_id": "山顶的日出",
+      "title": "山顶的日出",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/山顶的日出"
+    },
+    {
+      "entry_id": "山高水长",
+      "title": "山高水长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/山高水长"
+    },
+    {
+      "entry_id": "岁月的歌",
+      "title": "岁月的歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/岁月的歌"
+    },
+    {
+      "entry_id": "岁月的童话",
+      "title": "岁月的童话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/岁月的童话"
+    },
+    {
+      "entry_id": "岁月里的守塔人",
+      "title": "岁月里的守塔人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/岁月里的守塔人"
+    },
+    {
+      "entry_id": "巷口的煎饼摊",
+      "title": "巷口的煎饼摊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/巷口的煎饼摊"
+    },
+    {
+      "entry_id": "巷子口的老人",
+      "title": "巷子口的老人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/巷子口的老人"
+    },
+    {
+      "entry_id": "希望之诗",
+      "title": "希望之诗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/希望之诗"
+    },
+    {
+      "entry_id": "幕后的身影",
+      "title": "幕后的身影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/幕后的身影"
+    },
+    {
+      "entry_id": "干杯吧朋友",
+      "title": "干杯吧朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/干杯吧朋友"
+    },
+    {
+      "entry_id": "平凡之路",
+      "title": "平凡之路",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/平凡之路"
+    },
+    {
+      "entry_id": "平凡的一天",
+      "title": "平凡的一天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/平凡的一天"
+    },
+    {
+      "entry_id": "平凡英雄",
+      "title": "平凡英雄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/平凡英雄"
+    },
+    {
+      "entry_id": "平沙落雁",
+      "title": "平沙落雁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/平沙落雁"
+    },
+    {
+      "entry_id": "幸福在路上",
+      "title": "幸福在路上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/幸福在路上"
+    },
+    {
+      "entry_id": "幸运草",
+      "title": "幸运草",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/幸运草"
+    },
+    {
+      "entry_id": "广陵散",
+      "title": "广陵散",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/广陵散"
+    },
+    {
+      "entry_id": "庆丰收",
+      "title": "庆丰收",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/庆丰收"
+    },
+    {
+      "entry_id": "开心就拍手",
+      "title": "开心就拍手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/开心就拍手"
+    },
+    {
+      "entry_id": "异世界之门",
+      "title": "异世界之门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/异世界之门"
+    },
+    {
+      "entry_id": "引爆全场",
+      "title": "引爆全场",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/引爆全场"
+    },
+    {
+      "entry_id": "弟弟的玩具",
+      "title": "弟弟的玩具",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/弟弟的玩具"
+    },
+    {
+      "entry_id": "弟弟的玩具车",
+      "title": "弟弟的玩具车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/弟弟的玩具车"
+    },
+    {
+      "entry_id": "弥撒",
+      "title": "弥撒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/弥撒"
+    },
+    {
+      "entry_id": "弯弯腰",
+      "title": "弯弯腰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/弯弯腰"
+    },
+    {
+      "entry_id": "归途",
+      "title": "归途",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/归途"
+    },
+    {
+      "entry_id": "彩云追月",
+      "title": "彩云追月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/彩云追月"
+    },
+    {
+      "entry_id": "彩虹桥",
+      "title": "彩虹桥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/彩虹桥"
+    },
+    {
+      "entry_id": "彩虹色的梦",
+      "title": "彩虹色的梦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/彩虹色的梦"
+    },
+    {
+      "entry_id": "彩虹色的魔法",
+      "title": "彩虹色的魔法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/彩虹色的魔法"
+    },
+    {
+      "entry_id": "彼岸花开",
+      "title": "彼岸花开",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/彼岸花开"
+    },
+    {
+      "entry_id": "微光",
+      "title": "微光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/微光"
+    },
+    {
+      "entry_id": "心有繁花",
+      "title": "心有繁花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/心有繁花"
+    },
+    {
+      "entry_id": "心灵的归宿",
+      "title": "心灵的归宿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/心灵的归宿"
+    },
+    {
+      "entry_id": "心经",
+      "title": "心经",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/心经"
+    },
+    {
+      "entry_id": "心跳加速",
+      "title": "心跳加速",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/心跳加速"
+    },
+    {
+      "entry_id": "忏悔",
+      "title": "忏悔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/忏悔"
+    },
+    {
+      "entry_id": "快乐出发",
+      "title": "快乐出发",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/快乐出发"
+    },
+    {
+      "entry_id": "快乐就这么简单",
+      "title": "快乐就这么简单",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/快乐就这么简单"
+    },
+    {
+      "entry_id": "怒发冲冠",
+      "title": "怒发冲冠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/怒发冲冠"
+    },
+    {
+      "entry_id": "怒放的生命",
+      "title": "怒放的生命",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/怒放的生命"
+    },
+    {
+      "entry_id": "恋爱循环",
+      "title": "恋爱循环",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/恋爱循环"
+    },
+    {
+      "entry_id": "感地德",
+      "title": "感地德",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/感地德"
+    },
+    {
+      "entry_id": "慈悲之心",
+      "title": "慈悲之心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/慈悲之心"
+    },
+    {
+      "entry_id": "慢慢喜欢你",
+      "title": "慢慢喜欢你",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/慢慢喜欢你"
+    },
+    {
+      "entry_id": "慢慢来",
+      "title": "慢慢来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/慢慢来"
+    },
+    {
+      "entry_id": "成都的雨夜",
+      "title": "成都的雨夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/成都的雨夜"
+    },
+    {
+      "entry_id": "我们的舞台",
+      "title": "我们的舞台",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/我们的舞台"
+    },
+    {
+      "entry_id": "我的英雄之路",
+      "title": "我的英雄之路",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/我的英雄之路"
+    },
+    {
+      "entry_id": "战无不胜",
+      "title": "战无不胜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/战无不胜"
+    },
+    {
+      "entry_id": "战鼓雷动",
+      "title": "战鼓雷动",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/战鼓雷动"
+    },
+    {
+      "entry_id": "所向披靡",
+      "title": "所向披靡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/所向披靡"
+    },
+    {
+      "entry_id": "手牵手转圈",
+      "title": "手牵手转圈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/手牵手转圈"
+    },
+    {
+      "entry_id": "承前启后",
+      "title": "承前启后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/承前启后"
+    },
+    {
+      "entry_id": "拍拍手",
+      "title": "拍拍手",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/拍拍手"
+    },
+    {
+      "entry_id": "拜神恩",
+      "title": "拜神恩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/拜神恩"
+    },
+    {
+      "entry_id": "拾荒者",
+      "title": "拾荒者",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/拾荒者"
+    },
+    {
+      "entry_id": "指南针",
+      "title": "指南针",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/指南针"
+    },
+    {
+      "entry_id": "排山倒海",
+      "title": "排山倒海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/排山倒海"
+    },
+    {
+      "entry_id": "摆渡人",
+      "title": "摆渡人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/摆渡人"
+    },
+    {
+      "entry_id": "摧枯拉朽",
+      "title": "摧枯拉朽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/摧枯拉朽"
+    },
+    {
+      "entry_id": "撕裂黑暗",
+      "title": "撕裂黑暗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/撕裂黑暗"
+    },
+    {
+      "entry_id": "擦肩而过",
+      "title": "擦肩而过",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/擦肩而过"
+    },
+    {
+      "entry_id": "攻无不克",
+      "title": "攻无不克",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/攻无不克"
+    },
+    {
+      "entry_id": "放声大笑",
+      "title": "放声大笑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/放声大笑"
+    },
+    {
+      "entry_id": "放学后的约定",
+      "title": "放学后的约定",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/放学后的约定"
+    },
+    {
+      "entry_id": "放空",
+      "title": "放空",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/放空"
+    },
+    {
+      "entry_id": "故乡",
+      "title": "故乡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/故乡"
+    },
+    {
+      "entry_id": "救赎",
+      "title": "救赎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/救赎"
+    },
+    {
+      "entry_id": "敬地",
+      "title": "敬地",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/敬地"
+    },
+    {
+      "entry_id": "敬天",
+      "title": "敬天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/敬天"
+    },
+    {
+      "entry_id": "敬祖宗",
+      "title": "敬祖宗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/敬祖宗"
+    },
+    {
+      "entry_id": "数字幽灵",
+      "title": "数字幽灵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/数字幽灵"
+    },
+    {
+      "entry_id": "数字海洋",
+      "title": "数字海洋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/数字海洋"
+    },
+    {
+      "entry_id": "数字绿洲",
+      "title": "数字绿洲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/数字绿洲"
+    },
+    {
+      "entry_id": "数据洪流",
+      "title": "数据洪流",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/数据洪流"
+    },
+    {
+      "entry_id": "新年到",
+      "title": "新年到",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/新年到"
+    },
+    {
+      "entry_id": "族谱",
+      "title": "族谱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/族谱"
+    },
+    {
+      "entry_id": "无名的人",
+      "title": "无名的人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/无名的人"
+    },
+    {
+      "entry_id": "无所畏惧",
+      "title": "无所畏惧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/无所畏惧"
+    },
+    {
+      "entry_id": "无量寿福",
+      "title": "无量寿福",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/无量寿福"
+    },
+    {
+      "entry_id": "无限可能",
+      "title": "无限可能",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/无限可能"
+    },
+    {
+      "entry_id": "旧书店",
+      "title": "旧书店",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/旧书店"
+    },
+    {
+      "entry_id": "旧照片里的微笑",
+      "title": "旧照片里的微笑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/旧照片里的微笑"
+    },
+    {
+      "entry_id": "早安阳光",
+      "title": "早安阳光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/早安阳光"
+    },
+    {
+      "entry_id": "时光慢递",
+      "title": "时光慢递",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/时光慢递"
+    },
+    {
+      "entry_id": "时光的河",
+      "title": "时光的河",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/时光的河"
+    },
+    {
+      "entry_id": "时光胶囊",
+      "title": "时光胶囊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/时光胶囊"
+    },
+    {
+      "entry_id": "时光里的邮差",
+      "title": "时光里的邮差",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/时光里的邮差"
+    },
+    {
+      "entry_id": "时间线",
+      "title": "时间线",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/时间线"
+    },
+    {
+      "entry_id": "明日晴空",
+      "title": "明日晴空",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/明日晴空"
+    },
+    {
+      "entry_id": "明月",
+      "title": "明月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/明月"
+    },
+    {
+      "entry_id": "星星不说话",
+      "title": "星星不说话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/星星不说话"
+    },
+    {
+      "entry_id": "星河旅馆",
+      "title": "星河旅馆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/星河旅馆"
+    },
+    {
+      "entry_id": "星空圣歌",
+      "title": "星空圣歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/星空圣歌"
+    },
+    {
+      "entry_id": "星辰大海",
+      "title": "星辰大海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/星辰大海"
+    },
+    {
+      "entry_id": "星际航行",
+      "title": "星际航行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/星际航行"
+    },
+    {
+      "entry_id": "春分",
+      "title": "春分",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/春分"
+    },
+    {
+      "entry_id": "春天的列车",
+      "title": "春天的列车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/春天的列车"
+    },
+    {
+      "entry_id": "春天的第一朵花",
+      "title": "春天的第一朵花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/春天的第一朵花"
+    },
+    {
+      "entry_id": "春江花月夜",
+      "title": "春江花月夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/春江花月夜"
+    },
+    {
+      "entry_id": "春祭",
+      "title": "春祭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/春祭"
+    },
+    {
+      "entry_id": "昨日重现",
+      "title": "昨日重现",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/昨日重现"
+    },
+    {
+      "entry_id": "晒太阳",
+      "title": "晒太阳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/晒太阳"
+    },
+    {
+      "entry_id": "晚安世界",
+      "title": "晚安世界",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/晚安世界"
+    },
+    {
+      "entry_id": "晚安前的话",
+      "title": "晚安前的话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/晚安前的话"
+    },
+    {
+      "entry_id": "晨光",
+      "title": "晨光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/晨光"
+    },
+    {
+      "entry_id": "晨跑",
+      "title": "晨跑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/晨跑"
+    },
+    {
+      "entry_id": "晨钟暮鼓",
+      "title": "晨钟暮鼓",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/晨钟暮鼓"
+    },
+    {
+      "entry_id": "晨雾中的小径",
+      "title": "晨雾中的小径",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/晨雾中的小径"
+    },
+    {
+      "entry_id": "晴天的云",
+      "title": "晴天的云",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/晴天的云"
+    },
+    {
+      "entry_id": "暗网",
+      "title": "暗网",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/暗网"
+    },
+    {
+      "entry_id": "最后一班地铁",
+      "title": "最后一班地铁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/最后一班地铁"
+    },
+    {
+      "entry_id": "最好的时光",
+      "title": "最好的时光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/最好的时光"
+    },
+    {
+      "entry_id": "月儿高",
+      "title": "月儿高",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/月儿高"
+    },
+    {
+      "entry_id": "月光圣咏",
+      "title": "月光圣咏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/月光圣咏"
+    },
+    {
+      "entry_id": "月光小夜曲",
+      "title": "月光小夜曲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/月光小夜曲"
+    },
+    {
+      "entry_id": "月光邮差",
+      "title": "月光邮差",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/月光邮差"
+    },
+    {
+      "entry_id": "木鱼声声",
+      "title": "木鱼声声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/木鱼声声"
+    },
+    {
+      "entry_id": "未来可期",
+      "title": "未来可期",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/未来可期"
+    },
+    {
+      "entry_id": "未来已来",
+      "title": "未来已来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/未来已来"
+    },
+    {
+      "entry_id": "机械心脏",
+      "title": "机械心脏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/机械心脏"
+    },
+    {
+      "entry_id": "机械纪元",
+      "title": "机械纪元",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/机械纪元"
+    },
+    {
+      "entry_id": "机甲战神",
+      "title": "机甲战神",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/机甲战神"
+    },
+    {
+      "entry_id": "松风煮茗",
+      "title": "松风煮茗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/松风煮茗"
+    },
+    {
+      "entry_id": "极乐世界",
+      "title": "极乐世界",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/极乐世界"
+    },
+    {
+      "entry_id": "极限挑战",
+      "title": "极限挑战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/极限挑战"
+    },
+    {
+      "entry_id": "校园战歌",
+      "title": "校园战歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/校园战歌"
+    },
+    {
+      "entry_id": "格式化",
+      "title": "格式化",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/格式化"
+    },
+    {
+      "entry_id": "桃花扇",
+      "title": "桃花扇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/桃花扇"
+    },
+    {
+      "entry_id": "梅妻鹤子",
+      "title": "梅妻鹤子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/梅妻鹤子"
+    },
+    {
+      "entry_id": "梅花三弄",
+      "title": "梅花三弄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/梅花三弄"
+    },
+    {
+      "entry_id": "梦幻乐章",
+      "title": "梦幻乐章",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/梦幻乐章"
+    },
+    {
+      "entry_id": "梦想起跑线",
+      "title": "梦想起跑线",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/梦想起跑线"
+    },
+    {
+      "entry_id": "梦里的你",
+      "title": "梦里的你",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/梦里的你"
+    },
+    {
+      "entry_id": "梦里的海",
+      "title": "梦里的海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/梦里的海"
+    },
+    {
+      "entry_id": "梵音袅袅",
+      "title": "梵音袅袅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/梵音袅袅"
+    },
+    {
+      "entry_id": "次元之恋",
+      "title": "次元之恋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/次元之恋"
+    },
+    {
+      "entry_id": "次元壁",
+      "title": "次元壁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/次元壁"
+    },
+    {
+      "entry_id": "欢天喜地",
+      "title": "欢天喜地",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/欢天喜地"
+    },
+    {
+      "entry_id": "步步高",
+      "title": "步步高",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/步步高"
+    },
+    {
+      "entry_id": "母亲的白发",
+      "title": "母亲的白发",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/母亲的白发"
+    },
+    {
+      "entry_id": "毕业那天的阳光",
+      "title": "毕业那天的阳光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/毕业那天的阳光"
+    },
+    {
+      "entry_id": "水墨丹青",
+      "title": "水墨丹青",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/水墨丹青"
+    },
+    {
+      "entry_id": "永不言弃",
+      "title": "永不言弃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/永不言弃"
+    },
+    {
+      "entry_id": "汉宫秋",
+      "title": "汉宫秋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/汉宫秋"
+    },
+    {
+      "entry_id": "汉宫秋月",
+      "title": "汉宫秋月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/汉宫秋月"
+    },
+    {
+      "entry_id": "江河水",
+      "title": "江河水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/江河水"
+    },
+    {
+      "entry_id": "沉默的父爱",
+      "title": "沉默的父爱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/沉默的父爱"
+    },
+    {
+      "entry_id": "没关系",
+      "title": "没关系",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/没关系"
+    },
+    {
+      "entry_id": "沸腾的战意",
+      "title": "沸腾的战意",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/沸腾的战意"
+    },
+    {
+      "entry_id": "法华经",
+      "title": "法华经",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/法华经"
+    },
+    {
+      "entry_id": "泡面",
+      "title": "泡面",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/泡面"
+    },
+    {
+      "entry_id": "派对开始了",
+      "title": "派对开始了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/派对开始了"
+    },
+    {
+      "entry_id": "浴火重生",
+      "title": "浴火重生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/浴火重生"
+    },
+    {
+      "entry_id": "海边的情书",
+      "title": "海边的情书",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/海边的情书"
+    },
+    {
+      "entry_id": "深夜的电话",
+      "title": "深夜的电话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/深夜的电话"
+    },
+    {
+      "entry_id": "深空信号",
+      "title": "深空信号",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/深空信号"
+    },
+    {
+      "entry_id": "清风",
+      "title": "清风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/清风"
+    },
+    {
+      "entry_id": "渔舟唱晚",
+      "title": "渔舟唱晚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/渔舟唱晚"
+    },
+    {
+      "entry_id": "演员的剧本",
+      "title": "演员的剧本",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/演员的剧本"
+    },
+    {
+      "entry_id": "潇湘水云",
+      "title": "潇湘水云",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/潇湘水云"
+    },
+    {
+      "entry_id": "火星移民",
+      "title": "火星移民",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/火星移民"
+    },
+    {
+      "entry_id": "灯塔",
+      "title": "灯塔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/灯塔"
+    },
+    {
+      "entry_id": "炎黄子孙",
+      "title": "炎黄子孙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/炎黄子孙"
+    },
+    {
+      "entry_id": "炸裂舞台",
+      "title": "炸裂舞台",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/炸裂舞台"
+    },
+    {
+      "entry_id": "烈火雄心",
+      "title": "烈火雄心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/烈火雄心"
+    },
+    {
+      "entry_id": "烈焰焚天",
+      "title": "烈焰焚天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/烈焰焚天"
+    },
+    {
+      "entry_id": "烟雨楼台",
+      "title": "烟雨楼台",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/烟雨楼台"
+    },
+    {
+      "entry_id": "热血燃烧",
+      "title": "热血燃烧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/热血燃烧"
+    },
+    {
+      "entry_id": "热血青春",
+      "title": "热血青春",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/热血青春"
+    },
+    {
+      "entry_id": "焚香祭拜",
+      "title": "焚香祭拜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/焚香祭拜"
+    },
+    {
+      "entry_id": "燃烧的血液",
+      "title": "燃烧的血液",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/燃烧的血液"
+    },
+    {
+      "entry_id": "燃爆青春",
+      "title": "燃爆青春",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/燃爆青春"
+    },
+    {
+      "entry_id": "燃起来吧",
+      "title": "燃起来吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/燃起来吧"
+    },
+    {
+      "entry_id": "爱是永恒",
+      "title": "爱是永恒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/爱是永恒"
+    },
+    {
+      "entry_id": "父亲的信",
+      "title": "父亲的信",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/父亲的信"
+    },
+    {
+      "entry_id": "父亲的背影",
+      "title": "父亲的背影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/父亲的背影"
+    },
+    {
+      "entry_id": "爷爷的烟斗",
+      "title": "爷爷的烟斗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/爷爷的烟斗"
+    },
+    {
+      "entry_id": "牡丹亭",
+      "title": "牡丹亭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/牡丹亭"
+    },
+    {
+      "entry_id": "狂野之心",
+      "title": "狂野之心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/狂野之心"
+    },
+    {
+      "entry_id": "狂风骤雨",
+      "title": "狂风骤雨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/狂风骤雨"
+    },
+    {
+      "entry_id": "独自看海",
+      "title": "独自看海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/独自看海"
+    },
+    {
+      "entry_id": "理发店的阿强",
+      "title": "理发店的阿强",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/理发店的阿强"
+    },
+    {
+      "entry_id": "理想的翅膀",
+      "title": "理想的翅膀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/理想的翅膀"
+    },
+    {
+      "entry_id": "琵琶行",
+      "title": "琵琶行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/琵琶行"
+    },
+    {
+      "entry_id": "甜蜜蜜",
+      "title": "甜蜜蜜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/甜蜜蜜"
+    },
+    {
+      "entry_id": "甜蜜魔法",
+      "title": "甜蜜魔法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/甜蜜魔法"
+    },
+    {
+      "entry_id": "生命之光",
+      "title": "生命之光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/生命之光"
+    },
+    {
+      "entry_id": "生日颂",
+      "title": "生日颂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/生日颂"
+    },
+    {
+      "entry_id": "生活多美好",
+      "title": "生活多美好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/生活多美好"
+    },
+    {
+      "entry_id": "电子灵魂",
+      "title": "电子灵魂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/电子灵魂"
+    },
+    {
+      "entry_id": "电子眼泪",
+      "title": "电子眼泪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/电子眼泪"
+    },
+    {
+      "entry_id": "电子羊的梦",
+      "title": "电子羊的梦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/电子羊的梦"
+    },
+    {
+      "entry_id": "电闪雷鸣",
+      "title": "电闪雷鸣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/电闪雷鸣"
+    },
+    {
+      "entry_id": "画室的颜料",
+      "title": "画室的颜料",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/画室的颜料"
+    },
+    {
+      "entry_id": "白鸽飞翔",
+      "title": "白鸽飞翔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/白鸽飞翔"
+    },
+    {
+      "entry_id": "百合的香",
+      "title": "百合的香",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/百合的香"
+    },
+    {
+      "entry_id": "百鸟朝凤",
+      "title": "百鸟朝凤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/百鸟朝凤"
+    },
+    {
+      "entry_id": "睡不着",
+      "title": "睡不着",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/睡不着"
+    },
+    {
+      "entry_id": "石破天惊",
+      "title": "石破天惊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/石破天惊"
+    },
+    {
+      "entry_id": "破晓之光",
+      "title": "破晓之光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/破晓之光"
+    },
+    {
+      "entry_id": "破茧而出",
+      "title": "破茧而出",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/破茧而出"
+    },
+    {
+      "entry_id": "破釜沉舟",
+      "title": "破釜沉舟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/破釜沉舟"
+    },
+    {
+      "entry_id": "祈祷",
+      "title": "祈祷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/祈祷"
+    },
+    {
+      "entry_id": "祖先颂",
+      "title": "祖先颂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/祖先颂"
+    },
+    {
+      "entry_id": "祖坟",
+      "title": "祖坟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/祖坟"
+    },
+    {
+      "entry_id": "祖宗十八代",
+      "title": "祖宗十八代",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/祖宗十八代"
+    },
+    {
+      "entry_id": "祖德",
+      "title": "祖德",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/祖德"
+    },
+    {
+      "entry_id": "神圣之光",
+      "title": "神圣之光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/神圣之光"
+    },
+    {
+      "entry_id": "神圣的宁静",
+      "title": "神圣的宁静",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/神圣的宁静"
+    },
+    {
+      "entry_id": "神州沃土",
+      "title": "神州沃土",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/神州沃土"
+    },
+    {
+      "entry_id": "祠堂",
+      "title": "祠堂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/祠堂"
+    },
+    {
+      "entry_id": "祭天地",
+      "title": "祭天地",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/祭天地"
+    },
+    {
+      "entry_id": "祭天祈福",
+      "title": "祭天祈福",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/祭天祈福"
+    },
+    {
+      "entry_id": "祭祀",
+      "title": "祭祀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/祭祀"
+    },
+    {
+      "entry_id": "福泽绵长",
+      "title": "福泽绵长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/福泽绵长"
+    },
+    {
+      "entry_id": "秋分",
+      "title": "秋分",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/秋分"
+    },
+    {
+      "entry_id": "秋天的信笺",
+      "title": "秋天的信笺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/秋天的信笺"
+    },
+    {
+      "entry_id": "秋祭",
+      "title": "秋祭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/秋祭"
+    },
+    {
+      "entry_id": "秋菊",
+      "title": "秋菊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/秋菊"
+    },
+    {
+      "entry_id": "秦王破阵乐",
+      "title": "秦王破阵乐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/秦王破阵乐"
+    },
+    {
+      "entry_id": "穿越时空",
+      "title": "穿越时空",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/穿越时空"
+    },
+    {
+      "entry_id": "竹林七贤",
+      "title": "竹林七贤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/竹林七贤"
+    },
+    {
+      "entry_id": "竹篱茅舍",
+      "title": "竹篱茅舍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/竹篱茅舍"
+    },
+    {
+      "entry_id": "笑一个吧",
+      "title": "笑一个吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/笑一个吧"
+    },
+    {
+      "entry_id": "笑嘻嘻",
+      "title": "笑嘻嘻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/笑嘻嘻"
+    },
+    {
+      "entry_id": "第一次离家",
+      "title": "第一次离家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/第一次离家"
+    },
+    {
+      "entry_id": "等风来",
+      "title": "等风来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/等风来"
+    },
+    {
+      "entry_id": "算法之恋",
+      "title": "算法之恋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/算法之恋"
+    },
+    {
+      "entry_id": "精灵之歌",
+      "title": "精灵之歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/精灵之歌"
+    },
+    {
+      "entry_id": "约定的地方",
+      "title": "约定的地方",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/约定的地方"
+    },
+    {
+      "entry_id": "纯净心灵",
+      "title": "纯净心灵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/纯净心灵"
+    },
+    {
+      "entry_id": "终点线",
+      "title": "终点线",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/终点线"
+    },
+    {
+      "entry_id": "绝地反击",
+      "title": "绝地反击",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/绝地反击"
+    },
+    {
+      "entry_id": "继往开来",
+      "title": "继往开来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/继往开来"
+    },
+    {
+      "entry_id": "羁绊",
+      "title": "羁绊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/羁绊"
+    },
+    {
+      "entry_id": "羁绊之力",
+      "title": "羁绊之力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/羁绊之力"
+    },
+    {
+      "entry_id": "美滋滋",
+      "title": "美滋滋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/美滋滋"
+    },
+    {
+      "entry_id": "老井",
+      "title": "老井",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/老井"
+    },
+    {
+      "entry_id": "老友记",
+      "title": "老友记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/老友记"
+    },
+    {
+      "entry_id": "老同学",
+      "title": "老同学",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/老同学"
+    },
+    {
+      "entry_id": "老城墙",
+      "title": "老城墙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/老城墙"
+    },
+    {
+      "entry_id": "老屋",
+      "title": "老屋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/老屋"
+    },
+    {
+      "entry_id": "老树",
+      "title": "老树",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/老树"
+    },
+    {
+      "entry_id": "老街",
+      "title": "老街",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/老街"
+    },
+    {
+      "entry_id": "背水一战",
+      "title": "背水一战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/背水一战"
+    },
+    {
+      "entry_id": "胡笳十八拍",
+      "title": "胡笳十八拍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/胡笳十八拍"
+    },
+    {
+      "entry_id": "脉冲",
+      "title": "脉冲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/脉冲"
+    },
+    {
+      "entry_id": "脑机接口",
+      "title": "脑机接口",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/脑机接口"
+    },
+    {
+      "entry_id": "致青春",
+      "title": "致青春",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/致青春"
+    },
+    {
+      "entry_id": "舞台的灯光",
+      "title": "舞台的灯光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/舞台的灯光"
+    },
+    {
+      "entry_id": "芯片里的梦",
+      "title": "芯片里的梦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/芯片里的梦"
+    },
+    {
+      "entry_id": "花开富贵",
+      "title": "花开富贵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/花开富贵"
+    },
+    {
+      "entry_id": "花开忘忧",
+      "title": "花开忘忧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/花开忘忧"
+    },
+    {
+      "entry_id": "英雄归来",
+      "title": "英雄归来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/英雄归来"
+    },
+    {
+      "entry_id": "莲花净土",
+      "title": "莲花净土",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/莲花净土"
+    },
+    {
+      "entry_id": "菩提树下",
+      "title": "菩提树下",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/菩提树下"
+    },
+    {
+      "entry_id": "萌动",
+      "title": "萌动",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/萌动"
+    },
+    {
+      "entry_id": "董小姐的故事",
+      "title": "董小姐的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/董小姐的故事"
+    },
+    {
+      "entry_id": "蒲公英的旅行",
+      "title": "蒲公英的旅行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/蒲公英的旅行"
+    },
+    {
+      "entry_id": "薰衣草的梦",
+      "title": "薰衣草的梦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/薰衣草的梦"
+    },
+    {
+      "entry_id": "虚拟现实",
+      "title": "虚拟现实",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/虚拟现实"
+    },
+    {
+      "entry_id": "虫洞穿越",
+      "title": "虫洞穿越",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/虫洞穿越"
+    },
+    {
+      "entry_id": "血战到底",
+      "title": "血战到底",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/血战到底"
+    },
+    {
+      "entry_id": "血脉相连",
+      "title": "血脉相连",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/血脉相连"
+    },
+    {
+      "entry_id": "西厢记",
+      "title": "西厢记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/西厢记"
+    },
+    {
+      "entry_id": "西方净土",
+      "title": "西方净土",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/西方净土"
+    },
+    {
+      "entry_id": "观众席的掌声",
+      "title": "观众席的掌声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/观众席的掌声"
+    },
+    {
+      "entry_id": "觉醒之力",
+      "title": "觉醒之力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/觉醒之力"
+    },
+    {
+      "entry_id": "让我们一起歌唱",
+      "title": "让我们一起歌唱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/让我们一起歌唱"
+    },
+    {
+      "entry_id": "诗人的笔",
+      "title": "诗人的笔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/诗人的笔"
+    },
+    {
+      "entry_id": "诵经声声",
+      "title": "诵经声声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/诵经声声"
+    },
+    {
+      "entry_id": "谢天恩",
+      "title": "谢天恩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/谢天恩"
+    },
+    {
+      "entry_id": "贝斯的低语",
+      "title": "贝斯的低语",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/贝斯的低语"
+    },
+    {
+      "entry_id": "赛博之城",
+      "title": "赛博之城",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/赛博之城"
+    },
+    {
+      "entry_id": "赛博朋克2077",
+      "title": "赛博朋克2077",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/赛博朋克2077"
+    },
+    {
+      "entry_id": "赛龙舟",
+      "title": "赛龙舟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/赛龙舟"
+    },
+    {
+      "entry_id": "赞美诗",
+      "title": "赞美诗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/赞美诗"
+    },
+    {
+      "entry_id": "走音的琴",
+      "title": "走音的琴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/走音的琴"
+    },
+    {
+      "entry_id": "赶路人",
+      "title": "赶路人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/赶路人"
+    },
+    {
+      "entry_id": "起跑线",
+      "title": "起跑线",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/起跑线"
+    },
+    {
+      "entry_id": "超光速",
+      "title": "超光速",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/超光速"
+    },
+    {
+      "entry_id": "超越极限",
+      "title": "超越极限",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/超越极限"
+    },
+    {
+      "entry_id": "跑调的歌",
+      "title": "跑调的歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/跑调的歌"
+    },
+    {
+      "entry_id": "跪拜",
+      "title": "跪拜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/跪拜"
+    },
+    {
+      "entry_id": "路过人间",
+      "title": "路过人间",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/路过人间"
+    },
+    {
+      "entry_id": "跳起来",
+      "title": "跳起来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/跳起来"
+    },
+    {
+      "entry_id": "跺跺脚",
+      "title": "跺跺脚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/跺跺脚"
+    },
+    {
+      "entry_id": "蹦蹦跳跳",
+      "title": "蹦蹦跳跳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/蹦蹦跳跳"
+    },
+    {
+      "entry_id": "轨道空间站",
+      "title": "轨道空间站",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/轨道空间站"
+    },
+    {
+      "entry_id": "转个圈",
+      "title": "转个圈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/转个圈"
+    },
+    {
+      "entry_id": "转角的惊喜",
+      "title": "转角的惊喜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/转角的惊喜"
+    },
+    {
+      "entry_id": "过大年",
+      "title": "过大年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/过大年"
+    },
+    {
+      "entry_id": "远方来信",
+      "title": "远方来信",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/远方来信"
+    },
+    {
+      "entry_id": "远航",
+      "title": "远航",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/远航"
+    },
+    {
+      "entry_id": "远行",
+      "title": "远行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/远行"
+    },
+    {
+      "entry_id": "追风筝的人",
+      "title": "追风筝的人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/追风筝的人"
+    },
+    {
+      "entry_id": "逆流而上",
+      "title": "逆流而上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/逆流而上"
+    },
+    {
+      "entry_id": "逆风翻盘",
+      "title": "逆风翻盘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/逆风翻盘"
+    },
+    {
+      "entry_id": "道法自然",
+      "title": "道法自然",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/道法自然"
+    },
+    {
+      "entry_id": "那个冬天",
+      "title": "那个冬天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/那个冬天"
+    },
+    {
+      "entry_id": "那个夏天",
+      "title": "那个夏天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/那个夏天"
+    },
+    {
+      "entry_id": "那个春天",
+      "title": "那个春天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/那个春天"
+    },
+    {
+      "entry_id": "那个秋天",
+      "title": "那个秋天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/那个秋天"
+    },
+    {
+      "entry_id": "那就这样吧",
+      "title": "那就这样吧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/那就这样吧"
+    },
+    {
+      "entry_id": "那年夏天",
+      "title": "那年夏天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/那年夏天"
+    },
+    {
+      "entry_id": "邮递员老张",
+      "title": "邮递员老张",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/邮递员老张"
+    },
+    {
+      "entry_id": "酒香",
+      "title": "酒香",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/酒香"
+    },
+    {
+      "entry_id": "采菊东篱",
+      "title": "采菊东篱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/采菊东篱"
+    },
+    {
+      "entry_id": "重启",
+      "title": "重启",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/重启"
+    },
+    {
+      "entry_id": "量子纠缠",
+      "title": "量子纠缠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/量子纠缠"
+    },
+    {
+      "entry_id": "量子通讯",
+      "title": "量子通讯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/量子通讯"
+    },
+    {
+      "entry_id": "金刚经",
+      "title": "金刚经",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/金刚经"
+    },
+    {
+      "entry_id": "金戈铁马",
+      "title": "金戈铁马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/金戈铁马"
+    },
+    {
+      "entry_id": "金蛇狂舞",
+      "title": "金蛇狂舞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/金蛇狂舞"
+    },
+    {
+      "entry_id": "钢琴黑白键",
+      "title": "钢琴黑白键",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/钢琴黑白键"
+    },
+    {
+      "entry_id": "钢铁与代码",
+      "title": "钢铁与代码",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/钢铁与代码"
+    },
+    {
+      "entry_id": "钢铁意志",
+      "title": "钢铁意志",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/钢铁意志"
+    },
+    {
+      "entry_id": "铁骑突出",
+      "title": "铁骑突出",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/铁骑突出"
+    },
+    {
+      "entry_id": "铿锵玫瑰",
+      "title": "铿锵玫瑰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/铿锵玫瑰"
+    },
+    {
+      "entry_id": "长大的代价",
+      "title": "长大的代价",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/长大的代价"
+    },
+    {
+      "entry_id": "长生殿",
+      "title": "长生殿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/长生殿"
+    },
+    {
+      "entry_id": "长相思",
+      "title": "长相思",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/长相思"
+    },
+    {
+      "entry_id": "闪耀的心",
+      "title": "闪耀的心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/闪耀的心"
+    },
+    {
+      "entry_id": "闪闪发光的你",
+      "title": "闪闪发光的你",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/闪闪发光的你"
+    },
+    {
+      "entry_id": "闲置的唱片机",
+      "title": "闲置的唱片机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/闲置的唱片机"
+    },
+    {
+      "entry_id": "闹元宵",
+      "title": "闹元宵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/闹元宵"
+    },
+    {
+      "entry_id": "防火墙",
+      "title": "防火墙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/防火墙"
+    },
+    {
+      "entry_id": "阳光总在风雨后",
+      "title": "阳光总在风雨后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/阳光总在风雨后"
+    },
+    {
+      "entry_id": "阳光沙滩",
+      "title": "阳光沙滩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/阳光沙滩"
+    },
+    {
+      "entry_id": "阳光灿烂的日子",
+      "title": "阳光灿烂的日子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/阳光灿烂的日子"
+    },
+    {
+      "entry_id": "阳关三叠",
+      "title": "阳关三叠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/阳关三叠"
+    },
+    {
+      "entry_id": "阿弥陀佛",
+      "title": "阿弥陀佛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/阿弥陀佛"
+    },
+    {
+      "entry_id": "阿门",
+      "title": "阿门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/阿门"
+    },
+    {
+      "entry_id": "雏菊的纯",
+      "title": "雏菊的纯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/雏菊的纯"
+    },
+    {
+      "entry_id": "雨后的城市",
+      "title": "雨后的城市",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/雨后的城市"
+    },
+    {
+      "entry_id": "雨打芭蕉",
+      "title": "雨打芭蕉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/雨打芭蕉"
+    },
+    {
+      "entry_id": "雨里的诗",
+      "title": "雨里的诗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/雨里的诗"
+    },
+    {
+      "entry_id": "雪天的炉火",
+      "title": "雪天的炉火",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/雪天的炉火"
+    },
+    {
+      "entry_id": "零和一之间",
+      "title": "零和一之间",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/零和一之间"
+    },
+    {
+      "entry_id": "雷霆万钧",
+      "title": "雷霆万钧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/雷霆万钧"
+    },
+    {
+      "entry_id": "霓虹之都",
+      "title": "霓虹之都",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/霓虹之都"
+    },
+    {
+      "entry_id": "霓虹雨夜",
+      "title": "霓虹雨夜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/霓虹雨夜"
+    },
+    {
+      "entry_id": "霓裳羽衣曲",
+      "title": "霓裳羽衣曲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/霓裳羽衣曲"
+    },
+    {
+      "entry_id": "青春加速度",
+      "title": "青春加速度",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/青春加速度"
+    },
+    {
+      "entry_id": "青春的歌谣",
+      "title": "青春的歌谣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/青春的歌谣"
+    },
+    {
+      "entry_id": "青花瓷韵",
+      "title": "青花瓷韵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/青花瓷韵"
+    },
+    {
+      "entry_id": "静待花开",
+      "title": "静待花开",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/静待花开"
+    },
+    {
+      "entry_id": "面朝大海",
+      "title": "面朝大海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/面朝大海"
+    },
+    {
+      "entry_id": "风居住的街道",
+      "title": "风居住的街道",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/风居住的街道"
+    },
+    {
+      "entry_id": "风筝飞满天",
+      "title": "风筝飞满天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/风筝飞满天"
+    },
+    {
+      "entry_id": "风里的歌",
+      "title": "风里的歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/风里的歌"
+    },
+    {
+      "entry_id": "风雨彩虹",
+      "title": "风雨彩虹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/风雨彩虹"
+    },
+    {
+      "entry_id": "食堂的味道",
+      "title": "食堂的味道",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/食堂的味道"
+    },
+    {
+      "entry_id": "饮水思源",
+      "title": "饮水思源",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/饮水思源"
+    },
+    {
+      "entry_id": "香火传承",
+      "title": "香火传承",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/香火传承"
+    },
+    {
+      "entry_id": "香火永续",
+      "title": "香火永续",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/香火永续"
+    },
+    {
+      "entry_id": "香烟缭绕",
+      "title": "香烟缭绕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/香烟缭绕"
+    },
+    {
+      "entry_id": "高山流水",
+      "title": "高山流水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/高山流水"
+    },
+    {
+      "entry_id": "魔法少女",
+      "title": "魔法少女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/魔法少女"
+    },
+    {
+      "entry_id": "鸿运当头",
+      "title": "鸿运当头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/鸿运当头"
+    },
+    {
+      "entry_id": "黄昏祈祷",
+      "title": "黄昏祈祷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/黄昏祈祷"
+    },
+    {
+      "entry_id": "黎明颂歌",
+      "title": "黎明颂歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/黎明颂歌"
+    },
+    {
+      "entry_id": "黑客帝国",
+      "title": "黑客帝国",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/黑客帝国"
+    },
+    {
+      "entry_id": "龙的传人",
+      "title": "龙的传人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/其他类型/中文歌曲/龙的传人"
+    }
+  ]
+}

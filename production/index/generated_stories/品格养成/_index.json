@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "index_type": "subject_index",
+  "subject_id": "品格养成",
+  "subject_name": "品格养成",
+  "cover": {
+    "cover_image_url": "covers/generated/品格养成/品格养成.webp",
+    "cover_level": "subject"
+  },
+  "category_count": 9,
+  "categories": [
+    {
+      "id": "A10生命教育",
+      "name": "A10生命教育",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 175,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A10生命教育/A10生命教育.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "A1勇敢",
+      "name": "A1勇敢",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 173,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A1勇敢/A1勇敢.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "A2诚实",
+      "name": "A2诚实",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 175,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A2诚实/A2诚实.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "A4感恩",
+      "name": "A4感恩",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 173,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A4感恩/A4感恩.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "A5礼貌",
+      "name": "A5礼貌",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 174,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A5礼貌/A5礼貌.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "A6宽容",
+      "name": "A6宽容",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 173,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A6宽容/A6宽容.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "A7孝心",
+      "name": "A7孝心",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 175,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A7孝心/A7孝心.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "A8公平正义",
+      "name": "A8公平正义",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 174,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A8公平正义/A8公平正义.webp",
+        "cover_level": "category"
+      }
+    },
+    {
+      "id": "A9哲学启蒙",
+      "name": "A9哲学启蒙",
+      "structure_type": "standalone_collection",
+      "display_as": "category_card",
+      "entry_count": 173,
+      "cover": {
+        "cover_image_url": "covers/generated/品格养成/A9哲学启蒙/A9哲学启蒙.webp",
+        "cover_level": "category"
+      }
+    }
+  ]
+}

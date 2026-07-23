@@ -1,0 +1,225 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/安全教育/双语歌曲",
+  "name": "双语歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/安全教育.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 30,
+  "entries": [
+    {
+      "entry_id": "不玩火-Dont Play with Fire",
+      "title": "不玩火-Dont Play with Fire",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/不玩火-Dont Play with Fire"
+    },
+    {
+      "entry_id": "不高爬-Dont Climb High",
+      "title": "不高爬-Dont Climb High",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/不高爬-Dont Climb High"
+    },
+    {
+      "entry_id": "保守秘密-Keep Secrets Safe",
+      "title": "保守秘密-Keep Secrets Safe",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/保守秘密-Keep Secrets Safe"
+    },
+    {
+      "entry_id": "停车场危险-Parking Lot Danger",
+      "title": "停车场危险-Parking Lot Danger",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/停车场危险-Parking Lot Danger"
+    },
+    {
+      "entry_id": "公交车安全-Bus Safety",
+      "title": "公交车安全-Bus Safety",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/公交车安全-Bus Safety"
+    },
+    {
+      "entry_id": "厨房危险-Kitchen Danger",
+      "title": "厨房危险-Kitchen Danger",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/厨房危险-Kitchen Danger"
+    },
+    {
+      "entry_id": "厨房安全-Kitchen Safety",
+      "title": "厨房安全-Kitchen Safety",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/厨房安全-Kitchen Safety"
+    },
+    {
+      "entry_id": "密码安全-Password Safety",
+      "title": "密码安全-Password Safety",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/密码安全-Password Safety"
+    },
+    {
+      "entry_id": "屏幕时间-Screen Time",
+      "title": "屏幕时间-Screen Time",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/屏幕时间-Screen Time"
+    },
+    {
+      "entry_id": "拨打119-Call 119",
+      "title": "拨打119-Call 119",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/拨打119-Call 119"
+    },
+    {
+      "entry_id": "救生衣-Life Jacket",
+      "title": "救生衣-Life Jacket",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/救生衣-Life Jacket"
+    },
+    {
+      "entry_id": "校车规则-School Bus Rules",
+      "title": "校车规则-School Bus Rules",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/校车规则-School Bus Rules"
+    },
+    {
+      "entry_id": "河边不玩耍-Dont Play by River",
+      "title": "河边不玩耍-Dont Play by River",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/河边不玩耍-Dont Play by River"
+    },
+    {
+      "entry_id": "游泳安全-Swimming Safety",
+      "title": "游泳安全-Swimming Safety",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/游泳安全-Swimming Safety"
+    },
+    {
+      "entry_id": "游泳池规则-Pool Rules",
+      "title": "游泳池规则-Pool Rules",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/游泳池规则-Pool Rules"
+    },
+    {
+      "entry_id": "湿毛巾-Wet Towel",
+      "title": "湿毛巾-Wet Towel",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/湿毛巾-Wet Towel"
+    },
+    {
+      "entry_id": "火灾逃生-Fire Escape",
+      "title": "火灾逃生-Fire Escape",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/火灾逃生-Fire Escape"
+    },
+    {
+      "entry_id": "热水烫伤-Hot Water Burn",
+      "title": "热水烫伤-Hot Water Burn",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/热水烫伤-Hot Water Burn"
+    },
+    {
+      "entry_id": "用电安全-Electric Safety",
+      "title": "用电安全-Electric Safety",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/用电安全-Electric Safety"
+    },
+    {
+      "entry_id": "红绿灯-Traffic Lights",
+      "title": "红绿灯-Traffic Lights",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/红绿灯-Traffic Lights"
+    },
+    {
+      "entry_id": "网友危险-Stranger Online",
+      "title": "网友危险-Stranger Online",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/网友危险-Stranger Online"
+    },
+    {
+      "entry_id": "网络欺凌-Cyberbullying",
+      "title": "网络欺凌-Cyberbullying",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/网络欺凌-Cyberbullying"
+    },
+    {
+      "entry_id": "网络隐私-Online Privacy",
+      "title": "网络隐私-Online Privacy",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/网络隐私-Online Privacy"
+    },
+    {
+      "entry_id": "自行车头盔-Bicycle Helmet",
+      "title": "自行车头盔-Bicycle Helmet",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/自行车头盔-Bicycle Helmet"
+    },
+    {
+      "entry_id": "药品安全-Medicine Safety",
+      "title": "药品安全-Medicine Safety",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/药品安全-Medicine Safety"
+    },
+    {
+      "entry_id": "记住电话-Remember Phone Number",
+      "title": "记住电话-Remember Phone Number",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/记住电话-Remember Phone Number"
+    },
+    {
+      "entry_id": "说不-Say No",
+      "title": "说不-Say No",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/说不-Say No"
+    },
+    {
+      "entry_id": "过马路-Cross the Street",
+      "title": "过马路-Cross the Street",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/过马路-Cross the Street"
+    },
+    {
+      "entry_id": "迷路了-Lost and Found",
+      "title": "迷路了-Lost and Found",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/迷路了-Lost and Found"
+    },
+    {
+      "entry_id": "陌生人危险-Stranger Danger",
+      "title": "陌生人危险-Stranger Danger",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/双语歌曲/陌生人危险-Stranger Danger"
+    }
+  ]
+}

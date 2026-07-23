@@ -1,0 +1,634 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/节日文化",
+  "name": "节日文化",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/节日文化.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 88,
+  "entries": [
+    {
+      "entry_id": "七夕节 Qixi Festival",
+      "title": "七夕节 Qixi Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/七夕节 Qixi Festival"
+    },
+    {
+      "entry_id": "中文-七夕节",
+      "title": "中文-七夕节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-七夕节"
+    },
+    {
+      "entry_id": "中文-中秋吃月饼",
+      "title": "中文-中秋吃月饼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-中秋吃月饼"
+    },
+    {
+      "entry_id": "中文-中秋节",
+      "title": "中文-中秋节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-中秋节"
+    },
+    {
+      "entry_id": "中文-中秋赏月",
+      "title": "中文-中秋赏月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-中秋赏月"
+    },
+    {
+      "entry_id": "中文-元宵吃汤圆",
+      "title": "中文-元宵吃汤圆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-元宵吃汤圆"
+    },
+    {
+      "entry_id": "中文-元宵节",
+      "title": "中文-元宵节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-元宵节"
+    },
+    {
+      "entry_id": "中文-元宵赏灯",
+      "title": "中文-元宵赏灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-元宵赏灯"
+    },
+    {
+      "entry_id": "中文-冬至",
+      "title": "中文-冬至",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-冬至"
+    },
+    {
+      "entry_id": "中文-冬至吃饺子",
+      "title": "中文-冬至吃饺子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-冬至吃饺子"
+    },
+    {
+      "entry_id": "中文-处暑",
+      "title": "中文-处暑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-处暑"
+    },
+    {
+      "entry_id": "中文-夏至",
+      "title": "中文-夏至",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-夏至"
+    },
+    {
+      "entry_id": "中文-大寒",
+      "title": "中文-大寒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-大寒"
+    },
+    {
+      "entry_id": "中文-大暑",
+      "title": "中文-大暑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-大暑"
+    },
+    {
+      "entry_id": "中文-大雪",
+      "title": "中文-大雪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-大雪"
+    },
+    {
+      "entry_id": "中文-寒露",
+      "title": "中文-寒露",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-寒露"
+    },
+    {
+      "entry_id": "中文-小寒",
+      "title": "中文-小寒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-小寒"
+    },
+    {
+      "entry_id": "中文-小年",
+      "title": "中文-小年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-小年"
+    },
+    {
+      "entry_id": "中文-小年祭灶",
+      "title": "中文-小年祭灶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-小年祭灶"
+    },
+    {
+      "entry_id": "中文-小暑",
+      "title": "中文-小暑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-小暑"
+    },
+    {
+      "entry_id": "中文-小满",
+      "title": "中文-小满",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-小满"
+    },
+    {
+      "entry_id": "中文-小雪",
+      "title": "中文-小雪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-小雪"
+    },
+    {
+      "entry_id": "中文-惊蛰",
+      "title": "中文-惊蛰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-惊蛰"
+    },
+    {
+      "entry_id": "中文-春分",
+      "title": "中文-春分",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-春分"
+    },
+    {
+      "entry_id": "中文-春节",
+      "title": "中文-春节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-春节"
+    },
+    {
+      "entry_id": "中文-春节拜年",
+      "title": "中文-春节拜年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-春节拜年"
+    },
+    {
+      "entry_id": "中文-春节贴春联",
+      "title": "中文-春节贴春联",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-春节贴春联"
+    },
+    {
+      "entry_id": "中文-清明",
+      "title": "中文-清明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-清明"
+    },
+    {
+      "entry_id": "中文-清明祭祖",
+      "title": "中文-清明祭祖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-清明祭祖"
+    },
+    {
+      "entry_id": "中文-清明节",
+      "title": "中文-清明节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-清明节"
+    },
+    {
+      "entry_id": "中文-白露",
+      "title": "中文-白露",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-白露"
+    },
+    {
+      "entry_id": "中文-秋分",
+      "title": "中文-秋分",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-秋分"
+    },
+    {
+      "entry_id": "中文-立冬",
+      "title": "中文-立冬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-立冬"
+    },
+    {
+      "entry_id": "中文-立春",
+      "title": "中文-立春",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-立春"
+    },
+    {
+      "entry_id": "中文-立春咬春",
+      "title": "中文-立春咬春",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-立春咬春"
+    },
+    {
+      "entry_id": "中文-立秋",
+      "title": "中文-立秋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-立秋"
+    },
+    {
+      "entry_id": "中文-端午吃粽子",
+      "title": "中文-端午吃粽子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-端午吃粽子"
+    },
+    {
+      "entry_id": "中文-端午节",
+      "title": "中文-端午节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-端午节"
+    },
+    {
+      "entry_id": "中文-端午赛龙舟",
+      "title": "中文-端午赛龙舟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-端午赛龙舟"
+    },
+    {
+      "entry_id": "中文-腊八喝粥",
+      "title": "中文-腊八喝粥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-腊八喝粥"
+    },
+    {
+      "entry_id": "中文-腊八节",
+      "title": "中文-腊八节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-腊八节"
+    },
+    {
+      "entry_id": "中文-芒种",
+      "title": "中文-芒种",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-芒种"
+    },
+    {
+      "entry_id": "中文-谷雨",
+      "title": "中文-谷雨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-谷雨"
+    },
+    {
+      "entry_id": "中文-重阳节",
+      "title": "中文-重阳节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-重阳节"
+    },
+    {
+      "entry_id": "中文-除夕守岁",
+      "title": "中文-除夕守岁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-除夕守岁"
+    },
+    {
+      "entry_id": "中文-雨水",
+      "title": "中文-雨水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-雨水"
+    },
+    {
+      "entry_id": "中文-霜降",
+      "title": "中文-霜降",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中文-霜降"
+    },
+    {
+      "entry_id": "中秋吃月饼 Mid-Autumn Mooncake Feast",
+      "title": "中秋吃月饼 Mid-Autumn Mooncake Feast",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中秋吃月饼 Mid-Autumn Mooncake Feast"
+    },
+    {
+      "entry_id": "中秋节 Mid-Autumn Festival",
+      "title": "中秋节 Mid-Autumn Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/中秋节 Mid-Autumn Festival"
+    },
+    {
+      "entry_id": "元宵节 Lantern Festival",
+      "title": "元宵节 Lantern Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/元宵节 Lantern Festival"
+    },
+    {
+      "entry_id": "元宵赏灯 Lantern Festival Night Viewing",
+      "title": "元宵赏灯 Lantern Festival Night Viewing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/元宵赏灯 Lantern Festival Night Viewing"
+    },
+    {
+      "entry_id": "冬至 Winter Solstice",
+      "title": "冬至 Winter Solstice",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/冬至 Winter Solstice"
+    },
+    {
+      "entry_id": "冬至吃饺子 Eating dumplings at Winter Solstice",
+      "title": "冬至吃饺子 Eating dumplings at Winter Solstice",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/冬至吃饺子 Eating dumplings at Winter Solstice"
+    },
+    {
+      "entry_id": "冬至节 Winter Solstice Festival",
+      "title": "冬至节 Winter Solstice Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/冬至节 Winter Solstice Festival"
+    },
+    {
+      "entry_id": "夏至 Summer Solstice",
+      "title": "夏至 Summer Solstice",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/夏至 Summer Solstice"
+    },
+    {
+      "entry_id": "大寒 Major Cold",
+      "title": "大寒 Major Cold",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/大寒 Major Cold"
+    },
+    {
+      "entry_id": "寒露 Cold Dew",
+      "title": "寒露 Cold Dew",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/寒露 Cold Dew"
+    },
+    {
+      "entry_id": "小寒 Minor Cold",
+      "title": "小寒 Minor Cold",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/小寒 Minor Cold"
+    },
+    {
+      "entry_id": "小年 Little New Year",
+      "title": "小年 Little New Year",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/小年 Little New Year"
+    },
+    {
+      "entry_id": "小暑 Minor Heat",
+      "title": "小暑 Minor Heat",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/小暑 Minor Heat"
+    },
+    {
+      "entry_id": "小满 Grain Buds",
+      "title": "小满 Grain Buds",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/小满 Grain Buds"
+    },
+    {
+      "entry_id": "小雪 Minor Snow",
+      "title": "小雪 Minor Snow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/小雪 Minor Snow"
+    },
+    {
+      "entry_id": "惊蛰 Awakening of Insects",
+      "title": "惊蛰 Awakening of Insects",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/惊蛰 Awakening of Insects"
+    },
+    {
+      "entry_id": "春分 Spring Equinox",
+      "title": "春分 Spring Equinox",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/春分 Spring Equinox"
+    },
+    {
+      "entry_id": "春节 Spring Festival",
+      "title": "春节 Spring Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/春节 Spring Festival"
+    },
+    {
+      "entry_id": "春节贴春联 Spring Festival couplets pasting",
+      "title": "春节贴春联 Spring Festival couplets pasting",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/春节贴春联 Spring Festival couplets pasting"
+    },
+    {
+      "entry_id": "清明 Clear and Bright",
+      "title": "清明 Clear and Bright",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/清明 Clear and Bright"
+    },
+    {
+      "entry_id": "清明祭祖 Qingming Ancestor Worship",
+      "title": "清明祭祖 Qingming Ancestor Worship",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/清明祭祖 Qingming Ancestor Worship"
+    },
+    {
+      "entry_id": "白露 White Dew",
+      "title": "白露 White Dew",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/白露 White Dew"
+    },
+    {
+      "entry_id": "秋分 Autumn Equinox",
+      "title": "秋分 Autumn Equinox",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/秋分 Autumn Equinox"
+    },
+    {
+      "entry_id": "立冬 Beginning of Winter",
+      "title": "立冬 Beginning of Winter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/立冬 Beginning of Winter"
+    },
+    {
+      "entry_id": "立夏 Beginning of Summer",
+      "title": "立夏 Beginning of Summer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/立夏 Beginning of Summer"
+    },
+    {
+      "entry_id": "立夏 Start of Summer",
+      "title": "立夏 Start of Summer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/立夏 Start of Summer"
+    },
+    {
+      "entry_id": "立春 Beginning of Spring",
+      "title": "立春 Beginning of Spring",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/立春 Beginning of Spring"
+    },
+    {
+      "entry_id": "立春 Start of Spring",
+      "title": "立春 Start of Spring",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/立春 Start of Spring"
+    },
+    {
+      "entry_id": "立秋 Beginning of Autumn",
+      "title": "立秋 Beginning of Autumn",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/立秋 Beginning of Autumn"
+    },
+    {
+      "entry_id": "立秋 Start of Autumn",
+      "title": "立秋 Start of Autumn",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/立秋 Start of Autumn"
+    },
+    {
+      "entry_id": "端午吃粽子 Dragon Boat Festival Zongzi",
+      "title": "端午吃粽子 Dragon Boat Festival Zongzi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/端午吃粽子 Dragon Boat Festival Zongzi"
+    },
+    {
+      "entry_id": "端午节 Dragon Boat Festival",
+      "title": "端午节 Dragon Boat Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/端午节 Dragon Boat Festival"
+    },
+    {
+      "entry_id": "端午赛龙舟 Dragon Boat Festival Race",
+      "title": "端午赛龙舟 Dragon Boat Festival Race",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/端午赛龙舟 Dragon Boat Festival Race"
+    },
+    {
+      "entry_id": "腊八节 Laba Festival",
+      "title": "腊八节 Laba Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/腊八节 Laba Festival"
+    },
+    {
+      "entry_id": "芒种 Grain in Ear",
+      "title": "芒种 Grain in Ear",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/芒种 Grain in Ear"
+    },
+    {
+      "entry_id": "谷雨 Grain Rain",
+      "title": "谷雨 Grain Rain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/谷雨 Grain Rain"
+    },
+    {
+      "entry_id": "重阳节 Double Ninth Festival",
+      "title": "重阳节 Double Ninth Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/重阳节 Double Ninth Festival"
+    },
+    {
+      "entry_id": "除夕 New Year Eve",
+      "title": "除夕 New Year Eve",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/除夕 New Year Eve"
+    },
+    {
+      "entry_id": "除夕守岁 New Year's Eve vigil",
+      "title": "除夕守岁 New Year's Eve vigil",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/除夕守岁 New Year's Eve vigil"
+    },
+    {
+      "entry_id": "雨水 Rain Water",
+      "title": "雨水 Rain Water",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/雨水 Rain Water"
+    },
+    {
+      "entry_id": "霜降 Frost Descent",
+      "title": "霜降 Frost Descent",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/霜降 Frost Descent"
+    }
+  ],
+  "sub_categories": [
+    "海外节日"
+  ]
+}

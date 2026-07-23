@@ -1,0 +1,337 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/安全教育/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/安全教育.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 46,
+  "entries": [
+    {
+      "entry_id": "不上陌生车",
+      "title": "不上陌生车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/不上陌生车"
+    },
+    {
+      "entry_id": "不玩火",
+      "title": "不玩火",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/不玩火"
+    },
+    {
+      "entry_id": "不良信息识别",
+      "title": "不良信息识别",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/不良信息识别"
+    },
+    {
+      "entry_id": "不轻信网友",
+      "title": "不轻信网友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/不轻信网友"
+    },
+    {
+      "entry_id": "个人信息保密",
+      "title": "个人信息保密",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/个人信息保密"
+    },
+    {
+      "entry_id": "乘车安全",
+      "title": "乘车安全",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/乘车安全"
+    },
+    {
+      "entry_id": "倒车请注意",
+      "title": "倒车请注意",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/倒车请注意"
+    },
+    {
+      "entry_id": "停车场危险",
+      "title": "停车场危险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/停车场危险"
+    },
+    {
+      "entry_id": "健康上网时间",
+      "title": "健康上网时间",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/健康上网时间"
+    },
+    {
+      "entry_id": "厨房危险",
+      "title": "厨房危险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/厨房危险"
+    },
+    {
+      "entry_id": "厨房安全",
+      "title": "厨房安全",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/厨房安全"
+    },
+    {
+      "entry_id": "同伴溺水怎么办",
+      "title": "同伴溺水怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/同伴溺水怎么办"
+    },
+    {
+      "entry_id": "坏人伪装",
+      "title": "坏人伪装",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/坏人伪装"
+    },
+    {
+      "entry_id": "大声呼救",
+      "title": "大声呼救",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/大声呼救"
+    },
+    {
+      "entry_id": "头盔很重要",
+      "title": "头盔很重要",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/头盔很重要"
+    },
+    {
+      "entry_id": "安全密码",
+      "title": "安全密码",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/安全密码"
+    },
+    {
+      "entry_id": "密码要保密",
+      "title": "密码要保密",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/密码要保密"
+    },
+    {
+      "entry_id": "尖锐物品小心",
+      "title": "尖锐物品小心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/尖锐物品小心"
+    },
+    {
+      "entry_id": "抽筋怎么办",
+      "title": "抽筋怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/抽筋怎么办"
+    },
+    {
+      "entry_id": "拨打119",
+      "title": "拨打119",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/拨打119"
+    },
+    {
+      "entry_id": "救生圈使用",
+      "title": "救生圈使用",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/救生圈使用"
+    },
+    {
+      "entry_id": "斑马线安全",
+      "title": "斑马线安全",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/斑马线安全"
+    },
+    {
+      "entry_id": "校车安全",
+      "title": "校车安全",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/校车安全"
+    },
+    {
+      "entry_id": "河边不玩耍",
+      "title": "河边不玩耍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/河边不玩耍"
+    },
+    {
+      "entry_id": "消防栓认识",
+      "title": "消防栓认识",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/消防栓认识"
+    },
+    {
+      "entry_id": "游戏充值陷阱",
+      "title": "游戏充值陷阱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/游戏充值陷阱"
+    },
+    {
+      "entry_id": "游泳安全歌",
+      "title": "游泳安全歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/游泳安全歌"
+    },
+    {
+      "entry_id": "游泳池规则",
+      "title": "游泳池规则",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/游泳池规则"
+    },
+    {
+      "entry_id": "湿毛巾捂口鼻",
+      "title": "湿毛巾捂口鼻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/湿毛巾捂口鼻"
+    },
+    {
+      "entry_id": "火灾逃生歌",
+      "title": "火灾逃生歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/火灾逃生歌"
+    },
+    {
+      "entry_id": "烟花爆竹危险",
+      "title": "烟花爆竹危险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/烟花爆竹危险"
+    },
+    {
+      "entry_id": "热水烫伤预防",
+      "title": "热水烫伤预防",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/热水烫伤预防"
+    },
+    {
+      "entry_id": "煤气泄漏怎么办",
+      "title": "煤气泄漏怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/煤气泄漏怎么办"
+    },
+    {
+      "entry_id": "用电安全歌",
+      "title": "用电安全歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/用电安全歌"
+    },
+    {
+      "entry_id": "电器起火怎么办",
+      "title": "电器起火怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/电器起火怎么办"
+    },
+    {
+      "entry_id": "窗户阳台安全",
+      "title": "窗户阳台安全",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/窗户阳台安全"
+    },
+    {
+      "entry_id": "红绿灯歌",
+      "title": "红绿灯歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/红绿灯歌"
+    },
+    {
+      "entry_id": "网络欺凌应对",
+      "title": "网络欺凌应对",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/网络欺凌应对"
+    },
+    {
+      "entry_id": "网络隐私保护",
+      "title": "网络隐私保护",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/网络隐私保护"
+    },
+    {
+      "entry_id": "药品不乱吃",
+      "title": "药品不乱吃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/药品不乱吃"
+    },
+    {
+      "entry_id": "落水自救",
+      "title": "落水自救",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/落水自救"
+    },
+    {
+      "entry_id": "记住父母电话",
+      "title": "记住父母电话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/记住父母电话"
+    },
+    {
+      "entry_id": "迷路了怎么办",
+      "title": "迷路了怎么办",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/迷路了怎么办"
+    },
+    {
+      "entry_id": "陌生人给糖不要吃",
+      "title": "陌生人给糖不要吃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/陌生人给糖不要吃"
+    },
+    {
+      "entry_id": "骑自行车",
+      "title": "骑自行车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/骑自行车"
+    },
+    {
+      "entry_id": "高处不攀爬",
+      "title": "高处不攀爬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/安全教育/中文歌曲/高处不攀爬"
+    }
+  ]
+}

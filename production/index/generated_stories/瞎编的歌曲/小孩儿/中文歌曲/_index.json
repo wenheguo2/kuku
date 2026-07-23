@@ -1,0 +1,1415 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/小孩儿/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/小孩儿/小孩儿.webp",
+    "cover_level": "category"
+  },
+  "entry_count": 200,
+  "entries": [
+    {
+      "entry_id": "1. 早安闹钟 Morning Alarm",
+      "title": "1. 早安闹钟 Morning Alarm",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/1. 早安闹钟 Morning Alarm"
+    },
+    {
+      "entry_id": "10. 考试之后 After the Exam",
+      "title": "10. 考试之后 After the Exam",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/10. 考试之后 After the Exam"
+    },
+    {
+      "entry_id": "100. 时间管理 Time Management",
+      "title": "100. 时间管理 Time Management",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/100. 时间管理 Time Management"
+    },
+    {
+      "entry_id": "11. 图书馆里 In the Library",
+      "title": "11. 图书馆里 In the Library",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/11. 图书馆里 In the Library"
+    },
+    {
+      "entry_id": "12. 操场跑步 Run on the Playground",
+      "title": "12. 操场跑步 Run on the Playground",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/12. 操场跑步 Run on the Playground"
+    },
+    {
+      "entry_id": "13. 篮球比赛 Basketball Game",
+      "title": "13. 篮球比赛 Basketball Game",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/13. 篮球比赛 Basketball Game"
+    },
+    {
+      "entry_id": "14. 跳绳比赛 Jump Rope Contest",
+      "title": "14. 跳绳比赛 Jump Rope Contest",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/14. 跳绳比赛 Jump Rope Contest"
+    },
+    {
+      "entry_id": "15. 画画时间 Painting Time",
+      "title": "15. 画画时间 Painting Time",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/15. 画画时间 Painting Time"
+    },
+    {
+      "entry_id": "16. 弹钢琴 Play the Piano",
+      "title": "16. 弹钢琴 Play the Piano",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/16. 弹钢琴 Play the Piano"
+    },
+    {
+      "entry_id": "17. 学游泳 Learn to Swim",
+      "title": "17. 学游泳 Learn to Swim",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/17. 学游泳 Learn to Swim"
+    },
+    {
+      "entry_id": "18. 骑自行车 Ride a Bike",
+      "title": "18. 骑自行车 Ride a Bike",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/18. 骑自行车 Ride a Bike"
+    },
+    {
+      "entry_id": "19. 放风筝 Fly a Kite",
+      "title": "19. 放风筝 Fly a Kite",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/19. 放风筝 Fly a Kite"
+    },
+    {
+      "entry_id": "2. 刷牙洗脸 Brush and Wash",
+      "title": "2. 刷牙洗脸 Brush and Wash",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/2. 刷牙洗脸 Brush and Wash"
+    },
+    {
+      "entry_id": "20. 种向日葵 Plant Sunflowers",
+      "title": "20. 种向日葵 Plant Sunflowers",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/20. 种向日葵 Plant Sunflowers"
+    },
+    {
+      "entry_id": "21. 春天的风 Spring Wind",
+      "title": "21. 春天的风 Spring Wind",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/21. 春天的风 Spring Wind"
+    },
+    {
+      "entry_id": "22. 夏天的雨 Summer Rain",
+      "title": "22. 夏天的雨 Summer Rain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/22. 夏天的雨 Summer Rain"
+    },
+    {
+      "entry_id": "23. 秋天的叶 Autumn Leaves",
+      "title": "23. 秋天的叶 Autumn Leaves",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/23. 秋天的叶 Autumn Leaves"
+    },
+    {
+      "entry_id": "24. 冬天的雪 Winter Snow",
+      "title": "24. 冬天的雪 Winter Snow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/24. 冬天的雪 Winter Snow"
+    },
+    {
+      "entry_id": "25. 看星星 Watch the Stars",
+      "title": "25. 看星星 Watch the Stars",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/25. 看星星 Watch the Stars"
+    },
+    {
+      "entry_id": "26. 月亮圆圆 Full Moon",
+      "title": "26. 月亮圆圆 Full Moon",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/26. 月亮圆圆 Full Moon"
+    },
+    {
+      "entry_id": "27. 太阳下山 Sunset",
+      "title": "27. 太阳下山 Sunset",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/27. 太阳下山 Sunset"
+    },
+    {
+      "entry_id": "28. 小河流水 River Flow",
+      "title": "28. 小河流水 River Flow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/28. 小河流水 River Flow"
+    },
+    {
+      "entry_id": "29. 大海的声音 Sound of the Sea",
+      "title": "29. 大海的声音 Sound of the Sea",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/29. 大海的声音 Sound of the Sea"
+    },
+    {
+      "entry_id": "3. 早餐时间 Breakfast Time",
+      "title": "3. 早餐时间 Breakfast Time",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/3. 早餐时间 Breakfast Time"
+    },
+    {
+      "entry_id": "30. 森林散步 Forest Walk",
+      "title": "30. 森林散步 Forest Walk",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/30. 森林散步 Forest Walk"
+    },
+    {
+      "entry_id": "31. 垃圾分类 Sort the Trash",
+      "title": "31. 垃圾分类 Sort the Trash",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/31. 垃圾分类 Sort the Trash"
+    },
+    {
+      "entry_id": "32. 节约用水 Save Water",
+      "title": "32. 节约用水 Save Water",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/32. 节约用水 Save Water"
+    },
+    {
+      "entry_id": "33. 保护环境 Protect the Environment",
+      "title": "33. 保护环境 Protect the Environment",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/33. 保护环境 Protect the Environment"
+    },
+    {
+      "entry_id": "34. 植树造林 Plant Trees",
+      "title": "34. 植树造林 Plant Trees",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/34. 植树造林 Plant Trees"
+    },
+    {
+      "entry_id": "35. 爱护动物 Love Animals",
+      "title": "35. 爱护动物 Love Animals",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/35. 爱护动物 Love Animals"
+    },
+    {
+      "entry_id": "36. 过马路 Cross the Road",
+      "title": "36. 过马路 Cross the Road",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/36. 过马路 Cross the Road"
+    },
+    {
+      "entry_id": "37. 红绿灯 Traffic Lights",
+      "title": "37. 红绿灯 Traffic Lights",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/37. 红绿灯 Traffic Lights"
+    },
+    {
+      "entry_id": "38. 公交车 Bus Ride",
+      "title": "38. 公交车 Bus Ride",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/38. 公交车 Bus Ride"
+    },
+    {
+      "entry_id": "39. 地铁出行 Subway Trip",
+      "title": "39. 地铁出行 Subway Trip",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/39. 地铁出行 Subway Trip"
+    },
+    {
+      "entry_id": "4. 上学路上 On the Way to School",
+      "title": "4. 上学路上 On the Way to School",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/4. 上学路上 On the Way to School"
+    },
+    {
+      "entry_id": "40. 火车站台 Train Platform",
+      "title": "40. 火车站台 Train Platform",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/40. 火车站台 Train Platform"
+    },
+    {
+      "entry_id": "41. 去超市 Go to the Supermarket",
+      "title": "41. 去超市 Go to the Supermarket",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/41. 去超市 Go to the Supermarket"
+    },
+    {
+      "entry_id": "42. 买菜购物 Buy Vegetables",
+      "title": "42. 买菜购物 Buy Vegetables",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/42. 买菜购物 Buy Vegetables"
+    },
+    {
+      "entry_id": "43. 妈妈做饭 Mom Cooks",
+      "title": "43. 妈妈做饭 Mom Cooks",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/43. 妈妈做饭 Mom Cooks"
+    },
+    {
+      "entry_id": "44. 爸爸修车 Dad Fixes the Car",
+      "title": "44. 爸爸修车 Dad Fixes the Car",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/44. 爸爸修车 Dad Fixes the Car"
+    },
+    {
+      "entry_id": "45. 家务劳动 Housework",
+      "title": "45. 家务劳动 Housework",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/45. 家务劳动 Housework"
+    },
+    {
+      "entry_id": "46. 整理书包 Pack the Bag",
+      "title": "46. 整理书包 Pack the Bag",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/46. 整理书包 Pack the Bag"
+    },
+    {
+      "entry_id": "47. 洗衣服 Wash Clothes",
+      "title": "47. 洗衣服 Wash Clothes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/47. 洗衣服 Wash Clothes"
+    },
+    {
+      "entry_id": "48. 晾衣服 Hang the Clothes",
+      "title": "48. 晾衣服 Hang the Clothes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/48. 晾衣服 Hang the Clothes"
+    },
+    {
+      "entry_id": "49. 叠被子 Fold the Quilt",
+      "title": "49. 叠被子 Fold the Quilt",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/49. 叠被子 Fold the Quilt"
+    },
+    {
+      "entry_id": "5. 教室规则 Classroom Rules",
+      "title": "5. 教室规则 Classroom Rules",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/5. 教室规则 Classroom Rules"
+    },
+    {
+      "entry_id": "50. 打扫房间 Clean the Room",
+      "title": "50. 打扫房间 Clean the Room",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/50. 打扫房间 Clean the Room"
+    },
+    {
+      "entry_id": "51. 看医生 See a Doctor",
+      "title": "51. 看医生 See a Doctor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/51. 看医生 See a Doctor"
+    },
+    {
+      "entry_id": "52. 量体温 Take Temperature",
+      "title": "52. 量体温 Take Temperature",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/52. 量体温 Take Temperature"
+    },
+    {
+      "entry_id": "53. 吃药时间 Medicine Time",
+      "title": "53. 吃药时间 Medicine Time",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/53. 吃药时间 Medicine Time"
+    },
+    {
+      "entry_id": "54. 打预防针 Get a Shot",
+      "title": "54. 打预防针 Get a Shot",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/54. 打预防针 Get a Shot"
+    },
+    {
+      "entry_id": "55. 保护牙齿 Protect Teeth",
+      "title": "55. 保护牙齿 Protect Teeth",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/55. 保护牙齿 Protect Teeth"
+    },
+    {
+      "entry_id": "56. 健康饮食 Healthy Diet",
+      "title": "56. 健康饮食 Healthy Diet",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/56. 健康饮食 Healthy Diet"
+    },
+    {
+      "entry_id": "57. 蔬菜水果 Vegetables and Fruits",
+      "title": "57. 蔬菜水果 Vegetables and Fruits",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/57. 蔬菜水果 Vegetables and Fruits"
+    },
+    {
+      "entry_id": "58. 不挑食 Don’t Be Picky",
+      "title": "58. 不挑食 Don’t Be Picky",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/58. 不挑食 Don’t Be Picky"
+    },
+    {
+      "entry_id": "59. 多喝水 Drink More Water",
+      "title": "59. 多喝水 Drink More Water",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/59. 多喝水 Drink More Water"
+    },
+    {
+      "entry_id": "6. 课间十分钟 Ten-Minute Break",
+      "title": "6. 课间十分钟 Ten-Minute Break",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/6. 课间十分钟 Ten-Minute Break"
+    },
+    {
+      "entry_id": "60. 早睡早起 Early to Bed, Early to Rise",
+      "title": "60. 早睡早起 Early to Bed, Early to Rise",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/60. 早睡早起 Early to Bed, Early to Rise"
+    },
+    {
+      "entry_id": "61. 生日派对 Birthday Party",
+      "title": "61. 生日派对 Birthday Party",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/61. 生日派对 Birthday Party"
+    },
+    {
+      "entry_id": "62. 新年快乐 Happy New Year",
+      "title": "62. 新年快乐 Happy New Year",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/62. 新年快乐 Happy New Year"
+    },
+    {
+      "entry_id": "63. 中秋节 Mid-Autumn Festival",
+      "title": "63. 中秋节 Mid-Autumn Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/63. 中秋节 Mid-Autumn Festival"
+    },
+    {
+      "entry_id": "64. 春节团圆 Spring Festival Reunion",
+      "title": "64. 春节团圆 Spring Festival Reunion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/64. 春节团圆 Spring Festival Reunion"
+    },
+    {
+      "entry_id": "65. 端午节 Dragon Boat Festival",
+      "title": "65. 端午节 Dragon Boat Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/65. 端午节 Dragon Boat Festival"
+    },
+    {
+      "entry_id": "66. 国庆节 National Day",
+      "title": "66. 国庆节 National Day",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/66. 国庆节 National Day"
+    },
+    {
+      "entry_id": "67. 儿童节 Children’s Day",
+      "title": "67. 儿童节 Children’s Day",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/67. 儿童节 Children’s Day"
+    },
+    {
+      "entry_id": "68. 教师节 Teachers’ Day",
+      "title": "68. 教师节 Teachers’ Day",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/68. 教师节 Teachers’ Day"
+    },
+    {
+      "entry_id": "69. 母亲节 Mother’s Day",
+      "title": "69. 母亲节 Mother’s Day",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/69. 母亲节 Mother’s Day"
+    },
+    {
+      "entry_id": "7. 我的同桌 My Deskmate",
+      "title": "7. 我的同桌 My Deskmate",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/7. 我的同桌 My Deskmate"
+    },
+    {
+      "entry_id": "70. 父亲节 Father’s Day",
+      "title": "70. 父亲节 Father’s Day",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/70. 父亲节 Father’s Day"
+    },
+    {
+      "entry_id": "71. 我的梦想 My Dream",
+      "title": "71. 我的梦想 My Dream",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/71. 我的梦想 My Dream"
+    },
+    {
+      "entry_id": "72. 我想当医生 I Want to Be a Doctor",
+      "title": "72. 我想当医生 I Want to Be a Doctor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/72. 我想当医生 I Want to Be a Doctor"
+    },
+    {
+      "entry_id": "73. 我想当老师 I Want to Be a Teacher",
+      "title": "73. 我想当老师 I Want to Be a Teacher",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/73. 我想当老师 I Want to Be a Teacher"
+    },
+    {
+      "entry_id": "74. 我想当画家 I Want to Be a Painter",
+      "title": "74. 我想当画家 I Want to Be a Painter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/74. 我想当画家 I Want to Be a Painter"
+    },
+    {
+      "entry_id": "75. 我想当宇航员 I Want to Be an Astronaut",
+      "title": "75. 我想当宇航员 I Want to Be an Astronaut",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/75. 我想当宇航员 I Want to Be an Astronaut"
+    },
+    {
+      "entry_id": "76. 交朋友 Make Friends",
+      "title": "76. 交朋友 Make Friends",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/76. 交朋友 Make Friends"
+    },
+    {
+      "entry_id": "77. 分享玩具 Share Toys",
+      "title": "77. 分享玩具 Share Toys",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/77. 分享玩具 Share Toys"
+    },
+    {
+      "entry_id": "78. 说谢谢 Say Thank You",
+      "title": "78. 说谢谢 Say Thank You",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/78. 说谢谢 Say Thank You"
+    },
+    {
+      "entry_id": "79. 对不起 Sorry",
+      "title": "79. 对不起 Sorry",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/79. 对不起 Sorry"
+    },
+    {
+      "entry_id": "8. 数学难题 Math Problem",
+      "title": "8. 数学难题 Math Problem",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/8. 数学难题 Math Problem"
+    },
+    {
+      "entry_id": "80. 互相帮助 Help Each Other",
+      "title": "80. 互相帮助 Help Each Other",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/80. 互相帮助 Help Each Other"
+    },
+    {
+      "entry_id": "81. 写日记 Write a Diary",
+      "title": "81. 写日记 Write a Diary",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/81. 写日记 Write a Diary"
+    },
+    {
+      "entry_id": "82. 读故事 Read a Story",
+      "title": "82. 读故事 Read a Story",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/82. 读故事 Read a Story"
+    },
+    {
+      "entry_id": "83. 背古诗 Recite a Poem",
+      "title": "83. 背古诗 Recite a Poem",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/83. 背古诗 Recite a Poem"
+    },
+    {
+      "entry_id": "84. 学汉字 Learn Chinese Characters",
+      "title": "84. 学汉字 Learn Chinese Characters",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/84. 学汉字 Learn Chinese Characters"
+    },
+    {
+      "entry_id": "85. 算算术 Do Math",
+      "title": "85. 算算术 Do Math",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/85. 算算术 Do Math"
+    },
+    {
+      "entry_id": "86. 做实验 Do an Experiment",
+      "title": "86. 做实验 Do an Experiment",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/86. 做实验 Do an Experiment"
+    },
+    {
+      "entry_id": "87. 观察昆虫 Observe Insects",
+      "title": "87. 观察昆虫 Observe Insects",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/87. 观察昆虫 Observe Insects"
+    },
+    {
+      "entry_id": "88. 养蚕宝宝 Raise Silkworms",
+      "title": "88. 养蚕宝宝 Raise Silkworms",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/88. 养蚕宝宝 Raise Silkworms"
+    },
+    {
+      "entry_id": "89. 种豆子 Grow Beans",
+      "title": "89. 种豆子 Grow Beans",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/89. 种豆子 Grow Beans"
+    },
+    {
+      "entry_id": "9. 英语单词 English Words",
+      "title": "9. 英语单词 English Words",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/9. 英语单词 English Words"
+    },
+    {
+      "entry_id": "90. 看地图 Read a Map",
+      "title": "90. 看地图 Read a Map",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/90. 看地图 Read a Map"
+    },
+    {
+      "entry_id": "91. 认识方向 Know Directions",
+      "title": "91. 认识方向 Know Directions",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/91. 认识方向 Know Directions"
+    },
+    {
+      "entry_id": "92. 东边日出 Sunrise in the East",
+      "title": "92. 东边日出 Sunrise in the East",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/92. 东边日出 Sunrise in the East"
+    },
+    {
+      "entry_id": "93. 北风呼呼 North Wind Blows",
+      "title": "93. 北风呼呼 North Wind Blows",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/93. 北风呼呼 North Wind Blows"
+    },
+    {
+      "entry_id": "94. 天气预报 Weather Forecast",
+      "title": "94. 天气预报 Weather Forecast",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/94. 天气预报 Weather Forecast"
+    },
+    {
+      "entry_id": "95. 晴天雨天 Sunny and Rainy",
+      "title": "95. 晴天雨天 Sunny and Rainy",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/95. 晴天雨天 Sunny and Rainy"
+    },
+    {
+      "entry_id": "96. 气温变化 Temperature Change",
+      "title": "96. 气温变化 Temperature Change",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/96. 气温变化 Temperature Change"
+    },
+    {
+      "entry_id": "97. 四季歌 Four Seasons Song",
+      "title": "97. 四季歌 Four Seasons Song",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/97. 四季歌 Four Seasons Song"
+    },
+    {
+      "entry_id": "98. 日历翻翻 Flip the Calendar",
+      "title": "98. 日历翻翻 Flip the Calendar",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/98. 日历翻翻 Flip the Calendar"
+    },
+    {
+      "entry_id": "99. 时钟滴答 Tick-Tock Clock",
+      "title": "99. 时钟滴答 Tick-Tock Clock",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/99. 时钟滴答 Tick-Tock Clock"
+    },
+    {
+      "entry_id": "不乱扔垃圾",
+      "title": "不乱扔垃圾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/不乱扔垃圾"
+    },
+    {
+      "entry_id": "不和陌生人走",
+      "title": "不和陌生人走",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/不和陌生人走"
+    },
+    {
+      "entry_id": "丢手绢",
+      "title": "丢手绢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/丢手绢"
+    },
+    {
+      "entry_id": "串珠子",
+      "title": "串珠子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/串珠子"
+    },
+    {
+      "entry_id": "养蚕宝宝",
+      "title": "养蚕宝宝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/养蚕宝宝"
+    },
+    {
+      "entry_id": "再见小月亮",
+      "title": "再见小月亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/再见小月亮"
+    },
+    {
+      "entry_id": "击鼓传花",
+      "title": "击鼓传花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/击鼓传花"
+    },
+    {
+      "entry_id": "刷牙小火车",
+      "title": "刷牙小火车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/刷牙小火车"
+    },
+    {
+      "entry_id": "剥豆豆",
+      "title": "剥豆豆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/剥豆豆"
+    },
+    {
+      "entry_id": "动物叫声大合唱",
+      "title": "动物叫声大合唱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/动物叫声大合唱"
+    },
+    {
+      "entry_id": "包粽子",
+      "title": "包粽子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/包粽子"
+    },
+    {
+      "entry_id": "午睡小精灵",
+      "title": "午睡小精灵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/午睡小精灵"
+    },
+    {
+      "entry_id": "听雨声",
+      "title": "听雨声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/听雨声"
+    },
+    {
+      "entry_id": "吹泡泡",
+      "title": "吹泡泡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/吹泡泡"
+    },
+    {
+      "entry_id": "吹蒲公英",
+      "title": "吹蒲公英",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/吹蒲公英"
+    },
+    {
+      "entry_id": "唱儿歌",
+      "title": "唱儿歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/唱儿歌"
+    },
+    {
+      "entry_id": "喂小鸡",
+      "title": "喂小鸡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/喂小鸡"
+    },
+    {
+      "entry_id": "圆圆的太阳和方方的窗",
+      "title": "圆圆的太阳和方方的窗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/圆圆的太阳和方方的窗"
+    },
+    {
+      "entry_id": "堆沙堡",
+      "title": "堆沙堡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/堆沙堡"
+    },
+    {
+      "entry_id": "堆雪人",
+      "title": "堆雪人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/堆雪人"
+    },
+    {
+      "entry_id": "大和小捉迷藏",
+      "title": "大和小捉迷藏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/大和小捉迷藏"
+    },
+    {
+      "entry_id": "太阳公公起床啦",
+      "title": "太阳公公起床啦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/太阳公公起床啦"
+    },
+    {
+      "entry_id": "头发指甲长呀长",
+      "title": "头发指甲长呀长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/头发指甲长呀长"
+    },
+    {
+      "entry_id": "对不起没关系",
+      "title": "对不起没关系",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/对不起没关系"
+    },
+    {
+      "entry_id": "小刺猬抱一抱",
+      "title": "小刺猬抱一抱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小刺猬抱一抱"
+    },
+    {
+      "entry_id": "小口罩保卫战",
+      "title": "小口罩保卫战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小口罩保卫战"
+    },
+    {
+      "entry_id": "小客人来做客",
+      "title": "小客人来做客",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小客人来做客"
+    },
+    {
+      "entry_id": "小水龙头快关好",
+      "title": "小水龙头快关好",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小水龙头快关好"
+    },
+    {
+      "entry_id": "小汽车嘀嘀嘀",
+      "title": "小汽车嘀嘀嘀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小汽车嘀嘀嘀"
+    },
+    {
+      "entry_id": "小熊不乱发脾气",
+      "title": "小熊不乱发脾气",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小熊不乱发脾气"
+    },
+    {
+      "entry_id": "小猫咪洗手歌",
+      "title": "小猫咪洗手歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小猫咪洗手歌"
+    },
+    {
+      "entry_id": "小种子发芽啦",
+      "title": "小种子发芽啦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小种子发芽啦"
+    },
+    {
+      "entry_id": "小纽扣找家",
+      "title": "小纽扣找家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小纽扣找家"
+    },
+    {
+      "entry_id": "小耳朵听一听",
+      "title": "小耳朵听一听",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小耳朵听一听"
+    },
+    {
+      "entry_id": "小蚂蚁搬糖果",
+      "title": "小蚂蚁搬糖果",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小蚂蚁搬糖果"
+    },
+    {
+      "entry_id": "小蜗牛慢慢走",
+      "title": "小蜗牛慢慢走",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小蜗牛慢慢走"
+    },
+    {
+      "entry_id": "小蝴蝶别乱跑",
+      "title": "小蝴蝶别乱跑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小蝴蝶别乱跑"
+    },
+    {
+      "entry_id": "小警察指挥忙",
+      "title": "小警察指挥忙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小警察指挥忙"
+    },
+    {
+      "entry_id": "小青蛙不挑食",
+      "title": "小青蛙不挑食",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/小青蛙不挑食"
+    },
+    {
+      "entry_id": "左左右右转圈圈",
+      "title": "左左右右转圈圈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/左左右右转圈圈"
+    },
+    {
+      "entry_id": "情绪小怪兽",
+      "title": "情绪小怪兽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/情绪小怪兽"
+    },
+    {
+      "entry_id": "我会自己穿鞋子",
+      "title": "我会自己穿鞋子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/我会自己穿鞋子"
+    },
+    {
+      "entry_id": "我的五官歌",
+      "title": "我的五官歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/我的五官歌"
+    },
+    {
+      "entry_id": "打水仗",
+      "title": "打水仗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/打水仗"
+    },
+    {
+      "entry_id": "打雪仗",
+      "title": "打雪仗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/打雪仗"
+    },
+    {
+      "entry_id": "扔沙包",
+      "title": "扔沙包",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/扔沙包"
+    },
+    {
+      "entry_id": "抓尾巴",
+      "title": "抓尾巴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/抓尾巴"
+    },
+    {
+      "entry_id": "折纸船",
+      "title": "折纸船",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/折纸船"
+    },
+    {
+      "entry_id": "抢椅子",
+      "title": "抢椅子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/抢椅子"
+    },
+    {
+      "entry_id": "拍皮球",
+      "title": "拍皮球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/拍皮球"
+    },
+    {
+      "entry_id": "拼拼图",
+      "title": "拼拼图",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/拼拼图"
+    },
+    {
+      "entry_id": "挖沙坑",
+      "title": "挖沙坑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/挖沙坑"
+    },
+    {
+      "entry_id": "捉迷藏",
+      "title": "捉迷藏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/捉迷藏"
+    },
+    {
+      "entry_id": "捏橡皮泥",
+      "title": "捏橡皮泥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/捏橡皮泥"
+    },
+    {
+      "entry_id": "捞小鱼",
+      "title": "捞小鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/捞小鱼"
+    },
+    {
+      "entry_id": "捡石头",
+      "title": "捡石头",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/捡石头"
+    },
+    {
+      "entry_id": "捡贝壳",
+      "title": "捡贝壳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/捡贝壳"
+    },
+    {
+      "entry_id": "排队小火车",
+      "title": "排队小火车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/排队小火车"
+    },
+    {
+      "entry_id": "搓汤圆",
+      "title": "搓汤圆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/搓汤圆"
+    },
+    {
+      "entry_id": "搭积木",
+      "title": "搭积木",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/搭积木"
+    },
+    {
+      "entry_id": "摇摇车",
+      "title": "摇摇车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/摇摇车"
+    },
+    {
+      "entry_id": "摇铃铛",
+      "title": "摇铃铛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/摇铃铛"
+    },
+    {
+      "entry_id": "摘草莓",
+      "title": "摘草莓",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/摘草莓"
+    },
+    {
+      "entry_id": "放烟花",
+      "title": "放烟花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/放烟花"
+    },
+    {
+      "entry_id": "数一数小星星",
+      "title": "数一数小星星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/数一数小星星"
+    },
+    {
+      "entry_id": "数星星",
+      "title": "数星星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/数星星"
+    },
+    {
+      "entry_id": "时钟滴答滴",
+      "title": "时钟滴答滴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/时钟滴答滴"
+    },
+    {
+      "entry_id": "月亮船摇啊摇",
+      "title": "月亮船摇啊摇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/月亮船摇啊摇"
+    },
+    {
+      "entry_id": "木头人",
+      "title": "木头人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/木头人"
+    },
+    {
+      "entry_id": "水果宝宝排排队",
+      "title": "水果宝宝排排队",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/水果宝宝排排队"
+    },
+    {
+      "entry_id": "洗手小卫士",
+      "title": "洗手小卫士",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/洗手小卫士"
+    },
+    {
+      "entry_id": "滑滑梯",
+      "title": "滑滑梯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/滑滑梯"
+    },
+    {
+      "entry_id": "滚铁环",
+      "title": "滚铁环",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/滚铁环"
+    },
+    {
+      "entry_id": "爬滑梯",
+      "title": "爬滑梯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/爬滑梯"
+    },
+    {
+      "entry_id": "玩具回家啦",
+      "title": "玩具回家啦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/玩具回家啦"
+    },
+    {
+      "entry_id": "玩泥巴",
+      "title": "玩泥巴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/玩泥巴"
+    },
+    {
+      "entry_id": "生病了看医生",
+      "title": "生病了看医生",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/生病了看医生"
+    },
+    {
+      "entry_id": "电话铃铃铃",
+      "title": "电话铃铃铃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/电话铃铃铃"
+    },
+    {
+      "entry_id": "看云朵",
+      "title": "看云朵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/看云朵"
+    },
+    {
+      "entry_id": "看彩虹",
+      "title": "看彩虹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/看彩虹"
+    },
+    {
+      "entry_id": "看蚂蚁",
+      "title": "看蚂蚁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/看蚂蚁"
+    },
+    {
+      "entry_id": "看蜗牛",
+      "title": "看蜗牛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/看蜗牛"
+    },
+    {
+      "entry_id": "红灯停绿灯行",
+      "title": "红灯停绿灯行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/红灯停绿灯行"
+    },
+    {
+      "entry_id": "红灯绿灯停",
+      "title": "红灯绿灯停",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/红灯绿灯停"
+    },
+    {
+      "entry_id": "老鹰捉小鸡",
+      "title": "老鹰捉小鸡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/老鹰捉小鸡"
+    },
+    {
+      "entry_id": "荡秋千",
+      "title": "荡秋千",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/荡秋千"
+    },
+    {
+      "entry_id": "跳房子",
+      "title": "跳房子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/跳房子"
+    },
+    {
+      "entry_id": "跳绳子",
+      "title": "跳绳子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/跳绳子"
+    },
+    {
+      "entry_id": "跷跷板",
+      "title": "跷跷板",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/跷跷板"
+    },
+    {
+      "entry_id": "踩影子",
+      "title": "踩影子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/踩影子"
+    },
+    {
+      "entry_id": "踩水坑",
+      "title": "踩水坑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/踩水坑"
+    },
+    {
+      "entry_id": "踩落叶",
+      "title": "踩落叶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/踩落叶"
+    },
+    {
+      "entry_id": "蹦蹦床",
+      "title": "蹦蹦床",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/蹦蹦床"
+    },
+    {
+      "entry_id": "身体拍拍歌",
+      "title": "身体拍拍歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/身体拍拍歌"
+    },
+    {
+      "entry_id": "迷路的小蚂蚁",
+      "title": "迷路的小蚂蚁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/迷路的小蚂蚁"
+    },
+    {
+      "entry_id": "追泡泡",
+      "title": "追泡泡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/追泡泡"
+    },
+    {
+      "entry_id": "追蝴蝶",
+      "title": "追蝴蝶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/追蝴蝶"
+    },
+    {
+      "entry_id": "采蘑菇",
+      "title": "采蘑菇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/采蘑菇"
+    },
+    {
+      "entry_id": "采野花",
+      "title": "采野花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/采野花"
+    },
+    {
+      "entry_id": "骑木马",
+      "title": "骑木马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/小孩儿/中文歌曲/骑木马"
+    }
+  ]
+}
