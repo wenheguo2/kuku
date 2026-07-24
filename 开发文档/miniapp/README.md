@@ -64,10 +64,10 @@
 | song/player | PL-02 | 真实 audio/lrc/cover 路由参数 + 后台音频 + LRC 高亮与可拖动进度；mock 才使用模拟时钟 |
 | song/list | M-02/M-03 | 歌曲分类下钻：分类→歌曲列表→播放器（当前 mock，接真实歌曲索引后替换数据源） |
 | growth/index | G-01 | 朋友收集册：四级进度条+图例 + 三学科统计 |
-| growth/lesson | G-02/03 | 字词列表 + 学习1(免费) + 学习2/3会员锁 UI + 去挑战；真实词库仍待内容接入 |
+| growth/lesson | G-02/03 | 字词列表 + 学习1(免费) + 学习2/3会员锁 UI + 去挑战；★每字显亲密度级别徽章 + 顶部按亲密度筛选(拉 /progress/:subject 合并 stage)；真实词库仍待内容接入 |
 | growth/player | PL-03 | 横屏三区(eland)：场景65%+衬线大字面板+生字金色高亮字幕条 |
-| growth/challenge | G-04 | 取题→选答→服务端判分→结果+重试 |
-| growth/comprehensive | G-05/06 | 综合挑战：自动触发检查→10字作答→服务端逐字判定+回落→结果（会员门控） |
+| growth/challenge | G-04 | 取题→选答→服务端判分→结果；★无惩罚·未过始终可再试 |
+| growth/comprehensive | G-05/06 | 综合挑战：自动触发检查→10字作答→服务端逐字判定·只升不降→结果（会员门控） |
 | growth/collection | — | 朋友收集册可视化 + 成就贴纸（会员门控） |
 | parent/index | C-01 | 轻奢磨砂：孩子卡 + 本周统计 + 功能行 + 鎏金入口 |
 | common/login | A-01 | 狐狸吉祥物 + 微信一键登录/手机号 |
@@ -108,3 +108,6 @@
 | 2026-07-23 | 微信后台音频、真实歌曲参数/LRC、会员状态刷新、索引 TTL/并发合并、统一状态图标与可操作播放器按钮；type-check + weapp 构建通过 | 完成不依赖外部凭据和内容产物的体验整改 |
 | 2026-07-23 | 开启 `noImplicitAny`、故事长列表分批渲染、减少动态效果媒体查询、补 750/375 尺寸口径 | 完成审查中的工程化与可访问性低风险项 |
 | 2026-07-23 | 补审查可落地缺口：搜索扩到 _global 学科+_home 作品标题+StateView、歌曲 M-02/M-03 下钻(song/list)、story/list 接 StateView；lesson 护栏因教学播放器未上报完成暂不改(已标注)；type-check+weapp 双通 | 顺手补齐三份审查的代码缺口 |
+| 2026-07-23 | 第四轮走查整改：MiniPlayer/story-index/growth-index 改逐字段 selector 订阅(防播放中每秒重渲染,M-10/11/12)、story/player hasQueue 改响应式订阅并队列播放时仍显字幕(M-01/M-13)、成长首页修累计口径重复计数(用 total_words_friends 算独占分段,M-6)、comprehensive useEffect 补 subject 依赖 + submit 加 try/catch(M-06/M-14) | 落实第四轮报告前端可独立闭环项 |
+| 2026-07-23 | 第五轮(CTO)走查整改：member/challenge 页改逐字段 selector 订阅(补 M-10/11/12 遗漏的两页,M-5)、challenge submit 加 try/catch(L-7)；type-check 通过 | 落实第五轮报告前端可独立闭环项 |
+| 2026-07-23 | 亲密度温柔化+课表筛选：lesson 拉 /progress/:subject 合并每字 stage、显亲密度级别徽章、顶部按亲密度(未遇见/已相识/好朋友/好伙伴)chips 筛选；challenge 失败态始终可“再试一次”(无惩罚)；type-check 通过 | 配合后端只升不降/无限重试/删复习，满足“看得到亲密度级别+可筛选” |

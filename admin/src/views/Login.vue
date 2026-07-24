@@ -39,6 +39,7 @@ async function login() {
       username: username.value,
       password: password.value,
     });
+    if (!result?.access_token) throw new Error('登录响应异常');
     localStorage.setItem('admin_token', result.access_token);
     await router.push('/content');
   } catch (error: any) {

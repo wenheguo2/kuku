@@ -18,14 +18,13 @@ const PLANS: Plan[] = [
 ];
 export default function Member() {
   const night = useNight();
-  const {
-    isLogin,
-    selectedChildId,
-    nickname,
-    membershipStatus,
-    membershipEndDate,
-    refreshProfile,
-  } = useUserStore();
+  // 逐字段选择性订阅，避免 store 任意字段变化全页重渲染（对齐 M-10/11/12 整改口径）
+  const isLogin = useUserStore((s) => s.isLogin);
+  const selectedChildId = useUserStore((s) => s.selectedChildId);
+  const nickname = useUserStore((s) => s.nickname);
+  const membershipStatus = useUserStore((s) => s.membershipStatus);
+  const membershipEndDate = useUserStore((s) => s.membershipEndDate);
+  const refreshProfile = useUserStore((s) => s.refreshProfile);
 
   const loadMem = () => {
     if (isLogin) void refreshProfile().catch((error) => console.warn('刷新会员状态失败', error));

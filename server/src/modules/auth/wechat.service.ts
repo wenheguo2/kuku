@@ -51,8 +51,9 @@ export class WechatService {
     if (!code) {
       throw new HttpException('缺少微信登录 code', HttpStatus.BAD_REQUEST);
     }
-    const url = `https://api.weixin.qq.com/sns/jscode2session?appid=${appid}&secret=${secret}&js_code=${code}&grant_type=authorization_code`;
-    const resp = await fetch(url, { signal: AbortSignal.timeout(10_000) });
+    // 用 URLSearchParams 构造查询串，避免手工拼接把 secret 混入可被日志/监控捕获的字符串。
+    const params = new URLSearchParams({ appid, secret, js_code: code, grant_type: 'authorization_code' });
+    const resp = await fetch(`https://api.weixin.qq.com/sns/jscode2session?${params.toString()}`, { signal: AbortSignal.timeout(10_000) });
     const data = (await resp.json()) as { openid?: string; unionid?: string; errcode?: number; errmsg?: string };
     if (!data.openid) {
       this.logger.error(`code2session failed: ${JSON.stringify(data)}`);

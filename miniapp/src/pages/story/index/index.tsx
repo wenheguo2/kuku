@@ -29,7 +29,10 @@ export default function StoryHome() {
   const [last, setLast] = useState<HistItem | null>(null);
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState(false);
-  const { isLogin, selectedChildId, nickname } = useUserStore();
+  // 逐字段独立订阅（对象选择器会因新引用失去意义），仅相关字段变化才重渲染
+  const isLogin = useUserStore((s) => s.isLogin);
+  const selectedChildId = useUserStore((s) => s.selectedChildId);
+  const nickname = useUserStore((s) => s.nickname);
   const night = useNight();
   const toggleSleep = useSettingsStore((s) => s.toggleSleep);
 

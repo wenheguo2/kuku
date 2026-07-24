@@ -19,7 +19,7 @@ export default function Challenge() {
   const subject = decodeURIComponent(router.params.subject || '识字');
   const wordId = router.params.word_id || '的_001';
   const wordText = decodeURIComponent(router.params.word_text || '的');
-  const { selectedChildId } = useUserStore();
+  const selectedChildId = useUserStore((s) => s.selectedChildId);
   const [quiz, setQuiz] = useState<Quiz | null>(null);
   const [picks, setPicks] = useState<Record<string, string>>({});
   const [result, setResult] = useState<Result | null>(null);
@@ -36,8 +36,13 @@ export default function Challenge() {
   const submit = async () => {
     if (!quiz) return;
     const answers = quiz.questions.map((q) => ({ question_id: q.question_id, selected_option: picks[q.question_id] || '' }));
-    const r = await api.post<Result>(`/test/quiz/${encodeURIComponent(wordId)}`, { child_id: selectedChildId, test_id: quiz.test_id, answers });
-    setResult(r);
+    try {
+      const r = await api.post<Result>(`/test/quiz/${encodeURIComponent(wordId)}`, { child_id: selectedChildId, test_id: quiz.test_id, answers });
+      setResult(r);
+    } catch (error) {
+      console.warn('提交挑战失败', error);
+      Taro.showToast({ title: '提交失败，请稍后重试', icon: 'none' });
+    }
   };
 
   if (!selectedChildId) {
@@ -67,7 +72,7 @@ export default function Challenge() {
           <Text className="emoji-xl">{result.test_passed ? '🎉' : '💪'}</Text>
           <Text style={{ fontSize: '40px', fontWeight: 800, display: 'block', margin: '8px 0' }}>{result.feedback}</Text>
           <Text className="muted">当前：{result.stage_name}</Text>
-          {result.can_retry
+          {!result.test_passed
             ? <View className="btn-green" style={{ width: '360px', marginTop: '28px' }} onClick={loadQuiz}>再试一次</View>
             : <View className="btn-green" style={{ width: '360px', marginTop: '28px' }} onClick={() => Taro.navigateBack()}>返回</View>}
         </View>

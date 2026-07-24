@@ -42,7 +42,7 @@ export class OrdersService {
       // 凭据存在不等于真实支付已接入；在统一下单/签名/回调验签实现前必须明确失败。
       throw new ServiceUnavailableException('真实微信支付通道尚未接入，请稍后再试');
     }
-    if (this.isStub() && !this.allowStub()) {
+    if (!this.allowStub()) {
       throw new ServiceUnavailableException('微信支付尚未配置，当前环境禁止支付 stub');
     }
     const amount = PLAN_PRICE[planType];

@@ -108,7 +108,7 @@ export default function StoryPlayer() {
   };
 
   const curSeg = (data?.segments ?? []).find((s) => (s.start_time ?? 0) <= cur && cur < (s.end_time ?? 1e9));
-  const hasQueue = usePlayerStore.getState().queue.length > 1;
+  const hasQueue = usePlayerStore((s) => s.queue.length > 1);
   const fmt = (s: number) => { const m = Math.floor(s / 60); const ss = Math.floor(s % 60); return `${m}:${ss < 10 ? '0' : ''}${ss}`; };
   const playNext = () => {
     const next = usePlayerStore.getState().nextInQueue();
@@ -160,7 +160,7 @@ export default function StoryPlayer() {
         </View>
 
         <Text className="ptitle serif">{title}</Text>
-        <Text className="psub">{hasQueue ? '故事集播放中 · 播完自动续播' : (curSeg?.text || (CONFIG.USE_MOCK ? '示例播放' : '加载中…'))}</Text>
+        <Text className="psub">{curSeg?.text || (hasQueue ? '故事集播放中 · 播完自动续播' : (CONFIG.USE_MOCK ? '示例播放' : '加载中…'))}</Text>
 
         <Slider className="lamp-slider" min={0} max={Math.max(dur, 1)} value={cur} activeColor="#FFC98F" backgroundColor="rgba(255,255,255,0.25)" blockColor="#FFF3DC"
           onChange={(e) => { player.seek(e.detail.value); setCur(e.detail.value); }} />

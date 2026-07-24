@@ -6,7 +6,7 @@
  */
 import { Body, Controller, Delete, Get, Post, Put } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
-import { IsBoolean, IsOptional, IsString } from 'class-validator';
+import { IsBoolean, IsOptional, IsString, MaxLength } from 'class-validator';
 import { Repository } from 'typeorm';
 import { CurrentUser } from '../../common/decorators/current-user.decorator';
 import { Membership } from '../../entities/membership.entity';
@@ -20,8 +20,8 @@ function maskPhone(phone?: string | null): string | null {
 }
 
 class UpdateProfileDto {
-  @IsOptional() @IsString() nickname?: string;
-  @IsOptional() @IsString() avatar_url?: string;
+  @IsOptional() @IsString() @MaxLength(64) nickname?: string;
+  @IsOptional() @IsString() @MaxLength(512) avatar_url?: string;
 }
 
 class DeleteAccountDto {

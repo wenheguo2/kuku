@@ -18,7 +18,10 @@ const PLAYER_PAGE: Record<string, string> = {
 };
 
 export default function MiniPlayer() {
-  const { current, isPlaying, setPlaying } = usePlayerStore();
+  // 选择性订阅：只盯 current/isPlaying，避免播放中 currentSec/durationSec 每秒变化触发重渲染。
+  const current = usePlayerStore((s) => s.current);
+  const isPlaying = usePlayerStore((s) => s.isPlaying);
+  const setPlaying = usePlayerStore((s) => s.setPlaying);
   if (!current) return null;
 
   const toggle = () => {

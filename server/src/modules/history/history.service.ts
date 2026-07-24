@@ -92,16 +92,15 @@ export class HistoryService {
     return { success: true, deleted_count: r.affected ?? 0 };
   }
 
-  /** 超出 100 条时删最旧 */
+  /** 超出 100 条时删最旧：单条 DELETE 子查询（按更新时间倒序跳过最新 100，删其余），避免 count→find→remove 三次往返 */
   private async trim(childId: string) {
-    const count = await this.repo.count({ where: { childId } });
-    if (count > MAX_HISTORY) {
-      const oldest = await this.repo.find({
-        where: { childId },
-        order: { updatedAt: 'ASC' },
-        take: count - MAX_HISTORY,
-      });
-      await this.repo.remove(oldest);
-    }
+    await this.repo.query(
+      `DELETE FROM play_history WHERE id IN (
+         SELECT id FROM play_history WHERE child_id = $1
+         ORDER BY updated_at DESC
+         OFFSET $2
+       )`,
+      [childId, MAX_HISTORY],
+    );
   }
 }

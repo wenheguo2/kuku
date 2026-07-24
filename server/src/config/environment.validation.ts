@@ -33,6 +33,7 @@ export function validateEnvironment(raw: Record<string, unknown>): Record<string
 
   if (isRelease) {
     if (DEV_SECRETS.has(jwtSecret) || jwtSecret.length < 32) errors.push('JWT_SECRET 必须是至少 32 位的生产随机密钥');
+    if (!raw.DB_PASSWORD || String(raw.DB_PASSWORD) === 'kuku2026') errors.push('DB_PASSWORD 必须为生产随机密码，不能为空或默认值 kuku2026');
     if (loginMode !== 'real') errors.push('release/production 必须使用 WX_LOGIN_MODE=real');
     if (allowMockLogin) errors.push('release/production 禁止 ALLOW_MOCK_LOGIN');
     if (allowPaymentStub) errors.push('release/production 禁止 ALLOW_PAYMENT_STUB');

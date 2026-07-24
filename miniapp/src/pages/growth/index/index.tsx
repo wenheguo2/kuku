@@ -25,7 +25,8 @@ const SUBJECTS = [
 
 export default function GrowthHome() {
   const [sum, setSum] = useState<Summary | null>(null);
-  const { selectedChildId, isLogin } = useUserStore();
+  const selectedChildId = useUserStore((s) => s.selectedChildId);
+  const isLogin = useUserStore((s) => s.isLogin);
   const night = useNight();
 
   const load = () => {
@@ -37,10 +38,13 @@ export default function GrowthHome() {
   useEffect(load, [selectedChildId, isLogin]);
   useDidShow(() => { useTabStore.getState().setTab('growth'); load(); });
 
-  const learned = sum?.overall_stats.total_words_learned ?? 0;
-  const friends = sum?.overall_stats.total_words_friends ?? 0;
-  const mastered = sum?.overall_stats.total_words_mastered ?? 0;
-  const total = learned + friends + mastered;
+  const learned = sum?.overall_stats.total_words_learned ?? 0; // 累计 >=1
+  const friends = sum?.overall_stats.total_words_friends ?? 0; // 累计 >=2
+  const mastered = sum?.overall_stats.total_words_mastered ?? 0; // 累计 >=3
+  const total = learned; // 已遇见朋友总数（stage>=1 即全部），不再相加致重复计数
+  // 各等级“独占”数量用于进度条分段（不重叠，和为 total）
+  const acquaintedOnly = Math.max(0, learned - friends);
+  const friendOnly = Math.max(0, friends - mastered);
   const pct = (n: number) => (total > 0 ? `${Math.round((n / total) * 100)}%` : '0%');
 
   return (
@@ -62,13 +66,13 @@ export default function GrowthHome() {
           已遇见 <Text style={{ color: 'var(--color-primary)' }}>{total}</Text> 位朋友 · 其中 <Text style={{ color: '#57B83E' }}>{mastered}</Text> 位好伙伴
         </Text>
         <View className="gbar">
-          <View style={{ width: pct(learned), background: 'var(--stage-1)' }} />
-          <View style={{ width: pct(friends), background: 'var(--stage-2)' }} />
+          <View style={{ width: pct(acquaintedOnly), background: 'var(--stage-1)' }} />
+          <View style={{ width: pct(friendOnly), background: 'var(--stage-2)' }} />
           <View style={{ width: pct(mastered), background: 'var(--stage-3)' }} />
         </View>
         <View className="glegend">
-          <Text><Text className="dot" style={{ background: 'var(--stage-1)' }} />已相识 {learned}</Text>
-          <Text><Text className="dot" style={{ background: 'var(--stage-2)' }} />好朋友 {friends}</Text>
+          <Text><Text className="dot" style={{ background: 'var(--stage-1)' }} />已相识 {acquaintedOnly}</Text>
+          <Text><Text className="dot" style={{ background: 'var(--stage-2)' }} />好朋友 {friendOnly}</Text>
           <Text><Text className="dot" style={{ background: 'var(--stage-3)' }} />好伙伴 {mastered}</Text>
         </View>
       </View>
@@ -77,7 +81,7 @@ export default function GrowthHome() {
       <View className="grow3" style={{ margin: '18px 0' }}>
         {SUBJECTS.map((s) => {
           const p = sum?.subject_progress.find((x) => x.subject === s.name);
-          const c = (p?.learned ?? 0) + (p?.tested ?? 0) + (p?.mastered ?? 0);
+          const c = p?.learned ?? 0; // 累计口径：learned(>=1) 即该学科已遇见总数，不再相加
           return (
             <View key={s.name} className="gstat" onClick={() => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent(s.name)}` })}>
               <Text className="v" style={{ color: s.color }}>{c}</Text>

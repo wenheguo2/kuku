@@ -93,16 +93,18 @@ CREATE TABLE IF NOT EXISTS learning_progress (
   last_test_failed BOOLEAN DEFAULT FALSE,
   last_test_at TIMESTAMP,
   retry_used INT DEFAULT 0,
-  last_reviewed_at TIMESTAMP,
-  review_due_at TIMESTAMP,
-  needs_review BOOLEAN DEFAULT FALSE,
   updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   UNIQUE(child_id, word_id)
 );
 CREATE INDEX IF NOT EXISTS idx_progress_child ON learning_progress(child_id);
 CREATE INDEX IF NOT EXISTS idx_progress_subject ON learning_progress(child_id, subject);
 CREATE INDEX IF NOT EXISTS idx_progress_stage ON learning_progress(child_id, subject, current_stage);
-CREATE INDEX IF NOT EXISTS idx_progress_review ON learning_progress(child_id, needs_review) WHERE needs_review = TRUE;
+-- 只升不降·无惩罚·无间隔复习：已移除 last_reviewed_at/review_due_at/needs_review 三列与 idx_progress_review 索引。
+-- 已建库升级（本地执行一次）：
+--   DROP INDEX IF EXISTS idx_progress_review;
+--   ALTER TABLE learning_progress DROP COLUMN IF EXISTS last_reviewed_at,
+--                                 DROP COLUMN IF EXISTS review_due_at,
+--                                 DROP COLUMN IF EXISTS needs_review;
 
 -- 7. 综合挑战记录 -------------------------------------------
 CREATE TABLE IF NOT EXISTS comprehensive_tests (

@@ -40,9 +40,10 @@
 
 ## progress（★核心：四级朋友养成）
 - **文件**：quiz.util（出题+判分+按学科通过标准）、test-store（答案暂存，判分用，★不下发前端）、progress.service（全部业务）、progress.controller（/progress）、test.controller（/test）
-- **接口**：`/progress/{summary,review/due,review/refresh,study,:subject}` · `/test/{quiz/:word_id GET+POST, comprehensive/auto GET+POST, comprehensive/manual, comprehensive/history}`
-- **规则**：学习→已相识(1)；普通挑战通过→好朋友(2)，未过给 1 次重试；综合挑战逐字判定 8/10 通过→好伙伴(3)，未过只回落答错且原为好伙伴的字(3→2)；晋级时写 14 天复习日期，查询复习列表时幂等回填 `needs_review`
-- **判分**：服务端权威。出题存正确答案于 TestStore，提交时判分，题目 payload 无 correct；★复习 review/refresh 同样服务端判分(复用普通挑战题)、提交结果不回显 correct_option
+- **接口**：`/progress/{summary,study,:subject}` · `/test/{quiz/:word_id GET+POST, comprehensive/auto GET+POST, comprehensive/manual, comprehensive/history}`
+- **规则**：学习→已相识(1)；普通挑战通过→好朋友(2)；综合挑战逐字判定 8/10 通过→好伙伴(3)。★ 只升不降·无惩罚·可无限重试：普通挑战未过始终可再试(`can_retry`)、综合挑战答错不回落；已下线间隔复习。
+- **判分**：服务端权威。出题存正确答案于 TestStore，提交时判分，题目 payload 无 correct。
+- **筛选**：`GET /progress/:subject?stage=` 支持按亲密度级别(current_stage 0/1/2/3)筛选，供课表按级别过滤。
 - **分页**：`:subject` 列表 `page_size` 硬上限 100（超出截断），防超大 take 拉大查询(DoS)
 - **TODO**：无独立词库/题库表，选项为合成占位，真实词库到位后替换。综合挑战已改为服务端保存答案，客户端只交 `question_id + selected_option`；TestStore 使用 Redis，开发态不可用时回退内存
 
@@ -89,3 +90,6 @@
 | 2026-07-23 | 三份深审整改：复习 review/refresh 改服务端判分(去客户端自报 passed)、挑战结果不回显 correct_option、越权 403→404、admin 类级@Public 收窄为 login、订单号高熵 randomUUID、埋点/请求体上限、手机号脱敏；单测 16/16、type-check 通过 | 落实三份代码审查 H-1/H-04 等安全项 |
 | 2026-07-23 | 快项加固：main.ts TRUST_PROXY(限流按真实 IP，修 X-Forwarded-For 伪造绕过)、会员过期读时落库 status→expired(修 status 与实际不一致)；type-check 通过 | 补审查 M-02/M-09 |
 | 2026-07-23 | 复审补修：删最后一个孩子档案保护(400)、监护人同意撤回接口 POST /user/consent/withdraw、家长 settings 白名单净化(仅原始类型/限键数长度)；单测 16/16、type-check 通过 | 补复审 H-22/M-24/M-11 |
+| 2026-07-23 | 第四轮走查整改：environment.validation 增 DB_PASSWORD 生产门禁(S-16)、orders isStub 冗余判断简化(S-08)、wechat code2session 改 URLSearchParams 避免 secret 拼串(S-09)、achievements 贴纸发放去 N+1(批量查/写,S-04)、history trim 合并为单条 DELETE 子查询(S-07)、progress.summary 改 DB 分组聚合并新增 total_words_friends(S-03+M-6) | 落实第四轮报告可独立闭环项(未依赖外部凭据) |
+| 2026-07-23 | 第五轮(CTO)走查整改：getQuiz/comprehensiveAuto 校验 subject 白名单→400(M-2)、getQuiz 仅在非“重试待用”态重置 retryUsed—堵无限重试并消除复习流程副作用(M-1)、submitQuiz 合并为单次 save(L-2)、PUT /user/profile 补 @MaxLength(64/512)(M-3)；type-check 通过 | 落实第五轮报告可独立闭环项 |
+| 2026-07-23 | 亲密度温柔化：普通挑战无惩罚可无限重试(submitQuiz 去 retry 上限、can_retry=!passed)、综合挑战去回落(只升不降)；删除整套间隔复习(reviewDue/submitReview/REVIEW_INTERVAL_DAYS + review/due,review/refresh 路由 + 实体 last_reviewed_at/review_due_at/needs_review 三列与 idx_progress_review)；type-check 通过 | 产品决策：低龄陆伴无挫败、不再间隔复习 |

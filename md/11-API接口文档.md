@@ -649,14 +649,7 @@ GET /api/v1/progress/识字?child_id=child_001&stage=3&page=1&page_size=20
 }
 ```
 
-> **回落规则**（对齐 02）：综合挑战未通过时，**只回落答错的字/词**（`per_char_results` 中 `passed=false` 的字 `current_stage` 由 3 降为 2），答对的保持好伙伴。
-
-### 5.7 复习（久别重逢）接口
-
-| 方法 | 路径 | 说明 |
-|:--|:--|:--|
-| GET | /api/v1/progress/review/due?child_id={id} | 获取需复习的字/词（好伙伴且 needs_review=true） |
-| POST | /api/v1/progress/review/refresh | ★服务端判分(先 GET /test/quiz/:word_id 取 test_id → 提交 {child_id,test_id,answers}，不接受客户端自报 passed)；提交复习结果（通过→刷新 review_due_at、needs_review=false；未通过→降好朋友） |
+> **只升不降**（对齐 02/13）：综合挑战未通过时，答错的字/词（`per_char_results` 中 `passed=false`）**保持原等级，不回落**；答对才晋升至好伙伴。
 
 ---
 
@@ -713,7 +706,7 @@ GET /api/v1/progress/识字?child_id=child_001&stage=3&page=1&page_size=20
   ],
   "weekly_stats": { "stories_completed": 8, "tests_passed": 15, "new_words_learned": 23 },
   "recommendations": [
-    { "type": "review", "message": "有12个字/词的朋友想念你啦", "action_url": "/growth/review" }
+    { "type": "encourage", "message": "已经交到 89 个好伙伴啦，真棒！", "action_url": "/growth" }
   ]
 }
 ```

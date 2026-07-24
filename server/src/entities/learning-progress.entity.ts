@@ -1,8 +1,8 @@
 /**
  * learning-progress.entity.ts — 学习进度实体（对应 DDL: learning_progress）
  * 职责：word 级四级朋友养成状态。★ 按 (child_id, word_id) 唯一。
- * current_stage：0 未遇见 / 1 已相识 / 2 好朋友 / 3 好伙伴（层级覆盖，展示话术见 md/13）。
- * 里程碑驱动：听/学习→1；普通挑战通过→2；综合挑战通过→3。间隔重复：好伙伴超期 needs_review=true。
+ * current_stage：0 未遇见 / 1 已相识 / 2 好朋友 / 3 好伙伴（只升不降，展示话术见 md/13）。
+ * 里程碑驱动：听/学习→1；普通挑战通过→2（无惩罚、可无限重试）；综合挑战通过→3。
  */
 import { Column, Entity, Index, PrimaryGeneratedColumn, Unique, UpdateDateColumn } from 'typeorm';
 
@@ -69,18 +69,9 @@ export class LearningProgress {
   @Column({ name: 'last_test_at', type: 'timestamp', nullable: true })
   lastTestAt: Date | null;
 
-  /** 当前挑战周期已用重试次数（普通挑战给 1 次重试） */
+  /** 当前挑战周期已用重试次数（历史遗留字段，无惩罚后不再使用） */
   @Column({ name: 'retry_used', type: 'int', default: 0 })
   retryUsed: number;
-
-  @Column({ name: 'last_reviewed_at', type: 'timestamp', nullable: true })
-  lastReviewedAt: Date | null;
-
-  @Column({ name: 'review_due_at', type: 'timestamp', nullable: true })
-  reviewDueAt: Date | null;
-
-  @Column({ name: 'needs_review', type: 'boolean', default: false })
-  needsReview: boolean;
 
   @UpdateDateColumn({ name: 'updated_at' })
   updatedAt: Date;

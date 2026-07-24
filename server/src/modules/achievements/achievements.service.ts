@@ -59,17 +59,20 @@ export class AchievementsService {
     };
   }
 
-  /** 惰性发放：按好伙伴数量达标补发贴纸（幂等，唯一键去重） */
+  /** 惰性发放：按好伙伴数量达标补发贴纸（幂等，唯一键去重）
+   *  一次查全部进度 + 已有贴纸，内存比对后批量 insert 缺失项，避免逐里程碑 N+1 往返。 */
   private async grantEligibleStickers(childId: string): Promise<void> {
     const rows = await this.progress.find({ where: { childId } });
+    const existing = await this.achievements.find({ where: { childId, achievementType: 'sticker' } });
+    const existingKeys = new Set(existing.map((a) => a.achievementKey));
+    const toCreate: ChildAchievement[] = [];
     for (const subject of SUBJECTS) {
       const buddies = rows.filter((r) => r.subject === subject && r.currentStage === 3).length;
       for (const m of STICKER_MILESTONES) {
         if (buddies >= m.threshold) {
           const key = `${subject}_${m.keySuffix}`;
-          const exists = await this.achievements.findOne({ where: { childId, achievementType: 'sticker', achievementKey: key } });
-          if (!exists) {
-            await this.achievements.save(
+          if (!existingKeys.has(key)) {
+            toCreate.push(
               this.achievements.create({
                 childId,
                 achievementType: 'sticker',
@@ -82,5 +85,6 @@ export class AchievementsService {
         }
       }
     }
+    if (toCreate.length) await this.achievements.save(toCreate);
   }
 }

@@ -25,6 +25,14 @@ instance.interceptors.response.use(
   },
 );
 
+/** 解包标准包络 {code,message,data}：命中则总取 data（即使为 null），非标准响应原样返回。 */
+function unwrap<T>(payload: unknown): T {
+  if (payload && typeof payload === 'object' && 'code' in payload && 'data' in payload) {
+    return (payload as { data: T }).data;
+  }
+  return payload as T;
+}
+
 export const http = {
   /** 读静态索引（开发经 vite proxy 或直连 3000/static） */
   async getStatic<T>(path: string): Promise<T> {
@@ -33,10 +41,10 @@ export const http = {
   },
   async get<T>(path: string): Promise<T> {
     const res = await instance.get(`/api/v1${path}`);
-    return (res.data?.data ?? res.data) as T;
+    return unwrap<T>(res.data);
   },
   async post<T>(path: string, body?: unknown): Promise<T> {
     const res = await instance.post(`/api/v1${path}`, body);
-    return (res.data?.data ?? res.data) as T;
+    return unwrap<T>(res.data);
   },
 };

@@ -1,15 +1,12 @@
 /**
  * progress.controller.ts — 成长/进度接口（对齐 md/11 §5、§6.1）
  *  GET  /api/v1/progress/summary?child_id=            成长总览
- *  GET  /api/v1/progress/review/due?child_id=          需复习列表
- *  POST /api/v1/progress/review/refresh                提交复习
  *  POST /api/v1/progress/study                         提交学习完成（0→1）
- *  GET  /api/v1/progress/:subject?child_id=&stage=     学科朋友等级列表
+ *  GET  /api/v1/progress/:subject?child_id=&stage=     学科朋友等级列表（可按亲密度级别筛选）
  * ★ 注意路由顺序：字面量路由需在 :subject 之前声明，避免被参数路由捕获。
  */
 import { Body, Controller, Get, Param, Post, Query } from '@nestjs/common';
-import { IsArray, IsIn, IsOptional, IsString, ValidateNested } from 'class-validator';
-import { Type } from 'class-transformer';
+import { IsIn, IsOptional, IsString } from 'class-validator';
 import { CurrentUser } from '../../common/decorators/current-user.decorator';
 import { StudyType, Subject } from '../../entities/learning-progress.entity';
 import { ChildOwnershipService } from '../children/child-ownership.service';
@@ -23,17 +20,6 @@ class StudyDto {
   @IsIn(['study1', 'study2', 'study3']) study_type: StudyType;
 }
 
-class ReviewAnswerItem {
-  @IsString() question_id: string;
-  @IsString() selected_option: string;
-}
-
-class ReviewRefreshDto {
-  @IsString() child_id: string;
-  @IsString() test_id: string;
-  @IsArray() @ValidateNested({ each: true }) @Type(() => ReviewAnswerItem) answers: ReviewAnswerItem[];
-}
-
 @Controller('progress')
 export class ProgressController {
   constructor(
@@ -45,18 +31,6 @@ export class ProgressController {
   async summary(@CurrentUser('userId') userId: string, @Query('child_id') childId: string) {
     await this.ownership.assertOwner(userId, childId);
     return this.service.summary(childId);
-  }
-
-  @Get('review/due')
-  async reviewDue(@CurrentUser('userId') userId: string, @Query('child_id') childId: string) {
-    await this.ownership.assertOwner(userId, childId);
-    return this.service.reviewDue(childId);
-  }
-
-  @Post('review/refresh')
-  async reviewRefresh(@CurrentUser('userId') userId: string, @Body() dto: ReviewRefreshDto) {
-    await this.ownership.assertOwner(userId, dto.child_id);
-    return this.service.submitReview(dto.child_id, dto.test_id, dto.answers);
   }
 
   @Post('study')

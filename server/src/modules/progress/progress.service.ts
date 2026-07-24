@@ -22,9 +22,9 @@ import {
 } from './quiz.util';
 
 const STAGE_NAMES = ['未遇见', '已相识', '好朋友', '好伙伴'];
+const SUBJECTS: readonly Subject[] = ['识字', '英语', '拼音'];
 const COMPREHENSIVE_SIZE = 10;
 const COMPREHENSIVE_PASS = 8;
-const REVIEW_INTERVAL_DAYS = 14;
 
 @Injectable()
 export class ProgressService {
@@ -36,6 +36,11 @@ export class ProgressService {
 
   private stageName(stage: number): string {
     return STAGE_NAMES[stage] ?? '未遇见';
+  }
+
+  /** 校验 subject 在白名单内，非法值以 400 拒绝（避免非法学科下传到写库撞 CHECK 约束返回 500） */
+  private assertSubject(subject: Subject) {
+    if (!SUBJECTS.includes(subject)) throw new BadRequestException('学科参数不合法');
   }
 
   /** 取或建一条 word 进度 */
@@ -86,16 +91,16 @@ export class ProgressService {
 
   /** 取普通挑战题目：生成 4 题并暂存答案（不下发正确项） */
   async getQuiz(childId: string, subject: Subject, wordId: string, wordText: string) {
+    this.assertSubject(subject);
     if (subject === '拼音') throw new BadRequestException('拼音无普通挑战习题');
-    // ★ 每次新挑战重置重试计数（对齐 md/02 学习进度字段说明 / PRD ED-028）
-    await this.progress.update({ childId, wordId }, { retryUsed: 0, lastTestFailed: false });
+    // 无惩罚·可无限重试：取题不做任何重试计数/失败态处理
     const questions = generateNormalQuiz(wordId, wordText || wordId);
     const testId = `t_${wordId}_${Date.now()}`;
     await this.testStore.put(testId, { kind: 'normal', childId, subject, wordId, questions });
     return { test_id: testId, word_id: wordId, questions: toPublic(questions) };
   }
 
-  /** 提交普通挑战：服务端判分；通过→好朋友(2)；未通过→记失败+重试计数 */
+  /** 提交普通挑战：服务端判分；通过→好朋友(2，只升不降)；未通过无惩罚，可无限重试 */
   async submitQuiz(userId: string, childId: string, testId: string, answers: { question_id: string; selected_option: string }[]) {
     const stored = await this.testStore.get(testId);
     if (!stored || stored.kind !== 'normal' || stored.childId !== childId || !stored.wordId) {
@@ -110,29 +115,19 @@ export class ProgressService {
     row.lastTestAt = new Date();
     if (passed) {
       row.testPassed = true;
-      row.lastTestFailed = false;
-      row.retryUsed = 0;
-      row.study1Completed = true; // ★ 直接挑战通过等价补齐"已相识"（PRD 3.2/ED-268），保证"是否收听过"一致
+      row.study1Completed = true; // ★ 直接挑战通过等价补齐“已相识”（PRD 3.2/ED-268），保证“是否收听过”一致
       row.lastStudyType = 'test';
-      if (row.currentStage < 2) row.currentStage = 2; // 好朋友（层级覆盖）
-    } else {
-      row.lastTestFailed = true;
+      if (row.currentStage < 2) row.currentStage = 2; // 好朋友（层级覆盖，只升不降）
     }
     await this.progress.save(row);
     await this.testStore.del(testId);
-
-    const canRetry = !passed && row.retryUsed < 1;
-    if (canRetry) {
-      row.retryUsed += 1;
-      await this.progress.save(row);
-    }
 
     return {
       test_passed: passed,
       score: Math.round((judged.filter((j) => j.is_correct).length / judged.length) * 100),
       results: judged.map((j) => ({ question_id: j.question_id, is_correct: j.is_correct })),
-      can_retry: canRetry,
-      feedback: passed ? '太棒了！你答对了！' : canRetry ? '差一点点，再试一次吧！' : '没关系，下次一定行！',
+      can_retry: !passed, // 无惩罚·可无限重试：未通过始终可再试
+      feedback: passed ? '太棒了！你答对了！' : '再试一次吧，你可以的！',
       current_stage: row.currentStage,
       stage_name: this.stageName(row.currentStage),
     };
@@ -140,6 +135,7 @@ export class ProgressService {
 
   /** 检查可否自动触发综合挑战：返回攒满 10 个好朋友(stage=2)的字 */
   async comprehensiveAuto(childId: string, subject: Subject) {
+    this.assertSubject(subject);
     const words = await this.progress.find({
       where: { childId, subject, currentStage: 2 },
       order: { updatedAt: 'ASC' },
@@ -250,13 +246,8 @@ export class ProgressService {
         correctCount += 1;
         row.comprehensivePassed = true;
         row.currentStage = 3; // 好伙伴
-        row.lastReviewedAt = new Date();
-        row.reviewDueAt = new Date(Date.now() + REVIEW_INTERVAL_DAYS * 86400_000);
-        row.needsReview = false;
-      } else {
-        // 只回落答错且原为好伙伴的字（3→2）；原为好朋友的保持 2
-        if (row.currentStage === 3) row.currentStage = 2;
       }
+      // 只升不降：答错不回落，保持原级别
       row.lastStudyType = 'comprehensive';
       perCharResults.push({ word_id: wordId, passed: itemPassed, current_stage: row.currentStage });
     }
@@ -298,54 +289,6 @@ export class ProgressService {
     };
   }
 
-  /** 需复习的字（好伙伴且 needs_review=true） */
-  async reviewDue(childId: string) {
-    const now = new Date();
-    const legacyCutoff = new Date(now.getTime() - REVIEW_INTERVAL_DAYS * 86400_000);
-    // 读时回填，避免依赖单机定时任务；多实例下同一 UPDATE 仍保持幂等。
-    await this.progress
-      .createQueryBuilder()
-      .update(LearningProgress)
-      .set({ needsReview: true })
-      .where('child_id = :childId', { childId })
-      .andWhere('current_stage = 3')
-      .andWhere('needs_review = FALSE')
-      .andWhere(
-        '((review_due_at IS NOT NULL AND review_due_at <= :now) OR '
-        + '(review_due_at IS NULL AND last_reviewed_at IS NOT NULL AND last_reviewed_at <= :legacyCutoff))',
-        { now, legacyCutoff },
-      )
-      .execute();
-    const rows = await this.progress.find({ where: { childId, needsReview: true } });
-    return {
-      total: rows.length,
-      words: rows.map((r) => ({ word_id: r.wordId, word: r.wordText, subject: r.subject })),
-    };
-  }
-
-  /** 提交复习：★服务端判分（复用普通挑战题的 TestStore，客户端不自报对错）；通过→刷新到期，未过→回落好朋友(2) */
-  async submitReview(childId: string, testId: string, answers: { question_id: string; selected_option: string }[], intervalDays = REVIEW_INTERVAL_DAYS) {
-    const stored = await this.testStore.get(testId);
-    if (!stored || stored.kind !== 'normal' || stored.childId !== childId || !stored.wordId) {
-      throw new NotFoundException('复习已过期，请重新开始');
-    }
-    const row = await this.progress.findOne({ where: { childId, wordId: stored.wordId } });
-    if (!row) throw new NotFoundException('未找到该字进度');
-    const judged = judgeAnswers(stored.questions, answers);
-    const passed = isNormalPassed(stored.subject as Subject, judged);
-    if (passed) {
-      row.lastReviewedAt = new Date();
-      row.reviewDueAt = new Date(Date.now() + intervalDays * 86400_000);
-      row.needsReview = false;
-    } else {
-      row.currentStage = 2; // 回落好朋友
-      row.needsReview = false;
-    }
-    await this.progress.save(row);
-    await this.testStore.del(testId);
-    return { success: true, passed, current_stage: row.currentStage, stage_name: this.stageName(row.currentStage) };
-  }
-
   /**
    * 字词详情（课程详情页用，对齐 md/11 §5.2）
    * ⭐ 真实词库/笔画未入库：pinyin/strokes/释义/例句为占位（同 quiz 策略），接入后替换。
@@ -372,23 +315,37 @@ export class ProgressService {
     };
   }
 
-  /** 成长总览（成长首页/家长用） */
+  /** 成长总览（成长首页/家长用）：★ 用 DB 分组聚合，避免全量加载后内存 filter */
   async summary(childId: string) {
-    const all = await this.progress.find({ where: { childId } });
+    const raw = await this.progress
+      .createQueryBuilder('p')
+      .select('p.subject', 'subject')
+      .addSelect('SUM(CASE WHEN p.current_stage >= 1 THEN 1 ELSE 0 END)', 'learned')
+      .addSelect('SUM(CASE WHEN p.current_stage >= 2 THEN 1 ELSE 0 END)', 'tested')
+      .addSelect('SUM(CASE WHEN p.current_stage >= 3 THEN 1 ELSE 0 END)', 'mastered')
+      .where('p.child_id = :childId', { childId })
+      .groupBy('p.subject')
+      .getRawMany<{ subject: Subject; learned: string; tested: string; mastered: string }>();
+
     const bySubject = (subject: Subject) => {
-      const rows = all.filter((r) => r.subject === subject);
+      const r = raw.find((x) => x.subject === subject);
       return {
         subject,
-        learned: rows.filter((r) => r.currentStage >= 1).length,
-        tested: rows.filter((r) => r.currentStage >= 2).length,
-        mastered: rows.filter((r) => r.currentStage >= 3).length,
+        learned: Number(r?.learned ?? 0),
+        tested: Number(r?.tested ?? 0),
+        mastered: Number(r?.mastered ?? 0),
       };
     };
+    // 累计口径（learned⊇tested⊇mastered，层级覆盖）；friends=好朋友及以上(>=2)供前端算独占分段
+    const totalLearned = raw.reduce((s, r) => s + Number(r.learned), 0);
+    const totalFriends = raw.reduce((s, r) => s + Number(r.tested), 0);
+    const totalMastered = raw.reduce((s, r) => s + Number(r.mastered), 0);
     return {
       child_id: childId,
       overall_stats: {
-        total_words_learned: all.filter((r) => r.currentStage >= 1).length,
-        total_words_mastered: all.filter((r) => r.currentStage >= 3).length,
+        total_words_learned: totalLearned,
+        total_words_friends: totalFriends,
+        total_words_mastered: totalMastered,
       },
       subject_progress: [bySubject('识字'), bySubject('英语'), bySubject('拼音')],
     };

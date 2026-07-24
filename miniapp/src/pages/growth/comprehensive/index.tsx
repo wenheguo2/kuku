@@ -42,7 +42,7 @@ export default function Comprehensive() {
         .then(setAuto)
         .catch((e: { code?: number }) => { if (e?.code === 403) setLocked(true); });
     }
-  }, [selectedChildId]);
+  }, [selectedChildId, subject]);
 
   const submit = async () => {
     if (!auto?.test_id) return;
@@ -54,13 +54,18 @@ export default function Comprehensive() {
       question_id: question.question_id,
       selected_option: answers[question.question_id],
     }));
-    const r = await api.post<CompResult>('/test/comprehensive/auto', {
-      child_id: selectedChildId,
-      subject,
-      test_id: auto.test_id,
-      answers: payload,
-    });
-    setResult(r);
+    try {
+      const r = await api.post<CompResult>('/test/comprehensive/auto', {
+        child_id: selectedChildId,
+        subject,
+        test_id: auto.test_id,
+        answers: payload,
+      });
+      setResult(r);
+    } catch (error) {
+      console.warn('提交综合挑战失败', error);
+      Taro.showToast({ title: '提交失败，请稍后重试', icon: 'none' });
+    }
   };
 
   if (locked) {
