@@ -8,6 +8,7 @@ import Taro from '@tarojs/taro';
 import { api } from '@/services/api';
 import { ChildStore, TokenStore } from '@/services/storage';
 import { player } from '@/services/audioPlayer';
+import { clearPlaybackReports } from '@/services/playbackQueue';
 import { usePlayerStore } from './playerStore';
 import { AGREEMENT_VERSIONS } from '@/config/agreements';
 import { tracker } from '@/services/tracker';
@@ -97,6 +98,7 @@ export const useUserStore = create<UserState>((set, get) => ({
     ChildStore.clear();
     player.destroy();
     usePlayerStore.getState().reset();
+    clearPlaybackReports();
     set({
       token: null,
       userId: null,
@@ -111,6 +113,7 @@ export const useUserStore = create<UserState>((set, get) => ({
 
   setSelectedChild: (id: string) => {
     ChildStore.set(id);
+    clearPlaybackReports(); // 切孩子清去重集，保证新孩子的播放重新计入其历史/成长
     set({ selectedChildId: id });
   },
 }));

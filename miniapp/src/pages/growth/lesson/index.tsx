@@ -69,7 +69,7 @@ export default function Lesson() {
   };
 
   const challenge = (wordId: string, wordText: string) =>
-    Taro.navigateTo({ url: `/pages/growth/challenge/index?subject=${encodeURIComponent(subject)}&word_id=${wordId}&word_text=${encodeURIComponent(wordText)}` });
+    Taro.navigateTo({ url: `/pages/growth/challenge/index?subject=${encodeURIComponent(subject)}&word_id=${encodeURIComponent(wordId)}&word_text=${encodeURIComponent(wordText)}` });
 
   const play = (wordText: string) =>
     Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent(subject)}&word=${encodeURIComponent(wordText)}` });

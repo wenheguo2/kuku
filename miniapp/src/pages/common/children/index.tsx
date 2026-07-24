@@ -13,7 +13,9 @@ import Icon from '@/components/Icon';
 interface Child { child_id: string; child_name: string }
 
 export default function Children() {
-  const { isLogin, selectedChildId, setSelectedChild } = useUserStore();
+  const isLogin = useUserStore((s) => s.isLogin);
+  const selectedChildId = useUserStore((s) => s.selectedChildId);
+  const setSelectedChild = useUserStore((s) => s.setSelectedChild);
   const [list, setList] = useState<Child[]>([]);
   const night = useNight();
 
@@ -30,20 +32,42 @@ export default function Children() {
     // editable/content 为微信 wx.showModal 运行期支持，Taro 类型未含，做安全转型
     const res: any = await Taro.showModal({ title: '添加孩子', editable: true, placeholderText: '孩子昵称' } as any);
     if (res.confirm && res.content) {
-      await api.post('/children', { child_name: res.content });
-      load();
+      try {
+        await api.post('/children', { child_name: res.content });
+        load();
+      } catch (error) {
+        console.warn('添加孩子失败', error);
+        Taro.showToast({ title: '添加失败，请重试', icon: 'none' });
+      }
     }
   };
   const rename = async (c: Child) => {
     const res: any = await Taro.showModal({ title: '修改昵称', editable: true, content: c.child_name } as any);
     if (res.confirm && res.content) {
-      await api.put(`/children/${c.child_id}`, { child_name: res.content });
-      load();
+      try {
+        await api.put(`/children/${c.child_id}`, { child_name: res.content });
+        load();
+      } catch (error) {
+        console.warn('修改昵称失败', error);
+        Taro.showToast({ title: '修改失败，请重试', icon: 'none' });
+      }
     }
   };
   const remove = async (c: Child) => {
-    const res = await Taro.showModal({ title: '删除档案', content: `确定删除「${c.child_name}」？其学习进度/历史将一并清除。` });
-    if (res.confirm) { await api.del(`/children/${c.child_id}`); load(); }
+    const res = await Taro.showModal({ title: '删除档案', content: `确定删除「${c.child_name}」？其成长进度/播放历史将一并清除。` });
+    if (!res.confirm) return;
+    try {
+      await api.del(`/children/${c.child_id}`);
+      // ★ 若删的是当前选中档案，自动切到剩余首个，避免 selectedChildId 悬空导致全局数据变 0
+      if (selectedChildId === c.child_id) {
+        const next = list.find((x) => x.child_id !== c.child_id);
+        if (next) setSelectedChild(next.child_id);
+      }
+      load();
+    } catch (error) {
+      console.warn('删除档案失败', error);
+      Taro.showToast({ title: '删除失败，请重试', icon: 'none' });
+    }
   };
 
   if (!isLogin) return (

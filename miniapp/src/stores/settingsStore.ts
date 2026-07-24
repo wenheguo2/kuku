@@ -8,6 +8,7 @@ import { create } from 'zustand';
 import Taro from '@tarojs/taro';
 import { SleepTimerStore, ThemeStore } from '@/services/storage';
 import { player } from '@/services/audioPlayer';
+import { usePlayerStore } from './playerStore';
 
 export type ThemeMode = 'system' | 'light' | 'dark';
 export type SleepMode = 'timed' | 'manual';
@@ -98,3 +99,9 @@ export const useSettingsStore = create<SettingsState>((set, get) => ({
 }));
 
 if (activeTimerDeadline) player.setSleepDeadline(activeTimerDeadline);
+
+// ★ 睡眠定时到点：复位播放态 + 清空定时（store+缓存），避免设置页 chip 仍高亮、UI 显示过期定时
+player.setSleepHandler(() => {
+  usePlayerStore.getState().setPlaying(false);
+  useSettingsStore.getState().setTimer(0);
+});

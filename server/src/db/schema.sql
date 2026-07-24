@@ -150,7 +150,7 @@ CREATE TABLE IF NOT EXISTS parent_settings (
 CREATE TABLE IF NOT EXISTS events (
   id BIGINT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
   user_id BIGINT NOT NULL REFERENCES users(id),
-  child_id BIGINT REFERENCES child_profiles(id),
+  child_id BIGINT REFERENCES child_profiles(id), -- 故意不设 ON DELETE：删档时由应用层置空(children.controller: UPDATE events SET child_id=NULL)，保留埋点行
   event_name VARCHAR(64) NOT NULL,
   event_type VARCHAR(32) NOT NULL CHECK (event_type IN ('story', 'song', 'lesson', 'parent', 'system')),
   content_type VARCHAR(16) CHECK (content_type IN ('story', 'song', 'lesson')),

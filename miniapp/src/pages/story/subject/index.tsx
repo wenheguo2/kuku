@@ -17,13 +17,16 @@ export default function StorySubject() {
   const router = useRouter();
   const subject = decodeURIComponent(router.params.subject || '品格养成');
   const [data, setData] = useState<SubjectIndex | null>(null);
+  const [error, setError] = useState(false);
   const night = useNight();
 
-  useEffect(() => {
+  const load = () => {
+    setError(false);
     indexLoader.loadIndexByPath(subject)
       .then((d) => setData(d as SubjectIndex))
-      .catch((error) => console.warn('加载主题目录失败', error));
-  }, [subject]);
+      .catch((err) => { console.warn('加载主题目录失败', err); setError(true); });
+  };
+  useEffect(load, [subject]);
 
   const cats = data?.categories ?? [];
   const cover = buildCoverUrl(data?.cover?.cover_image_url);
@@ -57,6 +60,12 @@ export default function StorySubject() {
           <Text className="rt">›</Text>
         </View>
       ))}
+      {error && cats.length === 0 && (
+        <View className="center" style={{ padding: '40px 0' }}>
+          <Text className="muted" style={{ marginBottom: '20px' }}>😶‍🌫️ 加载失败了，稍后再试试吧</Text>
+          <View className="btn-ghost" style={{ width: '240px' }} onClick={load}>重试</View>
+        </View>
+      )}
       <MiniPlayer />
     </ScrollView>
   );

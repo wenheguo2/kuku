@@ -17,7 +17,6 @@ async function fetchJson<T>(url: string, mock: T): Promise<T> {
   if (CONFIG.USE_MOCK) return mock;
   const cached = cache.get(url);
   if (cached && cached.expiresAt > Date.now()) return cached.data as T;
-  if (cached) cache.delete(url);
   const pending = inflight.get(url);
   if (pending) return pending as Promise<T>;
 
@@ -36,6 +35,10 @@ async function fetchJson<T>(url: string, mock: T): Promise<T> {
   inflight.set(url, request);
   try {
     return await request;
+  } catch (error) {
+    // 弱网/抖动降级：存在过期旧缓存则回退旧数据(stale-on-error)，避免直接空白/错误页
+    if (cached) return cached.data as T;
+    throw error;
   } finally {
     inflight.delete(url);
   }

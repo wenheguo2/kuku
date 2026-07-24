@@ -22,8 +22,15 @@ const SLEEPS: { key: SleepMode; label: string }[] = [
 const TIMERS = [0, 15, 30, 45, 60, 90];
 
 export default function Settings() {
-  const { theme, setTheme, timerMinutes, setTimer, sleepMode, setSleepMode, sleepManualOn, toggleSleep } = useSettingsStore();
-  const { isLogin } = useUserStore();
+  const theme = useSettingsStore((s) => s.theme);
+  const setTheme = useSettingsStore((s) => s.setTheme);
+  const timerMinutes = useSettingsStore((s) => s.timerMinutes);
+  const setTimer = useSettingsStore((s) => s.setTimer);
+  const sleepMode = useSettingsStore((s) => s.sleepMode);
+  const setSleepMode = useSettingsStore((s) => s.setSleepMode);
+  const sleepManualOn = useSettingsStore((s) => s.sleepManualOn);
+  const toggleSleep = useSettingsStore((s) => s.toggleSleep);
+  const isLogin = useUserStore((s) => s.isLogin);
   const night = useNight();
 
   const chooseTheme = (t: ThemeMode) => {

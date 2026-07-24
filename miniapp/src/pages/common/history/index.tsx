@@ -13,7 +13,8 @@ import { useNight } from '@/hooks/useNight';
 interface Hist { history_id: string; content_type: string; content_id: string; title: string | null; played_at: string }
 
 export default function History() {
-  const { isLogin, selectedChildId } = useUserStore();
+  const isLogin = useUserStore((s) => s.isLogin);
+  const selectedChildId = useUserStore((s) => s.selectedChildId);
   const [list, setList] = useState<Hist[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
@@ -30,8 +31,24 @@ export default function History() {
   useDidShow(load);
 
   const clear = async () => {
-    await api.del(`/history?child_id=${selectedChildId}`);
-    setList([]);
+    const res = await Taro.showModal({ title: '清空历史', content: '确定清空宝宝的全部播放记录？' });
+    if (!res.confirm) return;
+    try {
+      await api.del(`/history?child_id=${selectedChildId}`);
+      setList([]);
+    } catch (error) {
+      console.warn('清空历史失败', error);
+      Taro.showToast({ title: '清空失败，请重试', icon: 'none' });
+    }
+  };
+
+  /** 点历史条目→对应播放器续播（story→故事灯，song→歌曲） */
+  const openHist = (h: Hist) => {
+    if (h.content_type === 'song') {
+      Taro.navigateTo({ url: `/pages/song/player/index?id=${encodeURIComponent(h.content_id)}&title=${encodeURIComponent(h.title || h.content_id)}` });
+    } else {
+      Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(h.content_id)}&title=${encodeURIComponent(h.title || h.content_id)}` });
+    }
   };
 
   if (!isLogin) return (
@@ -51,7 +68,7 @@ export default function History() {
       <StateView loading={loading} error={error} empty={list.length === 0}
         emptyText="暂无播放记录" emptyIcon="clock" onRetry={load}>
         {list.map((h) => (
-          <View key={h.history_id} className="list-row">
+          <View key={h.history_id} className="list-row" onClick={() => openHist(h)}>
             <View className="thumb">{h.content_type === 'song' ? '🎵' : '📖'}</View>
             <View className="gr">
               <Text className="nm">{h.title || h.content_id}</Text>

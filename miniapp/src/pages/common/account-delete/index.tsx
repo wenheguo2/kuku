@@ -33,10 +33,15 @@ export default function AccountDelete() {
     });
     if (!second.confirm) return;
 
-    await api.del('/user', { confirm: true });
-    logout();
-    Taro.showToast({ title: '账号已注销', icon: 'success' });
-    setTimeout(() => Taro.reLaunch({ url: '/pages/story/index/index' }), 600);
+    try {
+      await api.del('/user', { confirm: true });
+      logout();
+      Taro.showToast({ title: '账号已注销', icon: 'success' });
+      setTimeout(() => Taro.reLaunch({ url: '/pages/story/index/index' }), 600);
+    } catch (error) {
+      console.warn('注销账号失败', error);
+      Taro.showToast({ title: '注销失败，请稍后重试', icon: 'none' });
+    }
   };
 
   return (

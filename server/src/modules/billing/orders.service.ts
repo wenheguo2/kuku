@@ -102,7 +102,10 @@ export class OrdersService {
         where: { userId: order.userId, status: 'active' },
         order: { endDate: 'DESC' },
       });
-      const base = active && new Date(active.endDate) > new Date() ? new Date(active.endDate) : new Date();
+      // ★ 与 membership-access.isActive 同自然日口径：endDate >= 今日则仍有效，到期当天续期从 endDate 起算不丢当天时长
+      const today = new Date(new Date().toISOString().slice(0, 10));
+      const stillValid = !!active && new Date(active.endDate) >= today;
+      const base = stillValid ? new Date(active!.endDate) : new Date();
       const endDate = addMonths(base, PLAN_MONTHS[order.planType]);
 
       if (active) {

@@ -45,11 +45,12 @@ export class ChildrenController {
   @Delete(':id')
   async remove(@CurrentUser('userId') userId: string, @Param('id') id: string) {
     await this.ownership.assertOwner(userId, id);
-    // ★ 至少保留一个孩子档案（登录会自动建默认档案，不能删光，否则成长数据无处落库、selectedChildId 失效）
-    if ((await this.repo.count({ where: { userId } })) <= 1) {
-      throw new BadRequestException('至少保留一个孩子档案，无法删除最后一个');
-    }
     await this.dataSource.transaction(async (manager) => {
+      // ★ 事务内加锁计数，防并发删不同档案都读到 count>1 而最终删到 0（TOCTOU）
+      const siblings = await manager.find(ChildProfile, { where: { userId }, lock: { mode: 'pessimistic_write' } });
+      if (siblings.length <= 1) {
+        throw new BadRequestException('至少保留一个孩子档案，无法删除最后一个');
+      }
       // 兼容已建库中 events 外键尚未升级为 ON DELETE SET NULL 的情况。
       await manager.query('UPDATE events SET child_id = NULL WHERE child_id = $1', [id]);
       await manager.delete(ChildProfile, id);

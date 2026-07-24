@@ -39,7 +39,6 @@
 ├── README.md              # 本文（规范 + 索引 + 模板）
 ├── 00-代码地图.md          # server/miniapp/admin 目录树 + 每目录一句话职责（随 Batch1 创建）
 ├── 待办-外部凭据清单.md    # AppID/支付/域名 等待外部提供的凭据（提醒用）
-├── repo-research-酷酷儿童故事.md # 仓库结构、关键契约、扩展点、风险与维护交接
 ├── server/                # 后端模块文档（每模块一份，随代码创建）
 │   ├── _基础设施.md        # main / config / 响应拦截器 / 异常过滤器 / 静态服务
 │   ├── auth.md
@@ -101,4 +100,4 @@
 
 ## 六、文档一致性待办（与代码同步补齐，不阻塞开发）
 
-- [ ] [`md/11 §1.1`](../md/11-API接口文档.md) 的索引示例用了字母 `subject_id`（A/B/C）+ `recommendations[]`，与**真实索引结构**（中文 `subject_id` + `structure_type/display_as/path/cover/entries[]`）不一致。**以真实结构为准**（见 [`md/20 §1.3`](../md/20-代码开发启动执行方案.md)），后续给 11 §1.1 加注真实结构说明，避免开发按错误 schema 编码。
+- [x] ~~[`md/11 §1.1`] 索引示例用字母 `subject_id`（A/B/C）+ `recommendations[]`~~ **已修（2026-07-24）**：doc 11 §1.1–§1.3 已按真实中文结构重写（中文 `subject_id` + `structure_type/display_as/path/cover/entries[]` + `stats.total_entries`，删 `recommendations`），对齐 `types/content.ts` 与 md/10。

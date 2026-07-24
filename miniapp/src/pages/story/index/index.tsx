@@ -74,7 +74,7 @@ export default function StoryHome() {
   const win = picks.length ? Array.from({ length: Math.min(PICK_WINDOW, picks.length) }, (_, i) => picks[(pickOffset + i) % picks.length]) : [];
   const shuffle = () => setPickOffset((o) => (o + PICK_WINDOW) % Math.max(1, picks.length));
   const playPick = (path: string, title: string) => {
-    usePlayerStore.getState().setQueue(win.map((p) => ({ path: p.path, title: p.title })), win.findIndex((p) => p.path === path));
+    usePlayerStore.getState().setQueue(win.map((p) => ({ type: 'story' as const, id: p.path, title: p.title })), win.findIndex((p) => p.path === path));
     goPlayer(path, title);
   };
   const hero = (home?.hot ?? [])[0];
@@ -98,7 +98,7 @@ export default function StoryHome() {
         <View className="sbtn" onClick={toggleSleep} style={{ marginLeft: 'auto' }}>
           <Icon name="moon" size={36} color="#B8A9E8" />
         </View>
-        <View className="sbtn" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index' })} style={{ marginLeft: '12px' }}>
+        <View className="sbtn" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index?scope=story' })} style={{ marginLeft: '12px' }}>
           <Icon name="search" size={38} color="#FF8C42" />
         </View>
       </View>
@@ -120,16 +120,15 @@ export default function StoryHome() {
         </View>
       )}
 
-      {/* 继续听 */}
+      {/* 最近播放（点击重新播放，非续播） */}
       {last && (
         <View>
-          <View className="sec-h"><Text className="t">继续听</Text><Text className="m">全部 ›</Text></View>
-          <View className="cont" style={{ margin: '0 4px' }} onClick={() => goPlayer(last.content_id, last.title || '继续听')}>
+          <View className="sec-h"><Text className="t">最近播放</Text><Text className="m">全部 ›</Text></View>
+          <View className="cont" style={{ margin: '0 4px' }} onClick={() => goPlayer(last.content_id, last.title || '最近播放')}>
             <View className="cvr" />
             <View className="gr">
               <Text className="nm">{last.title || last.content_id}</Text>
-              <Text className="ds">上次听到的故事</Text>
-              <View className="c-bar"><View style={{ position: 'absolute', left: 0, top: 0, bottom: 0, width: '42%', borderRadius: '5px', background: 'linear-gradient(90deg,#FFB067,#FF8C42)' }} /></View>
+              <Text className="ds">重新播放上次的故事</Text>
             </View>
             <View className="cp"><Icon name="play" size={30} color="#fff" /></View>
           </View>

@@ -74,6 +74,26 @@ export class TestStore implements OnModuleDestroy {
     return t;
   }
 
+  /**
+   * 原子领取并失效：取到题目的同时删除，保证同一 testId 只能被消费一次（防双提交竞态重复计分）。
+   * Redis 用 Lua 保证 GET+DEL 原子；内存态在 Node 单线程内 get+delete 天然原子。
+   */
+  async take(testId: string): Promise<StoredTest | undefined> {
+    if (this.redisReady && this.redis) {
+      const raw = (await this.redis.eval(
+        "local v=redis.call('get',KEYS[1]); if v then redis.call('del',KEYS[1]) end; return v",
+        1,
+        KEY_PREFIX + testId,
+      )) as string | null;
+      return raw ? (JSON.parse(raw) as StoredTest) : undefined;
+    }
+    const t = this.mem.get(testId);
+    this.mem.delete(testId);
+    if (!t) return undefined;
+    if ((t.expireAt ?? 0) < Date.now()) return undefined;
+    return t;
+  }
+
   async del(testId: string): Promise<void> {
     if (this.redisReady && this.redis) {
       await this.redis.del(KEY_PREFIX + testId);

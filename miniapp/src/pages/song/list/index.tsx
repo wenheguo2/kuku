@@ -5,31 +5,14 @@
  */
 import { View, Text, ScrollView } from '@tarojs/components';
 import Taro, { useRouter } from '@tarojs/taro';
+import { usePlayerStore } from '@/stores/playerStore';
 import MiniPlayer from '@/components/MiniPlayer';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
+import { SONG_CATEGORIES } from '@/services/songCatalog';
 
-// mock 歌曲库（按分类）；真实态改为按分类 path 拉歌曲索引
-const SONGS: Record<string, { id: string; title: string; meta: string }[]> = {
-  摇篮曲: [
-    { id: 'L001_摇篮曲', title: '摇篮曲', meta: '舒伯特 · 2分10秒' },
-    { id: 'L002_小宝贝快睡觉', title: '小宝贝快睡觉', meta: '轻音乐 · 1分50秒' },
-    { id: 'L003_月亮船', title: '月亮船', meta: '安眠曲 · 2分30秒' },
-  ],
-  童话故事: [
-    { id: 'T001_丑小鸭', title: '丑小鸭', meta: '童话儿歌 · 3分00秒' },
-    { id: 'T002_白雪公主', title: '白雪公主', meta: '童话儿歌 · 3分20秒' },
-  ],
-  动物世界: [
-    { id: 'A001_两只老虎', title: '两只老虎', meta: '经典儿歌 · 1分12秒' },
-    { id: 'A002_小毛驴', title: '小毛驴', meta: '经典儿歌 · 1分30秒' },
-    { id: 'A003_数鸭子', title: '数鸭子', meta: '经典儿歌 · 1分40秒' },
-  ],
-  神话故事: [
-    { id: 'M001_嫦娥奔月', title: '嫦娥奔月', meta: '神话儿歌 · 2分40秒' },
-    { id: 'M002_夸父追日', title: '夸父追日', meta: '神话儿歌 · 2分20秒' },
-  ],
-};
+// mock 歌曲库改由共享 songCatalog 提供（song/list 与 搜索 共用，避免重复维护）
+const SONGS = SONG_CATEGORIES;
 
 export default function SongList() {
   const router = useRouter();
@@ -37,8 +20,16 @@ export default function SongList() {
   const night = useNight();
   const list = SONGS[cat] ?? SONGS['摇篮曲'];
 
-  const play = (id: string, title: string) =>
-    Taro.navigateTo({ url: `/pages/song/player/index?id=${id}&title=${encodeURIComponent(title)}` });
+  const play = (id: string, title: string) => {
+    // ★ 点歌：把本分类整个列表设为播放队列（同类自动续播/循环基础），再进播放器
+    // 真实歌曲索引接入后，此处为每项补 audioUrl/lrcUrl/coverUrl
+    const idx = list.findIndex((s) => s.id === id);
+    usePlayerStore.getState().setQueue(
+      list.map((s) => ({ type: 'song' as const, id: s.id, title: s.title })),
+      Math.max(0, idx),
+    );
+    Taro.navigateTo({ url: `/pages/song/player/index?id=${encodeURIComponent(id)}&title=${encodeURIComponent(title)}` });
+  };
 
   return (
     <ScrollView scrollY className={`page-v4 ${night}`}>

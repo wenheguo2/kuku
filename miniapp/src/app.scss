@@ -36,6 +36,11 @@ page {
   flex: 1;
 }
 
+/* 通用禁用态（表单按钮未满足条件时置灰，如挑战未答完） */
+.disabled {
+  opacity: 0.45;
+}
+
 .card {
   background: var(--color-card);
   border-radius: 18px;
@@ -199,11 +204,9 @@ page {
 .dots-i i { display: inline-block; width: 12px; height: 12px; border-radius: 6px; background: #e0d0b8; margin: 0 6px; }
 .dots-i i.on { width: 32px; background: var(--color-primary); }
 
-/* 继续听 卡 */
+/* 最近播放 卡 */
 .cont { background: var(--color-card); border-radius: 28px; padding: 20px; display: flex; align-items: center; gap: 22px; box-shadow: 0 10px 24px rgba(232,201,160,.32); }
 .cont .cvr { width: 112px; height: 112px; border-radius: 24px; flex: 0 0 auto; }
-.cont .c-bar { height: 10px; background: var(--color-border); border-radius: 5px; position: relative; margin-top: 12px; }
-.cont .c-bar i { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 5px; background: linear-gradient(90deg, #FFB067, var(--color-primary)); }
 
 /* 横向滚动封面卡 */
 .hscroll { white-space: nowrap; }

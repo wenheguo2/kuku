@@ -4,16 +4,16 @@
  *
  * 朋友等级 current_stage：0 未遇见 / 1 已相识 / 2 好朋友 / 3 好伙伴（层级覆盖）。
  * 晋级：学习/听→1；普通挑战通过→2；综合挑战通过→3。
- * 重试：普通挑战未通过给 1 次重试。
- * 回落：综合挑战只回落答错且原为好伙伴(3→2)的字，答对保持好伙伴。
- * 间隔重复：好伙伴超 review_interval_days（默认 14）未再见 → needs_review=true。
+ * ★ 只升不降·无惩罚：普通挑战未过可无限重试；综合挑战答错不回落、答对才晋升好伙伴。
+ * 已下线间隔复习/久别重逢机制。
  */
-import { BadRequestException, Injectable, NotFoundException } from '@nestjs/common';
+import { BadRequestException, ForbiddenException, Injectable, NotFoundException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { In, Repository } from 'typeorm';
 import { ComprehensiveTest, TriggerType } from '../../entities/comprehensive-test.entity';
 import { LearningProgress, StudyType, Subject } from '../../entities/learning-progress.entity';
 import { TestStore } from './test-store';
+import { MembershipAccessService } from '../membership-access/membership-access.service';
 import {
   generateNormalQuiz,
   isNormalPassed,
@@ -32,6 +32,7 @@ export class ProgressService {
     @InjectRepository(LearningProgress) private readonly progress: Repository<LearningProgress>,
     @InjectRepository(ComprehensiveTest) private readonly compTests: Repository<ComprehensiveTest>,
     private readonly testStore: TestStore,
+    private readonly membership: MembershipAccessService,
   ) {}
 
   private stageName(stage: number): string {
@@ -43,18 +44,22 @@ export class ProgressService {
     if (!SUBJECTS.includes(subject)) throw new BadRequestException('学科参数不合法');
   }
 
-  /** 取或建一条 word 进度 */
+  /** 取或建一条 word 进度（并发首次学习/挑战用 orIgnore 处理 UNIQUE(child_id,word_id) 竞态，冲突后重查，避免 500） */
   private async getOrCreate(userId: string, childId: string, subject: Subject, wordId: string, wordText?: string) {
-    let row = await this.progress.findOne({ where: { childId, wordId } });
-    if (!row) {
-      row = this.progress.create({ userId, childId, subject, wordId, wordText: wordText ?? null, currentStage: 0 });
-      row = await this.progress.save(row);
-    }
-    return row;
+    const found = await this.progress.findOne({ where: { childId, wordId } });
+    if (found) return found;
+    await this.progress
+      .createQueryBuilder()
+      .insert()
+      .values({ userId, childId, subject, wordId, wordText: wordText ?? null, currentStage: 0 })
+      .orIgnore()
+      .execute();
+    return (await this.progress.findOne({ where: { childId, wordId } }))!;
   }
 
   /** 学科朋友等级列表（可按 stage 筛选，分页） */
   async listBySubject(childId: string, subject: Subject, stage: number | undefined, page: number, pageSize: number) {
+    this.assertSubject(subject); // 读路径同样校验白名单，与写路径口径一致
     const where: Record<string, unknown> = { childId, subject };
     if (stage !== undefined) where.currentStage = stage;
     const [rows, total] = await this.progress.findAndCount({
@@ -79,6 +84,11 @@ export class ProgressService {
 
   /** 提交学习完成（听/学习模块）：驱动 0→1 已相识 */
   async submitStudy(userId: string, childId: string, subject: Subject, wordId: string, studyType: StudyType, wordText?: string) {
+    // ★ study2/study3 为会员专属（付费边界 PRD G-03），服务端强制门控，防前端绕过
+    if (studyType === 'study2' || studyType === 'study3') {
+      const vip = await this.membership.isActive(userId);
+      if (!vip) throw new ForbiddenException('学习2/学习3 为会员专属');
+    }
     const row = await this.getOrCreate(userId, childId, subject, wordId, wordText);
     if (studyType === 'study1') row.study1Completed = true;
     if (studyType === 'study2') row.study2Completed = true;
@@ -102,7 +112,7 @@ export class ProgressService {
 
   /** 提交普通挑战：服务端判分；通过→好朋友(2，只升不降)；未通过无惩罚，可无限重试 */
   async submitQuiz(userId: string, childId: string, testId: string, answers: { question_id: string; selected_option: string }[]) {
-    const stored = await this.testStore.get(testId);
+    const stored = await this.testStore.take(testId); // 原子领取即失效，防双提交重复计分
     if (!stored || stored.kind !== 'normal' || stored.childId !== childId || !stored.wordId) {
       throw new NotFoundException('挑战已过期，请重新开始');
     }
@@ -120,7 +130,6 @@ export class ProgressService {
       if (row.currentStage < 2) row.currentStage = 2; // 好朋友（层级覆盖，只升不降）
     }
     await this.progress.save(row);
-    await this.testStore.del(testId);
 
     return {
       test_passed: passed,
@@ -183,6 +192,10 @@ export class ProgressService {
     if (rows.length !== COMPREHENSIVE_SIZE) {
       throw new BadRequestException('所选字词不存在或不属于当前学科');
     }
+    // ★ 防跳级：手动综合挑战只能选已达“好朋友”(stage>=2)的字（对齐 auto 路径 currentStage=2 前置）
+    if (!rows.every((r) => r.currentStage >= 2)) {
+      throw new BadRequestException('只能选择已成为“好朋友”的字/词参加综合挑战');
+    }
     const rowMap = new Map(rows.map((row) => [row.wordId, row]));
     const ordered = wordIds.map((wordId) => rowMap.get(wordId)!);
     const questions = ordered.map((word) => generateNormalQuiz(word.wordId, word.wordText || word.wordId)[0]);
@@ -215,7 +228,7 @@ export class ProgressService {
     testId: string,
     answers: { question_id: string; selected_option: string }[],
   ) {
-    const stored = await this.testStore.get(testId);
+    const stored = await this.testStore.take(testId); // 原子领取即失效，防双提交重复计分
     if (
       !stored
       || stored.kind !== 'comprehensive'
@@ -268,7 +281,6 @@ export class ProgressService {
         passed,
       }),
     );
-    await this.testStore.del(testId);
 
     return { passed, correct_count: correctCount, total: COMPREHENSIVE_SIZE, per_char_results: perCharResults };
   }

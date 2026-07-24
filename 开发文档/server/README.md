@@ -21,7 +21,7 @@
 
 ## auth（认证）
 - **文件**：wechat.service（code→openid，mock/real 开关+超时）、auth.service（登录+协议同意留痕+★建默认档案+注销）、jwt.strategy、auth.controller（login/logout）、user.controller（profile/注销）
-- **接口**：`POST /auth/login`(@Public) · `POST /auth/logout` · `GET/PUT /user/profile`(手机号脱敏返回) · `DELETE /user` · `POST /user/consent/withdraw`(监护人撤回同意)
+- **接口**：`POST /auth/login`(@Public) · `POST /auth/logout` · `GET/PUT /user/profile`(手机号脱敏返回・profile 会员读时过期回收) · `DELETE /user` · `POST /user/consent/withdraw`(监护人撤回同意)
 - **关键**：登录必须显式提交 `guardian_consent=true` 和三份协议版本；服务端核对 `.env` 期望版本后写入 `consent_records`；★ 登录必建默认 `child_profile`；开发态 `WX_LOGIN_MODE=mock` 免 AppID 联调
 - **依赖**：users, consent_records, child_profiles, memberships / JwtModule
 - **会话**：普通 logout 为无状态 JWT、前端清除即可；JwtStrategy 每次校验用户仍存在，因此账号注销后旧 token 立即失效。real 登录仍等待 WX_APPID/SECRET
@@ -84,6 +84,7 @@
 | 2026-07-22 | TestStore 接入 Redis(Memurai)+内存回退；e2e 集成测试 6/6 | 多实例就绪 + 回归保护（均本地无外部依赖） |
 | 2026-07-22 | 文档审计修复：贴纸100→小专家、getQuiz 重置 retry、直接挑战置 study1_completed；补 /vocabulary 接口；新增 VIP 门控(综合挑战/收集册/成就)；e2e 8/8 | 对齐 PRD/13号 付费边界与养成规则 |
 | 2026-07-23 | 本地库已升级 12 表；child_id/埋点归属、服务端判分、限流、复习到期、注销 JWT、生产门禁；单测 16/16、e2e 13/13、build 通过 | 落实三份审查的 P0/P1 整改 |
+| 2026-07-24 | user/profile 会员读时过期回收(对齐 isActive/billing 口径，消除个人页短暂显示“会员有效”)；schema events.child_id 注释“故意不设 ON DELETE·应用层置空” | 落实五视角审查 F5/F13 |
 | 2026-07-23 | 管理后台新增独立 JWT/scrypt 登录与数据库聚合统计；e2e 15/15 | 去除后台假 token 和指标占位 |
 | 2026-07-23 | main.ts 增安全响应头(helmet 必要子集，X-Content-Type-Options/X-Frame-Options 等，无额外依赖) | 补审查 helmet/安全头缺口 |
 | 2026-07-23 | 代码审查 P1/P2 整改：`markPaid` 事务+行锁(并发续期不丢时长)、progress 列表 page_size 上限 100、jwt 401 文案统一(防用户枚举)；type-check 通过 | 补代码审查发现的并发/DoS/枚举缺口 |
@@ -92,4 +93,7 @@
 | 2026-07-23 | 复审补修：删最后一个孩子档案保护(400)、监护人同意撤回接口 POST /user/consent/withdraw、家长 settings 白名单净化(仅原始类型/限键数长度)；单测 16/16、type-check 通过 | 补复审 H-22/M-24/M-11 |
 | 2026-07-23 | 第四轮走查整改：environment.validation 增 DB_PASSWORD 生产门禁(S-16)、orders isStub 冗余判断简化(S-08)、wechat code2session 改 URLSearchParams 避免 secret 拼串(S-09)、achievements 贴纸发放去 N+1(批量查/写,S-04)、history trim 合并为单条 DELETE 子查询(S-07)、progress.summary 改 DB 分组聚合并新增 total_words_friends(S-03+M-6) | 落实第四轮报告可独立闭环项(未依赖外部凭据) |
 | 2026-07-23 | 第五轮(CTO)走查整改：getQuiz/comprehensiveAuto 校验 subject 白名单→400(M-2)、getQuiz 仅在非“重试待用”态重置 retryUsed—堵无限重试并消除复习流程副作用(M-1)、submitQuiz 合并为单次 save(L-2)、PUT /user/profile 补 @MaxLength(64/512)(M-3)；type-check 通过 | 落实第五轮报告可独立闭环项 |
-| 2026-07-23 | 亲密度温柔化：普通挑战无惩罚可无限重试(submitQuiz 去 retry 上限、can_retry=!passed)、综合挑战去回落(只升不降)；删除整套间隔复习(reviewDue/submitReview/REVIEW_INTERVAL_DAYS + review/due,review/refresh 路由 + 实体 last_reviewed_at/review_due_at/needs_review 三列与 idx_progress_review)；type-check 通过 | 产品决策：低龄陆伴无挫败、不再间隔复习 |
+| 2026-07-23 | 亲密度温柔化：普通挑战无惩罚可无限重试(submitQuiz 去 retry 上限、can_retry=!passed)、综合挑战去回落(只升不降)；删除整套间隔复习(reviewDue/submitReview/REVIEW_INTERVAL_DAYS + review/due,review/refresh 路由 + 实体 last_reviewed_at/review_due_at/needs_review 三列与 idx_progress_review)；type-check 通过 | 产品决策：低龄陪伴无挫败、不再间隔复习 |
+| 2026-07-24 | 第六轮走查整改：progress.service 头注释“重试/回落”改为“只升不降·无限重试”(R1-1/R1-2)、PUT /user/profile 空 body 短路避免 500(R2-2)、addMonths 月末溢出钳到月末(R2-4)、quiz.util 死文档引用改指 README(R1-3)；单测 16/16、type-check 通过 | 落实 2026-07-24 报告 P2/P3 安全闭环项 |
+| 2026-07-24 | 安全/合规整改：submitStudy 对 study2/3 加服务端会员门控(注入 MembershipAccessService，非会员 403，N-M1/S2)、comprehensiveManualStart 校验所选字 stage>=2 防 1→3 跳级(S4)、登录同意留痕只认“未撤回”记录+撤回后重登复活/新建(N-M2 合规)；单测 16/16、type-check 通过 | 落实 2026-07-24 报告 P1 付费绕过/合规缺口 |
+| 2026-07-24 | 并发/健壮性整改：TestStore 新增原子 take(Lua GET+DEL) 供 submitQuiz/submitComprehensive 领取即失效防双提交重复计分(M3)、成就发放改 orIgnore 防并发撞唯一键 500(M4)、getOrCreate/收藏/历史 写入改 upsert-or-重查除 TOCTOU(L4)、删孩子事务内加锁计数防删到 0(N-L1)、会员续期基准改自然日口径不丢当天时长(L1)、listBySubject 补 subject 白名单(I1/I2)、SubmitQuizDto 补 @ArrayMaxSize(4)(I5)；单测 16/16、type-check 通过 | 落实 2026-07-24 报告 P2/P3 并发与健壮性项 |

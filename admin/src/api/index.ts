@@ -25,10 +25,12 @@ instance.interceptors.response.use(
   },
 );
 
-/** 解包标准包络 {code,message,data}：命中则总取 data（即使为 null），非标准响应原样返回。 */
+/** 解包标准包络 {code,message,data}：code!==0 视为业务错误抛出；命中则取 data；非标准响应原样返回。 */
 function unwrap<T>(payload: unknown): T {
   if (payload && typeof payload === 'object' && 'code' in payload && 'data' in payload) {
-    return (payload as { data: T }).data;
+    const env = payload as { code: number; message?: string; data: T };
+    if (env.code !== 0) throw new Error(env.message || `请求失败(${env.code})`);
+    return env.data;
   }
   return payload as T;
 }

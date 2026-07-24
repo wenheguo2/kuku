@@ -5,6 +5,7 @@
  * 后台播放：生产可切换为 getBackgroundAudioManager（app.config requiredBackgroundModes:['audio']）。
  */
 import Taro from '@tarojs/taro';
+import { usePlayerStore } from '@/stores/playerStore';
 
 type TimeCb = (currentSec: number, durationSec: number) => void;
 type AudioContext = Taro.InnerAudioContext | Taro.BackgroundAudioManager;
@@ -21,7 +22,17 @@ class FullTrackPlayer {
   private backgroundCtx: Taro.BackgroundAudioManager | null = null;
   private timeCbs = new Set<TimeCb>();
   private endedCbs = new Set<() => void>();
+  /** App 级续播驱动回调：独立于页面订阅，`destroy()` 不清（登出/401 后仍持续生效，修 N-H1） */
+  private endedDriver: (() => void) | null = null;
   private sleepTimer: ReturnType<typeof setTimeout> | null = null;
+  /** 睡眠定时到点回调（由 settingsStore 注册：复位播放态 + 清定时 store） */
+  private sleepCb: (() => void) | null = null;
+
+  /** 曲终统一分发：页面临时订阅 + App 级续播驱动 */
+  private emitEnded(): void {
+    this.endedCbs.forEach((cb) => cb());
+    this.endedDriver?.();
+  }
 
   /** 加载并播放一个整曲 URL */
   load(src: string, autoplay = true, metadata: TrackMetadata = { title: '酷酷儿童故事' }): void {
@@ -42,8 +53,12 @@ class FullTrackPlayer {
     const ctx = Taro.createInnerAudioContext();
     ctx.src = src;
     ctx.onTimeUpdate(() => this.timeCbs.forEach((cb) => cb(ctx.currentTime, ctx.duration)));
-    ctx.onEnded(() => this.endedCbs.forEach((cb) => cb()));
-    ctx.onError((e) => Taro.showToast({ title: `播放失败: ${e.errMsg ?? ''}`, icon: 'none' }));
+    ctx.onEnded(() => this.emitEnded());
+    ctx.onError((e) => {
+      console.warn('音频播放失败', e?.errMsg);
+      usePlayerStore.getState().setPlaying(false); // 出错复位，避免迷你栏/播放页残留“播放中”
+      Taro.showToast({ title: '音频播放失败，请稍后重试', icon: 'none' });
+    });
     this.ctx = ctx;
     if (autoplay) ctx.play();
   }
@@ -53,8 +68,11 @@ class FullTrackPlayer {
     if (this.backgroundCtx) return this.backgroundCtx;
     const ctx = Taro.getBackgroundAudioManager();
     ctx.onTimeUpdate(() => this.timeCbs.forEach((cb) => cb(ctx.currentTime, ctx.duration)));
-    ctx.onEnded(() => this.endedCbs.forEach((cb) => cb()));
-    ctx.onError(() => Taro.showToast({ title: '后台播放失败', icon: 'none' }));
+    ctx.onEnded(() => this.emitEnded());
+    ctx.onError(() => {
+      usePlayerStore.getState().setPlaying(false);
+      Taro.showToast({ title: '音频播放失败，请稍后重试', icon: 'none' });
+    });
     this.backgroundCtx = ctx;
     return ctx;
   }
@@ -82,6 +100,16 @@ class FullTrackPlayer {
     return () => this.endedCbs.delete(cb);
   }
 
+  /** 注册 App 级续播驱动（全局唯一，`destroy()` 不清除）。 */
+  setEndedDriver(cb: () => void): void {
+    this.endedDriver = cb;
+  }
+
+  /** 注册睡眠到点回调（到点 pause 后触发，用于清理 store/UI）。 */
+  setSleepHandler(cb: () => void): void {
+    this.sleepCb = cb;
+  }
+
   /** 设置睡眠定时截止时间；null 表示关闭。 */
   setSleepDeadline(deadline: number | null): void {
     if (this.sleepTimer) clearTimeout(this.sleepTimer);
@@ -90,11 +118,13 @@ class FullTrackPlayer {
     const delay = deadline - Date.now();
     if (delay <= 0) {
       this.pause();
+      this.sleepCb?.();
       return;
     }
     this.sleepTimer = setTimeout(() => {
       this.pause();
       this.sleepTimer = null;
+      this.sleepCb?.();
     }, delay);
   }
 

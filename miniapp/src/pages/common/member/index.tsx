@@ -2,6 +2,7 @@
  * pages/common/member — A-03 会员中心（v4 鎏金故事书匣）
  * 三档套餐（月¥9.9/季¥26/年¥88 主推）；下单 POST /orders（stub 直接开通）。
  */
+import { useState } from 'react';
 import { View, Text, ScrollView } from '@tarojs/components';
 import Taro, { useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
@@ -10,11 +11,11 @@ import Icon from '@/components/Icon';
 import { tracker } from '@/services/tracker';
 import { useNight } from '@/hooks/useNight';
 
-interface Plan { key: 'monthly' | 'quarterly' | 'yearly'; name: string; price: number; per: string; tip?: string }
+interface Plan { key: 'monthly' | 'quarterly' | 'yearly'; name: string; price: number; per: string }
 const PLANS: Plan[] = [
   { key: 'monthly', name: '月度', price: 9.9, per: '每月' },
   { key: 'quarterly', name: '季度', price: 26, per: '¥8.7/月' },
-  { key: 'yearly', name: '年度 ★最受欢迎', price: 88, per: '¥7.3/月', tip: 'on' },
+  { key: 'yearly', name: '年度 ★最受欢迎', price: 88, per: '¥7.3/月' },
 ];
 export default function Member() {
   const night = useNight();
@@ -31,15 +32,26 @@ export default function Member() {
   };
   useDidShow(loadMem);
 
-  const buy = async (plan: Plan) => {
+  // UX-26：先选中→再确认；下单期间禁用防重复提交；失败明确提示
+  const [selected, setSelected] = useState<Plan>(PLANS[2]);
+  const [submitting, setSubmitting] = useState(false);
+
+  const confirmBuy = async () => {
     if (!isLogin) { Taro.navigateTo({ url: '/pages/common/login/index' }); return; }
+    if (submitting) return;
+    const ok = await Taro.showModal({ title: '确认开通', content: `确认开通【${selected.name}】书匣（¥${selected.price}）？` });
+    if (!ok.confirm) return;
+    setSubmitting(true);
     try {
-      void tracker.track('pay_click', { plan_type: plan.key }, selectedChildId);
-      const r = await api.post<{ status: string }>('/orders', { plan_type: plan.key });
+      void tracker.track('pay_click', { plan_type: selected.key }, selectedChildId);
+      const r = await api.post<{ status: string }>('/orders', { plan_type: selected.key });
       Taro.showToast({ title: r.status === 'paid' ? '开通成功' : '已下单', icon: 'none' });
       await refreshProfile();
     } catch (error) {
       console.warn('创建订单失败', error);
+      Taro.showToast({ title: '支付通道配置中，请稍后再试', icon: 'none' });
+    } finally {
+      setSubmitting(false);
     }
   };
 
@@ -63,21 +75,21 @@ export default function Member() {
 
       <View className="goldrow"><Icon name="book" size={38} color="#FFE9A8" /> 名著全集 · 三国/水浒/西游随意听</View>
       <View className="goldrow"><Icon name="moon" size={38} color="#FFE9A8" /> 哄睡专辑 · 睡前故事灯专属曲目</View>
-      <View className="goldrow"><Icon name="star" size={38} color="#FFE9A8" /> 学习 2/3 解锁 · 跟读与场景运用</View>
+      <View className="goldrow"><Icon name="star" size={38} color="#FFE9A8" /> 学习 2/3 解锁 · 场景运用与拓展</View>
 
       <View className="sec-h" style={{ margin: '20px 4px 14px' }}>
         <Text className="t" style={{ color: '#F5E6C8' }}>选择书匣</Text><Text className="m" style={{ color: '#FFC93C' }}>年省 ¥40</Text>
       </View>
       <View className="plangrid">
         {PLANS.map((p) => (
-          <View key={p.key} className={`plan ${p.tip ? 'on' : ''}`} onClick={() => buy(p)}>
+          <View key={p.key} className={`plan ${selected.key === p.key ? 'on' : ''}`} onClick={() => setSelected(p)}>
             <Text style={{ fontSize: '20px', fontWeight: 800, display: 'block' }}>{p.name}</Text>
             <Text className="pr">¥{p.price}</Text>
             <Text className="pd">{p.per}</Text>
           </View>
         ))}
       </View>
-      <View className="btn-gold" style={{ marginTop: '28px' }} onClick={() => buy(PLANS[2])}>开启鎏金书匣</View>
+      <View className={`btn-gold ${submitting ? 'disabled' : ''}`} style={{ marginTop: '28px' }} onClick={confirmBuy}>{submitting ? '开通中…' : `确认开通【${selected.name}】书匣`}</View>
       <Text style={{ textAlign: 'center', fontSize: '18px', opacity: 0.5, padding: '18px 0', display: 'block' }}>到期不自动续费 · 随时可取消</Text>
     </ScrollView>
   );

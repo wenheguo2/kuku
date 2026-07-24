@@ -24,7 +24,7 @@ class QuizAnswerItem {
 class SubmitQuizDto {
   @IsString() child_id: string;
   @IsString() test_id: string;
-  @IsArray() @ValidateNested({ each: true }) @Type(() => QuizAnswerItem) answers: QuizAnswerItem[];
+  @IsArray() @ArrayMaxSize(4) @ValidateNested({ each: true }) @Type(() => QuizAnswerItem) answers: QuizAnswerItem[];
 }
 
 class SubmitComprehensiveDto {

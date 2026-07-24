@@ -65,26 +65,33 @@ export class AchievementsService {
     const rows = await this.progress.find({ where: { childId } });
     const existing = await this.achievements.find({ where: { childId, achievementType: 'sticker' } });
     const existingKeys = new Set(existing.map((a) => a.achievementKey));
-    const toCreate: ChildAchievement[] = [];
+    const toCreate: Array<{
+      childId: string;
+      achievementType: 'sticker';
+      achievementKey: string;
+      achievementName: string;
+      subject: Subject;
+    }> = [];
     for (const subject of SUBJECTS) {
       const buddies = rows.filter((r) => r.subject === subject && r.currentStage === 3).length;
       for (const m of STICKER_MILESTONES) {
         if (buddies >= m.threshold) {
           const key = `${subject}_${m.keySuffix}`;
           if (!existingKeys.has(key)) {
-            toCreate.push(
-              this.achievements.create({
-                childId,
-                achievementType: 'sticker',
-                achievementKey: key,
-                achievementName: `${subject}${m.name}`,
-                subject,
-              }),
-            );
+            toCreate.push({
+              childId,
+              achievementType: 'sticker',
+              achievementKey: key,
+              achievementName: `${subject}${m.name}`,
+              subject,
+            });
           }
         }
       }
     }
-    if (toCreate.length) await this.achievements.save(toCreate);
+    if (toCreate.length) {
+      // 并发首次发放可能同时 insert 同一贴纸，用 orIgnore(ON CONFLICT DO NOTHING) 幂等去重，避免撞唯一键 500
+      await this.achievements.createQueryBuilder().insert().values(toCreate).orIgnore().execute();
+    }
   }
 }

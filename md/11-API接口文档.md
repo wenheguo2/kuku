@@ -116,82 +116,54 @@ Authorization: Bearer {jwt_token}
 ```json
 {
   "schema_version": "1.1",
-  "content_version": "2026-07-14",
+  "index_type": "global",
+  "generated_at": "2026-07-14",
+  "stats": { "total_subjects": 11, "total_entries": 36848 },
   "subjects": [
     {
-      "id": "A",
-      "name": "品格养成",
-      "cover_image_url": "/illustrations/covers/generated/A/A.webp",
-      "story_count": 1245,
-      "categories": [
-        { "id": "A01", "name": "诚实勇敢", "story_count": 156 }
-      ]
-    }
-  ],
-  "stats": { "total_subjects": 9, "total_stories": 13000, "total_songs": 500 },
-  "recommendations": [
-    {
-      "story_id": "A001_孔融让梨",
-      "title": "孔融让梨",
-      "subject": "A",
-      "category": "A01",
-      "level": "L5",
-      "duration": 900,
-      "cover_url": "/illustrations/covers/generated/A/A01诚实勇敢/A001.webp"
+      "subject_id": "品格养成",
+      "subject_name": "品格养成",
+      "category_count": 9,
+      "total_entries": 1565,
+      "cover": { "cover_image_url": "covers/generated/品格养成/品格养成.webp", "cover_level": "subject" }
     }
   ]
 }
 ```
 
-**字段说明**:
+**字段说明**（真实结构，对齐 `miniapp/src/types/content.ts` 与 [10 号](10-索引与封面设计方案.md)）:
 | 字段 | 类型 | 说明 |
 |:--|:--|:--|
-| schema_version | string | Schema版本号 |
-| content_version | string | 内容更新日期 |
-| subjects[].id / name | string | 学科ID（A-I）/ 名称 |
-| subjects[].cover_image_url | string | 学科封面URL |
-| subjects[].story_count | number | 故事数量（实测口径详见 08 §0.1） |
-| stats | object | 统计数据 |
-| recommendations | array | 推荐故事列表（固定8个） |
+| schema_version / index_type / generated_at | string | 版本 / 索引类型(`global`) / 生成时间 |
+| stats.total_subjects / total_entries | number | 学科数 / 条目总数（实测口径详见 08 §0.1） |
+| subjects[].subject_id / subject_name | string | **中文学科名**（如 `品格养成`），既作 ID 又作显示名 |
+| subjects[].category_count / total_entries | number | 该学科分类数 / 条目数 |
+| subjects[].cover | object | `{ cover_image_url(相对路径 covers/generated/…), cover_level }` |
+
+> ⚠️ 无 `recommendations` 字段：首页推荐由 `_home.json`（脚本 12 生成）承载，见 [10 §3.7](10-索引与封面设计方案.md)。
 
 **缓存策略**: CDN 24小时；前端本地缓存 1小时。
 
 ### 1.2 学科索引 `_index.json`
 
-**CDN路径**: `https://cdn.example.com/index/generated_stories/{subject}/_index.json`
-（`subject`=学科ID A/B/C/D/E/F/G/H/I）
+**CDN路径**: `https://cdn.example.com/index/generated_stories/{学科}/_index.json`
+（`{学科}` = **中文学科名**，如 `品格养成`；路径经 `buildAssetUrl` 逐段 `encodeURIComponent`）
 
-**结构**:
+**结构**（学科下分类清单；每个分类再指向自己的分类索引）:
 ```json
 {
-  "subject_id": "A",
+  "subject_id": "品格养成",
   "subject_name": "品格养成",
+  "cover": { "cover_image_url": "covers/generated/品格养成/品格养成.webp", "cover_level": "subject" },
   "categories": [
     {
-      "id": "A01",
-      "name": "诚实勇敢",
-      "structure_type": "flat",
-      "story_count": 156,
-      "stories": [
-        { "id": "A001", "title": "孔融让梨", "level": "L5", "duration": 900,
-          "cover_url": "/illustrations/covers/generated/A/A01诚实勇敢/A001.webp" }
-      ]
-    },
-    {
-      "id": "A02",
-      "name": "孝顺感恩",
-      "structure_type": "chaptered",
-      "story_count": 89,
-      "chapters": [
-        {
-          "id": "A02_C01",
-          "title": "二十四孝故事集",
-          "episode_count": 24,
-          "episodes": [
-            { "id": "A02_C01_E01", "title": "孝感动天 - 舜的故事", "duration": 600 }
-          ]
-        }
-      ]
+      "id": "A1勇敢",
+      "name": "勇敢",
+      "path": "品格养成/A1勇敢",
+      "structure_type": "standalone_collection",
+      "display_as": "grid",
+      "entry_count": 120,
+      "cover": { "cover_image_url": "covers/generated/品格养成/A1勇敢/A1勇敢.webp", "cover_level": "category" }
     }
   ]
 }
@@ -200,9 +172,14 @@ Authorization: Bearer {jwt_token}
 **字段说明**:
 | 字段 | 类型 | 说明 |
 |:--|:--|:--|
-| categories[].structure_type | string | `flat`（扁平）/ `chaptered`（章回） |
-| categories[].stories | array | 故事列表（flat 类型） |
-| categories[].chapters | array | 章回列表（chaptered 类型） |
+| subject_id / subject_name | string | 中文学科名 |
+| categories[].id / name / path | string | 分类 ID / 名 / **中文相对路径**（下钻时用于拉分类索引） |
+| categories[].structure_type | string | `standalone_collection` / `chaptered_work` / `mixed` / `multi_level` / `txt_collection` |
+| categories[].display_as | string | 前端渲染方式（如 `grid`），驱动 S-02~S-06 差异化 |
+| categories[].entry_count | number | 该分类条目数 |
+| categories[].cover | object | 分类封面（相对路径 + cover_level） |
+
+> **下钻的分类索引**（`CategoryIndex`）含 `entries[]`（`entry_id/title/structure_type/display_as/path/cover`）；`multi_level` 用 `sub_categories[]` 而非 `entries[]`；章回作品总入口为 `work_index`（`chapters[]`）。完整模型见 [10 号](10-索引与封面设计方案.md) 与 `types/content.ts`。
 
 ### 1.3 故事分段 `segments.json`
 
@@ -211,26 +188,27 @@ Authorization: Bearer {jwt_token}
 **结构**:
 ```json
 {
-  "story_id": "A001_孔融让梨",
+  "story_id": "孔融让梨",
   "title": "孔融让梨",
-  "subject": "A",
-  "category": "A01",
+  "subject": "品格养成",
+  "category": "A1勇敢",
   "level": "L5",
   "total_duration": 900,
-  "cover_url": "/illustrations/covers/generated/A/A01诚实勇敢/A001.webp",
+  "cover_url": "illustrations/covers/generated/品格养成/A1勇敢/孔融让梨.webp",
   "segments": [
     {
       "segment_id": 1,
       "start_time": 0,
       "end_time": 180,
-      "audio_url": "/audio/A/A01诚实勇敢/A001_孔融让梨/sp_00001.mp3",
+      "audio_url": "audio/品格养成/A1勇敢/孔融让梨/sp_00001.mp3",
       "text": "从前有个孩子叫孔融..."
     }
   ],
-  "full_audio_url": "/audio/A/A01诚实勇敢/A001_孔融让梨/full.mp3"
+  "full_audio_url": "audio/品格养成/A1勇敢/孔融让梨/full.mp3"
 }
 ```
 
+> **路径约定**：`cover_url`（含 `illustrations/` 前缀）/`audio_url`/`full_audio_url` 均为相对静态根路径，前端用 `buildAssetUrl` 逐段编码拼接；故事封面因 `cover_url` 已含前缀，**不再经 `buildCoverUrl`**（而索引的 `cover_image_url` 不含前缀，由 `buildCoverUrl` 补 `illustrations/`）。
 > **播放策略**（对齐 02 决策2）：客户端播放**整曲 `full.mp3`**，通过 `segments`（教学场景为 `timeline.json`）二分查找定位当前段以同步字幕/立绘。分段文件命名 `sp_*.mp3` 或 `seg_*.mp3`（见 08 §0.1）。
 > **timeline.json 权威口径**：教学音频合并产出 8 字段完整结构 `{seq, start_ms, end_ms, duration_ms, segment_id, character, text, voice_id}`，以 07 号 §脚本2 / 08 号 §3.2 为准。
 
@@ -502,6 +480,8 @@ GET /api/v1/progress/识字?child_id=child_001&stage=3&page=1&page_size=20
   ]
 }
 ```
+
+> 注：`pinyin` / `stroke_count` 需真实词库接入后才返回；当前 `listBySubject` 仅返回 `word_id / word / current_stage / stage_name`（真实词库到位前，上例两字段为占位，见深度审查 F12/F1）。
 
 ### 5.2 GET /api/v1/vocabulary/{word_id}?child_id={id}
 

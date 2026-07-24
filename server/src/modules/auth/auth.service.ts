@@ -64,23 +64,39 @@ export class AuthService {
       user = await this.users.save(user);
     }
 
-    const recorded = await this.consents.findOne({
+    // ★ 只看“未撤回”的同意记录；若无则需重新留痕（监护人撤回后重登必须产生新的有效同意，合规）
+    const activeConsent = await this.consents.findOne({
       where: {
         userId: user.id,
         userAgreementVersion: versions.userAgreementVersion,
         privacyVersion: versions.privacyVersion,
         childrenPrivacyVersion: versions.childrenPrivacyVersion,
+        withdrawnAt: IsNull(),
       },
     });
-    if (!recorded) {
-      await this.consents.save(
-        this.consents.create({
+    if (!activeConsent) {
+      // 同版本可能已有“已撤回”旧记录（受 uq_consent_user_versions 唯一约束）：有则复活，无则新建
+      const prior = await this.consents.findOne({
+        where: {
           userId: user.id,
-          consentType: 'guardian',
-          ...versions,
-          withdrawnAt: null,
-        }),
-      );
+          userAgreementVersion: versions.userAgreementVersion,
+          privacyVersion: versions.privacyVersion,
+          childrenPrivacyVersion: versions.childrenPrivacyVersion,
+        },
+      });
+      if (prior) {
+        prior.withdrawnAt = null; // 复活（agreed_at 为 CreateDateColumn 不可改，保留首次同意时间）
+        await this.consents.save(prior);
+      } else {
+        await this.consents.save(
+          this.consents.create({
+            userId: user.id,
+            consentType: 'guardian',
+            ...versions,
+            withdrawnAt: null,
+          }),
+        );
+      }
     }
 
     // ★ 保证至少有一个默认孩子档案

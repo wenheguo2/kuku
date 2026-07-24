@@ -92,6 +92,9 @@ export default function GrowthHome() {
       </View>
 
       {/* 入口 */}
+      <View className="frow" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index?scope=growth' })}>
+        <View className="fi" style={{ background: '#E6F2FF' }}><Icon name="search" size={34} color="#3B82F6" /></View>搜字/词<Text className="rt">识字 / 英语 / 拼音 ›</Text>
+      </View>
       <View className="frow" onClick={() => Taro.navigateTo({ url: '/pages/growth/collection/index' })}>
         <View className="fi" style={{ background: 'var(--color-primary-soft)' }}><Icon name="star" size={34} color="#FF8C42" /></View>朋友收集册<Text className="rt">查看全部 ›</Text>
       </View>

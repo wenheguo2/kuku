@@ -37,15 +37,21 @@ export class FavoritesService {
       where: { userId, contentType: dto.content_type, contentId: dto.content_id },
     });
     if (!fav) {
-      fav = await this.repo.save(
-        this.repo.create({
-          userId,
-          contentType: dto.content_type,
-          contentId: dto.content_id,
-          contentTitle: dto.content_title ?? null,
-          subjectId: dto.subject_id ?? null,
-        }),
-      );
+      try {
+        fav = await this.repo.save(
+          this.repo.create({
+            userId,
+            contentType: dto.content_type,
+            contentId: dto.content_id,
+            contentTitle: dto.content_title ?? null,
+            subjectId: dto.subject_id ?? null,
+          }),
+        );
+      } catch (e) {
+        // 并发同一内容重复 insert 撞唯一键 → 重查既有（幂等）
+        fav = await this.repo.findOne({ where: { userId, contentType: dto.content_type, contentId: dto.content_id } });
+        if (!fav) throw e;
+      }
     }
     return { favorite_id: fav.id, saved: true };
   }

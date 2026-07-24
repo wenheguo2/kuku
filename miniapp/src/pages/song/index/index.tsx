@@ -37,7 +37,7 @@ export default function SongHome() {
           <Text className="hi">一起唱歌吧 🎵</Text>
           <Text className="big serif">酷酷音乐厅</Text>
         </View>
-        <View className="sbtn" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index' })}><Icon name="search" size={38} color={TEAL} /></View>
+        <View className="sbtn" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index?scope=song' })}><Icon name="search" size={38} color={TEAL} /></View>
       </View>
 
       {/* Hero 合唱榜 */}

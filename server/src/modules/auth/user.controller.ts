@@ -44,23 +44,35 @@ export class UserController {
       where: { userId, status: 'active' },
       order: { endDate: 'DESC' },
     });
+    // 读时过期回收：与 membership-access.isActive() / billing 口径一致，避免个人页短暂显示“会员有效”
+    let effectiveStatus = membership?.status ?? 'none';
+    if (membership) {
+      const stillValid = new Date(membership.endDate) >= new Date(new Date().toISOString().slice(0, 10));
+      if (!stillValid) {
+        effectiveStatus = 'expired';
+        await this.memberships.update({ id: membership.id, status: 'active' }, { status: 'expired' });
+      }
+    }
     return {
       user_id: user.id,
       nickname: user.nickname,
       avatar_url: user.avatarUrl,
       phone: maskPhone(user.phone),
       membership: membership
-        ? { status: membership.status, plan_type: membership.planType, end_date: membership.endDate }
+        ? { status: effectiveStatus, plan_type: membership.planType, end_date: membership.endDate }
         : { status: 'none' },
     };
   }
 
   @Put('profile')
   async updateProfile(@CurrentUser('userId') userId: string, @Body() dto: UpdateProfileDto) {
-    await this.users.update(userId, {
+    const patch = {
       ...(dto.nickname !== undefined ? { nickname: dto.nickname } : {}),
       ...(dto.avatar_url !== undefined ? { avatarUrl: dto.avatar_url } : {}),
-    });
+    };
+    // 空 patch 直接短路，避免 TypeORM update({}) 抛 UpdateValuesMissingError → 500
+    if (Object.keys(patch).length === 0) return { success: true };
+    await this.users.update(userId, patch);
     return { success: true };
   }
 

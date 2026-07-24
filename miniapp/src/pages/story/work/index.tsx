@@ -19,20 +19,23 @@ export default function StoryWork() {
   const path = decodeURIComponent(router.params.path || '');
   const title = decodeURIComponent(router.params.title || '章回作品');
   const [work, setWork] = useState<WorkIndex | null>(null);
+  const [error, setError] = useState(false);
   const night = useNight();
 
-  useEffect(() => {
+  const load = () => {
+    setError(false);
     indexLoader.loadIndexByPath(path)
       .then((d) => setWork(d as WorkIndex))
-      .catch((error) => console.warn('加载作品目录失败', error));
-  }, [path]);
+      .catch((err) => { console.warn('加载作品目录失败', err); setError(true); });
+  };
+  useEffect(load, [path]);
 
   const chapters = work?.chapters ?? [];
   const cover = buildCoverUrl(work?.cover?.cover_image_url);
 
   const playFrom = (index: number) => {
     // ★ 章回连续播放：队列=全部章节，从 index 开始，播完自动续播下一章
-    const queue = chapters.map((c) => ({ path: c.full_path, title: c.title }));
+    const queue = chapters.map((c) => ({ type: 'story' as const, id: c.full_path, title: c.title }));
     usePlayerStore.getState().setQueue(queue, index);
     const c = chapters[index];
     Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(c.full_path)}&title=${encodeURIComponent(c.title)}` });
@@ -61,11 +64,16 @@ export default function StoryWork() {
           <View className="cvr" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'linear-gradient(135deg,#FFF3E7,#FFE8D2)', color: 'var(--color-primary-dark)', fontWeight: 800, fontSize: '30px' }}>{c.chapter_index ?? i + 1}</View>
           <View className="gr">
             <Text className="nm">{c.title}</Text>
-            {c.duration_ms ? <Text className="ds">{Math.round(c.duration_ms / 60000)} 分钟</Text> : null}
           </View>
           <View className="cp"><Icon name="play" size={28} color="#fff" /></View>
         </View>
       ))}
+      {error && chapters.length === 0 && (
+        <View className="center" style={{ padding: '40px 0' }}>
+          <Text className="muted" style={{ marginBottom: '20px' }}>😶‍🌫️ 加载失败了，稍后再试试吧</Text>
+          <View className="btn-ghost" style={{ width: '240px' }} onClick={load}>重试</View>
+        </View>
+      )}
       <MiniPlayer />
     </ScrollView>
   );

@@ -67,7 +67,7 @@ export default function StoryList() {
     Taro.navigateTo({ url: `/pages/story/list/index?path=${encodeURIComponent(path)}&title=${encodeURIComponent(c.name)}` });
   };
   const playStory = (e: EntryItem) => {
-    usePlayerStore.getState().setQueue(stories.map((s) => ({ path: s.path, title: s.title })), stories.indexOf(e));
+    usePlayerStore.getState().setQueue(stories.map((s) => ({ type: 'story' as const, id: s.path, title: s.title })), stories.indexOf(e));
     Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(e.path)}&title=${encodeURIComponent(e.title)}` });
   };
 
@@ -83,7 +83,7 @@ export default function StoryList() {
       <Thumb e={e} />
       <View className="gr">
         <Text className="nm">{e.title}</Text>
-        <Text className="ds">{e.level ? <Text className="lvb">{e.level}</Text> : null}{e.duration_ms ? `${Math.round(e.duration_ms / 60000)} 分钟` : ''}</Text>
+        <Text className="ds">{e.level ? <Text className="lvb">{e.level}</Text> : null}</Text>
       </View>
       <View className="cp"><Icon name="play" size={28} color="#fff" /></View>
     </View>

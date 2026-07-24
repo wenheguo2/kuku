@@ -32,28 +32,43 @@ export class HistoryService {
       where: { childId: dto.child_id, contentType: dto.content_type, contentId: dto.content_id },
     });
     if (row) {
-      row.lastPositionMs = dto.last_position_ms ?? row.lastPositionMs;
-      row.lastSegment = dto.last_segment ?? row.lastSegment;
-      row.durationMs = dto.duration_ms ?? row.durationMs;
-      row.playedCount += 1;
+      this.applyUpdate(row, dto);
       await this.repo.save(row);
     } else {
-      row = await this.repo.save(
-        this.repo.create({
-          userId,
-          childId: dto.child_id,
-          contentType: dto.content_type,
-          contentId: dto.content_id,
-          contentTitle: dto.content_title ?? null,
-          subjectId: dto.subject_id ?? null,
-          lastPositionMs: dto.last_position_ms ?? 0,
-          lastSegment: dto.last_segment ?? null,
-          durationMs: dto.duration_ms ?? 0,
-        }),
-      );
-      await this.trim(dto.child_id);
+      try {
+        row = await this.repo.save(
+          this.repo.create({
+            userId,
+            childId: dto.child_id,
+            contentType: dto.content_type,
+            contentId: dto.content_id,
+            contentTitle: dto.content_title ?? null,
+            subjectId: dto.subject_id ?? null,
+            lastPositionMs: dto.last_position_ms ?? 0,
+            lastSegment: dto.last_segment ?? null,
+            durationMs: dto.duration_ms ?? 0,
+          }),
+        );
+        await this.trim(dto.child_id);
+      } catch (e) {
+        // 并发首次播放同一内容撞唯一键 → 转为更新既有
+        row = await this.repo.findOne({
+          where: { childId: dto.child_id, contentType: dto.content_type, contentId: dto.content_id },
+        });
+        if (!row) throw e;
+        this.applyUpdate(row, dto);
+        await this.repo.save(row);
+      }
     }
     return { history_id: row.id, saved: true };
+  }
+
+  /** 复播时的字段合并（进度/段落/时长取新值，播放次数 +1） */
+  private applyUpdate(row: PlayHistory, dto: SaveHistoryDto) {
+    row.lastPositionMs = dto.last_position_ms ?? row.lastPositionMs;
+    row.lastSegment = dto.last_segment ?? row.lastSegment;
+    row.durationMs = dto.duration_ms ?? row.durationMs;
+    row.playedCount += 1;
   }
 
   /** 查询某孩子历史（倒序，最多 100） */

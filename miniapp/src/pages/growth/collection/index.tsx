@@ -14,7 +14,7 @@ interface CollectionItem { subject: string; acquainted: number; friends: number;
 interface Sticker { key: string; name: string; subject: string | null }
 
 export default function Collection() {
-  const { selectedChildId } = useUserStore();
+  const selectedChildId = useUserStore((s) => s.selectedChildId);
   const [items, setItems] = useState<CollectionItem[]>([]);
   const [stickers, setStickers] = useState<Sticker[]>([]);
   const [locked, setLocked] = useState(false);

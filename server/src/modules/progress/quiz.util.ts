@@ -13,7 +13,7 @@
  *  - 拼音：无习题（不走普通挑战判分，靠学习完成晋级）
  *
  * ⚠️ 题库来源：当前无独立词库/题库表，选项为服务端合成（占位干扰项）。
- *    真实词库接入后替换 buildOptions() 即可，判分管线与接口契约不变（记为 TODO，见 开发文档/server/progress.md）。
+ *    真实词库接入后替换 buildOptions() 即可，判分管线与接口契约不变（记为 TODO，见 开发文档/server/README.md progress 模块）。
  */
 import { Subject } from '../../entities/learning-progress.entity';
 

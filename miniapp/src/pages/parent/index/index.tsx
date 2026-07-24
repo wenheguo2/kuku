@@ -22,7 +22,10 @@ const ENTRIES: { icon: IconName; label: string; url: string; bg: string; color: 
 ];
 
 export default function ParentCenter() {
-  const { isLogin, nickname, selectedChildId, logout } = useUserStore();
+  const isLogin = useUserStore((s) => s.isLogin);
+  const nickname = useUserStore((s) => s.nickname);
+  const selectedChildId = useUserStore((s) => s.selectedChildId);
+  const logout = useUserStore((s) => s.logout);
   const [weekly, setWeekly] = useState<Weekly | null>(null);
   const night = useNight();
 

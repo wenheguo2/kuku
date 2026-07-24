@@ -1,27 +1,28 @@
 /**
- * pages/song/player — PL-02 歌曲播放器（LRC 逐行高亮）
- * 解析 LRC（utils/lrc）→ 播放整曲 → 按 currentTime 二分定位高亮行。
- * 无 LRC 降级为纯文本（md/06 §3.3）。mock 模式用模拟时钟演示高亮。
+ * pages/song/player — PL-02 歌曲播放器（LRC 逐行高亮 + 队列续播/播放模式）
+ * 解析 LRC（utils/lrc）→ 播放整曲 → 按 currentTime 二分定位高亮行。无 LRC 降级纯文本。
+ * ★ 接入 playerStore 歌单队列：上一首/下一首（skip）+ 播放模式（顺序/单曲循环/列表循环）；
+ *   续播由 App 级 playbackQueue 全局驱动，页面只做展示订阅。mock 模式用模拟时钟演示高亮。
  */
 import { useEffect, useRef, useState } from 'react';
 import { View, Text, Slider } from '@tarojs/components';
-import Taro, { useRouter } from '@tarojs/taro';
+import { useRouter } from '@tarojs/taro';
 import { player } from '@/services/audioPlayer';
+import { playSong, skip } from '@/services/playbackQueue';
 import { CONFIG } from '@/services/config';
 import { findLrcIndex, LrcLine, parseLrc } from '@/utils/lrc';
 import { mockSong } from '@/services/mock';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
-import { tracker } from '@/services/tracker';
-import { useUserStore } from '@/stores/userStore';
+import { usePlayerStore, PlayMode } from '@/stores/playerStore';
+
+const MODE_LABEL: Record<PlayMode, string> = { order: '顺序播放', 'repeat-all': '列表循环', 'repeat-one': '单曲循环' };
 
 export default function SongPlayer() {
   const router = useRouter();
   const night = useNight();
-  const title = decodeURIComponent(router.params.title || '儿歌');
-  const audioUrl = router.params.audio ? decodeURIComponent(router.params.audio) : '';
-  const lrcUrl = router.params.lrc ? decodeURIComponent(router.params.lrc) : '';
-  const coverUrl = router.params.cover ? decodeURIComponent(router.params.cover) : '';
+  const initId = router.params.id ? decodeURIComponent(router.params.id) : '';
+  const initTitle = decodeURIComponent(router.params.title || '儿歌');
   const [lines, setLines] = useState<LrcLine[]>([]);
   const [active, setActive] = useState(-1);
   const [playing, setPlaying] = useState(false);
@@ -29,41 +30,50 @@ export default function SongPlayer() {
   const [dur, setDur] = useState(0);
   const timer = useRef<ReturnType<typeof setInterval> | null>(null);
   const t = useRef(0);
+  const linesRef = useRef<LrcLine[]>([]);
+
+  // 展示订阅：标题/播放模式随全局状态刷新（续播由全局驱动切歌时页面同步）
+  const currentTitle = usePlayerStore((s) => (s.current?.type === 'song' ? s.current.title : ''));
+  const currentId = usePlayerStore((s) => (s.current?.type === 'song' ? s.current.id : ''));
+  const playMode = usePlayerStore((s) => s.playMode);
+  const title = currentTitle || initTitle;
 
   useEffect(() => {
-    let parsed = CONFIG.USE_MOCK ? parseLrc(mockSong.lrc) : [];
+    const parsed = CONFIG.USE_MOCK ? parseLrc(mockSong.lrc) : [];
+    linesRef.current = parsed;
     setLines(parsed);
     const offTime = player.onTimeUpdate((c, d) => {
       setCur(c);
       setDur(d || 0);
-      setActive(findLrcIndex(parsed, c));
+      setActive(findLrcIndex(linesRef.current, c));
     });
-    if (!CONFIG.USE_MOCK && audioUrl) {
-      void (async () => {
-        if (lrcUrl) {
-          const response = await Taro.request<string>({ url: lrcUrl, timeout: 15_000 });
-          if (response.statusCode >= 200 && response.statusCode < 300 && typeof response.data === 'string') {
-            parsed = parseLrc(response.data);
-            setLines(parsed);
-          }
-        }
-        player.load(audioUrl, true, { title, album: '酷酷音乐厅', coverUrl });
-        setPlaying(true);
-        void tracker.track('song_play', { title }, useUserStore.getState().selectedChildId);
-      })().catch((error) => {
-        console.warn('歌曲加载失败', error);
-        Taro.showToast({ title: '歌曲加载失败', icon: 'none' });
-      });
+    // 起播：优先用队列当前歌曲项（song/list/收藏已 setQueue）；否则重置为单曲，避免残留故事队列被误当“下一首”
+    const store = usePlayerStore.getState();
+    const item = store.queue[store.queueIndex];
+    if (item && item.type === 'song' && (!initId || item.id === initId)) {
+      playSong(item);
+    } else {
+      const single = { type: 'song' as const, id: initId || initTitle, title: initTitle };
+      store.setQueue([single], 0);
+      playSong(single);
     }
+    if (!CONFIG.USE_MOCK) setPlaying(true);
     return () => { offTime(); if (timer.current) clearInterval(timer.current); };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
+  // 切歌（手动 skip 或全局续播）时重置歌词/进度/模拟时钟
+  useEffect(() => {
+    setActive(-1); setCur(0); t.current = 0;
+    if (timer.current) { clearInterval(timer.current); timer.current = null; }
+    setPlaying(!CONFIG.USE_MOCK);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [currentId]);
 
   const toggle = () => {
     if (CONFIG.USE_MOCK) {
-      // 模拟时钟推进演示 LRC 高亮
-      if (playing) { if (timer.current) clearInterval(timer.current); setPlaying(false); }
-      else {
-        timer.current = setInterval(() => { t.current += 0.5; setActive(findLrcIndex(lines, t.current)); }, 500);
+      if (playing) { if (timer.current) clearInterval(timer.current); setPlaying(false); } else {
+        timer.current = setInterval(() => { t.current += 0.5; setActive(findLrcIndex(linesRef.current, t.current)); }, 500);
         setPlaying(true);
       }
       return;
@@ -97,10 +107,18 @@ export default function SongPlayer() {
         }}
       />
       <View className="ctrls">
-        <View className="cbtn"><Icon name="prev" size={40} color="#2D3142" /></View>
+        <View className="cbtn" onClick={() => skip(-1)}><Icon name="prev" size={40} color="#2D3142" /></View>
         <View className="cbtn main" style={{ background: 'radial-gradient(circle at 35% 30%,#7EDCD4,#3FC5BC 70%,#25A39B)' }} onClick={toggle}><Icon name={playing ? 'pause' : 'play'} size={54} color="#fff" /></View>
-        <View className="cbtn"><Icon name="next" size={40} color="#2D3142" /></View>
+        <View className="cbtn" onClick={() => skip(1)}><Icon name="next" size={40} color="#2D3142" /></View>
       </View>
+      {/* 播放模式切换：顺序 / 列表循环 / 单曲循环 */}
+      <Text
+        className="chip"
+        style={{ marginTop: '20px' }}
+        onClick={() => usePlayerStore.getState().cyclePlayMode()}
+      >
+        🔁 {MODE_LABEL[playMode]}
+      </Text>
       {CONFIG.USE_MOCK && <Text style={{ fontSize: '20px', color: 'var(--color-text-secondary)', display: 'block', marginTop: '16px' }}>示例：点播放演示歌词逐行高亮</Text>}
     </View>
   );
