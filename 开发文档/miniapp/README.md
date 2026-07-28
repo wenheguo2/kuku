@@ -15,17 +15,19 @@
 | `app.tsx` | 启动恢复登录态 + 应用主题 + 全局 ErrorBoundary(渲染异常兜底防白屏、回首页自救) |
 | `config/agreements.ts` | 三份协议版本的前端单一真源，登录留痕与阅读页共同引用 |
 | `styles/variables.scss` | 设计令牌（= md/UI设计/design-tokens **v4.0**）：日/**夜间(--night-*)/鎏金(--gold-*)/故事灯(--lamp)/衬线(--font-serif)** CSS 变量；`.theme-dark`=夜间蓝，config 全局注入 |
-| `types/content.ts` | ★ 索引数据模型（中文 subject_id + structure_type/display_as/path/cover/entries/sub_categories + HomeIndex/WorkIndex） |
+| `types/content.ts` | ★ 索引数据模型（中文 subject_id + structure_type/display_as/path/cover/entries/sub_categories + HomeIndex/WorkIndex）；SegmentItem 兼容真实产出 start_ms/duration_ms；`NON_STORY_SUBJECT_IDS`(瞎编的歌曲/学科启蒙) 供故事 tab 过滤 |
+| `assets/loading.jpg` | 入包加载插画(360×360，44KB，源自 production/.../载入1.png 中心裁剪)；StateView 加载态专用，替换只需同名覆盖并控制 <60KB |
+| `assets/avatar.jpg` | 默认小听众头像(128×128，6KB，用户定稿：小程序图标缩图)；故事/歌曲/家长/会员四页 .avatar 共用，weapp 构建自动内联 base64 |
 
 ## services（服务层）
 | 文件 | 职责 |
 |:--|:--|
 | `config.ts` | 编译期注入 api/static 地址、`USE_MOCK`、release 标志；release 禁止 mock/example 域名 |
 | `api.ts` | Taro.request 封装：15 秒超时、HTTP/业务双层错误、JWT、401 去重跳登录 |
-| `storage.ts` | Taro Storage 封装（Token/Child/Theme/睡眠截止时间）——小程序无 localStorage |
+| `storage.ts` | Taro Storage 封装（Token/Child/Theme/睡眠截止时间/播放倍速 RateStore）——小程序无 localStorage |
 | `tracker.ts` | 登录、故事播放、付费点击等行为上报；失败不阻断主流程但保留告警 |
 | `indexLoader.ts` | 四级索引懒加载；15 秒超时、HTTP/JSON 校验、1 小时 TTL、并发请求合并、手动清缓存、失败回退过期旧缓存(stale-on-error 降级)；USE_MOCK 时返回 mock |
-| `audioPlayer.ts` | 全局 FullTrackPlayer：微信端 BackgroundAudioManager（锁屏/后台元数据），其他端 InnerAudioContext；可取消页面订阅、跨页续播、睡眠截止时间、显式 destroy |
+| `audioPlayer.ts` | 全局 FullTrackPlayer：微信端 BackgroundAudioManager（锁屏/后台元数据），其他端 InnerAudioContext；可取消页面订阅、跨页续播、睡眠截止时间、显式 destroy；★倍速 setRate/cycleRate（固定五挡 0.8/0.9/1.0/1.1/1.2，换曲自动保持+持久化+回写 store，低版本基础库静默降级原速） |
 | `playbackQueue.ts` | ★ 故事集/歌单续播全局驱动（App 级 initPlaybackQueue 注册一次）：曲终→queueAdvance(按播放模式)→按 type 分派 playStory/playSong；手动 skip(±1)；与播放页存活无关；playStory 用令牌防切曲竞态(丢弃过期加载) |
 | `mock.ts` | 全局/分类/segments/歌曲 mock（结构同真实） |
 | `songCatalog.ts` | 歌曲 mock 目录(SONG_CATEGORIES/ALL_SONGS)；song/list 与 搜索(song scope) 共用，避免重复维护 |
@@ -34,13 +36,13 @@
 | 文件 | 职责 |
 |:--|:--|
 | `path.ts` | ★ `buildAssetUrl`(中文路径逐段 encodeURIComponent，方式A) / `buildCoverUrl`(封面补 illustrations/ 前缀) / `buildIndexUrl` |
-| `lrc.ts` | LRC 解析 + `findLrcIndex` 二分定位高亮行 |
+| `lrc.ts` | 歌词双方案：`parseLyrics` 统一入口——含时间标签→lrc 逐句(parseLrc+findLrcIndex 二分)；无标签纯文本→plain 整首；空→none |
 | `timeline.ts` | `locateSegment` 按 currentMs 二分定位教学当前段 |
 
 ## stores（Zustand）
 - `userStore`：login/restore/logout；统一缓存用户与会员状态；401 回调完整清 token、child、会员和播放器状态
 - `settingsStore`：主题 system/light/dark（D-06）+ **睡前模式全局夜间** + 可关闭/持久化/跨页生效的睡眠定时
-- `playerStore`：迷你播放栏跨页状态 + **故事集/歌单续播队列**（泛化 QueueItem: type/id/audioUrl/lrc/cover）+ **播放模式** playMode(order/repeat-one/repeat-all) + queueAdvance/queueSkip
+- `playerStore`：迷你播放栏跨页状态 + **故事集/歌单续播队列**（泛化 QueueItem: type/id/audioUrl/lrc/cover）+ **播放模式** playMode(order/repeat-one/repeat-all) + queueAdvance/queueSkip；★`PLAYBACK_RATES=[0.8,0.9,1.0,1.1,1.2]` 倍速挡位单一来源 + playbackRate 展示态(持久化恢复，脏值回退 1.0)
 - `tabStore`：当前 Tab（自定义 TabBar 高亮用；各 tab 页 useDidShow setTab）
 
 ## hooks
@@ -49,27 +51,28 @@
 ## components（组件）
 - `Icon`：★ 跨端 SVG 图标（SVG→dataURI→Image，28 图标；weapp 不支持 `<use>`，颜色烘焙进 SVG）
 - `MiniPlayer`：GL-02 玻璃迷你播放栏（跨页常驻；tab 页上移避让 TabBar，非 tab 页贴底）
-- `StateView`：U-03/04/05 通用状态视图（SVG 图标、加载/空/错误+重试），用于收藏/历史/首页/列表/搜索
+- `TabBarV4`：★跨端共享自定义 SVG 底栏实现（书/音符/嫩芽/家庭 + 选中色条 + 夜间换色）；weapp 由 custom-tab-bar 包装注入、h5 由四个 tab 页条件渲染(内置文字 tabbar 已隐藏)；尺寸口径：Icon 内联 style 为物理 px(icon 26)、scss 数值过 pxTransform(栏高 130)
+- `StateView`：U-03/04/05 通用状态视图（加载/空/错误+重试），用于收藏/历史/首页/列表/搜索；★加载态用入包插画 `assets/loading.jpg`(44KB)+呼吸动画（兜底图必须入包，弱网时远程图恰好加载不出）
 
 ## custom-tab-bar（自定义底栏）
-- Taro 约定目录 `src/custom-tab-bar/`（+`app.config` custom:true）；用 `Icon` 渲染 4 个 SVG 线性图标(书/音符/嫩芽/家庭)；顶部橙色选中条；读 `tabStore` 高亮 + 点击 switchTab；随 `isNight` 夜间换色
+- Taro weapp 约定目录 `src/custom-tab-bar/`（+`app.config` custom:true）；实现已抽到共享组件 `components/TabBarV4`，此处仅包装（h5 端不加载本目录，由 tab 页直接渲染 TabBarV4）
 
 ## pages（页面，编号对应 md/09）
 | 页面 | ID | 说明 |
 |:--|:--|:--|
-| story/index | S-01 | 首页推荐聚合：继续收听(历史) + 🔥热点 + 📚大IP章回 + 🎧单篇轮动(换一换) + 学科网格（数据源 _home.json） |
+| story/index | S-01 | 首页推荐聚合：继续收听(历史) + 🔥热点 + 📚大IP章回 + 🎧单篇轮动(换一换) + 学科网格（数据源 _home.json；★学科网格过滤 NON_STORY_SUBJECT_IDS，歌曲/学科启蒙不入故事 tab） |
 | story/subject | S-02 | 学科页：分类卡片（subject_index.categories） |
 | story/list | S-03/05/06 | 通用浏览：按 structure_type 自适应；长列表每批渲染 50 项，避免千级内容一次挂载；加载/错误/空态接 StateView |
 | story/work | S-04 | **章回作品总入口**（如三国演义）：作品信息 + 章节目录 + 从第1章连续播放 |
-| story/player | PL-01 | **故事灯**：后台/锁屏整曲播放、字幕、历史/埋点、收藏/分享/定时/列表、队列续播（★续播由全局 playbackQueue 驱动，页面只做展示订阅） |
+| story/player | PL-01 | **故事灯**：后台/锁屏整曲播放、字幕（★时间轴自适应：mock 用 start_time/end_time 秒，真实数据按 duration_ms 累计推算近似轴）、历史/埋点、收藏/分享/倍速/定时/列表、队列续播（★续播由全局 playbackQueue 驱动，页面只做展示订阅；★倍速固定五挡循环切换） |
 | song/index | M-01 | 音乐厅：Hero + 分类 tiles(可点→song/list) + 最近播放（青绿主题） |
-| song/player | PL-02 | 真实 audio/lrc/cover + 后台音频 + LRC 高亮与可拖动进度；★接歌单队列：上/下一首(skip) + 播放模式切换(顺序/列表循环/单曲循环)；mock 才用模拟时钟 |
+| song/player | PL-02 | 真实 audio/cover + 后台音频；★歌词双方案：有时间标签→LRC 逐句高亮、纯文本→整首限高可滚、拉不到→暂无歌词(拉队列项 lrcUrl，切歌 seq 防竞态)；★接歌单队列：上/下一首(skip) + 播放模式切换(顺序/列表循环/单曲循环) + 倍速五挡循环；mock 才用模拟时钟 |
 | song/list | M-02/M-03 | 歌曲分类下钻：分类→歌曲列表→播放器；★点歌将本分类整体设为播放队列(同类续播/循环基础)；当前 mock(共享 songCatalog，与搜索同源)，接真实歌曲索引后替换数据源 |
 | growth/index | G-01 | 朋友收集册：四级进度条+图例 + 三学科统计 |
 | growth/lesson | G-02/03 | 字词列表 + 学习1(免费) + 学习2/3会员锁 UI + 去挑战；★每字显亲密度级别徽章 + 顶部按亲密度筛选(拉 /progress/:subject 合并 stage)；真实词库仍待内容接入 |
 | growth/player | PL-03 | 横屏三区(eland)：场景65%+衬线大字面板+生字金色高亮字幕条 |
 | growth/challenge | G-04 | 取题→选答→服务端判分→结果；★无惩罚·未过始终可再试；★一题一屏分步+逐题正误+加载/失败态 | 
-| growth/comprehensive | G-05/06 | 综合挑战：自动触发检查→10字作答→服务端逐字判定·只升不降→结果（会员门控） |
+| growth/comprehensive | G-05/06 | 综合挑战：自动触发检查→10字作答→服务端逐字判定·只升不降→结果（会员门控；★锁定态话术家长化“请爸爸妈妈帮忙打开”，不对孩子直接曝露付费墙） |
 | growth/collection | — | 朋友收集册可视化 + 成就贴纸（会员门控） |
 | parent/index | C-01 | 轻奢磨砂：孩子卡 + 本周统计 + 功能行 + 鎏金入口 |
 | common/login | A-01 | 狐狸吉祥物 + 微信一键登录/手机号 |
@@ -79,14 +82,16 @@
 | common/member | A-03 | **鎏金故事书匣**：缓存/刷新真实会员状态 + 三档书匣 + 下单（仅开发 stub 可自动开通） |
 | common/search | C-05 | ★按 Tab 隔离检索(scope=story/song/growth 各搜各的不串)：story→_global 学科+_home 作品→学科/作品/播放器；song→songCatalog 标题→歌曲播放器；growth→识字/英语/拼音→课程页；+ StateView |
 | common/children | A-02 | 孩子档案 CRUD + 切换 selectedChildId；★删当前选中档案自动切到剩余首个(防悬空) |
-| common/agreement | — | 用户协议、隐私政策、儿童个人信息规则草案阅读页；法务定稿前 release 门禁不放行 |
+| common/agreement | — | 用户协议、隐私政策、儿童个人信息规则草案阅读页；★儿童规则页登录态提供“撤回监护人同意”(二次确认→POST /user/consent/withdraw→登出)；法务定稿前 release 门禁不放行 |
 | common/account-delete | A-05 | 二次确认后调用 `DELETE /user`，成功后清理全部本地会话 |
 
 ## 待优化 / 已知
 - [x] ~~UI v4 典藏绘本 + 全局睡前模式 + 自定义 SVG TabBar~~ 已落地（type-check+weapp 双通）
 - [ ] **真实封面/整曲/立绘场景** 依赖内容产出：开发态 `USE_MOCK=true` 封面会 404→柔和底色块；产出后 `USE_MOCK=false` 显示
+- [ ] 真机/微信开发者工具回归未做（本机未装开发者工具）：h5 已测 R1-R7 不覆盖 weapp 专属路径——BackgroundAudioManager(后台/锁屏/倍速)、custom-tab-bar 原生注入、wx.login、原生弹窗/页面栈、安全区；装工具后可用 miniprogram-automator 重跑同套脚本
 - [ ] 真机验证：自定义 TabBar 切换/夜间换色/安全区；glass/blur 已按 weapp 能力近似(半透实底)
-- [ ] 教学/歌曲真实音频依赖 TTS 产出（R5）；真实词库/笔画数据接入
+- [ ] 教学真实音频已产出(audio/学科启蒙/…/学习1·2·3/full.mp3)；PL-03 仍 mock 时间轴，接入待真词库/课程索引（F1 工作项）；歌曲真实音频仍待产出
+- [ ] 真实音频联调验收环境：`dist-h5/`(USE_MOCK=false 产物) + 本地 server，截图存 工作区/tmp/测试截图/；正式 dist 保持 weapp 产包
 - [ ] 协议当前是开发草案；主体、联系方式、保存期限、第三方 SDK 清单需法务定稿
 - [ ] 微信 AppID、合法域名、支付凭据未申请；仅允许开发 mock/stub
 - [x] ~~ST-020/ST-001 首页推荐~~ → 已由 _home.json(脚本12) + 首页分区实现；热点现为抽样，后续可接 events 播放量
@@ -123,3 +128,11 @@
 | 2026-07-24 | 五轮审核前端健壮性整改：indexLoader 失败回退过期旧缓存(stale-on-error,弱网不白屏,FE-H02)、playbackQueue playStory 令牌防切曲竞态(丢弃过期加载,FE-H01)、app.tsx 加全局 ErrorBoundary(渲染异常兜底+回首页,FE-H03)；type-check+weapp 双通 | 落实 2026-07-24 五轮审核前端健壮性项 |
 | 2026-07-24 | 搜索 Tab 隔离(H-01)：搜索页加 scope(story/song/growth) 各搜各域不串——story 搜学科+作品、song 搜 songCatalog 歌曲、growth 搜三学科；歌曲 mock 抽 services/songCatalog 共享；story/song 入口带 scope、growth 新增搜索入口；type-check+weapp 双通 | 落实搜索 Tab 隔离原则(故事/歌曲/成长分开) |
 | 2026-07-24 | member 页文案“跟读与场景运用”→“场景运用与拓展”(去掉与决策 C-13/E-04“不做跟读”冲突的宣称，F11) | 落实五视角审查 F11 |
+| 2026-07-24 | 20 轮自审闭环：唯一真缺口——后端合规接口 POST /user/consent/withdraw 前端无入口(R2)，在 agreement 儿童规则页登录态补“撤回监护人同意”(二次确认+登出+重登需重新同意)；其余 19 轮均通过；type-check+weapp+单测三绿 | 20 轮自审报告见 md/审核归档/ |
+| 2026-07-25 | 三份多视角审核整改：综合挑战锁定态话术家长化(“这里需要爸爸妈妈帮忙打开”，儿童心理护栏，不对孩子硬曝付费墙)；mock 脏标题“还多表”→“温酒斩华雄”；type-check+weapp 双通 | 落实专家/从业者/模拟用户报告有界项 |
+| 2026-07-25 | StateView 加载态升级：纯 CSS spinner → 入包插画 assets/loading.jpg(用户供图 载入1.png 中心裁剪 360×360 JPG 44KB)+呼吸动画；types 补 *.jpg 声明；主包 0.50MB；视频转 GIF 实测 3秒/320px 即 2.8MB 否决入包方案(试样存 md/UI设计/图标与载入素材/)；type-check+weapp 双通 | 用户提供载入图/视频素材的落地与取舍 |
+| 2026-07-25 | 歌词双方案：lrc.ts 新增 parseLyrics 统一入口(有时间标签→lrc 逐句/纯文本→plain 整首/空→none)；song/player 真实态首次消费队列项 lrcUrl(此前只有 mock 有歌词)、切歌 seq 防竞态、plain 模式限高可滚(.lyr-full)；type-check+weapp 双通 | 内容侧有无 LRC 时间文件均可自适应展示歌词 |
+| 2026-07-25 | 播放倍速（产品定固定五挡 0.8/0.9/1.0/1.1/1.2，不做其他）：playerStore 新增 PLAYBACK_RATES 单一来源+playbackRate；audioPlayer 新增 setRate/cycleRate(换曲自动保持、RateStore 持久化、低版本静默降级)；故事灯功能行加“倍速”、歌曲播放器加倍速 chip，均点击循环；教学 PL-03 按既有决策不加；type-check+weapp 双通 | 用户需求：仅提供 0.8~1.2 五挡倍速 |
+| 2026-07-28 | 真实音频联调测试+两修复：①字幕时间轴自适应（真实 segments 为 start_ms=0+duration_ms，改累计推算，修字幕永停第一段）；②故事 tab 学科网格/story 搜索过滤 NON_STORY_SUBJECT_IDS（瞎编的歌曲不对用户展示、学科启蒙归成长）；③补 src/index.html(h5 模板缺失)；验收：full.mp3 206 流式播放/字幕推进/倍速持久化/封面全 200（截图存工作区/tmp/测试截图）；tsc+h5+weapp 三通 | 故事/教学 full 音频到位后首次真实联调（报告见 md/审核归档/） |
+| 2026-07-28 | 视觉巡检修复(用户反馈 TabBar/头像空)：①TabBar 抽共享 TabBarV4，h5 端四 tab 页渲染同一套 SVG 底栏(隐藏内置文字栏)，修图标尺寸口径(icon 26 物理px/栏高 130)不再裁字；②默认头像 assets/avatar.jpg(用户定稿小程序图标 128×128 6KB)接入故事/歌曲/家长/会员四处空头像圆；③夜间黑字压深底修复(成长/家长页标题补 var(--color-text))；tsc+h5+weapp 三通，主包 0.51MB，截图 04-10 复验 | 用户反馈 TabBar 空框/头像空圆 + 巡检连带发现 |
+| 2026-07-28 | 多轮全按钮交互测试(R1-R7，150+次点击，含登录态全链路/会员 stub 开通/挑战判分)：修①歌曲播放器歌名夜间色②上/下首图标夜间随 night 换色③会员页“800+”→“12000+”故事(实数口径)；澄清月亮/黑字/登录门槛为非缺陷；tsc+h5+weapp 三通 | 用户要求每按钮≥5次全面测试(报告见 md/审核归档/) |

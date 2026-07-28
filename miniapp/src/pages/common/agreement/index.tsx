@@ -1,9 +1,13 @@
 /**
  * pages/common/agreement — 协议与儿童个人信息规则阅读页
  * 当前为可运行占位文本；正式提审前由法务确认内容、主体信息、联系方式与版本号。
+ * 儿童规则页(type=children)登录态提供“撤回监护人同意”入口（POST /user/consent/withdraw，撤回后登出）。
  */
+import { useState } from 'react';
 import { ScrollView, Text, View } from '@tarojs/components';
-import { useRouter } from '@tarojs/taro';
+import Taro, { useRouter } from '@tarojs/taro';
+import { api } from '@/services/api';
+import { useUserStore } from '@/stores/userStore';
 import { useNight } from '@/hooks/useNight';
 import { AGREEMENT_VERSIONS } from '@/config/agreements';
 
@@ -42,6 +46,33 @@ export default function Agreement() {
   const type = (router.params.type || 'user') as keyof typeof CONTENT;
   const doc = CONTENT[type] || CONTENT.user;
   const night = useNight();
+  const isLogin = useUserStore((s) => s.isLogin);
+  const logout = useUserStore((s) => s.logout);
+  const [submitting, setSubmitting] = useState(false);
+
+  // 监护人撤回同意（合规闭环）：二次确认 → 服务端留痕 withdrawn_at → 本地登出，再次登录需重新同意
+  const withdrawConsent = async () => {
+    if (submitting) return;
+    const res = await Taro.showModal({
+      title: '撤回监护人同意',
+      content: '撤回后将退出登录，孩子档案与成长功能暂停使用；再次登录需重新阅读并同意各项协议。',
+      confirmText: '确认撤回',
+      cancelText: '再想想',
+    });
+    if (!res.confirm) return;
+    setSubmitting(true);
+    try {
+      await api.post('/user/consent/withdraw', {});
+      logout();
+      Taro.showToast({ title: '已撤回同意，已退出登录', icon: 'none' });
+      setTimeout(() => Taro.reLaunch({ url: '/pages/story/index/index' }), 600);
+    } catch (error) {
+      console.warn('撤回同意失败', error);
+      Taro.showToast({ title: '撤回失败，请稍后再试', icon: 'none' });
+    } finally {
+      setSubmitting(false);
+    }
+  };
 
   return (
     <ScrollView scrollY className={`page-container ${night}`}>
@@ -55,6 +86,11 @@ export default function Agreement() {
           <Text className="ds" style={{ lineHeight: 1.8 }}>{section}</Text>
         </View>
       ))}
+      {type === 'children' && isLogin && (
+        <View className={`btn-ghost ${submitting ? 'disabled' : ''}`} onClick={withdrawConsent} style={{ margin: '8px 4px 0' }}>
+          撤回监护人同意
+        </View>
+      )}
       <Text className="muted" style={{ display: 'block', padding: '20px 0 40px' }}>
         提醒：本文目前是开发联调用草案，正式发布前必须补齐运营主体、联系方式、存储期限、第三方 SDK 清单并经法务确认。
       </Text>

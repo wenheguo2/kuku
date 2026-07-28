@@ -1,12 +1,18 @@
 /**
- * lrc.ts — LRC 歌词解析（对齐 md/07 脚本3 输出格式）
- * 解析 [mm:ss.xx]文本 行 → 有序 { time(秒), text } 数组；忽略 [ti:]/[ar:] 等元信息。
- * 无 LRC 时前端降级为纯文本歌词（md/06 §3.3）。
+ * lrc.ts — 歌词解析（对齐 md/07 脚本3 输出格式）
+ * 双方案：有 [mm:ss] 时间标签→逐句高亮(lrc)；无时间标签的纯文本→整首展示(plain)；空/拉不到→none。
+ * 统一入口 parseLyrics()，内容侧给 .lrc 或纯文本歌词文件均可自适应（md/06 §3.3）。
  */
 export interface LrcLine {
   time: number; // 秒
   text: string;
 }
+
+/** 歌词文档：lrc=带时间轴逐句；plain=纯文本整首；none=无歌词 */
+export type LyricsDoc =
+  | { mode: 'lrc'; lines: LrcLine[] }
+  | { mode: 'plain'; lines: string[] }
+  | { mode: 'none' };
 
 const TIME_TAG = /\[(\d{1,2}):(\d{1,2}(?:\.\d{1,3})?)\]/g;
 
@@ -47,4 +53,21 @@ export function findLrcIndex(lines: LrcLine[], currentSec: number): number {
     }
   }
   return ans;
+}
+
+const META_LINE = /^\[(ti|ar|al|by|offset|re|ve)\b[^\]]*\]\s*$/i;
+
+/**
+ * 双方案统一入口：有时间标签→逐句(lrc)；无时间标签但有文本→整首(plain)；否则 none
+ * @param raw 歌词原始文本（.lrc 或纯文本，可空）
+ */
+export function parseLyrics(raw?: string | null): LyricsDoc {
+  if (!raw || !raw.trim()) return { mode: 'none' };
+  const lrcLines = parseLrc(raw);
+  if (lrcLines.length > 0) return { mode: 'lrc', lines: lrcLines };
+  const plain = raw
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .filter((line) => line && !META_LINE.test(line));
+  return plain.length > 0 ? { mode: 'plain', lines: plain } : { mode: 'none' };
 }

@@ -3,7 +3,8 @@
  * 三档套餐（月¥9.9/季¥26/年¥88 主推）；下单 POST /orders（stub 直接开通）。
  */
 import { useState } from 'react';
-import { View, Text, ScrollView } from '@tarojs/components';
+import { View, Text, ScrollView, Image } from '@tarojs/components';
+import avatarImg from '@/assets/avatar.jpg';
 import Taro, { useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
@@ -60,12 +61,12 @@ export default function Member() {
       <View style={{ textAlign: 'center', padding: '14px 20px 0' }}>
         <Text style={{ fontSize: '18px', letterSpacing: '6px', opacity: 0.6, fontWeight: 800, display: 'block' }}>STORY PREMIUM</Text>
         <Text className="serif" style={{ fontSize: '40px', fontWeight: 800, marginTop: '8px', color: '#FFE9A8', display: 'block' }}>鎏金故事书匣</Text>
-        <Text style={{ fontSize: '21px', opacity: 0.65, marginTop: '10px', display: 'block' }}>全馆 800+ 故事 · 每晚新故事 · 无广告纯净</Text>
+        <Text style={{ fontSize: '21px', opacity: 0.65, marginTop: '10px', display: 'block' }}>全馆 12000+ 故事 · 每晚新故事 · 无广告纯净</Text>
       </View>
 
       {/* 专属书匣卡 */}
       <View style={{ margin: '24px 0 8px', background: 'linear-gradient(135deg,rgba(255,233,168,.14),rgba(255,201,60,.06))', border: '1px solid rgba(255,201,60,.4)', borderRadius: '32px', padding: '24px', display: 'flex', alignItems: 'center', gap: '20px' }}>
-        <View className="avatar" style={{ borderColor: '#FFE9A8' }} />
+        <Image className="avatar" src={avatarImg} mode="aspectFill" ariaLabel="小听众头像" style={{ borderColor: '#FFE9A8' }} />
         <View className="flex-1">
           <Text style={{ fontSize: '26px', fontWeight: 800, display: 'block' }}>{isLogin ? `${nickname || '小听众'}的专属书匣` : '开启你的专属书匣'}</Text>
           <Text style={{ fontSize: '20px', opacity: 0.6, marginTop: '6px', display: 'block' }}>{membershipStatus === 'active' ? `会员有效期至 ${membershipEndDate}` : '尚未开通'}</Text>

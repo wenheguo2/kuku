@@ -5,7 +5,8 @@
  * 后台播放：生产可切换为 getBackgroundAudioManager（app.config requiredBackgroundModes:['audio']）。
  */
 import Taro from '@tarojs/taro';
-import { usePlayerStore } from '@/stores/playerStore';
+import { usePlayerStore, PLAYBACK_RATES } from '@/stores/playerStore';
+import { RateStore } from '@/services/storage';
 
 type TimeCb = (currentSec: number, durationSec: number) => void;
 type AudioContext = Taro.InnerAudioContext | Taro.BackgroundAudioManager;
@@ -27,6 +28,8 @@ class FullTrackPlayer {
   private sleepTimer: ReturnType<typeof setTimeout> | null = null;
   /** 睡眠定时到点回调（由 settingsStore 注册：复位播放态 + 清定时 store） */
   private sleepCb: (() => void) | null = null;
+  /** 播放倍速（仅允许 PLAYBACK_RATES 五挡）；换曲后自动重新应用，启动时从持久化恢复 */
+  private rate = usePlayerStore.getState().playbackRate;
 
   /** 曲终统一分发：页面临时订阅 + App 级续播驱动 */
   private emitEnded(): void {
@@ -47,6 +50,7 @@ class FullTrackPlayer {
       this.ctx = ctx;
       // BackgroundAudioManager 设置 src 后会自动播放。
       ctx.src = src;
+      this.applyRate();
       if (!autoplay) ctx.pause();
       return;
     }
@@ -60,7 +64,36 @@ class FullTrackPlayer {
       Taro.showToast({ title: '音频播放失败，请稍后重试', icon: 'none' });
     });
     this.ctx = ctx;
+    this.applyRate();
     if (autoplay) ctx.play();
+  }
+
+  /** 把当前倍速应用到活跃音频上下文（换曲/新建 ctx 后需重新设置；1.0 也显式设，覆盖残留值） */
+  private applyRate(): void {
+    try {
+      if (this.ctx && 'playbackRate' in this.ctx) {
+        (this.ctx as { playbackRate: number }).playbackRate = this.rate;
+      }
+    } catch {
+      /* 低版本基础库不支持时静默降级原速 */
+    }
+  }
+
+  /** 设置播放倍速（仅收 PLAYBACK_RATES 五挡，非法值忽略）：应用到当前音频 + 持久化 + 回写 store */
+  setRate(rate: number): void {
+    if (!(PLAYBACK_RATES as readonly number[]).includes(rate)) return;
+    this.rate = rate;
+    this.applyRate();
+    RateStore.set(rate);
+    usePlayerStore.getState().setPlaybackRate(rate);
+  }
+
+  /** 循环切到下一挡倍速（0.8→0.9→1.0→1.1→1.2→0.8），返回新挡位 */
+  cycleRate(): number {
+    const rates = PLAYBACK_RATES as readonly number[];
+    const next = rates[(rates.indexOf(this.rate) + 1) % rates.length];
+    this.setRate(next);
+    return next;
   }
 
   /** 微信小程序后台播放器为全局单例，事件只绑定一次，避免换曲累积监听。 */

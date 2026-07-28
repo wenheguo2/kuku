@@ -78,9 +78,9 @@ export default function Comprehensive() {
     return (
       <View className={`center ${night}`}>
         <Text className="emoji-xl">👑</Text>
-        <Text style={{ fontSize: '38px', fontWeight: 800, display: 'block', margin: '8px 0' }}>综合挑战是会员专属</Text>
-        <Text className="muted" style={{ marginBottom: '28px' }}>开通会员解锁综合挑战，升级“好伙伴”</Text>
-        <View className="btn-primary" style={{ width: '360px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/member/index' })}>去开通会员</View>
+        <Text style={{ fontSize: '38px', fontWeight: 800, display: 'block', margin: '8px 0' }}>这里需要爸爸妈妈帮忙打开</Text>
+        <Text className="muted" style={{ marginBottom: '28px' }}>和家长商量一下，开启后就能升级“好伙伴”啦</Text>
+        <View className="btn-primary" style={{ width: '360px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/member/index' })}>请家长来看看</View>
       </View>
     );
   }

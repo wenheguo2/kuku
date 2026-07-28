@@ -52,6 +52,14 @@ CAND_ROOT = ILLUST_DIR / "covers_generated_temp" / "瞎编的歌曲"
 # 正式目录(用户要求先放 illustrations 下; 选定后写入)
 FINAL_ROOT = ILLUST_DIR / "covers" / "瞎编的歌曲"
 LOG_DIR = SCRIPT_DIR / "logs"
+# 提示词覆盖(为反复失败的歌曲单独指定安全提示词); 键=歌曲相对路径
+OVERRIDE_PATH = SCRIPT_DIR / "song_prompt_overrides.json"
+SONG_PROMPT_OVERRIDES = {}
+if OVERRIDE_PATH.exists():
+    try:
+        SONG_PROMPT_OVERRIDES = json.loads(OVERRIDE_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        SONG_PROMPT_OVERRIDES = {}
 
 # 每首歌生成的候选张数(默认 1 张; 之前曾用 3 张供挑选)
 GENERATE_NUM = 1
@@ -266,7 +274,8 @@ def collect_tasks(limit=None, force=False, types=None):
     for p in song_files:
         type_label, title, desc, scene = parse_header(p)
         song_dir = CAND_ROOT / str(p.relative_to(SONGS_ROOT))[:-4]
-        prompt = build_prompt(type_label, title, desc, scene)
+        rel = str(p.relative_to(SONGS_ROOT))
+        prompt = SONG_PROMPT_OVERRIDES.get(rel) or build_prompt(type_label, title, desc, scene)
         # 整首跳过判断(已集齐)
         if force is False and song_dir.exists():
             valid = [f for f in song_dir.glob(f"{p.stem}_*.png") if is_valid_png(f)]

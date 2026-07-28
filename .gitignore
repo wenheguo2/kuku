@@ -102,7 +102,7 @@ Python312/
 # ✅ md/ - 所有文档
 # ✅ Agents/ - Agent代码
 # ✅ 脚本/ - 生产脚本
-# ✅ config/ - 配置（脱敏后）
+# ⚠️ config/ - 配置：必须脱敏后才可提交；tts_providers.json 含密钥，已在下方强制忽略
 # ✅ templates/ - 模板
 # ✅ production/index/ - 索引文件
 # ❌ production/generated_stories/ - 故事JSON（35万+文件，应存CDN/OSS）
@@ -110,6 +110,9 @@ Python312/
 # ✅ .gitignore
 
 .swc/
+
+# 密钥防护：TTS 供应商配置含明文 API Key，禁止入库（key 应移入 .env 并在服务商侧轮换）
+config/tts_providers.json
 
 *.tsbuildinfo
 

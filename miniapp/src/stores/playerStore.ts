@@ -4,8 +4,17 @@
  * 播放模式：order 顺序播完停 / repeat-one 单曲循环 / repeat-all 列表循环。
  */
 import { create } from 'zustand';
+import { RateStore } from '@/services/storage';
 
 export type PlayMode = 'order' | 'repeat-one' | 'repeat-all';
+
+/** ★产品固定倍速挡位（仅此 5 挡，不做其他）；循环切换顺序按数组顺序 | 单一来源 */
+export const PLAYBACK_RATES = [0.8, 0.9, 1.0, 1.1, 1.2] as const;
+
+/** 持久化倍速合法化：不在 5 挡内（历史脏值）一律回退 1.0 */
+function sanitizeRate(value: number | null): number {
+  return value !== null && (PLAYBACK_RATES as readonly number[]).includes(value) ? value : 1.0;
+}
 
 export interface NowPlaying {
   type: 'story' | 'song' | 'lesson';
@@ -32,12 +41,15 @@ interface PlayerState {
   queue: QueueItem[];
   queueIndex: number;
   playMode: PlayMode;
+  /** 播放倍速（展示态；实际变速由 audioPlayer.setRate 应用并回写这里） */
+  playbackRate: number;
   setCurrent: (n: NowPlaying) => void;
   setPlaying: (p: boolean) => void;
   setTime: (cur: number, dur: number) => void;
   /** 设置队列并定位到起始项 */
   setQueue: (list: QueueItem[], index: number) => void;
   setPlayMode: (mode: PlayMode) => void;
+  setPlaybackRate: (rate: number) => void;
   /** 循环切换播放模式：order → repeat-all → repeat-one → order */
   cyclePlayMode: () => PlayMode;
   /** 曲终自动推进：repeat-one 返回当前项(不动索引)；repeat-all 到底回卷；order 到底返回 null */
@@ -55,11 +67,13 @@ export const usePlayerStore = create<PlayerState>((set, get) => ({
   queue: [],
   queueIndex: 0,
   playMode: 'order',
+  playbackRate: sanitizeRate(RateStore.get()),
   setCurrent: (n) => set({ current: n }),
   setPlaying: (p) => set({ isPlaying: p }),
   setTime: (cur, dur) => set({ currentSec: cur, durationSec: dur }),
   setQueue: (list, index) => set({ queue: list, queueIndex: index }),
   setPlayMode: (mode) => set({ playMode: mode }),
+  setPlaybackRate: (rate) => set({ playbackRate: sanitizeRate(rate) }),
   cyclePlayMode: () => {
     const order: PlayMode[] = ['order', 'repeat-all', 'repeat-one'];
     const next = order[(order.indexOf(get().playMode) + 1) % order.length];

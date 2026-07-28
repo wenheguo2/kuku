@@ -4,7 +4,7 @@
  * 播放控制：播放/暂停 + 进度拖动；上报播放历史（POST /history）。
  * ★ 故事集自动续播：播完触发 playerStore.nextInQueue → 自动加载下一篇（GL-02 迷你栏同步）。
  */
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { View, Text, Image, Slider } from '@tarojs/components';
 import Taro, { useRouter } from '@tarojs/taro';
 import { indexLoader } from '@/services/indexLoader';
@@ -97,8 +97,19 @@ export default function StoryPlayer() {
     else { player.play(); setPlaying(true); usePlayerStore.getState().setPlaying(true); }
   };
 
-  const curSeg = (data?.segments ?? []).find((s) => (s.start_time ?? 0) <= cur && cur < (s.end_time ?? 1e9));
+  // 字幕时间轴自适应：mock 用 start_time/end_time(秒)；真实 segments 为 start_ms/duration_ms(毫秒，start_ms 多为 0 → 按 duration_ms 累计推算，配音对齐前为近似时间轴)
+  const timedSegments = useMemo(() => {
+    let accMs = 0;
+    return (data?.segments ?? []).map((s) => {
+      const startMs = s.start_time != null ? s.start_time * 1000 : (s.start_ms && s.start_ms > 0 ? s.start_ms : accMs);
+      const endMs = s.end_time != null ? s.end_time * 1000 : startMs + (s.duration_ms ?? 0);
+      accMs = endMs;
+      return { text: s.text, startSec: startMs / 1000, endSec: endMs / 1000 };
+    });
+  }, [data]);
+  const curSeg = timedSegments.find((s) => s.startSec <= cur && cur < s.endSec) ?? (cur > 0 ? timedSegments[timedSegments.length - 1] : timedSegments[0]);
   const hasQueue = usePlayerStore((s) => s.queue.length > 1);
+  const playbackRate = usePlayerStore((s) => s.playbackRate); // 固定五挡 0.8~1.2，点击循环切换
   const fmt = (s: number) => { const m = Math.floor(s / 60); const ss = Math.floor(s % 60); return `${m}:${ss < 10 ? '0' : ''}${ss}`; };
   const playNext = () => { skip(1); };
   const favorite = async () => {
@@ -162,6 +173,7 @@ export default function StoryPlayer() {
         <View className="pfns">
           <View className="fn" onClick={() => void favorite()}><Icon name="heart" size={40} color="#fff" /><Text>收藏</Text></View>
           <View className="fn" onClick={share}><Icon name="share" size={40} color="#fff" /><Text>分享</Text></View>
+          <View className="fn" onClick={() => player.cycleRate()}><Text style={{ fontSize: '32px', fontWeight: 800, lineHeight: '40px', height: '40px' }}>{playbackRate.toFixed(1)}x</Text><Text>倍速</Text></View>
           <View className="fn" onClick={() => Taro.navigateTo({ url: '/pages/common/settings/index' })}><Icon name="timer" size={40} color="#fff" /><Text>定时</Text></View>
           <View className="fn" onClick={() => Taro.navigateBack().catch(() => Taro.switchTab({ url: '/pages/story/index/index' }))}><Icon name="list" size={40} color="#fff" /><Text>列表</Text></View>
         </View>

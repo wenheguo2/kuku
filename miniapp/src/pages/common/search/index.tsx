@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react';
 import { View, Text, Input } from '@tarojs/components';
 import Taro, { useRouter } from '@tarojs/taro';
 import { indexLoader } from '@/services/indexLoader';
-import { GlobalIndex, HomeIndex } from '@/types/content';
+import { GlobalIndex, HomeIndex, NON_STORY_SUBJECT_IDS } from '@/types/content';
 import { ALL_SONGS } from '@/services/songCatalog';
 import StateView from '@/components/StateView';
 import { useNight } from '@/hooks/useNight';
@@ -57,7 +57,7 @@ export default function Search() {
   const hits: Hit[] = [];
   if (q && scope === 'story') {
     (global?.subjects ?? [])
-      .filter((s) => s.subject_name.includes(q))
+      .filter((s) => !NON_STORY_SUBJECT_IDS.includes(s.subject_id) && s.subject_name.includes(q))
       .forEach((s) => hits.push({ key: `sub-${s.subject_id}`, badge: '学科', thumb: '📚', title: s.subject_name, sub: `${s.total_entries} 个故事`, onClick: () => Taro.navigateTo({ url: `/pages/story/subject/index?subject=${encodeURIComponent(s.subject_id)}` }) }));
     (home?.chaptered_works ?? [])
       .filter((w) => w.title.includes(q))

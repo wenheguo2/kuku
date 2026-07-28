@@ -8,12 +8,14 @@ import Taro, { useDidShow } from '@tarojs/taro';
 import { indexLoader } from '@/services/indexLoader';
 import { api } from '@/services/api';
 import { buildCoverUrl } from '@/utils/path';
-import { GlobalIndex, HomeIndex, HomeHot } from '@/types/content';
+import { GlobalIndex, HomeIndex, HomeHot, NON_STORY_SUBJECT_IDS } from '@/types/content';
 import { usePlayerStore } from '@/stores/playerStore';
 import { useUserStore } from '@/stores/userStore';
 import { useSettingsStore } from '@/stores/settingsStore';
 import { useTabStore } from '@/stores/tabStore';
 import MiniPlayer from '@/components/MiniPlayer';
+import TabBarV4 from '@/components/TabBarV4';
+import avatarImg from '@/assets/avatar.jpg';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
 import StateView from '@/components/StateView';
@@ -90,7 +92,7 @@ export default function StoryHome() {
       >
       {/* 问候头 */}
       <View className="greet">
-        <View className="avatar" />
+        <Image className="avatar" src={avatarImg} mode="aspectFill" ariaLabel="小听众头像" />
         <View className="flex-1">
           <Text className="hi">{isLogin ? `你好，${nickname || '小听众'} 🌙` : '晚上好，小听众 🌙'}</Text>
           <Text className="big serif">今天想听什么故事呀？</Text>
@@ -171,7 +173,7 @@ export default function StoryHome() {
       {/* 故事学科 tiles */}
       <View className="sec-h"><Text className="t">故事学科</Text><Text className="m">全部 ›</Text></View>
       <View className="tilegrid">
-        {(global?.subjects ?? []).map((s) => (
+        {(global?.subjects ?? []).filter((s) => !NON_STORY_SUBJECT_IDS.includes(s.subject_id)).map((s) => (
           <View key={s.subject_id} className="tile" onClick={() => goSubject(s.subject_id)}>
             {buildCoverUrl(s.cover?.cover_image_url) ? <Image className="cover" src={buildCoverUrl(s.cover?.cover_image_url)} mode="aspectFill" ariaLabel={`${s.subject_name}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#FFB067,#FF8C42)' }} />}
             <View className="shade" />
@@ -181,6 +183,7 @@ export default function StoryHome() {
       </View>
       </StateView>
       <MiniPlayer />
+      {process.env.TARO_ENV === 'h5' && <TabBarV4 />}
     </ScrollView>
   );
 }

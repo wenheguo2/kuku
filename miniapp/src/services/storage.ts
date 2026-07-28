@@ -8,6 +8,7 @@ const TOKEN_KEY = 'kuku_token';
 const CHILD_KEY = 'kuku_selected_child';
 const THEME_KEY = 'kuku_theme';
 const SLEEP_TIMER_DEADLINE_KEY = 'kuku_sleep_timer_deadline';
+const PLAYBACK_RATE_KEY = 'kuku_playback_rate';
 
 export const storage = {
   get<T = unknown>(key: string): T | null {
@@ -55,4 +56,10 @@ export const SleepTimerStore = {
   get: () => storage.get<number>(SLEEP_TIMER_DEADLINE_KEY),
   set: (deadline: number) => storage.set(SLEEP_TIMER_DEADLINE_KEY, deadline),
   clear: () => storage.remove(SLEEP_TIMER_DEADLINE_KEY),
+};
+
+/** 播放倍速持久化（用户偏好，重启保持） */
+export const RateStore = {
+  get: () => storage.get<number>(PLAYBACK_RATE_KEY),
+  set: (rate: number) => storage.set(PLAYBACK_RATE_KEY, rate),
 };

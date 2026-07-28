@@ -41,6 +41,10 @@ export function validateEnvironment(raw: Record<string, unknown>): Record<string
     if (!raw.ADMIN_USERNAME || !validAdminScrypt(raw.ADMIN_PASSWORD_SCRYPT)) {
       errors.push('release/production 必须配置 ADMIN_USERNAME 与 ADMIN_PASSWORD_SCRYPT');
     }
+    const adminJwtSecret = String(raw.ADMIN_JWT_SECRET ?? '');
+    if (adminJwtSecret.length < 32 || adminJwtSecret === jwtSecret) {
+      errors.push('release/production 必须配置独立的 ADMIN_JWT_SECRET（≥32 位且不得与 JWT_SECRET 相同）');
+    }
     const agreementVersions = [
       raw.USER_AGREEMENT_VERSION,
       raw.PRIVACY_VERSION,

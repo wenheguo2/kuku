@@ -143,10 +143,18 @@ export interface SegmentsData {
 }
 
 export interface SegmentItem {
-  segment_id: number | string;
+  segment_id?: number | string;
+  /** 真实产出 segments.json 的段 id（如 group_read_0/scene_1） */
+  id?: string;
   seq?: number;
   start_time?: number;
   end_time?: number;
+  /** 真实产出：毫秒时间轴（start_ms 多为 0，需按 duration_ms 累计推算） */
+  start_ms?: number;
+  duration_ms?: number;
   audio_url?: string;
   text?: string;
 }
+
+/** ★非故事学科（歌曲归歌曲 tab、学科启蒙归成长 tab）：故事 tab 学科网格/story 搜索一律过滤，Tab 隔离原则 */
+export const NON_STORY_SUBJECT_IDS = ['瞎编的歌曲', '学科启蒙'];

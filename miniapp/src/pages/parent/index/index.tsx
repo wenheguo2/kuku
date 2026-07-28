@@ -3,11 +3,13 @@
  * 展示孩子/本周成长（GET /parent/progress/weekly）+ 收藏/历史/定时/会员/设置入口。
  */
 import { useState } from 'react';
-import { View, Text, ScrollView } from '@tarojs/components';
+import { View, Text, ScrollView, Image } from '@tarojs/components';
 import Taro, { useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
 import Icon, { IconName } from '@/components/Icon';
+import TabBarV4 from '@/components/TabBarV4';
+import avatarImg from '@/assets/avatar.jpg';
 import { useNight } from '@/hooks/useNight';
 import { useTabStore } from '@/stores/tabStore';
 
@@ -42,13 +44,13 @@ export default function ParentCenter() {
 
   return (
     <ScrollView scrollY className={`page-v4 has-tab ${night}`}>
-      <Text className="serif" style={{ fontSize: '34px', fontWeight: 800, textAlign: 'center', padding: '10px 0 16px', display: 'block' }}>家长中心</Text>
+      <Text className="serif" style={{ fontSize: '34px', fontWeight: 800, textAlign: 'center', padding: '10px 0 16px', display: 'block', color: 'var(--color-text)' }}>家长中心</Text>
 
       {/* 孩子磨砂卡 */}
       <View className="kid">
-        <View className="avatar" />
+        <Image className="avatar" src={avatarImg} mode="aspectFill" ariaLabel="小听众头像" />
         <View className="flex-1">
-          <Text style={{ fontSize: '30px', fontWeight: 800, display: 'block' }}>{isLogin ? (nickname || '宝宝') : '未登录'}</Text>
+          <Text style={{ fontSize: '30px', fontWeight: 800, display: 'block', color: 'var(--color-text)' }}>{isLogin ? (nickname || '宝宝') : '未登录'}</Text>
           <Text style={{ fontSize: '21px', color: 'var(--color-text-secondary)', marginTop: '4px', display: 'block' }}>{isLogin ? '陪伴成长中' : '点击登录记录成长'}</Text>
         </View>
         <Text style={{ fontSize: '22px', color: 'var(--color-primary)', fontWeight: 800 }} onClick={() => nav(isLogin ? '/pages/common/children/index' : '/pages/common/login/index')}>{isLogin ? '管理 ›' : '登录 ›'}</Text>
@@ -87,6 +89,7 @@ export default function ParentCenter() {
         <Text style={{ fontSize: '19px', color: 'var(--color-text-secondary)' }}> · </Text>
         <Text style={{ fontSize: '19px', color: 'var(--color-primary)' }} onClick={() => nav('/pages/common/agreement/index?type=privacy')}>隐私政策</Text>
       </View>
+      {process.env.TARO_ENV === 'h5' && <TabBarV4 />}
     </ScrollView>
   );
 }

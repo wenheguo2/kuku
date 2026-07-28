@@ -40,7 +40,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from common import (
     find_teaching_units, get_segments_json, get_ordered_segments,
     check_segments_completeness,
-    save_log, save_failures, print_progress,
+    save_log, save_failures, save_incomplete, print_progress,
     add_merge_args, banner,
     get_duration_seconds, generate_silence_file,
     build_concat_list, normalize_segment, merge_with_ffmpeg, cleanup_temp_dirs,
@@ -54,35 +54,42 @@ DEFAULT_GAP = 0.5
 def merge_teaching_unit(audio_dir, gap=DEFAULT_GAP,
                         normalize=True, fade=True, force=False,
                         allow_incomplete=False):
-    """合并一个教学单元 → full.mp3 + timeline.json（★ v5: 逐段WPM归一化）"""
+    """合并一个教学单元 → full.mp3 + timeline.json（★ v5: 逐段WPM归一化）
+
+    ★ 缺段处理：allow_incomplete=True（默认开启）时，缺失段被跳过，
+      仍用已有段合成；缺段明细通过返回的第4元素传出，供主流程写入日志。
+    """
     full_mp3 = audio_dir / "full.mp3"
     timeline_file = audio_dir / "timeline.json"
 
     if full_mp3.exists() and timeline_file.exists() and not force:
-        return ("skip", str(audio_dir), "already exists")
+        return ("skip", str(audio_dir), "already exists", None)
 
     # ★ v5: 读取 segments.json 并按 seq 排序，找不到则跳过
     seg_data = get_segments_json(audio_dir)
     ordered, err = get_ordered_segments(audio_dir, seg_data)
     if err:
-        return ("skip", str(audio_dir), err)
+        return ("skip", str(audio_dir), err, None)
     if not ordered:
-        return ("skip", str(audio_dir), "no matched segments")
+        return ("skip", str(audio_dir), "no matched segments", None)
 
-    # 完整性校验
+    # 完整性校验：计算缺段明细（含 id/character/text 供日志记录）
     is_complete, missing = check_segments_completeness(ordered)
     if not is_complete and not allow_incomplete:
         missing_ids = [f"seq{m['seq']}({m['id']})" for m in missing]
         return ("incomplete", str(audio_dir),
-                f"missing {len(missing)} segments: {', '.join(missing_ids[:5])}")
+                f"missing {len(missing)} segments: {', '.join(missing_ids[:5])}", missing)
 
     # 过滤掉没有对应音频文件的 segment
     audio_entries = [(name, seg) for name, seg in ordered if name is not None]
     if len(audio_entries) <= 1:
-        return ("skip", str(audio_dir), "single file, no merge needed")
+        return ("skip", str(audio_dir), "single file, no merge needed", None)
 
     mp3_files = [name for name, _ in audio_entries]
     segments = [seg for _, seg in audio_entries]
+
+    # ★ 开始合成时实时打印（skip 的不会走到这里）
+    print(f"  ★ 正在合成: {audio_dir.parent.name}/{audio_dir.name} ({len(audio_entries)} 段)", flush=True)
 
     # 临时工作目录
     temp_dir = audio_dir / "_tmp_merge"
@@ -103,7 +110,7 @@ def merge_teaching_unit(audio_dir, gap=DEFAULT_GAP,
             # ffprobe 实测原始时长
             raw_dur = get_duration_seconds(src)
             if raw_dur is None:
-                return ("fail", str(audio_dir), f"ffprobe failed: {mp3_name}")
+                return ("fail", str(audio_dir), f"ffprobe failed: {mp3_name}", None)
 
             # ★ v5: 计算逐段 atempo
             text = seg.get("text", "") if seg else ""
@@ -119,13 +126,13 @@ def merge_teaching_unit(audio_dir, gap=DEFAULT_GAP,
 
             # 逐段 normalize（atempo + loudnorm）
             if not normalize_segment(src, dst, speed=atempo, normalize=normalize):
-                return ("fail", str(audio_dir), f"normalize failed: {mp3_name}")
+                return ("fail", str(audio_dir), f"normalize failed: {mp3_name}", None)
             norm_files.append(dst)
 
             # ★ v5: ffprobe 实测 normalize 后的时长（就是最终播放时长）
             norm_dur = get_duration_seconds(dst)
             if norm_dur is None:
-                return ("fail", str(audio_dir), f"ffprobe norm failed: {mp3_name}")
+                return ("fail", str(audio_dir), f"ffprobe norm failed: {mp3_name}", None)
             norm_durations.append(norm_dur)
 
         # ---- Step 2: 生成静音文件 + concat 列表 ----
@@ -133,7 +140,7 @@ def merge_teaching_unit(audio_dir, gap=DEFAULT_GAP,
         if gap > 0 and len(norm_files) > 1:
             silence_file = temp_dir / "silence.mp3"
             if not generate_silence_file(silence_file, gap):
-                return ("fail", str(audio_dir), "silence generation failed")
+                return ("fail", str(audio_dir), "silence generation failed", None)
 
         concat_list = temp_dir / "concat_list.txt"
         build_concat_list(concat_list, norm_files, silence_file, gap)
@@ -150,7 +157,7 @@ def merge_teaching_unit(audio_dir, gap=DEFAULT_GAP,
 
         if not success:
             full_mp3.unlink(missing_ok=True)
-            return ("fail", str(audio_dir), error)
+            return ("fail", str(audio_dir), error, None)
 
         # ---- Step 5: ★★ 生成 timeline.json（v5 简化）----
         # timeline 时长 = normalize 后 ffprobe 实测时长（就是最终播放时长）
@@ -213,7 +220,7 @@ def merge_teaching_unit(audio_dir, gap=DEFAULT_GAP,
                f"atempo={atempo_range}, {size_mb:.1f}MB")
         if not is_complete:
             msg += f" (WARNING: {len(missing)} segments missing)"
-        return ("ok", str(audio_dir), msg)
+        return ("ok", str(audio_dir), msg, (missing if missing else None))
 
     finally:
         shutil.rmtree(temp_dir, ignore_errors=True)
@@ -226,13 +233,17 @@ def main():
     fade = not args.no_fade
     normalize = not args.no_normalize
 
+    # ★ 教学合成默认允许缺段：缺失段跳过，仍用已有段合成；缺段明细仅记录日志
+    allow_incomplete = True
+
     banner("脚本2: 教学合并MP3 + timeline.json (v6)")
     print(f"  参数: gap={gap}s  normalize={normalize}  fade={fade}")
     print(f"  ★ WPM区间归一化: {WPM_LOW}-{WPM_HIGH}区间不改, >{WPM_HIGH}降速, <{WPM_LOW}加速")
     print(f"  码率: 96kbps CBR 24kHz mono")
     print(f"  排序: 按 segments.json seq 字段（找不到则跳过）")
     print(f"  timeline: normalize后ffprobe实测（精准对齐）")
-    print(f"  完整性: {'允许缺段' if args.allow_incomplete else '缺段即跳过'}")
+    print(f"  完整性: 允许缺段(默认) — 缺段仅记录到 02_teaching_merge_incomplete.json")
+    print(f"  断点: 已有 full.mp3 + timeline.json 自动跳过")
     print(f"  线程: {args.workers}")
     print()
 
@@ -291,24 +302,47 @@ def main():
 
     results = {"ok": 0, "skip": 0, "fail": 0, "incomplete": 0}
     failures = []
+    incomplete_records = []
     start_time = time.time()
+    total = len(units)
 
     with ThreadPoolExecutor(max_workers=args.workers) as executor:
         futures = {
             executor.submit(merge_teaching_unit, u, gap, normalize, fade,
-                           args.force, args.allow_incomplete): u
+                           args.force, allow_incomplete): u
             for u in units
         }
         for i, future in enumerate(as_completed(futures)):
-            status, path, msg = future.result()
+            status, path, msg, missing_detail = future.result()
             results[status] = results.get(status, 0) + 1
+            # 教学单元名都是"学习1/习题"，带上课程名才可读
+            name = f"{Path(path).parent.name}/{Path(path).name}"
             if status in ("fail", "incomplete"):
                 failures.append({"path": path, "status": status, "error": msg})
+            if missing_detail:
+                # ★ 缺段明细：X单元缺了Y id，text内容一并记录，供后续补配音
+                incomplete_records.append({
+                    "unit": name,
+                    "path": path,
+                    "count": len(missing_detail),
+                    "missing": [
+                        {"seq": m.get("seq", "?"), "id": m.get("id", "unknown"),
+                         "character": m.get("character", ""), "text": m.get("text", "")}
+                        for m in missing_detail
+                    ],
+                })
+            # ★ 实时进度: [完成X/总Y]；skip 不逐行刷屏，每200个汇总一次
+            if status == "skip":
+                if (i + 1) % 200 == 0 or (i + 1) == total:
+                    print(f"[{i+1}/{total}] 进度: ok={results['ok']} "
+                          f"skip={results['skip']} fail={results['fail']}", flush=True)
             elif status == "ok":
-                print(f"  OK: {Path(path).name} - {msg}")
-            print_progress(i + 1, len(units), results, interval=200)
+                print(f"[{i+1}/{total}] 完成 {name} -> OK: {msg}", flush=True)
+            else:
+                print(f"[{i+1}/{total}] 完成 {name} -> {status}: {msg}", flush=True)
 
     from datetime import datetime
+    inc_count = len(incomplete_records)
     log_content = (
         f"脚本2: 教学合并MP3 + timeline.json (v6)\n"
         f"时间: {datetime.now().isoformat()}\n"
@@ -320,10 +354,13 @@ def main():
         f"总数: {len(units)}\n"
         f"结果: ok={results['ok']} skip={results['skip']} "
         f"incomplete={results.get('incomplete',0)} fail={results['fail']}\n"
+        f"缺段单元(已合成但缺段): {inc_count}\n"
     )
     save_log("02_teaching_merge", log_content)
     if failures:
         save_failures("02_teaching_merge", failures)
+    if incomplete_records:
+        save_incomplete("02_teaching_merge", incomplete_records)
 
     elapsed = time.time() - start_time
     print(f"\n完成! ok={results['ok']} skip={results['skip']} "
@@ -331,6 +368,8 @@ def main():
     print(f"耗时: {elapsed:.0f}s")
     if failures:
         print(f"失败/不完整列表: 脚本/logs/02_teaching_merge_failed.json")
+    if incomplete_records:
+        print(f"缺段记录({inc_count}个单元): 脚本/logs/02_teaching_merge_incomplete.json")
 
 
 if __name__ == "__main__":

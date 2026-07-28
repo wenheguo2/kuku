@@ -262,7 +262,7 @@ def get_duration_seconds(filepath):
     cmd = ["ffprobe", "-v", "quiet", "-show_entries", "format=duration",
            "-of", "default=noprint_wrappers=1:nokey=1", str(filepath)]
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=10)
+        result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=10)
         if result.returncode != 0 or not result.stdout.strip():
             return None
         return float(result.stdout.strip())
@@ -359,7 +359,7 @@ def generate_silence_file(filepath, duration_sec, sample_rate=AUDIO_SAMPLE_RATE)
         "-ar", str(sample_rate), "-ac", str(AUDIO_CHANNELS),
         str(filepath)
     ]
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
+    result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=30)
     return result.returncode == 0
 
 
@@ -402,7 +402,7 @@ def normalize_segment(input_path, output_path, speed=1.0, normalize=True):
         cmd.extend(["-af", ",".join(filters)])
     cmd.append(str(output_path))
     
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+    result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=60)
     return result.returncode == 0
 
 
@@ -432,7 +432,7 @@ def merge_with_ffmpeg(concat_list_path, output_path, total_duration,
     cmd.append(str(output_path))
     
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
+        result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=600)
         return result.returncode == 0, result.stderr[-500:] if result.stderr else ""
     except subprocess.TimeoutExpired:
         return False, "timeout (600s)"
@@ -465,6 +465,8 @@ def check_segments_completeness(ordered):
             missing.append({
                 "seq": seg.get("seq", "?"),
                 "id": seg.get("id", "unknown"),
+                "character": seg.get("character", ""),
+                "text": seg.get("text", ""),
                 "reason": "mp3 not found"
             })
     return len(missing) == 0, missing
@@ -486,6 +488,17 @@ def save_failures(script_name, failures):
     with open(fail_file, "w", encoding="utf-8") as f:
         json.dump(failures, f, ensure_ascii=False, indent=2)
     return fail_file
+
+
+def save_incomplete(script_name, records):
+    """保存缺段（不完整但已合成）记录到 JSON，供后续补档用"""
+    if not records:
+        return None
+    LOGS_DIR.mkdir(parents=True, exist_ok=True)
+    inc_file = LOGS_DIR / f"{script_name}_incomplete.json"
+    with open(inc_file, "w", encoding="utf-8") as f:
+        json.dump(records, f, ensure_ascii=False, indent=2)
+    return inc_file
 
 
 def print_progress(current, total, results, interval=100):

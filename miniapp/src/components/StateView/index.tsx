@@ -2,10 +2,12 @@
  * StateView — U-03/04/05 通用状态视图（加载 / 空 / 错误+重试）
  * 用法：<StateView loading={l} error={e} empty={list.length===0} emptyText="暂无收藏" onRetry={load}>{内容}</StateView>
  * 统一各页的加载态/空态/错误态呈现，替代各处零散的内联判断。
+ * 加载态用入包插画 assets/loading.jpg(44KB)+呼吸动画：兜底图必须入包（弱网时远程图恰好加载不出）。
  */
 import { PropsWithChildren } from 'react';
-import { View, Text } from '@tarojs/components';
+import { View, Text, Image } from '@tarojs/components';
 import Icon, { IconName } from '@/components/Icon';
+import loadingImg from '@/assets/loading.jpg';
 import './index.scss';
 
 interface Props {
@@ -33,7 +35,7 @@ export default function StateView({
   if (loading) {
     return (
       <View className="state-view">
-        <View className="state-spinner" />
+        <Image className="state-illustration" src={loadingImg} mode="aspectFill" ariaLabel="加载中插画" />
         <Text className="state-text">{loadingText}</Text>
       </View>
     );

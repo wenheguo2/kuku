@@ -31,10 +31,18 @@ export class AdminService {
     return {
       access_token: await this.jwt.signAsync(
         { sub: expectedUsername, role: 'admin' },
-        { expiresIn: this.config.get<string>('ADMIN_JWT_EXPIRES_IN', '8h') },
+        {
+          secret: this.adminSecret(),
+          expiresIn: this.config.get<string>('ADMIN_JWT_EXPIRES_IN', '8h'),
+        },
       ),
       expires_in: this.config.get<string>('ADMIN_JWT_EXPIRES_IN', '8h'),
     };
+  }
+
+  /** 管理端独立签名密钥：未配置时回退 JWT_SECRET（仅开发便利）；release 门禁强制独立且≥32位，降低单密钥泄露的横向影响。 */
+  private adminSecret(): string {
+    return this.config.get<string>('ADMIN_JWT_SECRET') || this.config.get<string>('JWT_SECRET', '');
   }
 
   async stats() {

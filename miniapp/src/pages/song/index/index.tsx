@@ -2,9 +2,11 @@
  * pages/song/index — M-01 歌曲首页（v4 青绿主题：问候 + Hero + 分类 tiles + 最近播放）
  * MVP mock 演示；真实歌曲索引接入后替换数据源。
  */
-import { View, Text, ScrollView } from '@tarojs/components';
+import { View, Text, ScrollView, Image } from '@tarojs/components';
 import Taro, { useDidShow } from '@tarojs/taro';
 import MiniPlayer from '@/components/MiniPlayer';
+import TabBarV4 from '@/components/TabBarV4';
+import avatarImg from '@/assets/avatar.jpg';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
 import { useTabStore } from '@/stores/tabStore';
@@ -32,7 +34,7 @@ export default function SongHome() {
   return (
     <ScrollView scrollY className={`page-v4 has-tab ${night}`}>
       <View className="greet">
-        <View className="avatar" style={{ boxShadow: '0 4px 12px rgba(63,197,188,.35)' }} />
+        <Image className="avatar" src={avatarImg} mode="aspectFill" ariaLabel="小听众头像" style={{ boxShadow: '0 4px 12px rgba(63,197,188,.35)' }} />
         <View className="flex-1">
           <Text className="hi">一起唱歌吧 🎵</Text>
           <Text className="big serif">酷酷音乐厅</Text>
@@ -75,6 +77,7 @@ export default function SongHome() {
         </View>
       ))}
       <MiniPlayer />
+      {process.env.TARO_ENV === 'h5' && <TabBarV4 />}
     </ScrollView>
   );
 }

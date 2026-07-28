@@ -16,7 +16,7 @@
 | `common/guards/rate-limit.guard.ts` | 单实例固定窗口限流：登录/订单 20、挑战 60、搜索 30、其他 100 次/分钟；429 |
 | `common/decorators/*` | `@Public()` / `@CurrentUser()` |
 | `config/database.config.ts` | TypeORM PG 工厂，`synchronize=false` |
-| `config/environment.validation.ts` | release/production 门禁：禁用 mock/stub、弱 JWT 和缺凭据的配置 |
+| `config/environment.validation.ts` | release/production 门禁：禁用 mock/stub、弱 JWT、缺凭据配置；强制独立 ADMIN_JWT_SECRET(≥32位且≠JWT_SECRET) |
 | `entities/*` | 12 实体（含 `consent_records`；bigint→string 防精度丢失） |
 
 ## auth（认证）
@@ -36,7 +36,7 @@
 ## admin（独立管理鉴权与统计）
 - `POST /admin/auth/login`（Public）：校验独立管理员账号；开发可用本地口令，release/production 强制 scrypt。
 - `GET /admin/stats`：仅接受 `role=admin` 的短期管理 JWT；聚合当日活跃、故事播放、挑战通过、已支付订单和付费转化。
-- 管理 token 与普通用户 token 分权，前端假 token 已移除。
+- 管理 token 与普通用户 token 分权，前端假 token 已移除；★签发/验签用独立 `ADMIN_JWT_SECRET`（开发未配回退 JWT_SECRET，release 门禁强制独立），单密钥泄露不再横向失守。
 
 ## progress（★核心：四级朋友养成）
 - **文件**：quiz.util（出题+判分+按学科通过标准）、test-store（答案暂存，判分用，★不下发前端）、progress.service（全部业务）、progress.controller（/progress）、test.controller（/test）
@@ -73,7 +73,7 @@
 ---
 
 ## 测试
-- **单元测试**（`npm test`，16/16）：题型/判分、生产环境门禁、协议草案阻断、支付 fail-closed、child_id 归属、API 限流
+- **单元测试**（`npm test`，17/17）：题型/判分、生产环境门禁(含 admin 独立密钥)、协议草案阻断、支付 fail-closed、child_id 归属、API 限流
 - **e2e 集成测试**（`npm run test:e2e`，15/15）：真实 PG/Redis；覆盖监护人同意、成长/埋点越权、带埋点档案删除、题目不泄露答案、VIP 门控、管理登录/统计与注销后 JWT 失效
 
 ## 变更记录
@@ -85,6 +85,7 @@
 | 2026-07-22 | 文档审计修复：贴纸100→小专家、getQuiz 重置 retry、直接挑战置 study1_completed；补 /vocabulary 接口；新增 VIP 门控(综合挑战/收集册/成就)；e2e 8/8 | 对齐 PRD/13号 付费边界与养成规则 |
 | 2026-07-23 | 本地库已升级 12 表；child_id/埋点归属、服务端判分、限流、复习到期、注销 JWT、生产门禁；单测 16/16、e2e 13/13、build 通过 | 落实三份审查的 P0/P1 整改 |
 | 2026-07-24 | user/profile 会员读时过期回收(对齐 isActive/billing 口径，消除个人页短暂显示“会员有效”)；schema events.child_id 注释“故意不设 ON DELETE·应用层置空” | 落实五视角审查 F5/F13 |
+| 2026-07-25 | admin 签发/验签改独立 ADMIN_JWT_SECRET(开发回退 JWT_SECRET)，environment.validation 增 release 强制独立且≥32位≠JWT_SECRET，.env.example 补键；.gitignore 强制忽略 config/tts_providers.json(明文 key 防入库) | 落实三份多视角审核安全项(共享密钥/密钥防护)；key 轮换需用户在服务商侧执行 |
 | 2026-07-23 | 管理后台新增独立 JWT/scrypt 登录与数据库聚合统计；e2e 15/15 | 去除后台假 token 和指标占位 |
 | 2026-07-23 | main.ts 增安全响应头(helmet 必要子集，X-Content-Type-Options/X-Frame-Options 等，无额外依赖) | 补审查 helmet/安全头缺口 |
 | 2026-07-23 | 代码审查 P1/P2 整改：`markPaid` 事务+行锁(并发续期不丢时长)、progress 列表 page_size 上限 100、jwt 401 文案统一(防用户枚举)；type-check 通过 | 补代码审查发现的并发/DoS/枚举缺口 |

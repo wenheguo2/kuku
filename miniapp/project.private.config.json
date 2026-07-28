@@ -1,0 +1,6 @@
+{
+  "description": "IDE 本地私有配置（新版开发者工具 urlCheck 从 project.config.json 迁移至此）：开发联调不校验合法域名，允许 localhost:3000",
+  "setting": {
+    "urlCheck": false
+  }
+}

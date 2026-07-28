@@ -34,10 +34,32 @@ describe('validateEnvironment', () => {
       WXPAY_API_V3_KEY: 'api-v3-key',
       ADMIN_USERNAME: 'ops-admin',
       ADMIN_PASSWORD_SCRYPT: `scrypt$${'ab'.repeat(16)}$${'cd'.repeat(64)}`,
+      ADMIN_JWT_SECRET: 'an-independent-admin-secret-32-chars-min',
       USER_AGREEMENT_VERSION: '2026-07-final',
       PRIVACY_VERSION: '2026-07-final',
       CHILDREN_PRIVACY_VERSION: '2026-07-final',
     })).not.toThrow();
+  });
+
+  it('production 拒绝 admin 与用户共享同一 JWT 密钥', () => {
+    expect(() => validateEnvironment({
+      NODE_ENV: 'production',
+      WX_LOGIN_MODE: 'real',
+      ALLOW_MOCK_LOGIN: 'false',
+      ALLOW_PAYMENT_STUB: 'false',
+      JWT_SECRET: 'a-production-secret-with-more-than-32-characters',
+      DB_PASSWORD: 'a-strong-production-db-password',
+      WX_APPID: 'wx-app-id',
+      WX_SECRET: 'wx-secret',
+      WXPAY_MCH_ID: 'merchant-id',
+      WXPAY_API_V3_KEY: 'api-v3-key',
+      ADMIN_USERNAME: 'ops-admin',
+      ADMIN_PASSWORD_SCRYPT: `scrypt$${'ab'.repeat(16)}$${'cd'.repeat(64)}`,
+      ADMIN_JWT_SECRET: 'a-production-secret-with-more-than-32-characters',
+      USER_AGREEMENT_VERSION: '2026-07-final',
+      PRIVACY_VERSION: '2026-07-final',
+      CHILDREN_PRIVACY_VERSION: '2026-07-final',
+    })).toThrow(/ADMIN_JWT_SECRET/);
   });
 
   it('production 拒绝协议草案版本', () => {
@@ -54,6 +76,7 @@ describe('validateEnvironment', () => {
       WXPAY_API_V3_KEY: 'api-v3-key',
       ADMIN_USERNAME: 'ops-admin',
       ADMIN_PASSWORD_SCRYPT: `scrypt$${'ab'.repeat(16)}$${'cd'.repeat(64)}`,
+      ADMIN_JWT_SECRET: 'an-independent-admin-secret-32-chars-min',
       USER_AGREEMENT_VERSION: '2026-07-draft',
       PRIVACY_VERSION: '2026-07-final',
       CHILDREN_PRIVACY_VERSION: '2026-07-final',

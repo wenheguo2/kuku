@@ -8,6 +8,7 @@ import Taro, { useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
 import MiniPlayer from '@/components/MiniPlayer';
+import TabBarV4 from '@/components/TabBarV4';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
 import { useTabStore } from '@/stores/tabStore';
@@ -51,7 +52,7 @@ export default function GrowthHome() {
     <ScrollView scrollY className={`page-v4 has-tab ${night}`}>
       <View style={{ textAlign: 'center', padding: '10px 20px 4px' }}>
         <Text style={{ fontSize: '20px', letterSpacing: '4px', color: 'var(--color-text-secondary)', fontWeight: 800, display: 'block' }}>FRIENDS COLLECTION</Text>
-        <Text className="serif" style={{ fontSize: '38px', fontWeight: 800, marginTop: '8px', display: 'block' }}>我的朋友收集册</Text>
+        <Text className="serif" style={{ fontSize: '38px', fontWeight: 800, marginTop: '8px', display: 'block', color: 'var(--color-text)' }}>我的朋友收集册</Text>
       </View>
 
       {!isLogin && (
@@ -62,7 +63,7 @@ export default function GrowthHome() {
 
       {/* 四级进度卡 */}
       <View className="gcard" style={{ marginTop: '12px' }}>
-        <Text style={{ fontSize: '26px', fontWeight: 800, display: 'block' }}>
+        <Text style={{ fontSize: '26px', fontWeight: 800, display: 'block', color: 'var(--color-text)' }}>
           已遇见 <Text style={{ color: 'var(--color-primary)' }}>{total}</Text> 位朋友 · 其中 <Text style={{ color: '#57B83E' }}>{mastered}</Text> 位好伙伴
         </Text>
         <View className="gbar">
@@ -102,6 +103,7 @@ export default function GrowthHome() {
         <View className="fi" style={{ background: '#FFF0C4' }}><Icon name="crown" size={34} color="#B8860B" /></View>综合挑战<Text className="rt">攒满 10 好朋友 → 好伙伴 ›</Text>
       </View>
       <MiniPlayer />
+      {process.env.TARO_ENV === 'h5' && <TabBarV4 />}
     </ScrollView>
   );
 }

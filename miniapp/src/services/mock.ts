@@ -82,7 +82,7 @@ const mockWork_sanguo: WorkIndex = {
   path: '上下五千年/E3历史故事/三国演义', work_name: '三国演义', total_chapters: 5, total_duration_ms: 3000000,
   chapters: [
     { chapter_index: 1, chapter_id: 'c1', title: '第01回 桃园结义', full_path: '上下五千年/E3历史故事/三国演义/第01回 桃园结义', level: 'L5', duration_ms: 600000 },
-    { chapter_index: 2, chapter_id: 'c2', title: '第02回 还多表', full_path: '上下五千年/E3历史故事/三国演义/第02回', level: 'L5', duration_ms: 600000 },
+    { chapter_index: 2, chapter_id: 'c2', title: '第02回 温酒斩华雄', full_path: '上下五千年/E3历史故事/三国演义/第02回', level: 'L5', duration_ms: 600000 },
     { chapter_index: 3, chapter_id: 'c3', title: '第03回 三英战吕布', full_path: '上下五千年/E3历史故事/三国演义/第03回', level: 'L5', duration_ms: 620000 },
     { chapter_index: 4, chapter_id: 'c4', title: '第04回 连环计', full_path: '上下五千年/E3历史故事/三国演义/第04回', level: 'L5', duration_ms: 590000 },
     { chapter_index: 5, chapter_id: 'c5', title: '第05回 三顾茅庐', full_path: '上下五千年/E3历史故事/三国演义/第05回', level: 'L5', duration_ms: 610000 },

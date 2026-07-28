@@ -1,0 +1,53 @@
+/* v4 自定义底部 Tab 栏（跨端共享：weapp custom-tab-bar 包装 / h5 tab 页直接渲染）
+ * 尺寸口径注意：Icon 内联 style 是物理 px（不过 pxTransform），本 scss 数值会被转换（750 基准）；
+ * 故 icon 用 26 物理 px，栏高 130 设计单位（≈物理 53px），icon+文字+间距才装得下不被裁。
+ * ⚠️ CSS 变量全部带兜底值：custom-tab-bar 独立编译单元拿不到 page 上的变量声明。 */
+.tabbar-v4 {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 130px;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+  background: rgba(255, 255, 255, 0.97);
+  border-top: 1px solid var(--color-border, #F0E6D8);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  z-index: 200;
+}
+.tabbar-v4.night {
+  background: rgba(23, 29, 51, 0.97);
+  border-top-color: rgba(255, 255, 255, 0.08);
+}
+.tbi {
+  flex: 1;
+  height: 130px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  position: relative;
+}
+.tbi .lbl {
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 1.1;
+}
+.tbi.on {
+  transform: scale(1.08);
+}
+.tbi .ind {
+  position: absolute;
+  top: 8px;
+  width: 44px;
+  height: 6px;
+  border-radius: 4px;
+  background: var(--color-primary, #FF8C42);
+}
+.tabbar-v4.night .ind {
+  background: var(--lamp, #FFC98F);
+}

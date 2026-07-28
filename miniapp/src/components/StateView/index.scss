@@ -32,8 +32,21 @@
     margin-bottom: 24px;
     animation: state-spin 0.8s linear infinite;
   }
+  // 加载插画（assets/loading.jpg 入包兜底）+ 呼吸动画，替代纯 spinner 的冷淡感
+  .state-illustration {
+    width: 240px;
+    height: 240px;
+    border-radius: 32px;
+    margin-bottom: 24px;
+    animation: state-breathe 2s ease-in-out infinite;
+  }
 }
 
 @keyframes state-spin {
   to { transform: rotate(360deg); }
+}
+
+@keyframes state-breathe {
+  0%, 100% { transform: scale(1); opacity: 0.85; }
+  50% { transform: scale(1.05); opacity: 1; }
 }

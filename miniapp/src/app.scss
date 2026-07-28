@@ -135,6 +135,9 @@ page {
 .tag-s2 { font-size: 22px; padding: 4px 14px; border-radius: 14px; background: #6BCBFF; color: #0a4a6b; margin-right: 8px; }
 .tag-s3 { font-size: 22px; padding: 4px 14px; border-radius: 14px; background: #7ED957; color: #1a5c1a; margin-right: 8px; }
 
+/* h5 端：隐藏 Taro 内置文字 tabbar（无图标无造型），改由各 tab 页渲染共享 TabBarV4；weapp 无此类名不受影响 */
+.taro-tabbar__tabbar { display: none !important; }
+
 /* 二列卡片网格（学科/分类）；子项使用 tile，避免与横向故事卡 scard 重名。 */
 .sgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
 
@@ -264,8 +267,9 @@ page {
 .lampcov { margin: 40px auto 0; width: 376px; height: 376px; border-radius: 50%; overflow: hidden; animation: lamp 3.2s ease-in-out infinite; }
 .lampcov .cover { width: 100%; height: 100%; }
 @keyframes lamp { 0%,100%{ box-shadow: 0 0 0 20px rgba(255,200,120,.12), 0 0 120px 48px rgba(255,170,80,.32), 0 36px 80px rgba(0,0,0,.4); } 50%{ box-shadow: 0 0 0 26px rgba(255,200,120,.18), 0 0 170px 68px rgba(255,170,80,.48), 0 36px 80px rgba(0,0,0,.4); } }
-.ptitle { text-align: center; font-size: 46px; font-weight: 800; margin-top: 40px; text-shadow: 0 2px 14px rgba(0,0,0,.4); }
-.psub { text-align: center; font-size: 24px; opacity: .78; margin-top: 12px; }
+.ptitle { display: block; text-align: center; font-size: 46px; font-weight: 800; margin-top: 32px; text-shadow: 0 2px 14px rgba(0,0,0,.4); }
+/* 字幕：独立成行、限 2 行省略，不与标题/控制区互挤（weapp 实测：Text 默认 inline 会和标题挤一行） */
+.psub { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-align: center; font-size: 24px; line-height: 1.7; opacity: .78; margin: 14px auto 0; max-width: 92%; min-height: 40px; }
 .pprog { margin: 38px 0 10px; height: 10px; background: rgba(255,255,255,.25); border-radius: 5px; position: relative; }
 .pprog i { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 5px; background: linear-gradient(90deg, #FFE0B0, var(--lamp)); }
 .pprog b { position: absolute; top: -8px; width: 26px; height: 26px; border-radius: 50%; background: #FFF3DC; box-shadow: 0 0 20px 6px rgba(255,200,130,.6); }
@@ -281,6 +285,8 @@ page {
 .scov .cover { width: 100%; height: 100%; }
 .lyr { text-align: center; font-size: 27px; color: var(--color-text-secondary); line-height: 2.05; margin-top: 24px; }
 .lyr .on { display: inline-block; background: linear-gradient(135deg,#DFF3F1,#CDEBE8); color: #178F88; font-weight: 800; padding: 4px 28px; border-radius: 20px; font-size: 30px; }
+/* 歌词双方案之“整首展示”：无时间标签时限高可滚，不挤压进度条/控制区 */
+.lyr .lyr-full { max-height: 420px; }
 
 /* ===== 睡前模式 N-01（夜）===== */
 .night-scr { position: relative; min-height: 100vh; background: linear-gradient(180deg,#141B31,#1D2646 60%,#232F55); color: var(--night-text); padding: 20px 16px 40px; overflow: hidden; }
