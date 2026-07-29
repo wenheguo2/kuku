@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/其他类型/其他语言/俄语",
   "name": "俄语",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他类型.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/俄语.jpg",
     "cover_level": "category"
   },
   "entry_count": 63,
@@ -16,441 +16,693 @@
       "title": "Ангельский хор Angel Choir",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Ангельский хор Angel Choir"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Ангельский хор Angel Choir",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Ангельский хор Angel Choir/Ангельский хор Angel Choir_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Байкал_贝加尔湖",
       "title": "Байкал_贝加尔湖",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Байкал_贝加尔湖"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Байкал_贝加尔湖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Байкал_贝加尔湖/Байкал_贝加尔湖_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Байкальский лёд_贝加尔湖之冰",
       "title": "Байкальский лёд_贝加尔湖之冰",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Байкальский лёд_贝加尔湖之冰"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Байкальский лёд_贝加尔湖之冰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Байкальский лёд_贝加尔湖之冰/Байкальский лёд_贝加尔湖之冰_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Белый снег_白雪",
       "title": "Белый снег_白雪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Белый снег_白雪"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Белый снег_白雪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Белый снег_白雪/Белый снег_白雪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Берёза_Берёза",
       "title": "Берёза_Берёза",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Берёза_Берёза"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Берёза_Берёза",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Берёза_Берёза/Берёза_Берёза_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Берёзовая роща_白桦林",
       "title": "Берёзовая роща_白桦林",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Берёзовая роща_白桦林"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Берёзовая роща_白桦林",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Берёзовая роща_白桦林/Берёзовая роща_白桦林_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Буря Storm",
       "title": "Буря Storm",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Буря Storm"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Буря Storm",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Буря Storm/Буря Storm_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Веселье",
       "title": "Веселье",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Веселье"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Веселье",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Веселье/Веселье_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Весенний гром_春雷",
       "title": "Весенний гром_春雷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Весенний гром_春雷"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Весенний гром_春雷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Весенний гром_春雷/Весенний гром_春雷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Волга_伏尔加河",
       "title": "Волга_伏尔加河",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Волга_伏尔加河"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Волга_伏尔加河",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Волга_伏尔加河/Волга_伏尔加河_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Гроза_暴风雨",
       "title": "Гроза_暴风雨",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Гроза_暴风雨"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Гроза_暴风雨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Гроза_暴风雨/Гроза_暴风雨_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Дальняя дорога_遥远的道路",
       "title": "Дальняя дорога_遥远的道路",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Дальняя дорога_遥远的道路"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Дальняя дорога_遥远的道路",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Дальняя дорога_遥远的道路/Дальняя дорога_遥远的道路_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Дружба",
       "title": "Дружба",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Дружба"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Дружба",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Дружба/Дружба_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Закат_晚霞",
       "title": "Закат_晚霞",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Закат_晚霞"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Закат_晚霞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Закат_晚霞/Закат_晚霞_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Зимняя история_Зимняя история",
       "title": "Зимняя история_Зимняя история",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Зимняя история_Зимняя история"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Зимняя история_Зимняя история",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Зимняя история_Зимняя история/Зимняя история_Зимняя история_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Зимняя сказка_冬日童话",
       "title": "Зимняя сказка_冬日童话",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Зимняя сказка_冬日童话"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Зимняя сказка_冬日童话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Зимняя сказка_冬日童话/Зимняя сказка_冬日童话_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Золотая осень_金秋",
       "title": "Золотая осень_金秋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Золотая осень_金秋"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Золотая осень_金秋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Золотая осень_金秋/Золотая осень_金秋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Иней_霜花",
       "title": "Иней_霜花",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Иней_霜花"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Иней_霜花",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Иней_霜花/Иней_霜花_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "История_История",
       "title": "История_История",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/История_История"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/История_История",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/История_История/История_История_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Казачья воля_哥萨克之意志",
       "title": "Казачья воля_哥萨克之意志",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Казачья воля_哥萨克之意志"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Казачья воля_哥萨克之意志",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Казачья воля_哥萨克之意志/Казачья воля_哥萨克之意志_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Калина красная_红雪果",
       "title": "Калина красная_红雪果",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Калина красная_红雪果"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Калина красная_红雪果",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Калина красная_红雪果/Калина красная_红雪果_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Калина_红莓花开",
       "title": "Калина_红莓花开",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Калина_红莓花开"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Калина_红莓花开",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Калина_红莓花开/Калина_红莓花开_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Катюша_喀秋莎",
       "title": "Катюша_喀秋莎",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Катюша_喀秋莎"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Катюша_喀秋莎",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Катюша_喀秋莎/Катюша_喀秋莎_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Кибергород_Кибергород",
       "title": "Кибергород_Кибергород",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Кибергород_Кибергород"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Кибергород_Кибергород",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Кибергород_Кибергород/Кибергород_Кибергород_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Колокольчик_小铃铛",
       "title": "Колокольчик_小铃铛",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Колокольчик_小铃铛"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Колокольчик_小铃铛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Колокольчик_小铃铛/Колокольчик_小铃铛_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Коньки_冰刀",
       "title": "Коньки_冰刀",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Коньки_冰刀"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Коньки_冰刀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Коньки_冰刀/Коньки_冰刀_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Костёр_篝火",
       "title": "Костёр_篝火",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Костёр_篝火"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Костёр_篝火",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Костёр_篝火/Костёр_篝火_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Красная заря_红色曙光",
       "title": "Красная заря_红色曙光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Красная заря_红色曙光"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Красная заря_红色曙光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Красная заря_红色曙光/Красная заря_红色曙光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Молитва Prayer",
       "title": "Молитва Prayer",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Молитва Prayer"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Молитва Prayer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Молитва Prayer/Молитва Prayer_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Морская волна_海浪",
       "title": "Морская волна_海浪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Морская волна_海浪"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Морская волна_海浪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Морская волна_海浪/Морская волна_海浪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Московские огни_莫斯科灯火",
       "title": "Московские огни_莫斯科灯火",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Московские огни_莫斯科灯火"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Московские огни_莫斯科灯火",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Московские огни_莫斯科灯火/Московские огни_莫斯科灯火_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Неоновый дождь_Неоновый дождь",
       "title": "Неоновый дождь_Неоновый дождь",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Неоновый дождь_Неоновый дождь"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Неоновый дождь_Неоновый дождь",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Неоновый дождь_Неоновый дождь/Неоновый дождь_Неоновый дождь_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ночной патруль_夜间巡逻",
       "title": "Ночной патруль_夜间巡逻",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Ночной патруль_夜间巡逻"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Ночной патруль_夜间巡逻",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Ночной патруль_夜间巡逻/Ночной патруль_夜间巡逻_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Песня любви_爱情之歌",
       "title": "Песня любви_爱情之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Песня любви_爱情之歌"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Песня любви_爱情之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Песня любви_爱情之歌/Песня любви_爱情之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Песня мира_和平之歌",
       "title": "Песня мира_和平之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Песня мира_和平之歌"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Песня мира_和平之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Песня мира_和平之歌/Песня мира_和平之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Песня свободы_自由之歌",
       "title": "Песня свободы_自由之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Песня свободы_自由之歌"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Песня свободы_自由之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Песня свободы_自由之歌/Песня свободы_自由之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Песня танца_舞蹈之歌",
       "title": "Песня танца_舞蹈之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Песня танца_舞蹈之歌"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Песня танца_舞蹈之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Песня танца_舞蹈之歌/Песня танца_舞蹈之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Подмосковные вечера_莫斯科郊外的晚上",
       "title": "Подмосковные вечера_莫斯科郊外的晚上",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Подмосковные вечера_莫斯科郊外的晚上"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Подмосковные вечера_莫斯科郊外的晚上",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Подмосковные вечера_莫斯科郊外的晚上/Подмосковные вечера_莫斯科郊外的晚上_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Поле_Поле",
       "title": "Поле_Поле",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Поле_Поле"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Поле_Поле",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Поле_Поле/Поле_Поле_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Полет над тайгой_飞跃泰加林",
       "title": "Полет над тайгой_飞跃泰加林",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Полет над тайгой_飞跃泰加林"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Полет над тайгой_飞跃泰加林",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Полет над тайгой_飞跃泰加林/Полет над тайгой_飞跃泰加林_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Праздник",
       "title": "Праздник",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Праздник"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Праздник",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Праздник/Праздник_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Радость",
       "title": "Радость",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Радость"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Радость",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Радость/Радость_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Радуга_彩虹",
       "title": "Радуга_彩虹",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Радуга_彩虹"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Радуга_彩虹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Радуга_彩虹/Радуга_彩虹_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Рассвет в степи_草原黎明",
       "title": "Рассвет в степи_草原黎明",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Рассвет в степи_草原黎明"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Рассвет в степи_草原黎明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Рассвет в степи_草原黎明/Рассвет в степи_草原黎明_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Река времени_时间之河",
       "title": "Река времени_时间之河",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Река времени_时间之河"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Река времени_时间之河",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Река времени_时间之河/Река времени_时间之河_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Роса_露珠",
       "title": "Роса_露珠",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Роса_露珠"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Роса_露珠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Роса_露珠/Роса_露珠_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Русская душа_俄罗斯之魂",
       "title": "Русская душа_俄罗斯之魂",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Русская душа_俄罗斯之魂"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Русская душа_俄罗斯之魂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Русская душа_俄罗斯之魂/Русская душа_俄罗斯之魂_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Рябина_山楂树",
       "title": "Рябина_山楂树",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Рябина_山楂树"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Рябина_山楂树",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Рябина_山楂树/Рябина_山楂树_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Сани_雪橇",
       "title": "Сани_雪橇",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Сани_雪橇"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Сани_雪橇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Сани_雪橇/Сани_雪橇_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Северное сияние_北极光",
       "title": "Северное сияние_北极光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Северное сияние_北极光"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Северное сияние_北极光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Северное сияние_北极光/Северное сияние_北极光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Сибирский ветер_西伯利亚之风",
       "title": "Сибирский ветер_西伯利亚之风",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Сибирский ветер_西伯利亚之风"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Сибирский ветер_西伯利亚之风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Сибирский ветер_西伯利亚之风/Сибирский ветер_西伯利亚之风_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Синий платочек_蓝色手帕",
       "title": "Синий платочек_蓝色手帕",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Синий платочек_蓝色手帕"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Синий платочек_蓝色手帕",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Синий платочек_蓝色手帕/Синий платочек_蓝色手帕_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Соловьиная ночь_夜莺之夜",
       "title": "Соловьиная ночь_夜莺之夜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Соловьиная ночь_夜莺之夜"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Соловьиная ночь_夜莺之夜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Соловьиная ночь_夜莺之夜/Соловьиная ночь_夜莺之夜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Степной орёл_草原雄鹰",
       "title": "Степной орёл_草原雄鹰",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Степной орёл_草原雄鹰"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Степной орёл_草原雄鹰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Степной орёл_草原雄鹰/Степной орёл_草原雄鹰_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Степь_草原",
       "title": "Степь_草原",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Степь_草原"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Степь_草原",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Степь_草原/Степь_草原_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Счастье",
       "title": "Счастье",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Счастье"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Счастье",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Счастье/Счастье_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Танец берёз_白桦之舞",
       "title": "Танец берёз_白桦之舞",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Танец берёз_白桦之舞"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Танец берёз_白桦之舞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Танец берёз_白桦之舞/Танец берёз_白桦之舞_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Танцы",
       "title": "Танцы",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Танцы"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Танцы",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Танцы/Танцы_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Тройка_三套车",
       "title": "Тройка_三套车",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Тройка_三套车"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Тройка_三套车",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Тройка_三套车/Тройка_三套车_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Улыбка",
       "title": "Улыбка",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Улыбка"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Улыбка",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Улыбка/Улыбка_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Урал_乌拉尔山",
       "title": "Урал_乌拉尔山",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Урал_乌拉尔山"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Урал_乌拉尔山",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Урал_乌拉尔山/Урал_乌拉尔山_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Чёрное море_黑海",
       "title": "Чёрное море_黑海",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Чёрное море_黑海"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Чёрное море_黑海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Чёрное море_黑海/Чёрное море_黑海_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ярость Fury",
       "title": "Ярость Fury",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Ярость Fury"
+      "path": "瞎编的歌曲/其他类型/其他语言/俄语/Ярость Fury",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/俄语/Ярость Fury/Ярость Fury_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

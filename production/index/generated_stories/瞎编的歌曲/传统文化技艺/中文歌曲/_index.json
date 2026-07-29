@@ -6,290 +6,439 @@
   "path": "瞎编的歌曲/传统文化技艺/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/传统文化技艺.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
-  "entry_count": 40,
+  "entry_count": 39,
   "entries": [
     {
       "entry_id": "二胡音色",
       "title": "二胡音色",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/二胡音色"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/二胡音色",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/二胡音色/二胡音色_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "古筝入门",
       "title": "古筝入门",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/古筝入门"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/古筝入门",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/古筝入门/古筝入门_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "围棋规则",
       "title": "围棋规则",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/围棋规则"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/围棋规则",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/围棋规则/围棋规则_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "墨分五色",
       "title": "墨分五色",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/墨分五色"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/墨分五色",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/墨分五色/墨分五色_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "对称剪法",
       "title": "对称剪法",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/对称剪法"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/对称剪法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/对称剪法/对称剪法_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "山水画",
       "title": "山水画",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/山水画"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/山水画",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/山水画/山水画_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "敬茶礼仪",
       "title": "敬茶礼仪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/敬茶礼仪"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/敬茶礼仪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/敬茶礼仪/敬茶礼仪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "文房四宝",
       "title": "文房四宝",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/文房四宝"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/文房四宝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/文房四宝/文房四宝_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春节剪纸",
       "title": "春节剪纸",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/春节剪纸"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/春节剪纸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/春节剪纸/春节剪纸_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "棋道精神",
       "title": "棋道精神",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/棋道精神"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/棋道精神",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/棋道精神/棋道精神_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "横竖撇捺",
       "title": "横竖撇捺",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/横竖撇捺"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/横竖撇捺",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/横竖撇捺/横竖撇捺_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "毛笔的使用",
       "title": "毛笔的使用",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/毛笔的使用"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/毛笔的使用",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/毛笔的使用/毛笔的使用_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "民间图案",
       "title": "民间图案",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/民间图案"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/民间图案",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/民间图案/民间图案_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "水墨画基础",
       "title": "水墨画基础",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/水墨画基础"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/水墨画基础",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/水墨画基础/水墨画基础_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "泡茶步骤",
       "title": "泡茶步骤",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/泡茶步骤"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/泡茶步骤",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/泡茶步骤/泡茶步骤_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "王羲之的故事",
       "title": "王羲之的故事",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/王羲之的故事"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/王羲之的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/王羲之的故事/王羲之的故事_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "琵琶演奏",
       "title": "琵琶演奏",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/琵琶演奏"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/琵琶演奏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/琵琶演奏/琵琶演奏_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "生旦净末丑",
       "title": "生旦净末丑",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/生旦净末丑"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/生旦净末丑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/生旦净末丑/生旦净末丑_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "生肖剪纸",
       "title": "生肖剪纸",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/生肖剪纸"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/生肖剪纸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/生肖剪纸/生肖剪纸_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "留白艺术",
       "title": "留白艺术",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/留白艺术"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/留白艺术",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/留白艺术/留白艺术_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白脸奸诈",
       "title": "白脸奸诈",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/白脸奸诈"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/白脸奸诈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/白脸奸诈/白脸奸诈_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "窗花制作",
       "title": "窗花制作",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/窗花制作"
-    },
-    {
-      "entry_id": "笔画顺序",
-      "title": "笔画顺序",
-      "structure_type": "standalone",
-      "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/笔画顺序"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/窗花制作",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/窗花制作/窗花制作_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "笛子吹奏",
       "title": "笛子吹奏",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/笛子吹奏"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/笛子吹奏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/笛子吹奏/笛子吹奏_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红脸忠义",
       "title": "红脸忠义",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/红脸忠义"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/红脸忠义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/红脸忠义/红脸忠义_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红色寓意",
       "title": "红色寓意",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/红色寓意"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/红色寓意",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/红色寓意/红色寓意_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "经典剧目",
       "title": "经典剧目",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/经典剧目"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/经典剧目",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/经典剧目/经典剧目_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "编钟历史",
       "title": "编钟历史",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/编钟历史"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/编钟历史",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/编钟历史/编钟历史_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "脸谱颜色含义",
       "title": "脸谱颜色含义",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/脸谱颜色含义"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/脸谱颜色含义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/脸谱颜色含义/脸谱颜色含义_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "花鸟画",
       "title": "花鸟画",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/花鸟画"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/花鸟画",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/花鸟画/花鸟画_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茶具认识",
       "title": "茶具认识",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/茶具认识"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/茶具认识",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/茶具认识/茶具认识_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茶叶种类",
       "title": "茶叶种类",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/茶叶种类"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/茶叶种类",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/茶叶种类/茶叶种类_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茶道精神",
       "title": "茶道精神",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/茶道精神"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/茶道精神",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/茶道精神/茶道精神_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "象棋入门",
       "title": "象棋入门",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/象棋入门"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/象棋入门",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/象棋入门/象棋入门_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "车马炮卒",
       "title": "车马炮卒",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/车马炮卒"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/车马炮卒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/车马炮卒/车马炮卒_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "锣鼓喧天",
       "title": "锣鼓喧天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/锣鼓喧天"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/锣鼓喧天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/锣鼓喧天/锣鼓喧天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "颜筋柳骨",
       "title": "颜筋柳骨",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/颜筋柳骨"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/颜筋柳骨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/颜筋柳骨/颜筋柳骨_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黑白棋子",
       "title": "黑白棋子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/黑白棋子"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/黑白棋子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/黑白棋子/黑白棋子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黑脸正直",
       "title": "黑脸正直",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/黑脸正直"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/黑脸正直",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/黑脸正直/黑脸正直_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "齐白石的故事",
       "title": "齐白石的故事",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/齐白石的故事"
+      "path": "瞎编的歌曲/传统文化技艺/中文歌曲/齐白石的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/中文歌曲/齐白石的故事/齐白石的故事_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

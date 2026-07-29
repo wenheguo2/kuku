@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲",
   "name": "英文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/地理知识.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/英文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 194,
@@ -16,378 +16,594 @@
       "title": "不丹 Bhutan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/不丹 Bhutan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/不丹 Bhutan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/不丹 Bhutan/不丹 Bhutan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "东京 Tokyo",
       "title": "东京 Tokyo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/东京 Tokyo"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/东京 Tokyo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/东京 Tokyo/东京 Tokyo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "丹麦 Denmark",
       "title": "丹麦 Denmark",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/丹麦 Denmark"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/丹麦 Denmark",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/丹麦 Denmark/丹麦 Denmark_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乌克兰 Ukraine",
       "title": "乌克兰 Ukraine",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/乌克兰 Ukraine"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/乌克兰 Ukraine",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/乌克兰 Ukraine/乌克兰 Ukraine_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乌兹别克斯坦 Uzbekistan",
       "title": "乌兹别克斯坦 Uzbekistan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/乌兹别克斯坦 Uzbekistan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/乌兹别克斯坦 Uzbekistan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/乌兹别克斯坦 Uzbekistan/乌兹别克斯坦 Uzbekistan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乌干达 Uganda",
       "title": "乌干达 Uganda",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/乌干达 Uganda"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/乌干达 Uganda",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/乌干达 Uganda/乌干达 Uganda_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乌拉圭 Uruguay",
       "title": "乌拉圭 Uruguay",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/乌拉圭 Uruguay"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/乌拉圭 Uruguay",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/乌拉圭 Uruguay/乌拉圭 Uruguay_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乞力马扎罗山 Kilimanjaro",
       "title": "乞力马扎罗山 Kilimanjaro",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/乞力马扎罗山 Kilimanjaro"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/乞力马扎罗山 Kilimanjaro",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/乞力马扎罗山 Kilimanjaro/乞力马扎罗山 Kilimanjaro_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "也门 Yemen",
       "title": "也门 Yemen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/也门 Yemen"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/也门 Yemen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/也门 Yemen/也门 Yemen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "亚洲 Asia",
       "title": "亚洲 Asia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/亚洲 Asia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/亚洲 Asia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/亚洲 Asia/亚洲 Asia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "亚马逊河 Amazon River",
       "title": "亚马逊河 Amazon River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/亚马逊河 Amazon River"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/亚马逊河 Amazon River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/亚马逊河 Amazon River/亚马逊河 Amazon River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "京都 Kyoto",
       "title": "京都 Kyoto",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/京都 Kyoto"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/京都 Kyoto",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/京都 Kyoto/京都 Kyoto_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "以色列 Israel",
       "title": "以色列 Israel",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/以色列 Israel"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/以色列 Israel",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/以色列 Israel/以色列 Israel_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "伊拉克 Iraq",
       "title": "伊拉克 Iraq",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/伊拉克 Iraq"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/伊拉克 Iraq",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/伊拉克 Iraq/伊拉克 Iraq_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "伊斯坦布尔 Istanbul",
       "title": "伊斯坦布尔 Istanbul",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/伊斯坦布尔 Istanbul"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/伊斯坦布尔 Istanbul",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/伊斯坦布尔 Istanbul/伊斯坦布尔 Istanbul_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "伊朗 Iran",
       "title": "伊朗 Iran",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/伊朗 Iran"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/伊朗 Iran",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/伊朗 Iran/伊朗 Iran_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "伏尔加河 Volga River",
       "title": "伏尔加河 Volga River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/伏尔加河 Volga River"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/伏尔加河 Volga River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/伏尔加河 Volga River/伏尔加河 Volga River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "伦敦 London",
       "title": "伦敦 London",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/伦敦 London"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/伦敦 London",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/伦敦 London/伦敦 London_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "俄罗斯 Russia",
       "title": "俄罗斯 Russia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/俄罗斯 Russia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/俄罗斯 Russia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/俄罗斯 Russia/俄罗斯 Russia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "保加利亚 Bulgaria",
       "title": "保加利亚 Bulgaria",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/保加利亚 Bulgaria"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/保加利亚 Bulgaria",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/保加利亚 Bulgaria/保加利亚 Bulgaria_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "克罗地亚 Croatia",
       "title": "克罗地亚 Croatia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/克罗地亚 Croatia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/克罗地亚 Croatia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/克罗地亚 Croatia/克罗地亚 Croatia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "内罗毕 Nairobi",
       "title": "内罗毕 Nairobi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/内罗毕 Nairobi"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/内罗毕 Nairobi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/内罗毕 Nairobi/内罗毕 Nairobi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冰岛 Iceland",
       "title": "冰岛 Iceland",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/冰岛 Iceland"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/冰岛 Iceland",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/冰岛 Iceland/冰岛 Iceland_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "刚果 Congo",
       "title": "刚果 Congo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/刚果 Congo"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/刚果 Congo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/刚果 Congo/刚果 Congo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "利比亚 Libya",
       "title": "利比亚 Libya",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/利比亚 Libya"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/利比亚 Libya",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/利比亚 Libya/利比亚 Libya_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "加勒比海 Caribbean Sea",
       "title": "加勒比海 Caribbean Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/加勒比海 Caribbean Sea"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/加勒比海 Caribbean Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/加勒比海 Caribbean Sea/加勒比海 Caribbean Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "加拿大 Canada",
       "title": "加拿大 Canada",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/加拿大 Canada"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/加拿大 Canada",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/加拿大 Canada/加拿大 Canada_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "加纳 Ghana",
       "title": "加纳 Ghana",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/加纳 Ghana"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/加纳 Ghana",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/加纳 Ghana/加纳 Ghana_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "匈牙利 Hungary",
       "title": "匈牙利 Hungary",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/匈牙利 Hungary"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/匈牙利 Hungary",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/匈牙利 Hungary/匈牙利 Hungary_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "北京 Beijing",
       "title": "北京 Beijing",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/北京 Beijing"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/北京 Beijing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/北京 Beijing/北京 Beijing_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "北冰洋 Arctic Ocean",
       "title": "北冰洋 Arctic Ocean",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/北冰洋 Arctic Ocean"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/北冰洋 Arctic Ocean",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/北冰洋 Arctic Ocean/北冰洋 Arctic Ocean_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "北美洲 North America",
       "title": "北美洲 North America",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/北美洲 North America"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/北美洲 North America",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/北美洲 North America/北美洲 North America_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "南极洲 Antarctica",
       "title": "南极洲 Antarctica",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/南极洲 Antarctica"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/南极洲 Antarctica",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/南极洲 Antarctica/南极洲 Antarctica_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "南美洲 South America",
       "title": "南美洲 South America",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/南美洲 South America"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/南美洲 South America",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/南美洲 South America/南美洲 South America_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "南非 South Africa",
       "title": "南非 South Africa",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/南非 South Africa"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/南非 South Africa",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/南非 South Africa/南非 South Africa_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "博茨瓦纳 Botswana",
       "title": "博茨瓦纳 Botswana",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/博茨瓦纳 Botswana"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/博茨瓦纳 Botswana",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/博茨瓦纳 Botswana/博茨瓦纳 Botswana_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "卡塔尔 Qatar",
       "title": "卡塔尔 Qatar",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/卡塔尔 Qatar"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/卡塔尔 Qatar",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/卡塔尔 Qatar/卡塔尔 Qatar_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "卢旺达 Rwanda",
       "title": "卢旺达 Rwanda",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/卢旺达 Rwanda"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/卢旺达 Rwanda",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/卢旺达 Rwanda/卢旺达 Rwanda_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "卢森堡 Luxembourg",
       "title": "卢森堡 Luxembourg",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/卢森堡 Luxembourg"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/卢森堡 Luxembourg",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/卢森堡 Luxembourg/卢森堡 Luxembourg_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "印度 India",
       "title": "印度 India",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/印度 India"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/印度 India",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/印度 India/印度 India_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "印度尼西亚 Indonesia",
       "title": "印度尼西亚 Indonesia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/印度尼西亚 Indonesia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/印度尼西亚 Indonesia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/印度尼西亚 Indonesia/印度尼西亚 Indonesia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "印度洋 Indian Ocean",
       "title": "印度洋 Indian Ocean",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/印度洋 Indian Ocean"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/印度洋 Indian Ocean",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/印度洋 Indian Ocean/印度洋 Indian Ocean_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "危地马拉 Guatemala",
       "title": "危地马拉 Guatemala",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/危地马拉 Guatemala"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/危地马拉 Guatemala",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/危地马拉 Guatemala/危地马拉 Guatemala_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "厄瓜多尔 Ecuador",
       "title": "厄瓜多尔 Ecuador",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/厄瓜多尔 Ecuador"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/厄瓜多尔 Ecuador",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/厄瓜多尔 Ecuador/厄瓜多尔 Ecuador_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "叙利亚 Syria",
       "title": "叙利亚 Syria",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/叙利亚 Syria"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/叙利亚 Syria",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/叙利亚 Syria/叙利亚 Syria_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "古巴 Cuba",
       "title": "古巴 Cuba",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/古巴 Cuba"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/古巴 Cuba",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/古巴 Cuba/古巴 Cuba_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吉尔吉斯斯坦 Kyrgyzstan",
       "title": "吉尔吉斯斯坦 Kyrgyzstan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/吉尔吉斯斯坦 Kyrgyzstan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/吉尔吉斯斯坦 Kyrgyzstan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/吉尔吉斯斯坦 Kyrgyzstan/吉尔吉斯斯坦 Kyrgyzstan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吉隆坡 Kuala Lumpur",
       "title": "吉隆坡 Kuala Lumpur",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/吉隆坡 Kuala Lumpur"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/吉隆坡 Kuala Lumpur",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/吉隆坡 Kuala Lumpur/吉隆坡 Kuala Lumpur_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "哈萨克斯坦 Kazakhstan",
       "title": "哈萨克斯坦 Kazakhstan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/哈萨克斯坦 Kazakhstan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/哈萨克斯坦 Kazakhstan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/哈萨克斯坦 Kazakhstan/哈萨克斯坦 Kazakhstan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "哥伦比亚 Colombia",
       "title": "哥伦比亚 Colombia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/哥伦比亚 Colombia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/哥伦比亚 Colombia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/哥伦比亚 Colombia/哥伦比亚 Colombia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "哥斯达黎加 Costa Rica",
       "title": "哥斯达黎加 Costa Rica",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/哥斯达黎加 Costa Rica"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/哥斯达黎加 Costa Rica",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/哥斯达黎加 Costa Rica/哥斯达黎加 Costa Rica_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "喀麦隆 Cameroon",
       "title": "喀麦隆 Cameroon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/喀麦隆 Cameroon"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/喀麦隆 Cameroon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/喀麦隆 Cameroon/喀麦隆 Cameroon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "喜马拉雅山 Himalayas",
       "title": "喜马拉雅山 Himalayas",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/喜马拉雅山 Himalayas"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/喜马拉雅山 Himalayas",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/喜马拉雅山 Himalayas/喜马拉雅山 Himalayas_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "土库曼斯坦 Turkmenistan",
       "title": "土库曼斯坦 Turkmenistan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/土库曼斯坦 Turkmenistan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/土库曼斯坦 Turkmenistan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/土库曼斯坦 Turkmenistan/土库曼斯坦 Turkmenistan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "土耳其 Turkey",
@@ -401,861 +617,1353 @@
       "title": "圣保罗 Sao Paulo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/圣保罗 Sao Paulo"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/圣保罗 Sao Paulo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/圣保罗 Sao Paulo/圣保罗 Sao Paulo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "地中海 Mediterranean Sea",
       "title": "地中海 Mediterranean Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/地中海 Mediterranean Sea"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/地中海 Mediterranean Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/地中海 Mediterranean Sea/地中海 Mediterranean Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "坦桑尼亚 Tanzania",
       "title": "坦桑尼亚 Tanzania",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/坦桑尼亚 Tanzania"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/坦桑尼亚 Tanzania",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/坦桑尼亚 Tanzania/坦桑尼亚 Tanzania_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "埃及 Egypt",
       "title": "埃及 Egypt",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/埃及 Egypt"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/埃及 Egypt",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/埃及 Egypt/埃及 Egypt_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "埃塞俄比亚 Ethiopia",
       "title": "埃塞俄比亚 Ethiopia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/埃塞俄比亚 Ethiopia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/埃塞俄比亚 Ethiopia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/埃塞俄比亚 Ethiopia/埃塞俄比亚 Ethiopia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "塔吉克斯坦 Tajikistan",
       "title": "塔吉克斯坦 Tajikistan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/塔吉克斯坦 Tajikistan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/塔吉克斯坦 Tajikistan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/塔吉克斯坦 Tajikistan/塔吉克斯坦 Tajikistan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "塞内加尔 Senegal",
       "title": "塞内加尔 Senegal",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/塞内加尔 Senegal"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/塞内加尔 Senegal",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/塞内加尔 Senegal/塞内加尔 Senegal_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "塞尔维亚 Serbia",
       "title": "塞尔维亚 Serbia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/塞尔维亚 Serbia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/塞尔维亚 Serbia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/塞尔维亚 Serbia/塞尔维亚 Serbia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "塞纳河 Seine River",
       "title": "塞纳河 Seine River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/塞纳河 Seine River"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/塞纳河 Seine River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/塞纳河 Seine River/塞纳河 Seine River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "墨西哥 Mexico",
       "title": "墨西哥 Mexico",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/墨西哥 Mexico"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/墨西哥 Mexico",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/墨西哥 Mexico/墨西哥 Mexico_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "多伦多 Toronto",
       "title": "多伦多 Toronto",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/多伦多 Toronto"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/多伦多 Toronto",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/多伦多 Toronto/多伦多 Toronto_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "多瑙河 Danube River",
       "title": "多瑙河 Danube River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/多瑙河 Danube River"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/多瑙河 Danube River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/多瑙河 Danube River/多瑙河 Danube River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "多米尼加 Dominican Republic",
       "title": "多米尼加 Dominican Republic",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/多米尼加 Dominican Republic"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/多米尼加 Dominican Republic",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/多米尼加 Dominican Republic/多米尼加 Dominican Republic_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大洋洲 Oceania",
       "title": "大洋洲 Oceania",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/大洋洲 Oceania"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/大洋洲 Oceania",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/大洋洲 Oceania/大洋洲 Oceania_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大西洋 Atlantic Ocean",
       "title": "大西洋 Atlantic Ocean",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/大西洋 Atlantic Ocean"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/大西洋 Atlantic Ocean",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/大西洋 Atlantic Ocean/大西洋 Atlantic Ocean_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "太平洋 Pacific Ocean",
       "title": "太平洋 Pacific Ocean",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/太平洋 Pacific Ocean"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/太平洋 Pacific Ocean",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/太平洋 Pacific Ocean/太平洋 Pacific Ocean_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奥地利 Austria",
       "title": "奥地利 Austria",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/奥地利 Austria"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/奥地利 Austria",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/奥地利 Austria/奥地利 Austria_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "委内瑞拉 Venezuela",
       "title": "委内瑞拉 Venezuela",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/委内瑞拉 Venezuela"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/委内瑞拉 Venezuela",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/委内瑞拉 Venezuela/委内瑞拉 Venezuela_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "威尼斯 Venice",
       "title": "威尼斯 Venice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/威尼斯 Venice"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/威尼斯 Venice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/威尼斯 Venice/威尼斯 Venice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孟买 Mumbai",
       "title": "孟买 Mumbai",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/孟买 Mumbai"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/孟买 Mumbai",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/孟买 Mumbai/孟买 Mumbai_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孟加拉国 Bangladesh",
       "title": "孟加拉国 Bangladesh",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/孟加拉国 Bangladesh"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/孟加拉国 Bangladesh",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/孟加拉国 Bangladesh/孟加拉国 Bangladesh_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "安哥拉 Angola",
       "title": "安哥拉 Angola",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/安哥拉 Angola"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/安哥拉 Angola",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/安哥拉 Angola/安哥拉 Angola_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "安第斯山 Andes",
       "title": "安第斯山 Andes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/安第斯山 Andes"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/安第斯山 Andes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/安第斯山 Andes/安第斯山 Andes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "密西西比河 Mississippi River",
       "title": "密西西比河 Mississippi River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/密西西比河 Mississippi River"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/密西西比河 Mississippi River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/密西西比河 Mississippi River/密西西比河 Mississippi River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "富士山 Fuji Mountain",
       "title": "富士山 Fuji Mountain",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/富士山 Fuji Mountain"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/富士山 Fuji Mountain",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/富士山 Fuji Mountain/富士山 Fuji Mountain_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "尼日利亚 Nigeria",
       "title": "尼日利亚 Nigeria",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/尼日利亚 Nigeria"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/尼日利亚 Nigeria",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/尼日利亚 Nigeria/尼日利亚 Nigeria_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "尼泊尔 Nepal",
       "title": "尼泊尔 Nepal",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/尼泊尔 Nepal"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/尼泊尔 Nepal",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/尼泊尔 Nepal/尼泊尔 Nepal_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "尼罗河 Nile River",
       "title": "尼罗河 Nile River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/尼罗河 Nile River"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/尼罗河 Nile River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/尼罗河 Nile River/尼罗河 Nile River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巴基斯坦 Pakistan",
       "title": "巴基斯坦 Pakistan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴基斯坦 Pakistan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴基斯坦 Pakistan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/巴基斯坦 Pakistan/巴基斯坦 Pakistan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巴塞罗那 Barcelona",
       "title": "巴塞罗那 Barcelona",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴塞罗那 Barcelona"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴塞罗那 Barcelona",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/巴塞罗那 Barcelona/巴塞罗那 Barcelona_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巴布亚新几内亚 Papua New Guinea",
       "title": "巴布亚新几内亚 Papua New Guinea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴布亚新几内亚 Papua New Guinea"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴布亚新几内亚 Papua New Guinea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/巴布亚新几内亚 Papua New Guinea/巴布亚新几内亚 Papua New Guinea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巴拉圭 Paraguay",
       "title": "巴拉圭 Paraguay",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴拉圭 Paraguay"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴拉圭 Paraguay",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/巴拉圭 Paraguay/巴拉圭 Paraguay_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巴拿马 Panama",
       "title": "巴拿马 Panama",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴拿马 Panama"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴拿马 Panama",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/巴拿马 Panama/巴拿马 Panama_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巴林 Bahrain",
       "title": "巴林 Bahrain",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴林 Bahrain"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴林 Bahrain",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/巴林 Bahrain/巴林 Bahrain_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巴西 Brazil",
       "title": "巴西 Brazil",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴西 Brazil"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴西 Brazil",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/巴西 Brazil/巴西 Brazil_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巴黎 Paris",
       "title": "巴黎 Paris",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴黎 Paris"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/巴黎 Paris",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/巴黎 Paris/巴黎 Paris_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "布宜诺斯艾利斯 Buenos Aires",
       "title": "布宜诺斯艾利斯 Buenos Aires",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/布宜诺斯艾利斯 Buenos Aires"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/布宜诺斯艾利斯 Buenos Aires",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/布宜诺斯艾利斯 Buenos Aires/布宜诺斯艾利斯 Buenos Aires_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "希腊 Greece",
       "title": "希腊 Greece",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/希腊 Greece"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/希腊 Greece",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/希腊 Greece/希腊 Greece_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "开普敦 Cape Town",
       "title": "开普敦 Cape Town",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/开普敦 Cape Town"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/开普敦 Cape Town",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/开普敦 Cape Town/开普敦 Cape Town_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "开罗 Cairo",
       "title": "开罗 Cairo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/开罗 Cairo"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/开罗 Cairo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/开罗 Cairo/开罗 Cairo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "德国 Germany",
       "title": "德国 Germany",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/德国 Germany"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/德国 Germany",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/德国 Germany/德国 Germany_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "恒河 Ganges River",
       "title": "恒河 Ganges River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/恒河 Ganges River"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/恒河 Ganges River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/恒河 Ganges River/恒河 Ganges River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "悉尼 Sydney",
       "title": "悉尼 Sydney",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/悉尼 Sydney"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/悉尼 Sydney",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/悉尼 Sydney/悉尼 Sydney_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "意大利 Italy",
       "title": "意大利 Italy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/意大利 Italy"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/意大利 Italy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/意大利 Italy/意大利 Italy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拉脱维亚 Latvia",
       "title": "拉脱维亚 Latvia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/拉脱维亚 Latvia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/拉脱维亚 Latvia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/拉脱维亚 Latvia/拉脱维亚 Latvia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "挪威 Norway",
       "title": "挪威 Norway",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/挪威 Norway"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/挪威 Norway",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/挪威 Norway/挪威 Norway_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "捷克 Czech Republic",
       "title": "捷克 Czech Republic",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/捷克 Czech Republic"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/捷克 Czech Republic",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/捷克 Czech Republic/捷克 Czech Republic_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "摩洛哥 Morocco",
       "title": "摩洛哥 Morocco",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/摩洛哥 Morocco"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/摩洛哥 Morocco",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/摩洛哥 Morocco/摩洛哥 Morocco_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "撒哈拉沙漠 Sahara Desert",
       "title": "撒哈拉沙漠 Sahara Desert",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/撒哈拉沙漠 Sahara Desert"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/撒哈拉沙漠 Sahara Desert",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/撒哈拉沙漠 Sahara Desert/撒哈拉沙漠 Sahara Desert_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "文莱 Brunei",
       "title": "文莱 Brunei",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/文莱 Brunei"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/文莱 Brunei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/文莱 Brunei/文莱 Brunei_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "斐济 Fiji",
       "title": "斐济 Fiji",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/斐济 Fiji"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/斐济 Fiji",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/斐济 Fiji/斐济 Fiji_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "斯洛伐克 Slovakia",
       "title": "斯洛伐克 Slovakia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/斯洛伐克 Slovakia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/斯洛伐克 Slovakia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/斯洛伐克 Slovakia/斯洛伐克 Slovakia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "斯洛文尼亚 Slovenia",
       "title": "斯洛文尼亚 Slovenia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/斯洛文尼亚 Slovenia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/斯洛文尼亚 Slovenia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/斯洛文尼亚 Slovenia/斯洛文尼亚 Slovenia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "斯里兰卡 Sri Lanka",
       "title": "斯里兰卡 Sri Lanka",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/斯里兰卡 Sri Lanka"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/斯里兰卡 Sri Lanka",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/斯里兰卡 Sri Lanka/斯里兰卡 Sri Lanka_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "新加坡 Singapore",
       "title": "新加坡 Singapore",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/新加坡 Singapore"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/新加坡 Singapore",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/新加坡 Singapore/新加坡 Singapore_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "新西兰 New Zealand",
       "title": "新西兰 New Zealand",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/新西兰 New Zealand"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/新西兰 New Zealand",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/新西兰 New Zealand/新西兰 New Zealand_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "日本 Japan",
       "title": "日本 Japan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/日本 Japan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/日本 Japan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/日本 Japan/日本 Japan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "智利 Chile",
       "title": "智利 Chile",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/智利 Chile"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/智利 Chile",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/智利 Chile/智利 Chile_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "曼谷 Bangkok",
       "title": "曼谷 Bangkok",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/曼谷 Bangkok"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/曼谷 Bangkok",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/曼谷 Bangkok/曼谷 Bangkok_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "朝鲜 North Korea",
       "title": "朝鲜 North Korea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/朝鲜 North Korea"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/朝鲜 North Korea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/朝鲜 North Korea/朝鲜 North Korea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "柏林 Berlin",
       "title": "柏林 Berlin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/柏林 Berlin"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/柏林 Berlin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/柏林 Berlin/柏林 Berlin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "柬埔寨 Cambodia",
       "title": "柬埔寨 Cambodia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/柬埔寨 Cambodia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/柬埔寨 Cambodia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/柬埔寨 Cambodia/柬埔寨 Cambodia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "欧洲 Europe",
       "title": "欧洲 Europe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/欧洲 Europe"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/欧洲 Europe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/欧洲 Europe/欧洲 Europe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "死海 Dead Sea",
       "title": "死海 Dead Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/死海 Dead Sea"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/死海 Dead Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/死海 Dead Sea/死海 Dead Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "比利时 Belgium",
       "title": "比利时 Belgium",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/比利时 Belgium"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/比利时 Belgium",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/比利时 Belgium/比利时 Belgium_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "沙特阿拉伯 Saudi Arabia",
       "title": "沙特阿拉伯 Saudi Arabia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/沙特阿拉伯 Saudi Arabia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/沙特阿拉伯 Saudi Arabia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/沙特阿拉伯 Saudi Arabia/沙特阿拉伯 Saudi Arabia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "法国 France",
       "title": "法国 France",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/法国 France"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/法国 France",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/法国 France/法国 France_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "波兰 Poland",
       "title": "波兰 Poland",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/波兰 Poland"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/波兰 Poland",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/波兰 Poland/波兰 Poland_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "泰国 Thailand",
       "title": "泰国 Thailand",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/泰国 Thailand"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/泰国 Thailand",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/泰国 Thailand/泰国 Thailand_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "泰晤士河 Thames River",
       "title": "泰晤士河 Thames River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/泰晤士河 Thames River"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/泰晤士河 Thames River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/泰晤士河 Thames River/泰晤士河 Thames River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "洛杉矶 Los Angeles",
       "title": "洛杉矶 Los Angeles",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/洛杉矶 Los Angeles"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/洛杉矶 Los Angeles",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/洛杉矶 Los Angeles/洛杉矶 Los Angeles_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "津巴布韦 Zimbabwe",
       "title": "津巴布韦 Zimbabwe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/津巴布韦 Zimbabwe"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/津巴布韦 Zimbabwe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/津巴布韦 Zimbabwe/津巴布韦 Zimbabwe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "海地 Haiti",
       "title": "海地 Haiti",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/海地 Haiti"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/海地 Haiti",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/海地 Haiti/海地 Haiti_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "温哥华 Vancouver",
       "title": "温哥华 Vancouver",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/温哥华 Vancouver"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/温哥华 Vancouver",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/温哥华 Vancouver/温哥华 Vancouver_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "湄公河 Mekong River",
       "title": "湄公河 Mekong River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/湄公河 Mekong River"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/湄公河 Mekong River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/湄公河 Mekong River/湄公河 Mekong River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "澳大利亚 Australia",
       "title": "澳大利亚 Australia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/澳大利亚 Australia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/澳大利亚 Australia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/澳大利亚 Australia/澳大利亚 Australia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爱尔兰 Ireland",
       "title": "爱尔兰 Ireland",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/爱尔兰 Ireland"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/爱尔兰 Ireland",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/爱尔兰 Ireland/爱尔兰 Ireland_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爱沙尼亚 Estonia",
       "title": "爱沙尼亚 Estonia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/爱沙尼亚 Estonia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/爱沙尼亚 Estonia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/爱沙尼亚 Estonia/爱沙尼亚 Estonia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "牙买加 Jamaica",
       "title": "牙买加 Jamaica",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/牙买加 Jamaica"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/牙买加 Jamaica",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/牙买加 Jamaica/牙买加 Jamaica_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玻利维亚 Bolivia",
       "title": "玻利维亚 Bolivia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/玻利维亚 Bolivia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/玻利维亚 Bolivia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/玻利维亚 Bolivia/玻利维亚 Bolivia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "瑞典 Sweden",
       "title": "瑞典 Sweden",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/瑞典 Sweden"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/瑞典 Sweden",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/瑞典 Sweden/瑞典 Sweden_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "瑞士 Switzerland",
       "title": "瑞士 Switzerland",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/瑞士 Switzerland"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/瑞士 Switzerland",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/瑞士 Switzerland/瑞士 Switzerland_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白俄罗斯 Belarus",
       "title": "白俄罗斯 Belarus",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/白俄罗斯 Belarus"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/白俄罗斯 Belarus",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/白俄罗斯 Belarus/白俄罗斯 Belarus_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "科威特 Kuwait",
       "title": "科威特 Kuwait",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/科威特 Kuwait"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/科威特 Kuwait",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/科威特 Kuwait/科威特 Kuwait_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "秘鲁 Peru",
       "title": "秘鲁 Peru",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/秘鲁 Peru"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/秘鲁 Peru",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/秘鲁 Peru/秘鲁 Peru_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "突尼斯 Tunisia",
       "title": "突尼斯 Tunisia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/突尼斯 Tunisia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/突尼斯 Tunisia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/突尼斯 Tunisia/突尼斯 Tunisia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "立陶宛 Lithuania",
       "title": "立陶宛 Lithuania",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/立陶宛 Lithuania"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/立陶宛 Lithuania",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/立陶宛 Lithuania/立陶宛 Lithuania_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红海 Red Sea",
       "title": "红海 Red Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/红海 Red Sea"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/红海 Red Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/红海 Red Sea/红海 Red Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "约旦 Jordan",
       "title": "约旦 Jordan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/约旦 Jordan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/约旦 Jordan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/约旦 Jordan/约旦 Jordan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "纳米比亚 Namibia",
       "title": "纳米比亚 Namibia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/纳米比亚 Namibia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/纳米比亚 Namibia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/纳米比亚 Namibia/纳米比亚 Namibia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "纽约 New York",
       "title": "纽约 New York",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/纽约 New York"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/纽约 New York",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/纽约 New York/纽约 New York_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "维也纳 Vienna",
       "title": "维也纳 Vienna",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/维也纳 Vienna"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/维也纳 Vienna",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/维也纳 Vienna/维也纳 Vienna_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "缅甸 Myanmar",
       "title": "缅甸 Myanmar",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/缅甸 Myanmar"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/缅甸 Myanmar",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/缅甸 Myanmar/缅甸 Myanmar_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "罗马 Rome",
       "title": "罗马 Rome",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/罗马 Rome"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/罗马 Rome",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/罗马 Rome/罗马 Rome_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "罗马尼亚 Romania",
       "title": "罗马尼亚 Romania",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/罗马尼亚 Romania"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/罗马尼亚 Romania",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/罗马尼亚 Romania/罗马尼亚 Romania_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "美国 United States",
       "title": "美国 United States",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/美国 United States"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/美国 United States",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/美国 United States/美国 United States_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老挝 Laos",
       "title": "老挝 Laos",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/老挝 Laos"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/老挝 Laos",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/老挝 Laos/老挝 Laos_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "肯尼亚 Kenya",
       "title": "肯尼亚 Kenya",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/肯尼亚 Kenya"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/肯尼亚 Kenya",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/肯尼亚 Kenya/肯尼亚 Kenya_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "芝加哥 Chicago",
       "title": "芝加哥 Chicago",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/芝加哥 Chicago"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/芝加哥 Chicago",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/芝加哥 Chicago/芝加哥 Chicago_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "芬兰 Finland",
       "title": "芬兰 Finland",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/芬兰 Finland"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/芬兰 Finland",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/芬兰 Finland/芬兰 Finland_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "苏丹 Sudan",
       "title": "苏丹 Sudan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/苏丹 Sudan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/苏丹 Sudan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/苏丹 Sudan/苏丹 Sudan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "英国 UK",
       "title": "英国 UK",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/英国 UK"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/英国 UK",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/英国 UK/英国 UK_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "荷兰 Netherlands",
       "title": "荷兰 Netherlands",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/荷兰 Netherlands"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/荷兰 Netherlands",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/荷兰 Netherlands/荷兰 Netherlands_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "莫斯科 Moscow",
       "title": "莫斯科 Moscow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/莫斯科 Moscow"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/莫斯科 Moscow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/莫斯科 Moscow/莫斯科 Moscow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "莫桑比克 Mozambique",
       "title": "莫桑比克 Mozambique",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/莫桑比克 Mozambique"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/莫桑比克 Mozambique",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/莫桑比克 Mozambique/莫桑比克 Mozambique_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "莱茵河 Rhine River",
       "title": "莱茵河 Rhine River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/莱茵河 Rhine River"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/莱茵河 Rhine River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/莱茵河 Rhine River/莱茵河 Rhine River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "菲律宾 Philippines",
       "title": "菲律宾 Philippines",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/菲律宾 Philippines"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/菲律宾 Philippines",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/菲律宾 Philippines/菲律宾 Philippines_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "萨摩亚 Samoa",
       "title": "萨摩亚 Samoa",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/萨摩亚 Samoa"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/萨摩亚 Samoa",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/萨摩亚 Samoa/萨摩亚 Samoa_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "落基山 Rocky Mountain",
       "title": "落基山 Rocky Mountain",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/落基山 Rocky Mountain"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/落基山 Rocky Mountain",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/落基山 Rocky Mountain/落基山 Rocky Mountain_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "葡萄牙 Portugal",
       "title": "葡萄牙 Portugal",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/葡萄牙 Portugal"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/葡萄牙 Portugal",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/葡萄牙 Portugal/葡萄牙 Portugal_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蒙古 Mongolia",
       "title": "蒙古 Mongolia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/蒙古 Mongolia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/蒙古 Mongolia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/蒙古 Mongolia/蒙古 Mongolia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "西班牙 Spain",
       "title": "西班牙 Spain",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/西班牙 Spain"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/西班牙 Spain",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/西班牙 Spain/西班牙 Spain_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "贝加尔湖 Lake Baikal",
       "title": "贝加尔湖 Lake Baikal",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/贝加尔湖 Lake Baikal"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/贝加尔湖 Lake Baikal",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/贝加尔湖 Lake Baikal/贝加尔湖 Lake Baikal_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "赞比亚 Zambia",
       "title": "赞比亚 Zambia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/赞比亚 Zambia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/赞比亚 Zambia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/赞比亚 Zambia/赞比亚 Zambia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "越南 Vietnam",
       "title": "越南 Vietnam",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/越南 Vietnam"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/越南 Vietnam",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/越南 Vietnam/越南 Vietnam_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "迪拜 Dubai",
       "title": "迪拜 Dubai",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/迪拜 Dubai"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/迪拜 Dubai",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/迪拜 Dubai/迪拜 Dubai_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "里海 Caspian Sea",
       "title": "里海 Caspian Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/里海 Caspian Sea"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/里海 Caspian Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/里海 Caspian Sea/里海 Caspian Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "里约热内卢 Rio de Janeiro",
       "title": "里约热内卢 Rio de Janeiro",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/里约热内卢 Rio de Janeiro"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/里约热内卢 Rio de Janeiro",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/里约热内卢 Rio de Janeiro/里约热内卢 Rio de Janeiro_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "阿姆斯特丹 Amsterdam",
       "title": "阿姆斯特丹 Amsterdam",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿姆斯特丹 Amsterdam"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿姆斯特丹 Amsterdam",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/阿姆斯特丹 Amsterdam/阿姆斯特丹 Amsterdam_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "阿富汗 Afghanistan",
       "title": "阿富汗 Afghanistan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿富汗 Afghanistan"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿富汗 Afghanistan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/阿富汗 Afghanistan/阿富汗 Afghanistan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "阿尔卑斯山 Alps",
       "title": "阿尔卑斯山 Alps",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿尔卑斯山 Alps"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿尔卑斯山 Alps",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/阿尔卑斯山 Alps/阿尔卑斯山 Alps_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "阿尔及利亚 Algeria",
       "title": "阿尔及利亚 Algeria",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿尔及利亚 Algeria"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿尔及利亚 Algeria",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/阿尔及利亚 Algeria/阿尔及利亚 Algeria_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "阿曼 Oman",
       "title": "阿曼 Oman",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿曼 Oman"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿曼 Oman",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/阿曼 Oman/阿曼 Oman_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "阿根廷 Argentina",
@@ -1269,105 +1977,165 @@
       "title": "阿联酋 UAE",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿联酋 UAE"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/阿联酋 UAE",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/阿联酋 UAE/阿联酋 UAE_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "雅典 Athens",
       "title": "雅典 Athens",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/雅典 Athens"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/雅典 Athens",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/雅典 Athens/雅典 Athens_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "雅加达 Jakarta",
       "title": "雅加达 Jakarta",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/雅加达 Jakarta"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/雅加达 Jakarta",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/雅加达 Jakarta/雅加达 Jakarta_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "非洲 Africa",
       "title": "非洲 Africa",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/非洲 Africa"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/非洲 Africa",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/非洲 Africa/非洲 Africa_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "韩国 South Korea",
       "title": "韩国 South Korea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/韩国 South Korea"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/韩国 South Korea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/韩国 South Korea/韩国 South Korea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "首尔 Seoul",
       "title": "首尔 Seoul",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/首尔 Seoul"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/首尔 Seoul",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/首尔 Seoul/首尔 Seoul_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "香港 Hong Kong",
       "title": "香港 Hong Kong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/香港 Hong Kong"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/香港 Hong Kong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/香港 Hong Kong/香港 Hong Kong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马尔代夫 Maldives",
       "title": "马尔代夫 Maldives",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马尔代夫 Maldives"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马尔代夫 Maldives",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/马尔代夫 Maldives/马尔代夫 Maldives_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马德里 Madrid",
       "title": "马德里 Madrid",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马德里 Madrid"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马德里 Madrid",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/马德里 Madrid/马德里 Madrid_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马来西亚 Malaysia",
       "title": "马来西亚 Malaysia",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马来西亚 Malaysia"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马来西亚 Malaysia",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/马来西亚 Malaysia/马来西亚 Malaysia_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马耳他 Malta",
       "title": "马耳他 Malta",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马耳他 Malta"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马耳他 Malta",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/马耳他 Malta/马耳他 Malta_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马达加斯加 Madagascar",
       "title": "马达加斯加 Madagascar",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马达加斯加 Madagascar"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马达加斯加 Madagascar",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/马达加斯加 Madagascar/马达加斯加 Madagascar_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马里 Mali",
       "title": "马里 Mali",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马里 Mali"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/马里 Mali",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/马里 Mali/马里 Mali_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黎巴嫩 Lebanon",
       "title": "黎巴嫩 Lebanon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/黎巴嫩 Lebanon"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/黎巴嫩 Lebanon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/黎巴嫩 Lebanon/黎巴嫩 Lebanon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黑海 Black Sea",
       "title": "黑海 Black Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/黑海 Black Sea"
+      "path": "瞎编的歌曲/地理知识/国际地理/英文歌曲/黑海 Black Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/国际地理/英文歌曲/黑海 Black Sea/黑海 Black Sea_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

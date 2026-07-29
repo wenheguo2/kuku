@@ -1,9 +1,10 @@
 """
 脚本7：场景图规格化
 ====================
-功能：将场景图统一缩放为 1920x1080px WebP（质量85），保持16:9比例不裁剪
+功能：将场景图统一缩放为 1920x1080px JPG（质量85），保持16:9比例不裁剪
 输入：production/illustrations/scence/{场景名}/xxx.png
-输出：同目录下 xxx.webp（原图保留不动）
+输出：同目录下 xxx.jpg（原图保留不动）
+⚠ 2026-07-29 全端通用格式决策：产出由 WebP 改为 JPG（微信开发者工具模拟器不解码 webp）
 运行机器：本机
 前置条件：无（可立即执行）
 
@@ -40,12 +41,12 @@ def find_images():
 
 def process_one(src, target_w, target_h, quality, force=False):
     """处理一张场景图 — 等比缩放到目标画布内，居中放置，不裁剪"""
-    dst = src.with_suffix(".webp")
+    dst = src.with_suffix(".jpg")
 
     if dst.exists() and not force:
-        return ("skip", str(src), "webp already exists")
+        return ("skip", str(src), "jpg already exists")
     if dst == src:
-        return ("skip", str(src), "source is already webp")
+        return ("skip", str(src), "source is already jpg")
 
     try:
         from PIL import Image
@@ -65,7 +66,7 @@ def process_one(src, target_w, target_h, quality, force=False):
         offset_y = (target_h - new_h) // 2
         canvas.paste(img, (offset_x, offset_y))
 
-        canvas.save(dst, "WEBP", quality=quality)
+        canvas.save(dst, "JPEG", quality=quality)
         return ("ok", str(src), f"{target_w}x{target_h}")
     except Exception as e:
         return ("fail", str(src), str(e)[:200])

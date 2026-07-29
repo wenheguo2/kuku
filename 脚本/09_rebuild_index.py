@@ -2,7 +2,7 @@
 """
 09_rebuild_index.py - 重建 generated_stories 全量索引
 严格镜像 generated_stories 物理目录层级，每个容器目录生成 _index.json
-封面引用 covers/generated 下的 .webp（无则回退父级）
+封面引用 covers/generated 下的 .jpg/.png（无则回退父级；2026-07-29 起不再用 webp）
 
 用法: Python312\\python.exe 项目/酷酷儿童故事/脚本/09_rebuild_index.py
 输出: production/index/generated_stories/（先清空旧索引再写入）
@@ -37,34 +37,59 @@ def safe_read_json(path: Path) -> dict | None:
         return None
 
 
+# 封面扩展名优先级（2026-07-29 全端通用格式决策：微信开发者工具不解码 webp，封面统一 jpg，
+# png 为早期手供图兜底；webp 已全量转换删除，不再产出）
+COVER_EXTS = (".jpg", ".png")
+
+
+def _find_cover(dir_path, stem: str) -> str | None:
+    """按扩展名优先级在 dir_path 下找 {stem}.{ext}，返回文件名（含扩展名）或 None"""
+    for ext in COVER_EXTS:
+        if (dir_path / f"{stem}{ext}").exists():
+            return f"{stem}{ext}"
+    return None
+
+
 def resolve_cover(rel_path: str, name: str = None) -> str | None:
     """
-    解析封面路径，沿目录链向上回退。
+    解析封面路径，沿目录链向上回退（扩展名按 COVER_EXTS 优先级）。
     rel_path: 相对于 generated_stories 的目录路径 (如 "上下五千年/E1成语故事")
     name: 条目名 (如 "一丘之貉")，用于查找故事级封面
     """
-    # 1. 故事/条目级: covers/generated/{rel_path}/{name}/{name}.webp
+    # 1. 故事/条目级: covers/generated/{rel_path}/{name}/{name}.jpg|png
     if name:
-        p = COVERS_DIR / rel_path / name / f"{name}.webp"
-        if p.exists():
-            return f"covers/generated/{rel_path}/{name}/{name}.webp"
+        fn = _find_cover(COVERS_DIR / rel_path / name, name)
+        if fn:
+            return f"covers/generated/{rel_path}/{name}/{fn}"
 
-    # 2. 当前目录级: covers/generated/{rel_path}/{dirname}.webp
+    # 2. 当前目录级: covers/generated/{rel_path}/{dirname}.jpg|png
     parts = rel_path.replace('\\', '/').split('/')
     dir_name = parts[-1] if parts else ''
     if dir_name:
-        p = COVERS_DIR / rel_path / f"{dir_name}.webp"
-        if p.exists():
-            return f"covers/generated/{rel_path}/{dir_name}.webp"
+        fn = _find_cover(COVERS_DIR / rel_path, dir_name)
+        if fn:
+            return f"covers/generated/{rel_path}/{fn}"
 
     # 3. 逐级向上回退
     for i in range(len(parts) - 1, 0, -1):
         parent_rel = '/'.join(parts[:i])
         parent_name = parts[i - 1]
-        p = COVERS_DIR / parent_rel / f"{parent_name}.webp"
-        if p.exists():
-            return f"covers/generated/{parent_rel}/{parent_name}.webp"
+        fn = _find_cover(COVERS_DIR / parent_rel, parent_name)
+        if fn:
+            return f"covers/generated/{parent_rel}/{fn}"
 
+    return None
+
+
+def resolve_song_cover(song_rel_path: str, name: str) -> str | None:
+    """
+    歌曲单曲封面: covers/generated/{song_rel_path}/{name}_1.jpg|png
+    song_rel_path: 相对于 generated_stories 的歌曲目录路径(末尾已含歌名文件夹)
+                   (如 "瞎编的歌曲/世界名人/中文歌曲/中文-孔子")
+    """
+    fn = _find_cover(COVERS_DIR / song_rel_path, f"{name}_1")
+    if fn:
+        return f"covers/generated/{song_rel_path}/{fn}"
     return None
 
 
@@ -195,15 +220,22 @@ def build_entry(dir_path: Path, rel_path: str, structure_type: str = 'standalone
 
 
 def build_txt_entry(file_path: Path, rel_path: str) -> dict:
-    """构建 .txt 歌曲条目"""
+    """构建 .txt 歌曲条目（挂单曲封面 {name}_1.jpg|png）"""
     name = file_path.stem
-    return {
+    cover = resolve_song_cover(rel_path, name)
+    entry = {
         'entry_id': name,
         'title': name,
         'structure_type': 'standalone',
         'display_as': 'story_card',
         'path': rel_path.replace('\\', '/'),
     }
+    if cover:
+        entry['cover'] = {
+            'cover_image_url': cover,
+            'cover_level': 'story',
+        }
+    return entry
 
 
 def build_chapter_entry(dir_path: Path, rel_path: str, index: int) -> dict:
@@ -712,21 +744,67 @@ def build_global_index(subjects_info: list) -> dict:
     }
 
 
+def parse_args():
+    """解析命令行参数，支持 --subject NAME / --subject=NAME 限定单学科重建"""
+    subject_filter = None
+    args = sys.argv[1:]
+    i = 0
+    while i < len(args):
+        a = args[i]
+        if a == '--subject':
+            if i + 1 < len(args):
+                subject_filter = args[i + 1]
+                i += 2
+                continue
+        elif a.startswith('--subject='):
+            subject_filter = a.split('=', 1)[1]
+        i += 1
+    return subject_filter
+
+
+def update_global_for_subject(subject_name: str, subject_info: dict):
+    """单学科重建后，合并更新 _global.json（不清空其它学科索引）"""
+    global_file = INDEX_DIR / "_global.json"
+    gdata = safe_read_json(global_file) or {}
+    if not isinstance(gdata, dict):
+        gdata = {}
+    subs = gdata.get("subjects", [])
+    if not isinstance(subs, list):
+        subs = []
+    subs = [s for s in subs if isinstance(s, dict) and s.get("subject_id") != subject_name]
+    subs.append(subject_info)
+    subs.sort(key=lambda s: s.get("subject_id", ""))
+    gdata["schema_version"] = "1.0"
+    gdata["index_type"] = "global_index"
+    gdata["generated_at"] = datetime.now().isoformat()
+    gdata["subjects"] = subs
+    gdata["stats"] = {
+        "total_subjects": len(subs),
+        "total_entries": sum(s.get("total_entries", 0) for s in subs),
+    }
+    with open(global_file, 'w', encoding='utf-8') as f:
+        json.dump(gdata, f, ensure_ascii=False, indent=2)
+
+
 def main():
+    subject_filter = parse_args()
     print(f"=== 重建索引 ===")
     print(f"源目录: {STORIES_DIR}")
     print(f"输出目录: {INDEX_DIR}")
     print(f"封面目录: {COVERS_DIR}")
+    if subject_filter:
+        print(f"范围: 仅学科 {subject_filter}")
     print()
 
     if not STORIES_DIR.exists():
         print(f"错误: 源目录不存在 {STORIES_DIR}")
         sys.exit(1)
 
-    # 清空旧索引
-    if INDEX_DIR.exists():
-        print(f"清空旧索引: {INDEX_DIR}")
-        shutil.rmtree(INDEX_DIR)
+    # 清空旧索引（仅全量重建时）
+    if subject_filter is None:
+        if INDEX_DIR.exists():
+            print(f"清空旧索引: {INDEX_DIR}")
+            shutil.rmtree(INDEX_DIR)
     INDEX_DIR.mkdir(parents=True, exist_ok=True)
 
     # 遍历学科
@@ -734,6 +812,11 @@ def main():
     subject_dirs = sorted([d for d in STORIES_DIR.iterdir()
                            if d.is_dir() and not should_ignore(d.name)],
                           key=lambda x: x.name)
+    if subject_filter:
+        subject_dirs = [d for d in subject_dirs if d.name == subject_filter]
+        if not subject_dirs:
+            print(f"错误: 未找到学科 {subject_filter}")
+            sys.exit(1)
 
     for subject_dir in subject_dirs:
         subject_name = subject_dir.name
@@ -768,14 +851,23 @@ def main():
         print(f"  小计: {subject_index.get('category_count', 0)} 个分类, {total} 条")
 
     # 全局索引
-    global_index = build_global_index(subjects_info)
-    global_file = INDEX_DIR / '_global.json'
-    with open(global_file, 'w', encoding='utf-8') as f:
-        json.dump(global_index, f, ensure_ascii=False, indent=2)
+    if subject_filter is None:
+        global_index = build_global_index(subjects_info)
+        global_file = INDEX_DIR / '_global.json'
+        with open(global_file, 'w', encoding='utf-8') as f:
+            json.dump(global_index, f, ensure_ascii=False, indent=2)
+    else:
+        for info in subjects_info:
+            update_global_for_subject(info['subject_id'], info)
+        global_file = INDEX_DIR / '_global.json'
 
     print(f"\n=== 完成 ===")
-    print(f"学科数: {len(subjects_info)}")
-    print(f"总条目: {global_index['stats']['total_entries']}")
+    if subject_filter is None:
+        print(f"学科数: {len(subjects_info)}")
+        print(f"总条目: {global_index['stats']['total_entries']}")
+    else:
+        print(f"已更新学科: {', '.join(s['subject_id'] for s in subjects_info)}")
+        print(f"该学科条目: {sum(s['total_entries'] for s in subjects_info)}")
     print(f"全局索引: {global_file}")
 
 

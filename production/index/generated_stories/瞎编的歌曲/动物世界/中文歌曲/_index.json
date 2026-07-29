@@ -1,0 +1,2149 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/动物世界/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 194,
+  "entries": [
+    {
+      "entry_id": "中文-三文鱼",
+      "title": "中文-三文鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-三文鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-三文鱼/中文-三文鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-三角龙",
+      "title": "中文-三角龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-三角龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-三角龙/中文-三角龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-丹顶鹤",
+      "title": "中文-丹顶鹤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-丹顶鹤",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-丹顶鹤/中文-丹顶鹤_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乌贼",
+      "title": "中文-乌贼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-乌贼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-乌贼/中文-乌贼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乌鸦",
+      "title": "中文-乌鸦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-乌鸦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-乌鸦/中文-乌鸦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乌龟",
+      "title": "中文-乌龟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-乌龟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-乌龟/中文-乌龟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-仓鼠",
+      "title": "中文-仓鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-仓鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-仓鼠/中文-仓鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-企鹅",
+      "title": "中文-企鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-企鹅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-企鹅/中文-企鹅_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-信天翁",
+      "title": "中文-信天翁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-信天翁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-信天翁/中文-信天翁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-兔子",
+      "title": "中文-兔子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-兔子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-兔子/中文-兔子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-凤凰",
+      "title": "中文-凤凰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-凤凰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-凤凰/中文-凤凰_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-刺猬",
+      "title": "中文-刺猬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-刺猬",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-刺猬/中文-刺猬_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-剑鱼",
+      "title": "中文-剑鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-剑鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-剑鱼/中文-剑鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-剑龙",
+      "title": "中文-剑龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-剑龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-剑龙/中文-剑龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-副栉龙",
+      "title": "中文-副栉龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-副栉龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-副栉龙/中文-副栉龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-北极熊",
+      "title": "中文-北极熊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-北极熊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-北极熊/中文-北极熊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-变色龙",
+      "title": "中文-变色龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-变色龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-变色龙/中文-变色龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-啄木鸟",
+      "title": "中文-啄木鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-啄木鸟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-啄木鸟/中文-啄木鸟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-喜鹊",
+      "title": "中文-喜鹊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-喜鹊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-喜鹊/中文-喜鹊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-土拨鼠",
+      "title": "中文-土拨鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-土拨鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-土拨鼠/中文-土拨鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-夜莺",
+      "title": "中文-夜莺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-夜莺",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-夜莺/中文-夜莺_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大熊猫",
+      "title": "中文-大熊猫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-大熊猫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-大熊猫/中文-大熊猫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大象",
+      "title": "中文-大象",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-大象",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-大象/中文-大象_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大雁",
+      "title": "中文-大雁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-大雁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-大雁/中文-大雁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-天牛",
+      "title": "中文-天牛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-天牛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-天牛/中文-天牛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-天鹅",
+      "title": "中文-天鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-天鹅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-天鹅/中文-天鹅_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-始祖鸟",
+      "title": "中文-始祖鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-始祖鸟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-始祖鸟/中文-始祖鸟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孔雀",
+      "title": "中文-孔雀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-孔雀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-孔雀/中文-孔雀_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小丑鱼",
+      "title": "中文-小丑鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-小丑鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-小丑鱼/中文-小丑鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小熊猫",
+      "title": "中文-小熊猫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-小熊猫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-小熊猫/中文-小熊猫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-屎壳郎",
+      "title": "中文-屎壳郎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-屎壳郎",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-屎壳郎/中文-屎壳郎_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-山羊",
+      "title": "中文-山羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-山羊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-山羊/中文-山羊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-座头鲸",
+      "title": "中文-座头鲸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-座头鲸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-座头鲸/中文-座头鲸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-异特龙",
+      "title": "中文-异特龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-异特龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-异特龙/中文-异特龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-恐龙",
+      "title": "中文-恐龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-恐龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-恐龙/中文-恐龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-慈母龙",
+      "title": "中文-慈母龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-慈母龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-慈母龙/中文-慈母龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-扇贝",
+      "title": "中文-扇贝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-扇贝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-扇贝/中文-扇贝_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-抹香鲸",
+      "title": "中文-抹香鲸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-抹香鲸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-抹香鲸/中文-抹香鲸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-斑马",
+      "title": "中文-斑马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-斑马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-斑马/中文-斑马_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-旱獭",
+      "title": "中文-旱獭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-旱獭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-旱獭/中文-旱獭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-朱鹮",
+      "title": "中文-朱鹮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-朱鹮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-朱鹮/中文-朱鹮_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杜鹃",
+      "title": "中文-杜鹃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-杜鹃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-杜鹃/中文-杜鹃_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-松鼠",
+      "title": "中文-松鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-松鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-松鼠/中文-松鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-树懒",
+      "title": "中文-树懒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-树懒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-树懒/中文-树懒_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-梁龙",
+      "title": "中文-梁龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-梁龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-梁龙/中文-梁龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-棕熊",
+      "title": "中文-棕熊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-棕熊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-棕熊/中文-棕熊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-棘龙",
+      "title": "中文-棘龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-棘龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-棘龙/中文-棘龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-比目鱼",
+      "title": "中文-比目鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-比目鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-比目鱼/中文-比目鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-水母",
+      "title": "中文-水母",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-水母",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-水母/中文-水母_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-水牛",
+      "title": "中文-水牛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-水牛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-水牛/中文-水牛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-水獭",
+      "title": "中文-水獭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-水獭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-水獭/中文-水獭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-沧龙",
+      "title": "中文-沧龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-沧龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-沧龙/中文-沧龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-河豚",
+      "title": "中文-河豚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-河豚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-河豚/中文-河豚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-河马",
+      "title": "中文-河马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-河马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-河马/中文-河马_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-浣熊",
+      "title": "中文-浣熊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-浣熊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-浣熊/中文-浣熊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海参",
+      "title": "中文-海参",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海参",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海参/中文-海参_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海星",
+      "title": "中文-海星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海星/中文-海星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海狮",
+      "title": "中文-海狮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海狮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海狮/中文-海狮_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海狸",
+      "title": "中文-海狸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海狸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海狸/中文-海狸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海胆",
+      "title": "中文-海胆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海胆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海胆/中文-海胆_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海葵",
+      "title": "中文-海葵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海葵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海葵/中文-海葵_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海豚",
+      "title": "中文-海豚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海豚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海豚/中文-海豚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海象",
+      "title": "中文-海象",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海象",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海象/中文-海象_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海豹",
+      "title": "中文-海豹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海豹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海豹/中文-海豹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海马",
+      "title": "中文-海马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海马/中文-海马_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海鸥",
+      "title": "中文-海鸥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海鸥",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海鸥/中文-海鸥_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海龟",
+      "title": "中文-海龟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-海龟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-海龟/中文-海龟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-火烈鸟",
+      "title": "中文-火烈鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-火烈鸟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-火烈鸟/中文-火烈鸟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-火鸡",
+      "title": "中文-火鸡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-火鸡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-火鸡/中文-火鸡_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-灰鹭",
+      "title": "中文-灰鹭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-灰鹭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-灰鹭/中文-灰鹭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-热带鱼",
+      "title": "中文-热带鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-热带鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-热带鱼/中文-热带鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-燕子",
+      "title": "中文-燕子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-燕子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-燕子/中文-燕子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-牡蛎",
+      "title": "中文-牡蛎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-牡蛎",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-牡蛎/中文-牡蛎_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-犀牛",
+      "title": "中文-犀牛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-犀牛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-犀牛/中文-犀牛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-犰狳",
+      "title": "中文-犰狳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-犰狳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-犰狳/中文-犰狳_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狍子",
+      "title": "中文-狍子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-狍子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-狍子/中文-狍子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狐狸",
+      "title": "中文-狐狸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-狐狸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-狐狸/中文-狐狸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狐獴",
+      "title": "中文-狐獴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-狐獴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-狐獴/中文-狐獴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-独角仙",
+      "title": "中文-独角仙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-独角仙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-独角仙/中文-独角仙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-独角兽",
+      "title": "中文-独角兽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-独角兽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-独角兽/中文-独角兽_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狮子",
+      "title": "中文-狮子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-狮子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-狮子/中文-狮子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猎豹",
+      "title": "中文-猎豹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-猎豹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-猎豹/中文-猎豹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猞猁",
+      "title": "中文-猞猁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-猞猁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-猞猁/中文-猞猁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猩猩",
+      "title": "中文-猩猩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-猩猩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-猩猩/中文-猩猩_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猫头鹰",
+      "title": "中文-猫头鹰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-猫头鹰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-猫头鹰/中文-猫头鹰_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猴子",
+      "title": "中文-猴子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-猴子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-猴子/中文-猴子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-獾",
+      "title": "中文-獾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-獾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-獾/中文-獾_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-珊瑚",
+      "title": "中文-珊瑚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-珊瑚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-珊瑚/中文-珊瑚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-瓢虫",
+      "title": "中文-瓢虫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-瓢虫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-瓢虫/中文-瓢虫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-甲龙",
+      "title": "中文-甲龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-甲龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-甲龙/中文-甲龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-电鳗",
+      "title": "中文-电鳗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-电鳗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-电鳗/中文-电鳗_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-画眉",
+      "title": "中文-画眉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-画眉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-画眉/中文-画眉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白蚁",
+      "title": "中文-白蚁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-白蚁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-白蚁/中文-白蚁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白鹭",
+      "title": "中文-白鹭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-白鹭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-白鹭/中文-白鹭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白鹳",
+      "title": "中文-白鹳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-白鹳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-白鹳/中文-白鹳_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-百灵",
+      "title": "中文-百灵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-百灵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-百灵/中文-百灵_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-瞪羚",
+      "title": "中文-瞪羚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-瞪羚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-瞪羚/中文-瞪羚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-知更鸟",
+      "title": "中文-知更鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-知更鸟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-知更鸟/中文-知更鸟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-秃鹫",
+      "title": "中文-秃鹫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-秃鹫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-秃鹫/中文-秃鹫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-穿山甲",
+      "title": "中文-穿山甲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-穿山甲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-穿山甲/中文-穿山甲_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-章鱼",
+      "title": "中文-章鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-章鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-章鱼/中文-章鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-羊驼",
+      "title": "中文-羊驼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-羊驼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-羊驼/中文-羊驼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-美洲狮",
+      "title": "中文-美洲狮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-美洲狮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-美洲狮/中文-美洲狮_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-美洲豹",
+      "title": "中文-美洲豹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-美洲豹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-美洲豹/中文-美洲豹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-美洲驼",
+      "title": "中文-美洲驼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-美洲驼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-美洲驼/中文-美洲驼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-羚羊",
+      "title": "中文-羚羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-羚羊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-羚羊/中文-羚羊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-翠鸟",
+      "title": "中文-翠鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-翠鸟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-翠鸟/中文-翠鸟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-翼龙",
+      "title": "中文-翼龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-翼龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-翼龙/中文-翼龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老虎",
+      "title": "中文-老虎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-老虎",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-老虎/中文-老虎_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老鹰",
+      "title": "中文-老鹰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-老鹰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-老鹰/中文-老鹰_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老鼠",
+      "title": "中文-老鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-老鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-老鼠/中文-老鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-考拉",
+      "title": "中文-考拉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-考拉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-考拉/中文-考拉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-腕龙",
+      "title": "中文-腕龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-腕龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-腕龙/中文-腕龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-臭鼬",
+      "title": "中文-臭鼬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-臭鼬",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-臭鼬/中文-臭鼬_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-苍蝇",
+      "title": "中文-苍蝇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-苍蝇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-苍蝇/中文-苍蝇_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-萤火虫",
+      "title": "中文-萤火虫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-萤火虫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-萤火虫/中文-萤火虫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-藏羚羊",
+      "title": "中文-藏羚羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-藏羚羊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-藏羚羊/中文-藏羚羊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-虎鲸",
+      "title": "中文-虎鲸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-虎鲸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-虎鲸/中文-虎鲸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-虾",
+      "title": "中文-虾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-虾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-虾/中文-虾_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蚂蚁",
+      "title": "中文-蚂蚁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蚂蚁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蚂蚁/中文-蚂蚁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蚊子",
+      "title": "中文-蚊子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蚊子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蚊子/中文-蚊子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蚯蚓",
+      "title": "中文-蚯蚓",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蚯蚓",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蚯蚓/中文-蚯蚓_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蚱蜢",
+      "title": "中文-蚱蜢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蚱蜢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蚱蜢/中文-蚱蜢_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蛇颈龙",
+      "title": "中文-蛇颈龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蛇颈龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蛇颈龙/中文-蛇颈龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蛤蜊",
+      "title": "中文-蛤蜊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蛤蜊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蛤蜊/中文-蛤蜊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蜂鸟",
+      "title": "中文-蜂鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蜂鸟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蜂鸟/中文-蜂鸟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蜈蚣",
+      "title": "中文-蜈蚣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蜈蚣",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蜈蚣/中文-蜈蚣_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蜉蝣",
+      "title": "中文-蜉蝣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蜉蝣",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蜉蝣/中文-蜉蝣_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蜗牛",
+      "title": "中文-蜗牛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蜗牛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蜗牛/中文-蜗牛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蜘蛛",
+      "title": "中文-蜘蛛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蜘蛛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蜘蛛/中文-蜘蛛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蜜蜂",
+      "title": "中文-蜜蜂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蜜蜂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蜜蜂/中文-蜜蜂_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蜥蜴",
+      "title": "中文-蜥蜴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蜥蜴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蜥蜴/中文-蜥蜴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蜻蜓",
+      "title": "中文-蜻蜓",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蜻蜓",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蜻蜓/中文-蜻蜓_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蝉",
+      "title": "中文-蝉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蝉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蝉/中文-蝉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蝎子",
+      "title": "中文-蝎子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蝎子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蝎子/中文-蝎子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蝗虫",
+      "title": "中文-蝗虫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蝗虫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蝗虫/中文-蝗虫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蝙蝠",
+      "title": "中文-蝙蝠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蝙蝠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蝙蝠/中文-蝙蝠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蝴蝶",
+      "title": "中文-蝴蝶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蝴蝶",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蝴蝶/中文-蝴蝶_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-螃蟹",
+      "title": "中文-螃蟹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-螃蟹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-螃蟹/中文-螃蟹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-螳螂",
+      "title": "中文-螳螂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-螳螂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-螳螂/中文-螳螂_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蟋蟀",
+      "title": "中文-蟋蟀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蟋蟀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蟋蟀/中文-蟋蟀_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蟑螂",
+      "title": "中文-蟑螂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-蟑螂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-蟑螂/中文-蟑螂_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-袋熊",
+      "title": "中文-袋熊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-袋熊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-袋熊/中文-袋熊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-袋鼠",
+      "title": "中文-袋鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-袋鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-袋鼠/中文-袋鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-角马",
+      "title": "中文-角马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-角马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-角马/中文-角马_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-豚鼠",
+      "title": "中文-豚鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-豚鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-豚鼠/中文-豚鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-豪猪",
+      "title": "中文-豪猪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-豪猪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-豪猪/中文-豪猪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-豹",
+      "title": "中文-豹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-豹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-豹/中文-豹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-貂",
+      "title": "中文-貂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-貂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-貂/中文-貂_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-貘",
+      "title": "中文-貘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-貘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-貘/中文-貘_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-贝壳",
+      "title": "中文-贝壳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-贝壳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-贝壳/中文-贝壳_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-负鼠",
+      "title": "中文-负鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-负鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-负鼠/中文-负鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-迅猛龙",
+      "title": "中文-迅猛龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-迅猛龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-迅猛龙/中文-迅猛龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-野牛",
+      "title": "中文-野牛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-野牛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-野牛/中文-野牛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-野猪",
+      "title": "中文-野猪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-野猪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-野猪/中文-野猪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-金丝雀",
+      "title": "中文-金丝雀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-金丝雀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-金丝雀/中文-金丝雀_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-金枪鱼",
+      "title": "中文-金枪鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-金枪鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-金枪鱼/中文-金枪鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-金鱼",
+      "title": "中文-金鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-金鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-金鱼/中文-金鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-金龟子",
+      "title": "中文-金龟子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-金龟子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-金龟子/中文-金龟子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-长颈鹿",
+      "title": "中文-长颈鹿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-长颈鹿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-长颈鹿/中文-长颈鹿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雉鸡",
+      "title": "中文-雉鸡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-雉鸡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-雉鸡/中文-雉鸡_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雨燕",
+      "title": "中文-雨燕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-雨燕",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-雨燕/中文-雨燕_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雪豹",
+      "title": "中文-雪豹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-雪豹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-雪豹/中文-雪豹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雷龙",
+      "title": "中文-雷龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-雷龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-雷龙/中文-雷龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-青蛙",
+      "title": "中文-青蛙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-青蛙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-青蛙/中文-青蛙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-食蚁兽",
+      "title": "中文-食蚁兽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-食蚁兽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-食蚁兽/中文-食蚁兽_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-马门溪龙",
+      "title": "中文-马门溪龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-马门溪龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-马门溪龙/中文-马门溪龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-驯鹿",
+      "title": "中文-驯鹿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-驯鹿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-驯鹿/中文-驯鹿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-骆驼",
+      "title": "中文-骆驼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-骆驼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-骆驼/中文-骆驼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鱼龙",
+      "title": "中文-鱼龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鱼龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鱼龙/中文-鱼龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鱿鱼",
+      "title": "中文-鱿鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鱿鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鱿鱼/中文-鱿鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鲍鱼",
+      "title": "中文-鲍鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鲍鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鲍鱼/中文-鲍鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鲨鱼",
+      "title": "中文-鲨鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鲨鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鲨鱼/中文-鲨鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鲸鱼",
+      "title": "中文-鲸鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鲸鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鲸鱼/中文-鲸鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鳄鱼",
+      "title": "中文-鳄鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鳄鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鳄鱼/中文-鳄鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鳐鱼",
+      "title": "中文-鳐鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鳐鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鳐鱼/中文-鳐鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鳕鱼",
+      "title": "中文-鳕鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鳕鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鳕鱼/中文-鳕鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鸬鹚",
+      "title": "中文-鸬鹚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鸬鹚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鸬鹚/中文-鸬鹚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鸭嘴兽",
+      "title": "中文-鸭嘴兽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鸭嘴兽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鸭嘴兽/中文-鸭嘴兽_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鸭子",
+      "title": "中文-鸭子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鸭子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鸭子/中文-鸭子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鸳鸯",
+      "title": "中文-鸳鸯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鸳鸯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鸳鸯/中文-鸳鸯_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鸵鸟",
+      "title": "中文-鸵鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鸵鸟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鸵鸟/中文-鸵鸟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鸽子",
+      "title": "中文-鸽子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鸽子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鸽子/中文-鸽子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鹈鹕",
+      "title": "中文-鹈鹕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鹈鹕",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鹈鹕/中文-鹈鹕_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鹌鹑",
+      "title": "中文-鹌鹑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鹌鹑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鹌鹑/中文-鹌鹑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鹦鹉",
+      "title": "中文-鹦鹉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鹦鹉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鹦鹉/中文-鹦鹉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-麋鹿",
+      "title": "中文-麋鹿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-麋鹿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-麋鹿/中文-麋鹿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-麻雀",
+      "title": "中文-麻雀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-麻雀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-麻雀/中文-麻雀_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄鹂",
+      "title": "中文-黄鹂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-黄鹂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-黄鹂/中文-黄鹂_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄鼠狼",
+      "title": "中文-黄鼠狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-黄鼠狼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-黄鼠狼/中文-黄鼠狼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黑猩猩",
+      "title": "中文-黑猩猩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-黑猩猩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-黑猩猩/中文-黑猩猩_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鼩鼱",
+      "title": "中文-鼩鼱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鼩鼱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鼩鼱/中文-鼩鼱_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鼹鼠",
+      "title": "中文-鼹鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-鼹鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-鼹鼠/中文-鼹鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-龙虾",
+      "title": "中文-龙虾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/动物世界/中文歌曲/中文-龙虾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/中文歌曲/中文-龙虾/中文-龙虾_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

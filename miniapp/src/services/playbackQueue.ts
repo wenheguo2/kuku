@@ -50,7 +50,10 @@ export async function playStory(path: string, title: string): Promise<SegmentsDa
   // 竞态防护：加载期间若有更新的播放请求，丢弃本次结果，避免旧故事覆盖新内容
   if (myToken !== playToken) return seg;
   const store = usePlayerStore.getState();
-  store.setCurrent({ type: 'story', id: path, title, coverUrl: seg.cover_url });
+  // 封面回退：segments.cover_url 多为空，回退到队列项 coverUrl（首页/列表/章回入队时携真封面）
+  const qCover = store.queue.find((it) => it.type === 'story' && it.id === path)?.coverUrl;
+  const coverUrl = seg.cover_url || qCover;
+  store.setCurrent({ type: 'story', id: path, title, coverUrl });
   store.setTime(0, 0);
   if (!CONFIG.USE_MOCK) {
     const audio = seg.full_audio_url
@@ -59,7 +62,7 @@ export async function playStory(path: string, title: string): Promise<SegmentsDa
     player.load(audio, true, {
       title,
       album: '酷酷儿童故事',
-      coverUrl: seg.cover_url ? buildAssetUrl(seg.cover_url) : undefined,
+      coverUrl: coverUrl ? buildAssetUrl(coverUrl) : undefined,
     });
     store.setPlaying(true);
   }

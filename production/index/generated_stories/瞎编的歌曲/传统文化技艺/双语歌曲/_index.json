@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/传统文化技艺/双语歌曲",
   "name": "双语歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/传统文化技艺.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/双语歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 28,
@@ -16,196 +16,308 @@
       "title": "二胡-Erhu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/二胡-Erhu"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/二胡-Erhu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/二胡-Erhu/二胡-Erhu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "京剧角色-Peking Opera Roles",
       "title": "京剧角色-Peking Opera Roles",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/京剧角色-Peking Opera Roles"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/京剧角色-Peking Opera Roles",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/京剧角色-Peking Opera Roles/京剧角色-Peking Opera Roles_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "剪纸-Paper Cutting",
       "title": "剪纸-Paper Cutting",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/剪纸-Paper Cutting"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/剪纸-Paper Cutting",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/剪纸-Paper Cutting/剪纸-Paper Cutting_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "古筝-Guzheng",
       "title": "古筝-Guzheng",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/古筝-Guzheng"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/古筝-Guzheng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/古筝-Guzheng/古筝-Guzheng_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "围棋规则-Go Game Rules",
       "title": "围棋规则-Go Game Rules",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/围棋规则-Go Game Rules"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/围棋规则-Go Game Rules",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/围棋规则-Go Game Rules/围棋规则-Go Game Rules_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "对称剪-Symmetry Cut",
       "title": "对称剪-Symmetry Cut",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/对称剪-Symmetry Cut"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/对称剪-Symmetry Cut",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/对称剪-Symmetry Cut/对称剪-Symmetry Cut_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "山水画-Landscape",
       "title": "山水画-Landscape",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/山水画-Landscape"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/山水画-Landscape",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/山水画-Landscape/山水画-Landscape_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "文房四宝-Four Treasures",
       "title": "文房四宝-Four Treasures",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/文房四宝-Four Treasures"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/文房四宝-Four Treasures",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/文房四宝-Four Treasures/文房四宝-Four Treasures_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "棋道精神-Chess Spirit",
       "title": "棋道精神-Chess Spirit",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/棋道精神-Chess Spirit"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/棋道精神-Chess Spirit",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/棋道精神-Chess Spirit/棋道精神-Chess Spirit_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "毛笔-Brush Pen",
       "title": "毛笔-Brush Pen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/毛笔-Brush Pen"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/毛笔-Brush Pen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/毛笔-Brush Pen/毛笔-Brush Pen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "水墨画-Ink Painting",
       "title": "水墨画-Ink Painting",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/水墨画-Ink Painting"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/水墨画-Ink Painting",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/水墨画-Ink Painting/水墨画-Ink Painting_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "王羲之-Wang Xizhi",
       "title": "王羲之-Wang Xizhi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/王羲之-Wang Xizhi"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/王羲之-Wang Xizhi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/王羲之-Wang Xizhi/王羲之-Wang Xizhi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "琵琶-Pipa",
       "title": "琵琶-Pipa",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/琵琶-Pipa"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/琵琶-Pipa",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/琵琶-Pipa/琵琶-Pipa_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "生肖剪纸-Zodiac Paper",
       "title": "生肖剪纸-Zodiac Paper",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/生肖剪纸-Zodiac Paper"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/生肖剪纸-Zodiac Paper",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/生肖剪纸-Zodiac Paper/生肖剪纸-Zodiac Paper_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "窗花-Window Flower",
       "title": "窗花-Window Flower",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/窗花-Window Flower"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/窗花-Window Flower",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/窗花-Window Flower/窗花-Window Flower_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "笔画顺序-Stroke Order",
       "title": "笔画顺序-Stroke Order",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/笔画顺序-Stroke Order"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/笔画顺序-Stroke Order",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/笔画顺序-Stroke Order/笔画顺序-Stroke Order_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "笛子-Bamboo Flute",
       "title": "笛子-Bamboo Flute",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/笛子-Bamboo Flute"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/笛子-Bamboo Flute",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/笛子-Bamboo Flute/笛子-Bamboo Flute_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红脸忠义-Red Face Loyalty",
       "title": "红脸忠义-Red Face Loyalty",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/红脸忠义-Red Face Loyalty"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/红脸忠义-Red Face Loyalty",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/红脸忠义-Red Face Loyalty/红脸忠义-Red Face Loyalty_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "经典剧目-Classic Plays",
       "title": "经典剧目-Classic Plays",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/经典剧目-Classic Plays"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/经典剧目-Classic Plays",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/经典剧目-Classic Plays/经典剧目-Classic Plays_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "脸谱颜色-Face Mask Colors",
       "title": "脸谱颜色-Face Mask Colors",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/脸谱颜色-Face Mask Colors"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/脸谱颜色-Face Mask Colors",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/脸谱颜色-Face Mask Colors/脸谱颜色-Face Mask Colors_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "花鸟画-Flower and Bird",
       "title": "花鸟画-Flower and Bird",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/花鸟画-Flower and Bird"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/花鸟画-Flower and Bird",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/花鸟画-Flower and Bird/花鸟画-Flower and Bird_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茶具-Tea Tools",
       "title": "茶具-Tea Tools",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/茶具-Tea Tools"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/茶具-Tea Tools",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/茶具-Tea Tools/茶具-Tea Tools_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茶叶种类-Tea Types",
       "title": "茶叶种类-Tea Types",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/茶叶种类-Tea Types"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/茶叶种类-Tea Types",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/茶叶种类-Tea Types/茶叶种类-Tea Types_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茶艺-Tea Ceremony",
       "title": "茶艺-Tea Ceremony",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/茶艺-Tea Ceremony"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/茶艺-Tea Ceremony",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/茶艺-Tea Ceremony/茶艺-Tea Ceremony_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茶道精神-Tea Spirit",
       "title": "茶道精神-Tea Spirit",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/茶道精神-Tea Spirit"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/茶道精神-Tea Spirit",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/茶道精神-Tea Spirit/茶道精神-Tea Spirit_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "象棋-Chinese Chess",
       "title": "象棋-Chinese Chess",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/象棋-Chinese Chess"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/象棋-Chinese Chess",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/象棋-Chinese Chess/象棋-Chinese Chess_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黑白棋子-Black White Stones",
       "title": "黑白棋子-Black White Stones",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/黑白棋子-Black White Stones"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/黑白棋子-Black White Stones",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/黑白棋子-Black White Stones/黑白棋子-Black White Stones_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "齐白石-Qi Baishi",
       "title": "齐白石-Qi Baishi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/齐白石-Qi Baishi"
+      "path": "瞎编的歌曲/传统文化技艺/双语歌曲/齐白石-Qi Baishi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/双语歌曲/齐白石-Qi Baishi/齐白石-Qi Baishi_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

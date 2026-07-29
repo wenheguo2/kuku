@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0",
   "index_type": "global_index",
-  "generated_at": "2026-07-23T14:25:00.297080",
+  "generated_at": "2026-07-29T14:18:49.367448",
   "stats": {
     "total_subjects": 11,
-    "total_entries": 38605
+    "total_entries": 38541
   },
   "subjects": [
     {
@@ -13,7 +13,7 @@
       "category_count": 8,
       "total_entries": 2697,
       "cover": {
-        "cover_image_url": "covers/generated/上下五千年/上下五千年.webp",
+        "cover_image_url": "covers/generated/上下五千年/上下五千年.jpg",
         "cover_level": "subject"
       }
     },
@@ -23,7 +23,7 @@
       "category_count": 11,
       "total_entries": 2962,
       "cover": {
-        "cover_image_url": "covers/generated/双界之门/双界之门.webp",
+        "cover_image_url": "covers/generated/双界之门/双界之门.jpg",
         "cover_level": "subject"
       }
     },
@@ -33,7 +33,7 @@
       "category_count": 9,
       "total_entries": 1565,
       "cover": {
-        "cover_image_url": "covers/generated/品格养成/品格养成.webp",
+        "cover_image_url": "covers/generated/品格养成/品格养成.jpg",
         "cover_level": "subject"
       }
     },
@@ -43,7 +43,7 @@
       "category_count": 3,
       "total_entries": 7509,
       "cover": {
-        "cover_image_url": "covers/generated/学科启蒙/学科启蒙.webp",
+        "cover_image_url": "covers/generated/学科启蒙/学科启蒙.jpg",
         "cover_level": "subject"
       }
     },
@@ -53,7 +53,7 @@
       "category_count": 9,
       "total_entries": 1555,
       "cover": {
-        "cover_image_url": "covers/generated/情绪疗愈/情绪疗愈.webp",
+        "cover_image_url": "covers/generated/情绪疗愈/情绪疗愈.jpg",
         "cover_level": "subject"
       }
     },
@@ -63,7 +63,7 @@
       "category_count": 9,
       "total_entries": 1006,
       "cover": {
-        "cover_image_url": "covers/generated/生活认知/生活认知.webp",
+        "cover_image_url": "covers/generated/生活认知/生活认知.jpg",
         "cover_level": "subject"
       }
     },
@@ -71,9 +71,9 @@
       "subject_id": "瞎编的歌曲",
       "subject_name": "瞎编的歌曲",
       "category_count": 43,
-      "total_entries": 18452,
+      "total_entries": 18388,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/瞎编的歌曲.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/瞎编的歌曲.jpg",
         "cover_level": "subject"
       }
     },
@@ -83,7 +83,7 @@
       "category_count": 9,
       "total_entries": 554,
       "cover": {
-        "cover_image_url": "covers/generated/神州之外/神州之外.webp",
+        "cover_image_url": "covers/generated/神州之外/神州之外.jpg",
         "cover_level": "subject"
       }
     },
@@ -93,7 +93,7 @@
       "category_count": 7,
       "total_entries": 1331,
       "cover": {
-        "cover_image_url": "covers/generated/自然科学/自然科学.webp",
+        "cover_image_url": "covers/generated/自然科学/自然科学.jpg",
         "cover_level": "subject"
       }
     },
@@ -103,7 +103,7 @@
       "category_count": 9,
       "total_entries": 485,
       "cover": {
-        "cover_image_url": "covers/generated/蒙学经典/蒙学经典.webp",
+        "cover_image_url": "covers/generated/蒙学经典/蒙学经典.jpg",
         "cover_level": "subject"
       }
     },
@@ -113,7 +113,7 @@
       "category_count": 2,
       "total_entries": 489,
       "cover": {
-        "cover_image_url": "covers/generated/诗词天地/诗词天地.webp",
+        "cover_image_url": "covers/generated/诗词天地/诗词天地.jpg",
         "cover_level": "subject"
       }
     }

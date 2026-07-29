@@ -13,8 +13,10 @@ import { ConfigService } from '@nestjs/config';
 import { NestFactory } from '@nestjs/core';
 import type { Request, Response, NextFunction } from 'express';
 import { json, urlencoded } from 'express';
+import { join } from 'path';
 import { AppModule } from './app.module';
 import { AllExceptionsFilter } from './common/filters/all-exceptions.filter';
+import { createWebpCompatMiddleware } from './common/dev/webp-compat';
 import { ResponseInterceptor } from './common/interceptors/response.interceptor';
 
 async function bootstrap() {
@@ -43,12 +45,14 @@ async function bootstrap() {
   if (trustProxy && typeof httpInstance?.set === 'function') {
     httpInstance.set('trust proxy', /^\d+$/.test(trustProxy) ? Number(trustProxy) : trustProxy === 'true' ? true : trustProxy);
   }
-  app.use((_req: Request, res: Response, next: NextFunction) => {
+  app.use((req: Request, res: Response, next: NextFunction) => {
     res.setHeader('X-Content-Type-Options', 'nosniff');
     res.setHeader('X-Frame-Options', 'DENY');
     res.setHeader('X-DNS-Prefetch-Control', 'off');
     res.setHeader('Referrer-Policy', 'no-referrer');
-    res.setHeader('Cross-Origin-Resource-Policy', 'same-site');
+    // 静态资源必须 cross-origin：小程序渲染层/CDN 场景下 Image 加载不同源，same-site 会被内核按 CORP 拦截
+    // （实测：开发者工具 getImageInfo(原生管线)成功但 Image 组件全空白，根因即此头）；业务 API 仍 same-site
+    res.setHeader('Cross-Origin-Resource-Policy', (req.path || '').startsWith('/static/') ? 'cross-origin' : 'same-site');
     next();
   });
 
@@ -57,6 +61,17 @@ async function bootstrap() {
     .map((origin) => origin.trim())
     .filter(Boolean);
   const isProduction = config.get<string>('NODE_ENV') === 'production';
+  // 开发期 webp→png 兼容：微信开发者工具模拟器不解码 webp（真机支持），仅拦 wechatdevtools UA；
+  // 需在 listen 前挂载才能排在 ServeStaticModule 路由之前（其在 init 阶段才注册）
+  if (!isProduction) {
+    const staticRoot = join(process.cwd(), config.get<string>('STATIC_ROOT', '../production'));
+    app.use(createWebpCompatMiddleware(staticRoot, join(process.cwd(), '.webp-cache')));
+    // 开发期索引 JSON 禁缓存：无 Cache-Control 时浏览器启发式缓存会让索引更新后 h5 仍读旧内容（实测教训）
+    app.use((req: Request, res: Response, next: NextFunction) => {
+      if (req.path && req.path.startsWith('/static/index/')) res.setHeader('Cache-Control', 'no-cache');
+      next();
+    });
+  }
   app.enableCors({
     origin: isProduction ? corsOrigins : true,
     credentials: true,

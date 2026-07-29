@@ -56,6 +56,10 @@ export function findLrcIndex(lines: LrcLine[], currentSec: number): number {
 }
 
 const META_LINE = /^\[(ti|ar|al|by|offset|re|ve)\b[^\]]*\]\s*$/i;
+// 真实歌曲 txt 的非歌词行：首行元信息（如「世界名人|中文|人物|丁肇中」）、段落标记（[Intro]/[Verse]…）、括号提示行（（前奏歌词））
+const SONG_META_LINE = /\|/;
+const SECTION_TAG_LINE = /^\[[^\]]+\]\s*$/;
+const HINT_LINE = /^[（(][^）)]*[）)]\s*$/;
 
 /**
  * 双方案统一入口：有时间标签→逐句(lrc)；无时间标签但有文本→整首(plain)；否则 none
@@ -68,6 +72,6 @@ export function parseLyrics(raw?: string | null): LyricsDoc {
   const plain = raw
     .split(/\r?\n/)
     .map((line) => line.trim())
-    .filter((line) => line && !META_LINE.test(line));
+    .filter((line) => line && !META_LINE.test(line) && !SONG_META_LINE.test(line) && !SECTION_TAG_LINE.test(line) && !HINT_LINE.test(line));
   return plain.length > 0 ? { mode: 'plain', lines: plain } : { mode: 'none' };
 }

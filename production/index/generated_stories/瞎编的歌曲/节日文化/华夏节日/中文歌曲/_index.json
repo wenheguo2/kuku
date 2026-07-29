@@ -1,0 +1,521 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 46,
+  "entries": [
+    {
+      "entry_id": "中文-七夕节",
+      "title": "中文-七夕节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-七夕节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-七夕节/中文-七夕节_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-中秋吃月饼",
+      "title": "中文-中秋吃月饼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-中秋吃月饼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-中秋吃月饼/中文-中秋吃月饼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-中秋节",
+      "title": "中文-中秋节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-中秋节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-中秋节/中文-中秋节_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-中秋赏月",
+      "title": "中文-中秋赏月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-中秋赏月",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-中秋赏月/中文-中秋赏月_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-元宵吃汤圆",
+      "title": "中文-元宵吃汤圆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-元宵吃汤圆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-元宵吃汤圆/中文-元宵吃汤圆_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-元宵节",
+      "title": "中文-元宵节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-元宵节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-元宵节/中文-元宵节_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-元宵赏灯",
+      "title": "中文-元宵赏灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-元宵赏灯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-元宵赏灯/中文-元宵赏灯_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-冬至",
+      "title": "中文-冬至",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-冬至",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-冬至/中文-冬至_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-冬至吃饺子",
+      "title": "中文-冬至吃饺子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-冬至吃饺子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-冬至吃饺子/中文-冬至吃饺子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-处暑",
+      "title": "中文-处暑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-处暑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-处暑/中文-处暑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-夏至",
+      "title": "中文-夏至",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-夏至",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-夏至/中文-夏至_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大寒",
+      "title": "中文-大寒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-大寒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-大寒/中文-大寒_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大暑",
+      "title": "中文-大暑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-大暑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-大暑/中文-大暑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大雪",
+      "title": "中文-大雪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-大雪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-大雪/中文-大雪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-寒露",
+      "title": "中文-寒露",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-寒露",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-寒露/中文-寒露_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小寒",
+      "title": "中文-小寒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小寒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小寒/中文-小寒_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小年",
+      "title": "中文-小年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小年",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小年/中文-小年_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小年祭灶",
+      "title": "中文-小年祭灶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小年祭灶",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小年祭灶/中文-小年祭灶_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小暑",
+      "title": "中文-小暑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小暑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小暑/中文-小暑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小满",
+      "title": "中文-小满",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小满",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小满/中文-小满_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小雪",
+      "title": "中文-小雪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小雪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-小雪/中文-小雪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-惊蛰",
+      "title": "中文-惊蛰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-惊蛰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-惊蛰/中文-惊蛰_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-春分",
+      "title": "中文-春分",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-春分",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-春分/中文-春分_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-春节",
+      "title": "中文-春节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-春节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-春节/中文-春节_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-春节拜年",
+      "title": "中文-春节拜年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-春节拜年",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-春节拜年/中文-春节拜年_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-春节贴春联",
+      "title": "中文-春节贴春联",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-春节贴春联",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-春节贴春联/中文-春节贴春联_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-清明",
+      "title": "中文-清明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-清明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-清明/中文-清明_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-清明祭祖",
+      "title": "中文-清明祭祖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-清明祭祖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-清明祭祖/中文-清明祭祖_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-清明节",
+      "title": "中文-清明节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-清明节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-清明节/中文-清明节_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白露",
+      "title": "中文-白露",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-白露",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-白露/中文-白露_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-秋分",
+      "title": "中文-秋分",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-秋分",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-秋分/中文-秋分_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-立冬",
+      "title": "中文-立冬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-立冬",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-立冬/中文-立冬_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-立春",
+      "title": "中文-立春",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-立春",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-立春/中文-立春_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-立春咬春",
+      "title": "中文-立春咬春",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-立春咬春",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-立春咬春/中文-立春咬春_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-立秋",
+      "title": "中文-立秋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-立秋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-立秋/中文-立秋_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-端午吃粽子",
+      "title": "中文-端午吃粽子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-端午吃粽子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-端午吃粽子/中文-端午吃粽子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-端午节",
+      "title": "中文-端午节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-端午节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-端午节/中文-端午节_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-端午赛龙舟",
+      "title": "中文-端午赛龙舟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-端午赛龙舟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-端午赛龙舟/中文-端午赛龙舟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-腊八喝粥",
+      "title": "中文-腊八喝粥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-腊八喝粥",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-腊八喝粥/中文-腊八喝粥_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-腊八节",
+      "title": "中文-腊八节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-腊八节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-腊八节/中文-腊八节_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-芒种",
+      "title": "中文-芒种",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-芒种",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-芒种/中文-芒种_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-谷雨",
+      "title": "中文-谷雨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-谷雨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-谷雨/中文-谷雨_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-重阳节",
+      "title": "中文-重阳节",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-重阳节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-重阳节/中文-重阳节_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-除夕守岁",
+      "title": "中文-除夕守岁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-除夕守岁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-除夕守岁/中文-除夕守岁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雨水",
+      "title": "中文-雨水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-雨水",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-雨水/中文-雨水_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-霜降",
+      "title": "中文-霜降",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-霜降",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/中文歌曲/中文-霜降/中文-霜降_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

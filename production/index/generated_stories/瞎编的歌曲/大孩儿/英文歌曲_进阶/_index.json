@@ -6,241 +6,373 @@
   "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶",
   "name": "英文歌曲_进阶",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/大孩儿.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/英文歌曲_进阶.jpg",
     "cover_level": "category"
   },
-  "entry_count": 300,
+  "entry_count": 299,
   "entries": [
     {
       "entry_id": "1. Abandoned Castle Abandoned Castle",
       "title": "1. Abandoned Castle Abandoned Castle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/1. Abandoned Castle Abandoned Castle"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/1. Abandoned Castle Abandoned Castle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/1. Abandoned Castle Abandoned Castle/1. Abandoned Castle Abandoned Castle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "10. Accurate Prediction Accurate Prediction",
       "title": "10. Accurate Prediction Accurate Prediction",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/10. Accurate Prediction Accurate Prediction"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/10. Accurate Prediction Accurate Prediction",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/10. Accurate Prediction Accurate Prediction/10. Accurate Prediction Accurate Prediction_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "100. Begin Again Begin Again",
       "title": "100. Begin Again Begin Again",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/100. Begin Again Begin Again"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/100. Begin Again Begin Again",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/100. Begin Again Begin Again/100. Begin Again Begin Again_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "101. Behave with Honor Behave with Honor",
       "title": "101. Behave with Honor Behave with Honor",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/101. Behave with Honor Behave with Honor"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/101. Behave with Honor Behave with Honor",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/101. Behave with Honor Behave with Honor/101. Behave with Honor Behave with Honor_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "102. Belief System Belief System",
       "title": "102. Belief System Belief System",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/102. Belief System Belief System"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/102. Belief System Belief System",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/102. Belief System Belief System/102. Belief System Belief System_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "103. Belong Anywhere Belong Anywhere",
       "title": "103. Belong Anywhere Belong Anywhere",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/103. Belong Anywhere Belong Anywhere"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/103. Belong Anywhere Belong Anywhere",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/103. Belong Anywhere Belong Anywhere/103. Belong Anywhere Belong Anywhere_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "104. Bend the Rules Bend the Rules",
       "title": "104. Bend the Rules Bend the Rules",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/104. Bend the Rules Bend the Rules"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/104. Bend the Rules Bend the Rules",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/104. Bend the Rules Bend the Rules/104. Bend the Rules Bend the Rules_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "105. Benefit of Doubt Benefit of Doubt",
       "title": "105. Benefit of Doubt Benefit of Doubt",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/105. Benefit of Doubt Benefit of Doubt"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/105. Benefit of Doubt Benefit of Doubt",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/105. Benefit of Doubt Benefit of Doubt/105. Benefit of Doubt Benefit of Doubt_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "106. Betray the Trust Betray the Trust",
       "title": "106. Betray the Trust Betray the Trust",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/106. Betray the Trust Betray the Trust"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/106. Betray the Trust Betray the Trust",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/106. Betray the Trust Betray the Trust/106. Betray the Trust Betray the Trust_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "107. Bewildered Traveler Bewildered Traveler",
       "title": "107. Bewildered Traveler Bewildered Traveler",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/107. Bewildered Traveler Bewildered Traveler"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/107. Bewildered Traveler Bewildered Traveler",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/107. Bewildered Traveler Bewildered Traveler/107. Bewildered Traveler Bewildered Traveler_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "108. Bid Farewell Bid Farewell",
       "title": "108. Bid Farewell Bid Farewell",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/108. Bid Farewell Bid Farewell"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/108. Bid Farewell Bid Farewell",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/108. Bid Farewell Bid Farewell/108. Bid Farewell Bid Farewell_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "109. Bind the Covenant Bind the Covenant",
       "title": "109. Bind the Covenant Bind the Covenant",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/109. Bind the Covenant Bind the Covenant"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/109. Bind the Covenant Bind the Covenant",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/109. Bind the Covenant Bind the Covenant/109. Bind the Covenant Bind the Covenant_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "11. Achieve Mastery Achieve Mastery",
       "title": "11. Achieve Mastery Achieve Mastery",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/11. Achieve Mastery Achieve Mastery"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/11. Achieve Mastery Achieve Mastery",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/11. Achieve Mastery Achieve Mastery/11. Achieve Mastery Achieve Mastery_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "110. Bitter Harvest Bitter Harvest",
       "title": "110. Bitter Harvest Bitter Harvest",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/110. Bitter Harvest Bitter Harvest"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/110. Bitter Harvest Bitter Harvest",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/110. Bitter Harvest Bitter Harvest/110. Bitter Harvest Bitter Harvest_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "111. Blame the Mirror Blame the Mirror",
       "title": "111. Blame the Mirror Blame the Mirror",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/111. Blame the Mirror Blame the Mirror"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/111. Blame the Mirror Blame the Mirror",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/111. Blame the Mirror Blame the Mirror/111. Blame the Mirror Blame the Mirror_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "112. Blaze a Trail Blaze a Trail",
       "title": "112. Blaze a Trail Blaze a Trail",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/112. Blaze a Trail Blaze a Trail"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/112. Blaze a Trail Blaze a Trail",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/112. Blaze a Trail Blaze a Trail/112. Blaze a Trail Blaze a Trail_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "113. Blend the Colors Blend the Colors",
       "title": "113. Blend the Colors Blend the Colors",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/113. Blend the Colors Blend the Colors"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/113. Blend the Colors Blend the Colors",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/113. Blend the Colors Blend the Colors/113. Blend the Colors Blend the Colors_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "114. Bless the Broken Bless the Broken",
       "title": "114. Bless the Broken Bless the Broken",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/114. Bless the Broken Bless the Broken"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/114. Bless the Broken Bless the Broken",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/114. Bless the Broken Bless the Broken/114. Bless the Broken Bless the Broken_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "115. Blind Ambition Blind Ambition",
       "title": "115. Blind Ambition Blind Ambition",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/115. Blind Ambition Blind Ambition"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/115. Blind Ambition Blind Ambition",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/115. Blind Ambition Blind Ambition/115. Blind Ambition Blind Ambition_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "116. Block the Noise Block the Noise",
       "title": "116. Block the Noise Block the Noise",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/116. Block the Noise Block the Noise"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/116. Block the Noise Block the Noise",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/116. Block the Noise Block the Noise/116. Block the Noise Block the Noise_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "12. Acknowledge Flaws Acknowledge Flaws",
       "title": "12. Acknowledge Flaws Acknowledge Flaws",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/12. Acknowledge Flaws Acknowledge Flaws"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/12. Acknowledge Flaws Acknowledge Flaws",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/12. Acknowledge Flaws Acknowledge Flaws/12. Acknowledge Flaws Acknowledge Flaws_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "13. Acquire Knowledge Acquire Knowledge",
       "title": "13. Acquire Knowledge Acquire Knowledge",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/13. Acquire Knowledge Acquire Knowledge"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/13. Acquire Knowledge Acquire Knowledge",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/13. Acquire Knowledge Acquire Knowledge/13. Acquire Knowledge Acquire Knowledge_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "14. Adapt to Chaos Adapt to Chaos",
       "title": "14. Adapt to Chaos Adapt to Chaos",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/14. Adapt to Chaos Adapt to Chaos"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/14. Adapt to Chaos Adapt to Chaos",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/14. Adapt to Chaos Adapt to Chaos/14. Adapt to Chaos Adapt to Chaos_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "15. Adequate Resources Adequate Resources",
       "title": "15. Adequate Resources Adequate Resources",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/15. Adequate Resources Adequate Resources"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/15. Adequate Resources Adequate Resources",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/15. Adequate Resources Adequate Resources/15. Adequate Resources Adequate Resources_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "16. Adjacent Worlds Adjacent Worlds",
       "title": "16. Adjacent Worlds Adjacent Worlds",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/16. Adjacent Worlds Adjacent Worlds"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/16. Adjacent Worlds Adjacent Worlds",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/16. Adjacent Worlds Adjacent Worlds/16. Adjacent Worlds Adjacent Worlds_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "17. Adjust Perspective Adjust Perspective",
       "title": "17. Adjust Perspective Adjust Perspective",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/17. Adjust Perspective Adjust Perspective"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/17. Adjust Perspective Adjust Perspective",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/17. Adjust Perspective Adjust Perspective/17. Adjust Perspective Adjust Perspective_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "18. Admire the Unknown Admire the Unknown",
       "title": "18. Admire the Unknown Admire the Unknown",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/18. Admire the Unknown Admire the Unknown"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/18. Admire the Unknown Admire the Unknown",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/18. Admire the Unknown Admire the Unknown/18. Admire the Unknown Admire the Unknown_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "19. Adopt Innovation Adopt Innovation",
       "title": "19. Adopt Innovation Adopt Innovation",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/19. Adopt Innovation Adopt Innovation"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/19. Adopt Innovation Adopt Innovation",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/19. Adopt Innovation Adopt Innovation/19. Adopt Innovation Adopt Innovation_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "2. Absolute Loyalty Absolute Loyalty",
       "title": "2. Absolute Loyalty Absolute Loyalty",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/2. Absolute Loyalty Absolute Loyalty"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/2. Absolute Loyalty Absolute Loyalty",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/2. Absolute Loyalty Absolute Loyalty/2. Absolute Loyalty Absolute Loyalty_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "20. Advance Boldly Advance Boldly",
       "title": "20. Advance Boldly Advance Boldly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/20. Advance Boldly Advance Boldly"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/20. Advance Boldly Advance Boldly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/20. Advance Boldly Advance Boldly/20. Advance Boldly Advance Boldly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "21. Adverse Conditions Adverse Conditions",
       "title": "21. Adverse Conditions Adverse Conditions",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/21. Adverse Conditions Adverse Conditions"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/21. Adverse Conditions Adverse Conditions",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/21. Adverse Conditions Adverse Conditions/21. Adverse Conditions Adverse Conditions_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "22. Advocate Justice Advocate Justice",
       "title": "22. Advocate Justice Advocate Justice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/22. Advocate Justice Advocate Justice"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/22. Advocate Justice Advocate Justice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/22. Advocate Justice Advocate Justice/22. Advocate Justice Advocate Justice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "23. Affectionate Melody Affectionate Melody",
       "title": "23. Affectionate Melody Affectionate Melody",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/23. Affectionate Melody Affectionate Melody"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/23. Affectionate Melody Affectionate Melody",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/23. Affectionate Melody Affectionate Melody/23. Affectionate Melody Affectionate Melody_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "24. Aggregate Energy Aggregate Energy",
@@ -254,21 +386,33 @@
       "title": "25. Aggressive Ambition Aggressive Ambition",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/25. Aggressive Ambition Aggressive Ambition"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/25. Aggressive Ambition Aggressive Ambition",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/25. Aggressive Ambition Aggressive Ambition/25. Aggressive Ambition Aggressive Ambition_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "26. Agree to Disagree Agree to Disagree",
       "title": "26. Agree to Disagree Agree to Disagree",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/26. Agree to Disagree Agree to Disagree"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/26. Agree to Disagree Agree to Disagree",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/26. Agree to Disagree Agree to Disagree/26. Agree to Disagree Agree to Disagree_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "27. Alienate the Crowd Alienate the Crowd",
       "title": "27. Alienate the Crowd Alienate the Crowd",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/27. Alienate the Crowd Alienate the Crowd"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/27. Alienate the Crowd Alienate the Crowd",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/27. Alienate the Crowd Alienate the Crowd/27. Alienate the Crowd Alienate the Crowd_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "28. Align with Destiny Align with Destiny",
@@ -282,154 +426,242 @@
       "title": "29. Allegiance to Truth Allegiance to Truth",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/29. Allegiance to Truth Allegiance to Truth"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/29. Allegiance to Truth Allegiance to Truth",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/29. Allegiance to Truth Allegiance to Truth/29. Allegiance to Truth Allegiance to Truth_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "3. Abstract Painting Abstract Painting",
       "title": "3. Abstract Painting Abstract Painting",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/3. Abstract Painting Abstract Painting"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/3. Abstract Painting Abstract Painting",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/3. Abstract Painting Abstract Painting/3. Abstract Painting Abstract Painting_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "30. Allocate Resources Allocate Resources",
       "title": "30. Allocate Resources Allocate Resources",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/30. Allocate Resources Allocate Resources"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/30. Allocate Resources Allocate Resources",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/30. Allocate Resources Allocate Resources/30. Allocate Resources Allocate Resources_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "31. Alter the Course Alter the Course",
       "title": "31. Alter the Course Alter the Course",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/31. Alter the Course Alter the Course"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/31. Alter the Course Alter the Course",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/31. Alter the Course Alter the Course/31. Alter the Course Alter the Course_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "32. Alternative Route Alternative Route",
       "title": "32. Alternative Route Alternative Route",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/32. Alternative Route Alternative Route"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/32. Alternative Route Alternative Route",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/32. Alternative Route Alternative Route/32. Alternative Route Alternative Route_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "33. Amass Fortune Amass Fortune",
       "title": "33. Amass Fortune Amass Fortune",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/33. Amass Fortune Amass Fortune"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/33. Amass Fortune Amass Fortune",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/33. Amass Fortune Amass Fortune/33. Amass Fortune Amass Fortune_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "34. Ambiguous Signals Ambiguous Signals",
       "title": "34. Ambiguous Signals Ambiguous Signals",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/34. Ambiguous Signals Ambiguous Signals"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/34. Ambiguous Signals Ambiguous Signals",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/34. Ambiguous Signals Ambiguous Signals/34. Ambiguous Signals Ambiguous Signals_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "35. Ambitious Vision Ambitious Vision",
       "title": "35. Ambitious Vision Ambitious Vision",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/35. Ambitious Vision Ambitious Vision"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/35. Ambitious Vision Ambitious Vision",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/35. Ambitious Vision Ambitious Vision/35. Ambitious Vision Ambitious Vision_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "36. Amend the Past Amend the Past",
       "title": "36. Amend the Past Amend the Past",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/36. Amend the Past Amend the Past"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/36. Amend the Past Amend the Past",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/36. Amend the Past Amend the Past/36. Amend the Past Amend the Past_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "37. Amplify Silence Amplify Silence",
       "title": "37. Amplify Silence Amplify Silence",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/37. Amplify Silence Amplify Silence"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/37. Amplify Silence Amplify Silence",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/37. Amplify Silence Amplify Silence/37. Amplify Silence Amplify Silence_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "38. Amuse the Senses Amuse the Senses",
       "title": "38. Amuse the Senses Amuse the Senses",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/38. Amuse the Senses Amuse the Senses"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/38. Amuse the Senses Amuse the Senses",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/38. Amuse the Senses Amuse the Senses/38. Amuse the Senses Amuse the Senses_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "39. Analyze the Pattern Analyze the Pattern",
       "title": "39. Analyze the Pattern Analyze the Pattern",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/39. Analyze the Pattern Analyze the Pattern"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/39. Analyze the Pattern Analyze the Pattern",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/39. Analyze the Pattern Analyze the Pattern/39. Analyze the Pattern Analyze the Pattern_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "4. Academic Integrity Academic Integrity",
       "title": "4. Academic Integrity Academic Integrity",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/4. Academic Integrity Academic Integrity"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/4. Academic Integrity Academic Integrity",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/4. Academic Integrity Academic Integrity/4. Academic Integrity Academic Integrity_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "40. Anchor in Reality Anchor in Reality",
       "title": "40. Anchor in Reality Anchor in Reality",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/40. Anchor in Reality Anchor in Reality"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/40. Anchor in Reality Anchor in Reality",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/40. Anchor in Reality Anchor in Reality/40. Anchor in Reality Anchor in Reality_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "41. Ancient Echoes Ancient Echoes",
       "title": "41. Ancient Echoes Ancient Echoes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/41. Ancient Echoes Ancient Echoes"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/41. Ancient Echoes Ancient Echoes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/41. Ancient Echoes Ancient Echoes/41. Ancient Echoes Ancient Echoes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "42. Animate the Soul Animate the Soul",
       "title": "42. Animate the Soul Animate the Soul",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/42. Animate the Soul Animate the Soul"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/42. Animate the Soul Animate the Soul",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/42. Animate the Soul Animate the Soul/42. Animate the Soul Animate the Soul_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "43. Announce the Dawn Announce the Dawn",
       "title": "43. Announce the Dawn Announce the Dawn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/43. Announce the Dawn Announce the Dawn"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/43. Announce the Dawn Announce the Dawn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/43. Announce the Dawn Announce the Dawn/43. Announce the Dawn Announce the Dawn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "44. Annoy the Shadows Annoy the Shadows",
       "title": "44. Annoy the Shadows Annoy the Shadows",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/44. Annoy the Shadows Annoy the Shadows"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/44. Annoy the Shadows Annoy the Shadows",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/44. Annoy the Shadows Annoy the Shadows/44. Annoy the Shadows Annoy the Shadows_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "45. Anticipate Wonder Anticipate Wonder",
       "title": "45. Anticipate Wonder Anticipate Wonder",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/45. Anticipate Wonder Anticipate Wonder"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/45. Anticipate Wonder Anticipate Wonder",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/45. Anticipate Wonder Anticipate Wonder/45. Anticipate Wonder Anticipate Wonder_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "46. Apparent Mirage Apparent Mirage",
       "title": "46. Apparent Mirage Apparent Mirage",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/46. Apparent Mirage Apparent Mirage"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/46. Apparent Mirage Apparent Mirage",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/46. Apparent Mirage Apparent Mirage/46. Apparent Mirage Apparent Mirage_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "47. Appeal to Reason Appeal to Reason",
       "title": "47. Appeal to Reason Appeal to Reason",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/47. Appeal to Reason Appeal to Reason"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/47. Appeal to Reason Appeal to Reason",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/47. Appeal to Reason Appeal to Reason/47. Appeal to Reason Appeal to Reason_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "48. Applaud the Brave Applaud the Brave",
       "title": "48. Applaud the Brave Applaud the Brave",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/48. Applaud the Brave Applaud the Brave"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/48. Applaud the Brave Applaud the Brave",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/48. Applaud the Brave Applaud the Brave/48. Applaud the Brave Applaud the Brave_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "49. Apply the Lesson Apply the Lesson",
@@ -443,287 +675,451 @@
       "title": "5. Accelerate Momentum Accelerate Momentum",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/5. Accelerate Momentum Accelerate Momentum"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/5. Accelerate Momentum Accelerate Momentum",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/5. Accelerate Momentum Accelerate Momentum/5. Accelerate Momentum Accelerate Momentum_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "50. Appoint a Guide Appoint a Guide",
       "title": "50. Appoint a Guide Appoint a Guide",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/50. Appoint a Guide Appoint a Guide"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/50. Appoint a Guide Appoint a Guide",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/50. Appoint a Guide Appoint a Guide/50. Appoint a Guide Appoint a Guide_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "51. Appreciate Silence Appreciate Silence",
       "title": "51. Appreciate Silence Appreciate Silence",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/51. Appreciate Silence Appreciate Silence"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/51. Appreciate Silence Appreciate Silence",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/51. Appreciate Silence Appreciate Silence/51. Appreciate Silence Appreciate Silence_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "52. Approach the Threshold Approach the Threshold",
       "title": "52. Approach the Threshold Approach the Threshold",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/52. Approach the Threshold Approach the Threshold"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/52. Approach the Threshold Approach the Threshold",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/52. Approach the Threshold Approach the Threshold/52. Approach the Threshold Approach the Threshold_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "53. Appropriate Response Appropriate Response",
       "title": "53. Appropriate Response Appropriate Response",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/53. Appropriate Response Appropriate Response"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/53. Appropriate Response Appropriate Response",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/53. Appropriate Response Appropriate Response/53. Appropriate Response Appropriate Response_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "54. Approve the Path Approve the Path",
       "title": "54. Approve the Path Approve the Path",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/54. Approve the Path Approve the Path"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/54. Approve the Path Approve the Path",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/54. Approve the Path Approve the Path/54. Approve the Path Approve the Path_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "55. Arbitrary Rules Arbitrary Rules",
       "title": "55. Arbitrary Rules Arbitrary Rules",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/55. Arbitrary Rules Arbitrary Rules"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/55. Arbitrary Rules Arbitrary Rules",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/55. Arbitrary Rules Arbitrary Rules/55. Arbitrary Rules Arbitrary Rules_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "56. Archive Memories Archive Memories",
       "title": "56. Archive Memories Archive Memories",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/56. Archive Memories Archive Memories"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/56. Archive Memories Archive Memories",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/56. Archive Memories Archive Memories/56. Archive Memories Archive Memories_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "57. Argue the Point Argue the Point",
       "title": "57. Argue the Point Argue the Point",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/57. Argue the Point Argue the Point"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/57. Argue the Point Argue the Point",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/57. Argue the Point Argue the Point/57. Argue the Point Argue the Point_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "58. Arise from Ashes Arise from Ashes",
       "title": "58. Arise from Ashes Arise from Ashes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/58. Arise from Ashes Arise from Ashes"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/58. Arise from Ashes Arise from Ashes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/58. Arise from Ashes Arise from Ashes/58. Arise from Ashes Arise from Ashes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "59. Arrange the Stars Arrange the Stars",
       "title": "59. Arrange the Stars Arrange the Stars",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/59. Arrange the Stars Arrange the Stars"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/59. Arrange the Stars Arrange the Stars",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/59. Arrange the Stars Arrange the Stars/59. Arrange the Stars Arrange the Stars_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "6. Accessible Dreams Accessible Dreams",
       "title": "6. Accessible Dreams Accessible Dreams",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/6. Accessible Dreams Accessible Dreams"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/6. Accessible Dreams Accessible Dreams",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/6. Accessible Dreams Accessible Dreams/6. Accessible Dreams Accessible Dreams_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "60. Arrest the Moment Arrest the Moment",
       "title": "60. Arrest the Moment Arrest the Moment",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/60. Arrest the Moment Arrest the Moment"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/60. Arrest the Moment Arrest the Moment",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/60. Arrest the Moment Arrest the Moment/60. Arrest the Moment Arrest the Moment_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "61. Articulate Dreams Articulate Dreams",
       "title": "61. Articulate Dreams Articulate Dreams",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/61. Articulate Dreams Articulate Dreams"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/61. Articulate Dreams Articulate Dreams",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/61. Articulate Dreams Articulate Dreams/61. Articulate Dreams Articulate Dreams_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "62. Ascend the Spiral Ascend the Spiral",
       "title": "62. Ascend the Spiral Ascend the Spiral",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/62. Ascend the Spiral Ascend the Spiral"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/62. Ascend the Spiral Ascend the Spiral",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/62. Ascend the Spiral Ascend the Spiral/62. Ascend the Spiral Ascend the Spiral_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "63. Aspire to Greatness Aspire to Greatness",
       "title": "63. Aspire to Greatness Aspire to Greatness",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/63. Aspire to Greatness Aspire to Greatness"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/63. Aspire to Greatness Aspire to Greatness",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/63. Aspire to Greatness Aspire to Greatness/63. Aspire to Greatness Aspire to Greatness_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "64. Assault the Summit Assault the Summit",
       "title": "64. Assault the Summit Assault the Summit",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/64. Assault the Summit Assault the Summit"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/64. Assault the Summit Assault the Summit",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/64. Assault the Summit Assault the Summit/64. Assault the Summit Assault the Summit_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "65. Assemble the Pieces Assemble the Pieces",
       "title": "65. Assemble the Pieces Assemble the Pieces",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/65. Assemble the Pieces Assemble the Pieces"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/65. Assemble the Pieces Assemble the Pieces",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/65. Assemble the Pieces Assemble the Pieces/65. Assemble the Pieces Assemble the Pieces_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "66. Assert Dominance Assert Dominance",
       "title": "66. Assert Dominance Assert Dominance",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/66. Assert Dominance Assert Dominance"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/66. Assert Dominance Assert Dominance",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/66. Assert Dominance Assert Dominance/66. Assert Dominance Assert Dominance_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "67. Assess the Damage Assess the Damage",
       "title": "67. Assess the Damage Assess the Damage",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/67. Assess the Damage Assess the Damage"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/67. Assess the Damage Assess the Damage",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/67. Assess the Damage Assess the Damage/67. Assess the Damage Assess the Damage_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "68. Assign Blame Assign Blame",
       "title": "68. Assign Blame Assign Blame",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/68. Assign Blame Assign Blame"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/68. Assign Blame Assign Blame",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/68. Assign Blame Assign Blame/68. Assign Blame Assign Blame_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "69. Assist the Fallen Assist the Fallen",
       "title": "69. Assist the Fallen Assist the Fallen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/69. Assist the Fallen Assist the Fallen"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/69. Assist the Fallen Assist the Fallen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/69. Assist the Fallen Assist the Fallen/69. Assist the Fallen Assist the Fallen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "7. Accidental Encounter Accidental Encounter",
       "title": "7. Accidental Encounter Accidental Encounter",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/7. Accidental Encounter Accidental Encounter"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/7. Accidental Encounter Accidental Encounter",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/7. Accidental Encounter Accidental Encounter/7. Accidental Encounter Accidental Encounter_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "70. Associate with Light Associate with Light",
       "title": "70. Associate with Light Associate with Light",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/70. Associate with Light Associate with Light"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/70. Associate with Light Associate with Light",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/70. Associate with Light Associate with Light/70. Associate with Light Associate with Light_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "71. Assume Control Assume Control",
       "title": "71. Assume Control Assume Control",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/71. Assume Control Assume Control"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/71. Assume Control Assume Control",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/71. Assume Control Assume Control/71. Assume Control Assume Control_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "72. Assure the Future Assure the Future",
       "title": "72. Assure the Future Assure the Future",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/72. Assure the Future Assure the Future"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/72. Assure the Future Assure the Future",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/72. Assure the Future Assure the Future/72. Assure the Future Assure the Future_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "73. Attach Meaning Attach Meaning",
       "title": "73. Attach Meaning Attach Meaning",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/73. Attach Meaning Attach Meaning"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/73. Attach Meaning Attach Meaning",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/73. Attach Meaning Attach Meaning/73. Attach Meaning Attach Meaning_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "74. Attain the Unseen Attain the Unseen",
       "title": "74. Attain the Unseen Attain the Unseen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/74. Attain the Unseen Attain the Unseen"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/74. Attain the Unseen Attain the Unseen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/74. Attain the Unseen Attain the Unseen/74. Attain the Unseen Attain the Unseen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "75. Attempt the Impossible Attempt the Impossible",
       "title": "75. Attempt the Impossible Attempt the Impossible",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/75. Attempt the Impossible Attempt the Impossible"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/75. Attempt the Impossible Attempt the Impossible",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/75. Attempt the Impossible Attempt the Impossible/75. Attempt the Impossible Attempt the Impossible_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "76. Attend the Call Attend the Call",
       "title": "76. Attend the Call Attend the Call",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/76. Attend the Call Attend the Call"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/76. Attend the Call Attend the Call",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/76. Attend the Call Attend the Call/76. Attend the Call Attend the Call_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "77. Attract the Storm Attract the Storm",
       "title": "77. Attract the Storm Attract the Storm",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/77. Attract the Storm Attract the Storm"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/77. Attract the Storm Attract the Storm",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/77. Attract the Storm Attract the Storm/77. Attract the Storm Attract the Storm_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "78. Attribute Success Attribute Success",
       "title": "78. Attribute Success Attribute Success",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/78. Attribute Success Attribute Success"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/78. Attribute Success Attribute Success",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/78. Attribute Success Attribute Success/78. Attribute Success Attribute Success_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "79. Auction of Souls Auction of Souls",
       "title": "79. Auction of Souls Auction of Souls",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/79. Auction of Souls Auction of Souls"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/79. Auction of Souls Auction of Souls",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/79. Auction of Souls Auction of Souls/79. Auction of Souls Auction of Souls_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "8. Accommodate Change Accommodate Change",
       "title": "8. Accommodate Change Accommodate Change",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/8. Accommodate Change Accommodate Change"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/8. Accommodate Change Accommodate Change",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/8. Accommodate Change Accommodate Change/8. Accommodate Change Accommodate Change_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "80. Authentic Self Authentic Self",
       "title": "80. Authentic Self Authentic Self",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/80. Authentic Self Authentic Self"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/80. Authentic Self Authentic Self",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/80. Authentic Self Authentic Self/80. Authentic Self Authentic Self_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "81. Author the Tale Author the Tale",
       "title": "81. Author the Tale Author the Tale",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/81. Author the Tale Author the Tale"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/81. Author the Tale Author the Tale",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/81. Author the Tale Author the Tale/81. Author the Tale Author the Tale_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "82. Automatic Response Automatic Response",
       "title": "82. Automatic Response Automatic Response",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/82. Automatic Response Automatic Response"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/82. Automatic Response Automatic Response",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/82. Automatic Response Automatic Response/82. Automatic Response Automatic Response_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "83. Autonomous Heart Autonomous Heart",
       "title": "83. Autonomous Heart Autonomous Heart",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/83. Autonomous Heart Autonomous Heart"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/83. Autonomous Heart Autonomous Heart",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/83. Autonomous Heart Autonomous Heart/83. Autonomous Heart Autonomous Heart_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "84. Avail the Moment Avail the Moment",
       "title": "84. Avail the Moment Avail the Moment",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/84. Avail the Moment Avail the Moment"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/84. Avail the Moment Avail the Moment",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/84. Avail the Moment Avail the Moment/84. Avail the Moment Avail the Moment_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "85. Average the Wronged Average the Wronged",
       "title": "85. Average the Wronged Average the Wronged",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/85. Average the Wronged Average the Wronged"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/85. Average the Wronged Average the Wronged",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/85. Average the Wronged Average the Wronged/85. Average the Wronged Average the Wronged_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "86. Avert Disaster Avert Disaster",
       "title": "86. Avert Disaster Avert Disaster",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/86. Avert Disaster Avert Disaster"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/86. Avert Disaster Avert Disaster",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/86. Avert Disaster Avert Disaster/86. Avert Disaster Avert Disaster_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "87. Awaken the Giant Awaken the Giant",
@@ -737,42 +1133,66 @@
       "title": "88. Backward Glance Backward Glance",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/88. Backward Glance Backward Glance"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/88. Backward Glance Backward Glance",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/88. Backward Glance Backward Glance/88. Backward Glance Backward Glance_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "89. Balance the Scales Balance the Scales",
       "title": "89. Balance the Scales Balance the Scales",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/89. Balance the Scales Balance the Scales"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/89. Balance the Scales Balance the Scales",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/89. Balance the Scales Balance the Scales/89. Balance the Scales Balance the Scales_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "9. Accumulate Wisdom Accumulate Wisdom",
       "title": "9. Accumulate Wisdom Accumulate Wisdom",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/9. Accumulate Wisdom Accumulate Wisdom"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/9. Accumulate Wisdom Accumulate Wisdom",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/9. Accumulate Wisdom Accumulate Wisdom/9. Accumulate Wisdom Accumulate Wisdom_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "90. Band of Outcasts Band of Outcasts",
       "title": "90. Band of Outcasts Band of Outcasts",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/90. Band of Outcasts Band of Outcasts"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/90. Band of Outcasts Band of Outcasts",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/90. Band of Outcasts Band of Outcasts/90. Band of Outcasts Band of Outcasts_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "91. Bare the Truth Bare the Truth",
       "title": "91. Bare the Truth Bare the Truth",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/91. Bare the Truth Bare the Truth"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/91. Bare the Truth Bare the Truth",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/91. Bare the Truth Bare the Truth/91. Bare the Truth Bare the Truth_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "92. Bargain with Fate Bargain with Fate",
       "title": "92. Bargain with Fate Bargain with Fate",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/92. Bargain with Fate Bargain with Fate"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/92. Bargain with Fate Bargain with Fate",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/92. Bargain with Fate Bargain with Fate/92. Bargain with Fate Bargain with Fate_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "93. Barrier of Fear Barrier of Fear",
@@ -786,28 +1206,44 @@
       "title": "94. Base Assumptions Base Assumptions",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/94. Base Assumptions Base Assumptions"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/94. Base Assumptions Base Assumptions",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/94. Base Assumptions Base Assumptions/94. Base Assumptions Base Assumptions_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "95. Battle Within Battle Within",
       "title": "95. Battle Within Battle Within",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/95. Battle Within Battle Within"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/95. Battle Within Battle Within",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/95. Battle Within Battle Within/95. Battle Within Battle Within_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "96. Bear the Weight Bear the Weight",
       "title": "96. Bear the Weight Bear the Weight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/96. Bear the Weight Bear the Weight"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/96. Bear the Weight Bear the Weight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/96. Bear the Weight Bear the Weight/96. Bear the Weight Bear the Weight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "97. Beat the Odds Beat the Odds",
       "title": "97. Beat the Odds Beat the Odds",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/97. Beat the Odds Beat the Odds"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/97. Beat the Odds Beat the Odds",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/97. Beat the Odds Beat the Odds/97. Beat the Odds Beat the Odds_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "98. Become the Change Become the Change",
@@ -821,980 +1257,1529 @@
       "title": "99. Beg for Mercy Beg for Mercy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/99. Beg for Mercy Beg for Mercy"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/99. Beg for Mercy Beg for Mercy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/99. Beg for Mercy Beg for Mercy/99. Beg for Mercy Beg for Mercy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "A Christmas Carol",
       "title": "A Christmas Carol",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/A Christmas Carol"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/A Christmas Carol",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/A Christmas Carol/A Christmas Carol_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Aesop Fables Medley",
       "title": "Aesop Fables Medley",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Aesop Fables Medley"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Aesop Fables Medley",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Aesop Fables Medley/Aesop Fables Medley_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "African Folk Tales",
       "title": "African Folk Tales",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/African Folk Tales"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/African Folk Tales",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/African Folk Tales/African Folk Tales_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Albert Einstein's Universe",
       "title": "Albert Einstein's Universe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Albert Einstein's Universe"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Albert Einstein's Universe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Albert Einstein's Universe/Albert Einstein's Universe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Alice Wonderland",
       "title": "Alice Wonderland",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Alice Wonderland"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Alice Wonderland",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Alice Wonderland/Alice Wonderland_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ancient Scientists of China",
       "title": "Ancient Scientists of China",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Ancient Scientists of China"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Ancient Scientists of China",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Ancient Scientists of China/Ancient Scientists of China_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Andersen Fairy Tales",
       "title": "Andersen Fairy Tales",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Andersen Fairy Tales"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Andersen Fairy Tales",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Andersen Fairy Tales/Andersen Fairy Tales_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Anne of Green Gables",
       "title": "Anne of Green Gables",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Anne of Green Gables"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Anne of Green Gables",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Anne of Green Gables/Anne of Green Gables_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Anubis the Guardian",
       "title": "Anubis the Guardian",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Anubis the Guardian"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Anubis the Guardian",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Anubis the Guardian/Anubis the Guardian_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Arabian Nights Enchantment",
       "title": "Arabian Nights Enchantment",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Arabian Nights Enchantment"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Arabian Nights Enchantment",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Arabian Nights Enchantment/Arabian Nights Enchantment_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Around the World in 80 Days",
       "title": "Around the World in 80 Days",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Around the World in 80 Days"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Around the World in 80 Days",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Around the World in 80 Days/Around the World in 80 Days_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Around World Eighty Days",
       "title": "Around World Eighty Days",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Around World Eighty Days"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Around World Eighty Days",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Around World Eighty Days/Around World Eighty Days_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Australian Dreamtime",
       "title": "Australian Dreamtime",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Australian Dreamtime"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Australian Dreamtime",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Australian Dreamtime/Australian Dreamtime_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Bambi the Deer",
       "title": "Bambi the Deer",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Bambi the Deer"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Bambi the Deer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Bambi the Deer/Bambi the Deer_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Black Beauty the Horse",
       "title": "Black Beauty the Horse",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Black Beauty the Horse"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Black Beauty the Horse",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Black Beauty the Horse/Black Beauty the Horse_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Captain Blood",
       "title": "Captain Blood",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Captain Blood"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Captain Blood",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Captain Blood/Captain Blood_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Celestial Gods Assembly",
       "title": "Celestial Gods Assembly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Celestial Gods Assembly"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Celestial Gods Assembly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Celestial Gods Assembly/Celestial Gods Assembly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Celtic Myths and Legends",
       "title": "Celtic Myths and Legends",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Celtic Myths and Legends"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Celtic Myths and Legends",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Celtic Myths and Legends/Celtic Myths and Legends_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Charlie and the Chocolate Factory",
       "title": "Charlie and the Chocolate Factory",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Charlie and the Chocolate Factory"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Charlie and the Chocolate Factory",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Charlie and the Chocolate Factory/Charlie and the Chocolate Factory_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Charlotte's Web",
       "title": "Charlotte's Web",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Charlotte's Web"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Charlotte's Web",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Charlotte's Web/Charlotte's Web_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Chinese Festivals Carnival",
       "title": "Chinese Festivals Carnival",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Chinese Festivals Carnival"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Chinese Festivals Carnival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Chinese Festivals Carnival/Chinese Festivals Carnival_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Classic of Mountains and Seas",
       "title": "Classic of Mountains and Seas",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Classic of Mountains and Seas"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Classic of Mountains and Seas",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Classic of Mountains and Seas/Classic of Mountains and Seas_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Cowherd and Weaver Girl",
       "title": "Cowherd and Weaver Girl",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Cowherd and Weaver Girl"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Cowherd and Weaver Girl",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Cowherd and Weaver Girl/Cowherd and Weaver Girl_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "David Copperfield",
       "title": "David Copperfield",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/David Copperfield"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/David Copperfield",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/David Copperfield/David Copperfield_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Disciples Rules Song",
       "title": "Disciples Rules Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Disciples Rules Song"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Disciples Rules Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Disciples Rules Song/Disciples Rules Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Double Ninth Festival Climb",
       "title": "Double Ninth Festival Climb",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Double Ninth Festival Climb"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Double Ninth Festival Climb",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Double Ninth Festival Climb/Double Ninth Festival Climb_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Dragon and Phoenix Dance",
       "title": "Dragon and Phoenix Dance",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Dragon and Phoenix Dance"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Dragon and Phoenix Dance",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Dragon and Phoenix Dance/Dragon and Phoenix Dance_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Dragon Boat Festival Regatta",
       "title": "Dragon Boat Festival Regatta",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Dragon Boat Festival Regatta"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Dragon Boat Festival Regatta",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Dragon Boat Festival Regatta/Dragon Boat Festival Regatta_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Dreams in Red Chamber",
       "title": "Dreams in Red Chamber",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Dreams in Red Chamber"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Dreams in Red Chamber",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Dreams in Red Chamber/Dreams in Red Chamber_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Easter Eggs Hunt",
       "title": "Easter Eggs Hunt",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Easter Eggs Hunt"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Easter Eggs Hunt",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Easter Eggs Hunt/Easter Eggs Hunt_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Echoes of the Silk Road",
       "title": "Echoes of the Silk Road",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Echoes of the Silk Road"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Echoes of the Silk Road",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Echoes of the Silk Road/Echoes of the Silk Road_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Eight Immortals Cross the Sea",
       "title": "Eight Immortals Cross the Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Eight Immortals Cross the Sea"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Eight Immortals Cross the Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Eight Immortals Cross the Sea/Eight Immortals Cross the Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Enchanted Forest Adventure",
       "title": "Enchanted Forest Adventure",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Enchanted Forest Adventure"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Enchanted Forest Adventure",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Enchanted Forest Adventure/Enchanted Forest Adventure_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Enchanted Forest Concert",
       "title": "Enchanted Forest Concert",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Enchanted Forest Concert"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Enchanted Forest Concert",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Enchanted Forest Concert/Enchanted Forest Concert_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fairies and Forest Spirits",
       "title": "Fairies and Forest Spirits",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairies and Forest Spirits"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairies and Forest Spirits",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairies and Forest Spirits/Fairies and Forest Spirits_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fairy Tale Animal Carnival",
       "title": "Fairy Tale Animal Carnival",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairy Tale Animal Carnival"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairy Tale Animal Carnival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairy Tale Animal Carnival/Fairy Tale Animal Carnival_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fairy Tale Feast",
       "title": "Fairy Tale Feast",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairy Tale Feast"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairy Tale Feast",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairy Tale Feast/Fairy Tale Feast_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fairy Tale Paradise",
       "title": "Fairy Tale Paradise",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairy Tale Paradise"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairy Tale Paradise",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Fairy Tale Paradise/Fairy Tale Paradise_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fantastic Mr Fox",
       "title": "Fantastic Mr Fox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fantastic Mr Fox"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fantastic Mr Fox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Fantastic Mr Fox/Fantastic Mr Fox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fenrir the Wolf",
       "title": "Fenrir the Wolf",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fenrir the Wolf"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Fenrir the Wolf",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Fenrir the Wolf/Fenrir the Wolf_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Flowers of Red Chamber",
       "title": "Flowers of Red Chamber",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Flowers of Red Chamber"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Flowers of Red Chamber",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Flowers of Red Chamber/Flowers of Red Chamber_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Four Great Classics Medley",
       "title": "Four Great Classics Medley",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Four Great Classics Medley"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Four Great Classics Medley",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Four Great Classics Medley/Four Great Classics Medley_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Frontier Fortress Poems",
       "title": "Frontier Fortress Poems",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Frontier Fortress Poems"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Frontier Fortress Poems",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Frontier Fortress Poems/Frontier Fortress Poems_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Genesis of Chinese Myth",
       "title": "Genesis of Chinese Myth",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Genesis of Chinese Myth"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Genesis of Chinese Myth",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Genesis of Chinese Myth/Genesis of Chinese Myth_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Global Animal Fables",
       "title": "Global Animal Fables",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Global Animal Fables"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Global Animal Fables",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Global Animal Fables/Global Animal Fables_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Greek Myths Mini Theatre",
       "title": "Greek Myths Mini Theatre",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Greek Myths Mini Theatre"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Greek Myths Mini Theatre",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Greek Myths Mini Theatre/Greek Myths Mini Theatre_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Grimm Fairy Tales Collection",
       "title": "Grimm Fairy Tales Collection",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Grimm Fairy Tales Collection"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Grimm Fairy Tales Collection",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Grimm Fairy Tales Collection/Grimm Fairy Tales Collection_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Halloween Night",
       "title": "Halloween Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Halloween Night"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Halloween Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Halloween Night/Halloween Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Happily Ever After",
       "title": "Happily Ever After",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Happily Ever After"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Happily Ever After",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Happily Ever After/Happily Ever After_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Havoc in Heavenly Palace",
       "title": "Havoc in Heavenly Palace",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Havoc in Heavenly Palace"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Havoc in Heavenly Palace",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Havoc in Heavenly Palace/Havoc in Heavenly Palace_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Heidi Alpine Adventure",
       "title": "Heidi Alpine Adventure",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Heidi Alpine Adventure"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Heidi Alpine Adventure",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Heidi Alpine Adventure/Heidi Alpine Adventure_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Heroes of China",
       "title": "Heroes of China",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Heroes of China"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Heroes of China",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Heroes of China/Heroes of China_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Horus the Falcon",
       "title": "Horus the Falcon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Horus the Falcon"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Horus the Falcon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Horus the Falcon/Horus the Falcon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Huckleberry Finn",
       "title": "Huckleberry Finn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Huckleberry Finn"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Huckleberry Finn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Huckleberry Finn/Huckleberry Finn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Inca Sun God",
       "title": "Inca Sun God",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Inca Sun God"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Inca Sun God",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Inca Sun God/Inca Sun God_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Indian Epic Ramayana",
       "title": "Indian Epic Ramayana",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Indian Epic Ramayana"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Indian Epic Ramayana",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Indian Epic Ramayana/Indian Epic Ramayana_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "James and Giant Peach",
       "title": "James and Giant Peach",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/James and Giant Peach"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/James and Giant Peach",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/James and Giant Peach/James and Giant Peach_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Jane Eyre Pride Prejudice",
       "title": "Jane Eyre Pride Prejudice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Jane Eyre Pride Prejudice"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Jane Eyre Pride Prejudice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Jane Eyre Pride Prejudice/Jane Eyre Pride Prejudice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Japanese Folk Tales",
       "title": "Japanese Folk Tales",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Japanese Folk Tales"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Japanese Folk Tales",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Japanese Folk Tales/Japanese Folk Tales_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Journey to Center of Earth",
       "title": "Journey to Center of Earth",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Journey to Center of Earth"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Journey to Center of Earth",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Journey to Center of Earth/Journey to Center of Earth_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Journey West Monster Guide",
       "title": "Journey West Monster Guide",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Journey West Monster Guide"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Journey West Monster Guide",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Journey West Monster Guide/Journey West Monster Guide_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Kidnapped Adventure",
       "title": "Kidnapped Adventure",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Kidnapped Adventure"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Kidnapped Adventure",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Kidnapped Adventure/Kidnapped Adventure_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "King Solomon's Mines",
       "title": "King Solomon's Mines",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/King Solomon's Mines"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/King Solomon's Mines",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/King Solomon's Mines/King Solomon's Mines_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Laba to Spring Festival",
       "title": "Laba to Spring Festival",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Laba to Spring Festival"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Laba to Spring Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Laba to Spring Festival/Laba to Spring Festival_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Lantern Festival Lights",
       "title": "Lantern Festival Lights",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Lantern Festival Lights"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Lantern Festival Lights",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Lantern Festival Lights/Lantern Festival Lights_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Lassie the Dog",
       "title": "Lassie the Dog",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Lassie the Dog"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Lassie the Dog",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Lassie the Dog/Lassie the Dog_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Legend of the White Snake",
       "title": "Legend of the White Snake",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Legend of the White Snake"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Legend of the White Snake",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Legend of the White Snake/Legend of the White Snake_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Liangshan Assembly",
       "title": "Liangshan Assembly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Liangshan Assembly"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Liangshan Assembly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Liangshan Assembly/Liangshan Assembly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Little Prince Star Journey",
       "title": "Little Prince Star Journey",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Little Prince Star Journey"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Little Prince Star Journey",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Little Prince Star Journey/Little Prince Star Journey_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Little Princess Sara",
       "title": "Little Princess Sara",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Little Princess Sara"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Little Princess Sara",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Little Princess Sara/Little Princess Sara_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Loki the Trickster",
       "title": "Loki the Trickster",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Loki the Trickster"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Loki the Trickster",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Loki the Trickster/Loki the Trickster_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Magic Castle Expedition",
       "title": "Magic Castle Expedition",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Magic Castle Expedition"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Magic Castle Expedition",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Magic Castle Expedition/Magic Castle Expedition_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Magic Treasure Hunt",
       "title": "Magic Treasure Hunt",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Magic Treasure Hunt"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Magic Treasure Hunt",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Magic Treasure Hunt/Magic Treasure Hunt_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Marie Curie and Radium",
       "title": "Marie Curie and Radium",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Marie Curie and Radium"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Marie Curie and Radium",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Marie Curie and Radium/Marie Curie and Radium_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Matilda the Magic Girl",
       "title": "Matilda the Magic Girl",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Matilda the Magic Girl"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Matilda the Magic Girl",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Matilda the Magic Girl/Matilda the Magic Girl_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mayan Prophecies",
       "title": "Mayan Prophecies",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mayan Prophecies"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mayan Prophecies",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Mayan Prophecies/Mayan Prophecies_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Melodies in Fairy Tales",
       "title": "Melodies in Fairy Tales",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Melodies in Fairy Tales"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Melodies in Fairy Tales",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Melodies in Fairy Tales/Melodies in Fairy Tales_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mid-Autumn Moon Festival",
       "title": "Mid-Autumn Moon Festival",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mid-Autumn Moon Festival"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mid-Autumn Moon Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Mid-Autumn Moon Festival/Mid-Autumn Moon Festival_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Moon Poetry Gathering",
       "title": "Moon Poetry Gathering",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Moon Poetry Gathering"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Moon Poetry Gathering",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Moon Poetry Gathering/Moon Poetry Gathering_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mortal Heroes of China",
       "title": "Mortal Heroes of China",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mortal Heroes of China"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mortal Heroes of China",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Mortal Heroes of China/Mortal Heroes of China_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mother and Father Day",
       "title": "Mother and Father Day",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mother and Father Day"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mother and Father Day",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Mother and Father Day/Mother and Father Day_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mother Hulda",
       "title": "Mother Hulda",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mother Hulda"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mother Hulda",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Mother Hulda/Mother Hulda_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mulan Joins the Army",
       "title": "Mulan Joins the Army",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mulan Joins the Army"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mulan Joins the Army",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Mulan Joins the Army/Mulan Joins the Army_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mysterious Island Adventure",
       "title": "Mysterious Island Adventure",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mysterious Island Adventure"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mysterious Island Adventure",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Mysterious Island Adventure/Mysterious Island Adventure_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mythical Beasts Paradise",
       "title": "Mythical Beasts Paradise",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mythical Beasts Paradise"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mythical Beasts Paradise",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Mythical Beasts Paradise/Mythical Beasts Paradise_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mythological Artifacts",
       "title": "Mythological Artifacts",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mythological Artifacts"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Mythological Artifacts",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Mythological Artifacts/Mythological Artifacts_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Native American Legends",
       "title": "Native American Legends",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Native American Legends"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Native American Legends",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Native American Legends/Native American Legends_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Neil Armstrong Moon Walk",
       "title": "Neil Armstrong Moon Walk",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Neil Armstrong Moon Walk"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Neil Armstrong Moon Walk",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Neil Armstrong Moon Walk/Neil Armstrong Moon Walk_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "New Year Countdown",
       "title": "New Year Countdown",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/New Year Countdown"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/New Year Countdown",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/New Year Countdown/New Year Countdown_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Nils Goose Journey",
       "title": "Nils Goose Journey",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Nils Goose Journey"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Nils Goose Journey",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Nils Goose Journey/Nils Goose Journey_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Odin the All-Father",
       "title": "Odin the All-Father",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Odin the All-Father"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Odin the All-Father",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Odin the All-Father/Odin the All-Father_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Oliver Twist",
       "title": "Oliver Twist",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Oliver Twist"
-    },
-    {
-      "entry_id": "Osiris and Isis",
-      "title": "Osiris and Isis",
-      "structure_type": "standalone",
-      "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Osiris and Isis"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Oliver Twist",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Oliver Twist/Oliver Twist_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Peter Pan Neverland",
       "title": "Peter Pan Neverland",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Peter Pan Neverland"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Peter Pan Neverland",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Peter Pan Neverland/Peter Pan Neverland_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Pilgrimage to the West",
       "title": "Pilgrimage to the West",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Pilgrimage to the West"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Pilgrimage to the West",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Pilgrimage to the West/Pilgrimage to the West_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Pinocchio Adventures",
       "title": "Pinocchio Adventures",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Pinocchio Adventures"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Pinocchio Adventures",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Pinocchio Adventures/Pinocchio Adventures_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Poetry of Four Seasons",
       "title": "Poetry of Four Seasons",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Poetry of Four Seasons"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Poetry of Four Seasons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Poetry of Four Seasons/Poetry of Four Seasons_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Poets Circle of Tang",
       "title": "Poets Circle of Tang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Poets Circle of Tang"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Poets Circle of Tang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Poets Circle of Tang/Poets Circle of Tang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Princes and Warriors",
       "title": "Princes and Warriors",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Princes and Warriors"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Princes and Warriors",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Princes and Warriors/Princes and Warriors_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Princess Grand Ball",
       "title": "Princess Grand Ball",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Princess Grand Ball"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Princess Grand Ball",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Princess Grand Ball/Princess Grand Ball_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Princesses Around the World",
       "title": "Princesses Around the World",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Princesses Around the World"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Princesses Around the World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Princesses Around the World/Princesses Around the World_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Qingming Spring Outing",
       "title": "Qingming Spring Outing",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Qingming Spring Outing"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Qingming Spring Outing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Qingming Spring Outing/Qingming Spring Outing_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ra the Sun God",
       "title": "Ra the Sun God",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Ra the Sun God"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Ra the Sun God",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Ra the Sun God/Ra the Sun God_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ragnarok the End",
       "title": "Ragnarok the End",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Ragnarok the End"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Ragnarok the End",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Ragnarok the End/Ragnarok the End_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Red Cliff Epic",
       "title": "Red Cliff Epic",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Red Cliff Epic"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Red Cliff Epic",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Red Cliff Epic/Red Cliff Epic_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rip Van Winkle",
       "title": "Rip Van Winkle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Rip Van Winkle"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Rip Van Winkle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Rip Van Winkle/Rip Van Winkle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Robinson Crusoe Island",
       "title": "Robinson Crusoe Island",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Robinson Crusoe Island"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Robinson Crusoe Island",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Robinson Crusoe Island/Robinson Crusoe Island_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rumpelstiltskin",
       "title": "Rumpelstiltskin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Rumpelstiltskin"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Rumpelstiltskin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Rumpelstiltskin/Rumpelstiltskin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Russian Fairy Tales",
       "title": "Russian Fairy Tales",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Russian Fairy Tales"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Russian Fairy Tales",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Russian Fairy Tales/Russian Fairy Tales_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Santa Claus Legend",
       "title": "Santa Claus Legend",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Santa Claus Legend"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Santa Claus Legend",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Santa Claus Legend/Santa Claus Legend_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Shakespeare Tales",
       "title": "Shakespeare Tales",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Shakespeare Tales"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Shakespeare Tales",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Shakespeare Tales/Shakespeare Tales_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Sherlock Holmes Mysteries",
       "title": "Sherlock Holmes Mysteries",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Sherlock Holmes Mysteries"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Sherlock Holmes Mysteries",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Sherlock Holmes Mysteries/Sherlock Holmes Mysteries_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Sleeping and Awakening",
       "title": "Sleeping and Awakening",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Sleeping and Awakening"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Sleeping and Awakening",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Sleeping and Awakening/Sleeping and Awakening_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Song Ci Melodies",
       "title": "Song Ci Melodies",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Song Ci Melodies"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Song Ci Melodies",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Song Ci Melodies/Song Ci Melodies_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Sound and Rhythm Primer",
       "title": "Sound and Rhythm Primer",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Sound and Rhythm Primer"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Sound and Rhythm Primer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Sound and Rhythm Primer/Sound and Rhythm Primer_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Spring Festival Celebration",
       "title": "Spring Festival Celebration",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Spring Festival Celebration"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Spring Festival Celebration",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Spring Festival Celebration/Spring Festival Celebration_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Tang Dynasty Poetry Medley",
       "title": "Tang Dynasty Poetry Medley",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Tang Dynasty Poetry Medley"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Tang Dynasty Poetry Medley",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Tang Dynasty Poetry Medley/Tang Dynasty Poetry Medley_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Thanksgiving Feast",
       "title": "Thanksgiving Feast",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Thanksgiving Feast"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Thanksgiving Feast",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Thanksgiving Feast/Thanksgiving Feast_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Apples of Idun",
       "title": "The Apples of Idun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Apples of Idun"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Apples of Idun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Apples of Idun/The Apples of Idun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The BFG Dream Catcher",
       "title": "The BFG Dream Catcher",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The BFG Dream Catcher"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The BFG Dream Catcher",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The BFG Dream Catcher/The BFG Dream Catcher_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Book of the Dead",
       "title": "The Book of the Dead",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Book of the Dead"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Book of the Dead",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Book of the Dead/The Book of the Dead_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Call of the Wild",
       "title": "The Call of the Wild",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Call of the Wild"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Call of the Wild",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Call of the Wild/The Call of the Wild_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Death of Balder",
       "title": "The Death of Balder",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Death of Balder"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Death of Balder",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Death of Balder/The Death of Balder_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Discovery of Dinosaurs",
       "title": "The Discovery of Dinosaurs",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Discovery of Dinosaurs"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Discovery of Dinosaurs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Discovery of Dinosaurs/The Discovery of Dinosaurs_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Elves and the Shoemaker",
       "title": "The Elves and the Shoemaker",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Elves and the Shoemaker"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Elves and the Shoemaker",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Elves and the Shoemaker/The Elves and the Shoemaker_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Emperor's Nightingale",
       "title": "The Emperor's Nightingale",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Emperor's Nightingale"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Emperor's Nightingale",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Emperor's Nightingale/The Emperor's Nightingale_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Gift of the Magi",
       "title": "The Gift of the Magi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Gift of the Magi"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Gift of the Magi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Gift of the Magi/The Gift of the Magi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Golden Goose",
       "title": "The Golden Goose",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Golden Goose"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Golden Goose",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Golden Goose/The Golden Goose_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Happy Prince",
       "title": "The Happy Prince",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Happy Prince"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Happy Prince",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Happy Prince/The Happy Prince_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Incredible Journey",
       "title": "The Incredible Journey",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Incredible Journey"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Incredible Journey",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Incredible Journey/The Incredible Journey_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Last Leaf",
       "title": "The Last Leaf",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Last Leaf"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Last Leaf",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Last Leaf/The Last Leaf_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Legend of Sleepy Hollow",
       "title": "The Legend of Sleepy Hollow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Legend of Sleepy Hollow"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Legend of Sleepy Hollow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Legend of Sleepy Hollow/The Legend of Sleepy Hollow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Little Prince Returns",
       "title": "The Little Prince Returns",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Little Prince Returns"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Little Prince Returns",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Little Prince Returns/The Little Prince Returns_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Lost World",
       "title": "The Lost World",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Lost World"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Lost World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Lost World/The Lost World_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Necklace",
       "title": "The Necklace",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Necklace"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Necklace",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Necklace/The Necklace_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Nutcracker Prince",
       "title": "The Nutcracker Prince",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Nutcracker Prince"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Nutcracker Prince",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Nutcracker Prince/The Nutcracker Prince_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Pied Piper of Hamelin",
       "title": "The Pied Piper of Hamelin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Pied Piper of Hamelin"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Pied Piper of Hamelin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Pied Piper of Hamelin/The Pied Piper of Hamelin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Prince and the Pauper",
       "title": "The Prince and the Pauper",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Prince and the Pauper"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Prince and the Pauper",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Prince and the Pauper/The Prince and the Pauper_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Prisoner of Zenda",
       "title": "The Prisoner of Zenda",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Prisoner of Zenda"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Prisoner of Zenda",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Prisoner of Zenda/The Prisoner of Zenda_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Railway Children",
@@ -1808,252 +2793,396 @@
       "title": "The Rainbow Bridge",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Rainbow Bridge"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Rainbow Bridge",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Rainbow Bridge/The Rainbow Bridge_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Samurai Code",
       "title": "The Samurai Code",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Samurai Code"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Samurai Code",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Samurai Code/The Samurai Code_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Scarlet Pimpernel",
       "title": "The Scarlet Pimpernel",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Scarlet Pimpernel"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Scarlet Pimpernel",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Scarlet Pimpernel/The Scarlet Pimpernel_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Secret Garden",
       "title": "The Secret Garden",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Secret Garden"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Secret Garden",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Secret Garden/The Secret Garden_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Selfish Giant",
       "title": "The Selfish Giant",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Selfish Giant"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Selfish Giant",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Selfish Giant/The Selfish Giant_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Serpent Jormungandr",
       "title": "The Serpent Jormungandr",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Serpent Jormungandr"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Serpent Jormungandr",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Serpent Jormungandr/The Serpent Jormungandr_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Seven Ravens",
       "title": "The Seven Ravens",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Seven Ravens"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Seven Ravens",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Seven Ravens/The Seven Ravens_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Snow Maiden",
       "title": "The Snow Maiden",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Snow Maiden"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Snow Maiden",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Snow Maiden/The Snow Maiden_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Snow Queen",
       "title": "The Snow Queen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Snow Queen"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Snow Queen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Snow Queen/The Snow Queen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Story of a Seagull",
       "title": "The Story of a Seagull",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Story of a Seagull"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Story of a Seagull",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Story of a Seagull/The Story of a Seagull_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Time Machine",
       "title": "The Time Machine",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Time Machine"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Time Machine",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Time Machine/The Time Machine_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Tinderbox",
       "title": "The Tinderbox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Tinderbox"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Tinderbox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Tinderbox/The Tinderbox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Valkyries",
       "title": "The Valkyries",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Valkyries"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Valkyries",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Valkyries/The Valkyries_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The War of the Worlds",
       "title": "The War of the Worlds",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The War of the Worlds"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The War of the Worlds",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The War of the Worlds/The War of the Worlds_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wild Swans",
       "title": "The Wild Swans",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Wild Swans"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Wild Swans",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Wild Swans/The Wild Swans_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wind in the Willows",
       "title": "The Wind in the Willows",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Wind in the Willows"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Wind in the Willows",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Wind in the Willows/The Wind in the Willows_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Witches",
       "title": "The Witches",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Witches"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Witches",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Witches/The Witches_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wright Brothers Flight",
       "title": "The Wright Brothers Flight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Wright Brothers Flight"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/The Wright Brothers Flight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/The Wright Brothers Flight/The Wright Brothers Flight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Thor's Hammer",
       "title": "Thor's Hammer",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Thor's Hammer"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Thor's Hammer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Thor's Hammer/Thor's Hammer_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Thousand Character Classic",
       "title": "Thousand Character Classic",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Thousand Character Classic"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Thousand Character Classic",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Thousand Character Classic/Thousand Character Classic_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Three Character Classic",
       "title": "Three Character Classic",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Three Character Classic"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Three Character Classic",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Three Character Classic/Three Character Classic_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Three Kingdoms Heroes",
       "title": "Three Kingdoms Heroes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Three Kingdoms Heroes"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Three Kingdoms Heroes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Three Kingdoms Heroes/Three Kingdoms Heroes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Three Kingdoms Warriors",
       "title": "Three Kingdoms Warriors",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Three Kingdoms Warriors"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Three Kingdoms Warriors",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Three Kingdoms Warriors/Three Kingdoms Warriors_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Tom Sawyer Adventures",
       "title": "Tom Sawyer Adventures",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Tom Sawyer Adventures"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Tom Sawyer Adventures",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Tom Sawyer Adventures/Tom Sawyer Adventures_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Toy Rebellion",
       "title": "Toy Rebellion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Toy Rebellion"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Toy Rebellion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Toy Rebellion/Toy Rebellion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Traditional Chinese Cuisine",
       "title": "Traditional Chinese Cuisine",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Traditional Chinese Cuisine"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Traditional Chinese Cuisine",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Traditional Chinese Cuisine/Traditional Chinese Cuisine_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Treasure Island Adventure",
       "title": "Treasure Island Adventure",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Treasure Island Adventure"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Treasure Island Adventure",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Treasure Island Adventure/Treasure Island Adventure_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Twenty Thousand Leagues",
       "title": "Twenty Thousand Leagues",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Twenty Thousand Leagues"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Twenty Thousand Leagues",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Twenty Thousand Leagues/Twenty Thousand Leagues_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Twenty-Four Filial Piety",
       "title": "Twenty-Four Filial Piety",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Twenty-Four Filial Piety"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Twenty-Four Filial Piety",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Twenty-Four Filial Piety/Twenty-Four Filial Piety_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Twenty-Four Solar Terms",
       "title": "Twenty-Four Solar Terms",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Twenty-Four Solar Terms"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Twenty-Four Solar Terms",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Twenty-Four Solar Terms/Twenty-Four Solar Terms_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Valentines Day Love",
       "title": "Valentines Day Love",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Valentines Day Love"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Valentines Day Love",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Valentines Day Love/Valentines Day Love_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Villains Grand Assembly",
       "title": "Villains Grand Assembly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Villains Grand Assembly"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Villains Grand Assembly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Villains Grand Assembly/Villains Grand Assembly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Water Margin Heroes",
       "title": "Water Margin Heroes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Water Margin Heroes"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Water Margin Heroes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Water Margin Heroes/Water Margin Heroes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Watership Down",
       "title": "Watership Down",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Watership Down"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Watership Down",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Watership Down/Watership Down_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "White Fang",
       "title": "White Fang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/White Fang"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/White Fang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/White Fang/White Fang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Wind in the Willows",
       "title": "Wind in the Willows",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Wind in the Willows"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Wind in the Willows",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Wind in the Willows/Wind in the Willows_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Winnie Pooh Hundred Acre",
@@ -2067,49 +3196,77 @@
       "title": "Wisdom of Three Kingdoms",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Wisdom of Three Kingdoms"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Wisdom of Three Kingdoms",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Wisdom of Three Kingdoms/Wisdom of Three Kingdoms_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Wise Men of Ancient China",
       "title": "Wise Men of Ancient China",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Wise Men of Ancient China"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Wise Men of Ancient China",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Wise Men of Ancient China/Wise Men of Ancient China_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Wizard of Oz Magic Path",
       "title": "Wizard of Oz Magic Path",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Wizard of Oz Magic Path"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Wizard of Oz Magic Path",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Wizard of Oz Magic Path/Wizard of Oz Magic Path_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "World Fairy Tale Journey",
       "title": "World Fairy Tale Journey",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/World Fairy Tale Journey"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/World Fairy Tale Journey",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/World Fairy Tale Journey/World Fairy Tale Journey_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "World Festivals Carnival",
       "title": "World Festivals Carnival",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/World Festivals Carnival"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/World Festivals Carnival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/World Festivals Carnival/World Festivals Carnival_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Young Heroes of China",
       "title": "Young Heroes of China",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Young Heroes of China"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Young Heroes of China",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Young Heroes of China/Young Heroes of China_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Zheng He Seven Voyages",
       "title": "Zheng He Seven Voyages",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Zheng He Seven Voyages"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲_进阶/Zheng He Seven Voyages",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲_进阶/Zheng He Seven Voyages/Zheng He Seven Voyages_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

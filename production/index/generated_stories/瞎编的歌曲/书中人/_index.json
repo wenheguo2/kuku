@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/书中人",
   "name": "书中人",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/书中人/书中人.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/书中人/书中人.jpg",
     "cover_level": "category"
   },
   "sub_category_count": 2,
@@ -16,9 +16,9 @@
       "name": "中文歌曲",
       "structure_type": "txt_collection",
       "display_as": "category_card",
-      "entry_count": 755,
+      "entry_count": 746,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/书中人/书中人.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/书中人/中文歌曲/中文歌曲.jpg",
         "cover_level": "category"
       }
     },
@@ -27,9 +27,9 @@
       "name": "双语歌曲",
       "structure_type": "txt_collection",
       "display_as": "category_card",
-      "entry_count": 756,
+      "entry_count": 746,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/书中人/书中人.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/书中人/双语歌曲/双语歌曲.jpg",
         "cover_level": "category"
       }
     }

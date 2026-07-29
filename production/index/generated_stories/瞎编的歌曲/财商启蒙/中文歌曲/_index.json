@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/财商启蒙/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/财商启蒙.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 32,
@@ -16,7 +16,11 @@
       "title": "二手物品价值",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/二手物品价值"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/二手物品价值",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/二手物品价值/二手物品价值_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "人民币认识",
@@ -30,210 +34,330 @@
       "title": "付出才有收获",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/付出才有收获"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/付出才有收获",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/付出才有收获/付出才有收获_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "做家务赚钱",
       "title": "做家务赚钱",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/做家务赚钱"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/做家务赚钱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/做家务赚钱/做家务赚钱_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "储蓄目标",
       "title": "储蓄目标",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/储蓄目标"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/储蓄目标",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/储蓄目标/储蓄目标_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "分享爱心",
       "title": "分享爱心",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/分享爱心"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/分享爱心",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/分享爱心/分享爱心_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "创业精神",
       "title": "创业精神",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/创业精神"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/创业精神",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/创业精神/创业精神_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "利息是什么",
       "title": "利息是什么",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/利息是什么"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/利息是什么",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/利息是什么/利息是什么_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "外币认知",
       "title": "外币认知",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/外币认知"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/外币认知",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/外币认知/外币认知_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "存钱罐歌",
       "title": "存钱罐歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/存钱罐歌"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/存钱罐歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/存钱罐歌/存钱罐歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "工作意义",
       "title": "工作意义",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/工作意义"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/工作意义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/工作意义/工作意义_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "应急基金",
       "title": "应急基金",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/应急基金"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/应急基金",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/应急基金/应急基金_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "延迟满足",
       "title": "延迟满足",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/延迟满足"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/延迟满足",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/延迟满足/延迟满足_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "志愿服务",
       "title": "志愿服务",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/志愿服务"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/志愿服务",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/志愿服务/志愿服务_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "感恩回馈",
       "title": "感恩回馈",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/感恩回馈"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/感恩回馈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/感恩回馈/感恩回馈_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "打折陷阱",
       "title": "打折陷阱",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/打折陷阱"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/打折陷阱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/打折陷阱/打折陷阱_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "捐款意义",
       "title": "捐款意义",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/捐款意义"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/捐款意义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/捐款意义/捐款意义_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "比价购物",
       "title": "比价购物",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/比价购物"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/比价购物",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/比价购物/比价购物_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "浪费可耻",
       "title": "浪费可耻",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/浪费可耻"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/浪费可耻",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/浪费可耻/浪费可耻_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "环保捐赠",
       "title": "环保捐赠",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/环保捐赠"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/环保捐赠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/环保捐赠/环保捐赠_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "理性消费",
       "title": "理性消费",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/理性消费"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/理性消费",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/理性消费/理性消费_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "硬币和纸币",
       "title": "硬币和纸币",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/硬币和纸币"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/硬币和纸币",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/硬币和纸币/硬币和纸币_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "积少成多",
       "title": "积少成多",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/积少成多"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/积少成多",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/积少成多/积少成多_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "职业尊重",
       "title": "职业尊重",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/职业尊重"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/职业尊重",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/职业尊重/职业尊重_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "记账习惯",
       "title": "记账习惯",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/记账习惯"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/记账习惯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/记账习惯/记账习惯_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "量入为出",
       "title": "量入为出",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/量入为出"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/量入为出",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/量入为出/量入为出_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "钱不是万能的",
       "title": "钱不是万能的",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/钱不是万能的"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/钱不是万能的",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/钱不是万能的/钱不是万能的_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "钱的来历",
       "title": "钱的来历",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/钱的来历"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/钱的来历",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/钱的来历/钱的来历_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "银行储蓄",
       "title": "银行储蓄",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/银行储蓄"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/银行储蓄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/银行储蓄/银行储蓄_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "零花钱规划",
       "title": "零花钱规划",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/零花钱规划"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/零花钱规划",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/零花钱规划/零花钱规划_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "需要和想要",
       "title": "需要和想要",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/需要和想要"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/需要和想要",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/需要和想要/需要和想要_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "预算表制作",
       "title": "预算表制作",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/财商启蒙/中文歌曲/预算表制作"
+      "path": "瞎编的歌曲/财商启蒙/中文歌曲/预算表制作",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/中文歌曲/预算表制作/预算表制作_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

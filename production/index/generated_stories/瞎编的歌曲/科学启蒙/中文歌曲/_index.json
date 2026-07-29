@@ -1,0 +1,741 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/科学启蒙/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 66,
+  "entries": [
+    {
+      "entry_id": "中文-串联与并联",
+      "title": "中文-串联与并联",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-串联与并联",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-串联与并联/中文-串联与并联_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-体积与质量",
+      "title": "中文-体积与质量",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-体积与质量",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-体积与质量/中文-体积与质量_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-元素",
+      "title": "中文-元素",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-元素",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-元素/中文-元素_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-光合作用",
+      "title": "中文-光合作用",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-光合作用",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-光合作用/中文-光合作用_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-光的反射",
+      "title": "中文-光的反射",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-光的反射",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-光的反射/中文-光的反射_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-光的折射",
+      "title": "中文-光的折射",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-光的折射",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-光的折射/中文-光的折射_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-分子",
+      "title": "中文-分子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-分子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-分子/中文-分子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-化合物",
+      "title": "中文-化合物",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-化合物",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-化合物/中文-化合物_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-化学反应",
+      "title": "中文-化学反应",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-化学反应",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-化学反应/中文-化学反应_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-化石",
+      "title": "中文-化石",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-化石",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-化石/中文-化石_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-化石燃料",
+      "title": "中文-化石燃料",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-化石燃料",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-化石燃料/中文-化石燃料_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-原子",
+      "title": "中文-原子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-原子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-原子/中文-原子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-可再生能源",
+      "title": "中文-可再生能源",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-可再生能源",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-可再生能源/中文-可再生能源_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-土壤",
+      "title": "中文-土壤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-土壤",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-土壤/中文-土壤_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-地震",
+      "title": "中文-地震",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-地震",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-地震/中文-地震_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-声音传播",
+      "title": "中文-声音传播",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-声音传播",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-声音传播/中文-声音传播_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-天气预报",
+      "title": "中文-天气预报",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-天气预报",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-天气预报/中文-天气预报_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-太阳能",
+      "title": "中文-太阳能",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-太阳能",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-太阳能/中文-太阳能_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-季节变化",
+      "title": "中文-季节变化",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-季节变化",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-季节变化/中文-季节变化_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-密度",
+      "title": "中文-密度",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-密度",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-密度/中文-密度_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-导体与绝缘体",
+      "title": "中文-导体与绝缘体",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-导体与绝缘体",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-导体与绝缘体/中文-导体与绝缘体_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-岩石与矿物",
+      "title": "中文-岩石与矿物",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-岩石与矿物",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-岩石与矿物/中文-岩石与矿物_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-授粉",
+      "title": "中文-授粉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-授粉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-授粉/中文-授粉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-摩擦力",
+      "title": "中文-摩擦力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-摩擦力",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-摩擦力/中文-摩擦力_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-斜面原理",
+      "title": "中文-斜面原理",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-斜面原理",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-斜面原理/中文-斜面原理_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-日食与月食",
+      "title": "中文-日食与月食",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-日食与月食",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-日食与月食/中文-日食与月食_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-星座",
+      "title": "中文-星座",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-星座",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-星座/中文-星座_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-月相",
+      "title": "中文-月相",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-月相",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-月相/中文-月相_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杠杆原理",
+      "title": "中文-杠杆原理",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-杠杆原理",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-杠杆原理/中文-杠杆原理_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-板块构造",
+      "title": "中文-板块构造",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-板块构造",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-板块构造/中文-板块构造_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-栖息地",
+      "title": "中文-栖息地",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-栖息地",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-栖息地/中文-栖息地_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-植物生长",
+      "title": "中文-植物生长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-植物生长",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-植物生长/中文-植物生长_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-气候变化",
+      "title": "中文-气候变化",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-气候变化",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-气候变化/中文-气候变化_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-气压",
+      "title": "中文-气压",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-气压",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-气压/中文-气压_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-氧化还原",
+      "title": "中文-氧化还原",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-氧化还原",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-氧化还原/中文-氧化还原_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-水的三态",
+      "title": "中文-水的三态",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-水的三态",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-水的三态/中文-水的三态_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-水的循环",
+      "title": "中文-水的循环",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-水的循环",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-水的循环/中文-水的循环_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-水能",
+      "title": "中文-水能",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-水能",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-水能/中文-水能_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-浮力",
+      "title": "中文-浮力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-浮力",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-浮力/中文-浮力_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-混合物",
+      "title": "中文-混合物",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-混合物",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-混合物/中文-混合物_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-温室效应",
+      "title": "中文-温室效应",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-温室效应",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-温室效应/中文-温室效应_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-溶解与溶液",
+      "title": "中文-溶解与溶液",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-溶解与溶液",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-溶解与溶液/中文-溶解与溶液_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-滑轮系统",
+      "title": "中文-滑轮系统",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-滑轮系统",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-滑轮系统/中文-滑轮系统_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-潮汐",
+      "title": "中文-潮汐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-潮汐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-潮汐/中文-潮汐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-火山",
+      "title": "中文-火山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-火山",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-火山/中文-火山_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-热的传递",
+      "title": "中文-热的传递",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-热的传递",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-热的传递/中文-热的传递_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-燃烧",
+      "title": "中文-燃烧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-燃烧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-燃烧/中文-燃烧_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-环保",
+      "title": "中文-环保",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-环保",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-环保/中文-环保_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-生态系统",
+      "title": "中文-生态系统",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-生态系统",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-生态系统/中文-生态系统_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-生物多样性",
+      "title": "中文-生物多样性",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-生物多样性",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-生物多样性/中文-生物多样性_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-电力",
+      "title": "中文-电力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-电力",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-电力/中文-电力_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-电压",
+      "title": "中文-电压",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-电压",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-电压/中文-电压_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-电流",
+      "title": "中文-电流",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-电流",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-电流/中文-电流_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-电路",
+      "title": "中文-电路",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-电路",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-电路/中文-电路_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-电阻",
+      "title": "中文-电阻",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-电阻",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-电阻/中文-电阻_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-磁力",
+      "title": "中文-磁力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-磁力",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-磁力/中文-磁力_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-种子传播",
+      "title": "中文-种子传播",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-种子传播",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-种子传播/中文-种子传播_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-细胞",
+      "title": "中文-细胞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-细胞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-细胞/中文-细胞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-能源",
+      "title": "中文-能源",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-能源",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-能源/中文-能源_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-臭氧层",
+      "title": "中文-臭氧层",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-臭氧层",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-臭氧层/中文-臭氧层_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-轮轴",
+      "title": "中文-轮轴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-轮轴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-轮轴/中文-轮轴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-进化",
+      "title": "中文-进化",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-进化",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-进化/中文-进化_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-酸碱中和",
+      "title": "中文-酸碱中和",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-酸碱中和",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-酸碱中和/中文-酸碱中和_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-重力",
+      "title": "中文-重力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-重力",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-重力/中文-重力_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-风能",
+      "title": "中文-风能",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-风能",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-风能/中文-风能_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-食物链",
+      "title": "中文-食物链",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/科学启蒙/中文歌曲/中文-食物链",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/中文歌曲/中文-食物链/中文-食物链_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

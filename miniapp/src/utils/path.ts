@@ -33,3 +33,25 @@ export function buildCoverUrl(coverImageUrl?: string | null): string {
   const rel = clean.startsWith('illustrations/') ? clean : `illustrations/${clean}`;
   return buildAssetUrl(rel);
 }
+
+/**
+ * 按故事 path 推导封面地址（封面目录镜像 generated_stories：covers/generated/{path}/{末段}.jpg）。
+ * 用于只有 path 没有索引 cover 的场景（历史/收藏/直达链接）；章节级 path 可能 404，消费方需兜底。
+ */
+export function guessCoverFromPath(storyPath?: string | null): string {
+  if (!storyPath) return '';
+  const clean = storyPath.replace(/^\/+|\/+$/g, '');
+  const name = clean.split('/').filter(Boolean).pop();
+  if (!name) return '';
+  return buildCoverUrl(`covers/generated/${clean}/${name}.jpg`);
+}
+
+/**
+ * 章节展示标题清洗：部分内容库章节 title 带文件名式前缀（如「三字经001-001_第1段_人之初性本善」）。
+ * 仅在命中「编号-编号_(第N段_)?」模式时剥离前缀，正常标题（如三国「第001回 …」）不受影响。
+ */
+export function cleanChapterTitle(title?: string | null): string {
+  if (!title) return '';
+  const m = title.match(/^[^_]*\d+\s*-\s*\d+_(?:第?\d+段?_)?(.+)$/);
+  return m && m[1] ? m[1] : title;
+}

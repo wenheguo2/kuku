@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/摇篮曲/双语",
   "name": "双语",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/摇篮曲.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/双语.jpg",
     "cover_level": "category"
   },
   "entry_count": 105,
@@ -16,735 +16,1155 @@
       "title": "1. 月亮轻轻摇 Moonlight Lullaby",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/1. 月亮轻轻摇 Moonlight Lullaby"
+      "path": "瞎编的歌曲/摇篮曲/双语/1. 月亮轻轻摇 Moonlight Lullaby",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/1. 月亮轻轻摇 Moonlight Lullaby/1. 月亮轻轻摇 Moonlight Lullaby_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "10. 摇篮里的月光 Cradle Moonbeam",
       "title": "10. 摇篮里的月光 Cradle Moonbeam",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/10. 摇篮里的月光 Cradle Moonbeam"
+      "path": "瞎编的歌曲/摇篮曲/双语/10. 摇篮里的月光 Cradle Moonbeam",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/10. 摇篮里的月光 Cradle Moonbeam/10. 摇篮里的月光 Cradle Moonbeam_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "100. 晚安，小青蛙 Goodnight, Frog",
       "title": "100. 晚安，小青蛙 Goodnight, Frog",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/100. 晚安，小青蛙 Goodnight, Frog"
+      "path": "瞎编的歌曲/摇篮曲/双语/100. 晚安，小青蛙 Goodnight, Frog",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/100. 晚安，小青蛙 Goodnight, Frog/100. 晚安，小青蛙 Goodnight, Frog_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "101. 摇篮里的月光 Moon in Cradle",
       "title": "101. 摇篮里的月光 Moon in Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/101. 摇篮里的月光 Moon in Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/101. 摇篮里的月光 Moon in Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/101. 摇篮里的月光 Moon in Cradle/101. 摇篮里的月光 Moon in Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "102. 小鸭子的梦 Duckling’s Dream",
       "title": "102. 小鸭子的梦 Duckling’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/102. 小鸭子的梦 Duckling’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/102. 小鸭子的梦 Duckling’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/102. 小鸭子的梦 Duckling’s Dream/102. 小鸭子的梦 Duckling’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "103. 星星的摇篮曲 Star’s Night",
       "title": "103. 星星的摇篮曲 Star’s Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/103. 星星的摇篮曲 Star’s Night"
+      "path": "瞎编的歌曲/摇篮曲/双语/103. 星星的摇篮曲 Star’s Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/103. 星星的摇篮曲 Star’s Night/103. 星星的摇篮曲 Star’s Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "104. 软软的夜风歌 Soft Night Breeze",
       "title": "104. 软软的夜风歌 Soft Night Breeze",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/104. 软软的夜风歌 Soft Night Breeze"
+      "path": "瞎编的歌曲/摇篮曲/双语/104. 软软的夜风歌 Soft Night Breeze",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/104. 软软的夜风歌 Soft Night Breeze/104. 软软的夜风歌 Soft Night Breeze_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "105. 摇篮边的晚安 Goodnight by Cradle",
       "title": "105. 摇篮边的晚安 Goodnight by Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/105. 摇篮边的晚安 Goodnight by Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/105. 摇篮边的晚安 Goodnight by Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/105. 摇篮边的晚安 Goodnight by Cradle/105. 摇篮边的晚安 Goodnight by Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "11. 猫咪的呼噜 Cat’s Purr Song",
       "title": "11. 猫咪的呼噜 Cat’s Purr Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/11. 猫咪的呼噜 Cat’s Purr Song"
+      "path": "瞎编的歌曲/摇篮曲/双语/11. 猫咪的呼噜 Cat’s Purr Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/11. 猫咪的呼噜 Cat’s Purr Song/11. 猫咪的呼噜 Cat’s Purr Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "12. 花瓣枕头 Petal Pillow",
       "title": "12. 花瓣枕头 Petal Pillow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/12. 花瓣枕头 Petal Pillow"
+      "path": "瞎编的歌曲/摇篮曲/双语/12. 花瓣枕头 Petal Pillow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/12. 花瓣枕头 Petal Pillow/12. 花瓣枕头 Petal Pillow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "13. 海浪轻轻摇 Gentle Wave Rock",
       "title": "13. 海浪轻轻摇 Gentle Wave Rock",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/13. 海浪轻轻摇 Gentle Wave Rock"
+      "path": "瞎编的歌曲/摇篮曲/双语/13. 海浪轻轻摇 Gentle Wave Rock",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/13. 海浪轻轻摇 Gentle Wave Rock/13. 海浪轻轻摇 Gentle Wave Rock_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "14. 小兔子的晚安 Bunny’s Goodnight",
       "title": "14. 小兔子的晚安 Bunny’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/14. 小兔子的晚安 Bunny’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/14. 小兔子的晚安 Bunny’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/14. 小兔子的晚安 Bunny’s Goodnight/14. 小兔子的晚安 Bunny’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "15. 星星的摇篮 Starry Cradle",
       "title": "15. 星星的摇篮 Starry Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/15. 星星的摇篮 Starry Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/15. 星星的摇篮 Starry Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/15. 星星的摇篮 Starry Cradle/15. 星星的摇篮 Starry Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "16. 梦的绒毛 Fluff of Dreams",
       "title": "16. 梦的绒毛 Fluff of Dreams",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/16. 梦的绒毛 Fluff of Dreams"
+      "path": "瞎编的歌曲/摇篮曲/双语/16. 梦的绒毛 Fluff of Dreams",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/16. 梦的绒毛 Fluff of Dreams/16. 梦的绒毛 Fluff of Dreams_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "17. 晚安，小蘑菇 Goodnight, Little Mushroom",
       "title": "17. 晚安，小蘑菇 Goodnight, Little Mushroom",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/17. 晚安，小蘑菇 Goodnight, Little Mushroom"
+      "path": "瞎编的歌曲/摇篮曲/双语/17. 晚安，小蘑菇 Goodnight, Little Mushroom",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/17. 晚安，小蘑菇 Goodnight, Little Mushroom/17. 晚安，小蘑菇 Goodnight, Little Mushroom_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "18. 夜风轻轻吹 Night Breeze Sigh",
       "title": "18. 夜风轻轻吹 Night Breeze Sigh",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/18. 夜风轻轻吹 Night Breeze Sigh"
+      "path": "瞎编的歌曲/摇篮曲/双语/18. 夜风轻轻吹 Night Breeze Sigh",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/18. 夜风轻轻吹 Night Breeze Sigh/18. 夜风轻轻吹 Night Breeze Sigh_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "19. 小鱼的泡泡 Fishy Bubbles",
       "title": "19. 小鱼的泡泡 Fishy Bubbles",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/19. 小鱼的泡泡 Fishy Bubbles"
+      "path": "瞎编的歌曲/摇篮曲/双语/19. 小鱼的泡泡 Fishy Bubbles",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/19. 小鱼的泡泡 Fishy Bubbles/19. 小鱼的泡泡 Fishy Bubbles_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "2. 星星的羽毛 Starry Feathers",
       "title": "2. 星星的羽毛 Starry Feathers",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/2. 星星的羽毛 Starry Feathers"
+      "path": "瞎编的歌曲/摇篮曲/双语/2. 星星的羽毛 Starry Feathers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/2. 星星的羽毛 Starry Feathers/2. 星星的羽毛 Starry Feathers_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "20. 软软的月光 Soft Moon Glow",
       "title": "20. 软软的月光 Soft Moon Glow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/20. 软软的月光 Soft Moon Glow"
+      "path": "瞎编的歌曲/摇篮曲/双语/20. 软软的月光 Soft Moon Glow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/20. 软软的月光 Soft Moon Glow/20. 软软的月光 Soft Moon Glow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "21. 小鹿的梦 Deer’s Dream",
       "title": "21. 小鹿的梦 Deer’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/21. 小鹿的梦 Deer’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/21. 小鹿的梦 Deer’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/21. 小鹿的梦 Deer’s Dream/21. 小鹿的梦 Deer’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "22. 摇篮边的花 Flower by the Crib",
       "title": "22. 摇篮边的花 Flower by the Crib",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/22. 摇篮边的花 Flower by the Crib"
+      "path": "瞎编的歌曲/摇篮曲/双语/22. 摇篮边的花 Flower by the Crib",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/22. 摇篮边的花 Flower by the Crib/22. 摇篮边的花 Flower by the Crib_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "23. 云朵的被子 Cloud Blanket",
       "title": "23. 云朵的被子 Cloud Blanket",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/23. 云朵的被子 Cloud Blanket"
+      "path": "瞎编的歌曲/摇篮曲/双语/23. 云朵的被子 Cloud Blanket",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/23. 云朵的被子 Cloud Blanket/23. 云朵的被子 Cloud Blanket_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "24. 晚安，小瓢虫 Goodnight, Ladybug",
       "title": "24. 晚安，小瓢虫 Goodnight, Ladybug",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/24. 晚安，小瓢虫 Goodnight, Ladybug"
+      "path": "瞎编的歌曲/摇篮曲/双语/24. 晚安，小瓢虫 Goodnight, Ladybug",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/24. 晚安，小瓢虫 Goodnight, Ladybug/24. 晚安，小瓢虫 Goodnight, Ladybug_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "25. 星星在眨眼 Twinkle Wink",
       "title": "25. 星星在眨眼 Twinkle Wink",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/25. 星星在眨眼 Twinkle Wink"
+      "path": "瞎编的歌曲/摇篮曲/双语/25. 星星在眨眼 Twinkle Wink",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/25. 星星在眨眼 Twinkle Wink/25. 星星在眨眼 Twinkle Wink_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "26. 小鼹鼠的晚安 Mole’s Goodnight",
       "title": "26. 小鼹鼠的晚安 Mole’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/26. 小鼹鼠的晚安 Mole’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/26. 小鼹鼠的晚安 Mole’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/26. 小鼹鼠的晚安 Mole’s Goodnight/26. 小鼹鼠的晚安 Mole’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "27. 月光小舟 Moonlight Boat",
       "title": "27. 月光小舟 Moonlight Boat",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/27. 月光小舟 Moonlight Boat"
+      "path": "瞎编的歌曲/摇篮曲/双语/27. 月光小舟 Moonlight Boat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/27. 月光小舟 Moonlight Boat/27. 月光小舟 Moonlight Boat_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "28. 轻轻的摇篮 Gentle Rocking",
       "title": "28. 轻轻的摇篮 Gentle Rocking",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/28. 轻轻的摇篮 Gentle Rocking"
+      "path": "瞎编的歌曲/摇篮曲/双语/28. 轻轻的摇篮 Gentle Rocking",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/28. 轻轻的摇篮 Gentle Rocking/28. 轻轻的摇篮 Gentle Rocking_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "29. 小蜜蜂的梦 Bee’s Honey Dream",
       "title": "29. 小蜜蜂的梦 Bee’s Honey Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/29. 小蜜蜂的梦 Bee’s Honey Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/29. 小蜜蜂的梦 Bee’s Honey Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/29. 小蜜蜂的梦 Bee’s Honey Dream/29. 小蜜蜂的梦 Bee’s Honey Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "3. 小云朵的梦 Little Cloud’s Dream",
       "title": "3. 小云朵的梦 Little Cloud’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/3. 小云朵的梦 Little Cloud’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/3. 小云朵的梦 Little Cloud’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/3. 小云朵的梦 Little Cloud’s Dream/3. 小云朵的梦 Little Cloud’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "30. 夜莺的摇篮 Nightingale’s Lull",
       "title": "30. 夜莺的摇篮 Nightingale’s Lull",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/30. 夜莺的摇篮 Nightingale’s Lull"
+      "path": "瞎编的歌曲/摇篮曲/双语/30. 夜莺的摇篮 Nightingale’s Lull",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/30. 夜莺的摇篮 Nightingale’s Lull/30. 夜莺的摇篮 Nightingale’s Lull_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "31. 小羊的羊毛 Lamb’s Wool",
       "title": "31. 小羊的羊毛 Lamb’s Wool",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/31. 小羊的羊毛 Lamb’s Wool"
+      "path": "瞎编的歌曲/摇篮曲/双语/31. 小羊的羊毛 Lamb’s Wool",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/31. 小羊的羊毛 Lamb’s Wool/31. 小羊的羊毛 Lamb’s Wool_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "32. 晚安，小青蛙 Goodnight, Little Frog",
       "title": "32. 晚安，小青蛙 Goodnight, Little Frog",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/32. 晚安，小青蛙 Goodnight, Little Frog"
+      "path": "瞎编的歌曲/摇篮曲/双语/32. 晚安，小青蛙 Goodnight, Little Frog",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/32. 晚安，小青蛙 Goodnight, Little Frog/32. 晚安，小青蛙 Goodnight, Little Frog_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "33. 星星的摇篮曲 Star Lullaby",
       "title": "33. 星星的摇篮曲 Star Lullaby",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/33. 星星的摇篮曲 Star Lullaby"
+      "path": "瞎编的歌曲/摇篮曲/双语/33. 星星的摇篮曲 Star Lullaby",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/33. 星星的摇篮曲 Star Lullaby/33. 星星的摇篮曲 Star Lullaby_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "34. 软软的梦 Softest Dream",
       "title": "34. 软软的梦 Softest Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/34. 软软的梦 Softest Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/34. 软软的梦 Softest Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/34. 软软的梦 Softest Dream/34. 软软的梦 Softest Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "35. 小兔的耳朵 Bunny’s Ear",
       "title": "35. 小兔的耳朵 Bunny’s Ear",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/35. 小兔的耳朵 Bunny’s Ear"
+      "path": "瞎编的歌曲/摇篮曲/双语/35. 小兔的耳朵 Bunny’s Ear",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/35. 小兔的耳朵 Bunny’s Ear/35. 小兔的耳朵 Bunny’s Ear_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "36. 风铃轻轻摇 Wind Chime Rock",
       "title": "36. 风铃轻轻摇 Wind Chime Rock",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/36. 风铃轻轻摇 Wind Chime Rock"
+      "path": "瞎编的歌曲/摇篮曲/双语/36. 风铃轻轻摇 Wind Chime Rock",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/36. 风铃轻轻摇 Wind Chime Rock/36. 风铃轻轻摇 Wind Chime Rock_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "37. 小刺猬的晚安 Hedgehog’s Goodnight",
       "title": "37. 小刺猬的晚安 Hedgehog’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/37. 小刺猬的晚安 Hedgehog’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/37. 小刺猬的晚安 Hedgehog’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/37. 小刺猬的晚安 Hedgehog’s Goodnight/37. 小刺猬的晚安 Hedgehog’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "38. 月光摇篮 Moon Cradle",
       "title": "38. 月光摇篮 Moon Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/38. 月光摇篮 Moon Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/38. 月光摇篮 Moon Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/38. 月光摇篮 Moon Cradle/38. 月光摇篮 Moon Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "39. 小鸭子的梦 Duckling’s Dream",
       "title": "39. 小鸭子的梦 Duckling’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/39. 小鸭子的梦 Duckling’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/39. 小鸭子的梦 Duckling’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/39. 小鸭子的梦 Duckling’s Dream/39. 小鸭子的梦 Duckling’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "4. 晚安，小蜗牛 Goodnight, Little Snail",
       "title": "4. 晚安，小蜗牛 Goodnight, Little Snail",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/4. 晚安，小蜗牛 Goodnight, Little Snail"
+      "path": "瞎编的歌曲/摇篮曲/双语/4. 晚安，小蜗牛 Goodnight, Little Snail",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/4. 晚安，小蜗牛 Goodnight, Little Snail/4. 晚安，小蜗牛 Goodnight, Little Snail_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "40. 晚安，小松鼠 Goodnight, Squirrel",
       "title": "40. 晚安，小松鼠 Goodnight, Squirrel",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/40. 晚安，小松鼠 Goodnight, Squirrel"
+      "path": "瞎编的歌曲/摇篮曲/双语/40. 晚安，小松鼠 Goodnight, Squirrel",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/40. 晚安，小松鼠 Goodnight, Squirrel/40. 晚安，小松鼠 Goodnight, Squirrel_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "41. 星星的枕头 Star Pillow",
       "title": "41. 星星的枕头 Star Pillow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/41. 星星的枕头 Star Pillow"
+      "path": "瞎编的歌曲/摇篮曲/双语/41. 星星的枕头 Star Pillow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/41. 星星的枕头 Star Pillow/41. 星星的枕头 Star Pillow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "42. 软软的夜曲 Soft Night Song",
       "title": "42. 软软的夜曲 Soft Night Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/42. 软软的夜曲 Soft Night Song"
+      "path": "瞎编的歌曲/摇篮曲/双语/42. 软软的夜曲 Soft Night Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/42. 软软的夜曲 Soft Night Song/42. 软软的夜曲 Soft Night Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "43. 小蜗牛的家 Snail’s Shell",
       "title": "43. 小蜗牛的家 Snail’s Shell",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/43. 小蜗牛的家 Snail’s Shell"
+      "path": "瞎编的歌曲/摇篮曲/双语/43. 小蜗牛的家 Snail’s Shell",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/43. 小蜗牛的家 Snail’s Shell/43. 小蜗牛的家 Snail’s Shell_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "44. 摇篮边的星星 Cradle Star",
       "title": "44. 摇篮边的星星 Cradle Star",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/44. 摇篮边的星星 Cradle Star"
+      "path": "瞎编的歌曲/摇篮曲/双语/44. 摇篮边的星星 Cradle Star",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/44. 摇篮边的星星 Cradle Star/44. 摇篮边的星星 Cradle Star_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "45. 小蝴蝶的晚安 Butterfly’s Goodnight",
       "title": "45. 小蝴蝶的晚安 Butterfly’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/45. 小蝴蝶的晚安 Butterfly’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/45. 小蝴蝶的晚安 Butterfly’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/45. 小蝴蝶的晚安 Butterfly’s Goodnight/45. 小蝴蝶的晚安 Butterfly’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "46. 月光轻轻摇 Moonlight Sway",
       "title": "46. 月光轻轻摇 Moonlight Sway",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/46. 月光轻轻摇 Moonlight Sway"
+      "path": "瞎编的歌曲/摇篮曲/双语/46. 月光轻轻摇 Moonlight Sway",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/46. 月光轻轻摇 Moonlight Sway/46. 月光轻轻摇 Moonlight Sway_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "47. 小企鹅的梦 Penguin’s Dream",
       "title": "47. 小企鹅的梦 Penguin’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/47. 小企鹅的梦 Penguin’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/47. 小企鹅的梦 Penguin’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/47. 小企鹅的梦 Penguin’s Dream/47. 小企鹅的梦 Penguin’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "48. 晚安，小海豚 Goodnight, Dolphin",
       "title": "48. 晚安，小海豚 Goodnight, Dolphin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/48. 晚安，小海豚 Goodnight, Dolphin"
+      "path": "瞎编的歌曲/摇篮曲/双语/48. 晚安，小海豚 Goodnight, Dolphin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/48. 晚安，小海豚 Goodnight, Dolphin/48. 晚安，小海豚 Goodnight, Dolphin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "49. 星星的摇篮歌 Star Cradle Song",
       "title": "49. 星星的摇篮歌 Star Cradle Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/49. 星星的摇篮歌 Star Cradle Song"
+      "path": "瞎编的歌曲/摇篮曲/双语/49. 星星的摇篮歌 Star Cradle Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/49. 星星的摇篮歌 Star Cradle Song/49. 星星的摇篮歌 Star Cradle Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "5. 风在数羊 Wind Counts Sheep",
       "title": "5. 风在数羊 Wind Counts Sheep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/5. 风在数羊 Wind Counts Sheep"
+      "path": "瞎编的歌曲/摇篮曲/双语/5. 风在数羊 Wind Counts Sheep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/5. 风在数羊 Wind Counts Sheep/5. 风在数羊 Wind Counts Sheep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "50. 软软的云床 Soft Cloud Bed",
       "title": "50. 软软的云床 Soft Cloud Bed",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/50. 软软的云床 Soft Cloud Bed"
+      "path": "瞎编的歌曲/摇篮曲/双语/50. 软软的云床 Soft Cloud Bed",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/50. 软软的云床 Soft Cloud Bed/50. 软软的云床 Soft Cloud Bed_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "51. 小乌龟的晚安 Turtle’s Goodnight",
       "title": "51. 小乌龟的晚安 Turtle’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/51. 小乌龟的晚安 Turtle’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/51. 小乌龟的晚安 Turtle’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/51. 小乌龟的晚安 Turtle’s Goodnight/51. 小乌龟的晚安 Turtle’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "52. 摇篮里的梦 Dream in Cradle",
       "title": "52. 摇篮里的梦 Dream in Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/52. 摇篮里的梦 Dream in Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/52. 摇篮里的梦 Dream in Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/52. 摇篮里的梦 Dream in Cradle/52. 摇篮里的梦 Dream in Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "53. 小猫咪的梦 Kitten’s Dream",
       "title": "53. 小猫咪的梦 Kitten’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/53. 小猫咪的梦 Kitten’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/53. 小猫咪的梦 Kitten’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/53. 小猫咪的梦 Kitten’s Dream/53. 小猫咪的梦 Kitten’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "54. 晚安，小狐狸 Goodnight, Fox",
       "title": "54. 晚安，小狐狸 Goodnight, Fox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/54. 晚安，小狐狸 Goodnight, Fox"
+      "path": "瞎编的歌曲/摇篮曲/双语/54. 晚安，小狐狸 Goodnight, Fox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/54. 晚安，小狐狸 Goodnight, Fox/54. 晚安，小狐狸 Goodnight, Fox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "55. 星星的摇篮曲 Star’s Lull",
       "title": "55. 星星的摇篮曲 Star’s Lull",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/55. 星星的摇篮曲 Star’s Lull"
+      "path": "瞎编的歌曲/摇篮曲/双语/55. 星星的摇篮曲 Star’s Lull",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/55. 星星的摇篮曲 Star’s Lull/55. 星星的摇篮曲 Star’s Lull_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "56. 软软的月光曲 Soft Moon Melody",
       "title": "56. 软软的月光曲 Soft Moon Melody",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/56. 软软的月光曲 Soft Moon Melody"
+      "path": "瞎编的歌曲/摇篮曲/双语/56. 软软的月光曲 Soft Moon Melody",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/56. 软软的月光曲 Soft Moon Melody/56. 软软的月光曲 Soft Moon Melody_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "57. 小海星的梦 Starfish Dream",
       "title": "57. 小海星的梦 Starfish Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/57. 小海星的梦 Starfish Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/57. 小海星的梦 Starfish Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/57. 小海星的梦 Starfish Dream/57. 小海星的梦 Starfish Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "58. 晚安，小企鹅 Goodnight, Penguin",
       "title": "58. 晚安，小企鹅 Goodnight, Penguin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/58. 晚安，小企鹅 Goodnight, Penguin"
+      "path": "瞎编的歌曲/摇篮曲/双语/58. 晚安，小企鹅 Goodnight, Penguin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/58. 晚安，小企鹅 Goodnight, Penguin/58. 晚安，小企鹅 Goodnight, Penguin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "59. 摇篮边的风 Cradle Breeze",
       "title": "59. 摇篮边的风 Cradle Breeze",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/59. 摇篮边的风 Cradle Breeze"
+      "path": "瞎编的歌曲/摇篮曲/双语/59. 摇篮边的风 Cradle Breeze",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/59. 摇篮边的风 Cradle Breeze/59. 摇篮边的风 Cradle Breeze_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "6. 露珠摇篮 Dewdrop Cradle",
       "title": "6. 露珠摇篮 Dewdrop Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/6. 露珠摇篮 Dewdrop Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/6. 露珠摇篮 Dewdrop Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/6. 露珠摇篮 Dewdrop Cradle/6. 露珠摇篮 Dewdrop Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "60. 小松鼠的梦 Squirrel’s Dream",
       "title": "60. 小松鼠的梦 Squirrel’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/60. 小松鼠的梦 Squirrel’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/60. 小松鼠的梦 Squirrel’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/60. 小松鼠的梦 Squirrel’s Dream/60. 小松鼠的梦 Squirrel’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "61. 星星的摇篮歌 Star’s Rocking",
       "title": "61. 星星的摇篮歌 Star’s Rocking",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/61. 星星的摇篮歌 Star’s Rocking"
+      "path": "瞎编的歌曲/摇篮曲/双语/61. 星星的摇篮歌 Star’s Rocking",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/61. 星星的摇篮歌 Star’s Rocking/61. 星星的摇篮歌 Star’s Rocking_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "62. 软软的夜曲 Soft Night Tune",
       "title": "62. 软软的夜曲 Soft Night Tune",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/62. 软软的夜曲 Soft Night Tune"
+      "path": "瞎编的歌曲/摇篮曲/双语/62. 软软的夜曲 Soft Night Tune",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/62. 软软的夜曲 Soft Night Tune/62. 软软的夜曲 Soft Night Tune_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "63. 小鹿的晚安 Deer’s Goodnight",
       "title": "63. 小鹿的晚安 Deer’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/63. 小鹿的晚安 Deer’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/63. 小鹿的晚安 Deer’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/63. 小鹿的晚安 Deer’s Goodnight/63. 小鹿的晚安 Deer’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "64. 月光摇篮曲 Moon Cradle Song",
       "title": "64. 月光摇篮曲 Moon Cradle Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/64. 月光摇篮曲 Moon Cradle Song"
+      "path": "瞎编的歌曲/摇篮曲/双语/64. 月光摇篮曲 Moon Cradle Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/64. 月光摇篮曲 Moon Cradle Song/64. 月光摇篮曲 Moon Cradle Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "65. 小兔子的梦 Bunny’s Dream",
       "title": "65. 小兔子的梦 Bunny’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/65. 小兔子的梦 Bunny’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/65. 小兔子的梦 Bunny’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/65. 小兔子的梦 Bunny’s Dream/65. 小兔子的梦 Bunny’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "66. 晚安，小猫咪 Goodnight, Kitten",
       "title": "66. 晚安，小猫咪 Goodnight, Kitten",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/66. 晚安，小猫咪 Goodnight, Kitten"
+      "path": "瞎编的歌曲/摇篮曲/双语/66. 晚安，小猫咪 Goodnight, Kitten",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/66. 晚安，小猫咪 Goodnight, Kitten/66. 晚安，小猫咪 Goodnight, Kitten_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "67. 星星的摇篮曲 Star’s Lullaby",
       "title": "67. 星星的摇篮曲 Star’s Lullaby",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/67. 星星的摇篮曲 Star’s Lullaby"
+      "path": "瞎编的歌曲/摇篮曲/双语/67. 星星的摇篮曲 Star’s Lullaby",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/67. 星星的摇篮曲 Star’s Lullaby/67. 星星的摇篮曲 Star’s Lullaby_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "68. 软软的摇篮 Soft Cradle",
       "title": "68. 软软的摇篮 Soft Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/68. 软软的摇篮 Soft Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/68. 软软的摇篮 Soft Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/68. 软软的摇篮 Soft Cradle/68. 软软的摇篮 Soft Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "69. 小蜗牛的梦 Snail’s Dream",
       "title": "69. 小蜗牛的梦 Snail’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/69. 小蜗牛的梦 Snail’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/69. 小蜗牛的梦 Snail’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/69. 小蜗牛的梦 Snail’s Dream/69. 小蜗牛的梦 Snail’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "7. 软软的夜 Softest Night",
       "title": "7. 软软的夜 Softest Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/7. 软软的夜 Softest Night"
+      "path": "瞎编的歌曲/摇篮曲/双语/7. 软软的夜 Softest Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/7. 软软的夜 Softest Night/7. 软软的夜 Softest Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "70. 晚安，小海星 Goodnight, Starfish",
       "title": "70. 晚安，小海星 Goodnight, Starfish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/70. 晚安，小海星 Goodnight, Starfish"
+      "path": "瞎编的歌曲/摇篮曲/双语/70. 晚安，小海星 Goodnight, Starfish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/70. 晚安，小海星 Goodnight, Starfish/70. 晚安，小海星 Goodnight, Starfish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "71. 摇篮边的月光 Cradle Moon",
       "title": "71. 摇篮边的月光 Cradle Moon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/71. 摇篮边的月光 Cradle Moon"
+      "path": "瞎编的歌曲/摇篮曲/双语/71. 摇篮边的月光 Cradle Moon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/71. 摇篮边的月光 Cradle Moon/71. 摇篮边的月光 Cradle Moon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "72. 小蝴蝶的梦 Butterfly Dream",
       "title": "72. 小蝴蝶的梦 Butterfly Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/72. 小蝴蝶的梦 Butterfly Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/72. 小蝴蝶的梦 Butterfly Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/72. 小蝴蝶的梦 Butterfly Dream/72. 小蝴蝶的梦 Butterfly Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "73. 星星的摇篮歌 Star’s Song",
       "title": "73. 星星的摇篮歌 Star’s Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/73. 星星的摇篮歌 Star’s Song"
+      "path": "瞎编的歌曲/摇篮曲/双语/73. 星星的摇篮歌 Star’s Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/73. 星星的摇篮歌 Star’s Song/73. 星星的摇篮歌 Star’s Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "74. 软软的夜风 Soft Night Wind",
       "title": "74. 软软的夜风 Soft Night Wind",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/74. 软软的夜风 Soft Night Wind"
+      "path": "瞎编的歌曲/摇篮曲/双语/74. 软软的夜风 Soft Night Wind",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/74. 软软的夜风 Soft Night Wind/74. 软软的夜风 Soft Night Wind_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "75. 小鸭子的晚安 Duckling’s Goodnight",
       "title": "75. 小鸭子的晚安 Duckling’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/75. 小鸭子的晚安 Duckling’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/75. 小鸭子的晚安 Duckling’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/75. 小鸭子的晚安 Duckling’s Goodnight/75. 小鸭子的晚安 Duckling’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "76. 晚安，小乌龟 Goodnight, Turtle",
       "title": "76. 晚安，小乌龟 Goodnight, Turtle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/76. 晚安，小乌龟 Goodnight, Turtle"
+      "path": "瞎编的歌曲/摇篮曲/双语/76. 晚安，小乌龟 Goodnight, Turtle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/76. 晚安，小乌龟 Goodnight, Turtle/76. 晚安，小乌龟 Goodnight, Turtle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "77. 摇篮里的星星 Star in Cradle",
       "title": "77. 摇篮里的星星 Star in Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/77. 摇篮里的星星 Star in Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/77. 摇篮里的星星 Star in Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/77. 摇篮里的星星 Star in Cradle/77. 摇篮里的星星 Star in Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "78. 小蜜蜂的晚安 Bee’s Goodnight",
       "title": "78. 小蜜蜂的晚安 Bee’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/78. 小蜜蜂的晚安 Bee’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/78. 小蜜蜂的晚安 Bee’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/78. 小蜜蜂的晚安 Bee’s Goodnight/78. 小蜜蜂的晚安 Bee’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "79. 星星的摇篮曲 Star’s Tune",
       "title": "79. 星星的摇篮曲 Star’s Tune",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/79. 星星的摇篮曲 Star’s Tune"
+      "path": "瞎编的歌曲/摇篮曲/双语/79. 星星的摇篮曲 Star’s Tune",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/79. 星星的摇篮曲 Star’s Tune/79. 星星的摇篮曲 Star’s Tune_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "8. 小熊的哈欠 Bear’s Little Yawn",
       "title": "8. 小熊的哈欠 Bear’s Little Yawn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/8. 小熊的哈欠 Bear’s Little Yawn"
+      "path": "瞎编的歌曲/摇篮曲/双语/8. 小熊的哈欠 Bear’s Little Yawn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/8. 小熊的哈欠 Bear’s Little Yawn/8. 小熊的哈欠 Bear’s Little Yawn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "80. 软软的月光 Soft Moon Beam",
       "title": "80. 软软的月光 Soft Moon Beam",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/80. 软软的月光 Soft Moon Beam"
+      "path": "瞎编的歌曲/摇篮曲/双语/80. 软软的月光 Soft Moon Beam",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/80. 软软的月光 Soft Moon Beam/80. 软软的月光 Soft Moon Beam_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "81. 小青蛙的梦 Frog’s Dream",
       "title": "81. 小青蛙的梦 Frog’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/81. 小青蛙的梦 Frog’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/81. 小青蛙的梦 Frog’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/81. 小青蛙的梦 Frog’s Dream/81. 小青蛙的梦 Frog’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "82. 晚安，小蝴蝶 Goodnight, Butterfly",
       "title": "82. 晚安，小蝴蝶 Goodnight, Butterfly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/82. 晚安，小蝴蝶 Goodnight, Butterfly"
+      "path": "瞎编的歌曲/摇篮曲/双语/82. 晚安，小蝴蝶 Goodnight, Butterfly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/82. 晚安，小蝴蝶 Goodnight, Butterfly/82. 晚安，小蝴蝶 Goodnight, Butterfly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "83. 摇篮边的云 Cloud by Cradle",
       "title": "83. 摇篮边的云 Cloud by Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/83. 摇篮边的云 Cloud by Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/83. 摇篮边的云 Cloud by Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/83. 摇篮边的云 Cloud by Cradle/83. 摇篮边的云 Cloud by Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "84. 小海豚的梦 Dolphin’s Dream",
       "title": "84. 小海豚的梦 Dolphin’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/84. 小海豚的梦 Dolphin’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/84. 小海豚的梦 Dolphin’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/84. 小海豚的梦 Dolphin’s Dream/84. 小海豚的梦 Dolphin’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "85. 星星的摇篮歌 Star’s Lull",
       "title": "85. 星星的摇篮歌 Star’s Lull",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/85. 星星的摇篮歌 Star’s Lull"
+      "path": "瞎编的歌曲/摇篮曲/双语/85. 星星的摇篮歌 Star’s Lull",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/85. 星星的摇篮歌 Star’s Lull/85. 星星的摇篮歌 Star’s Lull_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "86. 软软的夜曲 Soft Night Rhyme",
       "title": "86. 软软的夜曲 Soft Night Rhyme",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/86. 软软的夜曲 Soft Night Rhyme"
+      "path": "瞎编的歌曲/摇篮曲/双语/86. 软软的夜曲 Soft Night Rhyme",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/86. 软软的夜曲 Soft Night Rhyme/86. 软软的夜曲 Soft Night Rhyme_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "87. 小狐狸的梦 Fox’s Dream",
       "title": "87. 小狐狸的梦 Fox’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/87. 小狐狸的梦 Fox’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/87. 小狐狸的梦 Fox’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/87. 小狐狸的梦 Fox’s Dream/87. 小狐狸的梦 Fox’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "88. 晚安，小蜜蜂 Goodnight, Bee",
       "title": "88. 晚安，小蜜蜂 Goodnight, Bee",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/88. 晚安，小蜜蜂 Goodnight, Bee"
+      "path": "瞎编的歌曲/摇篮曲/双语/88. 晚安，小蜜蜂 Goodnight, Bee",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/88. 晚安，小蜜蜂 Goodnight, Bee/88. 晚安，小蜜蜂 Goodnight, Bee_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "89. 摇篮里的风 Wind in Cradle",
       "title": "89. 摇篮里的风 Wind in Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/89. 摇篮里的风 Wind in Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/89. 摇篮里的风 Wind in Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/89. 摇篮里的风 Wind in Cradle/89. 摇篮里的风 Wind in Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "9. 萤火虫的吻 Firefly Kiss",
       "title": "9. 萤火虫的吻 Firefly Kiss",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/9. 萤火虫的吻 Firefly Kiss"
+      "path": "瞎编的歌曲/摇篮曲/双语/9. 萤火虫的吻 Firefly Kiss",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/9. 萤火虫的吻 Firefly Kiss/9. 萤火虫的吻 Firefly Kiss_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "90. 小企鹅的晚安 Penguin’s Goodnight",
       "title": "90. 小企鹅的晚安 Penguin’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/90. 小企鹅的晚安 Penguin’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/90. 小企鹅的晚安 Penguin’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/90. 小企鹅的晚安 Penguin’s Goodnight/90. 小企鹅的晚安 Penguin’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "91. 星星的摇篮曲 Star’s Rock",
       "title": "91. 星星的摇篮曲 Star’s Rock",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/91. 星星的摇篮曲 Star’s Rock"
+      "path": "瞎编的歌曲/摇篮曲/双语/91. 星星的摇篮曲 Star’s Rock",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/91. 星星的摇篮曲 Star’s Rock/91. 星星的摇篮曲 Star’s Rock_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "92. 软软的摇篮曲 Soft Lullaby",
       "title": "92. 软软的摇篮曲 Soft Lullaby",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/92. 软软的摇篮曲 Soft Lullaby"
+      "path": "瞎编的歌曲/摇篮曲/双语/92. 软软的摇篮曲 Soft Lullaby",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/92. 软软的摇篮曲 Soft Lullaby/92. 软软的摇篮曲 Soft Lullaby_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "93. 小海星的晚安 Starfish’s Goodnight",
       "title": "93. 小海星的晚安 Starfish’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/93. 小海星的晚安 Starfish’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/93. 小海星的晚安 Starfish’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/93. 小海星的晚安 Starfish’s Goodnight/93. 小海星的晚安 Starfish’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "94. 晚安，小鹿 Goodnight, Deer",
       "title": "94. 晚安，小鹿 Goodnight, Deer",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/94. 晚安，小鹿 Goodnight, Deer"
+      "path": "瞎编的歌曲/摇篮曲/双语/94. 晚安，小鹿 Goodnight, Deer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/94. 晚安，小鹿 Goodnight, Deer/94. 晚安，小鹿 Goodnight, Deer_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "95. 摇篮边的梦 Dream by Cradle",
       "title": "95. 摇篮边的梦 Dream by Cradle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/95. 摇篮边的梦 Dream by Cradle"
+      "path": "瞎编的歌曲/摇篮曲/双语/95. 摇篮边的梦 Dream by Cradle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/95. 摇篮边的梦 Dream by Cradle/95. 摇篮边的梦 Dream by Cradle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "96. 小松鼠的晚安 Squirrel’s Goodnight",
       "title": "96. 小松鼠的晚安 Squirrel’s Goodnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/96. 小松鼠的晚安 Squirrel’s Goodnight"
+      "path": "瞎编的歌曲/摇篮曲/双语/96. 小松鼠的晚安 Squirrel’s Goodnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/96. 小松鼠的晚安 Squirrel’s Goodnight/96. 小松鼠的晚安 Squirrel’s Goodnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "97. 星星的摇篮歌 Star’s Dream",
       "title": "97. 星星的摇篮歌 Star’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/97. 星星的摇篮歌 Star’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/97. 星星的摇篮歌 Star’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/97. 星星的摇篮歌 Star’s Dream/97. 星星的摇篮歌 Star’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "98. 软软的月光歌 Soft Moon Song",
       "title": "98. 软软的月光歌 Soft Moon Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/98. 软软的月光歌 Soft Moon Song"
+      "path": "瞎编的歌曲/摇篮曲/双语/98. 软软的月光歌 Soft Moon Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/98. 软软的月光歌 Soft Moon Song/98. 软软的月光歌 Soft Moon Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "99. 小乌龟的梦 Turtle’s Dream",
       "title": "99. 小乌龟的梦 Turtle’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/双语/99. 小乌龟的梦 Turtle’s Dream"
+      "path": "瞎编的歌曲/摇篮曲/双语/99. 小乌龟的梦 Turtle’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/双语/99. 小乌龟的梦 Turtle’s Dream/99. 小乌龟的梦 Turtle’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

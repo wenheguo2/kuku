@@ -1,9 +1,10 @@
 """
 脚本5：封面图规格化
 ====================
-功能：将已有封面图统一缩放为 800x800px WebP（质量85），保持1:1比例不裁剪
+功能：将已有封面图统一缩放为 800x800px JPG（质量85），保持1:1比例不裁剪
 输入：production/illustrations/covers/generated/{学科}/xxx.png
-输出：同目录下 xxx.webp（原图保留不动）
+输出：同目录下 xxx.jpg（原图保留不动）
+⚠ 2026-07-29 全端通用格式决策：产出由 WebP 改为 JPG（微信开发者工具模拟器不解码 webp）
 运行机器：本机
 前置条件：无（可立即执行）
 
@@ -40,13 +41,13 @@ def find_images():
 
 def process_one(src, target_w, target_h, quality, force=False):
     """处理一张封面图 — 等比缩放到目标画布内，居中放置，不裁剪"""
-    dst = src.with_suffix(".webp")
+    dst = src.with_suffix(".jpg")
 
     if dst.exists() and not force:
-        return ("skip", str(src), "webp already exists")
+        return ("skip", str(src), "jpg already exists")
     if dst == src:
-        # 源文件已经是 webp，跳过
-        return ("skip", str(src), "source is already webp")
+        # 源文件已经是 jpg，跳过
+        return ("skip", str(src), "source is already jpg")
 
     try:
         from PIL import Image
@@ -66,7 +67,7 @@ def process_one(src, target_w, target_h, quality, force=False):
         offset_y = (target_h - new_h) // 2
         canvas.paste(img, (offset_x, offset_y))
 
-        canvas.save(dst, "WEBP", quality=quality)
+        canvas.save(dst, "JPEG", quality=quality)
         return ("ok", str(src), f"{target_w}x{target_h}")
     except Exception as e:
         return ("fail", str(src), str(e)[:200])
@@ -80,16 +81,16 @@ def main():
     parser.add_argument("--dry-run", action="store_true",
                         help="扫描模式：只统计不执行")
     parser.add_argument("--force", action="store_true",
-                        help="强制重新生成（覆盖已有WebP）")
+                        help="强制重新生成（覆盖已有JPG）")
     parser.add_argument("--width", type=int, default=800,
                         help="目标宽度 (默认800)")
     parser.add_argument("--height", type=int, default=800,
                         help="目标高度 (默认800)")
     parser.add_argument("--quality", type=int, default=85,
-                        help="WebP质量 (默认85)")
+                        help="JPG质量 (默认85)")
     args = parser.parse_args()
 
-    banner(f"脚本5: 封面图规格化 ({args.width}x{args.height} WebP)")
+    banner(f"脚本5: 封面图规格化 ({args.width}x{args.height} JPG)")
 
     images = find_images()
     print(f"找到 {len(images)} 张封面图")
@@ -129,7 +130,7 @@ def main():
     log_content = (
         f"脚本5: 封面图规格化\n"
         f"时间: {datetime.now().isoformat()}\n"
-        f"目标尺寸: {args.width}x{args.height}px WebP (quality={args.quality})\n"
+        f"目标尺寸: {args.width}x{args.height}px JPG (quality={args.quality})\n"
         f"总数: {len(images)}\n"
         f"结果: ok={results['ok']} skip={results['skip']} fail={results['fail']}\n"
     )

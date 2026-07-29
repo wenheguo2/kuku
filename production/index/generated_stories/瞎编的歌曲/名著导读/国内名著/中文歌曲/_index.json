@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/名著导读.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 104,
@@ -16,518 +16,814 @@
       "title": "中文-七侠五义",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-七侠五义"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-七侠五义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-七侠五义/中文-七侠五义_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-三侠五义",
       "title": "中文-三侠五义",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三侠五义"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三侠五义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三侠五义/中文-三侠五义_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-三国志",
       "title": "中文-三国志",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三国志"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三国志",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三国志/中文-三国志_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-三国演义",
       "title": "中文-三国演义",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三国演义"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三国演义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-三国演义/中文-三国演义_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-世说新语",
       "title": "中文-世说新语",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-世说新语"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-世说新语",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-世说新语/中文-世说新语_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-东周列国志",
       "title": "中文-东周列国志",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-东周列国志"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-东周列国志",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-东周列国志/中文-东周列国志_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-中庸",
       "title": "中文-中庸",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-中庸"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-中庸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-中庸/中文-中庸_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-乐府诗集",
       "title": "中文-乐府诗集",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-乐府诗集"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-乐府诗集",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-乐府诗集/中文-乐府诗集_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-二刻拍案惊奇",
       "title": "中文-二刻拍案惊奇",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-二刻拍案惊奇"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-二刻拍案惊奇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-二刻拍案惊奇/中文-二刻拍案惊奇_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-儿女英雄传",
       "title": "中文-儿女英雄传",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-儿女英雄传"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-儿女英雄传",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-儿女英雄传/中文-儿女英雄传_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-八仙过海",
       "title": "中文-八仙过海",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-八仙过海"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-八仙过海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-八仙过海/中文-八仙过海_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-农政全书",
       "title": "中文-农政全书",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-农政全书"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-农政全书",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-农政全书/中文-农政全书_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-列子",
       "title": "中文-列子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-列子"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-列子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-列子/中文-列子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-初刻拍案惊奇",
       "title": "中文-初刻拍案惊奇",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-初刻拍案惊奇"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-初刻拍案惊奇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-初刻拍案惊奇/中文-初刻拍案惊奇_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-包公案",
       "title": "中文-包公案",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-包公案"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-包公案",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-包公案/中文-包公案_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-千家诗",
       "title": "中文-千家诗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-千家诗"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-千家诗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-千家诗/中文-千家诗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-古文观止",
       "title": "中文-古文观止",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-古文观止"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-古文观止",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-古文观止/中文-古文观止_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-史记",
       "title": "中文-史记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-史记"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-史记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-史记/中文-史记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-后汉书",
       "title": "中文-后汉书",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-后汉书"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-后汉书",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-后汉书/中文-后汉书_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-后羿射日",
       "title": "中文-后羿射日",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-后羿射日"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-后羿射日",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-后羿射日/中文-后羿射日_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-吕氏春秋",
       "title": "中文-吕氏春秋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-吕氏春秋"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-吕氏春秋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-吕氏春秋/中文-吕氏春秋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-呐喊",
       "title": "中文-呐喊",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-呐喊"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-呐喊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-呐喊/中文-呐喊_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-哪吒闹海",
       "title": "中文-哪吒闹海",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-哪吒闹海"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-哪吒闹海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-哪吒闹海/中文-哪吒闹海_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-唐诗三百首",
       "title": "中文-唐诗三百首",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-唐诗三百首"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-唐诗三百首",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-唐诗三百首/中文-唐诗三百首_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-喻世明言",
       "title": "中文-喻世明言",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-喻世明言"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-喻世明言",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-喻世明言/中文-喻世明言_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-围城",
       "title": "中文-围城",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-围城"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-围城",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-围城/中文-围城_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-国语",
       "title": "中文-国语",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-国语"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-国语",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-国语/中文-国语_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-墨子",
       "title": "中文-墨子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-墨子"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-墨子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-墨子/中文-墨子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-大学",
       "title": "中文-大学",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-大学"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-大学",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-大学/中文-大学_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-大禹治水",
       "title": "中文-大禹治水",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-大禹治水"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-大禹治水",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-大禹治水/中文-大禹治水_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-天工开物",
       "title": "中文-天工开物",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-天工开物"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-天工开物",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-天工开物/中文-天工开物_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-女娲造人",
       "title": "中文-女娲造人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-女娲造人"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-女娲造人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-女娲造人/中文-女娲造人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-嫦娥奔月",
       "title": "中文-嫦娥奔月",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-嫦娥奔月"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-嫦娥奔月",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-嫦娥奔月/中文-嫦娥奔月_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-子夜",
       "title": "中文-子夜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-子夜"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-子夜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-子夜/中文-子夜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-孙子兵法",
       "title": "中文-孙子兵法",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孙子兵法"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孙子兵法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孙子兵法/中文-孙子兵法_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-孟姜女",
       "title": "中文-孟姜女",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孟姜女"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孟姜女",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孟姜女/中文-孟姜女_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-孟子",
       "title": "中文-孟子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孟子"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孟子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-孟子/中文-孟子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-宝莲灯",
       "title": "中文-宝莲灯",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-宝莲灯"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-宝莲灯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-宝莲灯/中文-宝莲灯_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-家",
       "title": "中文-家",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-家"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-家",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-家/中文-家_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-封神演义",
       "title": "中文-封神演义",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-封神演义"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-封神演义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-封神演义/中文-封神演义_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-山海经",
       "title": "中文-山海经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-山海经"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-山海经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-山海经/中文-山海经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-左传",
       "title": "中文-左传",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-左传"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-左传",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-左传/中文-左传_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-平凡的世界",
       "title": "中文-平凡的世界",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-平凡的世界"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-平凡的世界",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-平凡的世界/中文-平凡的世界_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-庄子",
       "title": "中文-庄子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-庄子"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-庄子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-庄子/中文-庄子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-彭公案",
       "title": "中文-彭公案",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-彭公案"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-彭公案",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-彭公案/中文-彭公案_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-彷徨",
       "title": "中文-彷徨",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-彷徨"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-彷徨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-彷徨/中文-彷徨_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-徐霞客游记",
       "title": "中文-徐霞客游记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-徐霞客游记"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-徐霞客游记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-徐霞客游记/中文-徐霞客游记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-愚公移山",
       "title": "中文-愚公移山",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-愚公移山"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-愚公移山",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-愚公移山/中文-愚公移山_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-战国策",
       "title": "中文-战国策",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-战国策"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-战国策",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-战国策/中文-战国策_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-搜神记",
       "title": "中文-搜神记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-搜神记"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-搜神记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-搜神记/中文-搜神记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-文心雕龙",
       "title": "中文-文心雕龙",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-文心雕龙"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-文心雕龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-文心雕龙/中文-文心雕龙_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-施公案",
       "title": "中文-施公案",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-施公案"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-施公案",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-施公案/中文-施公案_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-春",
       "title": "中文-春",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-春"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-春",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-春/中文-春_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-朝花夕拾",
       "title": "中文-朝花夕拾",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-朝花夕拾"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-朝花夕拾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-朝花夕拾/中文-朝花夕拾_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-本草纲目",
       "title": "中文-本草纲目",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-本草纲目"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-本草纲目",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-本草纲目/中文-本草纲目_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-桃花扇",
       "title": "中文-桃花扇",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-桃花扇"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-桃花扇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-桃花扇/中文-桃花扇_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-梁山伯与祝英台",
       "title": "中文-梁山伯与祝英台",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-梁山伯与祝英台"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-梁山伯与祝英台",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-梁山伯与祝英台/中文-梁山伯与祝英台_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-梦溪笔谈",
       "title": "中文-梦溪笔谈",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-梦溪笔谈"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-梦溪笔谈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-梦溪笔谈/中文-梦溪笔谈_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-楚辞",
       "title": "中文-楚辞",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-楚辞"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-楚辞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-楚辞/中文-楚辞_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-水浒传",
       "title": "中文-水浒传",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-水浒传"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-水浒传",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-水浒传/中文-水浒传_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-汉书",
       "title": "中文-汉书",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-汉书"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-汉书",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-汉书/中文-汉书_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-汉宫秋",
       "title": "中文-汉宫秋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-汉宫秋"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-汉宫秋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-汉宫秋/中文-汉宫秋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-活着",
       "title": "中文-活着",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-活着"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-活着",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-活着/中文-活着_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-济公传",
       "title": "中文-济公传",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-济公传"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-济公传",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-济公传/中文-济公传_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-浣纱记",
       "title": "中文-浣纱记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-浣纱记"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-浣纱记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-浣纱记/中文-浣纱记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-淮南子",
       "title": "中文-淮南子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-淮南子"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-淮南子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-淮南子/中文-淮南子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-牛郎织女",
       "title": "中文-牛郎织女",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-牛郎织女"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-牛郎织女",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-牛郎织女/中文-牛郎织女_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-牡丹亭",
       "title": "中文-牡丹亭",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-牡丹亭"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-牡丹亭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-牡丹亭/中文-牡丹亭_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-玉台新咏",
       "title": "中文-玉台新咏",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-玉台新咏"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-玉台新咏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-玉台新咏/中文-玉台新咏_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-琵琶记",
       "title": "中文-琵琶记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-琵琶记"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-琵琶记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-琵琶记/中文-琵琶记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-白蛇传",
       "title": "中文-白蛇传",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-白蛇传"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-白蛇传",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-白蛇传/中文-白蛇传_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-白鹿原",
       "title": "中文-白鹿原",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-白鹿原"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-白鹿原",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-白鹿原/中文-白鹿原_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-盘古开天",
       "title": "中文-盘古开天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-盘古开天"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-盘古开天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-盘古开天/中文-盘古开天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-秋",
       "title": "中文-秋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-秋"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-秋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-秋/中文-秋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-窦娥冤",
@@ -541,203 +837,319 @@
       "title": "中文-管子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-管子"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-管子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-管子/中文-管子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-精卫填海",
       "title": "中文-精卫填海",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-精卫填海"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-精卫填海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-精卫填海/中文-精卫填海_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-红楼梦",
       "title": "中文-红楼梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-红楼梦"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-红楼梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-红楼梦/中文-红楼梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-红高粱家族",
       "title": "中文-红高粱家族",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-红高粱家族"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-红高粱家族",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-红高粱家族/中文-红高粱家族_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-老残游记",
       "title": "中文-老残游记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-老残游记"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-老残游记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-老残游记/中文-老残游记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-聊斋志异",
       "title": "中文-聊斋志异",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-聊斋志异"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-聊斋志异",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-聊斋志异/中文-聊斋志异_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-花间集",
       "title": "中文-花间集",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-花间集"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-花间集",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-花间集/中文-花间集_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-茶经",
       "title": "中文-茶经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-茶经"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-茶经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-茶经/中文-茶经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-荀子",
       "title": "中文-荀子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-荀子"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-荀子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-荀子/中文-荀子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-薛刚反唐",
       "title": "中文-薛刚反唐",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-薛刚反唐"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-薛刚反唐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-薛刚反唐/中文-薛刚反唐_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-蛙",
       "title": "中文-蛙",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-蛙"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-蛙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-蛙/中文-蛙_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-西厢记",
       "title": "中文-西厢记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-西厢记"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-西厢记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-西厢记/中文-西厢记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-西游记",
       "title": "中文-西游记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-西游记"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-西游记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-西游记/中文-西游记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-警世通言",
       "title": "中文-警世通言",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-警世通言"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-警世通言",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-警世通言/中文-警世通言_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-论语",
       "title": "中文-论语",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-论语"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-论语",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-论语/中文-论语_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-诗经",
       "title": "中文-诗经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-诗经"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-诗经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-诗经/中文-诗经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-说岳全传",
       "title": "中文-说岳全传",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-说岳全传"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-说岳全传",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-说岳全传/中文-说岳全传_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-资治通鉴",
       "title": "中文-资治通鉴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-资治通鉴"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-资治通鉴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-资治通鉴/中文-资治通鉴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-赵氏孤儿",
       "title": "中文-赵氏孤儿",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-赵氏孤儿"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-赵氏孤儿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-赵氏孤儿/中文-赵氏孤儿_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-边城",
       "title": "中文-边城",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-边城"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-边城",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-边城/中文-边城_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-道德经",
       "title": "中文-道德经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-道德经"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-道德经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-道德经/中文-道德经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-醒世恒言",
       "title": "中文-醒世恒言",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-醒世恒言"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-醒世恒言",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-醒世恒言/中文-醒世恒言_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-镜花缘",
       "title": "中文-镜花缘",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-镜花缘"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-镜花缘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-镜花缘/中文-镜花缘_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-长生殿",
       "title": "中文-长生殿",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-长生殿"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-长生殿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-长生殿/中文-长生殿_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-阅微草堂笔记",
       "title": "中文-阅微草堂笔记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-阅微草堂笔记"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-阅微草堂笔记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-阅微草堂笔记/中文-阅微草堂笔记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-隋唐演义",
       "title": "中文-隋唐演义",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-隋唐演义"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-隋唐演义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-隋唐演义/中文-隋唐演义_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-韩非子",
       "title": "中文-韩非子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-韩非子"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-韩非子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-韩非子/中文-韩非子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-骆驼祥子",
       "title": "中文-骆驼祥子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-骆驼祥子"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-骆驼祥子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-骆驼祥子/中文-骆驼祥子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-鬼谷子",
       "title": "中文-鬼谷子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-鬼谷子"
+      "path": "瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-鬼谷子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/中文歌曲/中文-鬼谷子/中文-鬼谷子_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

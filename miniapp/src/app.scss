@@ -141,6 +141,16 @@ page {
 /* 二列卡片网格（学科/分类）；子项使用 tile，避免与横向故事卡 scard 重名。 */
 .sgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
 
+/* 成长首页“和字交朋友”宫格：大字块直点直学（对小朋友友好，不依赖搜索） */
+.wgrid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+/* “和单词交朋友”：英语单词长→两列宽卡 + 小一挡字号（蓝系区分识字绿系） */
+.wgrid.en { grid-template-columns: repeat(2, 1fr); }
+.wgrid.en .wcell { font-size: 34px; font-weight: 800; color: #2E6FB7; background: #E8F1FB; letter-spacing: 1px; }
+.wcell { height: 132px; border-radius: 24px; display: flex; align-items: center; justify-content: center; font-size: 52px; font-weight: 800; color: #3E7C2B; background: #EAF6E4; box-shadow: 0 6px 14px rgba(127,201,106,.22); transition: transform 120ms ease; }
+.wcell:active { transform: scale(.94); }
+.theme-dark .wcell { background: rgba(127,201,106,.16); color: #A8E29A; box-shadow: none; }
+.theme-dark .wgrid.en .wcell { background: rgba(96,156,222,.18); color: #9CC4F0; }
+
 /* 成长进度卡（绿色渐变） */
 .growth-card { border-radius: 32px; padding: 28px; color: #fff; background: linear-gradient(135deg, #8FD97B, #7FC96A); }
 
@@ -218,8 +228,8 @@ page {
 .scard .nm { font-size: 24px; font-weight: 800; margin-top: 14px; display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .scard .ds { font-size: 20px; color: var(--color-text-secondary); margin-top: 4px; display: block; }
 
-/* 儿童触控反馈：常用控件至少 88 设计单位，并提供按下确认感。 */
-.btn-primary, .btn-green, .btn-ghost, .chip, .cp, .cbtn, .pbtn, .ebtn, .sbtn, .hplay, .tbi {
+/* 儿童触控反馈：常用控件至少 88 设计单位，并提供按下确认感。注：.ebtn 属横屏教学页(物理像素体系)，不入此规则，反馈单独给 */
+.btn-primary, .btn-green, .btn-ghost, .chip, .cp, .cbtn, .pbtn, .sbtn, .hplay, .tbi {
   min-height: 88px;
   transition: transform 120ms ease, opacity 120ms ease;
 }
@@ -261,20 +271,27 @@ page {
 .pbg { position: absolute; left: 0; right: 0; top: 0; bottom: 0; z-index: 0; }
 .pbg .cover { width: 100%; height: 100%; opacity: .5; transform: scale(1.4); }
 .pbg-mask { position: absolute; left: 0; right: 0; top: 0; bottom: 0; z-index: 1; background: linear-gradient(180deg, rgba(20,25,45,.55), rgba(16,21,40,.9)); }
-.pscr { position: relative; z-index: 2; color: #fff; padding: 16px 24px 40px; }
+/* 宽屏 h5 限宽居中（PX 大写不过 pxTransform=物理像素；手机/weapp 窄视口不受影响）：避免固定尺寸元素小、流式元素铺满的比例失衡 */
+.pscr { position: relative; z-index: 2; color: #fff; padding: 16px 24px 40px; max-width: 520PX; margin: 0 auto; }
 .pnav { display: flex; align-items: center; justify-content: space-between; padding: 8px 0 4px; }
 .pnav .ti { flex: 1; text-align: center; font-size: 30px; font-weight: 800; opacity: .95; }
-.lampcov { margin: 40px auto 0; width: 376px; height: 376px; border-radius: 50%; overflow: hidden; animation: lamp 3.2s ease-in-out infinite; }
+/* 封面主视觉（用户定：把故事封面大幅放出来，原小圆灯太秃）：大圆角卡 + 柔和呼吸光晕 */
+.lampcov { margin: 24px auto 0; width: 560px; height: 560px; border-radius: 40px; overflow: hidden; animation: lamp 3.2s ease-in-out infinite; }
 .lampcov .cover { width: 100%; height: 100%; }
-@keyframes lamp { 0%,100%{ box-shadow: 0 0 0 20px rgba(255,200,120,.12), 0 0 120px 48px rgba(255,170,80,.32), 0 36px 80px rgba(0,0,0,.4); } 50%{ box-shadow: 0 0 0 26px rgba(255,200,120,.18), 0 0 170px 68px rgba(255,170,80,.48), 0 36px 80px rgba(0,0,0,.4); } }
-.ptitle { display: block; text-align: center; font-size: 46px; font-weight: 800; margin-top: 32px; text-shadow: 0 2px 14px rgba(0,0,0,.4); }
-/* 字幕：独立成行、限 2 行省略，不与标题/控制区互挤（weapp 实测：Text 默认 inline 会和标题挤一行） */
+@keyframes lamp { 0%,100%{ box-shadow: 0 0 60px 18px rgba(255,170,80,.22), 0 24px 60px rgba(0,0,0,.45); } 50%{ box-shadow: 0 0 90px 30px rgba(255,170,80,.34), 0 24px 60px rgba(0,0,0,.45); } }
+.ptitle { display: block; text-align: center; font-size: 46px; font-weight: 800; margin-top: 26px; text-shadow: 0 2px 14px rgba(0,0,0,.4); }
+/* 旧位字幕（标题下）已迁至底部 .psub-panel；保留 .psub 供其他场景 */
 .psub { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-align: center; font-size: 24px; line-height: 1.7; opacity: .78; margin: 14px auto 0; max-width: 92%; min-height: 40px; }
+/* ★底部大字字幕面板：填充控制区下方空旷，字大行疏便于亲子共读（用户需求） */
+.psub-panel { margin: 34px 6px 20px; padding: 26px 28px; min-height: 220px; border-radius: 24px; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.10); display: flex; align-items: center; justify-content: center; }
+/* slim：故事灯去字幕后仅作队列进度/错误提示条（用户定：字幕只给教学） */
+.psub-panel.slim { min-height: 96px; padding: 16px 24px; }
+.psub-lg { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; text-align: center; font-size: 34px; font-weight: 600; line-height: 1.9; color: #FFF3DC; }
 .pprog { margin: 38px 0 10px; height: 10px; background: rgba(255,255,255,.25); border-radius: 5px; position: relative; }
 .pprog i { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 5px; background: linear-gradient(90deg, #FFE0B0, var(--lamp)); }
 .pprog b { position: absolute; top: -8px; width: 26px; height: 26px; border-radius: 50%; background: #FFF3DC; box-shadow: 0 0 20px 6px rgba(255,200,130,.6); }
 .ptime { display: flex; justify-content: space-between; font-size: 22px; opacity: .85; }
-.pctrls { display: flex; align-items: center; justify-content: center; gap: 64px; margin: 40px 0 20px; }
+.pctrls { display: flex; align-items: center; justify-content: center; gap: 64px; margin: 26px 0 14px; }
 .pbtn { width: 104px; height: 104px; border-radius: 50%; background: rgba(255,255,255,.14); border: 1px solid rgba(255,255,255,.22); display: flex; align-items: center; justify-content: center; }
 .pbtn.main { width: 156px; height: 156px; border: none; background: radial-gradient(circle at 35% 30%, #FFD9A0, var(--color-primary) 65%, var(--color-primary-dark)); box-shadow: 0 14px 32px rgba(255,150,60,.55); }
 .pfns { display: flex; justify-content: space-around; font-size: 22px; font-weight: 700; opacity: .92; margin-top: 12px; }
@@ -355,19 +372,71 @@ page {
 .seg .s.on { background: #fff; color: var(--color-primary); box-shadow: 0 2px 6px rgba(232,201,160,.5); }
 .escore { width: 210px; height: 210px; border-radius: 50%; margin: 0 auto; background: radial-gradient(circle at 35% 30%, #B9E89B, var(--stage-3) 70%, #57B83E); display: flex; flex-direction: column; align-items: center; justify-content: center; color: #fff; box-shadow: 0 14px 30px rgba(126,217,87,.45); }
 
-/* ===== 横屏教学 PL-03 ===== */
+/* ===== 横屏教学 PL-03 =====
+   ⚠ 尺寸全部用大写 PX（物理像素，不过 pxTransform）：weapp 横屏页 rpx 基准变长边，
+   设计单位会膨胀约 2.2 倍撞破布局（实测）；手机横屏高度均 ~360-430pt，物理像素可控一致 */
 .eland { display: flex; flex-direction: column; height: 100vh; }
 .etop { flex: 1; display: flex; min-height: 0; }
 .esceneL { width: 65%; position: relative; overflow: hidden; flex: 0 0 auto; }
 .esceneL .cover { width: 100%; height: 100%; }
-.echar { position: absolute; left: 8px; bottom: 0; height: 84%; z-index: 2; }
-.ewordR { flex: 1; background: var(--color-bg); border-left: 1px solid var(--color-border); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; padding: 16px; }
-.eword-big { font-size: 110px; font-weight: 800; line-height: 1.1; color: var(--color-text); }
-.esub { height: 80px; flex: 0 0 auto; display: flex; align-items: center; justify-content: center; background: var(--night-bg); color: #fff; font-size: 26px; letter-spacing: 1px; }
-.esub b { color: var(--lamp-gold); font-size: 32px; padding: 0 4px; }
-.ectrl { height: 108px; flex: 0 0 auto; display: flex; align-items: center; justify-content: center; gap: 40px; background: var(--night-bg2); }
-.ebtn { width: 72px; height: 72px; border-radius: 50%; background: #fff; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 10px rgba(232,201,160,.4); }
-.ebtn.main { width: 92px; height: 92px; background: radial-gradient(circle at 35% 30%, #FFB067, var(--color-primary)); border: none; box-shadow: 0 6px 14px rgba(255,140,66,.5); }
+/* 学习挡切换 chips（悬浮场景左上；英语多一组难度）：选中橙底白字，未选磨砂白 */
+.elvl { position: absolute; top: 6PX; left: calc(env(safe-area-inset-left) + 8PX); z-index: 3; display: flex; gap: 4PX; flex-wrap: wrap; max-width: 76%; }
+.elvl .c { font-size: 12PX; font-weight: 800; padding: 4PX 10PX; border-radius: 11PX; background: rgba(255,255,255,.82); color: #5A5245; box-shadow: 0 1PX 4PX rgba(0,0,0,.18); }
+.elvl .c.on { background: var(--color-primary); color: #fff; }
+/* 逐句群像立绘：角色位次全程固定（等宽槽位，不随说话者换位）；说话者仅提亮+微放大，其余压暗 */
+.espks { position: absolute; left: 0; right: 0; bottom: 0; height: 62%; display: flex; align-items: flex-end; justify-content: center; gap: 2PX; padding: 0 6PX; }
+.espks .spk { height: 92%; width: 32%; flex: 0 0 auto; filter: brightness(.8) saturate(.88); transition: filter 200ms ease, transform 200ms ease; transform-origin: bottom center; }
+.espks .spk.talk { filter: none; transform: scale(1.07); }
+.echar { position: absolute; left: 4PX; bottom: 0; height: 84%; z-index: 2; }
+.ewordR { flex: 1; background: var(--color-bg); border-left: 1PX solid var(--color-border); display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 4PX; padding: 8PX 8PX 6PX; }
+.eword-big { font-size: 56PX; font-weight: 800; line-height: 1.1; color: var(--color-text); }
+/* 右栏三段布局：字幕优先（用户定：字幕必须显示全）——田字格压缩，省出高度给字幕 4 行完整区 */
+.ehead { display: flex; flex-direction: column; align-items: center; gap: 4PX; }
+.etag { font-size: 14PX; font-weight: 800; color: #3E7C2B; background: #EAF6E4; padding: 3PX 12PX; border-radius: 9PX; }
+.wcard { position: relative; width: 84PX; height: 84PX; border-radius: 10PX; border: 2PX solid rgba(127,201,106,.55); background: rgba(234,246,228,.12); display: flex; align-items: center; justify-content: center; }
+.wcard .gx { position: absolute; left: 6%; right: 6%; top: 50%; border-top: 1PX dashed rgba(127,201,106,.35); }
+.wcard .gy { position: absolute; top: 6%; bottom: 6%; left: 50%; border-left: 1PX dashed rgba(127,201,106,.35); }
+.wcard .w { font-size: 56PX; font-weight: 800; line-height: 1; color: var(--color-text); z-index: 1; }
+/* 字幕气泡卡：说话人标签 + 正文（生字金色高亮）；weapp 下 -webkit-box 高度塔陷，改 max-height 限行 */
+.esub-r { flex: 1; width: 100%; min-height: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 5PX; padding: 6PX 8PX; border-radius: 10PX; background: rgba(127,201,106,.12); border: 1PX solid rgba(127,201,106,.25); margin: 3PX 0; overflow: hidden; }
+.esub-r .txt { width: 100%; max-height: 168PX; overflow: hidden; text-align: center; font-size: 20PX; font-weight: 700; line-height: 1.5; color: var(--color-text); }
+.esub-r .who { font-size: 15PX; font-weight: 800; color: #3E7C2B; background: #EAF6E4; padding: 2PX 10PX; border-radius: 8PX; flex: 0 0 auto; }
+/* 句进度：细进度条 + 第 N/M 句 */
+.eprog { width: 100%; display: flex; flex-direction: column; align-items: center; gap: 3PX; }
+.eprog .bar { width: 100%; height: 5PX; border-radius: 3PX; background: rgba(255,255,255,.14); overflow: hidden; }
+.eprog .in { height: 100%; border-radius: 3PX; background: linear-gradient(90deg, #8FD97B, #7FC96A); }
+.eprog .num { font-size: 13PX; color: var(--color-text-secondary); }
+.esub { height: 40PX; flex: 0 0 auto; display: flex; align-items: center; justify-content: center; background: var(--night-bg); color: #fff; font-size: 13PX; letter-spacing: 1PX; }
+.esub b { color: var(--lamp-gold); font-size: 16PX; padding: 0 2PX; }
+.ectrl { height: 56PX; flex: 0 0 auto; display: flex; align-items: center; justify-content: center; gap: 26PX; background: #1D2646; border-top: 1PX solid rgba(255,255,255,.06); }
+/* 控制钮：次钮磨砂半透+白描边，主钮橙色发光加大 */
+.ebtn { width: 42PX; height: 42PX; border-radius: 50%; background: rgba(255,255,255,.12); border: 1PX solid rgba(255,255,255,.28); display: flex; align-items: center; justify-content: center; }
+.ebtn.main { width: 52PX; height: 52PX; background: radial-gradient(circle at 35% 30%, #FFB067, var(--color-primary)); border: none; box-shadow: 0 0 13PX 3PX rgba(255,140,66,.45), 0 4PX 9PX rgba(0,0,0,.3); }
+/* 横屏屏幕自适应：宽度靠百分比/flex，垂直弹性靠字幕区 flex:1 吸收；
+   手机横屏高 360(小安卓)~430(Max)，两头再分挡：小屏压固定块保字幕行数，大屏(iPad)放大防空旷 */
+@media (max-height: 379px) {
+  .etag { font-size: 12PX; padding: 2PX 10PX; }
+  .wcard { width: 66PX; height: 66PX; }
+  .wcard .w { font-size: 44PX; }
+  .esub-r .txt { font-size: 18PX; max-height: 162PX; }
+  .eprog .num { font-size: 12PX; }
+  .ectrl { height: 46PX; gap: 22PX; }
+  .ebtn { width: 36PX; height: 36PX; }
+  .ebtn.main { width: 44PX; height: 44PX; }
+}
+@media (min-height: 500px) {
+  .etag { font-size: 22PX; padding: 5PX 18PX; border-radius: 12PX; }
+  .wcard { width: 150PX; height: 150PX; border-radius: 14PX; }
+  .wcard .w { font-size: 100PX; }
+  .esub-r .txt { font-size: 30PX; max-height: 330PX; line-height: 1.55; }
+  .esub-r .who { font-size: 22PX; padding: 4PX 16PX; }
+  .eprog .num { font-size: 18PX; }
+  .eprog .bar { height: 8PX; }
+  .ectrl { height: 78PX; gap: 34PX; }
+  .ebtn { width: 56PX; height: 56PX; }
+  .ebtn.main { width: 68PX; height: 68PX; }
+  .elvl .c { font-size: 16PX; padding: 6PX 14PX; border-radius: 14PX; }
+}
 
 /* ===== 全局夜间/睡前模式微调（.theme-dark 下硬编白组件）===== */
 .theme-dark .mini-v4 { background: rgba(35, 47, 85, 0.92); border-color: rgba(255, 255, 255, 0.12); }

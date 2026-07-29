@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/冥想放松",
   "name": "冥想放松",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/冥想放松/冥想放松.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/冥想放松/冥想放松.jpg",
     "cover_level": "category"
   },
   "sub_category_count": 2,
@@ -16,9 +16,9 @@
       "name": "中文歌曲",
       "structure_type": "txt_collection",
       "display_as": "category_card",
-      "entry_count": 30,
+      "entry_count": 29,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/冥想放松/冥想放松.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/冥想放松/中文歌曲/中文歌曲.jpg",
         "cover_level": "category"
       }
     },
@@ -27,9 +27,9 @@
       "name": "双语歌曲",
       "structure_type": "txt_collection",
       "display_as": "category_card",
-      "entry_count": 24,
+      "entry_count": 23,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/冥想放松/冥想放松.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/冥想放松/双语歌曲/双语歌曲.jpg",
         "cover_level": "category"
       }
     }

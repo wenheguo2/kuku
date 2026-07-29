@@ -42,7 +42,7 @@ export default function MiniPlayer() {
     <View className="mini-wrap" style={{ bottom: onTab ? '128px' : '24px' }}>
       <View className="mini-v4">
         {current.coverUrl
-          ? <Image className="cvr" src={buildAssetUrl(current.coverUrl)} mode="aspectFill" ariaLabel={`${current.title}封面`} />
+          ? <Image className="cvr" webp src={buildAssetUrl(current.coverUrl)} mode="aspectFill" ariaLabel={`${current.title}封面`} />
           : <View className="cvr" />}
         <View className="gr" onClick={expand}>
           <Text className="t">{current.title}</Text>

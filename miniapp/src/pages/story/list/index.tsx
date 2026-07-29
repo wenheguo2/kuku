@@ -40,7 +40,14 @@ export default function StoryList() {
     setLoading(true);
     setError(false);
     indexLoader.loadIndexByPath(path)
-      .then((d) => setData(d as CategoryIndex))
+      .then((d) => {
+        // 兜底：path 指向的其实是章回作品索引（无 entries 只有 chapters）→ 重定向 work 总入口，避免空白列表
+        if ((d as { structure_type?: string }).structure_type === 'chaptered_work') {
+          Taro.redirectTo({ url: `/pages/story/work/index?path=${encodeURIComponent(path)}&title=${encodeURIComponent(title)}` });
+          return;
+        }
+        setData(d as CategoryIndex);
+      })
       .catch((err) => { console.warn('加载分类目录失败', err); setError(true); })
       .finally(() => setLoading(false));
   };
@@ -67,13 +74,13 @@ export default function StoryList() {
     Taro.navigateTo({ url: `/pages/story/list/index?path=${encodeURIComponent(path)}&title=${encodeURIComponent(c.name)}` });
   };
   const playStory = (e: EntryItem) => {
-    usePlayerStore.getState().setQueue(stories.map((s) => ({ type: 'story' as const, id: s.path, title: s.title })), stories.indexOf(e));
+    usePlayerStore.getState().setQueue(stories.map((s) => ({ type: 'story' as const, id: s.path, title: s.title, coverUrl: buildCoverUrl(s.cover?.cover_image_url) || undefined })), stories.indexOf(e));
     Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(e.path)}&title=${encodeURIComponent(e.title)}` });
   };
 
   const Thumb = ({ e }: { e: EntryItem }) =>
     e.cover?.cover_image_url ? (
-      <Image className="cvr" src={buildCoverUrl(e.cover.cover_image_url)} mode="aspectFill" ariaLabel={`${e.title}封面`} />
+      <Image className="cvr" webp src={buildCoverUrl(e.cover.cover_image_url)} mode="aspectFill" ariaLabel={`${e.title}封面`} />
     ) : (
       <View className="cvr" />
     );
@@ -91,7 +98,7 @@ export default function StoryList() {
 
   return (
     <ScrollView scrollY className={`page-v4 ${night}`}>
-      <Text className="serif" style={{ fontSize: '40px', fontWeight: 'bold', display: 'block', marginBottom: '8px' }}>{title || data?.name}</Text>
+      <Text className="serif" style={{ fontSize: '40px', fontWeight: 'bold', display: 'block', marginBottom: '8px', color: 'var(--color-text)' }}>{title || data?.name}</Text>
 
       <StateView loading={loading} error={error} empty={!loading && !error && entries.length === 0 && subCats.length === 0} onRetry={load} emptyText="这个分类还没有内容">
 

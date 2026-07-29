@@ -28,12 +28,22 @@ export default function Children() {
   };
   useDidShow(load);
 
-  const add = async () => {
+  /** 跨端昵称输入：weapp 用 showModal editable(基础库 2.17.1+)；h5 的 showModal 不支持输入框(实测确认)，退 window.prompt */
+  const promptName = async (title: string, initial: string): Promise<string | null> => {
+    if (process.env.TARO_ENV === 'h5') {
+      const v = window.prompt(title, initial);
+      return v && v.trim() ? v.trim() : null;
+    }
     // editable/content 为微信 wx.showModal 运行期支持，Taro 类型未含，做安全转型
-    const res: any = await Taro.showModal({ title: '添加孩子', editable: true, placeholderText: '孩子昵称' } as any);
-    if (res.confirm && res.content) {
+    const res: any = await Taro.showModal({ title, editable: true, content: initial, placeholderText: '孩子昵称' } as any);
+    return res.confirm && res.content && String(res.content).trim() ? String(res.content).trim() : null;
+  };
+
+  const add = async () => {
+    const name = await promptName('添加孩子', '');
+    if (name) {
       try {
-        await api.post('/children', { child_name: res.content });
+        await api.post('/children', { child_name: name });
         load();
       } catch (error) {
         console.warn('添加孩子失败', error);
@@ -42,10 +52,10 @@ export default function Children() {
     }
   };
   const rename = async (c: Child) => {
-    const res: any = await Taro.showModal({ title: '修改昵称', editable: true, content: c.child_name } as any);
-    if (res.confirm && res.content) {
+    const name = await promptName('修改昵称', c.child_name);
+    if (name) {
       try {
-        await api.put(`/children/${c.child_id}`, { child_name: res.content });
+        await api.put(`/children/${c.child_id}`, { child_name: name });
         load();
       } catch (error) {
         console.warn('修改昵称失败', error);

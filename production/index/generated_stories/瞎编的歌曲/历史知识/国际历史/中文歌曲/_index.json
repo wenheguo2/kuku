@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/历史知识.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 80,
@@ -16,42 +16,66 @@
       "title": "中文-世界七大奇迹",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-世界七大奇迹"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-世界七大奇迹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-世界七大奇迹/中文-世界七大奇迹_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-丝绸之路",
       "title": "中文-丝绸之路",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-丝绸之路"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-丝绸之路",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-丝绸之路/中文-丝绸之路_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-中世纪",
       "title": "中文-中世纪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-中世纪"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-中世纪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-中世纪/中文-中世纪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-互联网",
       "title": "中文-互联网",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-互联网"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-互联网",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-互联网/中文-互联网_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-亚瑟王",
       "title": "中文-亚瑟王",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-亚瑟王"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-亚瑟王",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-亚瑟王/中文-亚瑟王_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-伊丽莎白一世",
       "title": "中文-伊丽莎白一世",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-伊丽莎白一世"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-伊丽莎白一世",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-伊丽莎白一世/中文-伊丽莎白一世_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-伊斯兰教",
@@ -65,126 +89,198 @@
       "title": "中文-伽利略",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-伽利略"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-伽利略",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-伽利略/中文-伽利略_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-佛教",
       "title": "中文-佛教",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-佛教"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-佛教",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-佛教/中文-佛教_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-兵马俑",
       "title": "中文-兵马俑",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-兵马俑"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-兵马俑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-兵马俑/中文-兵马俑_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-冷战",
       "title": "中文-冷战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-冷战"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-冷战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-冷战/中文-冷战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-凡尔赛宫",
       "title": "中文-凡尔赛宫",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-凡尔赛宫"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-凡尔赛宫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-凡尔赛宫/中文-凡尔赛宫_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-凯撒",
       "title": "中文-凯撒",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-凯撒"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-凯撒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-凯撒/中文-凯撒_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-十字军东征",
       "title": "中文-十字军东征",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-十字军东征"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-十字军东征",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-十字军东征/中文-十字军东征_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-十月革命",
       "title": "中文-十月革命",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-十月革命"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-十月革命",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-十月革命/中文-十月革命_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-华盛顿",
       "title": "中文-华盛顿",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-华盛顿"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-华盛顿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-华盛顿/中文-华盛顿_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-印刷术",
       "title": "中文-印刷术",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印刷术"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印刷术",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印刷术/中文-印刷术_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-印加帝国",
       "title": "中文-印加帝国",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印加帝国"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印加帝国",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印加帝国/中文-印加帝国_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-印象派",
       "title": "中文-印象派",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印象派"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印象派",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-印象派/中文-印象派_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-古中国文明",
       "title": "中文-古中国文明",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古中国文明"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古中国文明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古中国文明/中文-古中国文明_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-古印度文明",
       "title": "中文-古印度文明",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古印度文明"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古印度文明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古印度文明/中文-古印度文明_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-古埃及文明",
       "title": "中文-古埃及文明",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古埃及文明"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古埃及文明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古埃及文明/中文-古埃及文明_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-古巴比伦",
       "title": "中文-古巴比伦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古巴比伦"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古巴比伦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古巴比伦/中文-古巴比伦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-古希腊文明",
       "title": "中文-古希腊文明",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古希腊文明"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古希腊文明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古希腊文明/中文-古希腊文明_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-古罗马文明",
       "title": "中文-古罗马文明",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古罗马文明"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古罗马文明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-古罗马文明/中文-古罗马文明_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-启蒙运动",
@@ -198,133 +294,209 @@
       "title": "中文-吴哥窟",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-吴哥窟"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-吴哥窟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-吴哥窟/中文-吴哥窟_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-哥伦布",
       "title": "中文-哥伦布",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-哥伦布"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-哥伦布",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-哥伦布/中文-哥伦布_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-哥白尼",
       "title": "中文-哥白尼",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-哥白尼"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-哥白尼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-哥白尼/中文-哥白尼_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-圣女贞德",
       "title": "中文-圣女贞德",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-圣女贞德"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-圣女贞德",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-圣女贞德/中文-圣女贞德_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-埃及艳后",
       "title": "中文-埃及艳后",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-埃及艳后"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-埃及艳后",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-埃及艳后/中文-埃及艳后_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-基督教",
       "title": "中文-基督教",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-基督教"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-基督教",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-基督教/中文-基督教_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-大航海时代",
       "title": "中文-大航海时代",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-大航海时代"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-大航海时代",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-大航海时代/中文-大航海时代_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-太空竞赛",
       "title": "中文-太空竞赛",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-太空竞赛"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-太空竞赛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-太空竞赛/中文-太空竞赛_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-宗教改革",
       "title": "中文-宗教改革",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-宗教改革"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-宗教改革",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-宗教改革/中文-宗教改革_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-居里夫人",
       "title": "中文-居里夫人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-居里夫人"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-居里夫人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-居里夫人/中文-居里夫人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-工业革命",
       "title": "中文-工业革命",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-工业革命"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-工业革命",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-工业革命/中文-工业革命_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-希腊神话",
       "title": "中文-希腊神话",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-希腊神话"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-希腊神话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-希腊神话/中文-希腊神话_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-帕特农神庙",
       "title": "中文-帕特农神庙",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-帕特农神庙"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-帕特农神庙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-帕特农神庙/中文-帕特农神庙_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-成吉思汗",
       "title": "中文-成吉思汗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-成吉思汗"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-成吉思汗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-成吉思汗/中文-成吉思汗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-拜占庭帝国",
       "title": "中文-拜占庭帝国",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-拜占庭帝国"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-拜占庭帝国",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-拜占庭帝国/中文-拜占庭帝国_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-拿破仑",
       "title": "中文-拿破仑",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-拿破仑"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-拿破仑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-拿破仑/中文-拿破仑_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-指南针",
       "title": "中文-指南针",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-指南针"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-指南针",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-指南针/中文-指南针_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-文艺复兴",
       "title": "中文-文艺复兴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-文艺复兴"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-文艺复兴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-文艺复兴/中文-文艺复兴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-木乃伊",
       "title": "中文-木乃伊",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-木乃伊"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-木乃伊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-木乃伊/中文-木乃伊_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-林肯",
@@ -338,140 +510,220 @@
       "title": "中文-汉尼拔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-汉尼拔"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-汉尼拔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-汉尼拔/中文-汉尼拔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-法国大革命",
       "title": "中文-法国大革命",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-法国大革命"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-法国大革命",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-法国大革命/中文-法国大革命_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-法老",
       "title": "中文-法老",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-法老"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-法老",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-法老/中文-法老_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-波斯帝国",
       "title": "中文-波斯帝国",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-波斯帝国"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-波斯帝国",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-波斯帝国/中文-波斯帝国_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-泰姬陵",
       "title": "中文-泰姬陵",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-泰姬陵"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-泰姬陵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-泰姬陵/中文-泰姬陵_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-滑铁卢战役",
       "title": "中文-滑铁卢战役",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-滑铁卢战役"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-滑铁卢战役",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-滑铁卢战役/中文-滑铁卢战役_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-爱因斯坦",
       "title": "中文-爱因斯坦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-爱因斯坦"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-爱因斯坦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-爱因斯坦/中文-爱因斯坦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-爵士乐",
       "title": "中文-爵士乐",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-爵士乐"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-爵士乐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-爵士乐/中文-爵士乐_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-牛顿",
       "title": "中文-牛顿",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-牛顿"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-牛顿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-牛顿/中文-牛顿_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-特洛伊木马",
       "title": "中文-特洛伊木马",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-特洛伊木马"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-特洛伊木马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-特洛伊木马/中文-特洛伊木马_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-玛雅文明",
       "title": "中文-玛雅文明",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-玛雅文明"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-玛雅文明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-玛雅文明/中文-玛雅文明_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-甘地",
       "title": "中文-甘地",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-甘地"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-甘地",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-甘地/中文-甘地_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-电的发明",
       "title": "中文-电的发明",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-电的发明"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-电的发明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-电的发明/中文-电的发明_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-登月",
       "title": "中文-登月",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-登月"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-登月",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-登月/中文-登月_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-第一次世界大战",
       "title": "中文-第一次世界大战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-第一次世界大战"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-第一次世界大战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-第一次世界大战/中文-第一次世界大战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-第二次世界大战",
       "title": "中文-第二次世界大战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-第二次世界大战"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-第二次世界大战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-第二次世界大战/中文-第二次世界大战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-维京人",
       "title": "中文-维京人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-维京人"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-维京人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-维京人/中文-维京人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-罗宾汉",
       "title": "中文-罗宾汉",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-罗宾汉"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-罗宾汉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-罗宾汉/中文-罗宾汉_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-罗马斗兽场",
       "title": "中文-罗马斗兽场",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-罗马斗兽场"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-罗马斗兽场",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-罗马斗兽场/中文-罗马斗兽场_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-美国内战",
       "title": "中文-美国内战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-美国内战"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-美国内战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-美国内战/中文-美国内战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-美国宪法",
@@ -485,63 +737,99 @@
       "title": "中文-美国独立战争",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-美国独立战争"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-美国独立战争",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-美国独立战争/中文-美国独立战争_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-联合国",
       "title": "中文-联合国",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-联合国"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-联合国",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-联合国/中文-联合国_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-莎士比亚",
       "title": "中文-莎士比亚",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-莎士比亚"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-莎士比亚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-莎士比亚/中文-莎士比亚_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-莫卧儿帝国",
       "title": "中文-莫卧儿帝国",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-莫卧儿帝国"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-莫卧儿帝国",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-莫卧儿帝国/中文-莫卧儿帝国_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-蒸汽机",
       "title": "中文-蒸汽机",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-蒸汽机"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-蒸汽机",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-蒸汽机/中文-蒸汽机_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-诺贝尔奖",
       "title": "中文-诺贝尔奖",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-诺贝尔奖"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-诺贝尔奖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-诺贝尔奖/中文-诺贝尔奖_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-达尔文",
       "title": "中文-达尔文",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-达尔文"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-达尔文",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-达尔文/中文-达尔文_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-金字塔",
       "title": "中文-金字塔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-金字塔"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-金字塔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-金字塔/中文-金字塔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-长城",
       "title": "中文-长城",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-长城"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-长城",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-长城/中文-长城_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-阿拉伯帝国",
@@ -555,21 +843,33 @@
       "title": "中文-马丁·路德·金",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-马丁·路德·金"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-马丁·路德·金",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-马丁·路德·金/中文-马丁·路德·金_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-马可·波罗",
       "title": "中文-马可·波罗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-马可·波罗"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-马可·波罗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-马可·波罗/中文-马可·波罗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-黑死病",
       "title": "中文-黑死病",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-黑死病"
+      "path": "瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-黑死病",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/国际历史/中文歌曲/中文-黑死病/中文-黑死病_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

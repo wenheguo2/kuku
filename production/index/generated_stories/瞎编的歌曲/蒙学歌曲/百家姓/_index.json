@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/蒙学歌曲/百家姓",
   "name": "百家姓",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/百家姓.jpg",
     "cover_level": "category"
   },
   "entry_count": 22,
@@ -16,154 +16,242 @@
       "title": "01 赵钱孙李·姓氏之源",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/01 赵钱孙李·姓氏之源"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/01 赵钱孙李·姓氏之源",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/01 赵钱孙李·姓氏之源/01 赵钱孙李·姓氏之源_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "02 戚谢邹喻·百家风流",
       "title": "02 戚谢邹喻·百家风流",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/02 戚谢邹喻·百家风流"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/02 戚谢邹喻·百家风流",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/02 戚谢邹喻·百家风流/02 戚谢邹喻·百家风流_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "03 苗凤花方·草木春秋",
       "title": "03 苗凤花方·草木春秋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/03 苗凤花方·草木春秋"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/03 苗凤花方·草木春秋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/03 苗凤花方·草木春秋/03 苗凤花方·草木春秋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "04 滕殷罗毕·古韵悠长",
       "title": "04 滕殷罗毕·古韵悠长",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/04 滕殷罗毕·古韵悠长"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/04 滕殷罗毕·古韵悠长",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/04 滕殷罗毕·古韵悠长/04 滕殷罗毕·古韵悠长_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "05 伍余元卜·星火相传",
       "title": "05 伍余元卜·星火相传",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/05 伍余元卜·星火相传"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/05 伍余元卜·星火相传",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/05 伍余元卜·星火相传/05 伍余元卜·星火相传_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "06 高夏蔡田·山河故人",
       "title": "06 高夏蔡田·山河故人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/06 高夏蔡田·山河故人"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/06 高夏蔡田·山河故人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/06 高夏蔡田·山河故人/06 高夏蔡田·山河故人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "07 包诸左石·铁骨丹心",
       "title": "07 包诸左石·铁骨丹心",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/07 包诸左石·铁骨丹心"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/07 包诸左石·铁骨丹心",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/07 包诸左石·铁骨丹心/07 包诸左石·铁骨丹心_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "08 荀羊於惠·先贤遗风",
       "title": "08 荀羊於惠·先贤遗风",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/08 荀羊於惠·先贤遗风"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/08 荀羊於惠·先贤遗风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/08 荀羊於惠·先贤遗风/08 荀羊於惠·先贤遗风_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "09 全郗班仰·文脉绵延",
       "title": "09 全郗班仰·文脉绵延",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/09 全郗班仰·文脉绵延"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/09 全郗班仰·文脉绵延",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/09 全郗班仰·文脉绵延/09 全郗班仰·文脉绵延_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "10 印宿白怀·古道照人",
       "title": "10 印宿白怀·古道照人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/10 印宿白怀·古道照人"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/10 印宿白怀·古道照人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/10 印宿白怀·古道照人/10 印宿白怀·古道照人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "11 池乔阴郁·诗礼传家",
       "title": "11 池乔阴郁·诗礼传家",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/11 池乔阴郁·诗礼传家"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/11 池乔阴郁·诗礼传家",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/11 池乔阴郁·诗礼传家/11 池乔阴郁·诗礼传家_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "12 姬申扶堵·王气东来",
       "title": "12 姬申扶堵·王气东来",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/12 姬申扶堵·王气东来"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/12 姬申扶堵·王气东来",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/12 姬申扶堵·王气东来/12 姬申扶堵·王气东来_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "13 边扈燕冀·慷慨悲歌",
       "title": "13 边扈燕冀·慷慨悲歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/13 边扈燕冀·慷慨悲歌"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/13 边扈燕冀·慷慨悲歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/13 边扈燕冀·慷慨悲歌/13 边扈燕冀·慷慨悲歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "14 慕连茹习·明月清风",
       "title": "14 慕连茹习·明月清风",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/14 慕连茹习·明月清风"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/14 慕连茹习·明月清风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/14 慕连茹习·明月清风/14 慕连茹习·明月清风_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "15 暨居衡步·文武兼济",
       "title": "15 暨居衡步·文武兼济",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/15 暨居衡步·文武兼济"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/15 暨居衡步·文武兼济",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/15 暨居衡步·文武兼济/15 暨居衡步·文武兼济_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "16 欧殳沃利·匠心独运",
       "title": "16 欧殳沃利·匠心独运",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/16 欧殳沃利·匠心独运"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/16 欧殳沃利·匠心独运",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/16 欧殳沃利·匠心独运/16 欧殳沃利·匠心独运_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "17 冷訾辛阚·沧海遗珠",
       "title": "17 冷訾辛阚·沧海遗珠",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/17 冷訾辛阚·沧海遗珠"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/17 冷訾辛阚·沧海遗珠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/17 冷訾辛阚·沧海遗珠/17 冷訾辛阚·沧海遗珠_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "18 巢关蒯相·江湖夜雨",
       "title": "18 巢关蒯相·江湖夜雨",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/18 巢关蒯相·江湖夜雨"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/18 巢关蒯相·江湖夜雨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/18 巢关蒯相·江湖夜雨/18 巢关蒯相·江湖夜雨_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "19 万俟司马·复姓风华",
       "title": "19 万俟司马·复姓风华",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/19 万俟司马·复姓风华"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/19 万俟司马·复姓风华",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/19 万俟司马·复姓风华/19 万俟司马·复姓风华_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "20 澹台公冶·高风亮节",
       "title": "20 澹台公冶·高风亮节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/20 澹台公冶·高风亮节"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/20 澹台公冶·高风亮节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/20 澹台公冶·高风亮节/20 澹台公冶·高风亮节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "21 钟离宇文·塞上驼铃",
       "title": "21 钟离宇文·塞上驼铃",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/21 钟离宇文·塞上驼铃"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/21 钟离宇文·塞上驼铃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/21 钟离宇文·塞上驼铃/21 钟离宇文·塞上驼铃_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "22 晋楚闫法·百家归宗",
       "title": "22 晋楚闫法·百家归宗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/百家姓/22 晋楚闫法·百家归宗"
+      "path": "瞎编的歌曲/蒙学歌曲/百家姓/22 晋楚闫法·百家归宗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/百家姓/22 晋楚闫法·百家归宗/22 晋楚闫法·百家归宗_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

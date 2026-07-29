@@ -26,8 +26,8 @@ for idx_file in sorted(INDEX_ROOT.rglob("_index.json")):
     missing = []
     for ch in chapters:
         ch_name = ch.get("chapter_id") or ch.get("title") or ch.get("entry_id") or ""
-        # 期望的章节专属封面路径
-        expected = COVERS_ROOT / work_rel / ch_name / f"{ch_name}.webp"
+        # 期望的章节专属封面路径（2026-07-29 起统一 jpg）
+        expected = COVERS_ROOT / work_rel / ch_name / f"{ch_name}.jpg"
         if not expected.exists():
             missing.append(ch_name)
 

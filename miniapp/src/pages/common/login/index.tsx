@@ -32,7 +32,7 @@ export default function Login() {
   return (
     <View className={`center ${night}`}>
       <Icon name="book" size={112} color="#FF8C42" />
-      <Text style={{ fontSize: '44px', fontWeight: 800, display: 'block', margin: '8px 0' }}>酷酷儿童故事</Text>
+      <Text style={{ fontSize: '44px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>酷酷儿童故事</Text>
       <Text className="muted" style={{ marginBottom: '48px' }}>听故事 · 唱儿歌 · 学知识</Text>
       <View className="btn-green" style={{ width: '440px' }} onClick={doLogin}>微信一键登录</View>
       <View

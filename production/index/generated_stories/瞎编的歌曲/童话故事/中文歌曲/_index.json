@@ -1,0 +1,1793 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/童话故事/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 162,
+  "entries": [
+    {
+      "entry_id": "中文-一幅壮锦",
+      "title": "中文-一幅壮锦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-一幅壮锦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-一幅壮锦/中文-一幅壮锦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-七只乌鸦",
+      "title": "中文-七只乌鸦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-七只乌鸦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-七只乌鸦/中文-七只乌鸦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-三个纺纱女",
+      "title": "中文-三个纺纱女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-三个纺纱女",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-三个纺纱女/中文-三个纺纱女_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-三只小猪",
+      "title": "中文-三只小猪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-三只小猪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-三只小猪/中文-三只小猪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-三打白骨精",
+      "title": "中文-三打白骨精",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-三打白骨精",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-三打白骨精/中文-三打白骨精_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-丑小鸭",
+      "title": "中文-丑小鸭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-丑小鸭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-丑小鸭/中文-丑小鸭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-丛林之书",
+      "title": "中文-丛林之书",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-丛林之书",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-丛林之书/中文-丛林之书_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-中秋节的传说",
+      "title": "中文-中秋节的传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-中秋节的传说",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-中秋节的传说/中文-中秋节的传说_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乌鸦和狐狸",
+      "title": "中文-乌鸦和狐狸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-乌鸦和狐狸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-乌鸦和狐狸/中文-乌鸦和狐狸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乌鸦喝水",
+      "title": "中文-乌鸦喝水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-乌鸦喝水",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-乌鸦喝水/中文-乌鸦喝水_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乌龟和兔子",
+      "title": "中文-乌龟和兔子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-乌龟和兔子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-乌龟和兔子/中文-乌龟和兔子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-九色鹿",
+      "title": "中文-九色鹿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-九色鹿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-九色鹿/中文-九色鹿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-了不起的火箭",
+      "title": "中文-了不起的火箭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-了不起的火箭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-了不起的火箭/中文-了不起的火箭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-井底之蛙",
+      "title": "中文-井底之蛙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-井底之蛙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-井底之蛙/中文-井底之蛙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-侏儒怪",
+      "title": "中文-侏儒怪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-侏儒怪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-侏儒怪/中文-侏儒怪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-六个仆人",
+      "title": "中文-六个仆人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-六个仆人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-六个仆人/中文-六个仆人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-农夫和他的儿子们",
+      "title": "中文-农夫和他的儿子们",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-农夫和他的儿子们",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-农夫和他的儿子们/中文-农夫和他的儿子们_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-冰雪女王",
+      "title": "中文-冰雪女王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-冰雪女王",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-冰雪女王/中文-冰雪女王_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-勇敢的小裁缝",
+      "title": "中文-勇敢的小裁缝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-勇敢的小裁缝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-勇敢的小裁缝/中文-勇敢的小裁缝_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-勇敢的锡兵历险",
+      "title": "中文-勇敢的锡兵历险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-勇敢的锡兵历险",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-勇敢的锡兵历险/中文-勇敢的锡兵历险_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-北风和太阳",
+      "title": "中文-北风和太阳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-北风和太阳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-北风和太阳/中文-北风和太阳_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-十二个跳舞的公主",
+      "title": "中文-十二个跳舞的公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-十二个跳舞的公主",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-十二个跳舞的公主/中文-十二个跳舞的公主_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-十二生肖的传说",
+      "title": "中文-十二生肖的传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-十二生肖的传说",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-十二生肖的传说/中文-十二生肖的传说_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-十兄弟",
+      "title": "中文-十兄弟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-十兄弟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-十兄弟/中文-十兄弟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-卖火柴的小女孩",
+      "title": "中文-卖火柴的小女孩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-卖火柴的小女孩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-卖火柴的小女孩/中文-卖火柴的小女孩_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-哪吒闹海",
+      "title": "中文-哪吒闹海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-哪吒闹海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-哪吒闹海/中文-哪吒闹海_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-圣诞颂歌",
+      "title": "中文-圣诞颂歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-圣诞颂歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-圣诞颂歌/中文-圣诞颂歌_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-坚定的锡兵",
+      "title": "中文-坚定的锡兵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-坚定的锡兵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-坚定的锡兵/中文-坚定的锡兵_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-城里老鼠和乡下老鼠",
+      "title": "中文-城里老鼠和乡下老鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-城里老鼠和乡下老鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-城里老鼠和乡下老鼠/中文-城里老鼠和乡下老鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-夜莺",
+      "title": "中文-夜莺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-夜莺",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-夜莺/中文-夜莺_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大拇指汤姆",
+      "title": "中文-大拇指汤姆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-大拇指汤姆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-大拇指汤姆/中文-大拇指汤姆_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大象的鼻子为什么那么长",
+      "title": "中文-大象的鼻子为什么那么长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-大象的鼻子为什么那么长",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-大象的鼻子为什么那么长/中文-大象的鼻子为什么那么长_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-天鹅湖",
+      "title": "中文-天鹅湖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-天鹅湖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-天鹅湖/中文-天鹅湖_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孔雀公主",
+      "title": "中文-孔雀公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-孔雀公主",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-孔雀公主/中文-孔雀公主_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孙悟空大闹天宫",
+      "title": "中文-孙悟空大闹天宫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-孙悟空大闹天宫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-孙悟空大闹天宫/中文-孙悟空大闹天宫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孟姜女",
+      "title": "中文-孟姜女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-孟姜女",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-孟姜女/中文-孟姜女_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-宝莲灯",
+      "title": "中文-宝莲灯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-宝莲灯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-宝莲灯/中文-宝莲灯_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-宝葫芦",
+      "title": "中文-宝葫芦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-宝葫芦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-宝葫芦/中文-宝葫芦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小兔乖乖",
+      "title": "中文-小兔乖乖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-小兔乖乖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-小兔乖乖/中文-小兔乖乖_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小壁虎借尾巴",
+      "title": "中文-小壁虎借尾巴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-小壁虎借尾巴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-小壁虎借尾巴/中文-小壁虎借尾巴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小意达的花儿",
+      "title": "中文-小意达的花儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-小意达的花儿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-小意达的花儿/中文-小意达的花儿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小熊维尼",
+      "title": "中文-小熊维尼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-小熊维尼"
+    },
+    {
+      "entry_id": "中文-小王子",
+      "title": "中文-小王子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-小王子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-小王子/中文-小王子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小红帽",
+      "title": "中文-小红帽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-小红帽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-小红帽/中文-小红帽_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小美人鱼",
+      "title": "中文-小美人鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-小美人鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-小美人鱼/中文-小美人鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小蝌蚪找妈妈",
+      "title": "中文-小蝌蚪找妈妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-小蝌蚪找妈妈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-小蝌蚪找妈妈/中文-小蝌蚪找妈妈_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小马过河",
+      "title": "中文-小马过河",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-小马过河",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-小马过河/中文-小马过河_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-尼尔斯骑鹅旅行记",
+      "title": "中文-尼尔斯骑鹅旅行记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-尼尔斯骑鹅旅行记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-尼尔斯骑鹅旅行记/中文-尼尔斯骑鹅旅行记_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-崂山石",
+      "title": "中文-崂山石",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-崂山石",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-崂山石/中文-崂山石_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-崂山道士",
+      "title": "中文-崂山道士",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-崂山道士",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-崂山道士/中文-崂山道士_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-崂山采药",
+      "title": "中文-崂山采药",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-崂山采药",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-崂山采药/中文-崂山采药_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-布莱梅的音乐家",
+      "title": "中文-布莱梅的音乐家",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-布莱梅的音乐家",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-布莱梅的音乐家/中文-布莱梅的音乐家_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-年的故事",
+      "title": "中文-年的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-年的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-年的故事/中文-年的故事_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张果老倒骑驴",
+      "title": "中文-张果老倒骑驴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-张果老倒骑驴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-张果老倒骑驴/中文-张果老倒骑驴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张羽煮海",
+      "title": "中文-张羽煮海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-张羽煮海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-张羽煮海/中文-张羽煮海_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-彼得兔",
+      "title": "中文-彼得兔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-彼得兔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-彼得兔/中文-彼得兔_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-彼得潘",
+      "title": "中文-彼得潘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-彼得潘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-彼得潘/中文-彼得潘_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-彼得潘与温蒂",
+      "title": "中文-彼得潘与温蒂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-彼得潘与温蒂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-彼得潘与温蒂/中文-彼得潘与温蒂_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-徐文长的故事",
+      "title": "中文-徐文长的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-徐文长的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-徐文长的故事/中文-徐文长的故事_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-忠实的朋友",
+      "title": "中文-忠实的朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-忠实的朋友",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-忠实的朋友/中文-忠实的朋友_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-快乐王子",
+      "title": "中文-快乐王子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-快乐王子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-快乐王子/中文-快乐王子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-打火匣",
+      "title": "中文-打火匣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-打火匣",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-打火匣/中文-打火匣_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-拇指姑娘",
+      "title": "中文-拇指姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-拇指姑娘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-拇指姑娘/中文-拇指姑娘_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-拇指姑娘旅行",
+      "title": "中文-拇指姑娘旅行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-拇指姑娘旅行",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-拇指姑娘旅行/中文-拇指姑娘旅行_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-拔萝卜",
+      "title": "中文-拔萝卜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-拔萝卜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-拔萝卜/中文-拔萝卜_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-日月潭的传说",
+      "title": "中文-日月潭的传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-日月潭的传说",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-日月潭的传说/中文-日月潭的传说_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-星孩",
+      "title": "中文-星孩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-星孩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-星孩/中文-星孩_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-星星银元",
+      "title": "中文-星星银元",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-星星银元",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-星星银元/中文-星星银元_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-望夫石",
+      "title": "中文-望夫石",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-望夫石",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-望夫石/中文-望夫石_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-木偶匹诺曹历险",
+      "title": "中文-木偶匹诺曹历险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-木偶匹诺曹历险",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-木偶匹诺曹历险/中文-木偶匹诺曹历险_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-木偶奇遇记",
+      "title": "中文-木偶奇遇记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-木偶奇遇记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-木偶奇遇记/中文-木偶奇遇记_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杰克与魔豆",
+      "title": "中文-杰克与魔豆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-杰克与魔豆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-杰克与魔豆/中文-杰克与魔豆_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-柳林风声",
+      "title": "中文-柳林风声",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-柳林风声",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-柳林风声/中文-柳林风声_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-格列佛游记",
+      "title": "中文-格列佛游记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-格列佛游记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-格列佛游记/中文-格列佛游记_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-梁山伯与祝英台",
+      "title": "中文-梁山伯与祝英台",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-梁山伯与祝英台",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-梁山伯与祝英台/中文-梁山伯与祝英台_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-森林里的三个小矮人",
+      "title": "中文-森林里的三个小矮人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-森林里的三个小矮人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-森林里的三个小矮人/中文-森林里的三个小矮人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-沉香救母",
+      "title": "中文-沉香救母",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-沉香救母",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-沉香救母/中文-沉香救母_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-济公的故事",
+      "title": "中文-济公的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-济公的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-济公的故事/中文-济公的故事_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海的女儿",
+      "title": "中文-海的女儿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-海的女儿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-海的女儿/中文-海的女儿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-渔夫和他的妻子",
+      "title": "中文-渔夫和他的妻子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-渔夫和他的妻子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-渔夫和他的妻子/中文-渔夫和他的妻子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-渔夫和妖怪",
+      "title": "中文-渔夫和妖怪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-渔夫和妖怪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-渔夫和妖怪/中文-渔夫和妖怪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-渔夫和金鱼",
+      "title": "中文-渔夫和金鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-渔夫和金鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-渔夫和金鱼/中文-渔夫和金鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-灰姑娘",
+      "title": "中文-灰姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-灰姑娘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-灰姑娘/中文-灰姑娘_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-灶王爷的故事",
+      "title": "中文-灶王爷的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-灶王爷的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-灶王爷的故事/中文-灶王爷的故事_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-爱丽丝梦游仙境",
+      "title": "中文-爱丽丝梦游仙境",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-爱丽丝梦游仙境",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-爱丽丝梦游仙境/中文-爱丽丝梦游仙境_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-爱丽丝镜中奇遇",
+      "title": "中文-爱丽丝镜中奇遇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-爱丽丝镜中奇遇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-爱丽丝镜中奇遇/中文-爱丽丝镜中奇遇_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-牛郎织女",
+      "title": "中文-牛郎织女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-牛郎织女",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-牛郎织女/中文-牛郎织女_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-牧羊女和扫烟囱的人",
+      "title": "中文-牧羊女和扫烟囱的人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-牧羊女和扫烟囱的人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-牧羊女和扫烟囱的人/中文-牧羊女和扫烟囱的人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-牧羊童和狼",
+      "title": "中文-牧羊童和狼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-牧羊童和狼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-牧羊童和狼/中文-牧羊童和狼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狐狸和仙鹤",
+      "title": "中文-狐狸和仙鹤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-狐狸和仙鹤",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-狐狸和仙鹤/中文-狐狸和仙鹤_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狐狸和葡萄",
+      "title": "中文-狐狸和葡萄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-狐狸和葡萄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-狐狸和葡萄/中文-狐狸和葡萄_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狮子和小老鼠",
+      "title": "中文-狮子和小老鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-狮子和小老鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-狮子和小老鼠/中文-狮子和小老鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狼和七只小羊",
+      "title": "中文-狼和七只小羊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-狼和七只小羊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-狼和七只小羊/中文-狼和七只小羊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狼和狐狸",
+      "title": "中文-狼和狐狸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-狼和狐狸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-狼和狐狸/中文-狼和狐狸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猎人海力布",
+      "title": "中文-猎人海力布",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-猎人海力布",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-猎人海力布/中文-猎人海力布_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猪八戒吃西瓜",
+      "title": "中文-猪八戒吃西瓜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-猪八戒吃西瓜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-猪八戒吃西瓜/中文-猪八戒吃西瓜_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猴子捞月",
+      "title": "中文-猴子捞月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-猴子捞月",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-猴子捞月/中文-猴子捞月_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-玫瑰公主",
+      "title": "中文-玫瑰公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-玫瑰公主",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-玫瑰公主/中文-玫瑰公主_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-玫瑰红与白雪",
+      "title": "中文-玫瑰红与白雪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-玫瑰红与白雪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-玫瑰红与白雪/中文-玫瑰红与白雪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-生金蛋的鹅",
+      "title": "中文-生金蛋的鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-生金蛋的鹅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-生金蛋的鹅/中文-生金蛋的鹅_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-田螺姑娘",
+      "title": "中文-田螺姑娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-田螺姑娘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-田螺姑娘/中文-田螺姑娘_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-画眉嘴国王",
+      "title": "中文-画眉嘴国王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-画眉嘴国王",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-画眉嘴国王/中文-画眉嘴国王_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-癞蛤蟆",
+      "title": "中文-癞蛤蟆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-癞蛤蟆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-癞蛤蟆/中文-癞蛤蟆_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白蛇",
+      "title": "中文-白蛇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-白蛇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-白蛇/中文-白蛇_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白蛇传",
+      "title": "中文-白蛇传",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-白蛇传",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-白蛇传/中文-白蛇传_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白雪公主",
+      "title": "中文-白雪公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-白雪公主",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-白雪公主/中文-白雪公主_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白鹳",
+      "title": "中文-白鹳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-白鹳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-白鹳/中文-白鹳_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白鹿的传说",
+      "title": "中文-白鹿的传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-白鹿的传说",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-白鹿的传说/中文-白鹿的传说_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-皇帝的新衣",
+      "title": "中文-皇帝的新衣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-皇帝的新衣",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-皇帝的新衣/中文-皇帝的新衣_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-睡美人",
+      "title": "中文-睡美人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-睡美人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-睡美人/中文-睡美人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-神奇的画笔",
+      "title": "中文-神奇的画笔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-神奇的画笔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-神奇的画笔/中文-神奇的画笔_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-神笔马良",
+      "title": "中文-神笔马良",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-神笔马良",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-神笔马良/中文-神笔马良_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-穿靴子的猫",
+      "title": "中文-穿靴子的猫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-穿靴子的猫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-穿靴子的猫/中文-穿靴子的猫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-端午节的传说",
+      "title": "中文-端午节的传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-端午节的传说",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-端午节的传说/中文-端午节的传说_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-糖果屋",
+      "title": "中文-糖果屋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-糖果屋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-糖果屋/中文-糖果屋_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-绿野仙踪",
+      "title": "中文-绿野仙踪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-绿野仙踪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-绿野仙踪/中文-绿野仙踪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-绿野仙踪续",
+      "title": "中文-绿野仙踪续",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-绿野仙踪续",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-绿野仙踪续/中文-绿野仙踪续_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-美女与野兽",
+      "title": "中文-美女与野兽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-美女与野兽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-美女与野兽/中文-美女与野兽_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老头子做事总不会错",
+      "title": "中文-老头子做事总不会错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-老头子做事总不会错",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-老头子做事总不会错/中文-老头子做事总不会错_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老鼠嫁女",
+      "title": "中文-老鼠嫁女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-老鼠嫁女",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-老鼠嫁女/中文-老鼠嫁女_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老鼠开会",
+      "title": "中文-老鼠开会",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-老鼠开会",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-老鼠开会/中文-老鼠开会_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-聪明的爱尔莎",
+      "title": "中文-聪明的爱尔莎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-聪明的爱尔莎",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-聪明的爱尔莎/中文-聪明的爱尔莎_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-胡桃夹子",
+      "title": "中文-胡桃夹子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-胡桃夹子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-胡桃夹子/中文-胡桃夹子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-自私的巨人",
+      "title": "中文-自私的巨人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-自私的巨人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-自私的巨人/中文-自私的巨人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-花木兰",
+      "title": "中文-花木兰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-花木兰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-花木兰/中文-花木兰_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-莫愁女",
+      "title": "中文-莫愁女",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-莫愁女",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-莫愁女/中文-莫愁女_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-萝卜回来了",
+      "title": "中文-萝卜回来了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-萝卜回来了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-萝卜回来了/中文-萝卜回来了_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蚂蚁和蚱蜢",
+      "title": "中文-蚂蚁和蚱蜢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-蚂蚁和蚱蜢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-蚂蚁和蚱蜢/中文-蚂蚁和蚱蜢_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-豌豆上的公主",
+      "title": "中文-豌豆上的公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-豌豆上的公主",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-豌豆上的公主/中文-豌豆上的公主_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-豌豆公主",
+      "title": "中文-豌豆公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-豌豆公主",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-豌豆公主/中文-豌豆公主_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-财神的故事",
+      "title": "中文-财神的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-财神的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-财神的故事/中文-财神的故事_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-跳高者",
+      "title": "中文-跳高者",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-跳高者",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-跳高者/中文-跳高者_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-踩面包的女孩",
+      "title": "中文-踩面包的女孩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-踩面包的女孩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-踩面包的女孩/中文-踩面包的女孩_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-辛巴达航海记",
+      "title": "中文-辛巴达航海记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-辛巴达航海记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-辛巴达航海记/中文-辛巴达航海记_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-野天鹅",
+      "title": "中文-野天鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-野天鹅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-野天鹅/中文-野天鹅_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-金发女孩与三只熊",
+      "title": "中文-金发女孩与三只熊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-金发女孩与三只熊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-金发女孩与三只熊/中文-金发女孩与三只熊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-金色的海螺",
+      "title": "中文-金色的海螺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-金色的海螺",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-金色的海螺/中文-金色的海螺_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-金银岛",
+      "title": "中文-金银岛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-金银岛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-金银岛/中文-金银岛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-金鸡的故事",
+      "title": "中文-金鸡的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-金鸡的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-金鸡的故事/中文-金鸡的故事_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-金鹅",
+      "title": "中文-金鹅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-金鹅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-金鹅/中文-金鹅_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-铁汉斯",
+      "title": "中文-铁汉斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-铁汉斯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-铁汉斯/中文-铁汉斯_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-长发公主",
+      "title": "中文-长发公主",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-长发公主",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-长发公主/中文-长发公主_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-长发妹",
+      "title": "中文-长发妹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-长发妹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-长发妹/中文-长发妹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-长袜子皮皮",
+      "title": "中文-长袜子皮皮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-长袜子皮皮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-长袜子皮皮/中文-长袜子皮皮_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-门神的传说",
+      "title": "中文-门神的传说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-门神的传说",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-门神的传说/中文-门神的传说_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-阿凡提的故事",
+      "title": "中文-阿凡提的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-阿凡提的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-阿凡提的故事/中文-阿凡提的故事_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-阿凡提种金子",
+      "title": "中文-阿凡提种金子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-阿凡提种金子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-阿凡提种金子/中文-阿凡提种金子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-阿拉丁",
+      "title": "中文-阿拉丁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-阿拉丁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-阿拉丁/中文-阿拉丁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-阿诗玛",
+      "title": "中文-阿诗玛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-阿诗玛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-阿诗玛/中文-阿诗玛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-阿里巴巴和四十大盗",
+      "title": "中文-阿里巴巴和四十大盗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-阿里巴巴和四十大盗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-阿里巴巴和四十大盗/中文-阿里巴巴和四十大盗_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雪人",
+      "title": "中文-雪人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-雪人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-雪人/中文-雪人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雪孩子",
+      "title": "中文-雪孩子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-雪孩子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-雪孩子/中文-雪孩子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-霍勒大妈",
+      "title": "中文-霍勒大妈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-霍勒大妈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-霍勒大妈/中文-霍勒大妈_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-青蛙王子",
+      "title": "中文-青蛙王子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-青蛙王子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-青蛙王子/中文-青蛙王子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-青鸟",
+      "title": "中文-青鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-青鸟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-青鸟/中文-青鸟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-飞箱",
+      "title": "中文-飞箱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-飞箱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-飞箱/中文-飞箱_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-马头琴的故事",
+      "title": "中文-马头琴的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-马头琴的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-马头琴的故事/中文-马头琴的故事_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-驴和盐",
+      "title": "中文-驴和盐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-驴和盐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-驴和盐/中文-驴和盐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鲁滨逊漂流记",
+      "title": "中文-鲁滨逊漂流记",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-鲁滨逊漂流记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-鲁滨逊漂流记/中文-鲁滨逊漂流记_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鲁班学艺",
+      "title": "中文-鲁班学艺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-鲁班学艺",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-鲁班学艺/中文-鲁班学艺_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鲤鱼精",
+      "title": "中文-鲤鱼精",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-鲤鱼精",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-鲤鱼精/中文-鲤鱼精_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-麦草煤块和豆子",
+      "title": "中文-麦草煤块和豆子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/童话故事/中文歌曲/中文-麦草煤块和豆子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/中文歌曲/中文-麦草煤块和豆子/中文-麦草煤块和豆子_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

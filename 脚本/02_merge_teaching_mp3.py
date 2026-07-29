@@ -4,11 +4,12 @@
 功能：遍历 production/audio/学科启蒙/ 下所有课程，
       对每个 学习1/学习2/学习3/习题/编号N 子目录：
         1. ★ 读取 segments.json，按 seq 排序，用 id 匹配音频文件
-        2. ★ 完整性校验：任一段缺音频 → 跳过并记录
-        3. ★★ WPM区间归一化：180-220不改，>220降速到220，<180加速到180
+        2. ★ 完整性校验：缺段仍合并，缺段明细记日志（默认允许缺段）
+        3. ★★ 原速(MVP)：不做WPM变速，atempo固定1.0
         4. 逐段 loudnorm 归一化
         5. 合并分段 MP3 → full.mp3（含静音间隔 + 淡入淡出）
         6. ★ 生成 timeline.json（时长=normalize后ffprobe实测，精准对齐）
+        7. ★ 覆盖生成：已有 full.mp3/timeline.json 每次重新生成覆盖
 
 ★ v6 关键改进：
   1. ★★ WPM区间归一化：保留角色自然语速差异，只修正极端值
@@ -58,12 +59,12 @@ def merge_teaching_unit(audio_dir, gap=DEFAULT_GAP,
 
     ★ 缺段处理：allow_incomplete=True（默认开启）时，缺失段被跳过，
       仍用已有段合成；缺段明细通过返回的第4元素传出，供主流程写入日志。
+
+    ★ 覆盖生成：不检查已有 full.mp3/timeline.json，每次重新生成并覆盖。
+    ★ 原速（MVP）：不做 WPM 变速，atempo 固定1.0；loudnorm 音量归一化照常做。
     """
     full_mp3 = audio_dir / "full.mp3"
     timeline_file = audio_dir / "timeline.json"
-
-    if full_mp3.exists() and timeline_file.exists() and not force:
-        return ("skip", str(audio_dir), "already exists", None)
 
     # ★ v5: 读取 segments.json 并按 seq 排序，找不到则跳过
     seg_data = get_segments_json(audio_dir)
@@ -112,11 +113,12 @@ def merge_teaching_unit(audio_dir, gap=DEFAULT_GAP,
             if raw_dur is None:
                 return ("fail", str(audio_dir), f"ffprobe failed: {mp3_name}", None)
 
-            # ★ v5: 计算逐段 atempo
+            # ★ 教学MVP原速：不做WPM变速，atempo固定1.0（actual_wpm仅记录）
             text = seg.get("text", "") if seg else ""
             character = seg.get("character", "?") if seg else "?"
             voice_id = seg.get("voice_id", "") if seg else ""
-            atempo, actual_wpm = calculate_segment_speed(text, raw_dur)
+            _, actual_wpm = calculate_segment_speed(text, raw_dur)
+            atempo = 1.0
 
             speed_log.append({
                 "mp3": mp3_name, "char": character,
@@ -238,12 +240,12 @@ def main():
 
     banner("脚本2: 教学合并MP3 + timeline.json (v6)")
     print(f"  参数: gap={gap}s  normalize={normalize}  fade={fade}")
-    print(f"  ★ WPM区间归一化: {WPM_LOW}-{WPM_HIGH}区间不改, >{WPM_HIGH}降速, <{WPM_LOW}加速")
+    print(f"  ★ 原速(MVP): 不做WPM变速, atempo固定1.0; loudnorm音量归一化照常")
+    print(f"  ★ 覆盖生成: 已有 full.mp3/timeline.json 会被重新生成覆盖（无断点跳过）")
     print(f"  码率: 96kbps CBR 24kHz mono")
     print(f"  排序: 按 segments.json seq 字段（找不到则跳过）")
     print(f"  timeline: normalize后ffprobe实测（精准对齐）")
     print(f"  完整性: 允许缺段(默认) — 缺段仅记录到 02_teaching_merge_incomplete.json")
-    print(f"  断点: 已有 full.mp3 + timeline.json 自动跳过")
     print(f"  线程: {args.workers}")
     print()
 
@@ -348,7 +350,8 @@ def main():
         f"时间: {datetime.now().isoformat()}\n"
         f"参数: gap={gap}s  normalize={normalize}  fade={fade}  wpm_range={WPM_LOW}-{WPM_HIGH}\n"
         f"码率: 96kbps CBR 24kHz mono\n"
-        f"语速: WPM区间归一化(180-220不改, 超出修正)\n"
+        f"语速: 原速(MVP, 不做WPM变速)\n"
+        f"生成: 覆盖模式(无断点跳过)\n"
         f"timeline: normalize后ffprobe实测\n"
         f"线程: {args.workers}\n"
         f"总数: {len(units)}\n"

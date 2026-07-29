@@ -6,2089 +6,3266 @@
   "path": "瞎编的歌曲/大孩儿/英文歌曲",
   "name": "英文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/大孩儿.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/英文歌曲.jpg",
     "cover_level": "category"
   },
-  "entry_count": 300,
+  "entry_count": 299,
   "entries": [
     {
       "entry_id": "1. The Brave Traveler’s Journey",
       "title": "1. The Brave Traveler’s Journey",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/1. The Brave Traveler’s Journey"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/1. The Brave Traveler’s Journey",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/1. The Brave Traveler’s Journey/1. The Brave Traveler’s Journey_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "10. The Ancient Oak’s Shadow",
       "title": "10. The Ancient Oak’s Shadow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/10. The Ancient Oak’s Shadow"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/10. The Ancient Oak’s Shadow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/10. The Ancient Oak’s Shadow/10. The Ancient Oak’s Shadow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "100. The Strong Rope’s Knot",
       "title": "100. The Strong Rope’s Knot",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/100. The Strong Rope’s Knot"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/100. The Strong Rope’s Knot",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/100. The Strong Rope’s Knot/100. The Strong Rope’s Knot_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "101. The Gentle Rain’s Patter",
       "title": "101. The Gentle Rain’s Patter",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/101. The Gentle Rain’s Patter"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/101. The Gentle Rain’s Patter",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/101. The Gentle Rain’s Patter/101. The Gentle Rain’s Patter_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "102. The Happy Song’s Echo",
       "title": "102. The Happy Song’s Echo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/102. The Happy Song’s Echo"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/102. The Happy Song’s Echo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/102. The Happy Song’s Echo/102. The Happy Song’s Echo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "11. The Young Sailor’s Hope",
       "title": "11. The Young Sailor’s Hope",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/11. The Young Sailor’s Hope"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/11. The Young Sailor’s Hope",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/11. The Young Sailor’s Hope/11. The Young Sailor’s Hope_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "12. The Last Leaf of Autumn",
       "title": "12. The Last Leaf of Autumn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/12. The Last Leaf of Autumn"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/12. The Last Leaf of Autumn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/12. The Last Leaf of Autumn/12. The Last Leaf of Autumn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "13. The Happy Child’s Laugh",
       "title": "13. The Happy Child’s Laugh",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/13. The Happy Child’s Laugh"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/13. The Happy Child’s Laugh",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/13. The Happy Child’s Laugh/13. The Happy Child’s Laugh_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "14. The Dark Cloud’s Silver Lining",
       "title": "14. The Dark Cloud’s Silver Lining",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/14. The Dark Cloud’s Silver Lining"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/14. The Dark Cloud’s Silver Lining",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/14. The Dark Cloud’s Silver Lining/14. The Dark Cloud’s Silver Lining_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "15. The Simple Gift of Love",
       "title": "15. The Simple Gift of Love",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/15. The Simple Gift of Love"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/15. The Simple Gift of Love",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/15. The Simple Gift of Love/15. The Simple Gift of Love_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "16. The Wide Ocean’s Call",
       "title": "16. The Wide Ocean’s Call",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/16. The Wide Ocean’s Call"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/16. The Wide Ocean’s Call",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/16. The Wide Ocean’s Call/16. The Wide Ocean’s Call_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "17. The Strong Heart’s Beat",
       "title": "17. The Strong Heart’s Beat",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/17. The Strong Heart’s Beat"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/17. The Strong Heart’s Beat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/17. The Strong Heart’s Beat/17. The Strong Heart’s Beat_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "18. The Soft Rain’s Melody",
       "title": "18. The Soft Rain’s Melody",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/18. The Soft Rain’s Melody"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/18. The Soft Rain’s Melody",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/18. The Soft Rain’s Melody/18. The Soft Rain’s Melody_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "19. The Tall Mountain’s Peak",
       "title": "19. The Tall Mountain’s Peak",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/19. The Tall Mountain’s Peak"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/19. The Tall Mountain’s Peak",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/19. The Tall Mountain’s Peak/19. The Tall Mountain’s Peak_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "2. A Quiet Summer Afternoon",
       "title": "2. A Quiet Summer Afternoon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/2. A Quiet Summer Afternoon"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/2. A Quiet Summer Afternoon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/2. A Quiet Summer Afternoon/2. A Quiet Summer Afternoon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "20. The Clear Sky’s Promise",
       "title": "20. The Clear Sky’s Promise",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/20. The Clear Sky’s Promise"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/20. The Clear Sky’s Promise",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/20. The Clear Sky’s Promise/20. The Clear Sky’s Promise_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "21. The Sweet Song of the Night",
       "title": "21. The Sweet Song of the Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/21. The Sweet Song of the Night"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/21. The Sweet Song of the Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/21. The Sweet Song of the Night/21. The Sweet Song of the Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "22. The Old Bridge’s Tale",
       "title": "22. The Old Bridge’s Tale",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/22. The Old Bridge’s Tale"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/22. The Old Bridge’s Tale",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/22. The Old Bridge’s Tale/22. The Old Bridge’s Tale_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "23. The Bright Flame’s Dance",
       "title": "23. The Bright Flame’s Dance",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/23. The Bright Flame’s Dance"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/23. The Bright Flame’s Dance",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/23. The Bright Flame’s Dance/23. The Bright Flame’s Dance_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "24. The Deep Forest’s Secret",
       "title": "24. The Deep Forest’s Secret",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/24. The Deep Forest’s Secret"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/24. The Deep Forest’s Secret",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/24. The Deep Forest’s Secret/24. The Deep Forest’s Secret_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "25. The Little Bird’s Flight",
       "title": "25. The Little Bird’s Flight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/25. The Little Bird’s Flight"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/25. The Little Bird’s Flight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/25. The Little Bird’s Flight/25. The Little Bird’s Flight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "26. The Warm Sun’s Smile",
       "title": "26. The Warm Sun’s Smile",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/26. The Warm Sun’s Smile"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/26. The Warm Sun’s Smile",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/26. The Warm Sun’s Smile/26. The Warm Sun’s Smile_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "27. The Cold Winter’s Night",
       "title": "27. The Cold Winter’s Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/27. The Cold Winter’s Night"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/27. The Cold Winter’s Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/27. The Cold Winter’s Night/27. The Cold Winter’s Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "28. The New Day’s Light",
       "title": "28. The New Day’s Light",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/28. The New Day’s Light"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/28. The New Day’s Light",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/28. The New Day’s Light/28. The New Day’s Light_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "29. The Fast River’s Race",
       "title": "29. The Fast River’s Race",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/29. The Fast River’s Race"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/29. The Fast River’s Race",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/29. The Fast River’s Race/29. The Fast River’s Race_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "3. The Lonely Bird Sings",
       "title": "3. The Lonely Bird Sings",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/3. The Lonely Bird Sings"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/3. The Lonely Bird Sings",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/3. The Lonely Bird Sings/3. The Lonely Bird Sings_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "30. The Quiet Moon’s Glow",
       "title": "30. The Quiet Moon’s Glow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/30. The Quiet Moon’s Glow"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/30. The Quiet Moon’s Glow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/30. The Quiet Moon’s Glow/30. The Quiet Moon’s Glow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "31. The Brave Knight’s Shield",
       "title": "31. The Brave Knight’s Shield",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/31. The Brave Knight’s Shield"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/31. The Brave Knight’s Shield",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/31. The Brave Knight’s Shield/31. The Brave Knight’s Shield_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "32. The Wise Owl’s Lesson",
       "title": "32. The Wise Owl’s Lesson",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/32. The Wise Owl’s Lesson"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/32. The Wise Owl’s Lesson",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/32. The Wise Owl’s Lesson/32. The Wise Owl’s Lesson_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "33. The Golden Key’s Power",
       "title": "33. The Golden Key’s Power",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/33. The Golden Key’s Power"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/33. The Golden Key’s Power",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/33. The Golden Key’s Power/33. The Golden Key’s Power_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "34. The Silent Stone’s Story",
       "title": "34. The Silent Stone’s Story",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/34. The Silent Stone’s Story"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/34. The Silent Stone’s Story",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/34. The Silent Stone’s Story/34. The Silent Stone’s Story_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "35. The Happy Dance of Spring",
       "title": "35. The Happy Dance of Spring",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/35. The Happy Dance of Spring"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/35. The Happy Dance of Spring",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/35. The Happy Dance of Spring/35. The Happy Dance of Spring_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "36. The Dark Cave’s Mystery",
       "title": "36. The Dark Cave’s Mystery",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/36. The Dark Cave’s Mystery"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/36. The Dark Cave’s Mystery",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/36. The Dark Cave’s Mystery/36. The Dark Cave’s Mystery_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "37. The Bright Lantern’s Path",
       "title": "37. The Bright Lantern’s Path",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/37. The Bright Lantern’s Path"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/37. The Bright Lantern’s Path",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/37. The Bright Lantern’s Path/37. The Bright Lantern’s Path_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "38. The Young Prince’s Dream",
       "title": "38. The Young Prince’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/38. The Young Prince’s Dream"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/38. The Young Prince’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/38. The Young Prince’s Dream/38. The Young Prince’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "39. The Old Clock’s Chime",
       "title": "39. The Old Clock’s Chime",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/39. The Old Clock’s Chime"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/39. The Old Clock’s Chime",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/39. The Old Clock’s Chime/39. The Old Clock’s Chime_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "4. The Lost Key of Memory",
       "title": "4. The Lost Key of Memory",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/4. The Lost Key of Memory"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/4. The Lost Key of Memory",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/4. The Lost Key of Memory/4. The Lost Key of Memory_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "40. The Sweet Flower’s Scent",
       "title": "40. The Sweet Flower’s Scent",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/40. The Sweet Flower’s Scent"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/40. The Sweet Flower’s Scent",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/40. The Sweet Flower’s Scent/40. The Sweet Flower’s Scent_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "41. The Wide Field’s Green",
       "title": "41. The Wide Field’s Green",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/41. The Wide Field’s Green"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/41. The Wide Field’s Green",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/41. The Wide Field’s Green/41. The Wide Field’s Green_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "42. The Strong Wind’s Roar",
       "title": "42. The Strong Wind’s Roar",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/42. The Strong Wind’s Roar"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/42. The Strong Wind’s Roar",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/42. The Strong Wind’s Roar/42. The Strong Wind’s Roar_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "43. The Gentle Touch of Dawn",
       "title": "43. The Gentle Touch of Dawn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/43. The Gentle Touch of Dawn"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/43. The Gentle Touch of Dawn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/43. The Gentle Touch of Dawn/43. The Gentle Touch of Dawn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "44. The Lost Letter’s Secret",
       "title": "44. The Lost Letter’s Secret",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/44. The Lost Letter’s Secret"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/44. The Lost Letter’s Secret",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/44. The Lost Letter’s Secret/44. The Lost Letter’s Secret_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "45. The Bright Pearl’s Shine",
       "title": "45. The Bright Pearl’s Shine",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/45. The Bright Pearl’s Shine"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/45. The Bright Pearl’s Shine",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/45. The Bright Pearl’s Shine/45. The Bright Pearl’s Shine_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "46. The Silent Night’s Star",
       "title": "46. The Silent Night’s Star",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/46. The Silent Night’s Star"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/46. The Silent Night’s Star",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/46. The Silent Night’s Star/46. The Silent Night’s Star_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "47. The Happy Song of the Sea",
       "title": "47. The Happy Song of the Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/47. The Happy Song of the Sea"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/47. The Happy Song of the Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/47. The Happy Song of the Sea/47. The Happy Song of the Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "48. The Deep Valley’s Echo",
       "title": "48. The Deep Valley’s Echo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/48. The Deep Valley’s Echo"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/48. The Deep Valley’s Echo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/48. The Deep Valley’s Echo/48. The Deep Valley’s Echo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "49. The Tall Tower’s View",
       "title": "49. The Tall Tower’s View",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/49. The Tall Tower’s View"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/49. The Tall Tower’s View",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/49. The Tall Tower’s View/49. The Tall Tower’s View_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "5. The Golden Bridge at Dawn",
       "title": "5. The Golden Bridge at Dawn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/5. The Golden Bridge at Dawn"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/5. The Golden Bridge at Dawn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/5. The Golden Bridge at Dawn/5. The Golden Bridge at Dawn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "50. The Soft Feather’s Fall",
       "title": "50. The Soft Feather’s Fall",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/50. The Soft Feather’s Fall"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/50. The Soft Feather’s Fall",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/50. The Soft Feather’s Fall/50. The Soft Feather’s Fall_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "51. The Golden Sun’s Rise",
       "title": "51. The Golden Sun’s Rise",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/51. The Golden Sun’s Rise"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/51. The Golden Sun’s Rise",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/51. The Golden Sun’s Rise/51. The Golden Sun’s Rise_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "52. The Cold Ice’s Sparkle",
       "title": "52. The Cold Ice’s Sparkle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/52. The Cold Ice’s Sparkle"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/52. The Cold Ice’s Sparkle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/52. The Cold Ice’s Sparkle/52. The Cold Ice’s Sparkle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "53. The Brave Explorer’s Map",
       "title": "53. The Brave Explorer’s Map",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/53. The Brave Explorer’s Map"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/53. The Brave Explorer’s Map",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/53. The Brave Explorer’s Map/53. The Brave Explorer’s Map_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "54. The Quiet Lake’s Mirror",
       "title": "54. The Quiet Lake’s Mirror",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/54. The Quiet Lake’s Mirror"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/54. The Quiet Lake’s Mirror",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/54. The Quiet Lake’s Mirror/54. The Quiet Lake’s Mirror_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "55. The Little Lamb’s Play",
       "title": "55. The Little Lamb’s Play",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/55. The Little Lamb’s Play"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/55. The Little Lamb’s Play",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/55. The Little Lamb’s Play/55. The Little Lamb’s Play_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "56. The Old Tree’s Roots",
       "title": "56. The Old Tree’s Roots",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/56. The Old Tree’s Roots"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/56. The Old Tree’s Roots",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/56. The Old Tree’s Roots/56. The Old Tree’s Roots_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "57. The Bright Rainbow’s End",
       "title": "57. The Bright Rainbow’s End",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/57. The Bright Rainbow’s End"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/57. The Bright Rainbow’s End",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/57. The Bright Rainbow’s End/57. The Bright Rainbow’s End_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "58. The Dark Storm’s Eye",
       "title": "58. The Dark Storm’s Eye",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/58. The Dark Storm’s Eye"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/58. The Dark Storm’s Eye",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/58. The Dark Storm’s Eye/58. The Dark Storm’s Eye_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "59. The Sweet Honey’s Taste",
       "title": "59. The Sweet Honey’s Taste",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/59. The Sweet Honey’s Taste"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/59. The Sweet Honey’s Taste",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/59. The Sweet Honey’s Taste/59. The Sweet Honey’s Taste_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "6. The Silent River Flows",
       "title": "6. The Silent River Flows",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/6. The Silent River Flows"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/6. The Silent River Flows",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/6. The Silent River Flows/6. The Silent River Flows_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "60. The Wide Sky’s Blue",
       "title": "60. The Wide Sky’s Blue",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/60. The Wide Sky’s Blue"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/60. The Wide Sky’s Blue",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/60. The Wide Sky’s Blue/60. The Wide Sky’s Blue_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "61. The Strong Bridge’s Arch",
       "title": "61. The Strong Bridge’s Arch",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/61. The Strong Bridge’s Arch"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/61. The Strong Bridge’s Arch",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/61. The Strong Bridge’s Arch/61. The Strong Bridge’s Arch_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "62. The Gentle River’s Song",
       "title": "62. The Gentle River’s Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/62. The Gentle River’s Song"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/62. The Gentle River’s Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/62. The Gentle River’s Song/62. The Gentle River’s Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "63. The Happy Bird’s Nest",
       "title": "63. The Happy Bird’s Nest",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/63. The Happy Bird’s Nest"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/63. The Happy Bird’s Nest",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/63. The Happy Bird’s Nest/63. The Happy Bird’s Nest_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "64. The Lost Coin’s Worth",
       "title": "64. The Lost Coin’s Worth",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/64. The Lost Coin’s Worth"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/64. The Lost Coin’s Worth",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/64. The Lost Coin’s Worth/64. The Lost Coin’s Worth_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "65. The Bright Candle’s Light",
       "title": "65. The Bright Candle’s Light",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/65. The Bright Candle’s Light"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/65. The Bright Candle’s Light",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/65. The Bright Candle’s Light/65. The Bright Candle’s Light_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "66. The Silent Snow’s Blanket",
       "title": "66. The Silent Snow’s Blanket",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/66. The Silent Snow’s Blanket"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/66. The Silent Snow’s Blanket",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/66. The Silent Snow’s Blanket/66. The Silent Snow’s Blanket_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "67. The Young Girl’s Wish",
       "title": "67. The Young Girl’s Wish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/67. The Young Girl’s Wish"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/67. The Young Girl’s Wish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/67. The Young Girl’s Wish/67. The Young Girl’s Wish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "68. The Old Man’s Wisdom",
       "title": "68. The Old Man’s Wisdom",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/68. The Old Man’s Wisdom"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/68. The Old Man’s Wisdom",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/68. The Old Man’s Wisdom/68. The Old Man’s Wisdom_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "69. The Golden Grain’s Harvest",
       "title": "69. The Golden Grain’s Harvest",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/69. The Golden Grain’s Harvest"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/69. The Golden Grain’s Harvest",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/69. The Golden Grain’s Harvest/69. The Golden Grain’s Harvest_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "7. The Secret Garden of Dreams",
       "title": "7. The Secret Garden of Dreams",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/7. The Secret Garden of Dreams"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/7. The Secret Garden of Dreams",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/7. The Secret Garden of Dreams/7. The Secret Garden of Dreams_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "70. The Deep Well’s Water",
       "title": "70. The Deep Well’s Water",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/70. The Deep Well’s Water"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/70. The Deep Well’s Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/70. The Deep Well’s Water/70. The Deep Well’s Water_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "71. The Tall Grass’s Sway",
       "title": "71. The Tall Grass’s Sway",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/71. The Tall Grass’s Sway"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/71. The Tall Grass’s Sway",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/71. The Tall Grass’s Sway/71. The Tall Grass’s Sway_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "72. The Soft Cloud’s Drift",
       "title": "72. The Soft Cloud’s Drift",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/72. The Soft Cloud’s Drift"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/72. The Soft Cloud’s Drift",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/72. The Soft Cloud’s Drift/72. The Soft Cloud’s Drift_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "73. The Brave Soldier’s March",
       "title": "73. The Brave Soldier’s March",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/73. The Brave Soldier’s March"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/73. The Brave Soldier’s March",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/73. The Brave Soldier’s March/73. The Brave Soldier’s March_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "74. The Quiet Village’s Bell",
       "title": "74. The Quiet Village’s Bell",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/74. The Quiet Village’s Bell"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/74. The Quiet Village’s Bell",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/74. The Quiet Village’s Bell/74. The Quiet Village’s Bell_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "75. The Little Star’s Twinkle",
       "title": "75. The Little Star’s Twinkle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/75. The Little Star’s Twinkle"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/75. The Little Star’s Twinkle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/75. The Little Star’s Twinkle/75. The Little Star’s Twinkle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "76. The Fast Horse’s Gallop",
       "title": "76. The Fast Horse’s Gallop",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/76. The Fast Horse’s Gallop"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/76. The Fast Horse’s Gallop",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/76. The Fast Horse’s Gallop/76. The Fast Horse’s Gallop_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "77. The Bright Moon’s Reflection",
       "title": "77. The Bright Moon’s Reflection",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/77. The Bright Moon’s Reflection"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/77. The Bright Moon’s Reflection",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/77. The Bright Moon’s Reflection/77. The Bright Moon’s Reflection_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "78. The Dark Night’s Dream",
       "title": "78. The Dark Night’s Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/78. The Dark Night’s Dream"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/78. The Dark Night’s Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/78. The Dark Night’s Dream/78. The Dark Night’s Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "79. The Sweet Rose’s Thorn",
       "title": "79. The Sweet Rose’s Thorn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/79. The Sweet Rose’s Thorn"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/79. The Sweet Rose’s Thorn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/79. The Sweet Rose’s Thorn/79. The Sweet Rose’s Thorn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "8. The Gentle Wind’s Whisper",
       "title": "8. The Gentle Wind’s Whisper",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/8. The Gentle Wind’s Whisper"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/8. The Gentle Wind’s Whisper",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/8. The Gentle Wind’s Whisper/8. The Gentle Wind’s Whisper_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "80. The Wide Road’s Bend",
       "title": "80. The Wide Road’s Bend",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/80. The Wide Road’s Bend"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/80. The Wide Road’s Bend",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/80. The Wide Road’s Bend/80. The Wide Road’s Bend_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "81. The Strong Oak’s Branch",
       "title": "81. The Strong Oak’s Branch",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/81. The Strong Oak’s Branch"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/81. The Strong Oak’s Branch",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/81. The Strong Oak’s Branch/81. The Strong Oak’s Branch_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "82. The Gentle Breeze’s Kiss",
       "title": "82. The Gentle Breeze’s Kiss",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/82. The Gentle Breeze’s Kiss"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/82. The Gentle Breeze’s Kiss",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/82. The Gentle Breeze’s Kiss/82. The Gentle Breeze’s Kiss_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "83. The Happy Puppy’s Tail",
       "title": "83. The Happy Puppy’s Tail",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/83. The Happy Puppy’s Tail"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/83. The Happy Puppy’s Tail",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/83. The Happy Puppy’s Tail/83. The Happy Puppy’s Tail_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "84. The Lost Time’s Memory",
       "title": "84. The Lost Time’s Memory",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/84. The Lost Time’s Memory"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/84. The Lost Time’s Memory",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/84. The Lost Time’s Memory/84. The Lost Time’s Memory_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "85. The Bright Diamond’s Glow",
       "title": "85. The Bright Diamond’s Glow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/85. The Bright Diamond’s Glow"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/85. The Bright Diamond’s Glow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/85. The Bright Diamond’s Glow/85. The Bright Diamond’s Glow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "86. The Silent Cave’s Whisper",
       "title": "86. The Silent Cave’s Whisper",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/86. The Silent Cave’s Whisper"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/86. The Silent Cave’s Whisper",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/86. The Silent Cave’s Whisper/86. The Silent Cave’s Whisper_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "87. The Young King’s Crown",
       "title": "87. The Young King’s Crown",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/87. The Young King’s Crown"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/87. The Young King’s Crown",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/87. The Young King’s Crown/87. The Young King’s Crown_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "88. The Old Castle’s Wall",
       "title": "88. The Old Castle’s Wall",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/88. The Old Castle’s Wall"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/88. The Old Castle’s Wall",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/88. The Old Castle’s Wall/88. The Old Castle’s Wall_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "89. The Golden Key’s Door",
       "title": "89. The Golden Key’s Door",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/89. The Golden Key’s Door"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/89. The Golden Key’s Door",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/89. The Golden Key’s Door/89. The Golden Key’s Door_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "9. The Bright Star Above the Hill",
       "title": "9. The Bright Star Above the Hill",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/9. The Bright Star Above the Hill"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/9. The Bright Star Above the Hill",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/9. The Bright Star Above the Hill/9. The Bright Star Above the Hill_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "90. The Deep Ocean’s Floor",
       "title": "90. The Deep Ocean’s Floor",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/90. The Deep Ocean’s Floor"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/90. The Deep Ocean’s Floor",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/90. The Deep Ocean’s Floor/90. The Deep Ocean’s Floor_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "91. The Tall Pine’s Needle",
       "title": "91. The Tall Pine’s Needle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/91. The Tall Pine’s Needle"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/91. The Tall Pine’s Needle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/91. The Tall Pine’s Needle/91. The Tall Pine’s Needle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "92. The Soft Sand’s Grain",
       "title": "92. The Soft Sand’s Grain",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/92. The Soft Sand’s Grain"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/92. The Soft Sand’s Grain",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/92. The Soft Sand’s Grain/92. The Soft Sand’s Grain_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "93. The Brave Heart’s Courage",
       "title": "93. The Brave Heart’s Courage",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/93. The Brave Heart’s Courage"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/93. The Brave Heart’s Courage",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/93. The Brave Heart’s Courage/93. The Brave Heart’s Courage_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "94. The Quiet Path’s End",
       "title": "94. The Quiet Path’s End",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/94. The Quiet Path’s End"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/94. The Quiet Path’s End",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/94. The Quiet Path’s End/94. The Quiet Path’s End_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "95. The Little Lamb’s Wool",
       "title": "95. The Little Lamb’s Wool",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/95. The Little Lamb’s Wool"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/95. The Little Lamb’s Wool",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/95. The Little Lamb’s Wool/95. The Little Lamb’s Wool_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "96. The Bright Fire’s Warmth",
       "title": "96. The Bright Fire’s Warmth",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/96. The Bright Fire’s Warmth"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/96. The Bright Fire’s Warmth",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/96. The Bright Fire’s Warmth/96. The Bright Fire’s Warmth_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "97. The Dark Wood’s Path",
       "title": "97. The Dark Wood’s Path",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/97. The Dark Wood’s Path"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/97. The Dark Wood’s Path",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/97. The Dark Wood’s Path/97. The Dark Wood’s Path_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "98. The Sweet Fruit’s Juice",
       "title": "98. The Sweet Fruit’s Juice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/98. The Sweet Fruit’s Juice"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/98. The Sweet Fruit’s Juice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/98. The Sweet Fruit’s Juice/98. The Sweet Fruit’s Juice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "99. The Wide Valley’s Peace",
       "title": "99. The Wide Valley’s Peace",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/99. The Wide Valley’s Peace"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/99. The Wide Valley’s Peace",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/99. The Wide Valley’s Peace/99. The Wide Valley’s Peace_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "A Christmas Carol's Ghostly Chime",
       "title": "A Christmas Carol's Ghostly Chime",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/A Christmas Carol's Ghostly Chime"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/A Christmas Carol's Ghostly Chime",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/A Christmas Carol's Ghostly Chime/A Christmas Carol's Ghostly Chime_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "A Midsummer Night’s Forest Dance",
       "title": "A Midsummer Night’s Forest Dance",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/A Midsummer Night’s Forest Dance"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/A Midsummer Night’s Forest Dance",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/A Midsummer Night’s Forest Dance/A Midsummer Night’s Forest Dance_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "A Visit from St. Nicholas’ Sleigh",
       "title": "A Visit from St. Nicholas’ Sleigh",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/A Visit from St. Nicholas’ Sleigh"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/A Visit from St. Nicholas’ Sleigh",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/A Visit from St. Nicholas’ Sleigh/A Visit from St. Nicholas’ Sleigh_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ali Baba and the Forty Thieves",
       "title": "Ali Baba and the Forty Thieves",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Ali Baba and the Forty Thieves"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Ali Baba and the Forty Thieves",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Ali Baba and the Forty Thieves/Ali Baba and the Forty Thieves_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Alice's Tea Party",
       "title": "Alice's Tea Party",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Alice's Tea Party"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Alice's Tea Party",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Alice's Tea Party/Alice's Tea Party_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ariel Sings the Storm to Sleep",
       "title": "Ariel Sings the Storm to Sleep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Ariel Sings the Storm to Sleep"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Ariel Sings the Storm to Sleep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Ariel Sings the Storm to Sleep/Ariel Sings the Storm to Sleep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Athena's Weaving Challenge",
       "title": "Athena's Weaving Challenge",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Athena's Weaving Challenge"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Athena's Weaving Challenge",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Athena's Weaving Challenge/Athena's Weaving Challenge_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Babe the Blue Ox’s Footprint",
       "title": "Babe the Blue Ox’s Footprint",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Babe the Blue Ox’s Footprint"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Babe the Blue Ox’s Footprint",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Babe the Blue Ox’s Footprint/Babe the Blue Ox’s Footprint_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Bambi and the Forest King",
       "title": "Bambi and the Forest King",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Bambi and the Forest King"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Bambi and the Forest King",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Bambi and the Forest King/Bambi and the Forest King_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Be Brave",
       "title": "Be Brave",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Be Brave"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Be Brave",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Be Brave/Be Brave_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Believe",
       "title": "Believe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Believe"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Believe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Believe/Believe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Benjamin Bunny's Brave Return",
       "title": "Benjamin Bunny's Brave Return",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Benjamin Bunny's Brave Return"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Benjamin Bunny's Brave Return",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Benjamin Bunny's Brave Return/Benjamin Bunny's Brave Return_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Bifrost’s Rainbow Gleam",
       "title": "Bifrost’s Rainbow Gleam",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Bifrost’s Rainbow Gleam"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Bifrost’s Rainbow Gleam",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Bifrost’s Rainbow Gleam/Bifrost’s Rainbow Gleam_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Break Through",
       "title": "Break Through",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Break Through"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Break Through",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Break Through/Break Through_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Carry On",
       "title": "Carry On",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Carry On"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Carry On",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Carry On/Carry On_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Charlotte's Web of Words",
       "title": "Charlotte's Web of Words",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Charlotte's Web of Words"
-    },
-    {
-      "entry_id": "Dick Whittington’s Cat of Gold",
-      "title": "Dick Whittington’s Cat of Gold",
-      "structure_type": "standalone",
-      "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Dick Whittington’s Cat of Gold"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Charlotte's Web of Words",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Charlotte's Web of Words/Charlotte's Web of Words_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Dream Big",
       "title": "Dream Big",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Dream Big"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Dream Big",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Dream Big/Dream Big_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Echo and the Proud Narcissus",
       "title": "Echo and the Proud Narcissus",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Echo and the Proud Narcissus"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Echo and the Proud Narcissus",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Echo and the Proud Narcissus/Echo and the Proud Narcissus_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Elf Workshop in the Night",
       "title": "Elf Workshop in the Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Elf Workshop in the Night"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Elf Workshop in the Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Elf Workshop in the Night/Elf Workshop in the Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Find Your Way",
       "title": "Find Your Way",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Find Your Way"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Find Your Way",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Find Your Way/Find Your Way_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fisherman’s Wish",
       "title": "Fisherman’s Wish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Fisherman’s Wish"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Fisherman’s Wish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Fisherman’s Wish/Fisherman’s Wish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fly High",
       "title": "Fly High",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Fly High"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Fly High",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Fly High/Fly High_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Follow Your Heart",
       "title": "Follow Your Heart",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Follow Your Heart"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Follow Your Heart",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Follow Your Heart/Follow Your Heart_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Freya’s Golden Tears",
       "title": "Freya’s Golden Tears",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Freya’s Golden Tears"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Freya’s Golden Tears",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Freya’s Golden Tears/Freya’s Golden Tears_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Gingerbread House Trail",
       "title": "Gingerbread House Trail",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Gingerbread House Trail"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Gingerbread House Trail",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Gingerbread House Trail/Gingerbread House Trail_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Hamlet’s Ghost in the Castle",
       "title": "Hamlet’s Ghost in the Castle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Hamlet’s Ghost in the Castle"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Hamlet’s Ghost in the Castle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Hamlet’s Ghost in the Castle/Hamlet’s Ghost in the Castle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Heimdall’s Horn at Dawn",
       "title": "Heimdall’s Horn at Dawn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Heimdall’s Horn at Dawn"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Heimdall’s Horn at Dawn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Heimdall’s Horn at Dawn/Heimdall’s Horn at Dawn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Hercules and the Twelve Labors",
       "title": "Hercules and the Twelve Labors",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Hercules and the Twelve Labors"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Hercules and the Twelve Labors",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Hercules and the Twelve Labors/Hercules and the Twelve Labors_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Hold On",
       "title": "Hold On",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Hold On"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Hold On",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Hold On/Hold On_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Hood and the Wolf",
       "title": "Hood and the Wolf",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Hood and the Wolf"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Hood and the Wolf",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Hood and the Wolf/Hood and the Wolf_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Icarus Flying Too High",
       "title": "Icarus Flying Too High",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Icarus Flying Too High"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Icarus Flying Too High",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Icarus Flying Too High/Icarus Flying Too High_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Jabberwocky’s Vorpal Sword",
       "title": "Jabberwocky’s Vorpal Sword",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Jabberwocky’s Vorpal Sword"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Jabberwocky’s Vorpal Sword",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Jabberwocky’s Vorpal Sword/Jabberwocky’s Vorpal Sword_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Jack and Jill’s Rainy Hill",
       "title": "Jack and Jill’s Rainy Hill",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Jack and Jill’s Rainy Hill"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Jack and Jill’s Rainy Hill",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Jack and Jill’s Rainy Hill/Jack and Jill’s Rainy Hill_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Jack and the Beanstalk’s Climb",
       "title": "Jack and the Beanstalk’s Climb",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Jack and the Beanstalk’s Climb"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Jack and the Beanstalk’s Climb",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Jack and the Beanstalk’s Climb/Jack and the Beanstalk’s Climb_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Jemima Puddle-Duck's Secret Nest",
       "title": "Jemima Puddle-Duck's Secret Nest",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Jemima Puddle-Duck's Secret Nest"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Jemima Puddle-Duck's Secret Nest",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Jemima Puddle-Duck's Secret Nest/Jemima Puddle-Duck's Secret Nest_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Johnny Appleseed’s Orchard Dream",
       "title": "Johnny Appleseed’s Orchard Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Johnny Appleseed’s Orchard Dream"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Johnny Appleseed’s Orchard Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Johnny Appleseed’s Orchard Dream/Johnny Appleseed’s Orchard Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Juliet’s Balcony Dream",
       "title": "Juliet’s Balcony Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Juliet’s Balcony Dream"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Juliet’s Balcony Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Juliet’s Balcony Dream/Juliet’s Balcony Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Keep Moving",
       "title": "Keep Moving",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Keep Moving"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Keep Moving",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Keep Moving/Keep Moving_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Kong Rong’s Pear of Kindness",
       "title": "Kong Rong’s Pear of Kindness",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Kong Rong’s Pear of Kindness"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Kong Rong’s Pear of Kindness",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Kong Rong’s Pear of Kindness/Kong Rong’s Pear of Kindness_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Let It Go",
       "title": "Let It Go",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Let It Go"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Let It Go",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Let It Go/Let It Go_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Loki’s Tangled Tongue",
       "title": "Loki’s Tangled Tongue",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Loki’s Tangled Tongue"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Loki’s Tangled Tongue",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Loki’s Tangled Tongue/Loki’s Tangled Tongue_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mother Holle’s Feathers",
       "title": "Mother Holle’s Feathers",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Mother Holle’s Feathers"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Mother Holle’s Feathers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Mother Holle’s Feathers/Mother Holle’s Feathers_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mr. Tod's Sly Old Tracks",
       "title": "Mr. Tod's Sly Old Tracks",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Mr. Tod's Sly Old Tracks"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Mr. Tod's Sly Old Tracks",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Mr. Tod's Sly Old Tracks/Mr. Tod's Sly Old Tracks_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mrs. Tiggy-Winkle’s Lost Laundry",
       "title": "Mrs. Tiggy-Winkle’s Lost Laundry",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Mrs. Tiggy-Winkle’s Lost Laundry"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Mrs. Tiggy-Winkle’s Lost Laundry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Mrs. Tiggy-Winkle’s Lost Laundry/Mrs. Tiggy-Winkle’s Lost Laundry_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mulan’s Armor of Courage",
       "title": "Mulan’s Armor of Courage",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Mulan’s Armor of Courage"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Mulan’s Armor of Courage",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Mulan’s Armor of Courage/Mulan’s Armor of Courage_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "New Beginning",
       "title": "New Beginning",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/New Beginning"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/New Beginning",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/New Beginning/New Beginning_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Oberon’s Flower of Love",
       "title": "Oberon’s Flower of Love",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Oberon’s Flower of Love"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Oberon’s Flower of Love",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Oberon’s Flower of Love/Oberon’s Flower of Love_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Odin’s One Eye Watches",
       "title": "Odin’s One Eye Watches",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Odin’s One Eye Watches"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Odin’s One Eye Watches",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Odin’s One Eye Watches/Odin’s One Eye Watches_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Odysseus and the Cyclops Cave",
       "title": "Odysseus and the Cyclops Cave",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Odysseus and the Cyclops Cave"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Odysseus and the Cyclops Cave",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Odysseus and the Cyclops Cave/Odysseus and the Cyclops Cave_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "One Step at a Time",
       "title": "One Step at a Time",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/One Step at a Time"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/One Step at a Time",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/One Step at a Time/One Step at a Time_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Orpheus Sings for Eurydice",
       "title": "Orpheus Sings for Eurydice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Orpheus Sings for Eurydice"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Orpheus Sings for Eurydice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Orpheus Sings for Eurydice/Orpheus Sings for Eurydice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Pandora's Little Box of Hope",
       "title": "Pandora's Little Box of Hope",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Pandora's Little Box of Hope"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Pandora's Little Box of Hope",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Pandora's Little Box of Hope/Pandora's Little Box of Hope_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Paul Bunyan Carves the Lakes",
       "title": "Paul Bunyan Carves the Lakes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Paul Bunyan Carves the Lakes"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Paul Bunyan Carves the Lakes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Paul Bunyan Carves the Lakes/Paul Bunyan Carves the Lakes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Pecos Bill Lassoes the Moon",
       "title": "Pecos Bill Lassoes the Moon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Pecos Bill Lassoes the Moon"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Pecos Bill Lassoes the Moon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Pecos Bill Lassoes the Moon/Pecos Bill Lassoes the Moon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Perseus and the Gorgon's Gaze",
       "title": "Perseus and the Gorgon's Gaze",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Perseus and the Gorgon's Gaze"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Perseus and the Gorgon's Gaze",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Perseus and the Gorgon's Gaze/Perseus and the Gorgon's Gaze_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Peter Pan's Shadow Song",
       "title": "Peter Pan's Shadow Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Peter Pan's Shadow Song"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Peter Pan's Shadow Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Peter Pan's Shadow Song/Peter Pan's Shadow Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Pigling Bland’s Escape to the Hills",
       "title": "Pigling Bland’s Escape to the Hills",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Pigling Bland’s Escape to the Hills"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Pigling Bland’s Escape to the Hills",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Pigling Bland’s Escape to the Hills/Pigling Bland’s Escape to the Hills_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Pinocchio's Wooden Heart",
       "title": "Pinocchio's Wooden Heart",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Pinocchio's Wooden Heart"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Pinocchio's Wooden Heart",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Pinocchio's Wooden Heart/Pinocchio's Wooden Heart_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Portia’s Casket Choice",
       "title": "Portia’s Casket Choice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Portia’s Casket Choice"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Portia’s Casket Choice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Portia’s Casket Choice/Portia’s Casket Choice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Prometheus and the Stolen Fire",
       "title": "Prometheus and the Stolen Fire",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Prometheus and the Stolen Fire"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Prometheus and the Stolen Fire",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Prometheus and the Stolen Fire/Prometheus and the Stolen Fire_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Prospero’s Waves of Wonder",
       "title": "Prospero’s Waves of Wonder",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Prospero’s Waves of Wonder"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Prospero’s Waves of Wonder",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Prospero’s Waves of Wonder/Prospero’s Waves of Wonder_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Puck’s Mischief in the Wood",
       "title": "Puck’s Mischief in the Wood",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Puck’s Mischief in the Wood"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Puck’s Mischief in the Wood",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Puck’s Mischief in the Wood/Puck’s Mischief in the Wood_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Puss in Boots and the Clever Cat",
       "title": "Puss in Boots and the Clever Cat",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Puss in Boots and the Clever Cat"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Puss in Boots and the Clever Cat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Puss in Boots and the Clever Cat/Puss in Boots and the Clever Cat_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ragnarök’s Final Thunder",
       "title": "Ragnarök’s Final Thunder",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Ragnarök’s Final Thunder"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Ragnarök’s Final Thunder",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Ragnarök’s Final Thunder/Ragnarök’s Final Thunder_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rapunzel’s Golden Stair",
       "title": "Rapunzel’s Golden Stair",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Rapunzel’s Golden Stair"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Rapunzel’s Golden Stair",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Rapunzel’s Golden Stair/Rapunzel’s Golden Stair_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rip Van Winkle’s Forgotten Town",
       "title": "Rip Van Winkle’s Forgotten Town",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Rip Van Winkle’s Forgotten Town"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Rip Van Winkle’s Forgotten Town",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Rip Van Winkle’s Forgotten Town/Rip Van Winkle’s Forgotten Town_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rise and Shine",
       "title": "Rise and Shine",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Rise and Shine"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Rise and Shine",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Rise and Shine/Rise and Shine_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Robin Hood’s Merry Band",
       "title": "Robin Hood’s Merry Band",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Robin Hood’s Merry Band"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Robin Hood’s Merry Band",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Robin Hood’s Merry Band/Robin Hood’s Merry Band_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Romeo’s Midnight Star",
       "title": "Romeo’s Midnight Star",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Romeo’s Midnight Star"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Romeo’s Midnight Star",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Romeo’s Midnight Star/Romeo’s Midnight Star_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rumpelstiltskin’s Name Game",
       "title": "Rumpelstiltskin’s Name Game",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Rumpelstiltskin’s Name Game"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Rumpelstiltskin’s Name Game",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Rumpelstiltskin’s Name Game/Rumpelstiltskin’s Name Game_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Samuel Whiskers’ Rolling Pin Chase",
       "title": "Samuel Whiskers’ Rolling Pin Chase",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Samuel Whiskers’ Rolling Pin Chase"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Samuel Whiskers’ Rolling Pin Chase",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Samuel Whiskers’ Rolling Pin Chase/Samuel Whiskers’ Rolling Pin Chase_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Seven Dwarfs’ Lullaby",
       "title": "Seven Dwarfs’ Lullaby",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Seven Dwarfs’ Lullaby"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Seven Dwarfs’ Lullaby",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Seven Dwarfs’ Lullaby/Seven Dwarfs’ Lullaby_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Shine Bright",
       "title": "Shine Bright",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Shine Bright"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Shine Bright",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Shine Bright/Shine Bright_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Shipwrecked on Prospero’s Shore",
       "title": "Shipwrecked on Prospero’s Shore",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Shipwrecked on Prospero’s Shore"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Shipwrecked on Prospero’s Shore",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Shipwrecked on Prospero’s Shore/Shipwrecked on Prospero’s Shore_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Shylock’s Pound of Flesh",
       "title": "Shylock’s Pound of Flesh",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Shylock’s Pound of Flesh"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Shylock’s Pound of Flesh",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Shylock’s Pound of Flesh/Shylock’s Pound of Flesh_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Sinbad's Seven Voyages",
       "title": "Sinbad's Seven Voyages",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Sinbad's Seven Voyages"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Sinbad's Seven Voyages",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Sinbad's Seven Voyages/Sinbad's Seven Voyages_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Six Swans in the Sky",
       "title": "Six Swans in the Sky",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Six Swans in the Sky"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Six Swans in the Sky",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Six Swans in the Sky/Six Swans in the Sky_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Sleepy Hollow’s Shadow Dance",
       "title": "Sleepy Hollow’s Shadow Dance",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Sleepy Hollow’s Shadow Dance"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Sleepy Hollow’s Shadow Dance",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Sleepy Hollow’s Shadow Dance/Sleepy Hollow’s Shadow Dance_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Squirrel Nutkin's Riddle Dance",
       "title": "Squirrel Nutkin's Riddle Dance",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Squirrel Nutkin's Riddle Dance"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Squirrel Nutkin's Riddle Dance",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Squirrel Nutkin's Riddle Dance/Squirrel Nutkin's Riddle Dance_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Stand Tall",
       "title": "Stand Tall",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Stand Tall"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Stand Tall",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Stand Tall/Stand Tall_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Start Again",
       "title": "Start Again",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Start Again"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Start Again",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Start Again/Start Again_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Take Flight",
       "title": "Take Flight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Take Flight"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Take Flight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Take Flight/Take Flight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Ant and the Grasshopper",
       "title": "The Ant and the Grasshopper",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Ant and the Grasshopper"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Ant and the Grasshopper",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Ant and the Grasshopper/The Ant and the Grasshopper_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Baker’s Twelve Loaves of Dawn",
       "title": "The Baker’s Twelve Loaves of Dawn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Baker’s Twelve Loaves of Dawn"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Baker’s Twelve Loaves of Dawn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Baker’s Twelve Loaves of Dawn/The Baker’s Twelve Loaves of Dawn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Bell That Rings in the Deep",
       "title": "The Bell That Rings in the Deep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Bell That Rings in the Deep"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Bell That Rings in the Deep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Bell That Rings in the Deep/The Bell That Rings in the Deep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Boy Who Cried Wolf",
       "title": "The Boy Who Cried Wolf",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Boy Who Cried Wolf"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Boy Who Cried Wolf",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Boy Who Cried Wolf/The Boy Who Cried Wolf_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Brave Knight and the Dragon’s Lair",
       "title": "The Brave Knight and the Dragon’s Lair",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Brave Knight and the Dragon’s Lair"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Brave Knight and the Dragon’s Lair",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Brave Knight and the Dragon’s Lair/The Brave Knight and the Dragon’s Lair_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Brave Little Stitch of the Forest",
       "title": "The Brave Little Stitch of the Forest",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Brave Little Stitch of the Forest"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Brave Little Stitch of the Forest",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Brave Little Stitch of the Forest/The Brave Little Stitch of the Forest_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Bridge That Fell at Dawn",
       "title": "The Bridge That Fell at Dawn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Bridge That Fell at Dawn"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Bridge That Fell at Dawn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Bridge That Fell at Dawn/The Bridge That Fell at Dawn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Bundle of Sticks That Would Not Break",
       "title": "The Bundle of Sticks That Would Not Break",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Bundle of Sticks That Would Not Break"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Bundle of Sticks That Would Not Break",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Bundle of Sticks That Would Not Break/The Bundle of Sticks That Would Not Break_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The City Mouse and Country Mouse",
       "title": "The City Mouse and Country Mouse",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The City Mouse and Country Mouse"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The City Mouse and Country Mouse",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The City Mouse and Country Mouse/The City Mouse and Country Mouse_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Clock That Ran Up the Hill",
       "title": "The Clock That Ran Up the Hill",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Clock That Ran Up the Hill"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Clock That Ran Up the Hill",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Clock That Ran Up the Hill/The Clock That Ran Up the Hill_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Crow and the Pitcher",
       "title": "The Crow and the Pitcher",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Crow and the Pitcher"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Crow and the Pitcher",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Crow and the Pitcher/The Crow and the Pitcher_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Cyclone and the Cowboy’s Grip",
       "title": "The Cyclone and the Cowboy’s Grip",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Cyclone and the Cowboy’s Grip"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Cyclone and the Cowboy’s Grip",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Cyclone and the Cowboy’s Grip/The Cyclone and the Cowboy’s Grip_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Dish and the Moonlit Spoon",
       "title": "The Dish and the Moonlit Spoon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Dish and the Moonlit Spoon"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Dish and the Moonlit Spoon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Dish and the Moonlit Spoon/The Dish and the Moonlit Spoon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Dog and His Reflection",
       "title": "The Dog and His Reflection",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Dog and His Reflection"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Dog and His Reflection",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Dog and His Reflection/The Dog and His Reflection_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Dragon’s Pearl of the River",
       "title": "The Dragon’s Pearl of the River",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Dragon’s Pearl of the River"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Dragon’s Pearl of the River",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Dragon’s Pearl of the River/The Dragon’s Pearl of the River_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Duke’s Lost Daughter",
       "title": "The Duke’s Lost Daughter",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Duke’s Lost Daughter"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Duke’s Lost Daughter",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Duke’s Lost Daughter/The Duke’s Lost Daughter_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Duke’s Trial of Mercy",
       "title": "The Duke’s Trial of Mercy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Duke’s Trial of Mercy"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Duke’s Trial of Mercy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Duke’s Trial of Mercy/The Duke’s Trial of Mercy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Egg That Could Not Be Fixed",
       "title": "The Egg That Could Not Be Fixed",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Egg That Could Not Be Fixed"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Egg That Could Not Be Fixed",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Egg That Could Not Be Fixed/The Egg That Could Not Be Fixed_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Elves and the Shoemaker’s Stitch",
       "title": "The Elves and the Shoemaker’s Stitch",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Elves and the Shoemaker’s Stitch"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Elves and the Shoemaker’s Stitch",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Elves and the Shoemaker’s Stitch/The Elves and the Shoemaker’s Stitch_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Emperor's New Clothes",
       "title": "The Emperor's New Clothes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Emperor's New Clothes"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Emperor's New Clothes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Emperor's New Clothes/The Emperor's New Clothes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Farmer’s Noisy Barnyard",
       "title": "The Farmer’s Noisy Barnyard",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Farmer’s Noisy Barnyard"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Farmer’s Noisy Barnyard",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Farmer’s Noisy Barnyard/The Farmer’s Noisy Barnyard_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Flying Trunk",
       "title": "The Flying Trunk",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Flying Trunk"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Flying Trunk",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Flying Trunk/The Flying Trunk_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Fool and the Prince’s Crown",
       "title": "The Fool and the Prince’s Crown",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Fool and the Prince’s Crown"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Fool and the Prince’s Crown",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Fool and the Prince’s Crown/The Fool and the Prince’s Crown_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Foolish Old Man Moves the Mountain",
       "title": "The Foolish Old Man Moves the Mountain",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Foolish Old Man Moves the Mountain"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Foolish Old Man Moves the Mountain",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Foolish Old Man Moves the Mountain/The Foolish Old Man Moves the Mountain_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Fox and the Grapes",
       "title": "The Fox and the Grapes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Fox and the Grapes"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Fox and the Grapes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Fox and the Grapes/The Fox and the Grapes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Frog Prince’s Promise",
       "title": "The Frog Prince’s Promise",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Frog Prince’s Promise"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Frog Prince’s Promise",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Frog Prince’s Promise/The Frog Prince’s Promise_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Frost Giant’s Last Step",
       "title": "The Frost Giant’s Last Step",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Frost Giant’s Last Step"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Frost Giant’s Last Step",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Frost Giant’s Last Step/The Frost Giant’s Last Step_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Garden of Dancing Roses",
       "title": "The Garden of Dancing Roses",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Garden of Dancing Roses"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Garden of Dancing Roses",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Garden of Dancing Roses/The Garden of Dancing Roses_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Ghost of Elsinore",
       "title": "The Ghost of Elsinore",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Ghost of Elsinore"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Ghost of Elsinore",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Ghost of Elsinore/The Ghost of Elsinore_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Giant Paul Bunyan’s Tale",
       "title": "The Giant Paul Bunyan’s Tale",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Giant Paul Bunyan’s Tale"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Giant Paul Bunyan’s Tale",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Giant Paul Bunyan’s Tale/The Giant Paul Bunyan’s Tale_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Gingerbread Boy’s Run",
       "title": "The Gingerbread Boy’s Run",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Gingerbread Boy’s Run"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Gingerbread Boy’s Run",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Gingerbread Boy’s Run/The Gingerbread Boy’s Run_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Golden Touch of King Midas",
       "title": "The Golden Touch of King Midas",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Golden Touch of King Midas"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Golden Touch of King Midas",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Golden Touch of King Midas/The Golden Touch of King Midas_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Goose That Laid Golden Eggs",
       "title": "The Goose That Laid Golden Eggs",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Goose That Laid Golden Eggs"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Goose That Laid Golden Eggs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Goose That Laid Golden Eggs/The Goose That Laid Golden Eggs_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Great Trees of Johnny’s Song",
       "title": "The Great Trees of Johnny’s Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Great Trees of Johnny’s Song"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Great Trees of Johnny’s Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Great Trees of Johnny’s Song/The Great Trees of Johnny’s Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Great Wall of Tears and Bricks",
       "title": "The Great Wall of Tears and Bricks",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Great Wall of Tears and Bricks"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Great Wall of Tears and Bricks",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Great Wall of Tears and Bricks/The Great Wall of Tears and Bricks_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Happy Family",
       "title": "The Happy Family",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Happy Family"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Happy Family",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Happy Family/The Happy Family_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Hare’s Hasty Nap",
       "title": "The Hare’s Hasty Nap",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Hare’s Hasty Nap"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Hare’s Hasty Nap",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Hare’s Hasty Nap/The Hare’s Hasty Nap_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Jade Rabbit on the Moon",
       "title": "The Jade Rabbit on the Moon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Jade Rabbit on the Moon"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Jade Rabbit on the Moon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Jade Rabbit on the Moon/The Jade Rabbit on the Moon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Jumblies’ Sieve Sailing",
       "title": "The Jumblies’ Sieve Sailing",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Jumblies’ Sieve Sailing"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Jumblies’ Sieve Sailing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Jumblies’ Sieve Sailing/The Jumblies’ Sieve Sailing_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Jungle Book's Wild Call",
       "title": "The Jungle Book's Wild Call",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Jungle Book's Wild Call"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Jungle Book's Wild Call",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Jungle Book's Wild Call/The Jungle Book's Wild Call_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Kite That Touched the Clouds",
       "title": "The Kite That Touched the Clouds",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Kite That Touched the Clouds"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Kite That Touched the Clouds",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Kite That Touched the Clouds/The Kite That Touched the Clouds_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Lady of Shalott’s Mirror",
       "title": "The Lady of Shalott’s Mirror",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Lady of Shalott’s Mirror"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Lady of Shalott’s Mirror",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Lady of Shalott’s Mirror/The Lady of Shalott’s Mirror_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Lambton Worm’s Curled Coil",
       "title": "The Lambton Worm’s Curled Coil",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Lambton Worm’s Curled Coil"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Lambton Worm’s Curled Coil",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Lambton Worm’s Curled Coil/The Lambton Worm’s Curled Coil_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Lantern and the Lost Star",
       "title": "The Lantern and the Lost Star",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Lantern and the Lost Star"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Lantern and the Lost Star",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Lantern and the Lost Star/The Lantern and the Lost Star_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Legend of El Cid’s Battle",
       "title": "The Legend of El Cid’s Battle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Legend of El Cid’s Battle"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Legend of El Cid’s Battle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Legend of El Cid’s Battle/The Legend of El Cid’s Battle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Legend of Sleepy Hollow’s Midnight Ride",
       "title": "The Legend of Sleepy Hollow’s Midnight Ride",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Legend of Sleepy Hollow’s Midnight Ride"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Legend of Sleepy Hollow’s Midnight Ride",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Legend of Sleepy Hollow’s Midnight Ride/The Legend of Sleepy Hollow’s Midnight Ride_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Lion and the Mouse",
       "title": "The Lion and the Mouse",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Lion and the Mouse"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Lion and the Mouse",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Lion and the Mouse/The Lion and the Mouse_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Little Match Girl",
       "title": "The Little Match Girl",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Little Match Girl"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Little Match Girl",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Little Match Girl/The Little Match Girl_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Little Red Hen’s Wheat",
       "title": "The Little Red Hen’s Wheat",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Little Red Hen’s Wheat"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Little Red Hen’s Wheat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Little Red Hen’s Wheat/The Little Red Hen’s Wheat_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Lovers Lost in the Wood",
       "title": "The Lovers Lost in the Wood",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Lovers Lost in the Wood"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Lovers Lost in the Wood",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Lovers Lost in the Wood/The Lovers Lost in the Wood_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Magic Paintbrush Dreams",
       "title": "The Magic Paintbrush Dreams",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Magic Paintbrush Dreams"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Magic Paintbrush Dreams",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Magic Paintbrush Dreams/The Magic Paintbrush Dreams_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Map of the Whispering Trees",
       "title": "The Map of the Whispering Trees",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Map of the Whispering Trees"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Map of the Whispering Trees",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Map of the Whispering Trees/The Map of the Whispering Trees_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Mead of Poetry’s Secret",
       "title": "The Mead of Poetry’s Secret",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Mead of Poetry’s Secret"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Mead of Poetry’s Secret",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Mead of Poetry’s Secret/The Mead of Poetry’s Secret_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Merchant’s Bond of Gold",
       "title": "The Merchant’s Bond of Gold",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Merchant’s Bond of Gold"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Merchant’s Bond of Gold",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Merchant’s Bond of Gold/The Merchant’s Bond of Gold_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Milkmaid’s Spilled Dream",
       "title": "The Milkmaid’s Spilled Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Milkmaid’s Spilled Dream"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Milkmaid’s Spilled Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Milkmaid’s Spilled Dream/The Milkmaid’s Spilled Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Monkey King’s Cloud Ride",
       "title": "The Monkey King’s Cloud Ride",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Monkey King’s Cloud Ride"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Monkey King’s Cloud Ride",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Monkey King’s Cloud Ride/The Monkey King’s Cloud Ride_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Mouse Who Sailed a Boat",
       "title": "The Mouse Who Sailed a Boat",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Mouse Who Sailed a Boat"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Mouse Who Sailed a Boat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Mouse Who Sailed a Boat/The Mouse Who Sailed a Boat_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Nightingale",
       "title": "The Nightingale",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Nightingale"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Nightingale",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Nightingale/The Nightingale_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Oak and the Reed",
       "title": "The Oak and the Reed",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Oak and the Reed"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Oak and the Reed",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Oak and the Reed/The Oak and the Reed_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Owl and the Pussycat’s Boat",
       "title": "The Owl and the Pussycat’s Boat",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Owl and the Pussycat’s Boat"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Owl and the Pussycat’s Boat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Owl and the Pussycat’s Boat/The Owl and the Pussycat’s Boat_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Ox Who Pulled the Moon",
       "title": "The Ox Who Pulled the Moon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Ox Who Pulled the Moon"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Ox Who Pulled the Moon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Ox Who Pulled the Moon/The Ox Who Pulled the Moon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Pie and the Patty-Pan’s Tea",
       "title": "The Pie and the Patty-Pan’s Tea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Pie and the Patty-Pan’s Tea"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Pie and the Patty-Pan’s Tea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Pie and the Patty-Pan’s Tea/The Pie and the Patty-Pan’s Tea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Pied Piper's Magic Tune",
       "title": "The Pied Piper's Magic Tune",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Pied Piper's Magic Tune"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Pied Piper's Magic Tune",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Pied Piper's Magic Tune/The Pied Piper's Magic Tune_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Pitcher’s Clever Stone",
       "title": "The Pitcher’s Clever Stone",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Pitcher’s Clever Stone"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Pitcher’s Clever Stone",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Pitcher’s Clever Stone/The Pitcher’s Clever Stone_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Princess and the Pea",
       "title": "The Princess and the Pea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Princess and the Pea"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Princess and the Pea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Princess and the Pea/The Princess and the Pea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Queen of Fairies’ Dream",
       "title": "The Queen of Fairies’ Dream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Queen of Fairies’ Dream"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Queen of Fairies’ Dream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Queen of Fairies’ Dream/The Queen of Fairies’ Dream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Raggedy Man’s Whistle",
       "title": "The Raggedy Man’s Whistle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Raggedy Man’s Whistle"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Raggedy Man’s Whistle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Raggedy Man’s Whistle/The Raggedy Man’s Whistle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Reflection That Could Not Be Touched",
       "title": "The Reflection That Could Not Be Touched",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Reflection That Could Not Be Touched"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Reflection That Could Not Be Touched",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Reflection That Could Not Be Touched/The Reflection That Could Not Be Touched_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Road Ahead",
       "title": "The Road Ahead",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Road Ahead"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Road Ahead",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Road Ahead/The Road Ahead_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Sailor’s Last Knot",
       "title": "The Sailor’s Last Knot",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Sailor’s Last Knot"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Sailor’s Last Knot",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Sailor’s Last Knot/The Sailor’s Last Knot_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Selfish Giant's Garden",
       "title": "The Selfish Giant's Garden",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Selfish Giant's Garden"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Selfish Giant's Garden",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Selfish Giant's Garden/The Selfish Giant's Garden_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Serpent in the Deep",
       "title": "The Serpent in the Deep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Serpent in the Deep"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Serpent in the Deep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Serpent in the Deep/The Serpent in the Deep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Shepherd’s Lost Little Sheep",
       "title": "The Shepherd’s Lost Little Sheep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Shepherd’s Lost Little Sheep"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Shepherd’s Lost Little Sheep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Shepherd’s Lost Little Sheep/The Shepherd’s Lost Little Sheep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Ship Made of Nails",
       "title": "The Ship Made of Nails",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Ship Made of Nails"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Ship Made of Nails",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Ship Made of Nails/The Ship Made of Nails_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Shipwreck’s Secret Song",
       "title": "The Shipwreck’s Secret Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Shipwreck’s Secret Song"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Shipwreck’s Secret Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Shipwreck’s Secret Song/The Shipwreck’s Secret Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Snow Queen",
       "title": "The Snow Queen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Snow Queen"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Snow Queen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Snow Queen/The Snow Queen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Spider and the Fly’s Parlor",
       "title": "The Spider and the Fly’s Parlor",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Spider and the Fly’s Parlor"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Spider and the Fly’s Parlor",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Spider and the Fly’s Parlor/The Spider and the Fly’s Parlor_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Spindle’s Sleep",
       "title": "The Spindle’s Sleep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Spindle’s Sleep"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Spindle’s Sleep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Spindle’s Sleep/The Spindle’s Sleep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Steadfast Tin Soldier",
       "title": "The Steadfast Tin Soldier",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Steadfast Tin Soldier"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Steadfast Tin Soldier",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Steadfast Tin Soldier/The Steadfast Tin Soldier_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Stone Monkey’s First Leap",
       "title": "The Stone Monkey’s First Leap",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Stone Monkey’s First Leap"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Stone Monkey’s First Leap",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Stone Monkey’s First Leap/The Stone Monkey’s First Leap_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Storm That Brought a Kingdom",
       "title": "The Storm That Brought a Kingdom",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Storm That Brought a Kingdom"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Storm That Brought a Kingdom",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Storm That Brought a Kingdom/The Storm That Brought a Kingdom_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Sugar-Plum Tree’s Fruit",
       "title": "The Sugar-Plum Tree’s Fruit",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Sugar-Plum Tree’s Fruit"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Sugar-Plum Tree’s Fruit",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Sugar-Plum Tree’s Fruit/The Sugar-Plum Tree’s Fruit_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Sword in the Stone’s Quiet Light",
       "title": "The Sword in the Stone’s Quiet Light",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Sword in the Stone’s Quiet Light"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Sword in the Stone’s Quiet Light",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Sword in the Stone’s Quiet Light/The Sword in the Stone’s Quiet Light_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Tale of Peter Rabbit's Garden",
       "title": "The Tale of Peter Rabbit's Garden",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tale of Peter Rabbit's Garden"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tale of Peter Rabbit's Garden",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Tale of Peter Rabbit's Garden/The Tale of Peter Rabbit's Garden_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Tale of Tom Kitten’s Lost Buttons",
       "title": "The Tale of Tom Kitten’s Lost Buttons",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tale of Tom Kitten’s Lost Buttons"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tale of Tom Kitten’s Lost Buttons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Tale of Tom Kitten’s Lost Buttons/The Tale of Tom Kitten’s Lost Buttons_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Tempest's Secret Island",
       "title": "The Tempest's Secret Island",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tempest's Secret Island"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tempest's Secret Island",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Tempest's Secret Island/The Tempest's Secret Island_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Tinderbox",
       "title": "The Tinderbox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tinderbox"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tinderbox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Tinderbox/The Tinderbox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Tower of the Sunken Bell",
       "title": "The Tower of the Sunken Bell",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tower of the Sunken Bell"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tower of the Sunken Bell",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Tower of the Sunken Bell/The Tower of the Sunken Bell_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Twelve Dancing Princesses’ Night",
       "title": "The Twelve Dancing Princesses’ Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Twelve Dancing Princesses’ Night"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Twelve Dancing Princesses’ Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Twelve Dancing Princesses’ Night/The Twelve Dancing Princesses’ Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Two Bad Mice's Tea Party",
       "title": "The Two Bad Mice's Tea Party",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Two Bad Mice's Tea Party"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Two Bad Mice's Tea Party",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Two Bad Mice's Tea Party/The Two Bad Mice's Tea Party_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Tyger’s Burning Bright",
       "title": "The Tyger’s Burning Bright",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tyger’s Burning Bright"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Tyger’s Burning Bright",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Tyger’s Burning Bright/The Tyger’s Burning Bright_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Ugly Duckling",
       "title": "The Ugly Duckling",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Ugly Duckling"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Ugly Duckling",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Ugly Duckling/The Ugly Duckling_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Velveteen Rabbit's Wish",
       "title": "The Velveteen Rabbit's Wish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Velveteen Rabbit's Wish"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Velveteen Rabbit's Wish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Velveteen Rabbit's Wish/The Velveteen Rabbit's Wish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wagon That Rolled to the West",
       "title": "The Wagon That Rolled to the West",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wagon That Rolled to the West"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wagon That Rolled to the West",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Wagon That Rolled to the West/The Wagon That Rolled to the West_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Walrus and the Carpenter’s Sand",
       "title": "The Walrus and the Carpenter’s Sand",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Walrus and the Carpenter’s Sand"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Walrus and the Carpenter’s Sand",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Walrus and the Carpenter’s Sand/The Walrus and the Carpenter’s Sand_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Weaver Girl and the Cowherd",
       "title": "The Weaver Girl and the Cowherd",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Weaver Girl and the Cowherd"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Weaver Girl and the Cowherd",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Weaver Girl and the Cowherd/The Weaver Girl and the Cowherd_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Well of Wishes Deep",
       "title": "The Well of Wishes Deep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Well of Wishes Deep"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Well of Wishes Deep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Well of Wishes Deep/The Well of Wishes Deep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wild Swans",
       "title": "The Wild Swans",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wild Swans"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wild Swans",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Wild Swans/The Wild Swans_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wind and the Sun",
       "title": "The Wind and the Sun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wind and the Sun"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wind and the Sun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Wind and the Sun/The Wind and the Sun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wind in the Willows River Song",
       "title": "The Wind in the Willows River Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wind in the Willows River Song"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wind in the Willows River Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Wind in the Willows River Song/The Wind in the Willows River Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wizard of Oz's Yellow Road",
       "title": "The Wizard of Oz's Yellow Road",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wizard of Oz's Yellow Road"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wizard of Oz's Yellow Road",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Wizard of Oz's Yellow Road/The Wizard of Oz's Yellow Road_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wolf in Sheep's Clothing",
       "title": "The Wolf in Sheep's Clothing",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wolf in Sheep's Clothing"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wolf in Sheep's Clothing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Wolf in Sheep's Clothing/The Wolf in Sheep's Clothing_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wolf That Swallowed the Sun",
       "title": "The Wolf That Swallowed the Sun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wolf That Swallowed the Sun"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wolf That Swallowed the Sun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Wolf That Swallowed the Sun/The Wolf That Swallowed the Sun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "The Wooden Horse of Troy",
       "title": "The Wooden Horse of Troy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wooden Horse of Troy"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/The Wooden Horse of Troy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/The Wooden Horse of Troy/The Wooden Horse of Troy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Theseus and the Minotaur's Maze",
       "title": "Theseus and the Minotaur's Maze",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Theseus and the Minotaur's Maze"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Theseus and the Minotaur's Maze",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Theseus and the Minotaur's Maze/Theseus and the Minotaur's Maze_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Thor’s Hammer Falls Again",
       "title": "Thor’s Hammer Falls Again",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Thor’s Hammer Falls Again"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Thor’s Hammer Falls Again",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Thor’s Hammer Falls Again/Thor’s Hammer Falls Again_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Three Witches on the Heath",
       "title": "Three Witches on the Heath",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Three Witches on the Heath"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Three Witches on the Heath",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Three Witches on the Heath/Three Witches on the Heath_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Thumbelina",
       "title": "Thumbelina",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Thumbelina"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Thumbelina",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Thumbelina/Thumbelina_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Valkyries Ride the Storm",
       "title": "Valkyries Ride the Storm",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Valkyries Ride the Storm"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Valkyries Ride the Storm",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Valkyries Ride the Storm/Valkyries Ride the Storm_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Viola’s Hidden Name",
       "title": "Viola’s Hidden Name",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Viola’s Hidden Name"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Viola’s Hidden Name",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Viola’s Hidden Name/Viola’s Hidden Name_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Where Go the Boats to Fairyland",
       "title": "Where Go the Boats to Fairyland",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Where Go the Boats to Fairyland"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Where Go the Boats to Fairyland",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Where Go the Boats to Fairyland/Where Go the Boats to Fairyland_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "William Tell’s Arrow of Freedom",
       "title": "William Tell’s Arrow of Freedom",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/William Tell’s Arrow of Freedom"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/William Tell’s Arrow of Freedom",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/William Tell’s Arrow of Freedom/William Tell’s Arrow of Freedom_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Winnie the Pooh's Honey Hunt",
@@ -2102,14 +3279,22 @@
       "title": "Wynken, Blynken, and Nod’s Wooden Shoe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Wynken, Blynken, and Nod’s Wooden Shoe"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Wynken, Blynken, and Nod’s Wooden Shoe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Wynken, Blynken, and Nod’s Wooden Shoe/Wynken, Blynken, and Nod’s Wooden Shoe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Yggdrasil’s Silent Roots",
       "title": "Yggdrasil’s Silent Roots",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/英文歌曲/Yggdrasil’s Silent Roots"
+      "path": "瞎编的歌曲/大孩儿/英文歌曲/Yggdrasil’s Silent Roots",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/英文歌曲/Yggdrasil’s Silent Roots/Yggdrasil’s Silent Roots_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

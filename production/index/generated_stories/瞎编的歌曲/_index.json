@@ -4,7 +4,7 @@
   "subject_id": "瞎编的歌曲",
   "subject_name": "瞎编的歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/瞎编的歌曲.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/瞎编的歌曲.jpg",
     "cover_level": "subject"
   },
   "category_count": 43,
@@ -12,11 +12,11 @@
     {
       "id": "世界名人",
       "name": "世界名人",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 191,
+      "entry_count": 190,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/世界名人.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/世界名人.jpg",
         "cover_level": "category"
       }
     },
@@ -25,9 +25,9 @@
       "name": "书中人",
       "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 1511,
+      "entry_count": 1492,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/书中人/书中人.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/书中人/书中人.jpg",
         "cover_level": "category"
       }
     },
@@ -38,18 +38,18 @@
       "display_as": "category_card",
       "entry_count": 214,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/交通工具.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/交通工具.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "人物传记",
       "name": "人物传记",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 598,
+      "entry_count": 578,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/人物传记.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/人物传记.jpg",
         "cover_level": "category"
       }
     },
@@ -58,20 +58,20 @@
       "name": "传统文化技艺",
       "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 68,
+      "entry_count": 67,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/传统文化技艺.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统文化技艺/传统文化技艺.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "传统美德",
       "name": "传统美德",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 188,
+      "entry_count": 187,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/传统美德/传统美德.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/传统美德/传统美德.jpg",
         "cover_level": "category"
       }
     },
@@ -82,7 +82,7 @@
       "display_as": "category_card",
       "entry_count": 1523,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他类型.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他类型.jpg",
         "cover_level": "category"
       }
     },
@@ -91,42 +91,42 @@
       "name": "冥想放松",
       "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 54,
+      "entry_count": 52,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/冥想放松/冥想放松.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/冥想放松/冥想放松.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "动物世界",
       "name": "动物世界",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
       "entry_count": 401,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/动物世界.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/动物世界/动物世界.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "十万个为什么",
       "name": "十万个为什么",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
       "entry_count": 640,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/十万个为什么/十万个为什么.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/十万个为什么/十万个为什么.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "历史知识",
       "name": "历史知识",
-      "structure_type": "txt_collection",
-      "display_as": "category_card",
-      "entry_count": 434,
+      "structure_type": "multi_level",
+      "display_as": "nested_category",
+      "entry_count": 423,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/历史知识.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/历史知识.jpg",
         "cover_level": "category"
       }
     },
@@ -135,31 +135,31 @@
       "name": "名著导读",
       "structure_type": "multi_level",
       "display_as": "nested_category",
-      "entry_count": 466,
+      "entry_count": 465,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/名著导读.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/名著导读.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "品格成长",
       "name": "品格成长",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 408,
+      "entry_count": 406,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/品格成长.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/品格成长.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "地理知识",
       "name": "地理知识",
-      "structure_type": "txt_collection",
-      "display_as": "category_card",
+      "structure_type": "multi_level",
+      "display_as": "nested_category",
       "entry_count": 638,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/地理知识.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/地理知识/地理知识.jpg",
         "cover_level": "category"
       }
     },
@@ -168,9 +168,9 @@
       "name": "大孩儿",
       "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 1496,
+      "entry_count": 1493,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/大孩儿.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/大孩儿.jpg",
         "cover_level": "category"
       }
     },
@@ -181,7 +181,7 @@
       "display_as": "category_card",
       "entry_count": 76,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/安全教育.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/安全教育.jpg",
         "cover_level": "category"
       }
     },
@@ -190,9 +190,9 @@
       "name": "寓言故事",
       "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 334,
+      "entry_count": 333,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/寓言故事.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/寓言故事.jpg",
         "cover_level": "category"
       }
     },
@@ -203,7 +203,7 @@
       "display_as": "category_card",
       "entry_count": 999,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/小孩儿/小孩儿.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/小孩儿/小孩儿.jpg",
         "cover_level": "category"
       }
     },
@@ -214,7 +214,7 @@
       "display_as": "category_card",
       "entry_count": 406,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/山海经.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/山海经.jpg",
         "cover_level": "category"
       }
     },
@@ -225,18 +225,18 @@
       "display_as": "category_card",
       "entry_count": 1128,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/幼儿.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/幼儿.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "成语故事",
       "name": "成语故事",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 434,
+      "entry_count": 433,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/成语故事.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/成语故事.jpg",
         "cover_level": "category"
       }
     },
@@ -247,29 +247,29 @@
       "display_as": "category_card",
       "entry_count": 400,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/摇篮曲.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/摇篮曲.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "放声大笑",
       "name": "放声大笑",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
       "entry_count": 220,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/放声大笑.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/放声大笑.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "数学启蒙",
       "name": "数学启蒙",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
       "entry_count": 156,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/数学启蒙.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/数学启蒙.jpg",
         "cover_level": "category"
       }
     },
@@ -280,18 +280,18 @@
       "display_as": "category_card",
       "entry_count": 60,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/时间管理.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/时间管理.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "植物世界",
       "name": "植物世界",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
       "entry_count": 400,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/瞎编的歌曲.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/植物世界/植物世界.jpg",
         "cover_level": "category"
       }
     },
@@ -302,51 +302,51 @@
       "display_as": "nested_category",
       "entry_count": 232,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/民族歌曲/民族歌曲.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/民族歌曲/民族歌曲.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "生理健康",
       "name": "生理健康",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
       "entry_count": 120,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/生理健康/生理健康.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/生理健康/生理健康.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "神话故事",
       "name": "神话故事",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
       "entry_count": 334,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/神话故事/神话故事.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/神话故事/神话故事.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "科学启蒙",
       "name": "科学启蒙",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
       "entry_count": 132,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/科学启蒙.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/科学启蒙/科学启蒙.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "童话故事",
       "name": "童话故事",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
-      "entry_count": 324,
+      "entry_count": 323,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/童话故事.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/童话故事/童话故事.jpg",
         "cover_level": "category"
       }
     },
@@ -357,29 +357,29 @@
       "display_as": "category_card",
       "entry_count": 1500,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/纯音乐/纯音乐.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/纯音乐/纯音乐.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "职业认知",
       "name": "职业认知",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
       "entry_count": 211,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/职业认知/职业认知.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/职业认知/职业认知.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "自然天文",
       "name": "自然天文",
-      "structure_type": "txt_collection",
+      "structure_type": "standalone_collection",
       "display_as": "category_card",
       "entry_count": 160,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/瞎编的歌曲.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/自然天文.jpg",
         "cover_level": "category"
       }
     },
@@ -390,18 +390,18 @@
       "display_as": "category_card",
       "entry_count": 178,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/自然音效/自然音效.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然音效/自然音效.jpg",
         "cover_level": "category"
       }
     },
     {
       "id": "节日文化",
       "name": "节日文化",
-      "structure_type": "txt_collection",
-      "display_as": "category_card",
+      "structure_type": "multi_level",
+      "display_as": "nested_category",
       "entry_count": 186,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/节日文化.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/节日文化.jpg",
         "cover_level": "category"
       }
     },
@@ -412,7 +412,7 @@
       "display_as": "category_card",
       "entry_count": 176,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/英语语法/英语语法.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/英语语法/英语语法.jpg",
         "cover_level": "category"
       }
     },
@@ -423,7 +423,7 @@
       "display_as": "category_card",
       "entry_count": 195,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.jpg",
         "cover_level": "category"
       }
     },
@@ -434,7 +434,7 @@
       "display_as": "category_card",
       "entry_count": 252,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/诗词歌曲/诗词歌曲.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/诗词歌曲/诗词歌曲.jpg",
         "cover_level": "category"
       }
     },
@@ -445,7 +445,7 @@
       "display_as": "category_card",
       "entry_count": 57,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/财商启蒙.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/财商启蒙/财商启蒙.jpg",
         "cover_level": "category"
       }
     },
@@ -456,7 +456,7 @@
       "display_as": "category_card",
       "entry_count": 50,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/逻辑思维.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/逻辑思维.jpg",
         "cover_level": "category"
       }
     },
@@ -467,7 +467,7 @@
       "display_as": "category_card",
       "entry_count": 647,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/青春之歌.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/青春之歌.jpg",
         "cover_level": "category"
       }
     },
@@ -478,7 +478,7 @@
       "display_as": "category_card",
       "entry_count": 255,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/食物水果.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/食物水果.jpg",
         "cover_level": "category"
       }
     }

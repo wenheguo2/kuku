@@ -117,7 +117,7 @@ def validate(check_covers: bool):
                     cu = (e.get("cover") or {}).get("cover_image_url")
                     if cu:
                         cover_path = covers_root / cu.replace("covers/", "", 1) if cu.startswith("covers/") else covers_root / cu
-                        # cover_image_url 形如 covers/generated/{学科}/.../x.webp
+                        # cover_image_url 形如 covers/generated/{学科}/.../x.jpg（2026-07-29 起统一 jpg/png）
                         real = common.ILLUSTRATIONS_DIR / cu
                         if not real.exists():
                             warn(f"封面文件缺失: {cu}")

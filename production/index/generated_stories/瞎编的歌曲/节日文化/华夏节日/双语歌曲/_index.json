@@ -1,0 +1,477 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲",
+  "name": "双语歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/双语歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 42,
+  "entries": [
+    {
+      "entry_id": "七夕节 Qixi Festival",
+      "title": "七夕节 Qixi Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/七夕节 Qixi Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/七夕节 Qixi Festival/七夕节 Qixi Festival_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中秋吃月饼 Mid-Autumn Mooncake Feast",
+      "title": "中秋吃月饼 Mid-Autumn Mooncake Feast",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/中秋吃月饼 Mid-Autumn Mooncake Feast",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/中秋吃月饼 Mid-Autumn Mooncake Feast/中秋吃月饼 Mid-Autumn Mooncake Feast_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中秋节 Mid-Autumn Festival",
+      "title": "中秋节 Mid-Autumn Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/中秋节 Mid-Autumn Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/中秋节 Mid-Autumn Festival/中秋节 Mid-Autumn Festival_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "元宵节 Lantern Festival",
+      "title": "元宵节 Lantern Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/元宵节 Lantern Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/元宵节 Lantern Festival/元宵节 Lantern Festival_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "元宵赏灯 Lantern Festival Night Viewing",
+      "title": "元宵赏灯 Lantern Festival Night Viewing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/元宵赏灯 Lantern Festival Night Viewing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/元宵赏灯 Lantern Festival Night Viewing/元宵赏灯 Lantern Festival Night Viewing_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "冬至 Winter Solstice",
+      "title": "冬至 Winter Solstice",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/冬至 Winter Solstice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/冬至 Winter Solstice/冬至 Winter Solstice_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "冬至吃饺子 Eating dumplings at Winter Solstice",
+      "title": "冬至吃饺子 Eating dumplings at Winter Solstice",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/冬至吃饺子 Eating dumplings at Winter Solstice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/冬至吃饺子 Eating dumplings at Winter Solstice/冬至吃饺子 Eating dumplings at Winter Solstice_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "冬至节 Winter Solstice Festival",
+      "title": "冬至节 Winter Solstice Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/冬至节 Winter Solstice Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/冬至节 Winter Solstice Festival/冬至节 Winter Solstice Festival_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "夏至 Summer Solstice",
+      "title": "夏至 Summer Solstice",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/夏至 Summer Solstice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/夏至 Summer Solstice/夏至 Summer Solstice_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "大寒 Major Cold",
+      "title": "大寒 Major Cold",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/大寒 Major Cold",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/大寒 Major Cold/大寒 Major Cold_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "寒露 Cold Dew",
+      "title": "寒露 Cold Dew",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/寒露 Cold Dew",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/寒露 Cold Dew/寒露 Cold Dew_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小寒 Minor Cold",
+      "title": "小寒 Minor Cold",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/小寒 Minor Cold",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/小寒 Minor Cold/小寒 Minor Cold_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小年 Little New Year",
+      "title": "小年 Little New Year",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/小年 Little New Year",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/小年 Little New Year/小年 Little New Year_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小暑 Minor Heat",
+      "title": "小暑 Minor Heat",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/小暑 Minor Heat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/小暑 Minor Heat/小暑 Minor Heat_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小满 Grain Buds",
+      "title": "小满 Grain Buds",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/小满 Grain Buds",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/小满 Grain Buds/小满 Grain Buds_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小雪 Minor Snow",
+      "title": "小雪 Minor Snow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/小雪 Minor Snow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/小雪 Minor Snow/小雪 Minor Snow_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "惊蛰 Awakening of Insects",
+      "title": "惊蛰 Awakening of Insects",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/惊蛰 Awakening of Insects",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/惊蛰 Awakening of Insects/惊蛰 Awakening of Insects_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "春分 Spring Equinox",
+      "title": "春分 Spring Equinox",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/春分 Spring Equinox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/春分 Spring Equinox/春分 Spring Equinox_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "春节 Spring Festival",
+      "title": "春节 Spring Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/春节 Spring Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/春节 Spring Festival/春节 Spring Festival_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "春节贴春联 Spring Festival couplets pasting",
+      "title": "春节贴春联 Spring Festival couplets pasting",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/春节贴春联 Spring Festival couplets pasting",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/春节贴春联 Spring Festival couplets pasting/春节贴春联 Spring Festival couplets pasting_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "清明 Clear and Bright",
+      "title": "清明 Clear and Bright",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/清明 Clear and Bright",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/清明 Clear and Bright/清明 Clear and Bright_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "清明祭祖 Qingming Ancestor Worship",
+      "title": "清明祭祖 Qingming Ancestor Worship",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/清明祭祖 Qingming Ancestor Worship",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/清明祭祖 Qingming Ancestor Worship/清明祭祖 Qingming Ancestor Worship_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "白露 White Dew",
+      "title": "白露 White Dew",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/白露 White Dew",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/白露 White Dew/白露 White Dew_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "秋分 Autumn Equinox",
+      "title": "秋分 Autumn Equinox",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/秋分 Autumn Equinox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/秋分 Autumn Equinox/秋分 Autumn Equinox_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "立冬 Beginning of Winter",
+      "title": "立冬 Beginning of Winter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/立冬 Beginning of Winter",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/立冬 Beginning of Winter/立冬 Beginning of Winter_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "立夏 Beginning of Summer",
+      "title": "立夏 Beginning of Summer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/立夏 Beginning of Summer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/立夏 Beginning of Summer/立夏 Beginning of Summer_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "立夏 Start of Summer",
+      "title": "立夏 Start of Summer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/立夏 Start of Summer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/立夏 Start of Summer/立夏 Start of Summer_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "立春 Beginning of Spring",
+      "title": "立春 Beginning of Spring",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/立春 Beginning of Spring",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/立春 Beginning of Spring/立春 Beginning of Spring_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "立春 Start of Spring",
+      "title": "立春 Start of Spring",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/立春 Start of Spring",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/立春 Start of Spring/立春 Start of Spring_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "立秋 Beginning of Autumn",
+      "title": "立秋 Beginning of Autumn",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/立秋 Beginning of Autumn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/立秋 Beginning of Autumn/立秋 Beginning of Autumn_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "立秋 Start of Autumn",
+      "title": "立秋 Start of Autumn",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/立秋 Start of Autumn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/立秋 Start of Autumn/立秋 Start of Autumn_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "端午吃粽子 Dragon Boat Festival Zongzi",
+      "title": "端午吃粽子 Dragon Boat Festival Zongzi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/端午吃粽子 Dragon Boat Festival Zongzi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/端午吃粽子 Dragon Boat Festival Zongzi/端午吃粽子 Dragon Boat Festival Zongzi_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "端午节 Dragon Boat Festival",
+      "title": "端午节 Dragon Boat Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/端午节 Dragon Boat Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/端午节 Dragon Boat Festival/端午节 Dragon Boat Festival_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "端午赛龙舟 Dragon Boat Festival Race",
+      "title": "端午赛龙舟 Dragon Boat Festival Race",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/端午赛龙舟 Dragon Boat Festival Race",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/端午赛龙舟 Dragon Boat Festival Race/端午赛龙舟 Dragon Boat Festival Race_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "腊八节 Laba Festival",
+      "title": "腊八节 Laba Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/腊八节 Laba Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/腊八节 Laba Festival/腊八节 Laba Festival_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "芒种 Grain in Ear",
+      "title": "芒种 Grain in Ear",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/芒种 Grain in Ear",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/芒种 Grain in Ear/芒种 Grain in Ear_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "谷雨 Grain Rain",
+      "title": "谷雨 Grain Rain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/谷雨 Grain Rain",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/谷雨 Grain Rain/谷雨 Grain Rain_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "重阳节 Double Ninth Festival",
+      "title": "重阳节 Double Ninth Festival",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/重阳节 Double Ninth Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/重阳节 Double Ninth Festival/重阳节 Double Ninth Festival_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "除夕 New Year Eve",
+      "title": "除夕 New Year Eve",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/除夕 New Year Eve",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/除夕 New Year Eve/除夕 New Year Eve_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "除夕守岁 New Year's Eve vigil",
+      "title": "除夕守岁 New Year's Eve vigil",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/除夕守岁 New Year's Eve vigil",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/除夕守岁 New Year's Eve vigil/除夕守岁 New Year's Eve vigil_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "雨水 Rain Water",
+      "title": "雨水 Rain Water",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/雨水 Rain Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/雨水 Rain Water/雨水 Rain Water_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "霜降 Frost Descent",
+      "title": "霜降 Frost Descent",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/节日文化/华夏节日/双语歌曲/霜降 Frost Descent",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/华夏节日/双语歌曲/霜降 Frost Descent/霜降 Frost Descent_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

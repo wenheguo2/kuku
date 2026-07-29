@@ -1,0 +1,1225 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/放声大笑/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 110,
+  "entries": [
+    {
+      "entry_id": "中文-一觉醒来换了声音",
+      "title": "中文-一觉醒来换了声音",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-一觉醒来换了声音",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-一觉醒来换了声音/中文-一觉醒来换了声音_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-三只小猪买房子",
+      "title": "中文-三只小猪买房子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-三只小猪买房子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-三只小猪买房子/中文-三只小猪买房子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-上和下比赛",
+      "title": "中文-上和下比赛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-上和下比赛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-上和下比赛/中文-上和下比赛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-不说话挑战",
+      "title": "中文-不说话挑战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-不说话挑战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-不说话挑战/中文-不说话挑战_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-两只老虎的约定",
+      "title": "中文-两只老虎的约定",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-两只老虎的约定",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-两只老虎的约定/中文-两只老虎的约定_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-为什么影子是黑色的",
+      "title": "中文-为什么影子是黑色的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-为什么影子是黑色的",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-为什么影子是黑色的/中文-为什么影子是黑色的_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乌鸦喝不着水",
+      "title": "中文-乌鸦喝不着水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-乌鸦喝不着水",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-乌鸦喝不着水/中文-乌鸦喝不着水_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乌鸦的彩色羽毛",
+      "title": "中文-乌鸦的彩色羽毛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-乌鸦的彩色羽毛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-乌鸦的彩色羽毛/中文-乌鸦的彩色羽毛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-书包会走路",
+      "title": "中文-书包会走路",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-书包会走路",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-书包会走路/中文-书包会走路_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-书包大战",
+      "title": "中文-书包大战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-书包大战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-书包大战/中文-书包大战_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-书里的人物出来散步",
+      "title": "中文-书里的人物出来散步",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-书里的人物出来散步",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-书里的人物出来散步/中文-书里的人物出来散步_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-云朵是棉花糖",
+      "title": "中文-云朵是棉花糖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-云朵是棉花糖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-云朵是棉花糖/中文-云朵是棉花糖_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-企鹅去沙漠度假",
+      "title": "中文-企鹅去沙漠度假",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-企鹅去沙漠度假",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-企鹅去沙漠度假/中文-企鹅去沙漠度假_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-企鹅想学飞",
+      "title": "中文-企鹅想学飞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-企鹅想学飞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-企鹅想学飞/中文-企鹅想学飞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-会唱歌的汤",
+      "title": "中文-会唱歌的汤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-会唱歌的汤",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-会唱歌的汤/中文-会唱歌的汤_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-会说话的闹钟",
+      "title": "中文-会说话的闹钟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-会说话的闹钟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-会说话的闹钟/中文-会说话的闹钟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-会走路的西瓜",
+      "title": "中文-会走路的西瓜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-会走路的西瓜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-会走路的西瓜/中文-会走路的西瓜_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-会飞的扫帚",
+      "title": "中文-会飞的扫帚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-会飞的扫帚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-会飞的扫帚/中文-会飞的扫帚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-作业本上有橡皮森林",
+      "title": "中文-作业本上有橡皮森林",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-作业本上有橡皮森林",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-作业本上有橡皮森林/中文-作业本上有橡皮森林_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-倒着走路一天",
+      "title": "中文-倒着走路一天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-倒着走路一天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-倒着走路一天/中文-倒着走路一天_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-偷走月亮的小偷",
+      "title": "中文-偷走月亮的小偷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-偷走月亮的小偷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-偷走月亮的小偷/中文-偷走月亮的小偷_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-兔子学游泳",
+      "title": "中文-兔子学游泳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-兔子学游泳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-兔子学游泳/中文-兔子学游泳_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-全世界都在打喷嚏",
+      "title": "中文-全世界都在打喷嚏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-全世界都在打喷嚏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-全世界都在打喷嚏/中文-全世界都在打喷嚏_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-冰箱里的夜生活",
+      "title": "中文-冰箱里的夜生活",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-冰箱里的夜生活",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-冰箱里的夜生活/中文-冰箱里的夜生活_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-变色龙忘记变色",
+      "title": "中文-变色龙忘记变色",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-变色龙忘记变色",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-变色龙忘记变色/中文-变色龙忘记变色_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-喷嚏大冒险",
+      "title": "中文-喷嚏大冒险",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-喷嚏大冒险",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-喷嚏大冒险/中文-喷嚏大冒险_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-回声不想学我说话",
+      "title": "中文-回声不想学我说话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-回声不想学我说话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-回声不想学我说话/中文-回声不想学我说话_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大和小比谁更大",
+      "title": "中文-大和小比谁更大",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-大和小比谁更大",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-大和小比谁更大/中文-大和小比谁更大_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大象怕老鼠",
+      "title": "中文-大象怕老鼠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-大象怕老鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-大象怕老鼠/中文-大象怕老鼠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-太阳不想起床",
+      "title": "中文-太阳不想起床",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-太阳不想起床",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-太阳不想起床/中文-太阳不想起床_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-头发有自己的想法",
+      "title": "中文-头发有自己的想法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-头发有自己的想法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-头发有自己的想法/中文-头发有自己的想法_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-奶茶里的珍珠逃跑了",
+      "title": "中文-奶茶里的珍珠逃跑了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-奶茶里的珍珠逃跑了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-奶茶里的珍珠逃跑了/中文-奶茶里的珍珠逃跑了_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-如果月亮是奶酪",
+      "title": "中文-如果月亮是奶酪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-如果月亮是奶酪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-如果月亮是奶酪/中文-如果月亮是奶酪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-字母大混战",
+      "title": "中文-字母大混战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-字母大混战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-字母大混战/中文-字母大混战_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小兔子乖乖不听话",
+      "title": "中文-小兔子乖乖不听话",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-小兔子乖乖不听话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-小兔子乖乖不听话/中文-小兔子乖乖不听话_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-尺子想当滑梯",
+      "title": "中文-尺子想当滑梯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-尺子想当滑梯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-尺子想当滑梯/中文-尺子想当滑梯_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-左右手互换",
+      "title": "中文-左右手互换",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-左右手互换",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-左右手互换/中文-左右手互换_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-左边和右边吵架",
+      "title": "中文-左边和右边吵架",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-左边和右边吵架",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-左边和右边吵架/中文-左边和右边吵架_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-帽子会跳舞",
+      "title": "中文-帽子会跳舞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-帽子会跳舞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-帽子会跳舞/中文-帽子会跳舞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-床上蹦蹦跳",
+      "title": "中文-床上蹦蹦跳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-床上蹦蹦跳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-床上蹦蹦跳/中文-床上蹦蹦跳_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-彩虹变成滑梯",
+      "title": "中文-彩虹变成滑梯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-彩虹变成滑梯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-彩虹变成滑梯/中文-彩虹变成滑梯_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-影子有它自己的想法",
+      "title": "中文-影子有它自己的想法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-影子有它自己的想法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-影子有它自己的想法/中文-影子有它自己的想法_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-快和慢做朋友",
+      "title": "中文-快和慢做朋友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-快和慢做朋友",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-快和慢做朋友/中文-快和慢做朋友_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-怕被吃的苹果",
+      "title": "中文-怕被吃的苹果",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-怕被吃的苹果",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-怕被吃的苹果/中文-怕被吃的苹果_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-恐龙穿芭蕾裙",
+      "title": "中文-恐龙穿芭蕾裙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-恐龙穿芭蕾裙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-恐龙穿芭蕾裙/中文-恐龙穿芭蕾裙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-想变辣的豆腐",
+      "title": "中文-想变辣的豆腐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-想变辣的豆腐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-想变辣的豆腐/中文-想变辣的豆腐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-我家的狗会唱歌",
+      "title": "中文-我家的狗会唱歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-我家的狗会唱歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-我家的狗会唱歌/中文-我家的狗会唱歌_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-打哈欠会传染",
+      "title": "中文-打哈欠会传染",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-打哈欠会传染",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-打哈欠会传染/中文-打哈欠会传染_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-打嗝停不下来",
+      "title": "中文-打嗝停不下来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-打嗝停不下来",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-打嗝停不下来/中文-打嗝停不下来_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数字跑出来",
+      "title": "中文-数字跑出来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-数字跑出来",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-数字跑出来/中文-数字跑出来_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-时间在开派对",
+      "title": "中文-时间在开派对",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-时间在开派对",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-时间在开派对/中文-时间在开派对_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-星星掉进早餐里",
+      "title": "中文-星星掉进早餐里",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-星星掉进早餐里",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-星星掉进早餐里/中文-星星掉进早餐里_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-枕头上有个梦",
+      "title": "中文-枕头上有个梦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-枕头上有个梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-枕头上有个梦/中文-枕头上有个梦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-树懒当快递员",
+      "title": "中文-树懒当快递员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-树懒当快递员",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-树懒当快递员/中文-树懒当快递员_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-梦里有条巧克力河",
+      "title": "中文-梦里有条巧克力河",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-梦里有条巧克力河",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-梦里有条巧克力河/中文-梦里有条巧克力河_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-椅子想当摇椅",
+      "title": "中文-椅子想当摇椅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-椅子想当摇椅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-椅子想当摇椅/中文-椅子想当摇椅_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-模仿大赛",
+      "title": "中文-模仿大赛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-模仿大赛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-模仿大赛/中文-模仿大赛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-橡皮擦光了整座城市",
+      "title": "中文-橡皮擦光了整座城市",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-橡皮擦光了整座城市",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-橡皮擦光了整座城市/中文-橡皮擦光了整座城市_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海豚怕水",
+      "title": "中文-海豚怕水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-海豚怕水",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-海豚怕水/中文-海豚怕水_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-火锅里开派对",
+      "title": "中文-火锅里开派对",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-火锅里开派对",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-火锅里开派对/中文-火锅里开派对_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-熊猫想拍彩色照",
+      "title": "中文-熊猫想拍彩色照",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-熊猫想拍彩色照",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-熊猫想拍彩色照/中文-熊猫想拍彩色照_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-牙刷变成画笔",
+      "title": "中文-牙刷变成画笔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-牙刷变成画笔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-牙刷变成画笔/中文-牙刷变成画笔_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-牙膏是薄荷冰淇淋",
+      "title": "中文-牙膏是薄荷冰淇淋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-牙膏是薄荷冰淇淋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-牙膏是薄荷冰淇淋/中文-牙膏是薄荷冰淇淋_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狐狸给鸡拜年",
+      "title": "中文-狐狸给鸡拜年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-狐狸给鸡拜年",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-狐狸给鸡拜年/中文-狐狸给鸡拜年_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狼来了但没人信",
+      "title": "中文-狼来了但没人信",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-狼来了但没人信",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-狼来了但没人信/中文-狼来了但没人信_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猪想在天空飞",
+      "title": "中文-猪想在天空飞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-猪想在天空飞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-猪想在天空飞/中文-猪想在天空飞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猫和老鼠成了室友",
+      "title": "中文-猫和老鼠成了室友",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-猫和老鼠成了室友",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-猫和老鼠成了室友/中文-猫和老鼠成了室友_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猫头鹰怕黑",
+      "title": "中文-猫头鹰怕黑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-猫头鹰怕黑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-猫头鹰怕黑/中文-猫头鹰怕黑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猫学狗叫",
+      "title": "中文-猫学狗叫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-猫学狗叫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-猫学狗叫/中文-猫学狗叫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-猴子捞月亮的现代版",
+      "title": "中文-猴子捞月亮的现代版",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-猴子捞月亮的现代版",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-猴子捞月亮的现代版/中文-猴子捞月亮的现代版_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-生气的包子",
+      "title": "中文-生气的包子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-生气的包子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-生气的包子/中文-生气的包子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-睡衣不想脱",
+      "title": "中文-睡衣不想脱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-睡衣不想脱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-睡衣不想脱/中文-睡衣不想脱_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-睡衣日在学校",
+      "title": "中文-睡衣日在学校",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-睡衣日在学校",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-睡衣日在学校/中文-睡衣日在学校_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-穿反了穿反了",
+      "title": "中文-穿反了穿反了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-穿反了穿反了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-穿反了穿反了/中文-穿反了穿反了_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-章鱼穿衣服",
+      "title": "中文-章鱼穿衣服",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-章鱼穿衣服",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-章鱼穿衣服/中文-章鱼穿衣服_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-笑声传染了",
+      "title": "中文-笑声传染了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-笑声传染了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-笑声传染了/中文-笑声传染了_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-筷子去哪了",
+      "title": "中文-筷子去哪了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-筷子去哪了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-筷子去哪了/中文-筷子去哪了_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-米饭想长高",
+      "title": "中文-米饭想长高",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-米饭想长高",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-米饭想长高/中文-米饭想长高_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-粉笔说再见",
+      "title": "中文-粉笔说再见",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-粉笔说再见",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-粉笔说再见/中文-粉笔说再见_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-绵羊想卷发",
+      "title": "中文-绵羊想卷发",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-绵羊想卷发",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-绵羊想卷发/中文-绵羊想卷发_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老鼠给猫当伴娘",
+      "title": "中文-老鼠给猫当伴娘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-老鼠给猫当伴娘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-老鼠给猫当伴娘/中文-老鼠给猫当伴娘_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蜗牛的超速罚单",
+      "title": "中文-蜗牛的超速罚单",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-蜗牛的超速罚单",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-蜗牛的超速罚单/中文-蜗牛的超速罚单_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蜗牛跑马拉松",
+      "title": "中文-蜗牛跑马拉松",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-蜗牛跑马拉松",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-蜗牛跑马拉松/中文-蜗牛跑马拉松_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-衣服穿反日",
+      "title": "中文-衣服穿反日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-衣服穿反日",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-衣服穿反日/中文-衣服穿反日_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-袋鼠当保姆",
+      "title": "中文-袋鼠当保姆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-袋鼠当保姆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-袋鼠当保姆/中文-袋鼠当保姆_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-袜子去哪了",
+      "title": "中文-袜子去哪了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-袜子去哪了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-袜子去哪了/中文-袜子去哪了_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-袜子失踪案",
+      "title": "中文-袜子失踪案",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-袜子失踪案",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-袜子失踪案/中文-袜子失踪案_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-被子的魔法",
+      "title": "中文-被子的魔法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-被子的魔法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-被子的魔法/中文-被子的魔法_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-被自己的笑话逗笑",
+      "title": "中文-被自己的笑话逗笑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-被自己的笑话逗笑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-被自己的笑话逗笑/中文-被自己的笑话逗笑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-课桌想当床",
+      "title": "中文-课桌想当床",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-课桌想当床",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-课桌想当床/中文-课桌想当床_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-逃跑的饺子",
+      "title": "中文-逃跑的饺子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-逃跑的饺子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-逃跑的饺子/中文-逃跑的饺子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-铅笔屑做的花园",
+      "title": "中文-铅笔屑做的花园",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-铅笔屑做的花园",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-铅笔屑做的花园/中文-铅笔屑做的花园_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-铅笔长出了腿",
+      "title": "中文-铅笔长出了腿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-铅笔长出了腿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-铅笔长出了腿/中文-铅笔长出了腿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-镜子里的自己跑出来了",
+      "title": "中文-镜子里的自己跑出来了",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-镜子里的自己跑出来了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-镜子里的自己跑出来了/中文-镜子里的自己跑出来了_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-长颈鹿的短脖子",
+      "title": "中文-长颈鹿的短脖子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-长颈鹿的短脖子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-长颈鹿的短脖子/中文-长颈鹿的短脖子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雨伞想当降落伞",
+      "title": "中文-雨伞想当降落伞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-雨伞想当降落伞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-雨伞想当降落伞/中文-雨伞想当降落伞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雨点是在跳舞",
+      "title": "中文-雨点是在跳舞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-雨点是在跳舞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-雨点是在跳舞/中文-雨点是在跳舞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雪人是夏天来的",
+      "title": "中文-雪人是夏天来的",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-雪人是夏天来的",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-雪人是夏天来的/中文-雪人是夏天来的_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-面条跳芭蕾",
+      "title": "中文-面条跳芭蕾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-面条跳芭蕾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-面条跳芭蕾/中文-面条跳芭蕾_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鞋带自己打结",
+      "title": "中文-鞋带自己打结",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-鞋带自己打结",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-鞋带自己打结/中文-鞋带自己打结_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-风在玩捉迷藏",
+      "title": "中文-风在玩捉迷藏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-风在玩捉迷藏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-风在玩捉迷藏/中文-风在玩捉迷藏_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-饺子和春卷比赛",
+      "title": "中文-饺子和春卷比赛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-饺子和春卷比赛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-饺子和春卷比赛/中文-饺子和春卷比赛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-香蕉皮滑翔机",
+      "title": "中文-香蕉皮滑翔机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-香蕉皮滑翔机",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-香蕉皮滑翔机/中文-香蕉皮滑翔机_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-马桶想当沙发",
+      "title": "中文-马桶想当沙发",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-马桶想当沙发",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-马桶想当沙发/中文-马桶想当沙发_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-骆驼想当芭蕾舞演员",
+      "title": "中文-骆驼想当芭蕾舞演员",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-骆驼想当芭蕾舞演员",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-骆驼想当芭蕾舞演员/中文-骆驼想当芭蕾舞演员_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鱼想学爬树",
+      "title": "中文-鱼想学爬树",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-鱼想学爬树",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-鱼想学爬树/中文-鱼想学爬树_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鸡叫太阳起床",
+      "title": "中文-鸡叫太阳起床",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-鸡叫太阳起床",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-鸡叫太阳起床/中文-鸡叫太阳起床_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鸭嘴兽的混搭困扰",
+      "title": "中文-鸭嘴兽的混搭困扰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-鸭嘴兽的混搭困扰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-鸭嘴兽的混搭困扰/中文-鸭嘴兽的混搭困扰_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黑板想变白板",
+      "title": "中文-黑板想变白板",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-黑板想变白板",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-黑板想变白板/中文-黑板想变白板_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-龟兔赛跑第二场",
+      "title": "中文-龟兔赛跑第二场",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/放声大笑/中文歌曲/中文-龟兔赛跑第二场",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/放声大笑/中文歌曲/中文-龟兔赛跑第二场/中文-龟兔赛跑第二场_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

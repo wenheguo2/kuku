@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/蒙学歌曲/弟子规",
   "name": "弟子规",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/弟子规.jpg",
     "cover_level": "category"
   },
   "entry_count": 10,
@@ -16,70 +16,110 @@
       "title": "0. 弟子规圣人训",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/弟子规/0. 弟子规圣人训"
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/0. 弟子规圣人训",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/0. 弟子规圣人训/0. 弟子规圣人训_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "1. 孝之晨昏定省",
       "title": "1. 孝之晨昏定省",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/弟子规/1. 孝之晨昏定省"
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/1. 孝之晨昏定省",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/1. 孝之晨昏定省/1. 孝之晨昏定省_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "2. 悌之兄友弟恭",
       "title": "2. 悌之兄友弟恭",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/弟子规/2. 悌之兄友弟恭"
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/2. 悌之兄友弟恭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/2. 悌之兄友弟恭/2. 悌之兄友弟恭_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "3. 谨之朝起夜眠",
       "title": "3. 谨之朝起夜眠",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/弟子规/3. 谨之朝起夜眠"
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/3. 谨之朝起夜眠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/3. 谨之朝起夜眠/3. 谨之朝起夜眠_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "4. 信之言行一致",
       "title": "4. 信之言行一致",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/弟子规/4. 信之言行一致"
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/4. 信之言行一致",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/4. 信之言行一致/4. 信之言行一致_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "5. 泛爱众之推己及人",
       "title": "5. 泛爱众之推己及人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/弟子规/5. 泛爱众之推己及人"
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/5. 泛爱众之推己及人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/5. 泛爱众之推己及人/5. 泛爱众之推己及人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "6. 亲仁之近贤远佞",
       "title": "6. 亲仁之近贤远佞",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/弟子规/6. 亲仁之近贤远佞"
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/6. 亲仁之近贤远佞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/6. 亲仁之近贤远佞/6. 亲仁之近贤远佞_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "7. 余力学文之读书三到",
       "title": "7. 余力学文之读书三到",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/弟子规/7. 余力学文之读书三到"
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/7. 余力学文之读书三到",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/7. 余力学文之读书三到/7. 余力学文之读书三到_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "8. 孝之顺亲养志",
       "title": "8. 孝之顺亲养志",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/弟子规/8. 孝之顺亲养志"
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/8. 孝之顺亲养志",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/8. 孝之顺亲养志/8. 孝之顺亲养志_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "9. 出则悌之尊长敬贤",
       "title": "9. 出则悌之尊长敬贤",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/弟子规/9. 出则悌之尊长敬贤"
+      "path": "瞎编的歌曲/蒙学歌曲/弟子规/9. 出则悌之尊长敬贤",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/弟子规/9. 出则悌之尊长敬贤/9. 出则悌之尊长敬贤_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

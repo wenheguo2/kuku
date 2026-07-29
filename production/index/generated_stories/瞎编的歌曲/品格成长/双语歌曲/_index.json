@@ -1,0 +1,2203 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/品格成长/双语歌曲",
+  "name": "双语歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/双语歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 200,
+  "entries": [
+    {
+      "entry_id": "一起搭积木 Building Blocks Together",
+      "title": "一起搭积木 Building Blocks Together",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/一起搭积木 Building Blocks Together",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/一起搭积木 Building Blocks Together/一起搭积木 Building Blocks Together_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "一起擦眼泪 Wipe Away the Tears Together",
+      "title": "一起擦眼泪 Wipe Away the Tears Together",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/一起擦眼泪 Wipe Away the Tears Together",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/一起擦眼泪 Wipe Away the Tears Together/一起擦眼泪 Wipe Away the Tears Together_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "上厕所要冲水 Flush the Toilet After You Go",
+      "title": "上厕所要冲水 Flush the Toilet After You Go",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/上厕所要冲水 Flush the Toilet After You Go",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/上厕所要冲水 Flush the Toilet After You Go/上厕所要冲水 Flush the Toilet After You Go_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "上岸要擦干 Wring Out the Shore Before You Leave",
+      "title": "上岸要擦干 Wring Out the Shore Before You Leave",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/上岸要擦干 Wring Out the Shore Before You Leave",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/上岸要擦干 Wring Out the Shore Before You Leave/上岸要擦干 Wring Out the Shore Before You Leave_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "下车提前按铃 Press the Bell Before You Get Off",
+      "title": "下车提前按铃 Press the Bell Before You Get Off",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/下车提前按铃 Press the Bell Before You Get Off",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/下车提前按铃 Press the Bell Before You Get Off/下车提前按铃 Press the Bell Before You Get Off_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "下雨天不踩水 Don't Splash in the Rain",
+      "title": "下雨天不踩水 Don't Splash in the Rain",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/下雨天不踩水 Don't Splash in the Rain",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/下雨天不踩水 Don't Splash in the Rain/下雨天不踩水 Don't Splash in the Rain_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不下水太深 Don't Dive Too Deep",
+      "title": "不下水太深 Don't Dive Too Deep",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不下水太深 Don't Dive Too Deep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不下水太深 Don't Dive Too Deep/不下水太深 Don't Dive Too Deep_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不乱扔东西给动物 Don't Throw Things at Animals",
+      "title": "不乱扔东西给动物 Don't Throw Things at Animals",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不乱扔东西给动物 Don't Throw Things at Animals",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不乱扔东西给动物 Don't Throw Things at Animals/不乱扔东西给动物 Don't Throw Things at Animals_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不乱扔垃圾 Don't Throw Your Trash Around",
+      "title": "不乱扔垃圾 Don't Throw Your Trash Around",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不乱扔垃圾 Don't Throw Your Trash Around",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不乱扔垃圾 Don't Throw Your Trash Around/不乱扔垃圾 Don't Throw Your Trash Around_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不会的问妈妈 Ask Mom When You Don't Know",
+      "title": "不会的问妈妈 Ask Mom When You Don't Know",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不会的问妈妈 Ask Mom When You Don't Know",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不会的问妈妈 Ask Mom When You Don't Know/不会的问妈妈 Ask Mom When You Don't Know_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不影响邻居 Don't Disturb the Neighbors",
+      "title": "不影响邻居 Don't Disturb the Neighbors",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不影响邻居 Don't Disturb the Neighbors",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不影响邻居 Don't Disturb the Neighbors/不影响邻居 Don't Disturb the Neighbors_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不怕失败 Not Afraid to Fall Again",
+      "title": "不怕失败 Not Afraid to Fall Again",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不怕失败 Not Afraid to Fall Again",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不怕失败 Not Afraid to Fall Again/不怕失败 Not Afraid to Fall Again_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不打断别人说话 Don't Interrupt When Others Speak",
+      "title": "不打断别人说话 Don't Interrupt When Others Speak",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不打断别人说话 Don't Interrupt When Others Speak",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不打断别人说话 Don't Interrupt When Others Speak/不打断别人说话 Don't Interrupt When Others Speak_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不抢东西 Don't Take What's Not Yours",
+      "title": "不抢东西 Don't Take What's Not Yours",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不抢东西 Don't Take What's Not Yours",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不抢东西 Don't Take What's Not Yours/不抢东西 Don't Take What's Not Yours_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不抢妈妈 Don't Take My Mom Away",
+      "title": "不抢妈妈 Don't Take My Mom Away",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不抢妈妈 Don't Take My Mom Away",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不抢妈妈 Don't Take My Mom Away/不抢妈妈 Don't Take My Mom Away_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不推人 Don't Push People Away",
+      "title": "不推人 Don't Push People Away",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不推人 Don't Push People Away",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不推人 Don't Push People Away/不推人 Don't Push People Away_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不推小朋友下水 Don't Push the Kids into the Water",
+      "title": "不推小朋友下水 Don't Push the Kids into the Water",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不推小朋友下水 Don't Push the Kids into the Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不推小朋友下水 Don't Push the Kids into the Water/不推小朋友下水 Don't Push the Kids into the Water_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不摘花 Don't Pick the Flowers",
+      "title": "不摘花 Don't Pick the Flowers",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不摘花 Don't Pick the Flowers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不摘花 Don't Pick the Flowers/不摘花 Don't Pick the Flowers_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不看动物太久 Too Long Without the Animals",
+      "title": "不看动物太久 Too Long Without the Animals",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不看动物太久 Too Long Without the Animals",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不看动物太久 Too Long Without the Animals/不看动物太久 Too Long Without the Animals_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不碰插座 Don't Touch the Socket",
+      "title": "不碰插座 Don't Touch the Socket",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不碰插座 Don't Touch the Socket",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不碰插座 Don't Touch the Socket/不碰插座 Don't Touch the Socket_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不碰热水 Stay Away from the Hot Water",
+      "title": "不碰热水 Stay Away from the Hot Water",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不碰热水 Stay Away from the Hot Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不碰热水 Stay Away from the Hot Water/不碰热水 Stay Away from the Hot Water_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不给别人添麻烦 Don't Make Trouble for Others",
+      "title": "不给别人添麻烦 Don't Make Trouble for Others",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不给别人添麻烦 Don't Make Trouble for Others",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不给别人添麻烦 Don't Make Trouble for Others/不给别人添麻烦 Don't Make Trouble for Others_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不能自己跑出去 Can't Run Out on My Own",
+      "title": "不能自己跑出去 Can't Run Out on My Own",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不能自己跑出去 Can't Run Out on My Own",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不能自己跑出去 Can't Run Out on My Own/不能自己跑出去 Can't Run Out on My Own_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不要就说不 Don't Say No If You Don't Want",
+      "title": "不要就说不 Don't Say No If You Don't Want",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不要就说不 Don't Say No If You Don't Want",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不要就说不 Don't Say No If You Don't Want/不要就说不 Don't Say No If You Don't Want_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不跟陌生人走 Don't Go with Strangers",
+      "title": "不跟陌生人走 Don't Go with Strangers",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不跟陌生人走 Don't Go with Strangers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不跟陌生人走 Don't Go with Strangers/不跟陌生人走 Don't Go with Strangers_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不踢前面座位 Don't Kick the Seat in Front",
+      "title": "不踢前面座位 Don't Kick the Seat in Front",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不踢前面座位 Don't Kick the Seat in Front",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不踢前面座位 Don't Kick the Seat in Front/不踢前面座位 Don't Kick the Seat in Front_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不踢被子 Don't Kick the Blankets Off Tonight",
+      "title": "不踢被子 Don't Kick the Blankets Off Tonight",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不踢被子 Don't Kick the Blankets Off Tonight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不踢被子 Don't Kick the Blankets Off Tonight/不踢被子 Don't Kick the Blankets Off Tonight_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "不踩草地 Keep Off the Grass",
+      "title": "不踩草地 Keep Off the Grass",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/不踩草地 Keep Off the Grass",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/不踩草地 Keep Off the Grass/不踩草地 Keep Off the Grass_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "专注 Focused",
+      "title": "专注 Focused",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/专注 Focused",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/专注 Focused/专注 Focused_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "东西放回原处 Put Things Back Where They Belong",
+      "title": "东西放回原处 Put Things Back Where They Belong",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/东西放回原处 Put Things Back Where They Belong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/东西放回原处 Put Things Back Where They Belong/东西放回原处 Put Things Back Where They Belong_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "乐观 Optimism",
+      "title": "乐观 Optimism",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/乐观 Optimism",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/乐观 Optimism/乐观 Optimism_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "从滑梯下来让开 Slide Down the Slide, Get Out of the Way",
+      "title": "从滑梯下来让开 Slide Down the Slide, Get Out of the Way",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/从滑梯下来让开 Slide Down the Slide, Get Out of the Way",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/从滑梯下来让开 Slide Down the Slide, Get Out of the Way/从滑梯下来让开 Slide Down the Slide, Get Out of the Way_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "付钱要排队 Pay in Line, Wait Your Turn",
+      "title": "付钱要排队 Pay in Line, Wait Your Turn",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/付钱要排队 Pay in Line, Wait Your Turn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/付钱要排队 Pay in Line, Wait Your Turn/付钱要排队 Pay in Line, Wait Your Turn_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "作业认真写 Write Your Homework with Care",
+      "title": "作业认真写 Write Your Homework with Care",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/作业认真写 Write Your Homework with Care",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/作业认真写 Write Your Homework with Care/作业认真写 Write Your Homework with Care_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "作品给妈妈看 Show My Work to Mother",
+      "title": "作品给妈妈看 Show My Work to Mother",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/作品给妈妈看 Show My Work to Mother",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/作品给妈妈看 Show My Work to Mother/作品给妈妈看 Show My Work to Mother_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "倾听 Listen",
+      "title": "倾听 Listen",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/倾听 Listen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/倾听 Listen/倾听 Listen_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "做哥哥姐姐 Being an Older Sibling",
+      "title": "做哥哥姐姐 Being an Older Sibling",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/做哥哥姐姐 Being an Older Sibling",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/做哥哥姐姐 Being an Older Sibling/做哥哥姐姐 Being an Older Sibling_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "做完作业再玩 Finish Homework Before You Play",
+      "title": "做完作业再玩 Finish Homework Before You Play",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/做完作业再玩 Finish Homework Before You Play",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/做完作业再玩 Finish Homework Before You Play/做完作业再玩 Finish Homework Before You Play_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "先写作业 Homework Before Anything Else",
+      "title": "先写作业 Homework Before Anything Else",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/先写作业 Homework Before Anything Else",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/先写作业 Homework Before Anything Else/先写作业 Homework Before Anything Else_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "先说谢谢 Thank You First",
+      "title": "先说谢谢 Thank You First",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/先说谢谢 Thank You First",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/先说谢谢 Thank You First/先说谢谢 Thank You First_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公交车上扶好 Hold Steady on the Bus",
+      "title": "公交车上扶好 Hold Steady on the Bus",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/公交车上扶好 Hold Steady on the Bus",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/公交车上扶好 Hold Steady on the Bus/公交车上扶好 Hold Steady on the Bus_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "公园不乱跑 Don't Run Wild in the Park",
+      "title": "公园不乱跑 Don't Run Wild in the Park",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/公园不乱跑 Don't Run Wild in the Park",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/公园不乱跑 Don't Run Wild in the Park/公园不乱跑 Don't Run Wild in the Park_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "关灯节能 Turn Off the Lights to Save the World",
+      "title": "关灯节能 Turn Off the Lights to Save the World",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/关灯节能 Turn Off the Lights to Save the World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/关灯节能 Turn Off the Lights to Save the World/关灯节能 Turn Off the Lights to Save the World_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "关门轻轻 Close the Door Gently",
+      "title": "关门轻轻 Close the Door Gently",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/关门轻轻 Close the Door Gently",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/关门轻轻 Close the Door Gently/关门轻轻 Close the Door Gently_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "再来一次 One More Time",
+      "title": "再来一次 One More Time",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/再来一次 One More Time",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/再来一次 One More Time/再来一次 One More Time_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "写完检查 Check After You Finish Writing",
+      "title": "写完检查 Check After You Finish Writing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/写完检查 Check After You Finish Writing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/写完检查 Check After You Finish Writing/写完检查 Check After You Finish Writing_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "冷静 Calm",
+      "title": "冷静 Calm",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/冷静 Calm",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/冷静 Calm/冷静 Calm_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "出去要告诉大人 Tell an Adult Before You Go Out",
+      "title": "出去要告诉大人 Tell an Adult Before You Go Out",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/出去要告诉大人 Tell an Adult Before You Go Out",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/出去要告诉大人 Tell an Adult Before You Go Out/出去要告诉大人 Tell an Adult Before You Go Out_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "分享 Share",
+      "title": "分享 Share",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/分享 Share",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/分享 Share/分享 Share_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "分享玩具 Share the Joy of Toys",
+      "title": "分享玩具 Share the Joy of Toys",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/分享玩具 Share the Joy of Toys",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/分享玩具 Share the Joy of Toys/分享玩具 Share the Joy of Toys_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "分蛋糕给每个人 Slicing the Cake for Everyone",
+      "title": "分蛋糕给每个人 Slicing the Cake for Everyone",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/分蛋糕给每个人 Slicing the Cake for Everyone",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/分蛋糕给每个人 Slicing the Cake for Everyone/分蛋糕给每个人 Slicing the Cake for Everyone_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "别人哭的时候 When Others Cry",
+      "title": "别人哭的时候 When Others Cry",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/别人哭的时候 When Others Cry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/别人哭的时候 When Others Cry/别人哭的时候 When Others Cry_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "别人说话要听 Listen When Others Speak",
+      "title": "别人说话要听 Listen When Others Speak",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/别人说话要听 Listen When Others Speak",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/别人说话要听 Listen When Others Speak/别人说话要听 Listen When Others Speak_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "努力试试 Try Hard and Give It a Shot",
+      "title": "努力试试 Try Hard and Give It a Shot",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/努力试试 Try Hard and Give It a Shot",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/努力试试 Try Hard and Give It a Shot/努力试试 Try Hard and Give It a Shot_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "勇敢 Brave",
+      "title": "勇敢 Brave",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/勇敢 Brave",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/勇敢 Brave/勇敢 Brave_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "原谅 Forgive",
+      "title": "原谅 Forgive",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/原谅 Forgive",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/原谅 Forgive/原谅 Forgive_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "去动物园不乱喂 Don't Feed the Animals at the Zoo",
+      "title": "去动物园不乱喂 Don't Feed the Animals at the Zoo",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/去动物园不乱喂 Don't Feed the Animals at the Zoo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/去动物园不乱喂 Don't Feed the Animals at the Zoo/去动物园不乱喂 Don't Feed the Animals at the Zoo_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "去海边不乱跑 Don't Run Wild at the Seaside",
+      "title": "去海边不乱跑 Don't Run Wild at the Seaside",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/去海边不乱跑 Don't Run Wild at the Seaside",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/去海边不乱跑 Don't Run Wild at the Seaside/去海边不乱跑 Don't Run Wild at the Seaside_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吃团圆饭 A Feast of Reunion Tonight",
+      "title": "吃团圆饭 A Feast of Reunion Tonight",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/吃团圆饭 A Feast of Reunion Tonight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/吃团圆饭 A Feast of Reunion Tonight/吃团圆饭 A Feast of Reunion Tonight_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吃完饭收碗 After Dinner, Clear the Bowls",
+      "title": "吃完饭收碗 After Dinner, Clear the Bowls",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/吃完饭收碗 After Dinner, Clear the Bowls",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/吃完饭收碗 After Dinner, Clear the Bowls/吃完饭收碗 After Dinner, Clear the Bowls_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吃药不怕苦 Take the Bitter, Heal the Sweet",
+      "title": "吃药不怕苦 Take the Bitter, Heal the Sweet",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/吃药不怕苦 Take the Bitter, Heal the Sweet",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/吃药不怕苦 Take the Bitter, Heal the Sweet/吃药不怕苦 Take the Bitter, Heal the Sweet_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吃饭要坐好 Sit Up Straight While You Eat",
+      "title": "吃饭要坐好 Sit Up Straight While You Eat",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/吃饭要坐好 Sit Up Straight While You Eat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/吃饭要坐好 Sit Up Straight While You Eat/吃饭要坐好 Sit Up Straight While You Eat_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "同理心 Empathy",
+      "title": "同理心 Empathy",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/同理心 Empathy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/同理心 Empathy/同理心 Empathy_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "听大人说完 Listen to the Grown-Ups First",
+      "title": "听大人说完 Listen to the Grown-Ups First",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/听大人说完 Listen to the Grown-Ups First",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/听大人说完 Listen to the Grown-Ups First/听大人说完 Listen to the Grown-Ups First_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吹蜡烛许愿 Blow Out the Candles, Make a Wish",
+      "title": "吹蜡烛许愿 Blow Out the Candles, Make a Wish",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/吹蜡烛许愿 Blow Out the Candles, Make a Wish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/吹蜡烛许愿 Blow Out the Candles, Make a Wish/吹蜡烛许愿 Blow Out the Candles, Make a Wish_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和同学一起吃饭 Dinner with My Friends Tonight",
+      "title": "和同学一起吃饭 Dinner with My Friends Tonight",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/和同学一起吃饭 Dinner with My Friends Tonight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/和同学一起吃饭 Dinner with My Friends Tonight/和同学一起吃饭 Dinner with My Friends Tonight_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和大家一起唱 Singing Together with Everyone",
+      "title": "和大家一起唱 Singing Together with Everyone",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/和大家一起唱 Singing Together with Everyone",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/和大家一起唱 Singing Together with Everyone/和大家一起唱 Singing Together with Everyone_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和妈妈说再见 Say Goodbye to Mom",
+      "title": "和妈妈说再见 Say Goodbye to Mom",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/和妈妈说再见 Say Goodbye to Mom",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/和妈妈说再见 Say Goodbye to Mom/和妈妈说再见 Say Goodbye to Mom_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和妹妹一起玩 Playing with My Little Sister",
+      "title": "和妹妹一起玩 Playing with My Little Sister",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/和妹妹一起玩 Playing with My Little Sister",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/和妹妹一起玩 Playing with My Little Sister/和妹妹一起玩 Playing with My Little Sister_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和弟弟分享 Sharing with My Little Brother",
+      "title": "和弟弟分享 Sharing with My Little Brother",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/和弟弟分享 Sharing with My Little Brother",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/和弟弟分享 Sharing with My Little Brother/和弟弟分享 Sharing with My Little Brother_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "和长辈拜年 New Year Greetings to My Elders",
+      "title": "和长辈拜年 New Year Greetings to My Elders",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/和长辈拜年 New Year Greetings to My Elders",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/和长辈拜年 New Year Greetings to My Elders/和长辈拜年 New Year Greetings to My Elders_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "咳嗽捂嘴 Cover Your Cough, Hold Your Breath",
+      "title": "咳嗽捂嘴 Cover Your Cough, Hold Your Breath",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/咳嗽捂嘴 Cover Your Cough, Hold Your Breath",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/咳嗽捂嘴 Cover Your Cough, Hold Your Breath/咳嗽捂嘴 Cover Your Cough, Hold Your Breath_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "喂鸽子要温柔 Feed the Doves with Tenderness",
+      "title": "喂鸽子要温柔 Feed the Doves with Tenderness",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/喂鸽子要温柔 Feed the Doves with Tenderness",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/喂鸽子要温柔 Feed the Doves with Tenderness/喂鸽子要温柔 Feed the Doves with Tenderness_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "在浅水区玩 Playing in the Shallow Water",
+      "title": "在浅水区玩 Playing in the Shallow Water",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/在浅水区玩 Playing in the Shallow Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/在浅水区玩 Playing in the Shallow Water/在浅水区玩 Playing in the Shallow Water_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "坐地铁要安静 Stay Quiet on the Subway",
+      "title": "坐地铁要安静 Stay Quiet on the Subway",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/坐地铁要安静 Stay Quiet on the Subway",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/坐地铁要安静 Stay Quiet on the Subway/坐地铁要安静 Stay Quiet on the Subway_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "坐着看 Sitting Here Just Watching",
+      "title": "坐着看 Sitting Here Just Watching",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/坐着看 Sitting Here Just Watching",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/坐着看 Sitting Here Just Watching/坐着看 Sitting Here Just Watching_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "坐车要坐安全座椅 Ride Safe, Sit in Your Car Seat",
+      "title": "坐车要坐安全座椅 Ride Safe, Sit in Your Car Seat",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/坐车要坐安全座椅 Ride Safe, Sit in Your Car Seat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/坐车要坐安全座椅 Ride Safe, Sit in Your Car Seat/坐车要坐安全座椅 Ride Safe, Sit in Your Car Seat_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "坚持 Perseverance",
+      "title": "坚持 Perseverance",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/坚持 Perseverance",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/坚持 Perseverance/坚持 Perseverance_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "夜里自己睡 Sleeping Alone in the Night",
+      "title": "夜里自己睡 Sleeping Alone in the Night",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/夜里自己睡 Sleeping Alone in the Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/夜里自己睡 Sleeping Alone in the Night/夜里自己睡 Sleeping Alone in the Night_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "失望 Disappointed",
+      "title": "失望 Disappointed",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/失望 Disappointed",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/失望 Disappointed/失望 Disappointed_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好奇 Curious",
+      "title": "好奇 Curious",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/好奇 Curious",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/好奇 Curious/好奇 Curious_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "好好说话 Speak Softly, Love Me True",
+      "title": "好好说话 Speak Softly, Love Me True",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/好好说话 Speak Softly, Love Me True",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/好好说话 Speak Softly, Love Me True/好好说话 Speak Softly, Love Me True_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "妈妈在做饭 Mom Is Cooking in the Kitchen",
+      "title": "妈妈在做饭 Mom Is Cooking in the Kitchen",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/妈妈在做饭 Mom Is Cooking in the Kitchen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/妈妈在做饭 Mom Is Cooking in the Kitchen/妈妈在做饭 Mom Is Cooking in the Kitchen_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "委屈 Wronged",
+      "title": "委屈 Wronged",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/委屈 Wronged",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/委屈 Wronged/委屈 Wronged_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "嫉妒 Jealous",
+      "title": "嫉妒 Jealous",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/嫉妒 Jealous",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/嫉妒 Jealous/嫉妒 Jealous_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "孤独 Lonely",
+      "title": "孤独 Lonely",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/孤独 Lonely",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/孤独 Lonely/孤独 Lonely_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "学游泳不怕水 Learn to Swim, Don't Fear the Water",
+      "title": "学游泳不怕水 Learn to Swim, Don't Fear the Water",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/学游泳不怕水 Learn to Swim, Don't Fear the Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/学游泳不怕水 Learn to Swim, Don't Fear the Water/学游泳不怕水 Learn to Swim, Don't Fear the Water_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "守岁不闹 Stay Awake, Stay Quiet",
+      "title": "守岁不闹 Stay Awake, Stay Quiet",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/守岁不闹 Stay Awake, Stay Quiet",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/守岁不闹 Stay Awake, Stay Quiet/守岁不闹 Stay Awake, Stay Quiet_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "安慰小朋友 Comforting a Little One",
+      "title": "安慰小朋友 Comforting a Little One",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/安慰小朋友 Comforting a Little One",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/安慰小朋友 Comforting a Little One/安慰小朋友 Comforting a Little One_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "安静听故事 Listen Quietly to the Story",
+      "title": "安静听故事 Listen Quietly to the Story",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/安静听故事 Listen Quietly to the Story",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/安静听故事 Listen Quietly to the Story/安静听故事 Listen Quietly to the Story_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "安静量体温 Quietly Take Your Temperature",
+      "title": "安静量体温 Quietly Take Your Temperature",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/安静量体温 Quietly Take Your Temperature",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/安静量体温 Quietly Take Your Temperature/安静量体温 Quietly Take Your Temperature_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "害怕 Afraid",
+      "title": "害怕 Afraid",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/害怕 Afraid",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/害怕 Afraid/害怕 Afraid_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "害羞 Shy",
+      "title": "害羞 Shy",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/害羞 Shy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/害羞 Shy/害羞 Shy_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宽容 Tolerance",
+      "title": "宽容 Tolerance",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/宽容 Tolerance",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/宽容 Tolerance/宽容 Tolerance_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "希望 Hope",
+      "title": "希望 Hope",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/希望 Hope",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/希望 Hope/希望 Hope_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "带走自己垃圾 Take Your Own Trash Away",
+      "title": "带走自己垃圾 Take Your Own Trash Away",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/带走自己垃圾 Take Your Own Trash Away",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/带走自己垃圾 Take Your Own Trash Away/带走自己垃圾 Take Your Own Trash Away_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "帮助别人 Help Somebody Out There Tonight",
+      "title": "帮助别人 Help Somebody Out There Tonight",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/帮助别人 Help Somebody Out There Tonight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/帮助别人 Help Somebody Out There Tonight/帮助别人 Help Somebody Out There Tonight_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "帮忙摆碗筷 Help Me Set the Table",
+      "title": "帮忙摆碗筷 Help Me Set the Table",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/帮忙摆碗筷 Help Me Set the Table",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/帮忙摆碗筷 Help Me Set the Table/帮忙摆碗筷 Help Me Set the Table_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "帮忙照顾小宝宝 Help Me Care for the Little Baby",
+      "title": "帮忙照顾小宝宝 Help Me Care for the Little Baby",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/帮忙照顾小宝宝 Help Me Care for the Little Baby",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/帮忙照顾小宝宝 Help Me Care for the Little Baby/帮忙照顾小宝宝 Help Me Care for the Little Baby_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "张大嘴看牙医 Open Wide for the Dentist",
+      "title": "张大嘴看牙医 Open Wide for the Dentist",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/张大嘴看牙医 Open Wide for the Dentist",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/张大嘴看牙医 Open Wide for the Dentist/张大嘴看牙医 Open Wide for the Dentist_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "微笑 Smile",
+      "title": "微笑 Smile",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/微笑 Smile",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/微笑 Smile/微笑 Smile_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "快乐 Happy",
+      "title": "快乐 Happy",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/快乐 Happy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/快乐 Happy/快乐 Happy_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "想念 Miss",
+      "title": "想念 Miss",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/想念 Miss",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/想念 Miss/想念 Miss_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "感恩 Grateful",
+      "title": "感恩 Grateful",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/感恩 Grateful",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/感恩 Grateful/感恩 Grateful_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "戴好游泳圈 Put On Your Swimsuit Ring",
+      "title": "戴好游泳圈 Put On Your Swimsuit Ring",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/戴好游泳圈 Put On Your Swimsuit Ring",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/戴好游泳圈 Put On Your Swimsuit Ring/戴好游泳圈 Put On Your Swimsuit Ring_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打伞注意别人 Watch Your Umbrella, Mind Others",
+      "title": "打伞注意别人 Watch Your Umbrella, Mind Others",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/打伞注意别人 Watch Your Umbrella, Mind Others",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/打伞注意别人 Watch Your Umbrella, Mind Others/打伞注意别人 Watch Your Umbrella, Mind Others_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打喷嚏转身 Sneeze and Turn Around",
+      "title": "打喷嚏转身 Sneeze and Turn Around",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/打喷嚏转身 Sneeze and Turn Around",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/打喷嚏转身 Sneeze and Turn Around/打喷嚏转身 Sneeze and Turn Around_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "打针不哭 Needle, No Tears",
+      "title": "打针不哭 Needle, No Tears",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/打针不哭 Needle, No Tears",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/打针不哭 Needle, No Tears/打针不哭 Needle, No Tears_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "抱着小熊睡 Sleeping with My Teddy Bear",
+      "title": "抱着小熊睡 Sleeping with My Teddy Bear",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/抱着小熊睡 Sleeping with My Teddy Bear"
+    },
+    {
+      "entry_id": "拉手做好朋友 Hold Hands and Be Good Friends",
+      "title": "拉手做好朋友 Hold Hands and Be Good Friends",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/拉手做好朋友 Hold Hands and Be Good Friends",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/拉手做好朋友 Hold Hands and Be Good Friends/拉手做好朋友 Hold Hands and Be Good Friends_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拜年说吉祥话 Wishing You Luck in the New Year",
+      "title": "拜年说吉祥话 Wishing You Luck in the New Year",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/拜年说吉祥话 Wishing You Luck in the New Year",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/拜年说吉祥话 Wishing You Luck in the New Year/拜年说吉祥话 Wishing You Luck in the New Year_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拥抱 Hug",
+      "title": "拥抱 Hug",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/拥抱 Hug",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/拥抱 Hug/拥抱 Hug_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拥抱好朋友 Hugging My Best Friend",
+      "title": "拥抱好朋友 Hugging My Best Friend",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/拥抱好朋友 Hugging My Best Friend",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/拥抱好朋友 Hugging My Best Friend/拥抱好朋友 Hugging My Best Friend_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拿不到请人帮忙 Can't Get It, Ask for Help",
+      "title": "拿不到请人帮忙 Can't Get It, Ask for Help",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/拿不到请人帮忙 Can't Get It, Ask for Help",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/拿不到请人帮忙 Can't Get It, Ask for Help/拿不到请人帮忙 Can't Get It, Ask for Help_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "按时睡觉 Go to Sleep on Time Tonight",
+      "title": "按时睡觉 Go to Sleep on Time Tonight",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/按时睡觉 Go to Sleep on Time Tonight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/按时睡觉 Go to Sleep on Time Tonight/按时睡觉 Go to Sleep on Time Tonight_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "按时起床 Wake Up on Time Every Morning",
+      "title": "按时起床 Wake Up on Time Every Morning",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/按时起床 Wake Up on Time Every Morning",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/按时起床 Wake Up on Time Every Morning/按时起床 Wake Up on Time Every Morning_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "捡贝壳要好看的 Pick Only the Beautiful Shells",
+      "title": "捡贝壳要好看的 Pick Only the Beautiful Shells",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/捡贝壳要好看的 Pick Only the Beautiful Shells",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/捡贝壳要好看的 Pick Only the Beautiful Shells/捡贝壳要好看的 Pick Only the Beautiful Shells_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "排队等待 Waiting in Line for You",
+      "title": "排队等待 Waiting in Line for You",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/排队等待 Waiting in Line for You",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/排队等待 Waiting in Line for You/排队等待 Waiting in Line for You_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "接受不行 Accept That It's Not Okay",
+      "title": "接受不行 Accept That It's Not Okay",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/接受不行 Accept That It's Not Okay",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/接受不行 Accept That It's Not Okay/接受不行 Accept That It's Not Okay_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "接受失败 Accept Failure",
+      "title": "接受失败 Accept Failure",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/接受失败 Accept Failure",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/接受失败 Accept Failure/接受失败 Accept Failure_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "接红包要双手 Receive Red Envelopes with Both Hands",
+      "title": "接红包要双手 Receive Red Envelopes with Both Hands",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/接红包要双手 Receive Red Envelopes with Both Hands",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/接红包要双手 Receive Red Envelopes with Both Hands/接红包要双手 Receive Red Envelopes with Both Hands_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "控制脾气 Control Temper",
+      "title": "控制脾气 Control Temper",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/控制脾气 Control Temper",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/控制脾气 Control Temper/控制脾气 Control Temper_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "摔倒爬起来 Fall Down and Rise Again",
+      "title": "摔倒爬起来 Fall Down and Rise Again",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/摔倒爬起来 Fall Down and Rise Again",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/摔倒爬起来 Fall Down and Rise Again/摔倒爬起来 Fall Down and Rise Again_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "收拾玩具 Tidy Up the Toys",
+      "title": "收拾玩具 Tidy Up the Toys",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/收拾玩具 Tidy Up the Toys",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/收拾玩具 Tidy Up the Toys/收拾玩具 Tidy Up the Toys_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "放松 Relax",
+      "title": "放松 Relax",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/放松 Relax",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/放松 Relax/放松 Relax_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "敲门进屋 Knock Before You Come Inside",
+      "title": "敲门进屋 Knock Before You Come Inside",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/敲门进屋 Knock Before You Come Inside",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/敲门进屋 Knock Before You Come Inside/敲门进屋 Knock Before You Come Inside_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "晚上不蹦跳 No Bouncing in the Night",
+      "title": "晚上不蹦跳 No Bouncing in the Night",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/晚上不蹦跳 No Bouncing in the Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/晚上不蹦跳 No Bouncing in the Night/晚上不蹦跳 No Bouncing in the Night_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "晚安亲亲 Goodnight, My Love, Sweet Kisses",
+      "title": "晚安亲亲 Goodnight, My Love, Sweet Kisses",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/晚安亲亲 Goodnight, My Love, Sweet Kisses",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/晚安亲亲 Goodnight, My Love, Sweet Kisses/晚安亲亲 Goodnight, My Love, Sweet Kisses_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "有问题举手 Raise Your Hand If You Have a Question",
+      "title": "有问题举手 Raise Your Hand If You Have a Question",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/有问题举手 Raise Your Hand If You Have a Question",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/有问题举手 Raise Your Hand If You Have a Question/有问题举手 Raise Your Hand If You Have a Question_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "楼下不能大声 No Loud Noise Downstairs Allowed",
+      "title": "楼下不能大声 No Loud Noise Downstairs Allowed",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/楼下不能大声 No Loud Noise Downstairs Allowed",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/楼下不能大声 No Loud Noise Downstairs Allowed/楼下不能大声 No Loud Noise Downstairs Allowed_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "楼梯上不乱跑 Don't Run on the Stairs",
+      "title": "楼梯上不乱跑 Don't Run on the Stairs",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/楼梯上不乱跑 Don't Run on the Stairs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/楼梯上不乱跑 Don't Run on the Stairs/楼梯上不乱跑 Don't Run on the Stairs_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "沙子不扬起来 Sand Won't Rise Up",
+      "title": "沙子不扬起来 Sand Won't Rise Up",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/沙子不扬起来 Sand Won't Rise Up",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/沙子不扬起来 Sand Won't Rise Up/沙子不扬起来 Sand Won't Rise Up_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "泥坑绕着走 Walking Around the Mud Pit",
+      "title": "泥坑绕着走 Walking Around the Mud Pit",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/泥坑绕着走 Walking Around the Mud Pit",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/泥坑绕着走 Walking Around the Mud Pit/泥坑绕着走 Walking Around the Mud Pit_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "洗手要打肥皂 Wash Your Hands with Soap",
+      "title": "洗手要打肥皂 Wash Your Hands with Soap",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/洗手要打肥皂 Wash Your Hands with Soap",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/洗手要打肥皂 Wash Your Hands with Soap/洗手要打肥皂 Wash Your Hands with Soap_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "深呼吸 Deep Breath",
+      "title": "深呼吸 Deep Breath",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/深呼吸 Deep Breath",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/深呼吸 Deep Breath/深呼吸 Deep Breath_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "湿鞋子告诉妈妈 Wet Shoes Tell Mom",
+      "title": "湿鞋子告诉妈妈 Wet Shoes Tell Mom",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/湿鞋子告诉妈妈 Wet Shoes Tell Mom",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/湿鞋子告诉妈妈 Wet Shoes Tell Mom/湿鞋子告诉妈妈 Wet Shoes Tell Mom_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "滑滑梯排队 Sliding Down the Waiting Line",
+      "title": "滑滑梯排队 Sliding Down the Waiting Line",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/滑滑梯排队 Sliding Down the Waiting Line",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/滑滑梯排队 Sliding Down the Waiting Line/滑滑梯排队 Sliding Down the Waiting Line_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爬梯子慢慢爬 Climbing the Ladder Step by Step",
+      "title": "爬梯子慢慢爬 Climbing the Ladder Step by Step",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/爬梯子慢慢爬 Climbing the Ladder Step by Step",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/爬梯子慢慢爬 Climbing the Ladder Step by Step/爬梯子慢慢爬 Climbing the Ladder Step by Step_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生日不急着拆礼物 Don't Rush to Open Your Gifts",
+      "title": "生日不急着拆礼物 Don't Rush to Open Your Gifts",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/生日不急着拆礼物 Don't Rush to Open Your Gifts",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/生日不急着拆礼物 Don't Rush to Open Your Gifts/生日不急着拆礼物 Don't Rush to Open Your Gifts_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生气 Angry",
+      "title": "生气 Angry",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/生气 Angry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/生气 Angry/生气 Angry_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "生气时怎么办 What To Do When Angry",
+      "title": "生气时怎么办 What To Do When Angry",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/生气时怎么办 What To Do When Angry"
+    },
+    {
+      "entry_id": "用勺子喝汤 Sipping Soup with a Spoon",
+      "title": "用勺子喝汤 Sipping Soup with a Spoon",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/用勺子喝汤 Sipping Soup with a Spoon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/用勺子喝汤 Sipping Soup with a Spoon/用勺子喝汤 Sipping Soup with a Spoon_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "用筷子吃饭 Eating with Chopsticks, a Simple Song",
+      "title": "用筷子吃饭 Eating with Chopsticks, a Simple Song",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/用筷子吃饭 Eating with Chopsticks, a Simple Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/用筷子吃饭 Eating with Chopsticks, a Simple Song/用筷子吃饭 Eating with Chopsticks, a Simple Song_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "用纸画画 Drawing Dreams on Paper",
+      "title": "用纸画画 Drawing Dreams on Paper",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/用纸画画 Drawing Dreams on Paper",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/用纸画画 Drawing Dreams on Paper/用纸画画 Drawing Dreams on Paper_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "电影结束鼓掌 Applause When the Movie Ends",
+      "title": "电影结束鼓掌 Applause When the Movie Ends",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/电影结束鼓掌 Applause When the Movie Ends",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/电影结束鼓掌 Applause When the Movie Ends/电影结束鼓掌 Applause When the Movie Ends_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "电梯里不乱跳 Don't Jump in the Elevator",
+      "title": "电梯里不乱跳 Don't Jump in the Elevator",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/电梯里不乱跳 Don't Jump in the Elevator",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/电梯里不乱跳 Don't Jump in the Elevator/电梯里不乱跳 Don't Jump in the Elevator_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "画完收画笔 Put Down the Brush, the Painting’s Done",
+      "title": "画完收画笔 Put Down the Brush, the Painting’s Done",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/画完收画笔 Put Down the Brush, the Painting’s Done",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/画完收画笔 Put Down the Brush, the Painting’s Done/画完收画笔 Put Down the Brush, the Painting’s Done_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "画画不乱涂墙 Painting Without Staining the Wall",
+      "title": "画画不乱涂墙 Painting Without Staining the Wall",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/画画不乱涂墙 Painting Without Staining the Wall",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/画画不乱涂墙 Painting Without Staining the Wall/画画不乱涂墙 Painting Without Staining the Wall_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看动物不拍玻璃 Don't Tap the Glass, Watch the Wild",
+      "title": "看动物不拍玻璃 Don't Tap the Glass, Watch the Wild",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/看动物不拍玻璃 Don't Tap the Glass, Watch the Wild",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/看动物不拍玻璃 Don't Tap the Glass, Watch the Wild/看动物不拍玻璃 Don't Tap the Glass, Watch the Wild_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看电影不说话 Silent Cinema, No Words Spoken",
+      "title": "看电影不说话 Silent Cinema, No Words Spoken",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/看电影不说话 Silent Cinema, No Words Spoken",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/看电影不说话 Silent Cinema, No Words Spoken/看电影不说话 Silent Cinema, No Words Spoken_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "看病要勇敢 Be Brave When You See the Doctor",
+      "title": "看病要勇敢 Be Brave When You See the Doctor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/看病要勇敢 Be Brave When You See the Doctor",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/看病要勇敢 Be Brave When You See the Doctor/看病要勇敢 Be Brave When You See the Doctor_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "睡觉关灯 Turn Off the Lights When We Sleep",
+      "title": "睡觉关灯 Turn Off the Lights When We Sleep",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/睡觉关灯 Turn Off the Lights When We Sleep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/睡觉关灯 Turn Off the Lights When We Sleep/睡觉关灯 Turn Off the Lights When We Sleep_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "秋千轮流荡 Swinging on the Autumn Swing",
+      "title": "秋千轮流荡 Swinging on the Autumn Swing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/秋千轮流荡 Swinging on the Autumn Swing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/秋千轮流荡 Swinging on the Autumn Swing/秋千轮流荡 Swinging on the Autumn Swing_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "穿雨衣不乱甩 Don't Fling Your Raincoat Around",
+      "title": "穿雨衣不乱甩 Don't Fling Your Raincoat Around",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/穿雨衣不乱甩 Don't Fling Your Raincoat Around",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/穿雨衣不乱甩 Don't Fling Your Raincoat Around/穿雨衣不乱甩 Don't Fling Your Raincoat Around_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "端菜小心 Handle the Dishes with Care",
+      "title": "端菜小心 Handle the Dishes with Care",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/端菜小心 Handle the Dishes with Care",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/端菜小心 Handle the Dishes with Care/端菜小心 Handle the Dishes with Care_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "第一次上幼儿园 My First Day at Kindergarten",
+      "title": "第一次上幼儿园 My First Day at Kindergarten",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/第一次上幼儿园 My First Day at Kindergarten",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/第一次上幼儿园 My First Day at Kindergarten/第一次上幼儿园 My First Day at Kindergarten_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "等饭做好 When the Meal Is Ready",
+      "title": "等饭做好 When the Meal Is Ready",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/等饭做好 When the Meal Is Ready",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/等饭做好 When the Meal Is Ready/等饭做好 When the Meal Is Ready_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "紧张 Nervous",
+      "title": "紧张 Nervous",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/紧张 Nervous",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/紧张 Nervous/紧张 Nervous_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "红灯停绿灯行 Red Light Stop, Green Light Go",
+      "title": "红灯停绿灯行 Red Light Stop, Green Light Go",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/红灯停绿灯行 Red Light Stop, Green Light Go",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/红灯停绿灯行 Red Light Stop, Green Light Go/红灯停绿灯行 Red Light Stop, Green Light Go_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "耐心 Patient",
+      "title": "耐心 Patient",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/耐心 Patient",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/耐心 Patient/耐心 Patient_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "耐心等待 Wait Patiently for the Right Moment",
+      "title": "耐心等待 Wait Patiently for the Right Moment",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/耐心等待 Wait Patiently for the Right Moment",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/耐心等待 Wait Patiently for the Right Moment/耐心等待 Wait Patiently for the Right Moment_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自信 Confident",
+      "title": "自信 Confident",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自信 Confident",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自信 Confident/自信 Confident_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己刷牙 Brush Your Teeth All By Yourself",
+      "title": "自己刷牙 Brush Your Teeth All By Yourself",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己刷牙 Brush Your Teeth All By Yourself",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己刷牙 Brush Your Teeth All By Yourself/自己刷牙 Brush Your Teeth All By Yourself_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己叠被子 Make Your Own Bed Every Morning",
+      "title": "自己叠被子 Make Your Own Bed Every Morning",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己叠被子 Make Your Own Bed Every Morning",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己叠被子 Make Your Own Bed Every Morning/自己叠被子 Make Your Own Bed Every Morning_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己吃饭 Feed Myself, Sing My Way",
+      "title": "自己吃饭 Feed Myself, Sing My Way",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己吃饭 Feed Myself, Sing My Way",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己吃饭 Feed Myself, Sing My Way/自己吃饭 Feed Myself, Sing My Way_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己扣扣子 Buttoning Up My Own Buttons",
+      "title": "自己扣扣子 Buttoning Up My Own Buttons",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己扣扣子 Buttoning Up My Own Buttons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己扣扣子 Buttoning Up My Own Buttons/自己扣扣子 Buttoning Up My Own Buttons_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己拉拉链 Zip Myself Up",
+      "title": "自己拉拉链 Zip Myself Up",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己拉拉链 Zip Myself Up",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己拉拉链 Zip Myself Up/自己拉拉链 Zip Myself Up_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己整理书包 Organize My Own Backpack",
+      "title": "自己整理书包 Organize My Own Backpack",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己整理书包 Organize My Own Backpack",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己整理书包 Organize My Own Backpack/自己整理书包 Organize My Own Backpack_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己梳头 Brush My Own Hair, Sing My Own Song",
+      "title": "自己梳头 Brush My Own Hair, Sing My Own Song",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己梳头 Brush My Own Hair, Sing My Own Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己梳头 Brush My Own Hair, Sing My Own Song/自己梳头 Brush My Own Hair, Sing My Own Song_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己洗脸 Wash My Own Face",
+      "title": "自己洗脸 Wash My Own Face",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己洗脸 Wash My Own Face",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己洗脸 Wash My Own Face/自己洗脸 Wash My Own Face_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己穿衣 Dress Myself Up",
+      "title": "自己穿衣 Dress Myself Up",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己穿衣 Dress Myself Up",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己穿衣 Dress Myself Up/自己穿衣 Dress Myself Up_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己穿鞋 Putting On My Own Shoes",
+      "title": "自己穿鞋 Putting On My Own Shoes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己穿鞋 Putting On My Own Shoes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己穿鞋 Putting On My Own Shoes/自己穿鞋 Putting On My Own Shoes_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "自己进教室 Entering the Classroom Alone",
+      "title": "自己进教室 Entering the Classroom Alone",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/自己进教室 Entering the Classroom Alone",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/自己进教室 Entering the Classroom Alone/自己进教室 Entering the Classroom Alone_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "节约用水 Save Every Drop, Sing for Tomorrow",
+      "title": "节约用水 Save Every Drop, Sing for Tomorrow",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/节约用水 Save Every Drop, Sing for Tomorrow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/节约用水 Save Every Drop, Sing for Tomorrow/节约用水 Save Every Drop, Sing for Tomorrow_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "表达爱 Express Love",
+      "title": "表达爱 Express Love",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/表达爱 Express Love",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/表达爱 Express Love/表达爱 Express Love_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识新朋友 Making New Friends Today",
+      "title": "认识新朋友 Making New Friends Today",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/认识新朋友 Making New Friends Today",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/认识新朋友 Making New Friends Today/认识新朋友 Making New Friends Today_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "让座给老人 Give Your Seat to the Elderly",
+      "title": "让座给老人 Give Your Seat to the Elderly",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/让座给老人 Give Your Seat to the Elderly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/让座给老人 Give Your Seat to the Elderly/让座给老人 Give Your Seat to the Elderly_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "记住妈妈电话 Remember Mom's Phone Number",
+      "title": "记住妈妈电话 Remember Mom's Phone Number",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/记住妈妈电话 Remember Mom's Phone Number",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/记住妈妈电话 Remember Mom's Phone Number/记住妈妈电话 Remember Mom's Phone Number_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "记住家里地址 Remember the Address of Home",
+      "title": "记住家里地址 Remember the Address of Home",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/记住家里地址 Remember the Address of Home",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/记住家里地址 Remember the Address of Home/记住家里地址 Remember the Address of Home_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "诚实 Honesty",
+      "title": "诚实 Honesty",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/诚实 Honesty",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/诚实 Honesty/诚实 Honesty_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "说对不起 Say You're Sorry",
+      "title": "说对不起 Say You're Sorry",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/说对不起 Say You're Sorry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/说对不起 Say You're Sorry/说对不起 Say You're Sorry_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "说没关系 Say It's Alright",
+      "title": "说没关系 Say It's Alright",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/说没关系 Say It's Alright",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/说没关系 Say It's Alright/说没关系 Say It's Alright_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "说请 Please Say It Again",
+      "title": "说请 Please Say It Again",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/说请 Please Say It Again",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/说请 Please Say It Again/说请 Please Say It Again_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "赞美别人 Praise Others",
+      "title": "赞美别人 Praise Others",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/赞美别人 Praise Others",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/赞美别人 Praise Others/赞美别人 Praise Others_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "赢了不骄傲 Win Without Pride",
+      "title": "赢了不骄傲 Win Without Pride",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/赢了不骄傲 Win Without Pride",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/赢了不骄傲 Win Without Pride/赢了不骄傲 Win Without Pride_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "走丢找警察 Lost Child Finds a Police Officer",
+      "title": "走丢找警察 Lost Child Finds a Police Officer",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/走丢找警察 Lost Child Finds a Police Officer"
+    },
+    {
+      "entry_id": "走人行横道 Walk the Crosswalk in the Night",
+      "title": "走人行横道 Walk the Crosswalk in the Night",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/走人行横道 Walk the Crosswalk in the Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/走人行横道 Walk the Crosswalk in the Night/走人行横道 Walk the Crosswalk in the Night_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "走路轻一点 Walk a Little Softer Now",
+      "title": "走路轻一点 Walk a Little Softer Now",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/走路轻一点 Walk a Little Softer Now",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/走路轻一点 Walk a Little Softer Now/走路轻一点 Walk a Little Softer Now_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "超市不随便拿 Don't Take Anything from the Store",
+      "title": "超市不随便拿 Don't Take Anything from the Store",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/超市不随便拿 Don't Take Anything from the Store",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/超市不随便拿 Don't Take Anything from the Store/超市不随便拿 Don't Take Anything from the Store_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "跟着爸爸妈妈 Following Mom and Dad",
+      "title": "跟着爸爸妈妈 Following Mom and Dad",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/跟着爸爸妈妈 Following Mom and Dad",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/跟着爸爸妈妈 Following Mom and Dad/跟着爸爸妈妈 Following Mom and Dad_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "跟紧大人 Stay Close to the Grown-Ups",
+      "title": "跟紧大人 Stay Close to the Grown-Ups",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/跟紧大人 Stay Close to the Grown-Ups",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/跟紧大人 Stay Close to the Grown-Ups/跟紧大人 Stay Close to the Grown-Ups_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "轮流滑滑梯 Sliding Down the Slide in Turns",
+      "title": "轮流滑滑梯 Sliding Down the Slide in Turns",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/轮流滑滑梯 Sliding Down the Slide in Turns",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/轮流滑滑梯 Sliding Down the Slide in Turns/轮流滑滑梯 Sliding Down the Slide in Turns_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "轮流玩 Taking Turns to Play",
+      "title": "轮流玩 Taking Turns to Play",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/轮流玩 Taking Turns to Play",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/轮流玩 Taking Turns to Play/轮流玩 Taking Turns to Play_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "轻拿轻放 Handle with Care, Handle with Love",
+      "title": "轻拿轻放 Handle with Care, Handle with Love",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/轻拿轻放 Handle with Care, Handle with Love",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/轻拿轻放 Handle with Care, Handle with Love/轻拿轻放 Handle with Care, Handle with Love_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "输了不哭 Don't Cry When You Lose",
+      "title": "输了不哭 Don't Cry When You Lose",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/输了不哭 Don't Cry When You Lose",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/输了不哭 Don't Cry When You Lose/输了不哭 Don't Cry When You Lose_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "过马路要牵手 Hold Hands When Crossing the Road",
+      "title": "过马路要牵手 Hold Hands When Crossing the Road",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/过马路要牵手 Hold Hands When Crossing the Road",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/过马路要牵手 Hold Hands When Crossing the Road/过马路要牵手 Hold Hands When Crossing the Road_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "防晒要涂好 Apply Sunscreen Before You Shine",
+      "title": "防晒要涂好 Apply Sunscreen Before You Shine",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/防晒要涂好 Apply Sunscreen Before You Shine",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/防晒要涂好 Apply Sunscreen Before You Shine/防晒要涂好 Apply Sunscreen Before You Shine_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "难过 Sad",
+      "title": "难过 Sad",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/难过 Sad",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/难过 Sad/难过 Sad_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "面对错误 Face Mistakes",
+      "title": "面对错误 Face Mistakes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/面对错误 Face Mistakes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/面对错误 Face Mistakes/面对错误 Face Mistakes_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "颜料不弄脏衣服 Keep the Paint Off My Clothes",
+      "title": "颜料不弄脏衣服 Keep the Paint Off My Clothes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/品格成长/双语歌曲/颜料不弄脏衣服 Keep the Paint Off My Clothes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/品格成长/双语歌曲/颜料不弄脏衣服 Keep the Paint Off My Clothes/颜料不弄脏衣服 Keep the Paint Off My Clothes_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/数学启蒙/双语歌曲",
+  "name": "双语歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/双语歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 78,
+  "entries": [
+    {
+      "entry_id": "乘法口诀 Multiplication Table",
+      "title": "乘法口诀 Multiplication Table",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/乘法口诀 Multiplication Table",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/乘法口诀 Multiplication Table/乘法口诀 Multiplication Table_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "减法学减法 Learning Subtraction",
+      "title": "减法学减法 Learning Subtraction",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/减法学减法 Learning Subtraction",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/减法学减法 Learning Subtraction/减法学减法 Learning Subtraction_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "分数入门 Introduction to Fractions",
+      "title": "分数入门 Introduction to Fractions",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/分数入门 Introduction to Fractions",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/分数入门 Introduction to Fractions/分数入门 Introduction to Fractions_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "加法学加法 Learning Addition",
+      "title": "加法学加法 Learning Addition",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/加法学加法 Learning Addition",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/加法学加法 Learning Addition/加法学加法 Learning Addition_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "小数入门 Introduction to Decimals",
+      "title": "小数入门 Introduction to Decimals",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/小数入门 Introduction to Decimals",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/小数入门 Introduction to Decimals/小数入门 Introduction to Decimals_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "形状世界 Shapes Around Us",
+      "title": "形状世界 Shapes Around Us",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/形状世界 Shapes Around Us",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/形状世界 Shapes Around Us/形状世界 Shapes Around Us_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "排列组合入门 Combinations",
+      "title": "排列组合入门 Combinations",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/排列组合入门 Combinations",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/排列组合入门 Combinations/排列组合入门 Combinations_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数字1到10 Numbers 1-10",
+      "title": "数字1到10 Numbers 1-10",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/数字1到10 Numbers 1-10",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/数字1到10 Numbers 1-10/数字1到10 Numbers 1-10_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学与体育 Math in Sports",
+      "title": "数学与体育 Math in Sports",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/数学与体育 Math in Sports",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/数学与体育 Math in Sports/数学与体育 Math in Sports_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学与建筑 Math and Architecture",
+      "title": "数学与建筑 Math and Architecture",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/数学与建筑 Math and Architecture",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/数学与建筑 Math and Architecture/数学与建筑 Math and Architecture_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学与自然 Math in Nature",
+      "title": "数学与自然 Math in Nature",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/数学与自然 Math in Nature",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/数学与自然 Math in Nature/数学与自然 Math in Nature_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学与艺术 Math and Art",
+      "title": "数学与艺术 Math and Art",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/数学与艺术 Math and Art",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/数学与艺术 Math and Art/数学与艺术 Math and Art_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学与音乐 Math and Music",
+      "title": "数学与音乐 Math and Music",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/数学与音乐 Math and Music",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/数学与音乐 Math and Music/数学与音乐 Math and Music_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学在生活中的应用 Math in Daily Life",
+      "title": "数学在生活中的应用 Math in Daily Life",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/数学在生活中的应用 Math in Daily Life",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/数学在生活中的应用 Math in Daily Life/数学在生活中的应用 Math in Daily Life_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学家的故事 Stories of Mathematicians",
+      "title": "数学家的故事 Stories of Mathematicians",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/数学家的故事 Stories of Mathematicians",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/数学家的故事 Stories of Mathematicians/数学家的故事 Stories of Mathematicians_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数学趣题 Fun Math Problems",
+      "title": "数学趣题 Fun Math Problems",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/数学趣题 Fun Math Problems",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/数学趣题 Fun Math Problems/数学趣题 Fun Math Problems_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "数轴入门 Number Line",
+      "title": "数轴入门 Number Line",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/数轴入门 Number Line",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/数轴入门 Number Line/数轴入门 Number Line_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "概率入门 Introduction to Probability",
+      "title": "概率入门 Introduction to Probability",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/概率入门 Introduction to Probability",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/概率入门 Introduction to Probability/概率入门 Introduction to Probability_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "比较大小 Comparing Sizes",
+      "title": "比较大小 Comparing Sizes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/比较大小 Comparing Sizes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/比较大小 Comparing Sizes/比较大小 Comparing Sizes_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "测量长短 Measuring Length",
+      "title": "测量长短 Measuring Length",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/测量长短 Measuring Length",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/测量长短 Measuring Length/测量长短 Measuring Length_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "立体图形 3D Shapes",
+      "title": "立体图形 3D Shapes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/立体图形 3D Shapes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/立体图形 3D Shapes/立体图形 3D Shapes_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识三角形分类 Types of Triangles",
+      "title": "认识三角形分类 Types of Triangles",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识三角形分类 Types of Triangles",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识三角形分类 Types of Triangles/认识三角形分类 Types of Triangles_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识不等式 Inequalities",
+      "title": "认识不等式 Inequalities",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识不等式 Inequalities",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识不等式 Inequalities/认识不等式 Inequalities_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识乘法分配律 Distributive Property",
+      "title": "认识乘法分配律 Distributive Property",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识乘法分配律 Distributive Property",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识乘法分配律 Distributive Property/认识乘法分配律 Distributive Property_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识二进制 Binary Numbers",
+      "title": "认识二进制 Binary Numbers",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识二进制 Binary Numbers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识二进制 Binary Numbers/认识二进制 Binary Numbers_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识估算 Estimation",
+      "title": "认识估算 Estimation",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识估算 Estimation",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识估算 Estimation/认识估算 Estimation_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识体积 Volume",
+      "title": "认识体积 Volume",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识体积 Volume",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识体积 Volume/认识体积 Volume_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识几何证明 Geometric Proofs",
+      "title": "认识几何证明 Geometric Proofs",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识几何证明 Geometric Proofs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识几何证明 Geometric Proofs/认识几何证明 Geometric Proofs_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识函数 Functions",
+      "title": "认识函数 Functions",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识函数 Functions",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识函数 Functions/认识函数 Functions_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识勾股定理 Pythagorean Theorem",
+      "title": "认识勾股定理 Pythagorean Theorem",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识勾股定理 Pythagorean Theorem",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识勾股定理 Pythagorean Theorem/认识勾股定理 Pythagorean Theorem_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识单位换算 Unit Conversion",
+      "title": "认识单位换算 Unit Conversion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识单位换算 Unit Conversion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识单位换算 Unit Conversion/认识单位换算 Unit Conversion_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识周长 Perimeter",
+      "title": "认识周长 Perimeter",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识周长 Perimeter",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识周长 Perimeter/认识周长 Perimeter_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识四舍五入 Rounding",
+      "title": "认识四舍五入 Rounding",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识四舍五入 Rounding",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识四舍五入 Rounding/认识四舍五入 Rounding_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识四边形 Quadrilaterals",
+      "title": "认识四边形 Quadrilaterals",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识四边形 Quadrilaterals",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识四边形 Quadrilaterals/认识四边形 Quadrilaterals_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识图形 2D Shapes",
+      "title": "认识图形 2D Shapes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识图形 2D Shapes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识图形 2D Shapes/认识图形 2D Shapes_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识图表 Charts and Graphs",
+      "title": "认识图表 Charts and Graphs",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识图表 Charts and Graphs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识图表 Charts and Graphs/认识图表 Charts and Graphs_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识圆周率 Pi",
+      "title": "认识圆周率 Pi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识圆周率 Pi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识圆周率 Pi/认识圆周率 Pi_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识圆形圆形 Circle Geometry",
+      "title": "认识圆形圆形 Circle Geometry",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识圆形圆形 Circle Geometry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识圆形圆形 Circle Geometry/认识圆形圆形 Circle Geometry_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识坐标 Coordinates",
+      "title": "认识坐标 Coordinates",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识坐标 Coordinates",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识坐标 Coordinates/认识坐标 Coordinates_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识坐标系 Coordinate System",
+      "title": "认识坐标系 Coordinate System",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识坐标系 Coordinate System",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识坐标系 Coordinate System/认识坐标系 Coordinate System_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识坐标系平面 Coordinate Plane",
+      "title": "认识坐标系平面 Coordinate Plane",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识坐标系平面 Coordinate Plane",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识坐标系平面 Coordinate Plane/认识坐标系平面 Coordinate Plane_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识多边形 Polygons",
+      "title": "认识多边形 Polygons",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识多边形 Polygons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识多边形 Polygons/认识多边形 Polygons_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识奇数偶数 Odd and Even",
+      "title": "认识奇数偶数 Odd and Even",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识奇数偶数 Odd and Even",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识奇数偶数 Odd and Even/认识奇数偶数 Odd and Even_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识容量 Measuring Capacity",
+      "title": "认识容量 Measuring Capacity",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识容量 Measuring Capacity",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识容量 Measuring Capacity/认识容量 Measuring Capacity_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识对称 Symmetry",
+      "title": "认识对称 Symmetry",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识对称 Symmetry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识对称 Symmetry/认识对称 Symmetry_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识对称轴 Axis of Symmetry",
+      "title": "认识对称轴 Axis of Symmetry",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识对称轴 Axis of Symmetry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识对称轴 Axis of Symmetry/认识对称轴 Axis of Symmetry_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识平年闰年 Leap Year",
+      "title": "认识平年闰年 Leap Year",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识平年闰年 Leap Year",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识平年闰年 Leap Year/认识平年闰年 Leap Year_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识平移旋转 Reflection and Rotation",
+      "title": "认识平移旋转 Reflection and Rotation",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识平移旋转 Reflection and Rotation",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识平移旋转 Reflection and Rotation/认识平移旋转 Reflection and Rotation_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识度量衡 Units of Measurement",
+      "title": "认识度量衡 Units of Measurement",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识度量衡 Units of Measurement",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识度量衡 Units of Measurement/认识度量衡 Units of Measurement_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识数列 Number Sequences",
+      "title": "认识数列 Number Sequences",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识数列 Number Sequences",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识数列 Number Sequences/认识数列 Number Sequences_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识数据分析 Data Analysis",
+      "title": "认识数据分析 Data Analysis",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识数据分析 Data Analysis",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识数据分析 Data Analysis/认识数据分析 Data Analysis_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识数据收集 Data Collection",
+      "title": "认识数据收集 Data Collection",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识数据收集 Data Collection",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识数据收集 Data Collection/认识数据收集 Data Collection_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识方程 Equations",
+      "title": "认识方程 Equations",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识方程 Equations",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识方程 Equations/认识方程 Equations_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识日期计算 Date Calculation",
+      "title": "认识日期计算 Date Calculation",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识日期计算 Date Calculation",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识日期计算 Date Calculation/认识日期计算 Date Calculation_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识时间换算 Time Conversion",
+      "title": "认识时间换算 Time Conversion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识时间换算 Time Conversion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识时间换算 Time Conversion/认识时间换算 Time Conversion_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识最大公约数 Greatest Common Factor",
+      "title": "认识最大公约数 Greatest Common Factor",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识最大公约数 Greatest Common Factor",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识最大公约数 Greatest Common Factor/认识最大公约数 Greatest Common Factor_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识最小公倍数 Least Common Multiple",
+      "title": "认识最小公倍数 Least Common Multiple",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识最小公倍数 Least Common Multiple",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识最小公倍数 Least Common Multiple/认识最小公倍数 Least Common Multiple_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识比例 Ratios",
+      "title": "认识比例 Ratios",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识比例 Ratios",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识比例 Ratios/认识比例 Ratios_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识温度 Measuring Temperature",
+      "title": "认识温度 Measuring Temperature",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识温度 Measuring Temperature",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识温度 Measuring Temperature/认识温度 Measuring Temperature_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识百分比 Percentages",
+      "title": "认识百分比 Percentages",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识百分比 Percentages",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识百分比 Percentages/认识百分比 Percentages_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识直径半径 Diameter and Radius",
+      "title": "认识直径半径 Diameter and Radius",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识直径半径 Diameter and Radius",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识直径半径 Diameter and Radius/认识直径半径 Diameter and Radius_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识统计 Statistics",
+      "title": "认识统计 Statistics",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识统计 Statistics",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识统计 Statistics/认识统计 Statistics_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识罗马数字 Roman Numerals",
+      "title": "认识罗马数字 Roman Numerals",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识罗马数字 Roman Numerals",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识罗马数字 Roman Numerals/认识罗马数字 Roman Numerals_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识规律 Patterns",
+      "title": "认识规律 Patterns",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识规律 Patterns",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识规律 Patterns/认识规律 Patterns_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识角度 Angles",
+      "title": "认识角度 Angles",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识角度 Angles",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识角度 Angles/认识角度 Angles_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识负数 Negative Numbers",
+      "title": "认识负数 Negative Numbers",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识负数 Negative Numbers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识负数 Negative Numbers/认识负数 Negative Numbers_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识货币 Learning about Money",
+      "title": "认识货币 Learning about Money",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识货币 Learning about Money",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识货币 Learning about Money/认识货币 Learning about Money_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识货币换算 Currency Conversion",
+      "title": "认识货币换算 Currency Conversion",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识货币换算 Currency Conversion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识货币换算 Currency Conversion/认识货币换算 Currency Conversion_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识质数 Prime Numbers",
+      "title": "认识质数 Prime Numbers",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识质数 Prime Numbers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识质数 Prime Numbers/认识质数 Prime Numbers_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识运算顺序 Order of Operations",
+      "title": "认识运算顺序 Order of Operations",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识运算顺序 Order of Operations",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识运算顺序 Order of Operations/认识运算顺序 Order of Operations_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识进位 Carrying",
+      "title": "认识进位 Carrying",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识进位 Carrying",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识进位 Carrying/认识进位 Carrying_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识退位 Borrowing",
+      "title": "认识退位 Borrowing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识退位 Borrowing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识退位 Borrowing/认识退位 Borrowing_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识速度 Speed",
+      "title": "认识速度 Speed",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识速度 Speed",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识速度 Speed/认识速度 Speed_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识重量 Measuring Weight",
+      "title": "认识重量 Measuring Weight",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识重量 Measuring Weight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识重量 Measuring Weight/认识重量 Measuring Weight_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识钟表 Telling Time",
+      "title": "认识钟表 Telling Time",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识钟表 Telling Time",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识钟表 Telling Time/认识钟表 Telling Time_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "认识面积 Area",
+      "title": "认识面积 Area",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/认识面积 Area",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/认识面积 Area/认识面积 Area_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "逻辑推理 Logical Reasoning",
+      "title": "逻辑推理 Logical Reasoning",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/逻辑推理 Logical Reasoning",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/逻辑推理 Logical Reasoning/逻辑推理 Logical Reasoning_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "除法入门 Division Basics",
+      "title": "除法入门 Division Basics",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/双语歌曲/除法入门 Division Basics",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/双语歌曲/除法入门 Division Basics/除法入门 Division Basics_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

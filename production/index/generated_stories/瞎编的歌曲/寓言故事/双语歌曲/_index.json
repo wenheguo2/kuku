@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/寓言故事/双语歌曲",
   "name": "双语歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/寓言故事.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/双语歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 167,
@@ -16,119 +16,187 @@
       "title": "一叶障目 One Leaf Blinds the Eye",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/一叶障目 One Leaf Blinds the Eye"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/一叶障目 One Leaf Blinds the Eye",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/一叶障目 One Leaf Blinds the Eye/一叶障目 One Leaf Blinds the Eye_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一捆树枝 The Bundle of Sticks",
       "title": "一捆树枝 The Bundle of Sticks",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/一捆树枝 The Bundle of Sticks"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/一捆树枝 The Bundle of Sticks",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/一捆树枝 The Bundle of Sticks/一捆树枝 The Bundle of Sticks_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一鸣惊人 Astonishing at the First Cry",
       "title": "一鸣惊人 Astonishing at the First Cry",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/一鸣惊人 Astonishing at the First Cry"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/一鸣惊人 Astonishing at the First Cry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/一鸣惊人 Astonishing at the First Cry/一鸣惊人 Astonishing at the First Cry_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三人成虎 Three Men Make a Tiger",
       "title": "三人成虎 Three Men Make a Tiger",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/三人成虎 Three Men Make a Tiger"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/三人成虎 Three Men Make a Tiger",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/三人成虎 Three Men Make a Tiger/三人成虎 Three Men Make a Tiger_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "下金蛋的鹅 The Goose That Laid the Golden Eggs",
       "title": "下金蛋的鹅 The Goose That Laid the Golden Eggs",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/下金蛋的鹅 The Goose That Laid the Golden Eggs"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/下金蛋的鹅 The Goose That Laid the Golden Eggs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/下金蛋的鹅 The Goose That Laid the Golden Eggs/下金蛋的鹅 The Goose That Laid the Golden Eggs_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "东施效颦 Ugly Xi Imitating the Frown",
       "title": "东施效颦 Ugly Xi Imitating the Frown",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/东施效颦 Ugly Xi Imitating the Frown"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/东施效颦 Ugly Xi Imitating the Frown",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/东施效颦 Ugly Xi Imitating the Frown/东施效颦 Ugly Xi Imitating the Frown_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "两个桶 The Two Barrels",
       "title": "两个桶 The Two Barrels",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/两个桶 The Two Barrels"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/两个桶 The Two Barrels",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/两个桶 The Two Barrels/两个桶 The Two Barrels_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "两只袋子 Zeus and the Two Bags",
       "title": "两只袋子 Zeus and the Two Bags",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/两只袋子 Zeus and the Two Bags"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/两只袋子 Zeus and the Two Bags",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/两只袋子 Zeus and the Two Bags/两只袋子 Zeus and the Two Bags_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "两只鸽子 The Two Pigeons",
       "title": "两只鸽子 The Two Pigeons",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/两只鸽子 The Two Pigeons"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/两只鸽子 The Two Pigeons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/两只鸽子 The Two Pigeons/两只鸽子 The Two Pigeons_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乌鸦和母鸡 The Crow and the Hen",
       "title": "乌鸦和母鸡 The Crow and the Hen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/乌鸦和母鸡 The Crow and the Hen"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/乌鸦和母鸡 The Crow and the Hen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/乌鸦和母鸡 The Crow and the Hen/乌鸦和母鸡 The Crow and the Hen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乌鸦和狐狸（另一版本） The Crow and the Fox (II)",
       "title": "乌鸦和狐狸（另一版本） The Crow and the Fox (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/乌鸦和狐狸（另一版本） The Crow and the Fox (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/乌鸦和狐狸（另一版本） The Crow and the Fox (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/乌鸦和狐狸（另一版本） The Crow and the Fox (II)/乌鸦和狐狸（另一版本） The Crow and the Fox (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乌鸦喝水 The Crow and the Pitcher",
       "title": "乌鸦喝水 The Crow and the Pitcher",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/乌鸦喝水 The Crow and the Pitcher"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/乌鸦喝水 The Crow and the Pitcher",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/乌鸦喝水 The Crow and the Pitcher/乌鸦喝水 The Crow and the Pitcher_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "买椟还珠 Buying the Casket and Returning the Pearl",
       "title": "买椟还珠 Buying the Casket and Returning the Pearl",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/买椟还珠 Buying the Casket and Returning the Pearl"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/买椟还珠 Buying the Casket and Returning the Pearl",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/买椟还珠 Buying the Casket and Returning the Pearl/买椟还珠 Buying the Casket and Returning the Pearl_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "井底之蛙 The Frog in a Well",
       "title": "井底之蛙 The Frog in a Well",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/井底之蛙 The Frog in a Well"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/井底之蛙 The Frog in a Well",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/井底之蛙 The Frog in a Well/井底之蛙 The Frog in a Well_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "亡羊补牢 Mend the Fold After Losing the Sheep",
       "title": "亡羊补牢 Mend the Fold After Losing the Sheep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/亡羊补牢 Mend the Fold After Losing the Sheep"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/亡羊补牢 Mend the Fold After Losing the Sheep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/亡羊补牢 Mend the Fold After Losing the Sheep/亡羊补牢 Mend the Fold After Losing the Sheep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "人与木偶 The Man and the Wooden God",
       "title": "人与木偶 The Man and the Wooden God",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/人与木偶 The Man and the Wooden God"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/人与木偶 The Man and the Wooden God",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/人与木偶 The Man and the Wooden God/人与木偶 The Man and the Wooden God_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "人与森林之神 The Man and the Wood-God",
       "title": "人与森林之神 The Man and the Wood-God",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/人与森林之神 The Man and the Wood-God"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/人与森林之神 The Man and the Wood-God",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/人与森林之神 The Man and the Wood-God/人与森林之神 The Man and the Wood-God_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "公鸡与珍珠 The Cock and the Pearl",
@@ -149,1036 +217,1628 @@
       "title": "农夫与蛇 The Farmer and the Snake",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/农夫与蛇 The Farmer and the Snake"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/农夫与蛇 The Farmer and the Snake",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/农夫与蛇 The Farmer and the Snake/农夫与蛇 The Farmer and the Snake_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "农夫和蛇（另一版本） The Peasant and the Snake (II)",
       "title": "农夫和蛇（另一版本） The Peasant and the Snake (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/农夫和蛇（另一版本） The Peasant and the Snake (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/农夫和蛇（另一版本） The Peasant and the Snake (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/农夫和蛇（另一版本） The Peasant and the Snake (II)/农夫和蛇（另一版本） The Peasant and the Snake (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "刻舟求剑 Marking the Boat to Find the Sword",
       "title": "刻舟求剑 Marking the Boat to Find the Sword",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/刻舟求剑 Marking the Boat to Find the Sword"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/刻舟求剑 Marking the Boat to Find the Sword",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/刻舟求剑 Marking the Boat to Find the Sword/刻舟求剑 Marking the Boat to Find the Sword_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "割席分坐 Cutting the Mat to Part Company",
       "title": "割席分坐 Cutting the Mat to Part Company",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/割席分坐 Cutting the Mat to Part Company"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/割席分坐 Cutting the Mat to Part Company",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/割席分坐 Cutting the Mat to Part Company/割席分坐 Cutting the Mat to Part Company_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "北风与太阳 The North Wind and the Sun",
       "title": "北风与太阳 The North Wind and the Sun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/北风与太阳 The North Wind and the Sun"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/北风与太阳 The North Wind and the Sun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/北风与太阳 The North Wind and the Sun/北风与太阳 The North Wind and the Sun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "北风和太阳（另一版本） The North Wind and the Sun (II)",
       "title": "北风和太阳（另一版本） The North Wind and the Sun (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/北风和太阳（另一版本） The North Wind and the Sun (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/北风和太阳（另一版本） The North Wind and the Sun (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/北风和太阳（另一版本） The North Wind and the Sun (II)/北风和太阳（另一版本） The North Wind and the Sun (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "南辕北辙 South Carriage, North Wheels",
       "title": "南辕北辙 South Carriage, North Wheels",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/南辕北辙 South Carriage, North Wheels"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/南辕北辙 South Carriage, North Wheels",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/南辕北辙 South Carriage, North Wheels/南辕北辙 South Carriage, North Wheels_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "叶公好龙 Lord Ye Who Loved Dragons",
       "title": "叶公好龙 Lord Ye Who Loved Dragons",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/叶公好龙 Lord Ye Who Loved Dragons"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/叶公好龙 Lord Ye Who Loved Dragons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/叶公好龙 Lord Ye Who Loved Dragons/叶公好龙 Lord Ye Who Loved Dragons_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "命运女神和乞丐 Fortune and the Beggar",
       "title": "命运女神和乞丐 Fortune and the Beggar",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/命运女神和乞丐 Fortune and the Beggar"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/命运女神和乞丐 Fortune and the Beggar",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/命运女神和乞丐 Fortune and the Beggar/命运女神和乞丐 Fortune and the Beggar_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "唇亡齿寒 When the Lips Are Gone, the Teeth Feel Cold",
       "title": "唇亡齿寒 When the Lips Are Gone, the Teeth Feel Cold",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/唇亡齿寒 When the Lips Are Gone, the Teeth Feel Cold"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/唇亡齿寒 When the Lips Are Gone, the Teeth Feel Cold",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/唇亡齿寒 When the Lips Are Gone, the Teeth Feel Cold/唇亡齿寒 When the Lips Are Gone, the Teeth Feel Cold_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "囫囵吞枣 Swallowing a Date Whole",
       "title": "囫囵吞枣 Swallowing a Date Whole",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/囫囵吞枣 Swallowing a Date Whole"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/囫囵吞枣 Swallowing a Date Whole",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/囫囵吞枣 Swallowing a Date Whole/囫囵吞枣 Swallowing a Date Whole_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "城里老鼠和乡下老鼠 The Town Mouse and the Country Mouse",
       "title": "城里老鼠和乡下老鼠 The Town Mouse and the Country Mouse",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/城里老鼠和乡下老鼠 The Town Mouse and the Country Mouse"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/城里老鼠和乡下老鼠 The Town Mouse and the Country Mouse",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/城里老鼠和乡下老鼠 The Town Mouse and the Country Mouse/城里老鼠和乡下老鼠 The Town Mouse and the Country Mouse_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "塞翁失马 The Old Man Who Lost His Horse",
       "title": "塞翁失马 The Old Man Who Lost His Horse",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/塞翁失马 The Old Man Who Lost His Horse"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/塞翁失马 The Old Man Who Lost His Horse",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/塞翁失马 The Old Man Who Lost His Horse/塞翁失马 The Old Man Who Lost His Horse_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "夜郎自大 The King of Yelang Bragging",
       "title": "夜郎自大 The King of Yelang Bragging",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/夜郎自大 The King of Yelang Bragging"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/夜郎自大 The King of Yelang Bragging",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/夜郎自大 The King of Yelang Bragging/夜郎自大 The King of Yelang Bragging_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大象与哈巴狗 The Elephant and the Pug",
       "title": "大象与哈巴狗 The Elephant and the Pug",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/大象与哈巴狗 The Elephant and the Pug"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/大象与哈巴狗 The Elephant and the Pug",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/大象与哈巴狗 The Elephant and the Pug/大象与哈巴狗 The Elephant and the Pug_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "天鹅狗鱼和虾 The Swan, the Pike, and the Crab",
       "title": "天鹅狗鱼和虾 The Swan, the Pike, and the Crab",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/天鹅狗鱼和虾 The Swan, the Pike, and the Crab"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/天鹅狗鱼和虾 The Swan, the Pike, and the Crab",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/天鹅狗鱼和虾 The Swan, the Pike, and the Crab/天鹅狗鱼和虾 The Swan, the Pike, and the Crab_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "太阳与青蛙 The Sun and the Frogs",
       "title": "太阳与青蛙 The Sun and the Frogs",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/太阳与青蛙 The Sun and the Frogs"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/太阳与青蛙 The Sun and the Frogs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/太阳与青蛙 The Sun and the Frogs/太阳与青蛙 The Sun and the Frogs_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孔雀与鹤 The Peacock and the Crane",
       "title": "孔雀与鹤 The Peacock and the Crane",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/孔雀与鹤 The Peacock and the Crane"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/孔雀与鹤 The Peacock and the Crane",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/孔雀与鹤 The Peacock and the Crane/孔雀与鹤 The Peacock and the Crane_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "守株待兔 Waiting by the Stump",
       "title": "守株待兔 Waiting by the Stump",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/守株待兔 Waiting by the Stump"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/守株待兔 Waiting by the Stump",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/守株待兔 Waiting by the Stump/守株待兔 Waiting by the Stump_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "寡妇与母鸡 The Widow and the Hen",
       "title": "寡妇与母鸡 The Widow and the Hen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/寡妇与母鸡 The Widow and the Hen"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/寡妇与母鸡 The Widow and the Hen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/寡妇与母鸡 The Widow and the Hen/寡妇与母鸡 The Widow and the Hen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "对牛弹琴 Playing the Zither to an Ox",
       "title": "对牛弹琴 Playing the Zither to an Ox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/对牛弹琴 Playing the Zither to an Ox"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/对牛弹琴 Playing the Zither to an Ox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/对牛弹琴 Playing the Zither to an Ox/对牛弹琴 Playing the Zither to an Ox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小树林与大火 The Little Grove and the Fire",
       "title": "小树林与大火 The Little Grove and the Fire",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/小树林与大火 The Little Grove and the Fire"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/小树林与大火 The Little Grove and the Fire",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/小树林与大火 The Little Grove and the Fire/小树林与大火 The Little Grove and the Fire_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小溪 The Brook",
       "title": "小溪 The Brook",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/小溪 The Brook"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/小溪 The Brook",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/小溪 The Brook/小溪 The Brook_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "屠龙之技 The Skill of Slaying Dragons",
       "title": "屠龙之技 The Skill of Slaying Dragons",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/屠龙之技 The Skill of Slaying Dragons"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/屠龙之技 The Skill of Slaying Dragons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/屠龙之技 The Skill of Slaying Dragons/屠龙之技 The Skill of Slaying Dragons_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "山雀 The Titmouse",
       "title": "山雀 The Titmouse",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/山雀 The Titmouse"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/山雀 The Titmouse",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/山雀 The Titmouse/山雀 The Titmouse_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "庖丁解牛 Cook Ding Carves the Ox",
       "title": "庖丁解牛 Cook Ding Carves the Ox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/庖丁解牛 Cook Ding Carves the Ox"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/庖丁解牛 Cook Ding Carves the Ox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/庖丁解牛 Cook Ding Carves the Ox/庖丁解牛 Cook Ding Carves the Ox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "恋爱的狮子 The Lion in Love",
       "title": "恋爱的狮子 The Lion in Love",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/恋爱的狮子 The Lion in Love"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/恋爱的狮子 The Lion in Love",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/恋爱的狮子 The Lion in Love/恋爱的狮子 The Lion in Love_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "想当国王的乌鸦 The Crow Wanting to Be King",
       "title": "想当国王的乌鸦 The Crow Wanting to Be King",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/想当国王的乌鸦 The Crow Wanting to Be King"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/想当国王的乌鸦 The Crow Wanting to Be King",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/想当国王的乌鸦 The Crow Wanting to Be King/想当国王的乌鸦 The Crow Wanting to Be King_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "愚人食盐 The Fool Who Added Salt",
       "title": "愚人食盐 The Fool Who Added Salt",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/愚人食盐 The Fool Who Added Salt"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/愚人食盐 The Fool Who Added Salt",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/愚人食盐 The Fool Who Added Salt/愚人食盐 The Fool Who Added Salt_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "愚公移山 The Foolish Old Man Moves the Mountains",
       "title": "愚公移山 The Foolish Old Man Moves the Mountains",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/愚公移山 The Foolish Old Man Moves the Mountains"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/愚公移山 The Foolish Old Man Moves the Mountains",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/愚公移山 The Foolish Old Man Moves the Mountains/愚公移山 The Foolish Old Man Moves the Mountains_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "截竿入城 Cutting the Bamboo to Enter the City",
       "title": "截竿入城 Cutting the Bamboo to Enter the City",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/截竿入城 Cutting the Bamboo to Enter the City"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/截竿入城 Cutting the Bamboo to Enter the City",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/截竿入城 Cutting the Bamboo to Enter the City/截竿入城 Cutting the Bamboo to Enter the City_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "披着羊皮的狼 The Wolf in Sheep's Clothing",
       "title": "披着羊皮的狼 The Wolf in Sheep's Clothing",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/披着羊皮的狼 The Wolf in Sheep's Clothing"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/披着羊皮的狼 The Wolf in Sheep's Clothing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/披着羊皮的狼 The Wolf in Sheep's Clothing/披着羊皮的狼 The Wolf in Sheep's Clothing_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "抱薪救火 Carrying Firewood to Put Out a Fire",
       "title": "抱薪救火 Carrying Firewood to Put Out a Fire",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/抱薪救火 Carrying Firewood to Put Out a Fire"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/抱薪救火 Carrying Firewood to Put Out a Fire",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/抱薪救火 Carrying Firewood to Put Out a Fire/抱薪救火 Carrying Firewood to Put Out a Fire_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "挤牛奶的姑娘 The Milkmaid and Her Pail",
       "title": "挤牛奶的姑娘 The Milkmaid and Her Pail",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/挤牛奶的姑娘 The Milkmaid and Her Pail"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/挤牛奶的姑娘 The Milkmaid and Her Pail",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/挤牛奶的姑娘 The Milkmaid and Her Pail/挤牛奶的姑娘 The Milkmaid and Her Pail_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "掩耳盗铃 Covering Ears to Steal the Bell",
       "title": "掩耳盗铃 Covering Ears to Steal the Bell",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/掩耳盗铃 Covering Ears to Steal the Bell"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/掩耳盗铃 Covering Ears to Steal the Bell",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/掩耳盗铃 Covering Ears to Steal the Bell/掩耳盗铃 Covering Ears to Steal the Bell_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "揠苗助长 The Pulled-Up Sprouts",
       "title": "揠苗助长 The Pulled-Up Sprouts",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/揠苗助长 The Pulled-Up Sprouts"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/揠苗助长 The Pulled-Up Sprouts",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/揠苗助长 The Pulled-Up Sprouts/揠苗助长 The Pulled-Up Sprouts_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "曾子杀猪 Zengzi Slaughtering the Pig",
       "title": "曾子杀猪 Zengzi Slaughtering the Pig",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/曾子杀猪 Zengzi Slaughtering the Pig"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/曾子杀猪 Zengzi Slaughtering the Pig",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/曾子杀猪 Zengzi Slaughtering the Pig/曾子杀猪 Zengzi Slaughtering the Pig_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "望梅止渴 Quenching Thirst by Thinking of Plums",
       "title": "望梅止渴 Quenching Thirst by Thinking of Plums",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/望梅止渴 Quenching Thirst by Thinking of Plums"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/望梅止渴 Quenching Thirst by Thinking of Plums",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/望梅止渴 Quenching Thirst by Thinking of Plums/望梅止渴 Quenching Thirst by Thinking of Plums_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "朝三暮四 Three in the Morning, Four at Night",
       "title": "朝三暮四 Three in the Morning, Four at Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/朝三暮四 Three in the Morning, Four at Night"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/朝三暮四 Three in the Morning, Four at Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/朝三暮四 Three in the Morning, Four at Night/朝三暮四 Three in the Morning, Four at Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "机械师 The Mechanic",
       "title": "机械师 The Mechanic",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/机械师 The Mechanic"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/机械师 The Mechanic",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/机械师 The Mechanic/机械师 The Mechanic_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "杀鸡取卵 Killing the Hen to Get the Eggs",
       "title": "杀鸡取卵 Killing the Hen to Get the Eggs",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/杀鸡取卵 Killing the Hen to Get the Eggs"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/杀鸡取卵 Killing the Hen to Get the Eggs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/杀鸡取卵 Killing the Hen to Get the Eggs/杀鸡取卵 Killing the Hen to Get the Eggs_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "杂色羊 The Piebald Sheep",
       "title": "杂色羊 The Piebald Sheep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/杂色羊 The Piebald Sheep"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/杂色羊 The Piebald Sheep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/杂色羊 The Piebald Sheep/杂色羊 The Piebald Sheep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "材狼和羊 The Shepherd and the Wolves",
       "title": "材狼和羊 The Shepherd and the Wolves",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/材狼和羊 The Shepherd and the Wolves"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/材狼和羊 The Shepherd and the Wolves",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/材狼和羊 The Shepherd and the Wolves/材狼和羊 The Shepherd and the Wolves_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "杞人忧天 The Man of Qi Who Feared the Sky",
       "title": "杞人忧天 The Man of Qi Who Feared the Sky",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/杞人忧天 The Man of Qi Who Feared the Sky"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/杞人忧天 The Man of Qi Who Feared the Sky",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/杞人忧天 The Man of Qi Who Feared the Sky/杞人忧天 The Man of Qi Who Feared the Sky_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "杯弓蛇影 The Shadow of a Bow in the Cup",
       "title": "杯弓蛇影 The Shadow of a Bow in the Cup",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/杯弓蛇影 The Shadow of a Bow in the Cup"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/杯弓蛇影 The Shadow of a Bow in the Cup",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/杯弓蛇影 The Shadow of a Bow in the Cup/杯弓蛇影 The Shadow of a Bow in the Cup_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "杰米扬的鱼汤 Demyan's Fish Soup",
       "title": "杰米扬的鱼汤 Demyan's Fish Soup",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/杰米扬的鱼汤 Demyan's Fish Soup"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/杰米扬的鱼汤 Demyan's Fish Soup",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/杰米扬的鱼汤 Demyan's Fish Soup/杰米扬的鱼汤 Demyan's Fish Soup_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "树叶和树根 The Leaves and the Roots",
       "title": "树叶和树根 The Leaves and the Roots",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/树叶和树根 The Leaves and the Roots"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/树叶和树根 The Leaves and the Roots",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/树叶和树根 The Leaves and the Roots/树叶和树根 The Leaves and the Roots_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "楚王好细腰 King Chu Loves a Slim Waist",
       "title": "楚王好细腰 King Chu Loves a Slim Waist",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/楚王好细腰 King Chu Loves a Slim Waist"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/楚王好细腰 King Chu Loves a Slim Waist",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/楚王好细腰 King Chu Loves a Slim Waist/楚王好细腰 King Chu Loves a Slim Waist_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "橡树下的猪 The Pig Under the Oak",
       "title": "橡树下的猪 The Pig Under the Oak",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/橡树下的猪 The Pig Under the Oak"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/橡树下的猪 The Pig Under the Oak",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/橡树下的猪 The Pig Under the Oak/橡树下的猪 The Pig Under the Oak_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "橡树与樵夫 The Oak and the Woodcutter",
       "title": "橡树与樵夫 The Oak and the Woodcutter",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/橡树与樵夫 The Oak and the Woodcutter"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/橡树与樵夫 The Oak and the Woodcutter",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/橡树与樵夫 The Oak and the Woodcutter/橡树与樵夫 The Oak and the Woodcutter_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "橡树与芦苇 The Oak and the Reed",
       "title": "橡树与芦苇 The Oak and the Reed",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/橡树与芦苇 The Oak and the Reed"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/橡树与芦苇 The Oak and the Reed",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/橡树与芦苇 The Oak and the Reed/橡树与芦苇 The Oak and the Reed_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "橡树和芦苇（另一版本） The Oak and the Reed (II)",
       "title": "橡树和芦苇（另一版本） The Oak and the Reed (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/橡树和芦苇（另一版本） The Oak and the Reed (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/橡树和芦苇（另一版本） The Oak and the Reed (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/橡树和芦苇（另一版本） The Oak and the Reed (II)/橡树和芦苇（另一版本） The Oak and the Reed (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "歧路亡羊 The Lost Sheep at the Fork",
       "title": "歧路亡羊 The Lost Sheep at the Fork",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/歧路亡羊 The Lost Sheep at the Fork"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/歧路亡羊 The Lost Sheep at the Fork",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/歧路亡羊 The Lost Sheep at the Fork/歧路亡羊 The Lost Sheep at the Fork_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "母牛山羊绵羊与狮子合伙 The Cow, the Goat, the Sheep, and the Lion",
       "title": "母牛山羊绵羊与狮子合伙 The Cow, the Goat, the Sheep, and the Lion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/母牛山羊绵羊与狮子合伙 The Cow, the Goat, the Sheep, and the Lion"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/母牛山羊绵羊与狮子合伙 The Cow, the Goat, the Sheep, and the Lion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/母牛山羊绵羊与狮子合伙 The Cow, the Goat, the Sheep, and the Lion/母牛山羊绵羊与狮子合伙 The Cow, the Goat, the Sheep, and the Lion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "水滴石穿 Water Dripping Through Stone",
       "title": "水滴石穿 Water Dripping Through Stone",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/水滴石穿 Water Dripping Through Stone"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/水滴石穿 Water Dripping Through Stone",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/水滴石穿 Water Dripping Through Stone/水滴石穿 Water Dripping Through Stone_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "河流与大海 The Rivers and the Sea",
       "title": "河流与大海 The Rivers and the Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/河流与大海 The Rivers and the Sea"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/河流与大海 The Rivers and the Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/河流与大海 The Rivers and the Sea/河流与大海 The Rivers and the Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "涸辙之鲋 The Fish in the Dry Rut",
       "title": "涸辙之鲋 The Fish in the Dry Rut",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/涸辙之鲋 The Fish in the Dry Rut"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/涸辙之鲋 The Fish in the Dry Rut",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/涸辙之鲋 The Fish in the Dry Rut/涸辙之鲋 The Fish in the Dry Rut_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "渔夫与小鱼 The Fisherman and the Little Fish",
       "title": "渔夫与小鱼 The Fisherman and the Little Fish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/渔夫与小鱼 The Fisherman and the Little Fish"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/渔夫与小鱼 The Fisherman and the Little Fish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/渔夫与小鱼 The Fisherman and the Little Fish/渔夫与小鱼 The Fisherman and the Little Fish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "滥竽充数 Fake Player in the Yu Band",
       "title": "滥竽充数 Fake Player in the Yu Band",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/滥竽充数 Fake Player in the Yu Band"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/滥竽充数 Fake Player in the Yu Band",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/滥竽充数 Fake Player in the Yu Band/滥竽充数 Fake Player in the Yu Band_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "熊与园丁 The Bear and the Gardener",
       "title": "熊与园丁 The Bear and the Gardener",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/熊与园丁 The Bear and the Gardener"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/熊与园丁 The Bear and the Gardener",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/熊与园丁 The Bear and the Gardener/熊与园丁 The Bear and the Gardener_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "熊与旅人 The Bear and the Travelers",
       "title": "熊与旅人 The Bear and the Travelers",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/熊与旅人 The Bear and the Travelers"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/熊与旅人 The Bear and the Travelers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/熊与旅人 The Bear and the Travelers/熊与旅人 The Bear and the Travelers_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "熟能生巧 Practice Makes Perfect",
       "title": "熟能生巧 Practice Makes Perfect",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/熟能生巧 Practice Makes Perfect"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/熟能生巧 Practice Makes Perfect",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/熟能生巧 Practice Makes Perfect/熟能生巧 Practice Makes Perfect_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "燕子和乌鸦 The Swallow and the Crow",
       "title": "燕子和乌鸦 The Swallow and the Crow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/燕子和乌鸦 The Swallow and the Crow"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/燕子和乌鸦 The Swallow and the Crow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/燕子和乌鸦 The Swallow and the Crow/燕子和乌鸦 The Swallow and the Crow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "牡蛎与诉讼人 The Oyster and the Litigants",
       "title": "牡蛎与诉讼人 The Oyster and the Litigants",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/牡蛎与诉讼人 The Oyster and the Litigants"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/牡蛎与诉讼人 The Oyster and the Litigants",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/牡蛎与诉讼人 The Oyster and the Litigants/牡蛎与诉讼人 The Oyster and the Litigants_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "牧羊人与海 The Shepherd and the Sea",
       "title": "牧羊人与海 The Shepherd and the Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/牧羊人与海 The Shepherd and the Sea"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/牧羊人与海 The Shepherd and the Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/牧羊人与海 The Shepherd and the Sea/牧羊人与海 The Shepherd and the Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "特利什卡的外套 Trishka's Caftan",
       "title": "特利什卡的外套 Trishka's Caftan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/特利什卡的外套 Trishka's Caftan"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/特利什卡的外套 Trishka's Caftan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/特利什卡的外套 Trishka's Caftan/特利什卡的外套 Trishka's Caftan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狐假虎威 The Fox Borrowing the Tiger's Might",
       "title": "狐假虎威 The Fox Borrowing the Tiger's Might",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐假虎威 The Fox Borrowing the Tiger's Might"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐假虎威 The Fox Borrowing the Tiger's Might",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狐假虎威 The Fox Borrowing the Tiger's Might/狐假虎威 The Fox Borrowing the Tiger's Might_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狐狸与乌鸦 The Fox and the Crow",
       "title": "狐狸与乌鸦 The Fox and the Crow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐狸与乌鸦 The Fox and the Crow"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐狸与乌鸦 The Fox and the Crow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狐狸与乌鸦 The Fox and the Crow/狐狸与乌鸦 The Fox and the Crow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狐狸与鹤 The Fox and the Stork",
       "title": "狐狸与鹤 The Fox and the Stork",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐狸与鹤 The Fox and the Stork"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐狸与鹤 The Fox and the Stork",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狐狸与鹤 The Fox and the Stork/狐狸与鹤 The Fox and the Stork_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狐狸和土拨鼠 The Fox and the Marmot",
       "title": "狐狸和土拨鼠 The Fox and the Marmot",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐狸和土拨鼠 The Fox and the Marmot"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐狸和土拨鼠 The Fox and the Marmot",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狐狸和土拨鼠 The Fox and the Marmot/狐狸和土拨鼠 The Fox and the Marmot_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狐狸和葡萄 The Fox and the Grapes",
       "title": "狐狸和葡萄 The Fox and the Grapes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐狸和葡萄 The Fox and the Grapes"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐狸和葡萄 The Fox and the Grapes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狐狸和葡萄 The Fox and the Grapes/狐狸和葡萄 The Fox and the Grapes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狐狸和葡萄（另一版本） The Fox and the Grapes (II)",
       "title": "狐狸和葡萄（另一版本） The Fox and the Grapes (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐狸和葡萄（另一版本） The Fox and the Grapes (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狐狸和葡萄（另一版本） The Fox and the Grapes (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狐狸和葡萄（另一版本） The Fox and the Grapes (II)/狐狸和葡萄（另一版本） The Fox and the Grapes (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狗与镜子 The Dog and the Mirror",
       "title": "狗与镜子 The Dog and the Mirror",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狗与镜子 The Dog and the Mirror"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狗与镜子 The Dog and the Mirror",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狗与镜子 The Dog and the Mirror/狗与镜子 The Dog and the Mirror_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狗与骨头 The Dog and the Bone",
       "title": "狗与骨头 The Dog and the Bone",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狗与骨头 The Dog and the Bone"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狗与骨头 The Dog and the Bone",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狗与骨头 The Dog and the Bone/狗与骨头 The Dog and the Bone_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狮子与老鼠 The Lion and the Mouse",
       "title": "狮子与老鼠 The Lion and the Mouse",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狮子与老鼠 The Lion and the Mouse"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狮子与老鼠 The Lion and the Mouse",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狮子与老鼠 The Lion and the Mouse/狮子与老鼠 The Lion and the Mouse_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狮子出征 The Lion Goes to War",
       "title": "狮子出征 The Lion Goes to War",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狮子出征 The Lion Goes to War"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狮子出征 The Lion Goes to War",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狮子出征 The Lion Goes to War/狮子出征 The Lion Goes to War_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狮子分猎物 The Lion's Share",
       "title": "狮子分猎物 The Lion's Share",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狮子分猎物 The Lion's Share"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狮子分猎物 The Lion's Share",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狮子分猎物 The Lion's Share/狮子分猎物 The Lion's Share_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狮子和老鼠（另一版本） The Lion and the Mouse (II)",
       "title": "狮子和老鼠（另一版本） The Lion and the Mouse (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狮子和老鼠（另一版本） The Lion and the Mouse (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狮子和老鼠（另一版本） The Lion and the Mouse (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狮子和老鼠（另一版本） The Lion and the Mouse (II)/狮子和老鼠（另一版本） The Lion and the Mouse (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狼与小羊 The Wolf and the Lamb",
       "title": "狼与小羊 The Wolf and the Lamb",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼与小羊 The Wolf and the Lamb"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼与小羊 The Wolf and the Lamb",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狼与小羊 The Wolf and the Lamb/狼与小羊 The Wolf and the Lamb_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狼与鹤 The Wolf and the Crane",
       "title": "狼与鹤 The Wolf and the Crane",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼与鹤 The Wolf and the Crane"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼与鹤 The Wolf and the Crane",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狼与鹤 The Wolf and the Crane/狼与鹤 The Wolf and the Crane_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狼和狐狸 The Wolf and the Fox",
       "title": "狼和狐狸 The Wolf and the Fox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼和狐狸 The Wolf and the Fox"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼和狐狸 The Wolf and the Fox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狼和狐狸 The Wolf and the Fox/狼和狐狸 The Wolf and the Fox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狼和羊（另一版本） The Wolf and the Lamb (II)",
       "title": "狼和羊（另一版本） The Wolf and the Lamb (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼和羊（另一版本） The Wolf and the Lamb (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼和羊（另一版本） The Wolf and the Lamb (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狼和羊（另一版本） The Wolf and the Lamb (II)/狼和羊（另一版本） The Wolf and the Lamb (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狼和鹤（另一版本） The Wolf and the Crane (II)",
       "title": "狼和鹤（另一版本） The Wolf and the Crane (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼和鹤（另一版本） The Wolf and the Crane (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼和鹤（另一版本） The Wolf and the Crane (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狼和鹤（另一版本） The Wolf and the Crane (II)/狼和鹤（另一版本） The Wolf and the Crane (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狼来了 The Boy Who Cried Wolf",
       "title": "狼来了 The Boy Who Cried Wolf",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼来了 The Boy Who Cried Wolf"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼来了 The Boy Who Cried Wolf",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狼来了 The Boy Who Cried Wolf/狼来了 The Boy Who Cried Wolf_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狼群与羊群 The Wolves and the Sheep",
       "title": "狼群与羊群 The Wolves and the Sheep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼群与羊群 The Wolves and the Sheep"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼群与羊群 The Wolves and the Sheep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狼群与羊群 The Wolves and the Sheep/狼群与羊群 The Wolves and the Sheep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狼落狗舍 The Wolf in the Kennel",
       "title": "狼落狗舍 The Wolf in the Kennel",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼落狗舍 The Wolf in the Kennel"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/狼落狗舍 The Wolf in the Kennel",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/狼落狗舍 The Wolf in the Kennel/狼落狗舍 The Wolf in the Kennel_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猪 The Pig",
       "title": "猪 The Pig",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/猪 The Pig"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/猪 The Pig",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/猪 The Pig/猪 The Pig_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猫与厨师 The Cat and the Cook",
       "title": "猫与厨师 The Cat and the Cook",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/猫与厨师 The Cat and the Cook"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/猫与厨师 The Cat and the Cook",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/猫与厨师 The Cat and the Cook/猫与厨师 The Cat and the Cook_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猫与狐狸 The Cat and the Fox",
       "title": "猫与狐狸 The Cat and the Fox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/猫与狐狸 The Cat and the Fox"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/猫与狐狸 The Cat and the Fox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/猫与狐狸 The Cat and the Fox/猫与狐狸 The Cat and the Fox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猫与老鼠 The Cat and the Mice",
       "title": "猫与老鼠 The Cat and the Mice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/猫与老鼠 The Cat and the Mice"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/猫与老鼠 The Cat and the Mice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/猫与老鼠 The Cat and the Mice/猫与老鼠 The Cat and the Mice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猫与鸟 The Cat and the Birds",
       "title": "猫与鸟 The Cat and the Birds",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/猫与鸟 The Cat and the Birds"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/猫与鸟 The Cat and the Birds",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/猫与鸟 The Cat and the Birds/猫与鸟 The Cat and the Birds_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猫头鹰和驴 The Owl and the Ass",
       "title": "猫头鹰和驴 The Owl and the Ass",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/猫头鹰和驴 The Owl and the Ass"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/猫头鹰和驴 The Owl and the Ass",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/猫头鹰和驴 The Owl and the Ass/猫头鹰和驴 The Owl and the Ass_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猴子与眼镜 The Monkey and the Spectacles",
       "title": "猴子与眼镜 The Monkey and the Spectacles",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/猴子与眼镜 The Monkey and the Spectacles"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/猴子与眼镜 The Monkey and the Spectacles",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/猴子与眼镜 The Monkey and the Spectacles/猴子与眼镜 The Monkey and the Spectacles_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猴子和海豚 The Monkey and the Dolphin",
       "title": "猴子和海豚 The Monkey and the Dolphin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/猴子和海豚 The Monkey and the Dolphin"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/猴子和海豚 The Monkey and the Dolphin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/猴子和海豚 The Monkey and the Dolphin/猴子和海豚 The Monkey and the Dolphin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猴子捞月 The Monkeys Fishing for the Moon",
       "title": "猴子捞月 The Monkeys Fishing for the Moon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/猴子捞月 The Monkeys Fishing for the Moon"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/猴子捞月 The Monkeys Fishing for the Moon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/猴子捞月 The Monkeys Fishing for the Moon/猴子捞月 The Monkeys Fishing for the Moon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "男孩与蝎子 The Boy and the Scorpion",
       "title": "男孩与蝎子 The Boy and the Scorpion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/男孩与蝎子 The Boy and the Scorpion"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/男孩与蝎子 The Boy and the Scorpion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/男孩与蝎子 The Boy and the Scorpion/男孩与蝎子 The Boy and the Scorpion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "画蛇添足 Draw a Snake and Add Feet",
       "title": "画蛇添足 Draw a Snake and Add Feet",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/画蛇添足 Draw a Snake and Add Feet"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/画蛇添足 Draw a Snake and Add Feet",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/画蛇添足 Draw a Snake and Add Feet/画蛇添足 Draw a Snake and Add Feet_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "画饼充饥 Drawing a Cake to Still Hunger",
       "title": "画饼充饥 Drawing a Cake to Still Hunger",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/画饼充饥 Drawing a Cake to Still Hunger"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/画饼充饥 Drawing a Cake to Still Hunger",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/画饼充饥 Drawing a Cake to Still Hunger/画饼充饥 Drawing a Cake to Still Hunger_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "病鹿 The Sick Stag",
       "title": "病鹿 The Sick Stag",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/病鹿 The Sick Stag"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/病鹿 The Sick Stag",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/病鹿 The Sick Stag/病鹿 The Sick Stag_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "盲人摸象 The Blind Men and the Elephant",
       "title": "盲人摸象 The Blind Men and the Elephant",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/盲人摸象 The Blind Men and the Elephant"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/盲人摸象 The Blind Men and the Elephant",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/盲人摸象 The Blind Men and the Elephant/盲人摸象 The Blind Men and the Elephant_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "石头和虫子 The Stone and the Worm",
       "title": "石头和虫子 The Stone and the Worm",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/石头和虫子 The Stone and the Worm"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/石头和虫子 The Stone and the Worm",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/石头和虫子 The Stone and the Worm/石头和虫子 The Stone and the Worm_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "磨坊主儿子与驴 The Miller, His Son, and the Ass",
       "title": "磨坊主儿子与驴 The Miller, His Son, and the Ass",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/磨坊主儿子与驴 The Miller, His Son, and the Ass"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/磨坊主儿子与驴 The Miller, His Son, and the Ass",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/磨坊主儿子与驴 The Miller, His Son, and the Ass/磨坊主儿子与驴 The Miller, His Son, and the Ass_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "羊和狗 The Sheep and the Dogs",
       "title": "羊和狗 The Sheep and the Dogs",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/羊和狗 The Sheep and the Dogs"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/羊和狗 The Sheep and the Dogs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/羊和狗 The Sheep and the Dogs/羊和狗 The Sheep and the Dogs_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老太婆与医生 The Old Woman and the Physician",
       "title": "老太婆与医生 The Old Woman and the Physician",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/老太婆与医生 The Old Woman and the Physician"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/老太婆与医生 The Old Woman and the Physician",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/老太婆与医生 The Old Woman and the Physician/老太婆与医生 The Old Woman and the Physician_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老狮子 The Old Lion",
       "title": "老狮子 The Old Lion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/老狮子 The Old Lion"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/老狮子 The Old Lion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/老狮子 The Old Lion/老狮子 The Old Lion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老鹰和蜘蛛 The Eagle and the Spider",
       "title": "老鹰和蜘蛛 The Eagle and the Spider",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/老鹰和蜘蛛 The Eagle and the Spider"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/老鹰和蜘蛛 The Eagle and the Spider",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/老鹰和蜘蛛 The Eagle and the Spider/老鹰和蜘蛛 The Eagle and the Spider_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老鼠开会 The Council Held by the Rats",
       "title": "老鼠开会 The Council Held by the Rats",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/老鼠开会 The Council Held by the Rats"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/老鼠开会 The Council Held by the Rats",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/老鼠开会 The Council Held by the Rats/老鼠开会 The Council Held by the Rats_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老鼠青蛙和鹰 The Mice, the Frogs, and the Hawks",
       "title": "老鼠青蛙和鹰 The Mice, the Frogs, and the Hawks",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/老鼠青蛙和鹰 The Mice, the Frogs, and the Hawks"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/老鼠青蛙和鹰 The Mice, the Frogs, and the Hawks",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/老鼠青蛙和鹰 The Mice, the Frogs, and the Hawks/老鼠青蛙和鹰 The Mice, the Frogs, and the Hawks_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "自夸的参谋 The Quack Doctor",
       "title": "自夸的参谋 The Quack Doctor",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/自夸的参谋 The Quack Doctor"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/自夸的参谋 The Quack Doctor",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/自夸的参谋 The Quack Doctor/自夸的参谋 The Quack Doctor_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "自相矛盾 Self-Contradiction",
       "title": "自相矛盾 Self-Contradiction",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/自相矛盾 Self-Contradiction"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/自相矛盾 Self-Contradiction",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/自相矛盾 Self-Contradiction/自相矛盾 Self-Contradiction_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "苍蝇与蜂蜜 The Flies and the Honey",
       "title": "苍蝇与蜂蜜 The Flies and the Honey",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/苍蝇与蜂蜜 The Flies and the Honey"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/苍蝇与蜂蜜 The Flies and the Honey",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/苍蝇与蜂蜜 The Flies and the Honey/苍蝇与蜂蜜 The Flies and the Honey_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蚂蚁与蚱蜢 The Ant and the Grasshopper",
       "title": "蚂蚁与蚱蜢 The Ant and the Grasshopper",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/蚂蚁与蚱蜢 The Ant and the Grasshopper"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/蚂蚁与蚱蜢 The Ant and the Grasshopper",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/蚂蚁与蚱蜢 The Ant and the Grasshopper/蚂蚁与蚱蜢 The Ant and the Grasshopper_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蚂蚁和蜻蜓（另一版本） The Ant and the Dragonfly (II)",
       "title": "蚂蚁和蜻蜓（另一版本） The Ant and the Dragonfly (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/蚂蚁和蜻蜓（另一版本） The Ant and the Dragonfly (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/蚂蚁和蜻蜓（另一版本） The Ant and the Dragonfly (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/蚂蚁和蜻蜓（另一版本） The Ant and the Dragonfly (II)/蚂蚁和蜻蜓（另一版本） The Ant and the Dragonfly (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蚊子与狮子 The Mosquito and the Lion",
       "title": "蚊子与狮子 The Mosquito and the Lion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/蚊子与狮子 The Mosquito and the Lion"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/蚊子与狮子 The Mosquito and the Lion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/蚊子与狮子 The Mosquito and the Lion/蚊子与狮子 The Mosquito and the Lion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蜜蜂与宙斯 The Bees and Zeus",
       "title": "蜜蜂与宙斯 The Bees and Zeus",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/蜜蜂与宙斯 The Bees and Zeus"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/蜜蜂与宙斯 The Bees and Zeus",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/蜜蜂与宙斯 The Bees and Zeus/蜜蜂与宙斯 The Bees and Zeus_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蜜蜂与苍蝇 The Bee and the Fly",
       "title": "蜜蜂与苍蝇 The Bee and the Fly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/蜜蜂与苍蝇 The Bee and the Fly"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/蜜蜂与苍蝇 The Bee and the Fly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/蜜蜂与苍蝇 The Bee and the Fly/蜜蜂与苍蝇 The Bee and the Fly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蜻蜓和蚂蚁（另一版本） The Dragonfly and the Ant (II)",
       "title": "蜻蜓和蚂蚁（另一版本） The Dragonfly and the Ant (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/蜻蜓和蚂蚁（另一版本） The Dragonfly and the Ant (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/蜻蜓和蚂蚁（另一版本） The Dragonfly and the Ant (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/蜻蜓和蚂蚁（另一版本） The Dragonfly and the Ant (II)/蜻蜓和蚂蚁（另一版本） The Dragonfly and the Ant (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蝙蝠与黄鼠狼 The Bat, the Birds, and the Beasts",
       "title": "蝙蝠与黄鼠狼 The Bat, the Birds, and the Beasts",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/蝙蝠与黄鼠狼 The Bat, the Birds, and the Beasts"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/蝙蝠与黄鼠狼 The Bat, the Birds, and the Beasts",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/蝙蝠与黄鼠狼 The Bat, the Birds, and the Beasts/蝙蝠与黄鼠狼 The Bat, the Birds, and the Beasts_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "螳臂当车 The Mantis Raising Its Arms Against the Cart",
       "title": "螳臂当车 The Mantis Raising Its Arms Against the Cart",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/螳臂当车 The Mantis Raising Its Arms Against the Cart"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/螳臂当车 The Mantis Raising Its Arms Against the Cart",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/螳臂当车 The Mantis Raising Its Arms Against the Cart/螳臂当车 The Mantis Raising Its Arms Against the Cart_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "螳螂捕蝉 The Mantis Stalking the Cicada",
       "title": "螳螂捕蝉 The Mantis Stalking the Cicada",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/螳螂捕蝉 The Mantis Stalking the Cicada"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/螳螂捕蝉 The Mantis Stalking the Cicada",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/螳螂捕蝉 The Mantis Stalking the Cicada/螳螂捕蝉 The Mantis Stalking the Cicada_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "行人与斧头 The Travelers and the Axe",
       "title": "行人与斧头 The Travelers and the Axe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/行人与斧头 The Travelers and the Axe"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/行人与斧头 The Travelers and the Axe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/行人与斧头 The Travelers and the Axe/行人与斧头 The Travelers and the Axe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "讳疾忌医 Hiding Illness and Fearing the Doctor",
       "title": "讳疾忌医 Hiding Illness and Fearing the Doctor",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/讳疾忌医 Hiding Illness and Fearing the Doctor"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/讳疾忌医 Hiding Illness and Fearing the Doctor",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/讳疾忌医 Hiding Illness and Fearing the Doctor/讳疾忌医 Hiding Illness and Fearing the Doctor_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "货车队 The Wagon Train",
       "title": "货车队 The Wagon Train",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/货车队 The Wagon Train"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/货车队 The Wagon Train",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/货车队 The Wagon Train/货车队 The Wagon Train_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "贪心的人和母鸡 The Greedy Man and the Hen",
       "title": "贪心的人和母鸡 The Greedy Man and the Hen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/贪心的人和母鸡 The Greedy Man and the Hen"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/贪心的人和母鸡 The Greedy Man and the Hen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/贪心的人和母鸡 The Greedy Man and the Hen/贪心的人和母鸡 The Greedy Man and the Hen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "赫拉克勒斯与车夫 Hercules and the Wagoner",
       "title": "赫拉克勒斯与车夫 Hercules and the Wagoner",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/赫拉克勒斯与车夫 Hercules and the Wagoner"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/赫拉克勒斯与车夫 Hercules and the Wagoner",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/赫拉克勒斯与车夫 Hercules and the Wagoner/赫拉克勒斯与车夫 Hercules and the Wagoner_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "运斤成风 Wielding the Axe with the Wind",
       "title": "运斤成风 Wielding the Axe with the Wind",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/运斤成风 Wielding the Axe with the Wind"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/运斤成风 Wielding the Axe with the Wind",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/运斤成风 Wielding the Axe with the Wind/运斤成风 Wielding the Axe with the Wind_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "运盐的驴 The Ass and the Load of Salt",
       "title": "运盐的驴 The Ass and the Load of Salt",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/运盐的驴 The Ass and the Load of Salt"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/运盐的驴 The Ass and the Load of Salt",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/运盐的驴 The Ass and the Load of Salt/运盐的驴 The Ass and the Load of Salt_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "邯郸学步 Learning to Walk in Handan",
       "title": "邯郸学步 Learning to Walk in Handan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/邯郸学步 Learning to Walk in Handan"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/邯郸学步 Learning to Walk in Handan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/邯郸学步 Learning to Walk in Handan/邯郸学步 Learning to Walk in Handan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "郑人买履 The Man of Zheng Buying Shoes",
       "title": "郑人买履 The Man of Zheng Buying Shoes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/郑人买履 The Man of Zheng Buying Shoes"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/郑人买履 The Man of Zheng Buying Shoes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/郑人买履 The Man of Zheng Buying Shoes/郑人买履 The Man of Zheng Buying Shoes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "铁杵磨针 Grinding an Iron Rod into a Needle",
       "title": "铁杵磨针 Grinding an Iron Rod into a Needle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/铁杵磨针 Grinding an Iron Rod into a Needle"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/铁杵磨针 Grinding an Iron Rod into a Needle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/铁杵磨针 Grinding an Iron Rod into a Needle/铁杵磨针 Grinding an Iron Rod into a Needle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "铁锅与瓦罐 The Iron Pot and the Earthen Pot",
       "title": "铁锅与瓦罐 The Iron Pot and the Earthen Pot",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/铁锅与瓦罐 The Iron Pot and the Earthen Pot"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/铁锅与瓦罐 The Iron Pot and the Earthen Pot",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/铁锅与瓦罐 The Iron Pot and the Earthen Pot/铁锅与瓦罐 The Iron Pot and the Earthen Pot_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青蛙与牛 The Frog and the Ox",
       "title": "青蛙与牛 The Frog and the Ox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/青蛙与牛 The Frog and the Ox"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/青蛙与牛 The Frog and the Ox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/青蛙与牛 The Frog and the Ox/青蛙与牛 The Frog and the Ox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青蛙和犍牛（另一版本） The Frog and the Ox (II)",
       "title": "青蛙和犍牛（另一版本） The Frog and the Ox (II)",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/青蛙和犍牛（另一版本） The Frog and the Ox (II)"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/青蛙和犍牛（另一版本） The Frog and the Ox (II)",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/青蛙和犍牛（另一版本） The Frog and the Ox (II)/青蛙和犍牛（另一版本） The Frog and the Ox (II)_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "风筝 The Kite",
       "title": "风筝 The Kite",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/风筝 The Kite"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/风筝 The Kite",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/风筝 The Kite/风筝 The Kite_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马与马夫 The Horse and the Groom",
       "title": "马与马夫 The Horse and the Groom",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/马与马夫 The Horse and the Groom"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/马与马夫 The Horse and the Groom",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/马与马夫 The Horse and the Groom/马与马夫 The Horse and the Groom_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马和牛 The Horse and the Ox",
       "title": "马和牛 The Horse and the Ox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/马和牛 The Horse and the Ox"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/马和牛 The Horse and the Ox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/马和牛 The Horse and the Ox/马和牛 The Horse and the Ox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马和骑士 The Horse and the Rider",
       "title": "马和骑士 The Horse and the Rider",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/马和骑士 The Horse and the Rider"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/马和骑士 The Horse and the Rider",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/马和骑士 The Horse and the Rider/马和骑士 The Horse and the Rider_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "驴与小狗 The Ass and the Little Dog",
       "title": "驴与小狗 The Ass and the Little Dog",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/驴与小狗 The Ass and the Little Dog"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/驴与小狗 The Ass and the Little Dog",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/驴与小狗 The Ass and the Little Dog/驴与小狗 The Ass and the Little Dog_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "高山流水 High Mountains and Flowing Water",
       "title": "高山流水 High Mountains and Flowing Water",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/高山流水 High Mountains and Flowing Water"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/高山流水 High Mountains and Flowing Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/高山流水 High Mountains and Flowing Water/高山流水 High Mountains and Flowing Water_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鲁侯养鸟 Duke Lu Raising the Bird",
       "title": "鲁侯养鸟 Duke Lu Raising the Bird",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/鲁侯养鸟 Duke Lu Raising the Bird"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/鲁侯养鸟 Duke Lu Raising the Bird",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/鲁侯养鸟 Duke Lu Raising the Bird/鲁侯养鸟 Duke Lu Raising the Bird_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹅 The Geese",
       "title": "鹅 The Geese",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹅 The Geese"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹅 The Geese",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/鹅 The Geese/鹅 The Geese_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹏程万里 The Roc Soaring Ten Thousand Miles",
       "title": "鹏程万里 The Roc Soaring Ten Thousand Miles",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹏程万里 The Roc Soaring Ten Thousand Miles"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹏程万里 The Roc Soaring Ten Thousand Miles",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/鹏程万里 The Roc Soaring Ten Thousand Miles/鹏程万里 The Roc Soaring Ten Thousand Miles_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹬蚌相争 The Snipe and the Clam",
       "title": "鹬蚌相争 The Snipe and the Clam",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹬蚌相争 The Snipe and the Clam"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹬蚌相争 The Snipe and the Clam",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/鹬蚌相争 The Snipe and the Clam/鹬蚌相争 The Snipe and the Clam_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹰与箭 The Eagle and the Arrow",
       "title": "鹰与箭 The Eagle and the Arrow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹰与箭 The Eagle and the Arrow"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹰与箭 The Eagle and the Arrow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/鹰与箭 The Eagle and the Arrow/鹰与箭 The Eagle and the Arrow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹰与鸡 The Eagle and the Hen",
       "title": "鹰与鸡 The Eagle and the Hen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹰与鸡 The Eagle and the Hen"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹰与鸡 The Eagle and the Hen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/鹰与鸡 The Eagle and the Hen/鹰与鸡 The Eagle and the Hen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹿与葡萄藤 The Deer and the Vine",
       "title": "鹿与葡萄藤 The Deer and the Vine",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹿与葡萄藤 The Deer and the Vine"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/鹿与葡萄藤 The Deer and the Vine",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/鹿与葡萄藤 The Deer and the Vine/鹿与葡萄藤 The Deer and the Vine_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黔驴技穷 The Donkey of Qian at Its Wits' End",
       "title": "黔驴技穷 The Donkey of Qian at Its Wits' End",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/黔驴技穷 The Donkey of Qian at Its Wits' End"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/黔驴技穷 The Donkey of Qian at Its Wits' End",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/黔驴技穷 The Donkey of Qian at Its Wits' End/黔驴技穷 The Donkey of Qian at Its Wits' End_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "龟兔赛跑 The Tortoise and the Hare",
       "title": "龟兔赛跑 The Tortoise and the Hare",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/寓言故事/双语歌曲/龟兔赛跑 The Tortoise and the Hare"
+      "path": "瞎编的歌曲/寓言故事/双语歌曲/龟兔赛跑 The Tortoise and the Hare",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/寓言故事/双语歌曲/龟兔赛跑 The Tortoise and the Hare/龟兔赛跑 The Tortoise and the Hare_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

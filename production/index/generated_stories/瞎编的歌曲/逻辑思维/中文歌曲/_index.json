@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/逻辑思维/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/逻辑思维.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 30,
@@ -16,210 +16,330 @@
       "title": "AABB规律",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/AABB规律"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/AABB规律",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/AABB规律/AABB规律_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "ABAB规律",
       "title": "ABAB规律",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/ABAB规律"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/ABAB规律",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/ABAB规律/ABAB规律_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "ABCABC规律",
       "title": "ABCABC规律",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/ABCABC规律"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/ABCABC规律",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/ABCABC规律/ABCABC规律_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "为什么会这样",
       "title": "为什么会这样",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/为什么会这样"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/为什么会这样",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/为什么会这样/为什么会这样_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "分析问题",
       "title": "分析问题",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/分析问题"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/分析问题",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/分析问题/分析问题_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "原因和结果",
       "title": "原因和结果",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/原因和结果"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/原因和结果",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/原因和结果/原因和结果_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "后果预测",
       "title": "后果预测",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/后果预测"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/后果预测",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/后果预测/后果预测_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "因为所以",
       "title": "因为所以",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/因为所以"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/因为所以",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/因为所以/因为所以_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "图形规律",
       "title": "图形规律",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/图形规律"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/图形规律",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/图形规律/图形规律_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "多角度思考",
       "title": "多角度思考",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/多角度思考"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/多角度思考",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/多角度思考/多角度思考_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "多重分类",
       "title": "多重分类",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/多重分类"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/多重分类",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/多重分类/多重分类_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "如果那么",
       "title": "如果那么",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/如果那么"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/如果那么",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/如果那么/如果那么_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "归纳推理",
       "title": "归纳推理",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/归纳推理"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/归纳推理",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/归纳推理/归纳推理_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "找不同",
       "title": "找不同",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/找不同"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/找不同",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/找不同/找不同_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "按大小分类",
       "title": "按大小分类",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按大小分类"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按大小分类",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/按大小分类/按大小分类_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "按形状分类",
       "title": "按形状分类",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按形状分类"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按形状分类",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/按形状分类/按形状分类_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "按用途分类",
       "title": "按用途分类",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按用途分类"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按用途分类",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/按用途分类/按用途分类_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "按颜色分类",
       "title": "按颜色分类",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按颜色分类"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/按颜色分类",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/按颜色分类/按颜色分类_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "排除法",
       "title": "排除法",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/排除法"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/排除法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/排除法/排除法_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "提出方案",
       "title": "提出方案",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/提出方案"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/提出方案",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/提出方案/提出方案_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "数字序列",
       "title": "数字序列",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/数字序列"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/数字序列",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/数字序列/数字序列_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "演绎推理",
       "title": "演绎推理",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/演绎推理"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/演绎推理",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/演绎推理/演绎推理_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "真假判断",
       "title": "真假判断",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/真假判断"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/真假判断",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/真假判断/真假判断_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "线索推理",
       "title": "线索推理",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/线索推理"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/线索推理",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/线索推理/线索推理_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "试错法",
       "title": "试错法",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/试错法"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/试错法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/试错法/试错法_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "连锁反应",
       "title": "连锁反应",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/连锁反应"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/连锁反应",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/连锁反应/连锁反应_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "逆向思维",
       "title": "逆向思维",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/逆向思维"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/逆向思维",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/逆向思维/逆向思维_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "逻辑谜题",
       "title": "逻辑谜题",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/逻辑谜题"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/逻辑谜题",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/逻辑谜题/逻辑谜题_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "预测下一个",
       "title": "预测下一个",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/预测下一个"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/预测下一个",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/预测下一个/预测下一个_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "验证结果",
       "title": "验证结果",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/逻辑思维/中文歌曲/验证结果"
+      "path": "瞎编的歌曲/逻辑思维/中文歌曲/验证结果",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/逻辑思维/中文歌曲/验证结果/验证结果_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

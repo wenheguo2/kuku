@@ -10,7 +10,7 @@ import { View, Text, Input } from '@tarojs/components';
 import Taro, { useRouter } from '@tarojs/taro';
 import { indexLoader } from '@/services/indexLoader';
 import { GlobalIndex, HomeIndex, NON_STORY_SUBJECT_IDS } from '@/types/content';
-import { ALL_SONGS } from '@/services/songCatalog';
+import { loadSongCategories, SongCategory } from '@/services/songCatalog';
 import StateView from '@/components/StateView';
 import { useNight } from '@/hooks/useNight';
 
@@ -20,7 +20,7 @@ interface Hit { key: string; badge: string; thumb: string; title: string; sub: s
 const GROWTH_SUBJECTS = ['识字', '英语', '拼音'];
 const HOT_WORDS: Record<Scope, string[]> = {
   story: ['三国', '勇敢', '成语', '西游', '恐龙'],
-  song: ['两只老虎', '摇篮曲', '数鸭子', '嫦娥奔月'],
+  song: ['摇篮曲', '动物世界', '神话故事', '诗词歌曲'],
   growth: ['识字', '英语', '拼音'],
 };
 const PLACEHOLDER: Record<Scope, string> = {
@@ -37,13 +37,19 @@ export default function Search() {
 
   const [global, setGlobal] = useState<GlobalIndex | null>(null);
   const [home, setHome] = useState<HomeIndex | null>(null);
+  const [songCats, setSongCats] = useState<SongCategory[]>([]);
   const [kw, setKw] = useState('');
   const [loading, setLoading] = useState(scope === 'story');
   const [error, setError] = useState(false);
   const night = useNight();
 
   const load = () => {
-    if (scope !== 'story') return; // song/growth 用本地目录/固定学科，无需拉索引
+    if (scope === 'song') {
+      // 歌曲：搜 43 个真实分类名（全库歌名万级不全拉，命中分类后进列表选歌）
+      loadSongCategories().then(setSongCats).catch((err) => console.warn('加载歌曲分类失败', err));
+      return;
+    }
+    if (scope !== 'story') return; // growth 用固定学科，无需拉索引
     setLoading(true);
     setError(false);
     Promise.all([indexLoader.loadGlobal(), indexLoader.loadHome()])
@@ -66,9 +72,9 @@ export default function Search() {
       .filter((p) => p.title.includes(q))
       .forEach((p) => hits.push({ key: `story-${p.path}`, badge: '单篇', thumb: '🎧', title: p.title, sub: p.subject, onClick: () => Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(p.path)}&title=${encodeURIComponent(p.title)}` }) }));
   } else if (q && scope === 'song') {
-    ALL_SONGS
-      .filter((s) => s.title.includes(q))
-      .forEach((s) => hits.push({ key: `song-${s.id}`, badge: '歌曲', thumb: '🎵', title: s.title, sub: `${s.category} · ${s.meta}`, onClick: () => Taro.navigateTo({ url: `/pages/song/player/index?id=${encodeURIComponent(s.id)}&title=${encodeURIComponent(s.title)}` }) }));
+    songCats
+      .filter((c) => c.name.includes(q))
+      .forEach((c) => hits.push({ key: `songcat-${c.path}`, badge: '歌单', thumb: '🎵', title: c.name, sub: c.count ? `${c.count} 首` : '进入歌单', onClick: () => Taro.navigateTo({ url: `/pages/song/list/index?path=${encodeURIComponent(c.path)}&title=${encodeURIComponent(c.name)}` }) }));
   } else if (q && scope === 'growth') {
     GROWTH_SUBJECTS
       .filter((s) => s.includes(q))

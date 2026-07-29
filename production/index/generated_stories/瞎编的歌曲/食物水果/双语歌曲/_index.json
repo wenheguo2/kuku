@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/食物水果/双语歌曲",
   "name": "双语歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/食物水果.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/双语歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 115,
@@ -16,805 +16,1265 @@
       "title": "冰淇淋-Ice Cream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/冰淇淋-Ice Cream"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/冰淇淋-Ice Cream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/冰淇淋-Ice Cream/冰淇淋-Ice Cream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冰淇淋真好吃-Ice Cream Yummy",
       "title": "冰淇淋真好吃-Ice Cream Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/冰淇淋真好吃-Ice Cream Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/冰淇淋真好吃-Ice Cream Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/冰淇淋真好吃-Ice Cream Yummy/冰淇淋真好吃-Ice Cream Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "包子-Baozi",
       "title": "包子-Baozi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/包子-Baozi"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/包子-Baozi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/包子-Baozi/包子-Baozi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "包子真好吃-Baozi Yummy",
       "title": "包子真好吃-Baozi Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/包子真好吃-Baozi Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/包子真好吃-Baozi Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/包子真好吃-Baozi Yummy/包子真好吃-Baozi Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "南瓜-Pumpkin",
       "title": "南瓜-Pumpkin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/南瓜-Pumpkin"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/南瓜-Pumpkin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/南瓜-Pumpkin/南瓜-Pumpkin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "南瓜真好吃-Pumpkin Yummy",
       "title": "南瓜真好吃-Pumpkin Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/南瓜真好吃-Pumpkin Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/南瓜真好吃-Pumpkin Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/南瓜真好吃-Pumpkin Yummy/南瓜真好吃-Pumpkin Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "哈密瓜-Hami Melon",
       "title": "哈密瓜-Hami Melon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/哈密瓜-Hami Melon"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/哈密瓜-Hami Melon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/哈密瓜-Hami Melon/哈密瓜-Hami Melon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "哈密瓜真好吃-Hami Melon Yummy",
       "title": "哈密瓜真好吃-Hami Melon Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/哈密瓜真好吃-Hami Melon Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/哈密瓜真好吃-Hami Melon Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/哈密瓜真好吃-Hami Melon Yummy/哈密瓜真好吃-Hami Melon Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "喝水-Water",
       "title": "喝水-Water",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/喝水-Water"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/喝水-Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/喝水-Water/喝水-Water_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "土豆-Potato",
       "title": "土豆-Potato",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/土豆-Potato"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/土豆-Potato",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/土豆-Potato/土豆-Potato_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "土豆真好吃-Potato Yummy",
       "title": "土豆真好吃-Potato Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/土豆真好吃-Potato Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/土豆真好吃-Potato Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/土豆真好吃-Potato Yummy/土豆真好吃-Potato Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巧克力-Chocolate",
       "title": "巧克力-Chocolate",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/巧克力-Chocolate"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/巧克力-Chocolate",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/巧克力-Chocolate/巧克力-Chocolate_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巧克力真好吃-Chocolate Yummy",
       "title": "巧克力真好吃-Chocolate Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/巧克力真好吃-Chocolate Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/巧克力真好吃-Chocolate Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/巧克力真好吃-Chocolate Yummy/巧克力真好吃-Chocolate Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "果汁-Juice",
       "title": "果汁-Juice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/果汁-Juice"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/果汁-Juice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/果汁-Juice/果汁-Juice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "果汁真好吃-Juice Yummy",
       "title": "果汁真好吃-Juice Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/果汁真好吃-Juice Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/果汁真好吃-Juice Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/果汁真好吃-Juice Yummy/果汁真好吃-Juice Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "柚子-Pomelo",
       "title": "柚子-Pomelo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/柚子-Pomelo"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/柚子-Pomelo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/柚子-Pomelo/柚子-Pomelo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "柚子真好吃-Pomelo Yummy",
       "title": "柚子真好吃-Pomelo Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/柚子真好吃-Pomelo Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/柚子真好吃-Pomelo Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/柚子真好吃-Pomelo Yummy/柚子真好吃-Pomelo Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "柠檬-Lemon",
       "title": "柠檬-Lemon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/柠檬-Lemon"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/柠檬-Lemon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/柠檬-Lemon/柠檬-Lemon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "柠檬真好吃-Lemon Yummy",
       "title": "柠檬真好吃-Lemon Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/柠檬真好吃-Lemon Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/柠檬真好吃-Lemon Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/柠檬真好吃-Lemon Yummy/柠檬真好吃-Lemon Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "柿子-Persimmon",
       "title": "柿子-Persimmon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/柿子-Persimmon"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/柿子-Persimmon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/柿子-Persimmon/柿子-Persimmon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "柿子真好吃-Persimmon Yummy",
       "title": "柿子真好吃-Persimmon Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/柿子真好吃-Persimmon Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/柿子真好吃-Persimmon Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/柿子真好吃-Persimmon Yummy/柿子真好吃-Persimmon Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "桃子-Peach",
       "title": "桃子-Peach",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/桃子-Peach"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/桃子-Peach",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/桃子-Peach/桃子-Peach_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "桃子真好吃-Peach Yummy",
       "title": "桃子真好吃-Peach Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/桃子真好吃-Peach Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/桃子真好吃-Peach Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/桃子真好吃-Peach Yummy/桃子真好吃-Peach Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梨-Pear",
       "title": "梨-Pear",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/梨-Pear"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/梨-Pear",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/梨-Pear/梨-Pear_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梨真好吃-Pear Yummy",
       "title": "梨真好吃-Pear Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/梨真好吃-Pear Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/梨真好吃-Pear Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/梨真好吃-Pear Yummy/梨真好吃-Pear Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "椰子-Coconut",
       "title": "椰子-Coconut",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/椰子-Coconut"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/椰子-Coconut",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/椰子-Coconut/椰子-Coconut_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "椰子真好吃-Coconut Yummy",
       "title": "椰子真好吃-Coconut Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/椰子真好吃-Coconut Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/椰子真好吃-Coconut Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/椰子真好吃-Coconut Yummy/椰子真好吃-Coconut Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "樱桃-Cherry",
       "title": "樱桃-Cherry",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/樱桃-Cherry"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/樱桃-Cherry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/樱桃-Cherry/樱桃-Cherry_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "樱桃真好吃-Cherry Yummy",
       "title": "樱桃真好吃-Cherry Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/樱桃真好吃-Cherry Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/樱桃真好吃-Cherry Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/樱桃真好吃-Cherry Yummy/樱桃真好吃-Cherry Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "橙子-Orange",
       "title": "橙子-Orange",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/橙子-Orange"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/橙子-Orange",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/橙子-Orange/橙子-Orange_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "橙子真好吃-Orange Yummy",
       "title": "橙子真好吃-Orange Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/橙子真好吃-Orange Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/橙子真好吃-Orange Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/橙子真好吃-Orange Yummy/橙子真好吃-Orange Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "水-Water",
       "title": "水-Water",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/水-Water"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/水-Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/水-Water/水-Water_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "水真好吃-Water Yummy",
       "title": "水真好吃-Water Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/水真好吃-Water Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/水真好吃-Water Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/水真好吃-Water Yummy/水真好吃-Water Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "汉堡-Hamburger",
       "title": "汉堡-Hamburger",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/汉堡-Hamburger"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/汉堡-Hamburger",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/汉堡-Hamburger/汉堡-Hamburger_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "汉堡真好吃-Hamburger Yummy",
       "title": "汉堡真好吃-Hamburger Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/汉堡真好吃-Hamburger Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/汉堡真好吃-Hamburger Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/汉堡真好吃-Hamburger Yummy/汉堡真好吃-Hamburger Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "汤圆-Tangyuan",
       "title": "汤圆-Tangyuan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/汤圆-Tangyuan"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/汤圆-Tangyuan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/汤圆-Tangyuan/汤圆-Tangyuan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "汤圆真好吃-Tangyuan Yummy",
       "title": "汤圆真好吃-Tangyuan Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/汤圆真好吃-Tangyuan Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/汤圆真好吃-Tangyuan Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/汤圆真好吃-Tangyuan Yummy/汤圆真好吃-Tangyuan Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "油条-Youtiao",
       "title": "油条-Youtiao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/油条-Youtiao"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/油条-Youtiao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/油条-Youtiao/油条-Youtiao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "油条真好吃-Youtiao Yummy",
       "title": "油条真好吃-Youtiao Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/油条真好吃-Youtiao Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/油条真好吃-Youtiao Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/油条真好吃-Youtiao Yummy/油条真好吃-Youtiao Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "洋葱-Onion",
       "title": "洋葱-Onion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/洋葱-Onion"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/洋葱-Onion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/洋葱-Onion/洋葱-Onion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "洋葱真好吃-Onion Yummy",
       "title": "洋葱真好吃-Onion Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/洋葱真好吃-Onion Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/洋葱真好吃-Onion Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/洋葱真好吃-Onion Yummy/洋葱真好吃-Onion Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "炒饭-Fried Rice",
       "title": "炒饭-Fried Rice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/炒饭-Fried Rice"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/炒饭-Fried Rice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/炒饭-Fried Rice/炒饭-Fried Rice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "炒饭真好吃-Fried Rice Yummy",
       "title": "炒饭真好吃-Fried Rice Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/炒饭真好吃-Fried Rice Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/炒饭真好吃-Fried Rice Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/炒饭真好吃-Fried Rice Yummy/炒饭真好吃-Fried Rice Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "牛奶-Milk",
       "title": "牛奶-Milk",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/牛奶-Milk"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/牛奶-Milk",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/牛奶-Milk/牛奶-Milk_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "牛奶真好吃-Milk Yummy",
       "title": "牛奶真好吃-Milk Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/牛奶真好吃-Milk Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/牛奶真好吃-Milk Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/牛奶真好吃-Milk Yummy/牛奶真好吃-Milk Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猕猴桃-Kiwi",
       "title": "猕猴桃-Kiwi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/猕猴桃-Kiwi"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/猕猴桃-Kiwi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/猕猴桃-Kiwi/猕猴桃-Kiwi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猕猴桃真好吃-Kiwi Yummy",
       "title": "猕猴桃真好吃-Kiwi Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/猕猴桃真好吃-Kiwi Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/猕猴桃真好吃-Kiwi Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/猕猴桃真好吃-Kiwi Yummy/猕猴桃真好吃-Kiwi Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玉米-Corn",
       "title": "玉米-Corn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/玉米-Corn"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/玉米-Corn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/玉米-Corn/玉米-Corn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玉米真好吃-Corn Yummy",
       "title": "玉米真好吃-Corn Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/玉米真好吃-Corn Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/玉米真好吃-Corn Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/玉米真好吃-Corn Yummy/玉米真好吃-Corn Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白菜-Cabbage",
       "title": "白菜-Cabbage",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/白菜-Cabbage"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/白菜-Cabbage",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/白菜-Cabbage/白菜-Cabbage_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白菜真好吃-Cabbage Yummy",
       "title": "白菜真好吃-Cabbage Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/白菜真好吃-Cabbage Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/白菜真好吃-Cabbage Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/白菜真好吃-Cabbage Yummy/白菜真好吃-Cabbage Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "石榴-Pomegranate",
       "title": "石榴-Pomegranate",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/石榴-Pomegranate"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/石榴-Pomegranate",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/石榴-Pomegranate/石榴-Pomegranate_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "石榴真好吃-Pomegranate Yummy",
       "title": "石榴真好吃-Pomegranate Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/石榴真好吃-Pomegranate Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/石榴真好吃-Pomegranate Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/石榴真好吃-Pomegranate Yummy/石榴真好吃-Pomegranate Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "米饭-Rice",
       "title": "米饭-Rice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/米饭-Rice"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/米饭-Rice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/米饭-Rice/米饭-Rice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "米饭真好吃-Rice Yummy",
       "title": "米饭真好吃-Rice Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/米饭真好吃-Rice Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/米饭真好吃-Rice Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/米饭真好吃-Rice Yummy/米饭真好吃-Rice Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "粥-Congee",
       "title": "粥-Congee",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/粥-Congee"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/粥-Congee",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/粥-Congee/粥-Congee_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "粥真好吃-Congee Yummy",
       "title": "粥真好吃-Congee Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/粥真好吃-Congee Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/粥真好吃-Congee Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/粥真好吃-Congee Yummy/粥真好吃-Congee Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "糖果-Candy",
       "title": "糖果-Candy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/糖果-Candy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/糖果-Candy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/糖果-Candy/糖果-Candy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "糖果真好吃-Candy Yummy",
       "title": "糖果真好吃-Candy Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/糖果真好吃-Candy Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/糖果真好吃-Candy Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/糖果真好吃-Candy Yummy/糖果真好吃-Candy Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "胡萝卜-Carrot",
       "title": "胡萝卜-Carrot",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/胡萝卜-Carrot"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/胡萝卜-Carrot",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/胡萝卜-Carrot/胡萝卜-Carrot_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "胡萝卜真好吃-Carrot Yummy",
       "title": "胡萝卜真好吃-Carrot Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/胡萝卜真好吃-Carrot Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/胡萝卜真好吃-Carrot Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/胡萝卜真好吃-Carrot Yummy/胡萝卜真好吃-Carrot Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "芒果-Mango",
       "title": "芒果-Mango",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/芒果-Mango"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/芒果-Mango",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/芒果-Mango/芒果-Mango_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "芒果真好吃-Mango Yummy",
       "title": "芒果真好吃-Mango Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/芒果真好吃-Mango Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/芒果真好吃-Mango Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/芒果真好吃-Mango Yummy/芒果真好吃-Mango Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "苹果-Apple",
       "title": "苹果-Apple",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/苹果-Apple"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/苹果-Apple",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/苹果-Apple/苹果-Apple_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "苹果真好吃-Apple Yummy",
       "title": "苹果真好吃-Apple Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/苹果真好吃-Apple Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/苹果真好吃-Apple Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/苹果真好吃-Apple Yummy/苹果真好吃-Apple Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茄子-Eggplant",
       "title": "茄子-Eggplant",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/茄子-Eggplant"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/茄子-Eggplant",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/茄子-Eggplant/茄子-Eggplant_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茄子真好吃-Eggplant Yummy",
       "title": "茄子真好吃-Eggplant Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/茄子真好吃-Eggplant Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/茄子真好吃-Eggplant Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/茄子真好吃-Eggplant Yummy/茄子真好吃-Eggplant Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "草莓-Strawberry",
       "title": "草莓-Strawberry",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/草莓-Strawberry"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/草莓-Strawberry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/草莓-Strawberry/草莓-Strawberry_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "草莓真好吃-Strawberry Yummy",
       "title": "草莓真好吃-Strawberry Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/草莓真好吃-Strawberry Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/草莓真好吃-Strawberry Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/草莓真好吃-Strawberry Yummy/草莓真好吃-Strawberry Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "荔枝-Lychee",
       "title": "荔枝-Lychee",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/荔枝-Lychee"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/荔枝-Lychee",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/荔枝-Lychee/荔枝-Lychee_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "荔枝真好吃-Lychee Yummy",
       "title": "荔枝真好吃-Lychee Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/荔枝真好吃-Lychee Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/荔枝真好吃-Lychee Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/荔枝真好吃-Lychee Yummy/荔枝真好吃-Lychee Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "莲藕-Lotus Root",
       "title": "莲藕-Lotus Root",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/莲藕-Lotus Root"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/莲藕-Lotus Root",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/莲藕-Lotus Root/莲藕-Lotus Root_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "莲藕真好吃-Lotus Root Yummy",
       "title": "莲藕真好吃-Lotus Root Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/莲藕真好吃-Lotus Root Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/莲藕真好吃-Lotus Root Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/莲藕真好吃-Lotus Root Yummy/莲藕真好吃-Lotus Root Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "菠菜-Spinach",
       "title": "菠菜-Spinach",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/菠菜-Spinach"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/菠菜-Spinach",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/菠菜-Spinach/菠菜-Spinach_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "菠菜真好吃-Spinach Yummy",
       "title": "菠菜真好吃-Spinach Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/菠菜真好吃-Spinach Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/菠菜真好吃-Spinach Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/菠菜真好吃-Spinach Yummy/菠菜真好吃-Spinach Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "菠萝-Pineapple",
       "title": "菠萝-Pineapple",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/菠萝-Pineapple"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/菠萝-Pineapple",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/菠萝-Pineapple/菠萝-Pineapple_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "菠萝真好吃-Pineapple Yummy",
       "title": "菠萝真好吃-Pineapple Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/菠萝真好吃-Pineapple Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/菠萝真好吃-Pineapple Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/菠萝真好吃-Pineapple Yummy/菠萝真好吃-Pineapple Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "萝卜-Radish",
       "title": "萝卜-Radish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/萝卜-Radish"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/萝卜-Radish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/萝卜-Radish/萝卜-Radish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "萝卜真好吃-Radish Yummy",
       "title": "萝卜真好吃-Radish Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/萝卜真好吃-Radish Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/萝卜真好吃-Radish Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/萝卜真好吃-Radish Yummy/萝卜真好吃-Radish Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "葡萄-Grapes",
       "title": "葡萄-Grapes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/葡萄-Grapes"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/葡萄-Grapes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/葡萄-Grapes/葡萄-Grapes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "葡萄真好吃-Grapes Yummy",
       "title": "葡萄真好吃-Grapes Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/葡萄真好吃-Grapes Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/葡萄真好吃-Grapes Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/葡萄真好吃-Grapes Yummy/葡萄真好吃-Grapes Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蓝莓-Blueberry",
       "title": "蓝莓-Blueberry",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/蓝莓-Blueberry"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/蓝莓-Blueberry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/蓝莓-Blueberry/蓝莓-Blueberry_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蓝莓真好吃-Blueberry Yummy",
       "title": "蓝莓真好吃-Blueberry Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/蓝莓真好吃-Blueberry Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/蓝莓真好吃-Blueberry Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/蓝莓真好吃-Blueberry Yummy/蓝莓真好吃-Blueberry Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蘑菇-Mushroom",
       "title": "蘑菇-Mushroom",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/蘑菇-Mushroom"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/蘑菇-Mushroom",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/蘑菇-Mushroom/蘑菇-Mushroom_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蘑菇真好吃-Mushroom Yummy",
       "title": "蘑菇真好吃-Mushroom Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/蘑菇真好吃-Mushroom Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/蘑菇真好吃-Mushroom Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/蘑菇真好吃-Mushroom Yummy/蘑菇真好吃-Mushroom Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蛋糕-Cake",
       "title": "蛋糕-Cake",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/蛋糕-Cake"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/蛋糕-Cake",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/蛋糕-Cake/蛋糕-Cake_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蛋糕真好吃-Cake Yummy",
       "title": "蛋糕真好吃-Cake Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/蛋糕真好吃-Cake Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/蛋糕真好吃-Cake Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/蛋糕真好吃-Cake Yummy/蛋糕真好吃-Cake Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "西瓜-Watermelon",
       "title": "西瓜-Watermelon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/西瓜-Watermelon"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/西瓜-Watermelon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/西瓜-Watermelon/西瓜-Watermelon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "西瓜真好吃-Watermelon Yummy",
       "title": "西瓜真好吃-Watermelon Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/西瓜真好吃-Watermelon Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/西瓜真好吃-Watermelon Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/西瓜真好吃-Watermelon Yummy/西瓜真好吃-Watermelon Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "西红柿-Tomato",
       "title": "西红柿-Tomato",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/西红柿-Tomato"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/西红柿-Tomato",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/西红柿-Tomato/西红柿-Tomato_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "西红柿真好吃-Tomato Yummy",
       "title": "西红柿真好吃-Tomato Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/西红柿真好吃-Tomato Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/西红柿真好吃-Tomato Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/西红柿真好吃-Tomato Yummy/西红柿真好吃-Tomato Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "豆浆-Soy Milk",
       "title": "豆浆-Soy Milk",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/豆浆-Soy Milk"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/豆浆-Soy Milk",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/豆浆-Soy Milk/豆浆-Soy Milk_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "豆浆真好吃-Soy Milk Yummy",
       "title": "豆浆真好吃-Soy Milk Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/豆浆真好吃-Soy Milk Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/豆浆真好吃-Soy Milk Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/豆浆真好吃-Soy Milk Yummy/豆浆真好吃-Soy Milk Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "酸奶-Yogurt",
       "title": "酸奶-Yogurt",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/酸奶-Yogurt"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/酸奶-Yogurt",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/酸奶-Yogurt/酸奶-Yogurt_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "酸奶真好吃-Yogurt Yummy",
       "title": "酸奶真好吃-Yogurt Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/酸奶真好吃-Yogurt Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/酸奶真好吃-Yogurt Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/酸奶真好吃-Yogurt Yummy/酸奶真好吃-Yogurt Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青椒-Green Pepper",
       "title": "青椒-Green Pepper",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/青椒-Green Pepper"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/青椒-Green Pepper",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/青椒-Green Pepper/青椒-Green Pepper_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青椒真好吃-Green Pepper Yummy",
       "title": "青椒真好吃-Green Pepper Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/青椒真好吃-Green Pepper Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/青椒真好吃-Green Pepper Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/青椒真好吃-Green Pepper Yummy/青椒真好吃-Green Pepper Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青菜-Greens",
       "title": "青菜-Greens",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/青菜-Greens"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/青菜-Greens",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/青菜-Greens/青菜-Greens_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青菜真好吃-Greens Yummy",
       "title": "青菜真好吃-Greens Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/青菜真好吃-Greens Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/青菜真好吃-Greens Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/青菜真好吃-Greens Yummy/青菜真好吃-Greens Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "面包-Bread",
       "title": "面包-Bread",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/面包-Bread"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/面包-Bread",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/面包-Bread/面包-Bread_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "面包真好吃-Bread Yummy",
       "title": "面包真好吃-Bread Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/面包真好吃-Bread Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/面包真好吃-Bread Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/面包真好吃-Bread Yummy/面包真好吃-Bread Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "面条-Noodles",
       "title": "面条-Noodles",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/面条-Noodles"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/面条-Noodles",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/面条-Noodles/面条-Noodles_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "面条真好吃-Noodles Yummy",
       "title": "面条真好吃-Noodles Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/面条真好吃-Noodles Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/面条真好吃-Noodles Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/面条真好吃-Noodles Yummy/面条真好吃-Noodles Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "饺子-Dumpling",
       "title": "饺子-Dumpling",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/饺子-Dumpling"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/饺子-Dumpling",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/饺子-Dumpling/饺子-Dumpling_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "饺子真好吃-Dumpling Yummy",
       "title": "饺子真好吃-Dumpling Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/饺子真好吃-Dumpling Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/饺子真好吃-Dumpling Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/饺子真好吃-Dumpling Yummy/饺子真好吃-Dumpling Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "饼-Pancake",
       "title": "饼-Pancake",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/饼-Pancake"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/饼-Pancake",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/饼-Pancake/饼-Pancake_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "饼干-Cookie",
       "title": "饼干-Cookie",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/饼干-Cookie"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/饼干-Cookie",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/饼干-Cookie/饼干-Cookie_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "饼干真好吃-Cookie Yummy",
       "title": "饼干真好吃-Cookie Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/饼干真好吃-Cookie Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/饼干真好吃-Cookie Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/饼干真好吃-Cookie Yummy/饼干真好吃-Cookie Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "饼真好吃-Pancake Yummy",
       "title": "饼真好吃-Pancake Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/饼真好吃-Pancake Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/饼真好吃-Pancake Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/饼真好吃-Pancake Yummy/饼真好吃-Pancake Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "馒头-Mantou",
       "title": "馒头-Mantou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/馒头-Mantou"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/馒头-Mantou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/馒头-Mantou/馒头-Mantou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "馒头真好吃-Mantou Yummy",
       "title": "馒头真好吃-Mantou Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/馒头真好吃-Mantou Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/馒头真好吃-Mantou Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/馒头真好吃-Mantou Yummy/馒头真好吃-Mantou Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "香蕉-Banana",
       "title": "香蕉-Banana",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/香蕉-Banana"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/香蕉-Banana",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/香蕉-Banana/香蕉-Banana_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "香蕉真好吃-Banana Yummy",
       "title": "香蕉真好吃-Banana Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/香蕉真好吃-Banana Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/香蕉真好吃-Banana Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/香蕉真好吃-Banana Yummy/香蕉真好吃-Banana Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黄瓜-Cucumber",
       "title": "黄瓜-Cucumber",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/黄瓜-Cucumber"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/黄瓜-Cucumber",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/黄瓜-Cucumber/黄瓜-Cucumber_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黄瓜真好吃-Cucumber Yummy",
       "title": "黄瓜真好吃-Cucumber Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/食物水果/双语歌曲/黄瓜真好吃-Cucumber Yummy"
+      "path": "瞎编的歌曲/食物水果/双语歌曲/黄瓜真好吃-Cucumber Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/食物水果/双语歌曲/黄瓜真好吃-Cucumber Yummy/黄瓜真好吃-Cucumber Yummy_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

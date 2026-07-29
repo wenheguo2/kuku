@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/蒙学歌曲/声律启蒙",
   "name": "声律启蒙",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/声律启蒙.jpg",
     "cover_level": "category"
   },
   "entry_count": 45,
@@ -16,315 +16,495 @@
       "title": "一东_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/一东_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/一东_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/一东_1/一东_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一东_2",
       "title": "一东_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/一东_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/一东_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/一东_2/一东_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一东_3",
       "title": "一东_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/一东_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/一东_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/一东_3/一东_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "七虞_1",
       "title": "七虞_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/七虞_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/七虞_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/七虞_1/七虞_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "七虞_2",
       "title": "七虞_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/七虞_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/七虞_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/七虞_2/七虞_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "七虞_3",
       "title": "七虞_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/七虞_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/七虞_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/七虞_3/七虞_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三江_1",
       "title": "三江_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/三江_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/三江_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/三江_1/三江_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三江_2",
       "title": "三江_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/三江_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/三江_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/三江_2/三江_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三江_3",
       "title": "三江_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/三江_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/三江_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/三江_3/三江_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "九佳_1",
       "title": "九佳_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/九佳_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/九佳_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/九佳_1/九佳_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "九佳_2",
       "title": "九佳_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/九佳_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/九佳_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/九佳_2/九佳_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "九佳_3",
       "title": "九佳_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/九佳_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/九佳_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/九佳_3/九佳_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "二冬_1",
       "title": "二冬_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/二冬_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/二冬_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/二冬_1/二冬_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "二冬_2",
       "title": "二冬_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/二冬_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/二冬_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/二冬_2/二冬_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "二冬_3",
       "title": "二冬_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/二冬_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/二冬_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/二冬_3/二冬_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "五微_1",
       "title": "五微_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/五微_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/五微_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/五微_1/五微_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "五微_2",
       "title": "五微_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/五微_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/五微_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/五微_2/五微_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "五微_3",
       "title": "五微_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/五微_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/五微_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/五微_3/五微_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "八齐_1",
       "title": "八齐_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/八齐_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/八齐_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/八齐_1/八齐_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "八齐_2",
       "title": "八齐_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/八齐_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/八齐_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/八齐_2/八齐_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "八齐_3",
       "title": "八齐_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/八齐_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/八齐_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/八齐_3/八齐_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "六鱼_1",
       "title": "六鱼_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/六鱼_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/六鱼_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/六鱼_1/六鱼_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "六鱼_2",
       "title": "六鱼_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/六鱼_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/六鱼_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/六鱼_2/六鱼_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "六鱼_3",
       "title": "六鱼_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/六鱼_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/六鱼_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/六鱼_3/六鱼_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十一真_1",
       "title": "十一真_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十一真_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十一真_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十一真_1/十一真_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十一真_2",
       "title": "十一真_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十一真_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十一真_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十一真_2/十一真_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十一真_3",
       "title": "十一真_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十一真_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十一真_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十一真_3/十一真_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十三元_1",
       "title": "十三元_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十三元_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十三元_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十三元_1/十三元_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十三元_2",
       "title": "十三元_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十三元_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十三元_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十三元_2/十三元_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十三元_3",
       "title": "十三元_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十三元_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十三元_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十三元_3/十三元_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十二文_1",
       "title": "十二文_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十二文_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十二文_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十二文_1/十二文_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十二文_2",
       "title": "十二文_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十二文_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十二文_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十二文_2/十二文_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十二文_3",
       "title": "十二文_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十二文_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十二文_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十二文_3/十二文_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十五删_1",
       "title": "十五删_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十五删_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十五删_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十五删_1/十五删_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十五删_2",
       "title": "十五删_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十五删_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十五删_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十五删_2/十五删_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十五删_3",
       "title": "十五删_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十五删_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十五删_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十五删_3/十五删_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十四寒_1",
       "title": "十四寒_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十四寒_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十四寒_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十四寒_1/十四寒_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十四寒_2",
       "title": "十四寒_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十四寒_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十四寒_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十四寒_2/十四寒_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十四寒_3",
       "title": "十四寒_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十四寒_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十四寒_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十四寒_3/十四寒_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十灰_1",
       "title": "十灰_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十灰_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十灰_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十灰_1/十灰_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十灰_2",
       "title": "十灰_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十灰_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十灰_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十灰_2/十灰_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "十灰_3",
       "title": "十灰_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十灰_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/十灰_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/十灰_3/十灰_3_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "四支_1",
       "title": "四支_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/四支_1"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/四支_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/四支_1/四支_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "四支_2",
       "title": "四支_2",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/四支_2"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/四支_2",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/四支_2/四支_2_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "四支_3",
       "title": "四支_3",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/四支_3"
+      "path": "瞎编的歌曲/蒙学歌曲/声律启蒙/四支_3",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/声律启蒙/四支_3/四支_3_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

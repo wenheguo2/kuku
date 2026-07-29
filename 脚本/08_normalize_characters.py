@@ -1,9 +1,11 @@
 """
 脚本8：透明底立绘规格化
 ========================
-功能：将透明底角色立绘统一缩放为 1024x1024px WebP（质量90），保持1:1比例不裁剪
+功能：将透明底角色立绘统一缩放为 1024x1024px PNG，保持1:1比例不裁剪
 输入：production/illustrations/characters_transparent/{角色}/{服装}/{表情}/xxx.png
-输出：同目录下 xxx.webp（原图保留不动，保留RGBA透明通道）
+输出：同目录下 xxx.png（原图保留不动，保留RGBA透明通道）
+⚠ 2026-07-29 全端通用格式决策：产出由 WebP 改为 PNG（微信开发者工具模拟器不解码 webp；透明图用 PNG）
+注：若源已是 png 且同名，会因 dst==src 跳过，不会覆盖原图
 运行机器：本机
 前置条件：无（可立即执行，依赖rembg透明化已完成）
 
@@ -40,12 +42,12 @@ def find_images():
 
 def process_one(src, target_w, target_h, quality, force=False):
     """处理一张透明底立绘 — 等比缩放到目标画布内，居中放置，保留透明通道"""
-    dst = src.with_suffix(".webp")
+    dst = src.with_suffix(".png")
 
     if dst.exists() and not force:
-        return ("skip", str(src), "webp already exists")
+        return ("skip", str(src), "png already exists")
     if dst == src:
-        return ("skip", str(src), "source is already webp")
+        return ("skip", str(src), "source is already png")
 
     try:
         from PIL import Image
@@ -68,7 +70,7 @@ def process_one(src, target_w, target_h, quality, force=False):
         offset_y = (target_h - new_h) // 2
         canvas.paste(img, (offset_x, offset_y), img)  # 用img自身做mask保留透明
 
-        canvas.save(dst, "WEBP", quality=quality)
+        canvas.save(dst, "PNG")
         return ("ok", str(src), f"{target_w}x{target_h}")
     except Exception as e:
         return ("fail", str(src), str(e)[:200])

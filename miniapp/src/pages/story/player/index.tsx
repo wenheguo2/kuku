@@ -11,7 +11,7 @@ import { indexLoader } from '@/services/indexLoader';
 import { player } from '@/services/audioPlayer';
 import { playStory, skip } from '@/services/playbackQueue';
 import { api } from '@/services/api';
-import { buildAssetUrl } from '@/utils/path';
+import { buildAssetUrl, guessCoverFromPath } from '@/utils/path';
 import { CONFIG } from '@/services/config';
 import { SegmentsData } from '@/types/content';
 import { useUserStore } from '@/stores/userStore';
@@ -30,8 +30,13 @@ export default function StoryPlayer() {
   const [playing, setPlaying] = useState(false);
   const [cur, setCur] = useState(0);
   const [dur, setDur] = useState(0);
+  // 收藏状态回显：已收藏时心形变红+文案变“已收藏”，再点取消（weapp 实测反馈：原来点了没反应分不清收没收）
+  const [favId, setFavId] = useState<string | null>(null);
+  // 加载失败驻留态：toast 转瞬即逝，字幕位需持久提示失败而非永远“加载中”（边界实测：不存在的故事停留加载中）
+  const [loadFailed, setLoadFailed] = useState(false);
   const reportLoadError = (error: unknown) => {
     console.warn('加载故事音频失败', error);
+    setLoadFailed(true);
     Taro.showToast({ title: '故事加载失败，请稍后重试', icon: 'none' });
   };
   const displayedRef = useRef<string>('');
@@ -39,6 +44,7 @@ export default function StoryPlayer() {
   /** 加载并（可选）播放一篇故事：播放统一走全局 playStory（含全局状态+历史），非播放只拉 segments 展示 */
   const loadStory = async (path: string, storyTitle: string, autoplay: boolean) => {
     displayedRef.current = path; // 先标记，避免下方 current 变化触发反向展示 effect 重复加载
+    setLoadFailed(false);
     if (autoplay) {
       const seg = await playStory(path, storyTitle);
       setData(seg);
@@ -66,12 +72,12 @@ export default function StoryPlayer() {
       setDur(store.durationSec);
       setPlaying(store.isPlaying);
       displayedRef.current = store.current.id;
-      indexLoader.loadSegments(store.current.id).then(setData).catch(reportLoadError);
+      indexLoader.loadSegments(store.current.id).then((d) => { setData(d); setLoadFailed(false); }).catch(reportLoadError);
     } else {
-      // 直接进入（非从故事列表/章回）：若当前队列首项不是本故事，重置为单篇，避免残留歌单被误当“下一首”
+      // 直接进入（非从故事列表/章回）：若当前队列首项不是本故事，重置为单篇（带按 path 推导的封面兜底），避免残留歌单被误当“下一首”
       const q = store.queue[store.queueIndex];
       if (!(q && q.type === 'story' && q.id === initPath)) {
-        store.setQueue([{ type: 'story', id: initPath, title: initTitle }], 0);
+        store.setQueue([{ type: 'story', id: initPath, title: initTitle, coverUrl: guessCoverFromPath(initPath) || undefined }], 0);
       }
       loadStory(initPath, initTitle, true).catch(reportLoadError);
     }
@@ -88,7 +94,7 @@ export default function StoryPlayer() {
     displayedRef.current = currentId;
     setTitle(usePlayerStore.getState().current?.title ?? '故事');
     setPlaying(usePlayerStore.getState().isPlaying);
-    indexLoader.loadSegments(currentId).then(setData).catch(reportLoadError);
+    indexLoader.loadSegments(currentId).then((d) => { setData(d); setLoadFailed(false); }).catch(reportLoadError);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentId]);
 
@@ -97,35 +103,51 @@ export default function StoryPlayer() {
     else { player.play(); setPlaying(true); usePlayerStore.getState().setPlaying(true); }
   };
 
-  // 字幕时间轴自适应：mock 用 start_time/end_time(秒)；真实 segments 为 start_ms/duration_ms(毫秒，start_ms 多为 0 → 按 duration_ms 累计推算，配音对齐前为近似时间轴)
-  const timedSegments = useMemo(() => {
-    let accMs = 0;
-    return (data?.segments ?? []).map((s) => {
-      const startMs = s.start_time != null ? s.start_time * 1000 : (s.start_ms && s.start_ms > 0 ? s.start_ms : accMs);
-      const endMs = s.end_time != null ? s.end_time * 1000 : startMs + (s.duration_ms ?? 0);
-      accMs = endMs;
-      return { text: s.text, startSec: startMs / 1000, endSec: endMs / 1000 };
-    });
-  }, [data]);
-  const curSeg = timedSegments.find((s) => s.startSec <= cur && cur < s.endSec) ?? (cur > 0 ? timedSegments[timedSegments.length - 1] : timedSegments[0]);
+  // 故事不显字幕（用户定：字幕只给教学——教学有真实 timeline，故事无 timeline 估算轴不准不硬显）
   const hasQueue = usePlayerStore((s) => s.queue.length > 1);
+  const queuePos = usePlayerStore((s) => (s.queue.length > 1 ? `第 ${s.queueIndex + 1} / ${s.queue.length} 篇` : ''));
   const playbackRate = usePlayerStore((s) => s.playbackRate); // 固定五挡 0.8~1.2，点击循环切换
+  // 封面回退链：segments.cover_url(多为空) → 全局播放态 coverUrl(列表/首页入队时带真封面) → 兜底色块
+  const curCoverUrl = usePlayerStore((s) => s.current?.coverUrl);
+  const coverSrc = data?.cover_url || curCoverUrl || '';
   const fmt = (s: number) => { const m = Math.floor(s / 60); const ss = Math.floor(s % 60); return `${m}:${ss < 10 ? '0' : ''}${ss}`; };
   const playNext = () => { skip(1); };
+  /** 当前曲目的收藏 id（切曲/登录态变化时重查）；未登录不查 */
+  const currentContentId = usePlayerStore((s) => s.current?.id) || initPath;
+  useEffect(() => {
+    if (!useUserStore.getState().isLogin) { setFavId(null); return; }
+    let alive = true;
+    api.get<{ list: { favorite_id: string; content_id: string }[] }>('/favorites')
+      .then((r) => { if (!alive) return; const hit = (r.list ?? []).find((f) => f.content_id === currentContentId); setFavId(hit ? hit.favorite_id : null); })
+      .catch(() => {});
+    return () => { alive = false; };
+  }, [currentContentId]);
   const favorite = async () => {
     if (!useUserStore.getState().isLogin) {
       await Taro.navigateTo({ url: '/pages/common/login/index' });
       return;
     }
     try {
+      if (favId) {
+        // 已收藏 → 再点取消
+        await api.del(`/favorites/${favId}`);
+        setFavId(null);
+        Taro.showToast({ title: '已取消收藏', icon: 'none' });
+        return;
+      }
       await api.post('/favorites', {
         content_type: 'story',
-        content_id: usePlayerStore.getState().current?.id || initPath,
+        content_id: currentContentId,
         content_title: title,
       });
+      // 回查拿 favorite_id，支持立即再点取消
+      const r = await api.get<{ list: { favorite_id: string; content_id: string }[] }>('/favorites');
+      const hit = (r.list ?? []).find((f) => f.content_id === currentContentId);
+      setFavId(hit ? hit.favorite_id : 'pending');
       Taro.showToast({ title: '已收藏', icon: 'success' });
     } catch (error) {
-      console.warn('收藏失败', error);
+      console.warn('收藏操作失败', error);
+      Taro.showToast({ title: '操作失败，请稍后再试', icon: 'none' });
     }
   };
   const share = () => {
@@ -137,7 +159,7 @@ export default function StoryPlayer() {
     <View className={`player-lamp ${night}`}>
       {/* 封面氛围模糊铺底 */}
       <View className="pbg">
-        {data?.cover_url ? <Image className="cover" src={buildAssetUrl(data.cover_url)} mode="aspectFill" ariaLabel={`${title}背景封面`} /> : null}
+        {coverSrc ? <Image className="cover" webp src={buildAssetUrl(coverSrc)} mode="aspectFill" ariaLabel={`${title}背景封面`} /> : null}
       </View>
       <View className="pbg-mask" />
 
@@ -150,15 +172,14 @@ export default function StoryPlayer() {
           <Icon name="dots" size={44} color="#fff" />
         </View>
 
-        {/* 圆形发光封面（呼吸光晕） */}
+        {/* 封面主视觉：大幅圆角卡（用户定：把故事封面放出来） */}
         <View className="lampcov">
-          {data?.cover_url
-            ? <Image className="cover" src={buildAssetUrl(data.cover_url)} mode="aspectFill" ariaLabel={`${title}封面`} />
+          {coverSrc
+            ? <Image className="cover" webp src={buildAssetUrl(coverSrc)} mode="aspectFill" ariaLabel={`${title}封面`} />
             : <View className="cover" style={{ background: 'radial-gradient(circle at 40% 35%,#FFD9A0,#F2751F)' }} />}
         </View>
 
         <Text className="ptitle serif">{title}</Text>
-        <Text className="psub">{curSeg?.text || (hasQueue ? '故事集播放中 · 播完自动续播' : (CONFIG.USE_MOCK ? '示例播放' : '加载中…'))}</Text>
 
         <Slider className="lamp-slider" min={0} max={Math.max(dur, 1)} value={cur} activeColor="#FFC98F" backgroundColor="rgba(255,255,255,0.25)" blockColor="#FFF3DC"
           onChange={(e) => { player.seek(e.detail.value); setCur(e.detail.value); }} />
@@ -171,12 +192,19 @@ export default function StoryPlayer() {
         </View>
 
         <View className="pfns">
-          <View className="fn" onClick={() => void favorite()}><Icon name="heart" size={40} color="#fff" /><Text>收藏</Text></View>
+          <View className="fn" onClick={() => void favorite()}><Icon name="heart" size={40} color={favId ? '#FF7B93' : '#fff'} /><Text>{favId ? '已收藏' : '收藏'}</Text></View>
           <View className="fn" onClick={share}><Icon name="share" size={40} color="#fff" /><Text>分享</Text></View>
           <View className="fn" onClick={() => player.cycleRate()}><Text style={{ fontSize: '32px', fontWeight: 800, lineHeight: '40px', height: '40px' }}>{playbackRate.toFixed(1)}x</Text><Text>倍速</Text></View>
           <View className="fn" onClick={() => Taro.navigateTo({ url: '/pages/common/settings/index' })}><Icon name="timer" size={40} color="#fff" /><Text>定时</Text></View>
           <View className="fn" onClick={() => Taro.navigateBack().catch(() => Taro.switchTab({ url: '/pages/story/index/index' }))}><Icon name="list" size={40} color="#fff" /><Text>列表</Text></View>
         </View>
+
+        {/* 底部信息区：故事不显字幕(无 timeline 不准)，改显队列进度/加载失败提示；无内容时不占位 */}
+        {(loadFailed || hasQueue) && (
+          <View className="psub-panel slim">
+            <Text className="psub-lg">{loadFailed ? '故事加载失败了，返回重试或换一个听听吧' : `${queuePos} · 播完自动续播下一篇`}</Text>
+          </View>
+        )}
       </View>
     </View>
   );

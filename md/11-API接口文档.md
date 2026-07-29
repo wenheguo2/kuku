@@ -125,7 +125,7 @@ Authorization: Bearer {jwt_token}
       "subject_name": "品格养成",
       "category_count": 9,
       "total_entries": 1565,
-      "cover": { "cover_image_url": "covers/generated/品格养成/品格养成.webp", "cover_level": "subject" }
+      "cover": { "cover_image_url": "covers/generated/品格养成/品格养成.jpg", "cover_level": "subject" }
     }
   ]
 }
@@ -154,7 +154,7 @@ Authorization: Bearer {jwt_token}
 {
   "subject_id": "品格养成",
   "subject_name": "品格养成",
-  "cover": { "cover_image_url": "covers/generated/品格养成/品格养成.webp", "cover_level": "subject" },
+  "cover": { "cover_image_url": "covers/generated/品格养成/品格养成.jpg", "cover_level": "subject" },
   "categories": [
     {
       "id": "A1勇敢",
@@ -163,7 +163,7 @@ Authorization: Bearer {jwt_token}
       "structure_type": "standalone_collection",
       "display_as": "grid",
       "entry_count": 120,
-      "cover": { "cover_image_url": "covers/generated/品格养成/A1勇敢/A1勇敢.webp", "cover_level": "category" }
+      "cover": { "cover_image_url": "covers/generated/品格养成/A1勇敢/A1勇敢.jpg", "cover_level": "category" }
     }
   ]
 }
@@ -194,7 +194,7 @@ Authorization: Bearer {jwt_token}
   "category": "A1勇敢",
   "level": "L5",
   "total_duration": 900,
-  "cover_url": "illustrations/covers/generated/品格养成/A1勇敢/孔融让梨.webp",
+  "cover_url": "illustrations/covers/generated/品格养成/A1勇敢/孔融让梨.jpg",
   "segments": [
     {
       "segment_id": 1,
@@ -254,7 +254,7 @@ Authorization: Bearer {jwt_token}
 {
   "user_id": "u_001",
   "nickname": "宝宝家长",
-  "avatar_url": "/avatars/u_001.webp",
+  "avatar_url": "/avatars/u_001.jpg",
   "phone": "138****8888",
   "membership": { "status": "active", "plan_type": "yearly", "end_date": "2027-07-16" }
 }
@@ -266,7 +266,7 @@ Authorization: Bearer {jwt_token}
 
 **请求体**:
 ```json
-{ "nickname": "新昵称", "avatar_url": "/avatars/xxx.webp" }
+{ "nickname": "新昵称", "avatar_url": "/avatars/xxx.jpg" }
 ```
 
 **data**: `{ "success": true }`
@@ -369,7 +369,7 @@ Authorization: Bearer {jwt_token}
   "total": 12,
   "list": [
     { "favorite_id": "f_001", "content_type": "story", "content_id": "A001_孔融让梨",
-      "title": "孔融让梨", "cover_url": "/illustrations/covers/generated/A/A01诚实勇敢/A001.webp" }
+      "title": "孔融让梨", "cover_url": "/illustrations/covers/generated/A/A01诚实勇敢/A001.jpg" }
   ]
 }
 ```
@@ -388,16 +388,16 @@ Authorization: Bearer {jwt_token}
   "schema_version": "1.0",
   "content_version": "2026-07-16",
   "categories": [
-    { "id": "classic", "name": "经典儿歌", "cover_image_url": "/illustrations/song_covers/classic.webp", "song_count": 1280 }
+    { "id": "classic", "name": "经典儿歌", "cover_image_url": "/illustrations/song_covers/classic.jpg", "song_count": 1280 }
   ],
   "stats": { "total_categories": 4, "total_songs": 3100 },
   "featured_playlists": [
     { "playlist_id": "PL001_睡前摇篮曲", "title": "睡前摇篮曲", "scene": "🌙 睡前",
-      "song_count": 23, "total_duration": 2700, "cover_url": "/illustrations/song_covers/PL001.webp" }
+      "song_count": 23, "total_duration": 2700, "cover_url": "/illustrations/song_covers/PL001.jpg" }
   ],
   "hot_songs": [
     { "song_id": "S001_两只老虎", "title": "两只老虎", "category": "经典儿歌",
-      "duration": 72, "play_count": 23456, "cover_url": "/illustrations/song_covers/S001.webp" }
+      "duration": 72, "play_count": 23456, "cover_url": "/illustrations/song_covers/S001.jpg" }
   ]
 }
 ```
@@ -417,7 +417,7 @@ Authorization: Bearer {jwt_token}
   "title": "两只老虎",
   "language": "zh",
   "duration": 72,
-  "cover_url": "/illustrations/song_covers/S001.webp",
+  "cover_url": "/illustrations/song_covers/S001.jpg",
   "audio_url": "/generated_stories/原创儿歌/经典儿歌/儿歌/S001_两只老虎.mp3",
   "lrc_url": "/generated_stories/原创儿歌/经典儿歌/儿歌/S001_两只老虎.lrc",
   "lyrics": [
@@ -682,7 +682,7 @@ GET /api/v1/progress/识字?child_id=child_001&stage=3&page=1&page_size=20
 ```json
 {
   "children": [
-    { "child_id": "child_001", "child_name": "小明", "age": 5, "avatar_url": "/avatars/child_001.webp" }
+    { "child_id": "child_001", "child_name": "小明", "age": 5, "avatar_url": "/avatars/child_001.jpg" }
   ],
   "weekly_stats": { "stories_completed": 8, "tests_passed": 15, "new_words_learned": 23 },
   "recommendations": [
@@ -770,7 +770,7 @@ GET /api/v1/progress/识字?child_id=child_001&stage=3&page=1&page_size=20
   "page_size": 20,
   "results": [
     { "type": "story", "id": "A001_孔融让梨", "title": "孔融让梨", "subject": "A", "level": "L5",
-      "duration": 900, "cover_url": "/illustrations/covers/generated/A/A01诚实勇敢/A001.webp", "match_field": "title" },
+      "duration": 900, "cover_url": "/illustrations/covers/generated/A/A01诚实勇敢/A001.jpg", "match_field": "title" },
     { "type": "word", "id": "孔_001", "word": "孔", "pinyin": "kǒng", "current_stage": 0, "match_field": "word" }
   ],
   "hot_keywords": ["孔融让梨", "诚实", "孝顺", "勇敢"]

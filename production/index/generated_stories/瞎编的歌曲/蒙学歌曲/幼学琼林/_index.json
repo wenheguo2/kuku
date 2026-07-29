@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/蒙学歌曲/幼学琼林",
   "name": "幼学琼林",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/幼学琼林.jpg",
     "cover_level": "category"
   },
   "entry_count": 32,
@@ -16,224 +16,352 @@
       "title": "1. 星辰大海的寓言——天文卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/1. 星辰大海的寓言——天文卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/1. 星辰大海的寓言——天文卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/1. 星辰大海的寓言——天文卷/1. 星辰大海的寓言——天文卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "10. 竹林清风寄雁书——叔侄卷",
       "title": "10. 竹林清风寄雁书——叔侄卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/10. 竹林清风寄雁书——叔侄卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/10. 竹林清风寄雁书——叔侄卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/10. 竹林清风寄雁书——叔侄卷/10. 竹林清风寄雁书——叔侄卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "11. 天涯比邻共一樽——朋友卷",
       "title": "11. 天涯比邻共一樽——朋友卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/11. 天涯比邻共一樽——朋友卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/11. 天涯比邻共一樽——朋友卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/11. 天涯比邻共一樽——朋友卷/11. 天涯比邻共一樽——朋友卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "12. 红绳系月结同心——婚姻卷",
       "title": "12. 红绳系月结同心——婚姻卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/12. 红绳系月结同心——婚姻卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/12. 红绳系月结同心——婚姻卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/12. 红绳系月结同心——婚姻卷/12. 红绳系月结同心——婚姻卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "13. 九重宫阙与江湖——朝廷·文臣·武职合卷",
       "title": "13. 九重宫阙与江湖——朝廷·文臣·武职合卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/13. 九重宫阙与江湖——朝廷·文臣·武职合卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/13. 九重宫阙与江湖——朝廷·文臣·武职合卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/13. 九重宫阙与江湖——朝廷·文臣·武职合卷/13. 九重宫阙与江湖——朝廷·文臣·武职合卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "14. 人间烟火织锦书——人事卷",
       "title": "14. 人间烟火织锦书——人事卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/14. 人间烟火织锦书——人事卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/14. 人间烟火织锦书——人事卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/14. 人间烟火织锦书——人事卷/14. 人间烟火织锦书——人事卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "15. 铁马金戈戍月寒——军旅卷",
       "title": "15. 铁马金戈戍月寒——军旅卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/15. 铁马金戈戍月寒——军旅卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/15. 铁马金戈戍月寒——军旅卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/15. 铁马金戈戍月寒——军旅卷/15. 铁马金戈戍月寒——军旅卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "16. 匠心铸就万象新——制作卷",
       "title": "16. 匠心铸就万象新——制作卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/16. 匠心铸就万象新——制作卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/16. 匠心铸就万象新——制作卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/16. 匠心铸就万象新——制作卷/16. 匠心铸就万象新——制作卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "17. 物华天宝映乾坤——器用卷",
       "title": "17. 物华天宝映乾坤——器用卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/17. 物华天宝映乾坤——器用卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/17. 物华天宝映乾坤——器用卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/17. 物华天宝映乾坤——器用卷/17. 物华天宝映乾坤——器用卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "18. 雕梁画栋锁云烟——宫室卷",
       "title": "18. 雕梁画栋锁云烟——宫室卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/18. 雕梁画栋锁云烟——宫室卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/18. 雕梁画栋锁云烟——宫室卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/18. 雕梁画栋锁云烟——宫室卷/18. 雕梁画栋锁云烟——宫室卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "19. 妙手丹青夺天工——技艺卷",
       "title": "19. 妙手丹青夺天工——技艺卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/19. 妙手丹青夺天工——技艺卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/19. 妙手丹青夺天工——技艺卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/19. 妙手丹青夺天工——技艺卷/19. 妙手丹青夺天工——技艺卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "2. 山河故人书——地舆卷",
       "title": "2. 山河故人书——地舆卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/2. 山河故人书——地舆卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/2. 山河故人书——地舆卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/2. 山河故人书——地舆卷/2. 山河故人书——地舆卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "20. 墨香千载写春秋——文事卷",
       "title": "20. 墨香千载写春秋——文事卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/20. 墨香千载写春秋——文事卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/20. 墨香千载写春秋——文事卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/20. 墨香千载写春秋——文事卷/20. 墨香千载写春秋——文事卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "21. 珠光宝气耀星河——珍宝卷",
       "title": "21. 珠光宝气耀星河——珍宝卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/21. 珠光宝气耀星河——珍宝卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/21. 珠光宝气耀星河——珍宝卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/21. 珠光宝气耀星河——珍宝卷/21. 珠光宝气耀星河——珍宝卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "22. 杏林霜雪问药炉——疾病死丧卷",
       "title": "22. 杏林霜雪问药炉——疾病死丧卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/22. 杏林霜雪问药炉——疾病死丧卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/22. 杏林霜雪问药炉——疾病死丧卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/22. 杏林霜雪问药炉——疾病死丧卷/22. 杏林霜雪问药炉——疾病死丧卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "23. 蟾宫折桂步青云——科第卷",
       "title": "23. 蟾宫折桂步青云——科第卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/23. 蟾宫折桂步青云——科第卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/23. 蟾宫折桂步青云——科第卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/23. 蟾宫折桂步青云——科第卷/23. 蟾宫折桂步青云——科第卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "24. 轻舟万里渡江涛——船车卷",
       "title": "24. 轻舟万里渡江涛——船车卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/24. 轻舟万里渡江涛——船车卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/24. 轻舟万里渡江涛——船车卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/24. 轻舟万里渡江涛——船车卷/24. 轻舟万里渡江涛——船车卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "25. 草木含情寄岁时——草木卷",
       "title": "25. 草木含情寄岁时——草木卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/25. 草木含情寄岁时——草木卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/25. 草木含情寄岁时——草木卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/25. 草木含情寄岁时——草木卷/25. 草木含情寄岁时——草木卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "26. 霓裳羽衣舞流年——衣饰卷",
       "title": "26. 霓裳羽衣舞流年——衣饰卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/26. 霓裳羽衣舞流年——衣饰卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/26. 霓裳羽衣舞流年——衣饰卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/26. 霓裳羽衣舞流年——衣饰卷/26. 霓裳羽衣舞流年——衣饰卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "27. 明镜高悬照是非——讼狱卷",
       "title": "27. 明镜高悬照是非——讼狱卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/27. 明镜高悬照是非——讼狱卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/27. 明镜高悬照是非——讼狱卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/27. 明镜高悬照是非——讼狱卷/27. 明镜高悬照是非——讼狱卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "28. 朱门蓬户两重天——贫富卷",
       "title": "28. 朱门蓬户两重天——贫富卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/28. 朱门蓬户两重天——贫富卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/28. 朱门蓬户两重天——贫富卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/28. 朱门蓬户两重天——贫富卷/28. 朱门蓬户两重天——贫富卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "29. 形神相契悟天机——身体卷",
       "title": "29. 形神相契悟天机——身体卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/29. 形神相契悟天机——身体卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/29. 形神相契悟天机——身体卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/29. 形神相契悟天机——身体卷/29. 形神相契悟天机——身体卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "3. 四时歌与岁时记——岁时卷",
       "title": "3. 四时歌与岁时记——岁时卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/3. 四时歌与岁时记——岁时卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/3. 四时歌与岁时记——岁时卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/3. 四时歌与岁时记——岁时卷/3. 四时歌与岁时记——岁时卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "30. 梵音道影隐仙踪——释道鬼神卷",
       "title": "30. 梵音道影隐仙踪——释道鬼神卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/30. 梵音道影隐仙踪——释道鬼神卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/30. 梵音道影隐仙踪——释道鬼神卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/30. 梵音道影隐仙踪——释道鬼神卷/30. 梵音道影隐仙踪——释道鬼神卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "31. 五味调和藏乾坤——饮食卷",
       "title": "31. 五味调和藏乾坤——饮食卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/31. 五味调和藏乾坤——饮食卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/31. 五味调和藏乾坤——饮食卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/31. 五味调和藏乾坤——饮食卷/31. 五味调和藏乾坤——饮食卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "32. 百鸟朝凤鸣翠微——鸟兽卷",
       "title": "32. 百鸟朝凤鸣翠微——鸟兽卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/32. 百鸟朝凤鸣翠微——鸟兽卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/32. 百鸟朝凤鸣翠微——鸟兽卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/32. 百鸟朝凤鸣翠微——鸟兽卷/32. 百鸟朝凤鸣翠微——鸟兽卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "4. 紫宸殿上风云录——朝廷卷",
       "title": "4. 紫宸殿上风云录——朝廷卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/4. 紫宸殿上风云录——朝廷卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/4. 紫宸殿上风云录——朝廷卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/4. 紫宸殿上风云录——朝廷卷/4. 紫宸殿上风云录——朝廷卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "5. 青简丹心照汗青——文臣卷",
       "title": "5. 青简丹心照汗青——文臣卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/5. 青简丹心照汗青——文臣卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/5. 青简丹心照汗青——文臣卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/5. 青简丹心照汗青——文臣卷/5. 青简丹心照汗青——文臣卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "6. 铁甲寒光映月明——武职卷",
       "title": "6. 铁甲寒光映月明——武职卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/6. 铁甲寒光映月明——武职卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/6. 铁甲寒光映月明——武职卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/6. 铁甲寒光映月明——武职卷/6. 铁甲寒光映月明——武职卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "7. 椿庭萱堂春秋长——父子卷",
       "title": "7. 椿庭萱堂春秋长——父子卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/7. 椿庭萱堂春秋长——父子卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/7. 椿庭萱堂春秋长——父子卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/7. 椿庭萱堂春秋长——父子卷/7. 椿庭萱堂春秋长——父子卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "8. 棠棣花开连理枝——兄弟卷",
       "title": "8. 棠棣花开连理枝——兄弟卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/8. 棠棣花开连理枝——兄弟卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/8. 棠棣花开连理枝——兄弟卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/8. 棠棣花开连理枝——兄弟卷/8. 棠棣花开连理枝——兄弟卷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "9. 琴瑟和鸣凤凰栖——夫妇卷",
       "title": "9. 琴瑟和鸣凤凰栖——夫妇卷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/9. 琴瑟和鸣凤凰栖——夫妇卷"
+      "path": "瞎编的歌曲/蒙学歌曲/幼学琼林/9. 琴瑟和鸣凤凰栖——夫妇卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/幼学琼林/9. 琴瑟和鸣凤凰栖——夫妇卷/9. 琴瑟和鸣凤凰栖——夫妇卷_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

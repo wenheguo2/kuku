@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/安全教育/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/安全教育.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 46,
@@ -16,322 +16,506 @@
       "title": "不上陌生车",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/不上陌生车"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/不上陌生车",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/不上陌生车/不上陌生车_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不玩火",
       "title": "不玩火",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/不玩火"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/不玩火",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/不玩火/不玩火_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不良信息识别",
       "title": "不良信息识别",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/不良信息识别"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/不良信息识别",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/不良信息识别/不良信息识别_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不轻信网友",
       "title": "不轻信网友",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/不轻信网友"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/不轻信网友",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/不轻信网友/不轻信网友_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "个人信息保密",
       "title": "个人信息保密",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/个人信息保密"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/个人信息保密",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/个人信息保密/个人信息保密_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乘车安全",
       "title": "乘车安全",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/乘车安全"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/乘车安全",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/乘车安全/乘车安全_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "倒车请注意",
       "title": "倒车请注意",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/倒车请注意"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/倒车请注意",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/倒车请注意/倒车请注意_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "停车场危险",
       "title": "停车场危险",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/停车场危险"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/停车场危险",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/停车场危险/停车场危险_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "健康上网时间",
       "title": "健康上网时间",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/健康上网时间"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/健康上网时间",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/健康上网时间/健康上网时间_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "厨房危险",
       "title": "厨房危险",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/厨房危险"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/厨房危险",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/厨房危险/厨房危险_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "厨房安全",
       "title": "厨房安全",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/厨房安全"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/厨房安全",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/厨房安全/厨房安全_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "同伴溺水怎么办",
       "title": "同伴溺水怎么办",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/同伴溺水怎么办"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/同伴溺水怎么办",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/同伴溺水怎么办/同伴溺水怎么办_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "坏人伪装",
       "title": "坏人伪装",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/坏人伪装"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/坏人伪装",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/坏人伪装/坏人伪装_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大声呼救",
       "title": "大声呼救",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/大声呼救"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/大声呼救",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/大声呼救/大声呼救_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "头盔很重要",
       "title": "头盔很重要",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/头盔很重要"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/头盔很重要",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/头盔很重要/头盔很重要_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "安全密码",
       "title": "安全密码",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/安全密码"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/安全密码",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/安全密码/安全密码_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "密码要保密",
       "title": "密码要保密",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/密码要保密"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/密码要保密",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/密码要保密/密码要保密_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "尖锐物品小心",
       "title": "尖锐物品小心",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/尖锐物品小心"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/尖锐物品小心",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/尖锐物品小心/尖锐物品小心_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "抽筋怎么办",
       "title": "抽筋怎么办",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/抽筋怎么办"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/抽筋怎么办",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/抽筋怎么办/抽筋怎么办_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拨打119",
       "title": "拨打119",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/拨打119"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/拨打119",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/拨打119/拨打119_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "救生圈使用",
       "title": "救生圈使用",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/救生圈使用"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/救生圈使用",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/救生圈使用/救生圈使用_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "斑马线安全",
       "title": "斑马线安全",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/斑马线安全"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/斑马线安全",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/斑马线安全/斑马线安全_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "校车安全",
       "title": "校车安全",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/校车安全"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/校车安全",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/校车安全/校车安全_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "河边不玩耍",
       "title": "河边不玩耍",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/河边不玩耍"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/河边不玩耍",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/河边不玩耍/河边不玩耍_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "消防栓认识",
       "title": "消防栓认识",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/消防栓认识"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/消防栓认识",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/消防栓认识/消防栓认识_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "游戏充值陷阱",
       "title": "游戏充值陷阱",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/游戏充值陷阱"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/游戏充值陷阱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/游戏充值陷阱/游戏充值陷阱_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "游泳安全歌",
       "title": "游泳安全歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/游泳安全歌"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/游泳安全歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/游泳安全歌/游泳安全歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "游泳池规则",
       "title": "游泳池规则",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/游泳池规则"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/游泳池规则",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/游泳池规则/游泳池规则_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "湿毛巾捂口鼻",
       "title": "湿毛巾捂口鼻",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/湿毛巾捂口鼻"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/湿毛巾捂口鼻",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/湿毛巾捂口鼻/湿毛巾捂口鼻_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "火灾逃生歌",
       "title": "火灾逃生歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/火灾逃生歌"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/火灾逃生歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/火灾逃生歌/火灾逃生歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "烟花爆竹危险",
       "title": "烟花爆竹危险",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/烟花爆竹危险"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/烟花爆竹危险",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/烟花爆竹危险/烟花爆竹危险_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "热水烫伤预防",
       "title": "热水烫伤预防",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/热水烫伤预防"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/热水烫伤预防",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/热水烫伤预防/热水烫伤预防_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "煤气泄漏怎么办",
       "title": "煤气泄漏怎么办",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/煤气泄漏怎么办"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/煤气泄漏怎么办",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/煤气泄漏怎么办/煤气泄漏怎么办_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "用电安全歌",
       "title": "用电安全歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/用电安全歌"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/用电安全歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/用电安全歌/用电安全歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "电器起火怎么办",
       "title": "电器起火怎么办",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/电器起火怎么办"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/电器起火怎么办",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/电器起火怎么办/电器起火怎么办_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "窗户阳台安全",
       "title": "窗户阳台安全",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/窗户阳台安全"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/窗户阳台安全",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/窗户阳台安全/窗户阳台安全_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红绿灯歌",
       "title": "红绿灯歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/红绿灯歌"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/红绿灯歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/红绿灯歌/红绿灯歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "网络欺凌应对",
       "title": "网络欺凌应对",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/网络欺凌应对"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/网络欺凌应对",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/网络欺凌应对/网络欺凌应对_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "网络隐私保护",
       "title": "网络隐私保护",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/网络隐私保护"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/网络隐私保护",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/网络隐私保护/网络隐私保护_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "药品不乱吃",
       "title": "药品不乱吃",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/药品不乱吃"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/药品不乱吃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/药品不乱吃/药品不乱吃_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "落水自救",
       "title": "落水自救",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/落水自救"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/落水自救",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/落水自救/落水自救_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "记住父母电话",
       "title": "记住父母电话",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/记住父母电话"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/记住父母电话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/记住父母电话/记住父母电话_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "迷路了怎么办",
       "title": "迷路了怎么办",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/迷路了怎么办"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/迷路了怎么办",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/迷路了怎么办/迷路了怎么办_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "陌生人给糖不要吃",
       "title": "陌生人给糖不要吃",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/陌生人给糖不要吃"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/陌生人给糖不要吃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/陌生人给糖不要吃/陌生人给糖不要吃_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "骑自行车",
       "title": "骑自行车",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/骑自行车"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/骑自行车",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/骑自行车/骑自行车_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "高处不攀爬",
       "title": "高处不攀爬",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/安全教育/中文歌曲/高处不攀爬"
+      "path": "瞎编的歌曲/安全教育/中文歌曲/高处不攀爬",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/安全教育/中文歌曲/高处不攀爬/高处不攀爬_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

@@ -6,7 +6,7 @@
  *   续播由 App 级 playbackQueue 全局驱动，页面只做展示订阅。mock 模式用模拟时钟演示高亮。
  */
 import { useEffect, useRef, useState } from 'react';
-import { View, Text, Slider, ScrollView } from '@tarojs/components';
+import { View, Text, Slider, ScrollView, Image } from '@tarojs/components';
 import Taro, { useRouter } from '@tarojs/taro';
 import { player } from '@/services/audioPlayer';
 import { playSong, skip } from '@/services/playbackQueue';
@@ -38,6 +38,7 @@ export default function SongPlayer() {
   // 展示订阅：标题/播放模式随全局状态刷新（续播由全局驱动切歌时页面同步）
   const currentTitle = usePlayerStore((s) => (s.current?.type === 'song' ? s.current.title : ''));
   const currentId = usePlayerStore((s) => (s.current?.type === 'song' ? s.current.id : ''));
+  const currentCover = usePlayerStore((s) => (s.current?.type === 'song' ? s.current.coverUrl : '')); // 队列项真封面
   const playMode = usePlayerStore((s) => s.playMode);
   const playbackRate = usePlayerStore((s) => s.playbackRate); // 固定五挡 0.8~1.2，点击循环切换
   const title = currentTitle || initTitle;
@@ -114,9 +115,14 @@ export default function SongPlayer() {
 
   return (
     <View className={`page-v4 ${night}`} style={{ textAlign: 'center' }}>
-      <View className="scov"><View className="cover" style={{ background: 'linear-gradient(135deg,#5AD6CD,#3FC5BC)' }} /></View>
+      {/* 真封面（队列项 coverUrl，切歌跟随）；无封面回退青绿渐变 */}
+      <View className="scov">
+        {currentCover
+          ? <Image className="cover" src={buildAssetUrl(currentCover)} mode="aspectFill" ariaLabel={`${title}封面`} />
+          : <View className="cover" style={{ background: 'linear-gradient(135deg,#5AD6CD,#3FC5BC)' }} />}
+      </View>
       <Text className="serif" style={{ fontSize: '38px', fontWeight: 800, marginTop: '28px', display: 'block', color: 'var(--color-text)' }}>{title}</Text>
-      <Text style={{ fontSize: '22px', color: 'var(--color-text-secondary)', marginTop: '8px', display: 'block' }}>经典儿歌</Text>
+      <Text style={{ fontSize: '22px', color: 'var(--color-text-secondary)', marginTop: '8px', display: 'block' }}>酷酷音乐厅</Text>
       <View className="lyr">
         {doc.mode === 'none' && <Text>暂无歌词</Text>}
         {doc.mode === 'lrc' && doc.lines.map((l, i) => (i === active

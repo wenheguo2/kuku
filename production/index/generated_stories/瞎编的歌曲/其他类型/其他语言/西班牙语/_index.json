@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/其他类型/其他语言/西班牙语",
   "name": "西班牙语",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他类型.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/西班牙语.jpg",
     "cover_level": "category"
   },
   "entry_count": 60,
@@ -16,420 +16,660 @@
       "title": "Aceituna_橄榄",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Aceituna_橄榄"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Aceituna_橄榄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Aceituna_橄榄/Aceituna_橄榄_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Alegría",
       "title": "Alegría",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Alegría"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Alegría",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Alegría/Alegría_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Alma Andaluza_Alma Andaluza",
       "title": "Alma Andaluza_Alma Andaluza",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Alma Andaluza_Alma Andaluza"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Alma Andaluza_Alma Andaluza",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Alma Andaluza_Alma Andaluza/Alma Andaluza_Alma Andaluza_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Alma Libre_自由的灵魂",
       "title": "Alma Libre_自由的灵魂",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Alma Libre_自由的灵魂"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Alma Libre_自由的灵魂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Alma Libre_自由的灵魂/Alma Libre_自由的灵魂_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Amanecer_日出",
       "title": "Amanecer_日出",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Amanecer_日出"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Amanecer_日出",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Amanecer_日出/Amanecer_日出_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Amor Prohibido_禁忌之恋",
       "title": "Amor Prohibido_禁忌之恋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Amor Prohibido_禁忌之恋"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Amor Prohibido_禁忌之恋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Amor Prohibido_禁忌之恋/Amor Prohibido_禁忌之恋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Atardecer_日落",
       "title": "Atardecer_日落",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Atardecer_日落"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Atardecer_日落",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Atardecer_日落/Atardecer_日落_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Bailar Bajo el Sol_阳光之舞",
       "title": "Bailar Bajo el Sol_阳光之舞",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Bailar Bajo el Sol_阳光之舞"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Bailar Bajo el Sol_阳光之舞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Bailar Bajo el Sol_阳光之舞/Bailar Bajo el Sol_阳光之舞_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Bailar",
       "title": "Bailar",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Bailar"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Bailar",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Bailar/Bailar_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Bolero_波莱罗",
       "title": "Bolero_波莱罗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Bolero_波莱罗"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Bolero_波莱罗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Bolero_波莱罗/Bolero_波莱罗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Bésame Otra Vez_再吻我一次",
       "title": "Bésame Otra Vez_再吻我一次",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Bésame Otra Vez_再吻我一次"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Bésame Otra Vez_再吻我一次",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Bésame Otra Vez_再吻我一次/Bésame Otra Vez_再吻我一次_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Café_咖啡",
       "title": "Café_咖啡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Café_咖啡"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Café_咖啡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Café_咖啡/Café_咖啡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Camino al Sol_向阳之路",
       "title": "Camino al Sol_向阳之路",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Camino al Sol_向阳之路"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Camino al Sol_向阳之路",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Camino al Sol_向阳之路/Camino al Sol_向阳之路_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Carnaval_狂欢节",
       "title": "Carnaval_狂欢节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Carnaval_狂欢节"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Carnaval_狂欢节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Carnaval_狂欢节/Carnaval_狂欢节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Chocolate_巧克力",
       "title": "Chocolate_巧克力",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Chocolate_巧克力"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Chocolate_巧克力",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Chocolate_巧克力/Chocolate_巧克力_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Cielo Abierto_开阔的天空",
       "title": "Cielo Abierto_开阔的天空",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Cielo Abierto_开阔的天空"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Cielo Abierto_开阔的天空",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Cielo Abierto_开阔的天空/Cielo Abierto_开阔的天空_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Cigarro_雪茄",
       "title": "Cigarro_雪茄",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Cigarro_雪茄"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Cigarro_雪茄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Cigarro_雪茄/Cigarro_雪茄_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ciudad Cibernética_Ciudad Cibernética",
       "title": "Ciudad Cibernética_Ciudad Cibernética",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Ciudad Cibernética_Ciudad Cibernética"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Ciudad Cibernética_Ciudad Cibernética",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Ciudad Cibernética_Ciudad Cibernética/Ciudad Cibernética_Ciudad Cibernética_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Corazón de Cristal_水晶之心",
       "title": "Corazón de Cristal_水晶之心",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Corazón de Cristal_水晶之心"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Corazón de Cristal_水晶之心",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Corazón de Cristal_水晶之心/Corazón de Cristal_水晶之心_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Corazón Salvaje_狂野之心",
       "title": "Corazón Salvaje_狂野之心",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Corazón Salvaje_狂野之心"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Corazón Salvaje_狂野之心",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Corazón Salvaje_狂野之心/Corazón Salvaje_狂野之心_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Danza de la Vida_生命之舞",
       "title": "Danza de la Vida_生命之舞",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Danza de la Vida_生命之舞"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Danza de la Vida_生命之舞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Danza de la Vida_生命之舞/Danza de la Vida_生命之舞_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Dulce Veneno_甜蜜的毒药",
       "title": "Dulce Veneno_甜蜜的毒药",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Dulce Veneno_甜蜜的毒药"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Dulce Veneno_甜蜜的毒药",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Dulce Veneno_甜蜜的毒药/Dulce Veneno_甜蜜的毒药_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Felicidad",
       "title": "Felicidad",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Felicidad"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Felicidad",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Felicidad/Felicidad_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Feliz",
       "title": "Feliz",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Feliz"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Feliz",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Feliz/Feliz_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fiesta Sin Fin_无尽的派对",
       "title": "Fiesta Sin Fin_无尽的派对",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Fiesta Sin Fin_无尽的派对"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Fiesta Sin Fin_无尽的派对",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Fiesta Sin Fin_无尽的派对/Fiesta Sin Fin_无尽的派对_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fiesta",
       "title": "Fiesta",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Fiesta"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Fiesta",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Fiesta/Fiesta_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Flamenco Antiguo_Flamenco Antiguo",
       "title": "Flamenco Antiguo_Flamenco Antiguo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Flamenco Antiguo_Flamenco Antiguo"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Flamenco Antiguo_Flamenco Antiguo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Flamenco Antiguo_Flamenco Antiguo/Flamenco Antiguo_Flamenco Antiguo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fuego en el Corazón_心中的火焰",
       "title": "Fuego en el Corazón_心中的火焰",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Fuego en el Corazón_心中的火焰"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Fuego en el Corazón_心中的火焰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Fuego en el Corazón_心中的火焰/Fuego en el Corazón_心中的火焰_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Furia Fury",
       "title": "Furia Fury",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Furia Fury"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Furia Fury",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Furia Fury/Furia Fury_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Jardín de Flores_花之园",
       "title": "Jardín de Flores_花之园",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Jardín de Flores_花之园"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Jardín de Flores_花之园",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Jardín de Flores_花之园/Jardín de Flores_花之园_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Jazmín Blanco_白茉莉",
       "title": "Jazmín Blanco_白茉莉",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Jazmín Blanco_白茉莉"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Jazmín Blanco_白茉莉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Jazmín Blanco_白茉莉/Jazmín Blanco_白茉莉_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Lavanda Púrpura_紫薰衣草",
       "title": "Lavanda Púrpura_紫薰衣草",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Lavanda Púrpura_紫薰衣草"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Lavanda Púrpura_紫薰衣草",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Lavanda Púrpura_紫薰衣草/Lavanda Púrpura_紫薰衣草_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Lirio Azul_蓝鸢尾",
       "title": "Lirio Azul_蓝鸢尾",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Lirio Azul_蓝鸢尾"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Lirio Azul_蓝鸢尾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Lirio Azul_蓝鸢尾/Lirio Azul_蓝鸢尾_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Lluvia de Besos_吻之雨",
       "title": "Lluvia de Besos_吻之雨",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Lluvia de Besos_吻之雨"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Lluvia de Besos_吻之雨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Lluvia de Besos_吻之雨/Lluvia de Besos_吻之雨_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Lluvia de Neón_Lluvia de Neón",
       "title": "Lluvia de Neón_Lluvia de Neón",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Lluvia de Neón_Lluvia de Neón"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Lluvia de Neón_Lluvia de Neón",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Lluvia de Neón_Lluvia de Neón/Lluvia de Neón_Lluvia de Neón_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Luna Llena_满月",
       "title": "Luna Llena_满月",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Luna Llena_满月"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Luna Llena_满月",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Luna Llena_满月/Luna Llena_满月_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Luz de Estrella_星光",
       "title": "Luz de Estrella_星光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Luz de Estrella_星光"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Luz de Estrella_星光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Luz de Estrella_星光/Luz de Estrella_星光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mar Caribe_加勒比海",
       "title": "Mar Caribe_加勒比海",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Mar Caribe_加勒比海"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Mar Caribe_加勒比海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Mar Caribe_加勒比海/Mar Caribe_加勒比海_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Margarita Amarilla_黄雏菊",
       "title": "Margarita Amarilla_黄雏菊",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Margarita Amarilla_黄雏菊"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Margarita Amarilla_黄雏菊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Margarita Amarilla_黄雏菊/Margarita Amarilla_黄雏菊_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mariposas Blancas_白蝴蝶",
       "title": "Mariposas Blancas_白蝴蝶",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Mariposas Blancas_白蝴蝶"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Mariposas Blancas_白蝴蝶",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Mariposas Blancas_白蝴蝶/Mariposas Blancas_白蝴蝶_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Montañas Andes_安第斯山",
       "title": "Montañas Andes_安第斯山",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Montañas Andes_安第斯山"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Montañas Andes_安第斯山",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Montañas Andes_安第斯山/Montañas Andes_安第斯山_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Noche de Estrellas_星空之夜",
       "title": "Noche de Estrellas_星空之夜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Noche de Estrellas_星空之夜"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Noche de Estrellas_星空之夜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Noche de Estrellas_星空之夜/Noche de Estrellas_星空之夜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Noche Tropical_热带之夜",
       "title": "Noche Tropical_热带之夜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Noche Tropical_热带之夜"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Noche Tropical_热带之夜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Noche Tropical_热带之夜/Noche Tropical_热带之夜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Olas del Mar_海浪",
       "title": "Olas del Mar_海浪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Olas del Mar_海浪"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Olas del Mar_海浪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Olas del Mar_海浪/Olas del Mar_海浪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Oración Prayer",
       "title": "Oración Prayer",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Oración Prayer"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Oración Prayer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Oración Prayer/Oración Prayer_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Pampas Argentinas_潘帕斯草原",
       "title": "Pampas Argentinas_潘帕斯草原",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Pampas Argentinas_潘帕斯草原"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Pampas Argentinas_潘帕斯草原",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Pampas Argentinas_潘帕斯草原/Pampas Argentinas_潘帕斯草原_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Risa",
       "title": "Risa",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Risa"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Risa",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Risa/Risa_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ritmo de la Noche_夜晚的节奏",
       "title": "Ritmo de la Noche_夜晚的节奏",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Ritmo de la Noche_夜晚的节奏"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Ritmo de la Noche_夜晚的节奏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Ritmo de la Noche_夜晚的节奏/Ritmo de la Noche_夜晚的节奏_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ron_朗姆酒",
       "title": "Ron_朗姆酒",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Ron_朗姆酒"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Ron_朗姆酒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Ron_朗姆酒/Ron_朗姆酒_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rosa Roja_红玫瑰",
       "title": "Rosa Roja_红玫瑰",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Rosa Roja_红玫瑰"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Rosa Roja_红玫瑰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Rosa Roja_红玫瑰/Rosa Roja_红玫瑰_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Río Amazonas_亚马逊河",
       "title": "Río Amazonas_亚马逊河",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Río Amazonas_亚马逊河"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Río Amazonas_亚马逊河",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Río Amazonas_亚马逊河/Río Amazonas_亚马逊河_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Sabor a Vida_生命之味",
       "title": "Sabor a Vida_生命之味",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Sabor a Vida_生命之味"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Sabor a Vida_生命之味",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Sabor a Vida_生命之味/Sabor a Vida_生命之味_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Samba_桑巴",
       "title": "Samba_桑巴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Samba_桑巴"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Samba_桑巴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Samba_桑巴/Samba_桑巴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Sol y Arena_阳光与沙滩",
       "title": "Sol y Arena_阳光与沙滩",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Sol y Arena_阳光与沙滩"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Sol y Arena_阳光与沙滩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Sol y Arena_阳光与沙滩/Sol y Arena_阳光与沙滩_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Sol",
       "title": "Sol",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Sol"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Sol",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Sol/Sol_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Tango_探戈",
       "title": "Tango_探戈",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Tango_探戈"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Tango_探戈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Tango_探戈/Tango_探戈_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Tormenta de Pasión_激情风暴",
       "title": "Tormenta de Pasión_激情风暴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Tormenta de Pasión_激情风暴"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Tormenta de Pasión_激情风暴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Tormenta de Pasión_激情风暴/Tormenta de Pasión_激情风暴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Tormenta Perfecta_完美风暴",
       "title": "Tormenta Perfecta_完美风暴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Tormenta Perfecta_完美风暴"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Tormenta Perfecta_完美风暴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Tormenta Perfecta_完美风暴/Tormenta Perfecta_完美风暴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Tormenta Storm",
       "title": "Tormenta Storm",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Tormenta Storm"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Tormenta Storm",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Tormenta Storm/Tormenta Storm_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ángelus Angelus",
       "title": "Ángelus Angelus",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Ángelus Angelus"
+      "path": "瞎编的歌曲/其他类型/其他语言/西班牙语/Ángelus Angelus",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/西班牙语/Ángelus Angelus/Ángelus Angelus_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

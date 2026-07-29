@@ -7,7 +7,7 @@ import { View, Text, Image, ScrollView } from '@tarojs/components';
 import Taro, { useDidShow } from '@tarojs/taro';
 import { indexLoader } from '@/services/indexLoader';
 import { api } from '@/services/api';
-import { buildCoverUrl } from '@/utils/path';
+import { buildCoverUrl, guessCoverFromPath } from '@/utils/path';
 import { GlobalIndex, HomeIndex, HomeHot, NON_STORY_SUBJECT_IDS } from '@/types/content';
 import { usePlayerStore } from '@/stores/playerStore';
 import { useUserStore } from '@/stores/userStore';
@@ -29,6 +29,8 @@ export default function StoryHome() {
   const [home, setHome] = useState<HomeIndex | null>(null);
   const [pickOffset, setPickOffset] = useState(0);
   const [last, setLast] = useState<HistItem | null>(null);
+  // 最近播放封面拉取失败（如章节级 path 无专属封面）时回退色块
+  const [lastCoverOk, setLastCoverOk] = useState(true);
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState(false);
   // 逐字段独立订阅（对象选择器会因新引用失去意义），仅相关字段变化才重渲染
@@ -69,14 +71,19 @@ export default function StoryHome() {
   const goSubject = (s: string) => Taro.navigateTo({ url: `/pages/story/subject/index?subject=${encodeURIComponent(s)}` });
   const goWork = (path: string, title: string) => Taro.navigateTo({ url: `/pages/story/work/index?path=${encodeURIComponent(path)}&title=${encodeURIComponent(title)}` });
   const goPlayer = (path: string, title: string) => Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(path)}&title=${encodeURIComponent(title)}` });
-  const openHot = (h: HomeHot) => (h.type === 'chaptered' ? goWork(h.path, h.title) : goPlayer(h.path, h.title));
+  // 单篇播放也预先入队带封面（故事灯 segments 无 cover_url，靠队列项 coverUrl 展示大幅封面）
+  const playSingle = (path: string, title: string, cover?: string) => {
+    usePlayerStore.getState().setQueue([{ type: 'story' as const, id: path, title, coverUrl: buildCoverUrl(cover) || undefined }], 0);
+    goPlayer(path, title);
+  };
+  const openHot = (h: HomeHot) => (h.type === 'chaptered' ? goWork(h.path, h.title) : playSingle(h.path, h.title, h.cover));
 
   const chaptered = (home?.chaptered_works ?? []).slice(0, 8);
   const picks = home?.standalone_picks ?? [];
   const win = picks.length ? Array.from({ length: Math.min(PICK_WINDOW, picks.length) }, (_, i) => picks[(pickOffset + i) % picks.length]) : [];
   const shuffle = () => setPickOffset((o) => (o + PICK_WINDOW) % Math.max(1, picks.length));
   const playPick = (path: string, title: string) => {
-    usePlayerStore.getState().setQueue(win.map((p) => ({ type: 'story' as const, id: p.path, title: p.title })), win.findIndex((p) => p.path === path));
+    usePlayerStore.getState().setQueue(win.map((p) => ({ type: 'story' as const, id: p.path, title: p.title, coverUrl: buildCoverUrl(p.cover) || undefined })), win.findIndex((p) => p.path === path));
     goPlayer(path, title);
   };
   const hero = (home?.hot ?? [])[0];
@@ -109,7 +116,7 @@ export default function StoryHome() {
       {hero && (
         <View>
           <View className="hero" onClick={() => openHot(hero)}>
-            {buildCoverUrl(hero.cover) ? <Image className="cover" src={buildCoverUrl(hero.cover)} mode="aspectFill" ariaLabel={`${hero.title}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#FFB067,#FF8C42)' }} />}
+            {buildCoverUrl(hero.cover) ? <Image className="cover" webp src={buildCoverUrl(hero.cover)} mode="aspectFill" ariaLabel={`${hero.title}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#FFB067,#FF8C42)' }} />}
             <View className="shade" />
             <View className="inner">
               <Text className="htag">🌟 今日推荐</Text>
@@ -122,12 +129,14 @@ export default function StoryHome() {
         </View>
       )}
 
-      {/* 最近播放（点击重新播放，非续播） */}
+      {/* 最近播放（点击重新播放，非续播）；历史接口无封面字段，按 path 推导（镜像目录规则），404 回退色块 */}
       {last && (
         <View>
           <View className="sec-h"><Text className="t">最近播放</Text><Text className="m">全部 ›</Text></View>
-          <View className="cont" style={{ margin: '0 4px' }} onClick={() => goPlayer(last.content_id, last.title || '最近播放')}>
-            <View className="cvr" />
+          <View className="cont" style={{ margin: '0 4px' }} onClick={() => playSingle(last.content_id, last.title || '最近播放', guessCoverFromPath(last.content_id))}>
+            {lastCoverOk && guessCoverFromPath(last.content_id)
+              ? <Image className="cvr" webp src={guessCoverFromPath(last.content_id)} mode="aspectFill" onError={() => setLastCoverOk(false)} ariaLabel={`${last.title || '最近播放'}封面`} />
+              : <View className="cvr" />}
             <View className="gr">
               <Text className="nm">{last.title || last.content_id}</Text>
               <Text className="ds">重新播放上次的故事</Text>
@@ -144,7 +153,7 @@ export default function StoryHome() {
           <ScrollView scrollX className="hscroll">
             {chaptered.map((w) => (
               <View key={w.path} className="scard" onClick={() => goWork(w.path, w.title)}>
-                {buildCoverUrl(w.cover) ? <Image className="cvr" src={buildCoverUrl(w.cover)} mode="aspectFill" ariaLabel={`${w.title}封面`} /> : <View className="cvr" />}
+                {buildCoverUrl(w.cover) ? <Image className="cvr" webp src={buildCoverUrl(w.cover)} mode="aspectFill" ariaLabel={`${w.title}封面`} /> : <View className="cvr" />}
                 <Text className="nm">{w.title}</Text>
                 <Text className="ds">章回 · {w.total_chapters} 章</Text>
               </View>
@@ -159,7 +168,7 @@ export default function StoryHome() {
           <View className="sec-h"><Text className="t">✨ 为你推荐</Text><Text className="m" onClick={shuffle}>换一换 ↻</Text></View>
           {win.map((p) => (
             <View key={p.path} className="list-row" style={{ margin: '0 4px 18px' }} onClick={() => playPick(p.path, p.title)}>
-              {buildCoverUrl(p.cover) ? <Image className="cvr" src={buildCoverUrl(p.cover)} mode="aspectFill" ariaLabel={`${p.title}封面`} /> : <View className="cvr" />}
+              {buildCoverUrl(p.cover) ? <Image className="cvr" webp src={buildCoverUrl(p.cover)} mode="aspectFill" ariaLabel={`${p.title}封面`} /> : <View className="cvr" />}
               <View className="gr">
                 <Text className="nm">{p.title}</Text>
                 <Text className="ds">{p.level ? <Text className="lvb">{p.level}</Text> : null}{p.subject}</Text>
@@ -175,7 +184,7 @@ export default function StoryHome() {
       <View className="tilegrid">
         {(global?.subjects ?? []).filter((s) => !NON_STORY_SUBJECT_IDS.includes(s.subject_id)).map((s) => (
           <View key={s.subject_id} className="tile" onClick={() => goSubject(s.subject_id)}>
-            {buildCoverUrl(s.cover?.cover_image_url) ? <Image className="cover" src={buildCoverUrl(s.cover?.cover_image_url)} mode="aspectFill" ariaLabel={`${s.subject_name}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#FFB067,#FF8C42)' }} />}
+            {buildCoverUrl(s.cover?.cover_image_url) ? <Image className="cover" webp src={buildCoverUrl(s.cover?.cover_image_url)} mode="aspectFill" ariaLabel={`${s.subject_name}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#FFB067,#FF8C42)' }} />}
             <View className="shade" />
             <View className="tt"><Text className="a">{s.subject_name}</Text><Text className="b">{s.total_entries} 个故事</Text></View>
           </View>

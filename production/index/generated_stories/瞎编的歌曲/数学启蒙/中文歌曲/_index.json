@@ -1,0 +1,869 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/数学启蒙/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 78,
+  "entries": [
+    {
+      "entry_id": "中文-乘法口诀",
+      "title": "中文-乘法口诀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-乘法口诀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-乘法口诀/中文-乘法口诀_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-减法学减法",
+      "title": "中文-减法学减法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-减法学减法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-减法学减法/中文-减法学减法_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-分数入门",
+      "title": "中文-分数入门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-分数入门",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-分数入门/中文-分数入门_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-加法学加法",
+      "title": "中文-加法学加法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-加法学加法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-加法学加法/中文-加法学加法_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-小数入门",
+      "title": "中文-小数入门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-小数入门",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-小数入门/中文-小数入门_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-形状世界",
+      "title": "中文-形状世界",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-形状世界",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-形状世界/中文-形状世界_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-排列组合入门",
+      "title": "中文-排列组合入门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-排列组合入门",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-排列组合入门/中文-排列组合入门_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数字1到10",
+      "title": "中文-数字1到10",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-数字1到10",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-数字1到10/中文-数字1到10_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数学与体育",
+      "title": "中文-数学与体育",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-数学与体育",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-数学与体育/中文-数学与体育_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数学与建筑",
+      "title": "中文-数学与建筑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-数学与建筑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-数学与建筑/中文-数学与建筑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数学与自然",
+      "title": "中文-数学与自然",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-数学与自然",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-数学与自然/中文-数学与自然_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数学与艺术",
+      "title": "中文-数学与艺术",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-数学与艺术",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-数学与艺术/中文-数学与艺术_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数学与音乐",
+      "title": "中文-数学与音乐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-数学与音乐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-数学与音乐/中文-数学与音乐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数学在生活中的应用",
+      "title": "中文-数学在生活中的应用",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-数学在生活中的应用",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-数学在生活中的应用/中文-数学在生活中的应用_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数学家的故事",
+      "title": "中文-数学家的故事",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-数学家的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-数学家的故事/中文-数学家的故事_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数学趣题",
+      "title": "中文-数学趣题",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-数学趣题",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-数学趣题/中文-数学趣题_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-数轴入门",
+      "title": "中文-数轴入门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-数轴入门",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-数轴入门/中文-数轴入门_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-概率入门",
+      "title": "中文-概率入门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-概率入门",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-概率入门/中文-概率入门_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-比较大小",
+      "title": "中文-比较大小",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-比较大小",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-比较大小/中文-比较大小_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-测量长短",
+      "title": "中文-测量长短",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-测量长短",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-测量长短/中文-测量长短_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-立体图形",
+      "title": "中文-立体图形",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-立体图形",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-立体图形/中文-立体图形_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识三角形分类",
+      "title": "中文-认识三角形分类",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识三角形分类",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识三角形分类/中文-认识三角形分类_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识不等式",
+      "title": "中文-认识不等式",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识不等式",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识不等式/中文-认识不等式_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识乘法分配律",
+      "title": "中文-认识乘法分配律",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识乘法分配律",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识乘法分配律/中文-认识乘法分配律_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识二进制",
+      "title": "中文-认识二进制",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识二进制",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识二进制/中文-认识二进制_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识估算",
+      "title": "中文-认识估算",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识估算",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识估算/中文-认识估算_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识体积",
+      "title": "中文-认识体积",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识体积",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识体积/中文-认识体积_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识几何证明",
+      "title": "中文-认识几何证明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识几何证明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识几何证明/中文-认识几何证明_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识函数",
+      "title": "中文-认识函数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识函数",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识函数/中文-认识函数_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识勾股定理",
+      "title": "中文-认识勾股定理",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识勾股定理",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识勾股定理/中文-认识勾股定理_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识单位换算",
+      "title": "中文-认识单位换算",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识单位换算",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识单位换算/中文-认识单位换算_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识周长",
+      "title": "中文-认识周长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识周长",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识周长/中文-认识周长_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识四舍五入",
+      "title": "中文-认识四舍五入",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识四舍五入",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识四舍五入/中文-认识四舍五入_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识四边形",
+      "title": "中文-认识四边形",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识四边形",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识四边形/中文-认识四边形_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识图形",
+      "title": "中文-认识图形",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识图形",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识图形/中文-认识图形_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识图表",
+      "title": "中文-认识图表",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识图表",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识图表/中文-认识图表_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识圆周率",
+      "title": "中文-认识圆周率",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识圆周率",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识圆周率/中文-认识圆周率_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识圆形圆形",
+      "title": "中文-认识圆形圆形",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识圆形圆形",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识圆形圆形/中文-认识圆形圆形_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识坐标",
+      "title": "中文-认识坐标",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识坐标",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识坐标/中文-认识坐标_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识坐标系",
+      "title": "中文-认识坐标系",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识坐标系",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识坐标系/中文-认识坐标系_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识坐标系平面",
+      "title": "中文-认识坐标系平面",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识坐标系平面",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识坐标系平面/中文-认识坐标系平面_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识多边形",
+      "title": "中文-认识多边形",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识多边形",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识多边形/中文-认识多边形_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识奇数偶数",
+      "title": "中文-认识奇数偶数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识奇数偶数",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识奇数偶数/中文-认识奇数偶数_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识容量",
+      "title": "中文-认识容量",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识容量",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识容量/中文-认识容量_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识对称",
+      "title": "中文-认识对称",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识对称",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识对称/中文-认识对称_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识对称轴",
+      "title": "中文-认识对称轴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识对称轴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识对称轴/中文-认识对称轴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识平年闰年",
+      "title": "中文-认识平年闰年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识平年闰年",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识平年闰年/中文-认识平年闰年_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识平移旋转",
+      "title": "中文-认识平移旋转",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识平移旋转",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识平移旋转/中文-认识平移旋转_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识度量衡",
+      "title": "中文-认识度量衡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识度量衡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识度量衡/中文-认识度量衡_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识数列",
+      "title": "中文-认识数列",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识数列",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识数列/中文-认识数列_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识数据分析",
+      "title": "中文-认识数据分析",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识数据分析",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识数据分析/中文-认识数据分析_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识数据收集",
+      "title": "中文-认识数据收集",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识数据收集",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识数据收集/中文-认识数据收集_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识方程",
+      "title": "中文-认识方程",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识方程",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识方程/中文-认识方程_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识日期计算",
+      "title": "中文-认识日期计算",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识日期计算",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识日期计算/中文-认识日期计算_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识时间换算",
+      "title": "中文-认识时间换算",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识时间换算",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识时间换算/中文-认识时间换算_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识最大公约数",
+      "title": "中文-认识最大公约数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识最大公约数",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识最大公约数/中文-认识最大公约数_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识最小公倍数",
+      "title": "中文-认识最小公倍数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识最小公倍数",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识最小公倍数/中文-认识最小公倍数_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识比例",
+      "title": "中文-认识比例",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识比例",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识比例/中文-认识比例_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识温度",
+      "title": "中文-认识温度",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识温度",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识温度/中文-认识温度_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识百分比",
+      "title": "中文-认识百分比",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识百分比",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识百分比/中文-认识百分比_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识直径半径",
+      "title": "中文-认识直径半径",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识直径半径",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识直径半径/中文-认识直径半径_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识统计",
+      "title": "中文-认识统计",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识统计",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识统计/中文-认识统计_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识罗马数字",
+      "title": "中文-认识罗马数字",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识罗马数字",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识罗马数字/中文-认识罗马数字_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识规律",
+      "title": "中文-认识规律",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识规律",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识规律/中文-认识规律_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识角度",
+      "title": "中文-认识角度",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识角度",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识角度/中文-认识角度_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识负数",
+      "title": "中文-认识负数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识负数",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识负数/中文-认识负数_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识货币",
+      "title": "中文-认识货币",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识货币"
+    },
+    {
+      "entry_id": "中文-认识货币换算",
+      "title": "中文-认识货币换算",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识货币换算",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识货币换算/中文-认识货币换算_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识质数",
+      "title": "中文-认识质数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识质数",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识质数/中文-认识质数_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识运算顺序",
+      "title": "中文-认识运算顺序",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识运算顺序",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识运算顺序/中文-认识运算顺序_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识进位",
+      "title": "中文-认识进位",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识进位",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识进位/中文-认识进位_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识退位",
+      "title": "中文-认识退位",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识退位",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识退位/中文-认识退位_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识速度",
+      "title": "中文-认识速度",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识速度",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识速度/中文-认识速度_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识重量",
+      "title": "中文-认识重量",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识重量",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识重量/中文-认识重量_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识钟表",
+      "title": "中文-认识钟表",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识钟表",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识钟表/中文-认识钟表_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-认识面积",
+      "title": "中文-认识面积",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-认识面积",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-认识面积/中文-认识面积_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-逻辑推理",
+      "title": "中文-逻辑推理",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-逻辑推理",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-逻辑推理/中文-逻辑推理_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-除法入门",
+      "title": "中文-除法入门",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/数学启蒙/中文歌曲/中文-除法入门",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/数学启蒙/中文歌曲/中文-除法入门/中文-除法入门_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

@@ -1,11 +1,13 @@
 /**
  * pages/growth/index — G-01 成长首页（v4 朋友收集册：进度条 + 四级图例 + 三学科统计）
  * 数据 GET /progress/summary（四级朋友统计）。徽章墙个体在收集册页展开。
+ * ★首屏直给字词：“和字交朋友”（识字前 12 课）+“和单词交朋友”（英语前 8 词）宫格，点字/词直达教学播放器；+三学科全部课程入口，不依赖搜索（对小朋友友好）。
  */
 import { useEffect, useState } from 'react';
 import { View, Text, ScrollView } from '@tarojs/components';
 import Taro, { useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
+import { loadLessonEntries, LessonEntry } from '@/services/lessonCatalog';
 import { useUserStore } from '@/stores/userStore';
 import MiniPlayer from '@/components/MiniPlayer';
 import TabBarV4 from '@/components/TabBarV4';
@@ -26,9 +28,21 @@ const SUBJECTS = [
 
 export default function GrowthHome() {
   const [sum, setSum] = useState<Summary | null>(null);
+  const [wordPreview, setWordPreview] = useState<LessonEntry[]>([]);
+  const [enPreview, setEnPreview] = useState<LessonEntry[]>([]);
   const selectedChildId = useUserStore((s) => s.selectedChildId);
   const isLogin = useUserStore((s) => s.isLogin);
   const night = useNight();
+
+  // 首屏字词宫格：识字前 12 课 + 英语前 8 词（单词长，两列卡更宽），无需登录即可看/听
+  useEffect(() => {
+    loadLessonEntries('识字')
+      .then((l) => setWordPreview(l.slice(0, 12)))
+      .catch((error) => console.warn('加载字词预览失败', error));
+    loadLessonEntries('英语')
+      .then((l) => setEnPreview(l.slice(0, 8)))
+      .catch((error) => console.warn('加载单词预览失败', error));
+  }, []);
 
   const load = () => {
     if (!isLogin || !selectedChildId) return;
@@ -78,15 +92,43 @@ export default function GrowthHome() {
         </View>
       </View>
 
-      {/* 三学科统计 */}
-      <View className="grow3" style={{ margin: '18px 0' }}>
+      {/* ★和字交朋友：直给字词宫格，点字直达教学播放器（不用搜索） */}
+      {wordPreview.length > 0 && (
+        <View style={{ margin: '18px 0 6px' }}>
+          <View className="sec-h"><Text className="t">🌱 和字交朋友</Text><Text className="m" onClick={() => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent('识字')}` })}>全部课程 ›</Text></View>
+          <View className="wgrid">
+            {wordPreview.map((w) => (
+              <View key={w.id} className="wcell" onClick={() => Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent('识字')}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=study1` })}>
+                {w.text}
+              </View>
+            ))}
+          </View>
+        </View>
+      )}
+
+      {/* ★和单词交朋友：英语单词宫格（单词长→两列宽卡小字），点词直达教学播放器 */}
+      {enPreview.length > 0 && (
+        <View style={{ margin: '18px 0 6px' }}>
+          <View className="sec-h"><Text className="t">🌈 和单词交朋友</Text><Text className="m" onClick={() => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent('英语')}` })}>全部课程 ›</Text></View>
+          <View className="wgrid en">
+            {enPreview.map((w) => (
+              <View key={w.id} className="wcell" onClick={() => Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent('英语')}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=study1` })}>
+                {w.text}
+              </View>
+            ))}
+          </View>
+        </View>
+      )}
+
+      {/* 三学科课程直达（点学科进完整词表） */}
+      <View className="grow3" style={{ margin: '14px 0' }}>
         {SUBJECTS.map((s) => {
           const p = sum?.subject_progress.find((x) => x.subject === s.name);
           const c = p?.learned ?? 0; // 累计口径：learned(>=1) 即该学科已遇见总数，不再相加
           return (
             <View key={s.name} className="gstat" onClick={() => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent(s.name)}` })}>
               <Text className="v" style={{ color: s.color }}>{c}</Text>
-              <Text className="k">{s.name}</Text>
+              <Text className="k">{s.name} ›</Text>
             </View>
           );
         })}

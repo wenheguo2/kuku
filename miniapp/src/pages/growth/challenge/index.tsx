@@ -79,7 +79,7 @@ export default function Challenge() {
     return (
       <View className={`center ${night}`}>
         <Text className="emoji-xl">😶‍🌫️</Text>
-        <Text style={{ fontSize: '34px', fontWeight: 800, display: 'block', margin: '8px 0' }}>加载失败了</Text>
+        <Text style={{ fontSize: '34px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>加载失败了</Text>
         <Text className="muted" style={{ marginBottom: '28px' }}>网络开小差了，稍后再试试吧</Text>
         <View className="btn-primary" style={{ width: '360px' }} onClick={loadQuiz}>重试</View>
       </View>
@@ -101,7 +101,7 @@ export default function Challenge() {
         <>
           <Text className="muted" style={{ display: 'block', textAlign: 'center', marginBottom: '12px' }}>第 {step + 1} / {total} 题</Text>
           <View className="card">
-            <Text style={{ fontWeight: 'bold', fontSize: '30px' }}>{TYPE_LABEL[cur.type] || '选一选'} {cur.stem ? `（${cur.stem}）` : ''}</Text>
+            <Text style={{ fontWeight: 'bold', fontSize: '30px', color: 'var(--color-text)' }}>{TYPE_LABEL[cur.type] || '选一选'} {cur.stem ? `（${cur.stem}）` : ''}</Text>
             <View className="sgrid" style={{ marginTop: '16px' }}>
               {cur.options.map((o) => (
                 <View key={o.option_id} className={`opt-card ${picks[cur.question_id] === o.option_id ? 'sel' : ''}`}
@@ -123,7 +123,7 @@ export default function Challenge() {
       {result && (
         <View className={`center ${night}`}>
           <Text className="emoji-xl">{result.test_passed ? '🎉' : '💪'}</Text>
-          <Text style={{ fontSize: '40px', fontWeight: 800, display: 'block', margin: '8px 0' }}>{result.feedback}</Text>
+          <Text style={{ fontSize: '40px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>{result.feedback}</Text>
           <Text className="muted">当前：{result.stage_name}</Text>
           {result.results && result.results.length > 0 && (
             <View className="card" style={{ width: '100%', marginTop: '20px' }}>

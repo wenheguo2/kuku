@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/交通工具/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/交通工具.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 114,
@@ -16,798 +16,1254 @@
       "title": "三轮车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/三轮车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/三轮车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/三轮车歌/三轮车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三轮车真神气",
       "title": "三轮车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/三轮车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/三轮车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/三轮车真神气/三轮车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不在停车场玩",
       "title": "不在停车场玩",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/不在停车场玩"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/不在停车场玩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/不在停车场玩/不在停车场玩_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "公交车歌",
       "title": "公交车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/公交车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/公交车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/公交车歌/公交车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "公交车真神气",
       "title": "公交车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/公交车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/公交车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/公交车真神气/公交车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "公交车里",
       "title": "公交车里",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/公交车里"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/公交车里",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/公交车里/公交车里_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "出租车歌",
       "title": "出租车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/出租车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/出租车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/出租车歌/出租车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "出租车真神气",
       "title": "出租车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/出租车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/出租车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/出租车真神气/出租车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "卡车歌",
       "title": "卡车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/卡车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/卡车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/卡车歌/卡车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "卡车真神气",
       "title": "卡车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/卡车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/卡车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/卡车真神气/卡车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吊车歌",
       "title": "吊车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/吊车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/吊车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/吊车歌/吊车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吊车真神气",
       "title": "吊车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/吊车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/吊车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/吊车真神气/吊车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "地铁歌",
       "title": "地铁歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/地铁歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/地铁歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/地铁歌/地铁歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "地铁真神气",
       "title": "地铁真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/地铁真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/地铁真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/地铁真神气/地铁真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "坐稳扶好",
       "title": "坐稳扶好",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/坐稳扶好"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/坐稳扶好",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/坐稳扶好/坐稳扶好_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "垃圾车歌",
       "title": "垃圾车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/垃圾车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/垃圾车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/垃圾车歌/垃圾车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "垃圾车真神气",
       "title": "垃圾车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/垃圾车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/垃圾车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/垃圾车真神气/垃圾车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大卡车",
       "title": "大卡车",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/大卡车"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/大卡车",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/大卡车/大卡车_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大轮船",
       "title": "大轮船",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/大轮船"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/大轮船",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/大轮船/大轮船_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孔明灯歌",
       "title": "孔明灯歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/孔明灯歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/孔明灯歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/孔明灯歌/孔明灯歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孔明灯真神气",
       "title": "孔明灯真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/孔明灯真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/孔明灯真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/孔明灯真神气/孔明灯真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "宇宙飞船歌",
       "title": "宇宙飞船歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/宇宙飞船歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/宇宙飞船歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/宇宙飞船歌/宇宙飞船歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "宇宙飞船真神气",
       "title": "宇宙飞船真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/宇宙飞船真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/宇宙飞船真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/宇宙飞船真神气/宇宙飞船真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "安全带",
       "title": "安全带",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/安全带"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/安全带",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/安全带/安全带_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "客轮歌",
       "title": "客轮歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/客轮歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/客轮歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/客轮歌/客轮歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "客轮真神气",
       "title": "客轮真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/客轮真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/客轮真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/客轮真神气/客轮真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小帆船",
       "title": "小帆船",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/小帆船"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/小帆船",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/小帆船/小帆船_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小汽车歌",
       "title": "小汽车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/小汽车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/小汽车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/小汽车歌/小汽车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小汽车真神气",
       "title": "小汽车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/小汽车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/小汽车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/小汽车真神气/小汽车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小飞机",
       "title": "小飞机",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/小飞机"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/小飞机",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/小飞机/小飞机_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "帆船歌",
       "title": "帆船歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/帆船歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/帆船歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/帆船歌/帆船歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "帆船真神气",
       "title": "帆船真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/帆船真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/帆船真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/帆船真神气/帆船真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拖拉机歌",
       "title": "拖拉机歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/拖拉机歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/拖拉机歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/拖拉机歌/拖拉机歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拖拉机真神气",
       "title": "拖拉机真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/拖拉机真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/拖拉机真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/拖拉机真神气/拖拉机真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "挖掘机歌",
       "title": "挖掘机歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/挖掘机歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/挖掘机歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/挖掘机歌/挖掘机歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "挖掘机真神气",
       "title": "挖掘机真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/挖掘机真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/挖掘机真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/挖掘机真神气/挖掘机真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "挖掘机真能干",
       "title": "挖掘机真能干",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/挖掘机真能干"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/挖掘机真能干",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/挖掘机真能干/挖掘机真能干_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "推土机歌",
       "title": "推土机歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/推土机歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/推土机歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/推土机歌/推土机歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "推土机真神气",
       "title": "推土机真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/推土机真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/推土机真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/推土机真神气/推土机真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "摩托车歌",
       "title": "摩托车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/摩托车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/摩托车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/摩托车歌/摩托车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "摩托车真神气",
       "title": "摩托车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/摩托车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/摩托车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/摩托车真神气/摩托车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "救护车嘀嘟",
       "title": "救护车嘀嘟",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/救护车嘀嘟"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/救护车嘀嘟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/救护车嘀嘟/救护车嘀嘟_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "救护车歌",
       "title": "救护车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/救护车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/救护车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/救护车歌/救护车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "救护车真神气",
       "title": "救护车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/救护车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/救护车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/救护车真神气/救护车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "斑马线",
       "title": "斑马线",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/斑马线"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/斑马线",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/斑马线/斑马线_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "无人机歌",
       "title": "无人机歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/无人机歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/无人机歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/无人机歌/无人机歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "无人机真神气",
       "title": "无人机真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/无人机真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/无人机真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/无人机真神气/无人机真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "校车歌",
       "title": "校车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/校车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/校车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/校车歌/校车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "校车真神气",
       "title": "校车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/校车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/校车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/校车真神气/校车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "气垫船歌",
       "title": "气垫船歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/气垫船歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/气垫船歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/气垫船歌/气垫船歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "气垫船真神气",
       "title": "气垫船真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/气垫船真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/气垫船真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/气垫船真神气/气垫船真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "消防车出动",
       "title": "消防车出动",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/消防车出动"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/消防车出动",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/消防车出动/消防车出动_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "消防车歌",
       "title": "消防车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/消防车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/消防车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/消防车歌/消防车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "消防车真神气",
       "title": "消防车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/消防车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/消防车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/消防车真神气/消防车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "渔船歌",
       "title": "渔船歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/渔船歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/渔船歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/渔船歌/渔船歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "渔船真神气",
       "title": "渔船真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/渔船真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/渔船真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/渔船真神气/渔船真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "游艇歌",
       "title": "游艇歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/游艇歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/游艇歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/游艇歌/游艇歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "游艇真神气",
       "title": "游艇真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/游艇真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/游艇真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/游艇真神气/游艇真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "滑板车歌",
       "title": "滑板车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/滑板车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/滑板车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/滑板车歌/滑板车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "滑板车真神气",
       "title": "滑板车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/滑板车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/滑板车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/滑板车真神气/滑板车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "滑翔机歌",
       "title": "滑翔机歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/滑翔机歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/滑翔机歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/滑翔机歌/滑翔机歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "滑翔机真神气",
       "title": "滑翔机真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/滑翔机真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/滑翔机真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/滑翔机真神气/滑翔机真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "潜水艇",
       "title": "潜水艇",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/潜水艇"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/潜水艇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/潜水艇/潜水艇_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "潜艇歌",
       "title": "潜艇歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/潜艇歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/潜艇歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/潜艇歌/潜艇歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "潜艇真神气",
       "title": "潜艇真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/潜艇真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/潜艇真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/潜艇真神气/潜艇真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "火箭上天",
       "title": "火箭上天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/火箭上天"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/火箭上天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/火箭上天/火箭上天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "火箭歌",
       "title": "火箭歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/火箭歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/火箭歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/火箭歌/火箭歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "火箭真神气",
       "title": "火箭真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/火箭真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/火箭真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/火箭真神气/火箭真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "火车呜呜",
       "title": "火车呜呜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/火车呜呜"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/火车呜呜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/火车呜呜/火车呜呜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "火车歌",
       "title": "火车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/火车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/火车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/火车歌/火车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "火车真神气",
       "title": "火车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/火车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/火车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/火车真神气/火车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "热气球歌",
       "title": "热气球歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/热气球歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/热气球歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/热气球歌/热气球歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "热气球真神气",
       "title": "热气球真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/热气球真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/热气球真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/热气球真神气/热气球真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "热气球飞",
       "title": "热气球飞",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/热气球飞"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/热气球飞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/热气球飞/热气球飞_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "独木舟歌",
       "title": "独木舟歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/独木舟歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/独木舟歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/独木舟歌/独木舟歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "独木舟真神气",
       "title": "独木舟真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/独木舟真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/独木舟真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/独木舟真神气/独木舟真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "独轮车歌",
       "title": "独轮车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/独轮车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/独轮车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/独轮车歌/独轮车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "独轮车真神气",
       "title": "独轮车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/独轮车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/独轮车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/独轮车真神气/独轮车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "电动车歌",
       "title": "电动车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/电动车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/电动车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/电动车歌/电动车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "电动车真神气",
       "title": "电动车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/电动车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/电动车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/电动车真神气/电动车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "皮划艇歌",
       "title": "皮划艇歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/皮划艇歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/皮划艇歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/皮划艇歌/皮划艇歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "皮划艇真神气",
       "title": "皮划艇真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/皮划艇真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/皮划艇真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/皮划艇真神气/皮划艇真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "直升机歌",
       "title": "直升机歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/直升机歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/直升机歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/直升机歌/直升机歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "直升机真神气",
       "title": "直升机真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/直升机真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/直升机真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/直升机真神气/直升机真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "直升机转转",
       "title": "直升机转转",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/直升机转转"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/直升机转转",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/直升机转转/直升机转转_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "竹排歌",
       "title": "竹排歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/竹排歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/竹排歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/竹排歌/竹排歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "竹排真神气",
       "title": "竹排真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/竹排真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/竹排真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/竹排真神气/竹排真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红绿灯",
       "title": "红绿灯",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/红绿灯"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/红绿灯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/红绿灯/红绿灯_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "自行车歌",
       "title": "自行车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/自行车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/自行车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/自行车歌/自行车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "自行车真神气",
       "title": "自行车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/自行车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/自行车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/自行车真神气/自行车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "航天飞机歌",
       "title": "航天飞机歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/航天飞机歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/航天飞机歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/航天飞机歌/航天飞机歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "航天飞机真神气",
       "title": "航天飞机真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/航天飞机真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/航天飞机真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/航天飞机真神气/航天飞机真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "警车巡逻",
       "title": "警车巡逻",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/警车巡逻"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/警车巡逻",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/警车巡逻/警车巡逻_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "警车歌",
       "title": "警车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/警车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/警车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/警车歌/警车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "警车真神气",
       "title": "警车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/警车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/警车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/警车真神气/警车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "货车歌",
       "title": "货车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/货车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/货车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/货车歌/货车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "货车真神气",
       "title": "货车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/货车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/货车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/货车真神气/货车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "轮船歌",
       "title": "轮船歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/轮船歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/轮船歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/轮船歌/轮船歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "轮船真神气",
       "title": "轮船真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/轮船真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/轮船真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/轮船真神气/轮船真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "雪橇歌",
       "title": "雪橇歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/雪橇歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/雪橇歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/雪橇歌/雪橇歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "雪橇真神气",
       "title": "雪橇真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/雪橇真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/雪橇真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/雪橇真神气/雪橇真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "风筝歌",
       "title": "风筝歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/风筝歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/风筝歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/风筝歌/风筝歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "风筝真神气",
       "title": "风筝真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/风筝真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/风筝真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/风筝真神气/风筝真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "飞机歌",
       "title": "飞机歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/飞机歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/飞机歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/飞机歌/飞机歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "飞机真神气",
       "title": "飞机真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/飞机真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/飞机真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/飞机真神气/飞机真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "飞艇歌",
       "title": "飞艇歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/飞艇歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/飞艇歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/飞艇歌/飞艇歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "飞艇真神气",
       "title": "飞艇真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/飞艇真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/飞艇真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/飞艇真神气/飞艇真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马车歌",
       "title": "马车歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/马车歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/马车歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/马车歌/马车歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马车真神气",
       "title": "马车真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/马车真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/马车真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/马车真神气/马车真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "骑车戴头盔",
       "title": "骑车戴头盔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/骑车戴头盔"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/骑车戴头盔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/骑车戴头盔/骑车戴头盔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "高铁歌",
       "title": "高铁歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/高铁歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/高铁歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/高铁歌/高铁歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "高铁真神气",
       "title": "高铁真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/高铁真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/高铁真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/高铁真神气/高铁真神气_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "龙舟歌",
       "title": "龙舟歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/龙舟歌"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/龙舟歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/龙舟歌/龙舟歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "龙舟真神气",
       "title": "龙舟真神气",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/交通工具/中文歌曲/龙舟真神气"
+      "path": "瞎编的歌曲/交通工具/中文歌曲/龙舟真神气",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/交通工具/中文歌曲/龙舟真神气/龙舟真神气_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

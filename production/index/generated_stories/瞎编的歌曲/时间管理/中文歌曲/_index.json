@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/时间管理/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/时间管理.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 36,
@@ -16,252 +16,396 @@
       "title": "24小时制",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/24小时制"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/24小时制",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/24小时制/24小时制_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一分钟多久",
       "title": "一分钟多久",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/一分钟多久"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/一分钟多久",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/一分钟多久/一分钟多久_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一刻钟",
       "title": "一刻钟",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/一刻钟"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/一刻钟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/一刻钟/一刻钟_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一小时能做什么",
       "title": "一小时能做什么",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/一小时能做什么"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/一小时能做什么",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/一小时能做什么/一小时能做什么_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "上学时间",
       "title": "上学时间",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/上学时间"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/上学时间",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/上学时间/上学时间_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "任务清单",
       "title": "任务清单",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/任务清单"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/任务清单",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/任务清单/任务清单_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "优先级排序",
       "title": "优先级排序",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/优先级排序"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/优先级排序",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/优先级排序/优先级排序_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "估计时间",
       "title": "估计时间",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/估计时间"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/估计时间",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/估计时间/估计时间_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "倒计时",
       "title": "倒计时",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/倒计时"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/倒计时",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/倒计时/倒计时_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "准时的重要性",
       "title": "准时的重要性",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/准时的重要性"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/准时的重要性",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/准时的重要性/准时的重要性_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "劳逸结合",
       "title": "劳逸结合",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/劳逸结合"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/劳逸结合",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/劳逸结合/劳逸结合_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "古代计时",
       "title": "古代计时",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/古代计时"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/古代计时",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/古代计时/古代计时_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "周末假期",
       "title": "周末假期",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/周末假期"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/周末假期",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/周末假期/周末假期_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "季节变化",
       "title": "季节变化",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/季节变化"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/季节变化",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/季节变化/季节变化_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "年月日星期",
       "title": "年月日星期",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/年月日星期"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/年月日星期",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/年月日星期/年月日星期_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "快和慢",
       "title": "快和慢",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/快和慢"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/快和慢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/快和慢/快和慢_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "提前准备",
       "title": "提前准备",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/提前准备"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/提前准备",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/提前准备/提前准备_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "效率提升",
       "title": "效率提升",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/效率提升"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/效率提升",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/效率提升/效率提升_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "数字时钟",
       "title": "数字时钟",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/数字时钟"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/数字时钟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/数字时钟/数字时钟_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "整点和半点",
       "title": "整点和半点",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/整点和半点"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/整点和半点",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/整点和半点/整点和半点_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "早晨中午晚上",
       "title": "早晨中午晚上",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/早晨中午晚上"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/早晨中午晚上",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/早晨中午晚上/早晨中午晚上_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "时针分针秒针",
       "title": "时针分针秒针",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/时针分针秒针"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/时针分针秒针",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/时针分针秒针/时针分针秒针_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "时间分配",
       "title": "时间分配",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/时间分配"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/时间分配",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/时间分配/时间分配_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "时间流逝",
       "title": "时间流逝",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/时间流逝"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/时间流逝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/时间流逝/时间流逝_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "时间珍惜",
       "title": "时间珍惜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/时间珍惜"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/时间珍惜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/时间珍惜/时间珍惜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春夏秋冬",
       "title": "春夏秋冬",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/春夏秋冬"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/春夏秋冬",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/春夏秋冬/春夏秋冬_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "昨天今天明天",
       "title": "昨天今天明天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/昨天今天明天"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/昨天今天明天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/昨天今天明天/昨天今天明天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "月份天数",
       "title": "月份天数",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/月份天数"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/月份天数",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/月份天数/月份天数_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "每日计划表",
       "title": "每日计划表",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/每日计划表"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/每日计划表",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/每日计划表/每日计划表_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "番茄工作法",
       "title": "番茄工作法",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/番茄工作法"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/番茄工作法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/番茄工作法/番茄工作法_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "过去现在未来",
       "title": "过去现在未来",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/过去现在未来"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/过去现在未来",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/过去现在未来/过去现在未来_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "迟到的后果",
       "title": "迟到的后果",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/迟到的后果"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/迟到的后果",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/迟到的后果/迟到的后果_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "重要日期",
       "title": "重要日期",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/重要日期"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/重要日期",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/重要日期/重要日期_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "长短对比",
       "title": "长短对比",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/长短对比"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/长短对比",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/长短对比/长短对比_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "闰年知识",
       "title": "闰年知识",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/闰年知识"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/闰年知识",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/闰年知识/闰年知识_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "闹钟提醒",
       "title": "闹钟提醒",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/时间管理/中文歌曲/闹钟提醒"
+      "path": "瞎编的歌曲/时间管理/中文歌曲/闹钟提醒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/时间管理/中文歌曲/闹钟提醒/闹钟提醒_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

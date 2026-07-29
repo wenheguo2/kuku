@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/名著导读.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 129,
@@ -16,679 +16,1067 @@
       "title": "中文-1984",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-1984"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-1984",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-1984/中文-1984_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-一千零一夜",
       "title": "中文-一千零一夜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-一千零一夜"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-一千零一夜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-一千零一夜/中文-一千零一夜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-三个火枪手",
       "title": "中文-三个火枪手",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-三个火枪手"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-三个火枪手",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-三个火枪手/中文-三个火枪手_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-丛林之书",
       "title": "中文-丛林之书",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-丛林之书"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-丛林之书",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-丛林之书/中文-丛林之书_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-了不起的狐狸爸爸",
       "title": "中文-了不起的狐狸爸爸",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-了不起的狐狸爸爸"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-了不起的狐狸爸爸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-了不起的狐狸爸爸/中文-了不起的狐狸爸爸_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-了不起的盖茨比",
       "title": "中文-了不起的盖茨比",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-了不起的盖茨比"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-了不起的盖茨比",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-了不起的盖茨比/中文-了不起的盖茨比_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-五卷书",
       "title": "中文-五卷书",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-五卷书"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-五卷书",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-五卷书/中文-五卷书_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-从地球到月球",
       "title": "中文-从地球到月球",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-从地球到月球"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-从地球到月球",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-从地球到月球/中文-从地球到月球_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-仲夏夜之梦",
       "title": "中文-仲夏夜之梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-仲夏夜之梦"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-仲夏夜之梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-仲夏夜之梦/中文-仲夏夜之梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-伊索寓言",
       "title": "中文-伊索寓言",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-伊索寓言"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-伊索寓言",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-伊索寓言/中文-伊索寓言_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-借东西的小人",
       "title": "中文-借东西的小人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-借东西的小人"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-借东西的小人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-借东西的小人/中文-借东西的小人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-傲慢与偏见",
       "title": "中文-傲慢与偏见",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-傲慢与偏见"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-傲慢与偏见",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-傲慢与偏见/中文-傲慢与偏见_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-先知",
       "title": "中文-先知",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-先知"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-先知",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-先知/中文-先知_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-克雷洛夫寓言",
       "title": "中文-克雷洛夫寓言",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-克雷洛夫寓言"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-克雷洛夫寓言",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-克雷洛夫寓言/中文-克雷洛夫寓言_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-兔子坡",
       "title": "中文-兔子坡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-兔子坡"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-兔子坡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-兔子坡/中文-兔子坡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-八十天环游地球",
       "title": "中文-八十天环游地球",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-八十天环游地球"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-八十天环游地球",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-八十天环游地球/中文-八十天环游地球_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-动物农场",
       "title": "中文-动物农场",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-动物农场"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-动物农场",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-动物农场/中文-动物农场_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-包法利夫人",
       "title": "中文-包法利夫人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-包法利夫人"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-包法利夫人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-包法利夫人/中文-包法利夫人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-十五少年漂流记",
       "title": "中文-十五少年漂流记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-十五少年漂流记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-十五少年漂流记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-十五少年漂流记/中文-十五少年漂流记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-双城记",
       "title": "中文-双城记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-双城记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-双城记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-双城记/中文-双城记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-变形记",
       "title": "中文-变形记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-变形记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-变形记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-变形记/中文-变形记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-古事记",
       "title": "中文-古事记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-古事记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-古事记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-古事记/中文-古事记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-吉檀迦利",
       "title": "中文-吉檀迦利",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-吉檀迦利"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-吉檀迦利",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-吉檀迦利/中文-吉檀迦利_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-名利场",
       "title": "中文-名利场",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-名利场"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-名利场",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-名利场/中文-名利场_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-呼啸山庄",
       "title": "中文-呼啸山庄",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-呼啸山庄"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-呼啸山庄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-呼啸山庄/中文-呼啸山庄_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-哈利·波特",
       "title": "中文-哈利·波特",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-哈利·波特"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-哈利·波特",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-哈利·波特/中文-哈利·波特_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-哈姆雷特",
       "title": "中文-哈姆雷特",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-哈姆雷特"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-哈姆雷特",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-哈姆雷特/中文-哈姆雷特_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-在人间",
       "title": "中文-在人间",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-在人间"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-在人间",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-在人间/中文-在人间_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-地心游记",
       "title": "中文-地心游记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-地心游记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-地心游记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-地心游记/中文-地心游记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-基地",
       "title": "中文-基地",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-基地"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-基地",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-基地/中文-基地_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-基督山伯爵",
       "title": "中文-基督山伯爵",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-基督山伯爵"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-基督山伯爵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-基督山伯爵/中文-基督山伯爵_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-堂吉诃德",
       "title": "中文-堂吉诃德",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-堂吉诃德"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-堂吉诃德",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-堂吉诃德/中文-堂吉诃德_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-复活",
       "title": "中文-复活",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-复活"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-复活",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-复活/中文-复活_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-夏洛的网",
       "title": "中文-夏洛的网",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-夏洛的网"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-夏洛的网",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-夏洛的网/中文-夏洛的网_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-大卫·科波菲尔",
       "title": "中文-大卫·科波菲尔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-大卫·科波菲尔"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-大卫·科波菲尔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-大卫·科波菲尔/中文-大卫·科波菲尔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-太阳系历险记",
       "title": "中文-太阳系历险记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-太阳系历险记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-太阳系历险记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-太阳系历险记/中文-太阳系历险记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-奥赛罗",
       "title": "中文-奥赛罗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-奥赛罗"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-奥赛罗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-奥赛罗/中文-奥赛罗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-好心眼儿巨人",
       "title": "中文-好心眼儿巨人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-好心眼儿巨人"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-好心眼儿巨人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-好心眼儿巨人/中文-好心眼儿巨人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-威尼斯商人",
       "title": "中文-威尼斯商人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-威尼斯商人"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-威尼斯商人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-威尼斯商人/中文-威尼斯商人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-安娜·卡列尼娜",
       "title": "中文-安娜·卡列尼娜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-安娜·卡列尼娜"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-安娜·卡列尼娜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-安娜·卡列尼娜/中文-安娜·卡列尼娜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-安徒生童话",
       "title": "中文-安徒生童话",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-安徒生童话"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-安徒生童话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-安徒生童话/中文-安徒生童话_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-小公主",
       "title": "中文-小公主",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-小公主"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-小公主",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-小公主/中文-小公主_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-小王子",
       "title": "中文-小王子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-小王子"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-小王子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-小王子/中文-小王子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-尼尔斯骑鹅旅行记",
       "title": "中文-尼尔斯骑鹅旅行记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-尼尔斯骑鹅旅行记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-尼尔斯骑鹅旅行记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-尼尔斯骑鹅旅行记/中文-尼尔斯骑鹅旅行记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-巴黎圣母院",
       "title": "中文-巴黎圣母院",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-巴黎圣母院"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-巴黎圣母院",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-巴黎圣母院/中文-巴黎圣母院_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-平家物语",
       "title": "中文-平家物语",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-平家物语"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-平家物语",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-平家物语/中文-平家物语_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-彼得·潘",
       "title": "中文-彼得·潘",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-彼得·潘"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-彼得·潘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-彼得·潘/中文-彼得·潘_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-彼得兔",
       "title": "中文-彼得兔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-彼得兔"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-彼得兔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-彼得兔/中文-彼得兔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-恶之花",
       "title": "中文-恶之花",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-恶之花"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-恶之花",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-恶之花/中文-恶之花_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-悲惨世界",
       "title": "中文-悲惨世界",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-悲惨世界"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-悲惨世界",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-悲惨世界/中文-悲惨世界_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-意大利童话",
       "title": "中文-意大利童话",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-意大利童话"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-意大利童话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-意大利童话/中文-意大利童话_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-我的大学",
       "title": "中文-我的大学",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-我的大学"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-我的大学",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-我的大学/中文-我的大学_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-战争与和平",
       "title": "中文-战争与和平",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-战争与和平"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-战争与和平",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-战争与和平/中文-战争与和平_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-手斧男孩",
       "title": "中文-手斧男孩",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-手斧男孩"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-手斧男孩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-手斧男孩/中文-手斧男孩_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-拉封丹寓言",
       "title": "中文-拉封丹寓言",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-拉封丹寓言"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-拉封丹寓言",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-拉封丹寓言/中文-拉封丹寓言_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-摩诃婆罗多",
       "title": "中文-摩诃婆罗多",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-摩诃婆罗多"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-摩诃婆罗多",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-摩诃婆罗多/中文-摩诃婆罗多_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-日本童话",
       "title": "中文-日本童话",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-日本童话"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-日本童话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-日本童话/中文-日本童话_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-日瓦戈医生",
       "title": "中文-日瓦戈医生",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-日瓦戈医生"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-日瓦戈医生",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-日瓦戈医生/中文-日瓦戈医生_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-时间机器",
       "title": "中文-时间机器",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-时间机器"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-时间机器",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-时间机器/中文-时间机器_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-星际战争",
       "title": "中文-星际战争",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-星际战争"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-星际战争",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-星际战争/中文-星际战争_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-春香传",
       "title": "中文-春香传",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-春香传"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-春香传",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-春香传/中文-春香传_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-月球上的第一批人",
       "title": "中文-月球上的第一批人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-月球上的第一批人"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-月球上的第一批人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-月球上的第一批人/中文-月球上的第一批人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-月球旅行记",
       "title": "中文-月球旅行记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-月球旅行记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-月球旅行记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-月球旅行记/中文-月球旅行记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-木偶奇遇记",
       "title": "中文-木偶奇遇记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-木偶奇遇记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-木偶奇遇记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-木偶奇遇记/中文-木偶奇遇记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-杀死一只知更鸟",
       "title": "中文-杀死一只知更鸟",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-杀死一只知更鸟"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-杀死一只知更鸟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-杀死一只知更鸟/中文-杀死一只知更鸟_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-李尔王",
       "title": "中文-李尔王",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-李尔王"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-李尔王",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-李尔王/中文-李尔王_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-枕草子",
       "title": "中文-枕草子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-枕草子"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-枕草子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-枕草子/中文-枕草子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-查理和巧克力工厂",
       "title": "中文-查理和巧克力工厂",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-查理和巧克力工厂"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-查理和巧克力工厂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-查理和巧克力工厂/中文-查理和巧克力工厂_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-柳林风声",
       "title": "中文-柳林风声",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-柳林风声"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-柳林风声",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-柳林风声/中文-柳林风声_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-格列佛游记",
       "title": "中文-格列佛游记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-格列佛游记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-格列佛游记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-格列佛游记/中文-格列佛游记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-格林童话",
       "title": "中文-格林童话",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-格林童话"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-格林童话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-格林童话/中文-格林童话_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-梨俱吠陀",
       "title": "中文-梨俱吠陀",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-梨俱吠陀"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-梨俱吠陀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-梨俱吠陀/中文-梨俱吠陀_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-母亲",
       "title": "中文-母亲",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-母亲"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-母亲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-母亲/中文-母亲_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-气球上的五星期",
       "title": "中文-气球上的五星期",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-气球上的五星期"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-气球上的五星期",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-气球上的五星期/中文-气球上的五星期_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-汤姆·索亚历险记",
       "title": "中文-汤姆·索亚历险记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-汤姆·索亚历险记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-汤姆·索亚历险记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-汤姆·索亚历险记/中文-汤姆·索亚历险记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-汤姆叔叔的小屋",
       "title": "中文-汤姆叔叔的小屋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-汤姆叔叔的小屋"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-汤姆叔叔的小屋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-汤姆叔叔的小屋/中文-汤姆叔叔的小屋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-沙丘",
       "title": "中文-沙丘",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-沙丘"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-沙丘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-沙丘/中文-沙丘_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-沙恭达罗",
       "title": "中文-沙恭达罗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-沙恭达罗"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-沙恭达罗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-沙恭达罗/中文-沙恭达罗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-波丽安娜",
       "title": "中文-波丽安娜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-波丽安娜"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-波丽安娜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-波丽安娜/中文-波丽安娜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-洋葱头历险记",
       "title": "中文-洋葱头历险记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-洋葱头历险记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-洋葱头历险记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-洋葱头历险记/中文-洋葱头历险记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-浮士德",
       "title": "中文-浮士德",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-浮士德"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-浮士德",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-浮士德/中文-浮士德_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-海底两万里",
       "title": "中文-海底两万里",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-海底两万里"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-海底两万里",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-海底两万里/中文-海底两万里_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-淘气包埃米尔",
       "title": "中文-淘气包埃米尔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-淘气包埃米尔"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-淘气包埃米尔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-淘气包埃米尔/中文-淘气包埃米尔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-源氏物语",
       "title": "中文-源氏物语",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-源氏物语"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-源氏物语",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-源氏物语/中文-源氏物语_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-爱丽丝梦游仙境",
       "title": "中文-爱丽丝梦游仙境",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-爱丽丝梦游仙境"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-爱丽丝梦游仙境",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-爱丽丝梦游仙境/中文-爱丽丝梦游仙境_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-爱的教育",
       "title": "中文-爱的教育",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-爱的教育"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-爱的教育",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-爱的教育/中文-爱的教育_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-王尔德童话",
       "title": "中文-王尔德童话",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-王尔德童话"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-王尔德童话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-王尔德童话/中文-王尔德童话_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-玛斯纳维",
       "title": "中文-玛斯纳维",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-玛斯纳维"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-玛斯纳维",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-玛斯纳维/中文-玛斯纳维_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-玛蒂尔达",
       "title": "中文-玛蒂尔达",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-玛蒂尔达"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-玛蒂尔达",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-玛蒂尔达/中文-玛蒂尔达_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-环游月球",
       "title": "中文-环游月球",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-环游月球"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-环游月球",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-环游月球/中文-环游月球_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-百年孤独",
       "title": "中文-百年孤独",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-百年孤独"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-百年孤独",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-百年孤独/中文-百年孤独_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-神曲",
       "title": "中文-神曲",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-神曲"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-神曲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-神曲/中文-神曲_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-神秘岛",
       "title": "中文-神秘岛",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-神秘岛"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-神秘岛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-神秘岛/中文-神秘岛_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-秘密花园",
       "title": "中文-秘密花园",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-秘密花园"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-秘密花园",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-秘密花园/中文-秘密花园_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-窗边的小豆豆",
       "title": "中文-窗边的小豆豆",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-窗边的小豆豆"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-窗边的小豆豆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-窗边的小豆豆/中文-窗边的小豆豆_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-童年",
       "title": "中文-童年",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-童年"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-童年",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-童年/中文-童年_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-简·爱",
       "title": "中文-简·爱",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-简·爱"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-简·爱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-简·爱/中文-简·爱_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-红与黑",
@@ -702,42 +1090,66 @@
       "title": "中文-红字",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-红字"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-红字",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-红字/中文-红字_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-绿野仙踪",
       "title": "中文-绿野仙踪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-绿野仙踪"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-绿野仙踪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-绿野仙踪/中文-绿野仙踪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-罗密欧与朱丽叶",
       "title": "中文-罗密欧与朱丽叶",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-罗密欧与朱丽叶"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-罗密欧与朱丽叶",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-罗密欧与朱丽叶/中文-罗密欧与朱丽叶_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-罗摩衍那",
       "title": "中文-罗摩衍那",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-罗摩衍那"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-罗摩衍那",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-罗摩衍那/中文-罗摩衍那_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-美丽新世界",
       "title": "中文-美丽新世界",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-美丽新世界"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-美丽新世界",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-美丽新世界/中文-美丽新世界_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-老人与海",
       "title": "中文-老人与海",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-老人与海"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-老人与海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-老人与海/中文-老人与海_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-苏菲的世界",
@@ -751,168 +1163,264 @@
       "title": "中文-苔丝",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-苔丝"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-苔丝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-苔丝/中文-苔丝_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-茶花女",
       "title": "中文-茶花女",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-茶花女"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-茶花女",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-茶花女/中文-茶花女_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-草原上的小木屋",
       "title": "中文-草原上的小木屋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-草原上的小木屋"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-草原上的小木屋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-草原上的小木屋/中文-草原上的小木屋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-草叶集",
       "title": "中文-草叶集",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-草叶集"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-草叶集",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-草叶集/中文-草叶集_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-荷马史诗",
       "title": "中文-荷马史诗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-荷马史诗"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-荷马史诗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-荷马史诗/中文-荷马史诗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-蓝色海豚岛",
       "title": "中文-蓝色海豚岛",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-蓝色海豚岛"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-蓝色海豚岛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-蓝色海豚岛/中文-蓝色海豚岛_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-薄伽梵歌",
       "title": "中文-薄伽梵歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-薄伽梵歌"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-薄伽梵歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-薄伽梵歌/中文-薄伽梵歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-蝇王",
       "title": "中文-蝇王",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-蝇王"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-蝇王",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-蝇王/中文-蝇王_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-豪夫童话",
       "title": "中文-豪夫童话",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-豪夫童话"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-豪夫童话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-豪夫童话/中文-豪夫童话_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-这里的黎明静悄悄",
       "title": "中文-这里的黎明静悄悄",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-这里的黎明静悄悄"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-这里的黎明静悄悄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-这里的黎明静悄悄/中文-这里的黎明静悄悄_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-追风筝的人",
       "title": "中文-追风筝的人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-追风筝的人"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-追风筝的人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-追风筝的人/中文-追风筝的人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-金银岛",
       "title": "中文-金银岛",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-金银岛"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-金银岛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-金银岛/中文-金银岛_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-钢铁是怎样炼成的",
       "title": "中文-钢铁是怎样炼成的",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-钢铁是怎样炼成的"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-钢铁是怎样炼成的",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-钢铁是怎样炼成的/中文-钢铁是怎样炼成的_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-长袜子皮皮",
       "title": "中文-长袜子皮皮",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-长袜子皮皮"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-长袜子皮皮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-长袜子皮皮/中文-长袜子皮皮_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-阿凡提的故事",
       "title": "中文-阿凡提的故事",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-阿凡提的故事"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-阿凡提的故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-阿凡提的故事/中文-阿凡提的故事_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-隐身人",
       "title": "中文-隐身人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-隐身人"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-隐身人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-隐身人/中文-隐身人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-雾都孤儿",
       "title": "中文-雾都孤儿",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-雾都孤儿"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-雾都孤儿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-雾都孤儿/中文-雾都孤儿_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-青年近卫军",
       "title": "中文-青年近卫军",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-青年近卫军"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-青年近卫军",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-青年近卫军/中文-青年近卫军_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-静静的顿河",
       "title": "中文-静静的顿河",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-静静的顿河"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-静静的顿河",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-静静的顿河/中文-静静的顿河_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-飘",
       "title": "中文-飘",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-飘"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-飘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-飘/中文-飘_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-鲁滨逊漂流记",
       "title": "中文-鲁滨逊漂流记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-鲁滨逊漂流记"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-鲁滨逊漂流记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-鲁滨逊漂流记/中文-鲁滨逊漂流记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-鹅妈妈",
       "title": "中文-鹅妈妈",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-鹅妈妈"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-鹅妈妈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-鹅妈妈/中文-鹅妈妈_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-麦克白",
       "title": "中文-麦克白",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-麦克白"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-麦克白",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-麦克白/中文-麦克白_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-麦田里的守望者",
       "title": "中文-麦田里的守望者",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-麦田里的守望者"
+      "path": "瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-麦田里的守望者",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/海外名著/中文歌曲/中文-麦田里的守望者/中文-麦田里的守望者_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

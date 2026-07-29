@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/民族歌曲/海外民族",
   "name": "海外民族",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/民族歌曲/民族歌曲.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/民族歌曲/海外民族/海外民族.jpg",
     "cover_level": "category"
   },
   "sub_category_count": 2,
@@ -18,7 +18,7 @@
       "display_as": "category_card",
       "entry_count": 60,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/民族歌曲/民族歌曲.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/民族歌曲/海外民族/中文歌曲/中文歌曲.jpg",
         "cover_level": "category"
       }
     },
@@ -29,7 +29,7 @@
       "display_as": "category_card",
       "entry_count": 60,
       "cover": {
-        "cover_image_url": "covers/generated/瞎编的歌曲/民族歌曲/民族歌曲.webp",
+        "cover_image_url": "covers/generated/瞎编的歌曲/民族歌曲/海外民族/英文歌曲/英文歌曲.jpg",
         "cover_level": "category"
       }
     }

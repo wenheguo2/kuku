@@ -4,7 +4,7 @@
   "subject_id": "学科启蒙",
   "subject_name": "学科启蒙",
   "cover": {
-    "cover_image_url": "covers/generated/学科启蒙/学科启蒙.webp",
+    "cover_image_url": "covers/generated/学科启蒙/学科启蒙.jpg",
     "cover_level": "subject"
   },
   "category_count": 3,
@@ -16,7 +16,7 @@
       "display_as": "category_card",
       "entry_count": 3499,
       "cover": {
-        "cover_image_url": "covers/generated/学科启蒙/F1识字/F1识字.webp",
+        "cover_image_url": "covers/generated/学科启蒙/F1识字/F1识字.jpg",
         "cover_level": "category"
       }
     },
@@ -27,7 +27,7 @@
       "display_as": "category_card",
       "entry_count": 3910,
       "cover": {
-        "cover_image_url": "covers/generated/学科启蒙/F2英语/F2英语.webp",
+        "cover_image_url": "covers/generated/学科启蒙/F2英语/F2英语.jpg",
         "cover_level": "category"
       }
     },
@@ -38,7 +38,7 @@
       "display_as": "category_card",
       "entry_count": 100,
       "cover": {
-        "cover_image_url": "covers/generated/学科启蒙/学科启蒙.webp",
+        "cover_image_url": "covers/generated/学科启蒙/学科启蒙.jpg",
         "cover_level": "category"
       }
     }

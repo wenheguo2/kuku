@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/蒙学歌曲/千字文",
   "name": "千字文",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/蒙学歌曲.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/千字文.jpg",
     "cover_level": "category"
   },
   "entry_count": 24,
@@ -16,168 +16,264 @@
       "title": "01 天地玄黄·宇宙洪荒之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/01 天地玄黄·宇宙洪荒之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/01 天地玄黄·宇宙洪荒之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/01 天地玄黄·宇宙洪荒之歌/01 天地玄黄·宇宙洪荒之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "02 金玉良缘·剑号巨阙之歌",
       "title": "02 金玉良缘·剑号巨阙之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/02 金玉良缘·剑号巨阙之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/02 金玉良缘·剑号巨阙之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/02 金玉良缘·剑号巨阙之歌/02 金玉良缘·剑号巨阙之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "03 圣王礼赞·推位让国之歌",
       "title": "03 圣王礼赞·推位让国之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/03 圣王礼赞·推位让国之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/03 圣王礼赞·推位让国之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/03 圣王礼赞·推位让国之歌/03 圣王礼赞·推位让国之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "04 修身立德·女慕贞洁之歌",
       "title": "04 修身立德·女慕贞洁之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/04 修身立德·女慕贞洁之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/04 修身立德·女慕贞洁之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/04 修身立德·女慕贞洁之歌/04 修身立德·女慕贞洁之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "05 诚信如山·墨悲丝染之歌",
       "title": "05 诚信如山·墨悲丝染之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/05 诚信如山·墨悲丝染之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/05 诚信如山·墨悲丝染之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/05 诚信如山·墨悲丝染之歌/05 诚信如山·墨悲丝染之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "06 寸阴是竞·资父事君之歌",
       "title": "06 寸阴是竞·资父事君之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/06 寸阴是竞·资父事君之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/06 寸阴是竞·资父事君之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/06 寸阴是竞·资父事君之歌/06 寸阴是竞·资父事君之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "07 如松之盛·川流不息之歌",
       "title": "07 如松之盛·川流不息之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/07 如松之盛·川流不息之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/07 如松之盛·川流不息之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/07 如松之盛·川流不息之歌/07 如松之盛·川流不息之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "08 学优登仕·外受傅训之歌",
       "title": "08 学优登仕·外受傅训之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/08 学优登仕·外受傅训之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/08 学优登仕·外受傅训之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/08 学优登仕·外受傅训之歌/08 学优登仕·外受傅训之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "09 手足情深·孔怀兄弟之歌",
       "title": "09 手足情深·孔怀兄弟之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/09 手足情深·孔怀兄弟之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/09 手足情深·孔怀兄弟之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/09 手足情深·孔怀兄弟之歌/09 手足情深·孔怀兄弟之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "10 都邑繁华·背邙面洛之歌",
       "title": "10 都邑繁华·背邙面洛之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/10 都邑繁华·背邙面洛之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/10 都邑繁华·背邙面洛之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/10 都邑繁华·背邙面洛之歌/10 都邑繁华·背邙面洛之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "11 楼观飞惊·丙舍旁启之歌",
       "title": "11 楼观飞惊·丙舍旁启之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/11 楼观飞惊·丙舍旁启之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/11 楼观飞惊·丙舍旁启之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/11 楼观飞惊·丙舍旁启之歌/11 楼观飞惊·丙舍旁启之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "12 左达承明·既集坟典之歌",
       "title": "12 左达承明·既集坟典之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/12 左达承明·既集坟典之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/12 左达承明·既集坟典之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/12 左达承明·既集坟典之歌/12 左达承明·既集坟典之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "13 策功茂绩·盘溪伊尹之歌",
       "title": "13 策功茂绩·盘溪伊尹之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/13 策功茂绩·盘溪伊尹之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/13 策功茂绩·盘溪伊尹之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/13 策功茂绩·盘溪伊尹之歌/13 策功茂绩·盘溪伊尹之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "14 晋楚更霸·假途灭虢之歌",
       "title": "14 晋楚更霸·假途灭虢之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/14 晋楚更霸·假途灭虢之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/14 晋楚更霸·假途灭虢之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/14 晋楚更霸·假途灭虢之歌/14 晋楚更霸·假途灭虢之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "15 九州禹迹·宣威沙漠之歌",
       "title": "15 九州禹迹·宣威沙漠之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/15 九州禹迹·宣威沙漠之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/15 九州禹迹·宣威沙漠之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/15 九州禹迹·宣威沙漠之歌/15 九州禹迹·宣威沙漠之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "16 治本于农·俶载南亩之歌",
       "title": "16 治本于农·俶载南亩之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/16 治本于农·俶载南亩之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/16 治本于农·俶载南亩之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/16 治本于农·俶载南亩之歌/16 治本于农·俶载南亩之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "17 聆音察理·孟轲敦素之歌",
       "title": "17 聆音察理·孟轲敦素之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/17 聆音察理·孟轲敦素之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/17 聆音察理·孟轲敦素之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/17 聆音察理·孟轲敦素之歌/17 聆音察理·孟轲敦素之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "18 索居闲处·求古寻论之歌",
       "title": "18 索居闲处·求古寻论之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/18 索居闲处·求古寻论之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/18 索居闲处·求古寻论之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/18 索居闲处·求古寻论之歌/18 索居闲处·求古寻论之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "19 耽读玩市·寓目囊箱之歌",
       "title": "19 耽读玩市·寓目囊箱之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/19 耽读玩市·寓目囊箱之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/19 耽读玩市·寓目囊箱之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/19 耽读玩市·寓目囊箱之歌/19 耽读玩市·寓目囊箱之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "20 适口充肠·亲戚故旧之歌",
       "title": "20 适口充肠·亲戚故旧之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/20 适口充肠·亲戚故旧之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/20 适口充肠·亲戚故旧之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/20 适口充肠·亲戚故旧之歌/20 适口充肠·亲戚故旧之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "21 弦歌酒宴·嫡后嗣续之歌",
       "title": "21 弦歌酒宴·嫡后嗣续之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/21 弦歌酒宴·嫡后嗣续之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/21 弦歌酒宴·嫡后嗣续之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/21 弦歌酒宴·嫡后嗣续之歌/21 弦歌酒宴·嫡后嗣续之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "22 布射僚丸·嵇琴阮箫之歌",
       "title": "22 布射僚丸·嵇琴阮箫之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/22 布射僚丸·嵇琴阮箫之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/22 布射僚丸·嵇琴阮箫之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/22 布射僚丸·嵇琴阮箫之歌/22 布射僚丸·嵇琴阮箫之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "23 毛施淑姿·年矢每催之歌",
       "title": "23 毛施淑姿·年矢每催之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/23 毛施淑姿·年矢每催之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/23 毛施淑姿·年矢每催之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/23 毛施淑姿·年矢每催之歌/23 毛施淑姿·年矢每催之歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "24 孤陋寡闻·谓语助者之歌",
       "title": "24 孤陋寡闻·谓语助者之歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/蒙学歌曲/千字文/24 孤陋寡闻·谓语助者之歌"
+      "path": "瞎编的歌曲/蒙学歌曲/千字文/24 孤陋寡闻·谓语助者之歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/蒙学歌曲/千字文/24 孤陋寡闻·谓语助者之歌/24 孤陋寡闻·谓语助者之歌_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

@@ -78,7 +78,7 @@ export default function Comprehensive() {
     return (
       <View className={`center ${night}`}>
         <Text className="emoji-xl">👑</Text>
-        <Text style={{ fontSize: '38px', fontWeight: 800, display: 'block', margin: '8px 0' }}>这里需要爸爸妈妈帮忙打开</Text>
+        <Text style={{ fontSize: '38px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>这里需要爸爸妈妈帮忙打开</Text>
         <Text className="muted" style={{ marginBottom: '28px' }}>和家长商量一下，开启后就能升级“好伙伴”啦</Text>
         <View className="btn-primary" style={{ width: '360px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/member/index' })}>请家长来看看</View>
       </View>
@@ -89,7 +89,7 @@ export default function Comprehensive() {
     return (
       <View className={`center ${night}`}>
         <Text className="emoji-xl">😶‍🌫️</Text>
-        <Text style={{ fontSize: '34px', fontWeight: 800, display: 'block', margin: '8px 0' }}>加载失败了</Text>
+        <Text style={{ fontSize: '34px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>加载失败了</Text>
         <Text className="muted" style={{ marginBottom: '28px' }}>网络开小差了，稍后再试试吧</Text>
         <View className="btn-primary" style={{ width: '360px' }} onClick={load}>重试</View>
       </View>
@@ -102,7 +102,7 @@ export default function Comprehensive() {
     return (
       <View className={`center ${night}`}>
         <Text className="emoji-xl">🌟</Text>
-        <Text style={{ fontSize: '36px', fontWeight: 800, display: 'block', margin: '8px 0' }}>还没攒够 10 个好朋友</Text>
+        <Text style={{ fontSize: '36px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>还没攒够 10 个好朋友</Text>
         <Text className="muted">当前 {auto.count}/10，继续加油和字词交朋友吧！</Text>
       </View>
     );
@@ -148,7 +148,7 @@ export default function Comprehensive() {
       {result && (
         <View className="center">
           <Text className="emoji-xl">{result.passed ? '🏆' : '🌱'}</Text>
-          <Text style={{ fontSize: '40px', fontWeight: 800, display: 'block', margin: '8px 0' }}>{result.passed ? '恭喜！升级好伙伴！' : '继续努力！'}</Text>
+          <Text style={{ fontSize: '40px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>{result.passed ? '恭喜！升级好伙伴！' : '继续努力！'}</Text>
           <Text style={{ fontSize: '56px', fontWeight: 800, color: '#7FC96A', display: 'block', margin: '10px 0' }}>{result.correct_count}<Text style={{ fontSize: '30px', color: 'var(--color-text-secondary)' }}>/{result.total}</Text></Text>
           <Text className="muted">答对的字就成为好伙伴啦，答错也不掉级，下次再来！</Text>
           <View className="card" style={{ width: '100%', marginTop: '20px' }}>

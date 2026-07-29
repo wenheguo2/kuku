@@ -1,26 +1,18 @@
 /**
  * pages/growth/lesson — G-02/03 课程列表 + 详情
- * 展示该学科字词列表（mock）；每个字有 学习1/2/3（POST /progress/study，驱动 0→1）+ 去挑战入口。
- * ★ 每课显示亲密度级别徽章（来自 GET /progress/:subject 合并），顶部按亲密度级别筛选，方便点击。
- * 真实词库到位后替换字词来源即可（见 开发文档/miniapp）。
+ * ★字词来源：真实课程索引（lessonCatalog，课名即词；识字 3499/英语 3910/拼音 100，分批渲染）；USE_MOCK 时内置小词表。
+ * 每个字有 学习1/2/3（POST /progress/study，驱动 0→1）+ 去挑战入口；播放键携课 path 直达教学播放器真实音频。
+ * ★ 每课显亲密度级别徽章（来自 GET /progress/:subject 合并），顶部按亲密度级别筛选，方便点击。
  */
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { View, Text, ScrollView } from '@tarojs/components';
 import Taro, { useRouter, useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
+import { loadLessonEntries, LessonEntry } from '@/services/lessonCatalog';
 import { useUserStore } from '@/stores/userStore';
 import { useNight } from '@/hooks/useNight';
 
-// mock 字词（真实来源：教学 segments/词库）
-const WORDS: Record<string, { id: string; text: string }[]> = {
-  识字: [
-    { id: '的_001', text: '的' },
-    { id: '是_001', text: '是' },
-    { id: '有_001', text: '有' },
-  ],
-  英语: [{ id: 'apple_001', text: 'apple' }, { id: 'cat_001', text: 'cat' }],
-  拼音: [{ id: 'a_001', text: 'ā' }, { id: 'o_001', text: 'ō' }],
-};
+const PAGE_SIZE = 30;
 
 // 亲密度级别（= current_stage 展示口径，颜色对齐设计令牌 --stage-0/1/2/3）
 const STAGES = [
@@ -41,7 +33,19 @@ export default function Lesson() {
   const membershipStatus = useUserStore((s) => s.membershipStatus);
   const [stages, setStages] = useState<Record<string, number>>({});
   const [filter, setFilter] = useState<number | 'all'>('all');
+  const [entries, setEntries] = useState<LessonEntry[]>([]);
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const [loadState, setLoadState] = useState<'loading' | 'ok' | 'error'>('loading');
   const night = useNight();
+
+  // 真实词表：课程索引解析（课名即词），失败可重试
+  const loadWords = () => {
+    setLoadState('loading');
+    loadLessonEntries(subject)
+      .then((list) => { setEntries(list); setLoadState('ok'); })
+      .catch((error) => { console.warn('加载课程词表失败', error); setLoadState('error'); });
+  };
+  useEffect(loadWords, [subject]);
 
   // 拉该学科已有进度，按 word_id 合并到本地词表；无进度的字视为“未遇见(0)”
   const loadStages = () => {
@@ -71,20 +75,19 @@ export default function Lesson() {
   const challenge = (wordId: string, wordText: string) =>
     Taro.navigateTo({ url: `/pages/growth/challenge/index?subject=${encodeURIComponent(subject)}&word_id=${encodeURIComponent(wordId)}&word_text=${encodeURIComponent(wordText)}` });
 
-  const play = (wordText: string) =>
-    Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent(subject)}&word=${encodeURIComponent(wordText)}` });
-  const openVipStudy = (wordText: string, studyType: 'study2' | 'study3') => {
+  const play = (w: LessonEntry, studyType: 'study1' | 'study2' | 'study3' = 'study1') =>
+    Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent(subject)}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=${studyType}` });
+  const openVipStudy = (w: LessonEntry, studyType: 'study2' | 'study3') => {
     if (membershipStatus !== 'active') {
       Taro.navigateTo({ url: '/pages/common/member/index' });
       return;
     }
-    Taro.navigateTo({
-      url: `/pages/growth/player/index?subject=${encodeURIComponent(subject)}&word=${encodeURIComponent(wordText)}&study_type=${studyType}`,
-    });
+    play(w, studyType);
   };
 
-  const allWords = (WORDS[subject] ?? []).map((w) => ({ ...w, stage: stages[w.id] ?? 0 }));
-  const shown = filter === 'all' ? allWords : allWords.filter((w) => w.stage === filter);
+  const allWords = entries.map((w) => ({ ...w, stage: stages[w.id] ?? 0 }));
+  const filtered = filter === 'all' ? allWords : allWords.filter((w) => w.stage === filter);
+  const shown = filtered.slice(0, visibleCount);
 
   return (
     <ScrollView scrollY className={`page-container ${night}`}>
@@ -102,7 +105,16 @@ export default function Lesson() {
         ))}
       </View>
 
-      {shown.length === 0 && (
+      {loadState === 'loading' && (
+        <Text className="muted" style={{ display: 'block', textAlign: 'center', margin: '24px 0' }}>课程加载中…</Text>
+      )}
+      {loadState === 'error' && (
+        <View className="center" style={{ padding: '24px 0' }}>
+          <Text className="muted" style={{ marginBottom: '16px' }}>😶‍🌫️ 课程加载失败了</Text>
+          <View className="btn-ghost" style={{ width: '240px' }} onClick={loadWords}>重试</View>
+        </View>
+      )}
+      {loadState === 'ok' && shown.length === 0 && (
         <Text className="muted" style={{ display: 'block', textAlign: 'center', margin: '24px 0' }}>这个级别还没有朋友，换一个筛选看看～</Text>
       )}
 
@@ -122,13 +134,13 @@ export default function Lesson() {
                   {w.stage >= 1 ? '✓ 学习1 已完成' : '学习1：认读（点击）'}
                 </Text>
               </View>
-              <View className="play-s" style={{ background: '#E5F6E0', color: '#7FC96A' }} onClick={() => play(w.text)}>▶</View>
+              <View className="play-s" style={{ background: '#E5F6E0', color: '#7FC96A' }} onClick={() => play(w)}>▶</View>
             </View>
             <View style={{ display: 'flex', gap: '12px', margin: '0 12px 12px' }}>
-              <View className="chip" onClick={() => openVipStudy(w.text, 'study2')}>
+              <View className="chip" onClick={() => openVipStudy(w, 'study2')}>
                 {membershipStatus === 'active' ? '学习2：理解' : '学习2：会员专属'}
               </View>
-              <View className="chip" onClick={() => openVipStudy(w.text, 'study3')}>
+              <View className="chip" onClick={() => openVipStudy(w, 'study3')}>
                 {membershipStatus === 'active' ? '学习3：运用' : '学习3：会员专属'}
               </View>
             </View>
@@ -136,6 +148,11 @@ export default function Lesson() {
           </View>
         );
       })}
+      {loadState === 'ok' && visibleCount < filtered.length && (
+        <View className="btn-ghost" style={{ margin: '4px 12px 24px' }} onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}>
+          再看 {Math.min(PAGE_SIZE, filtered.length - visibleCount)} 课（共 {filtered.length}）
+        </View>
+      )}
     </ScrollView>
   );
 }

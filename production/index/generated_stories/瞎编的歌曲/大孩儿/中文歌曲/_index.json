@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/大孩儿/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/大孩儿.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 198,
@@ -16,119 +16,187 @@
       "title": "《仓颉造字启文明》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《仓颉造字启文明》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《仓颉造字启文明》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《仓颉造字启文明》/《仓颉造字启文明》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《伯牙绝弦》",
       "title": "《伯牙绝弦》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《伯牙绝弦》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《伯牙绝弦》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《伯牙绝弦》/《伯牙绝弦》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《华罗庚的数学迷宫》",
       "title": "《华罗庚的数学迷宫》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《华罗庚的数学迷宫》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《华罗庚的数学迷宫》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《华罗庚的数学迷宫》/《华罗庚的数学迷宫》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《叶公好龙笑谈中》",
       "title": "《叶公好龙笑谈中》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《叶公好龙笑谈中》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《叶公好龙笑谈中》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《叶公好龙笑谈中》/《叶公好龙笑谈中》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《小李白望月》",
       "title": "《小李白望月》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《小李白望月》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《小李白望月》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《小李白望月》/《小李白望月》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《屈原的粽子船》",
       "title": "《屈原的粽子船》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《屈原的粽子船》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《屈原的粽子船》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《屈原的粽子船》/《屈原的粽子船》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《岳飞背上刻山河》",
       "title": "《岳飞背上刻山河》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《岳飞背上刻山河》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《岳飞背上刻山河》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《岳飞背上刻山河》/《岳飞背上刻山河》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《愚公移山志》",
       "title": "《愚公移山志》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《愚公移山志》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《愚公移山志》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《愚公移山志》/《愚公移山志》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《文天祥过零丁洋》",
       "title": "《文天祥过零丁洋》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《文天祥过零丁洋》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《文天祥过零丁洋》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《文天祥过零丁洋》/《文天祥过零丁洋》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《曹冲称象智慧歌》",
       "title": "《曹冲称象智慧歌》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《曹冲称象智慧歌》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《曹冲称象智慧歌》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《曹冲称象智慧歌》/《曹冲称象智慧歌》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《李清照的梅花》",
       "title": "《李清照的梅花》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《李清照的梅花》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《李清照的梅花》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《李清照的梅花》/《李清照的梅花》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《杜甫草堂的雨》",
       "title": "《杜甫草堂的雨》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《杜甫草堂的雨》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《杜甫草堂的雨》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《杜甫草堂的雨》/《杜甫草堂的雨》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《王羲之的墨池》",
       "title": "《王羲之的墨池》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《王羲之的墨池》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《王羲之的墨池》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《王羲之的墨池》/《王羲之的墨池》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《程门立雪敬师情》",
       "title": "《程门立雪敬师情》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《程门立雪敬师情》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《程门立雪敬师情》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《程门立雪敬师情》/《程门立雪敬师情》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《精卫填海不放弃》",
       "title": "《精卫填海不放弃》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《精卫填海不放弃》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《精卫填海不放弃》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《精卫填海不放弃》/《精卫填海不放弃》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《苏轼问明月》",
       "title": "《苏轼问明月》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《苏轼问明月》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《苏轼问明月》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《苏轼问明月》/《苏轼问明月》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《蒙恬造笔写春秋》",
       "title": "《蒙恬造笔写春秋》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《蒙恬造笔写春秋》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《蒙恬造笔写春秋》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《蒙恬造笔写春秋》/《蒙恬造笔写春秋》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《袁隆平爷爷的稻田》",
@@ -142,665 +210,1045 @@
       "title": "《詹天佑修铁路》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《詹天佑修铁路》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《詹天佑修铁路》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《詹天佑修铁路》/《詹天佑修铁路》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《诸葛亮借东风》",
       "title": "《诸葛亮借东风》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《诸葛亮借东风》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《诸葛亮借东风》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《诸葛亮借东风》/《诸葛亮借东风》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《邯郸学步》",
       "title": "《邯郸学步》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《邯郸学步》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《邯郸学步》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《邯郸学步》/《邯郸学步》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《钱学森造火箭》",
       "title": "《钱学森造火箭》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《钱学森造火箭》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《钱学森造火箭》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《钱学森造火箭》/《钱学森造火箭》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《鲁迅的朝花夕拾》",
       "title": "《鲁迅的朝花夕拾》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《鲁迅的朝花夕拾》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《鲁迅的朝花夕拾》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《鲁迅的朝花夕拾》/《鲁迅的朝花夕拾》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "《黄香温席暖寒冬》",
       "title": "《黄香温席暖寒冬》",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/《黄香温席暖寒冬》"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/《黄香温席暖寒冬》",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/《黄香温席暖寒冬》/《黄香温席暖寒冬》_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三十六计",
       "title": "三十六计",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/三十六计"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/三十六计",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/三十六计/三十六计_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三国志",
       "title": "三国志",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/三国志"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/三国志",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/三国志/三国志_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三字经·人之初",
       "title": "三字经·人之初",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/三字经·人之初"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/三字经·人之初",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/三字经·人之初/三字经·人之初_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "世说新语",
       "title": "世说新语",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/世说新语"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/世说新语",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/世说新语/世说新语_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中庸",
       "title": "中庸",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/中庸"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/中庸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/中庸/中庸_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "九章算术",
       "title": "九章算术",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/九章算术"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/九章算术",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/九章算术/九章算术_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "书谱",
       "title": "书谱",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/书谱"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/书谱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/书谱/书谱_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "井底之蛙",
       "title": "井底之蛙",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/井底之蛙"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/井底之蛙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/井底之蛙/井底之蛙_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "亡羊补牢",
       "title": "亡羊补牢",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/亡羊补牢"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/亡羊补牢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/亡羊补牢/亡羊补牢_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "亲恩难报",
       "title": "亲恩难报",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/亲恩难报"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/亲恩难报",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/亲恩难报/亲恩难报_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "伐檀",
       "title": "伐檀",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/伐檀"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/伐檀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/伐檀/伐檀_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "八仙过海显神通",
       "title": "八仙过海显神通",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/八仙过海显神通"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/八仙过海显神通",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/八仙过海显神通/八仙过海显神通_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "农政全书",
       "title": "农政全书",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/农政全书"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/农政全书",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/农政全书/农政全书_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冬温夏凊",
       "title": "冬温夏凊",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/冬温夏凊"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/冬温夏凊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/冬温夏凊/冬温夏凊_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "列子",
       "title": "列子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/列子"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/列子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/列子/列子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "刻舟求剑",
       "title": "刻舟求剑",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/刻舟求剑"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/刻舟求剑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/刻舟求剑/刻舟求剑_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "千字文",
       "title": "千字文",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/千字文"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/千字文",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/千字文/千字文_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "千字文·天地玄黄",
       "title": "千字文·天地玄黄",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/千字文·天地玄黄"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/千字文·天地玄黄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/千字文·天地玄黄/千字文·天地玄黄_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "卜算子咏梅",
       "title": "卜算子咏梅",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/卜算子咏梅"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/卜算子咏梅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/卜算子咏梅/卜算子咏梅_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "卧薪尝胆",
       "title": "卧薪尝胆",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/卧薪尝胆"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/卧薪尝胆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/卧薪尝胆/卧薪尝胆_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "历史小英雄",
       "title": "历史小英雄",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/历史小英雄"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/历史小英雄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/历史小英雄/历史小英雄_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "古朗月行摘星星",
       "title": "古朗月行摘星星",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/古朗月行摘星星"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/古朗月行摘星星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/古朗月行摘星星/古朗月行摘星星_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "史记",
       "title": "史记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/史记"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/史记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/史记/史记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "司马光砸缸",
       "title": "司马光砸缸",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/司马光砸缸"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/司马光砸缸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/司马光砸缸/司马光砸缸_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "名著小剧场",
       "title": "名著小剧场",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/名著小剧场"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/名著小剧场",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/名著小剧场/名著小剧场_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "后汉书",
       "title": "后汉书",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/后汉书"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/后汉书",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/后汉书/后汉书_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "后浪推前浪",
       "title": "后浪推前浪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/后浪推前浪"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/后浪推前浪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/后浪推前浪/后浪推前浪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "后羿射日",
       "title": "后羿射日",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/后羿射日"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/后羿射日",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/后羿射日/后羿射日_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "周易",
       "title": "周易",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/周易"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/周易",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/周易/周易_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "咏鹅小诗人",
       "title": "咏鹅小诗人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/咏鹅小诗人"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/咏鹅小诗人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/咏鹅小诗人/咏鹅小诗人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "哪吒闹海",
       "title": "哪吒闹海",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/哪吒闹海"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/哪吒闹海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/哪吒闹海/哪吒闹海_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "唐刘晏举神童",
       "title": "唐刘晏举神童",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/唐刘晏举神童"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/唐刘晏举神童",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/唐刘晏举神童/唐刘晏举神童_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "囊萤映雪光",
       "title": "囊萤映雪光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/囊萤映雪光"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/囊萤映雪光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/囊萤映雪光/囊萤映雪光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "国语",
       "title": "国语",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/国语"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/国语",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/国语/国语_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "塞翁失马",
       "title": "塞翁失马",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/塞翁失马"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/塞翁失马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/塞翁失马/塞翁失马_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "墨子",
       "title": "墨子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/墨子"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/墨子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/墨子/墨子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "声声慢寻寻觅觅",
       "title": "声声慢寻寻觅觅",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/声声慢寻寻觅觅"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/声声慢寻寻觅觅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/声声慢寻寻觅觅/声声慢寻寻觅觅_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大学",
       "title": "大学",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/大学"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/大学",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/大学/大学_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大漠孤烟直",
       "title": "大漠孤烟直",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/大漠孤烟直"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/大漠孤烟直",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/大漠孤烟直/大漠孤烟直_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大禹治水",
       "title": "大禹治水",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/大禹治水"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/大禹治水",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/大禹治水/大禹治水_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大闹天宫",
       "title": "大闹天宫",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/大闹天宫"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/大闹天宫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/大闹天宫/大闹天宫_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "天工开物",
       "title": "天工开物",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/天工开物"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/天工开物",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/天工开物/天工开物_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "头悬梁锥刺股",
       "title": "头悬梁锥刺股",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/头悬梁锥刺股"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/头悬梁锥刺股",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/头悬梁锥刺股/头悬梁锥刺股_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "夸父追日追光明",
       "title": "夸父追日追光明",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/夸父追日追光明"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/夸父追日追光明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/夸父追日追光明/夸父追日追光明_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "女娲补天救苍生",
       "title": "女娲补天救苍生",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/女娲补天救苍生"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/女娲补天救苍生",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/女娲补天救苍生/女娲补天救苍生_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "嫦娥奔月",
       "title": "嫦娥奔月",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/嫦娥奔月"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/嫦娥奔月",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/嫦娥奔月/嫦娥奔月_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孔融让梨",
       "title": "孔融让梨",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/孔融让梨"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/孔融让梨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/孔融让梨/孔融让梨_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孙子兵法",
       "title": "孙子兵法",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/孙子兵法"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/孙子兵法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/孙子兵法/孙子兵法_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孙悟空三打白骨精",
       "title": "孙悟空三打白骨精",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/孙悟空三打白骨精"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/孙悟空三打白骨精",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/孙悟空三打白骨精/孙悟空三打白骨精_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孝心三字经",
       "title": "孝心三字经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/孝心三字经"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/孝心三字经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/孝心三字经/孝心三字经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孟姜女哭长城",
       "title": "孟姜女哭长城",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/孟姜女哭长城"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/孟姜女哭长城",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/孟姜女哭长城/孟姜女哭长城_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孟子",
       "title": "孟子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/孟子"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/孟子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/孟子/孟子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孟母三迁",
       "title": "孟母三迁",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/孟母三迁"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/孟母三迁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/孟母三迁/孟母三迁_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "守株待兔",
       "title": "守株待兔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/守株待兔"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/守株待兔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/守株待兔/守株待兔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "完璧归赵",
       "title": "完璧归赵",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/完璧归赵"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/完璧归赵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/完璧归赵/完璧归赵_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "宝莲灯照孝心",
       "title": "宝莲灯照孝心",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/宝莲灯照孝心"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/宝莲灯照孝心",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/宝莲灯照孝心/宝莲灯照孝心_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小儿垂钓图",
       "title": "小儿垂钓图",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/小儿垂钓图"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/小儿垂钓图",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/小儿垂钓图/小儿垂钓图_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小司马的石头歌",
       "title": "小司马的石头歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/小司马的石头歌"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/小司马的石头歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/小司马的石头歌/小司马的石头歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小小萤火虫",
       "title": "小小萤火虫",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/小小萤火虫"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/小小萤火虫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/小小萤火虫/小小萤火虫_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "少年将军霍去病",
       "title": "少年将军霍去病",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/少年将军霍去病"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/少年将军霍去病",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/少年将军霍去病/少年将军霍去病_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "少年毕昇的活字梦",
       "title": "少年毕昇的活字梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/少年毕昇的活字梦"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/少年毕昇的活字梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/少年毕昇的活字梦/少年毕昇的活字梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "尚书",
       "title": "尚书",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/尚书"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/尚书",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/尚书/尚书_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "屈原的汨罗江",
       "title": "屈原的汨罗江",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/屈原的汨罗江"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/屈原的汨罗江",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/屈原的汨罗江/屈原的汨罗江_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "山海经",
       "title": "山海经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/山海经"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/山海经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/山海经/山海经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "左传",
       "title": "左传",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/左传"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/左传",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/左传/左传_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "庄子",
       "title": "庄子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/庄子"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/庄子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/庄子/庄子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "弟子规",
       "title": "弟子规",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/弟子规"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/弟子规",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/弟子规/弟子规_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "弟子规·圣人训",
       "title": "弟子规·圣人训",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/弟子规·圣人训"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/弟子规·圣人训",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/弟子规·圣人训/弟子规·圣人训_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "张衡观星台",
       "title": "张衡观星台",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/张衡观星台"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/张衡观星台",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/张衡观星台/张衡观星台_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "张骞出西域",
       "title": "张骞出西域",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/张骞出西域"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/张骞出西域",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/张骞出西域/张骞出西域_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "念奴娇赤壁怀古",
       "title": "念奴娇赤壁怀古",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/念奴娇赤壁怀古"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/念奴娇赤壁怀古",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/念奴娇赤壁怀古/念奴娇赤壁怀古_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "悯农的米饭香",
       "title": "悯农的米饭香",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/悯农的米饭香"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/悯农的米饭香",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/悯农的米饭香/悯农的米饭香_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "成语小故事",
       "title": "成语小故事",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/成语小故事"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/成语小故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/成语小故事/成语小故事_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "战国策",
       "title": "战国策",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/战国策"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/战国策",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/战国策/战国策_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "披蒲编削竹简",
       "title": "披蒲编削竹简",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/披蒲编削竹简"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/披蒲编削竹简",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/披蒲编削竹简/披蒲编削竹简_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "掩耳盗铃",
       "title": "掩耳盗铃",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/掩耳盗铃"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/掩耳盗铃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/掩耳盗铃/掩耳盗铃_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "搜神记",
       "title": "搜神记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/搜神记"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/搜神记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/搜神记/搜神记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "文心雕龙",
       "title": "文心雕龙",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/文心雕龙"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/文心雕龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/文心雕龙/文心雕龙_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "映雪读书亮",
       "title": "映雪读书亮",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/映雪读书亮"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/映雪读书亮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/映雪读书亮/映雪读书亮_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春眠不觉晓",
       "title": "春眠不觉晓",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/春眠不觉晓"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/春眠不觉晓",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/春眠不觉晓/春眠不觉晓_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春秋",
       "title": "春秋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/春秋"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/春秋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/春秋/春秋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "曲律",
       "title": "曲律",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/曲律"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/曲律",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/曲律/曲律_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "曹冲称象",
       "title": "曹冲称象",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/曹冲称象"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/曹冲称象",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/曹冲称象/曹冲称象_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "望庐山瀑布的彩虹",
       "title": "望庐山瀑布的彩虹",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/望庐山瀑布的彩虹"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/望庐山瀑布的彩虹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/望庐山瀑布的彩虹/望庐山瀑布的彩虹_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "望梅止渴",
       "title": "望梅止渴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/望梅止渴"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/望梅止渴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/望梅止渴/望梅止渴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "木兰从军",
       "title": "木兰从军",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/木兰从军"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/木兰从军",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/木兰从军/木兰从军_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "本草纲目",
       "title": "本草纲目",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/本草纲目"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/本草纲目",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/本草纲目/本草纲目_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "李时珍采药",
       "title": "李时珍采药",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/李时珍采药"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/李时珍采药",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/李时珍采药/李时珍采药_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "桃园三结义",
       "title": "桃园三结义",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/桃园三结义"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/桃园三结义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/桃园三结义/桃园三结义_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梁山伯与祝英台",
@@ -814,588 +1262,924 @@
       "title": "梦溪笔谈",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/梦溪笔谈"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/梦溪笔谈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/梦溪笔谈/梦溪笔谈_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "棋经",
       "title": "棋经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/棋经"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/棋经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/棋经/棋经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "武松打虎",
       "title": "武松打虎",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/武松打虎"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/武松打虎",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/武松打虎/武松打虎_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "水经注",
       "title": "水经注",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/水经注"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/水经注",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/水经注/水经注_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "水调歌头明月几时有",
       "title": "水调歌头明月几时有",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/水调歌头明月几时有"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/水调歌头明月几时有",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/水调歌头明月几时有/水调歌头明月几时有_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "汉书",
       "title": "汉书",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/汉书"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/汉书",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/汉书/汉书_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "江南春晓",
       "title": "江南春晓",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/江南春晓"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/江南春晓",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/江南春晓/江南春晓_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "江城子密州出猎",
       "title": "江城子密州出猎",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/江城子密州出猎"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/江城子密州出猎",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/江城子密州出猎/江城子密州出猎_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "江雪独钓图",
       "title": "江雪独钓图",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/江雪独钓图"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/江雪独钓图",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/江雪独钓图/江雪独钓图_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "泌七岁能赋棋",
       "title": "泌七岁能赋棋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/泌七岁能赋棋"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/泌七岁能赋棋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/泌七岁能赋棋/泌七岁能赋棋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "浣溪沙一曲新词",
       "title": "浣溪沙一曲新词",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/浣溪沙一曲新词"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/浣溪沙一曲新词",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/浣溪沙一曲新词/浣溪沙一曲新词_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "淮南子",
       "title": "淮南子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/淮南子"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/淮南子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/淮南子/淮南子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "清平乐茅檐低小",
       "title": "清平乐茅檐低小",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/清平乐茅檐低小"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/清平乐茅檐低小",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/清平乐茅檐低小/清平乐茅檐低小_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "游子吟的针线",
       "title": "游子吟的针线",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/游子吟的针线"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/游子吟的针线",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/游子吟的针线/游子吟的针线_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "满江红怒发冲冠",
       "title": "满江红怒发冲冠",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/满江红怒发冲冠"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/满江红怒发冲冠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/满江红怒发冲冠/满江红怒发冲冠_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "牛郎织女",
       "title": "牛郎织女",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/牛郎织女"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/牛郎织女",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/牛郎织女/牛郎织女_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "犬守夜鸡司晨",
       "title": "犬守夜鸡司晨",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/犬守夜鸡司晨"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/犬守夜鸡司晨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/犬守夜鸡司晨/犬守夜鸡司晨_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玉不琢不成器",
       "title": "玉不琢不成器",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/玉不琢不成器"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/玉不琢不成器",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/玉不琢不成器/玉不琢不成器_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "王冕画荷花",
       "title": "王冕画荷花",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/王冕画荷花"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/王冕画荷花",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/王冕画荷花/王冕画荷花_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "琴谱",
       "title": "琴谱",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/琴谱"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/琴谱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/琴谱/琴谱_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "画蛇添足",
       "title": "画蛇添足",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/画蛇添足"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/画蛇添足",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/画蛇添足/画蛇添足_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "画论",
       "title": "画论",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/画论"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/画论",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/画论/画论_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "画龙点睛",
       "title": "画龙点睛",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/画龙点睛"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/画龙点睛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/画龙点睛/画龙点睛_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "登鹳雀楼看远方",
       "title": "登鹳雀楼看远方",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/登鹳雀楼看远方"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/登鹳雀楼看远方",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/登鹳雀楼看远方/登鹳雀楼看远方_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白蛇传说情意长",
       "title": "白蛇传说情意长",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/白蛇传说情意长"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/白蛇传说情意长",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/白蛇传说情意长/白蛇传说情意长_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "百家姓",
       "title": "百家姓",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/百家姓"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/百家姓",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/百家姓/百家姓_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "百家姓小唱",
       "title": "百家姓小唱",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/百家姓小唱"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/百家姓小唱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/百家姓小唱/百家姓小唱_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "盘古开天地",
       "title": "盘古开天地",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/盘古开天地"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/盘古开天地",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/盘古开天地/盘古开天地_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "破釜沉舟",
       "title": "破釜沉舟",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/破釜沉舟"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/破釜沉舟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/破釜沉舟/破釜沉舟_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "破阵子为陈同甫赋壮词",
       "title": "破阵子为陈同甫赋壮词",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/破阵子为陈同甫赋壮词"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/破阵子为陈同甫赋壮词",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/破阵子为陈同甫赋壮词/破阵子为陈同甫赋壮词_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "硕鼠",
       "title": "硕鼠",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/硕鼠"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/硕鼠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/硕鼠/硕鼠_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "礼记",
       "title": "礼记",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/礼记"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/礼记",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/礼记/礼记_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "祖冲之算圆周",
       "title": "祖冲之算圆周",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/祖冲之算圆周"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/祖冲之算圆周",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/祖冲之算圆周/祖冲之算圆周_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "神农尝百草",
       "title": "神农尝百草",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/神农尝百草"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/神农尝百草",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/神农尝百草/神农尝百草_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "神笔马良画梦想",
       "title": "神笔马良画梦想",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/神笔马良画梦想"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/神笔马良画梦想",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/神笔马良画梦想/神笔马良画梦想_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "程门立雪",
       "title": "程门立雪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/程门立雪"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/程门立雪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/程门立雪/程门立雪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "窦燕山教五子",
       "title": "窦燕山教五子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/窦燕山教五子"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/窦燕山教五子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/窦燕山教五子/窦燕山教五子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "管鲍之交",
       "title": "管鲍之交",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/管鲍之交"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/管鲍之交",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/管鲍之交/管鲍之交_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "精忠报国",
       "title": "精忠报国",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/精忠报国"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/精忠报国",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/精忠报国/精忠报国_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "纸上谈兵赵括叹",
       "title": "纸上谈兵赵括叹",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/纸上谈兵赵括叹"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/纸上谈兵赵括叹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/纸上谈兵赵括叹/纸上谈兵赵括叹_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "花木兰从军",
       "title": "花木兰从军",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/花木兰从军"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/花木兰从军",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/花木兰从军/花木兰从军_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "苏幕遮碧云天",
       "title": "苏幕遮碧云天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/苏幕遮碧云天"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/苏幕遮碧云天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/苏幕遮碧云天/苏幕遮碧云天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "苏老泉二十七",
       "title": "苏老泉二十七",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/苏老泉二十七"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/苏老泉二十七",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/苏老泉二十七/苏老泉二十七_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茶经",
       "title": "茶经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/茶经"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/茶经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/茶经/茶经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "荀子",
       "title": "荀子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/荀子"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/荀子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/荀子/荀子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "草船借箭",
       "title": "草船借箭",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/草船借箭"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/草船借箭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/草船借箭/草船借箭_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "莹八岁能咏诗",
       "title": "莹八岁能咏诗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/莹八岁能咏诗"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/莹八岁能咏诗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/莹八岁能咏诗/莹八岁能咏诗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蒹葭",
       "title": "蒹葭",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/蒹葭"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/蒹葭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/蒹葭/蒹葭_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蔡文姬辨琴音",
       "title": "蔡文姬辨琴音",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/蔡文姬辨琴音"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/蔡文姬辨琴音",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/蔡文姬辨琴音/蔡文姬辨琴音_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "虎门销烟",
       "title": "虎门销烟",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/虎门销烟"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/虎门销烟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/虎门销烟/虎门销烟_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "虞美人春花秋月",
       "title": "虞美人春花秋月",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/虞美人春花秋月"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/虞美人春花秋月",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/虞美人春花秋月/虞美人春花秋月_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蚕吐丝蜂酿蜜",
       "title": "蚕吐丝蜂酿蜜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/蚕吐丝蜂酿蜜"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/蚕吐丝蜂酿蜜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/蚕吐丝蜂酿蜜/蚕吐丝蜂酿蜜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蝶恋花庭院深深",
       "title": "蝶恋花庭院深深",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/蝶恋花庭院深深"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/蝶恋花庭院深深",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/蝶恋花庭院深深/蝶恋花庭院深深_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "融四岁让梨甜",
       "title": "融四岁让梨甜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/融四岁让梨甜"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/融四岁让梨甜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/融四岁让梨甜/融四岁让梨甜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "衡门",
       "title": "衡门",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/衡门"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/衡门",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/衡门/衡门_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "西江月明月别枝",
       "title": "西江月明月别枝",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/西江月明月别枝"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/西江月明月别枝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/西江月明月别枝/西江月明月别枝_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "西游记·悟空",
       "title": "西游记·悟空",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/西游记·悟空"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/西游记·悟空",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/西游记·悟空/西游记·悟空_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "论语",
       "title": "论语",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/论语"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/论语",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/论语/论语_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "词话",
       "title": "词话",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/词话"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/词话",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/词话/词话_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "诗品",
       "title": "诗品",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/诗品"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/诗品",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/诗品/诗品_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "诗经",
       "title": "诗经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/诗经"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/诗经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/诗经/诗经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "负荆请罪",
       "title": "负荆请罪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/负荆请罪"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/负荆请罪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/负荆请罪/负荆请罪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "负薪读书忙",
       "title": "负薪读书忙",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/负薪读书忙"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/负薪读书忙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/负薪读书忙/负薪读书忙_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "资治通鉴",
       "title": "资治通鉴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/资治通鉴"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/资治通鉴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/资治通鉴/资治通鉴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "赵中令读鲁论",
       "title": "赵中令读鲁论",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/赵中令读鲁论"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/赵中令读鲁论",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/赵中令读鲁论/赵中令读鲁论_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "路遥知马力",
       "title": "路遥知马力",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/路遥知马力"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/路遥知马力",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/路遥知马力/路遥知马力_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "过零丁洋",
       "title": "过零丁洋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/过零丁洋"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/过零丁洋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/过零丁洋/过零丁洋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "道德经",
       "title": "道德经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/道德经"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/道德经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/道德经/道德经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "邯郸学步小木屐",
       "title": "邯郸学步小木屐",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/邯郸学步小木屐"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/邯郸学步小木屐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/邯郸学步小木屐/邯郸学步小木屐_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "郑和下西洋",
       "title": "郑和下西洋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/郑和下西洋"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/郑和下西洋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/郑和下西洋/郑和下西洋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "郑板桥画竹",
       "title": "郑板桥画竹",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/郑板桥画竹"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/郑板桥画竹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/郑板桥画竹/郑板桥画竹_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "酒经",
       "title": "酒经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/酒经"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/酒经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/酒经/酒经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "醉花阴薄雾浓云",
       "title": "醉花阴薄雾浓云",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/醉花阴薄雾浓云"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/醉花阴薄雾浓云",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/醉花阴薄雾浓云/醉花阴薄雾浓云_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "铁杵磨成绣花针",
       "title": "铁杵磨成绣花针",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/铁杵磨成绣花针"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/铁杵磨成绣花针",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/铁杵磨成绣花针/铁杵磨成绣花针_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青玉案元夕",
       "title": "青玉案元夕",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/青玉案元夕"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/青玉案元夕",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/青玉案元夕/青玉案元夕_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "静夜思的月光",
       "title": "静夜思的月光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/静夜思的月光"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/静夜思的月光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/静夜思的月光/静夜思的月光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "韩非子",
       "title": "韩非子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/韩非子"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/韩非子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/韩非子/韩非子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "香九龄能温席",
       "title": "香九龄能温席",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/香九龄能温席"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/香九龄能温席",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/香九龄能温席/香九龄能温席_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鲁班造木鸢",
       "title": "鲁班造木鸢",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/鲁班造木鸢"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/鲁班造木鸢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/鲁班造木鸢/鲁班造木鸢_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹤鸣",
       "title": "鹤鸣",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/鹤鸣"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/鹤鸣",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/鹤鸣/鹤鸣_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹬蚌相争",
       "title": "鹬蚌相争",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/鹬蚌相争"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/鹬蚌相争",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/鹬蚌相争/鹬蚌相争_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹿鸣",
       "title": "鹿鸣",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/鹿鸣"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/鹿鸣",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/鹿鸣/鹿鸣_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黄帝内经",
       "title": "黄帝内经",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/黄帝内经"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/黄帝内经",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/黄帝内经/黄帝内经_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "齐民要术",
       "title": "齐民要术",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/大孩儿/中文歌曲/齐民要术"
+      "path": "瞎编的歌曲/大孩儿/中文歌曲/齐民要术",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/大孩儿/中文歌曲/齐民要术/齐民要术_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

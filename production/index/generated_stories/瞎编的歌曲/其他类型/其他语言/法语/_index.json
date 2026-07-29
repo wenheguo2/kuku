@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/其他类型/其他语言/法语",
   "name": "法语",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他类型.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/法语.jpg",
     "cover_level": "category"
   },
   "entry_count": 59,
@@ -16,413 +16,649 @@
       "title": "Alpes_阿尔卑斯",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Alpes_阿尔卑斯"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Alpes_阿尔卑斯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Alpes_阿尔卑斯/Alpes_阿尔卑斯_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Amour Éternel_永恒之爱",
       "title": "Amour Éternel_永恒之爱",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Amour Éternel_永恒之爱"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Amour Éternel_永恒之爱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Amour Éternel_永恒之爱/Amour Éternel_永恒之爱_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Anges Angels",
       "title": "Anges Angels",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Anges Angels"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Anges Angels",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Anges Angels/Anges Angels_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Arc-en-Ciel_彩虹",
       "title": "Arc-en-Ciel_彩虹",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Arc-en-Ciel_彩虹"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Arc-en-Ciel_彩虹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Arc-en-Ciel_彩虹/Arc-en-Ciel_彩虹_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Aube_黎明",
       "title": "Aube_黎明",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Aube_黎明"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Aube_黎明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Aube_黎明/Aube_黎明_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Bonheur",
       "title": "Bonheur",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Bonheur"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Bonheur",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Bonheur/Bonheur_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Brise d'Automne_秋风",
       "title": "Brise d'Automne_秋风",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Brise d'Automne_秋风"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Brise d'Automne_秋风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Brise d'Automne_秋风/Brise d'Automne_秋风_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Carnaval à Nice_尼斯狂欢节",
       "title": "Carnaval à Nice_尼斯狂欢节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Carnaval à Nice_尼斯狂欢节"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Carnaval à Nice_尼斯狂欢节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Carnaval à Nice_尼斯狂欢节/Carnaval à Nice_尼斯狂欢节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Champs-Élysées_香榭丽舍",
       "title": "Champs-Élysées_香榭丽舍",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Champs-Élysées_香榭丽舍"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Champs-Élysées_香榭丽舍",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Champs-Élysées_香榭丽舍/Champs-Élysées_香榭丽舍_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Château de Sable_沙堡",
       "title": "Château de Sable_沙堡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Château de Sable_沙堡"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Château de Sable_沙堡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Château de Sable_沙堡/Château de Sable_沙堡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Ciel de Provence_普罗旺斯的天空",
       "title": "Ciel de Provence_普罗旺斯的天空",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Ciel de Provence_普罗旺斯的天空"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Ciel de Provence_普罗旺斯的天空",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Ciel de Provence_普罗旺斯的天空/Ciel de Provence_普罗旺斯的天空_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Cité Cybernétique_Cité Cybernétique",
       "title": "Cité Cybernétique_Cité Cybernétique",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Cité Cybernétique_Cité Cybernétique"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Cité Cybernétique_Cité Cybernétique",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Cité Cybernétique_Cité Cybernétique/Cité Cybernétique_Cité Cybernétique_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Croissant_可颂",
       "title": "Croissant_可颂",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Croissant_可颂"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Croissant_可颂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Croissant_可颂/Croissant_可颂_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Crépuscule_黄昏",
       "title": "Crépuscule_黄昏",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Crépuscule_黄昏"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Crépuscule_黄昏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Crépuscule_黄昏/Crépuscule_黄昏_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Côte d'Azur_蓝色海岸",
       "title": "Côte d'Azur_蓝色海岸",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Côte d'Azur_蓝色海岸"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Côte d'Azur_蓝色海岸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Côte d'Azur_蓝色海岸/Côte d'Azur_蓝色海岸_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Côte Normande_诺曼底海岸",
       "title": "Côte Normande_诺曼底海岸",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Côte Normande_诺曼底海岸"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Côte Normande_诺曼底海岸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Côte Normande_诺曼底海岸/Côte Normande_诺曼底海岸_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Cœur de Lyon_里昂之心",
       "title": "Cœur de Lyon_里昂之心",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Cœur de Lyon_里昂之心"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Cœur de Lyon_里昂之心",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Cœur de Lyon_里昂之心/Cœur de Lyon_里昂之心_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Danse sous la Pluie_雨中舞",
       "title": "Danse sous la Pluie_雨中舞",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Danse sous la Pluie_雨中舞"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Danse sous la Pluie_雨中舞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Danse sous la Pluie_雨中舞/Danse sous la Pluie_雨中舞_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Danser",
       "title": "Danser",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Danser"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Danser",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Danser/Danser_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Feu de Passion_烈焰激情",
       "title": "Feu de Passion_烈焰激情",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Feu de Passion_烈焰激情"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Feu de Passion_烈焰激情",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Feu de Passion_烈焰激情/Feu de Passion_烈焰激情_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fontainebleau_枫丹白露",
       "title": "Fontainebleau_枫丹白露",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Fontainebleau_枫丹白露"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Fontainebleau_枫丹白露",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Fontainebleau_枫丹白露/Fontainebleau_枫丹白露_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fromage_奶酪",
       "title": "Fromage_奶酪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Fromage_奶酪"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Fromage_奶酪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Fromage_奶酪/Fromage_奶酪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fureur Fury",
       "title": "Fureur Fury",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Fureur Fury"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Fureur Fury",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Fureur Fury/Fureur Fury_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Fête",
       "title": "Fête",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Fête"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Fête",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Fête/Fête_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Histoire_Histoire",
       "title": "Histoire_Histoire",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Histoire_Histoire"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Histoire_Histoire",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Histoire_Histoire/Histoire_Histoire_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Jardin de Versailles_凡尔赛花园",
       "title": "Jardin de Versailles_凡尔赛花园",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Jardin de Versailles_凡尔赛花园"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Jardin de Versailles_凡尔赛花园",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Jardin de Versailles_凡尔赛花园/Jardin de Versailles_凡尔赛花园_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Jardin du Luxembourg_卢森堡公园",
       "title": "Jardin du Luxembourg_卢森堡公园",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Jardin du Luxembourg_卢森堡公园"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Jardin du Luxembourg_卢森堡公园",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Jardin du Luxembourg_卢森堡公园/Jardin du Luxembourg_卢森堡公园_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Joie",
       "title": "Joie",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Joie"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Joie",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Joie/Joie_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "La Vieille Maison_La Vieille Maison",
       "title": "La Vieille Maison_La Vieille Maison",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/La Vieille Maison_La Vieille Maison"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/La Vieille Maison_La Vieille Maison",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/La Vieille Maison_La Vieille Maison/La Vieille Maison_La Vieille Maison_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Lavande_薰衣草",
       "title": "Lavande_薰衣草",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Lavande_薰衣草"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Lavande_薰衣草",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Lavande_薰衣草/Lavande_薰衣草_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Liberté_自由",
       "title": "Liberté_自由",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Liberté_自由"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Liberté_自由",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Liberté_自由/Liberté_自由_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Lumière d'Hiver_冬日之光",
       "title": "Lumière d'Hiver_冬日之光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Lumière d'Hiver_冬日之光"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Lumière d'Hiver_冬日之光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Lumière d'Hiver_冬日之光/Lumière d'Hiver_冬日之光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Lys_百合花",
       "title": "Lys_百合花",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Lys_百合花"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Lys_百合花",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Lys_百合花/Lys_百合花_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Macaron_马卡龙",
       "title": "Macaron_马卡龙",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Macaron_马卡龙"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Macaron_马卡龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Macaron_马卡龙/Macaron_马卡龙_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Muguet_铃兰",
       "title": "Muguet_铃兰",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Muguet_铃兰"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Muguet_铃兰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Muguet_铃兰/Muguet_铃兰_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Mystère de Bretagne_布列塔尼之谜",
       "title": "Mystère de Bretagne_布列塔尼之谜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Mystère de Bretagne_布列塔尼之谜"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Mystère de Bretagne_布列塔尼之谜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Mystère de Bretagne_布列塔尼之谜/Mystère de Bretagne_布列塔尼之谜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Océan d'Émotions_情感之海",
       "title": "Océan d'Émotions_情感之海",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Océan d'Émotions_情感之海"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Océan d'Émotions_情感之海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Océan d'Émotions_情感之海/Océan d'Émotions_情感之海_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Parfum de Lavande_薰衣草之香",
       "title": "Parfum de Lavande_薰衣草之香",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Parfum de Lavande_薰衣草之香"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Parfum de Lavande_薰衣草之香",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Parfum de Lavande_薰衣草之香/Parfum de Lavande_薰衣草之香_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Paris la Nuit_巴黎之夜",
       "title": "Paris la Nuit_巴黎之夜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Paris la Nuit_巴黎之夜"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Paris la Nuit_巴黎之夜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Paris la Nuit_巴黎之夜/Paris la Nuit_巴黎之夜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Pluie d'Été_夏雨",
       "title": "Pluie d'Été_夏雨",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Pluie d'Été_夏雨"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Pluie d'Été_夏雨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Pluie d'Été_夏雨/Pluie d'Été_夏雨_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Pluie de Néon_Pluie de Néon",
       "title": "Pluie de Néon_Pluie de Néon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Pluie de Néon_Pluie de Néon"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Pluie de Néon_Pluie de Néon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Pluie de Néon_Pluie de Néon/Pluie de Néon_Pluie de Néon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Prière Prayer",
       "title": "Prière Prayer",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Prière Prayer"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Prière Prayer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Prière Prayer/Prière Prayer_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rire",
       "title": "Rire",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Rire"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Rire",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Rire/Rire_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rose_玫瑰",
       "title": "Rose_玫瑰",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Rose_玫瑰"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Rose_玫瑰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Rose_玫瑰/Rose_玫瑰_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rosée_露珠",
       "title": "Rosée_露珠",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Rosée_露珠"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Rosée_露珠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Rosée_露珠/Rosée_露珠_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rue des Rêves_梦之街",
       "title": "Rue des Rêves_梦之街",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Rue des Rêves_梦之街"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Rue des Rêves_梦之街",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Rue des Rêves_梦之街/Rue des Rêves_梦之街_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Rêve de Marseille_马赛之梦",
       "title": "Rêve de Marseille_马赛之梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Rêve de Marseille_马赛之梦"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Rêve de Marseille_马赛之梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Rêve de Marseille_马赛之梦/Rêve de Marseille_马赛之梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Soleil de Nice_尼斯阳光",
       "title": "Soleil de Nice_尼斯阳光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Soleil de Nice_尼斯阳光"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Soleil de Nice_尼斯阳光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Soleil de Nice_尼斯阳光/Soleil de Nice_尼斯阳光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Soleil",
       "title": "Soleil",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Soleil"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Soleil",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Soleil/Soleil_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Souvenirs_Souvenirs",
       "title": "Souvenirs_Souvenirs",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Souvenirs_Souvenirs"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Souvenirs_Souvenirs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Souvenirs_Souvenirs/Souvenirs_Souvenirs_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Temps des Cerises_樱桃时节",
       "title": "Temps des Cerises_樱桃时节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Temps des Cerises_樱桃时节"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Temps des Cerises_樱桃时节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Temps des Cerises_樱桃时节/Temps des Cerises_樱桃时节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Tempête Storm",
       "title": "Tempête Storm",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Tempête Storm"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Tempête Storm",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Tempête Storm/Tempête Storm_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Tour Eiffel_埃菲尔铁塔",
       "title": "Tour Eiffel_埃菲尔铁塔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Tour Eiffel_埃菲尔铁塔"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Tour Eiffel_埃菲尔铁塔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Tour Eiffel_埃菲尔铁塔/Tour Eiffel_埃菲尔铁塔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Tournesol_向日葵",
       "title": "Tournesol_向日葵",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Tournesol_向日葵"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Tournesol_向日葵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Tournesol_向日葵/Tournesol_向日葵_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Vague à l'Âme_心潮",
       "title": "Vague à l'Âme_心潮",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Vague à l'Âme_心潮"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Vague à l'Âme_心潮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Vague à l'Âme_心潮/Vague à l'Âme_心潮_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Val de Loire_卢瓦尔河谷",
       "title": "Val de Loire_卢瓦尔河谷",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Val de Loire_卢瓦尔河谷"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Val de Loire_卢瓦尔河谷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Val de Loire_卢瓦尔河谷/Val de Loire_卢瓦尔河谷_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Vin Rouge_红酒",
       "title": "Vin Rouge_红酒",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Vin Rouge_红酒"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Vin Rouge_红酒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Vin Rouge_红酒/Vin Rouge_红酒_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Vive la Vie_生活万岁",
       "title": "Vive la Vie_生活万岁",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Vive la Vie_生活万岁"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Vive la Vie_生活万岁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Vive la Vie_生活万岁/Vive la Vie_生活万岁_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "Étoile du Nord_北极星",
       "title": "Étoile du Nord_北极星",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/其他类型/其他语言/法语/Étoile du Nord_北极星"
+      "path": "瞎编的歌曲/其他类型/其他语言/法语/Étoile du Nord_北极星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/其他类型/其他语言/法语/Étoile du Nord_北极星/Étoile du Nord_北极星_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

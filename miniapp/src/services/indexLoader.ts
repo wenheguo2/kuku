@@ -12,6 +12,10 @@ import { mockCategoryIndex, mockGlobalIndex, mockHomeIndex, mockIndexByPath, moc
 const CACHE_TTL_MS = 60 * 60 * 1000;
 const cache = new Map<string, { data: unknown; expiresAt: number }>();
 const inflight = new Map<string, Promise<unknown>>();
+// 启动级 cache-bust：微信开发者工具/客户端的 HTTP 磁盘缓存会长期返回旧索引（实测连 IDE 重启都不清，
+// 拉到 6 天前的 _home.json）；每次冷启动用新时间戳作查询参统一绕过，同一次运行内仍可命中自身内存缓存
+const BOOT_BUST = `_v=${Date.now()}`;
+const withBust = (url: string) => url + (url.includes('?') ? '&' : '?') + BOOT_BUST;
 
 async function fetchJson<T>(url: string, mock: T): Promise<T> {
   if (CONFIG.USE_MOCK) return mock;
@@ -21,7 +25,7 @@ async function fetchJson<T>(url: string, mock: T): Promise<T> {
   if (pending) return pending as Promise<T>;
 
   const request = (async () => {
-    const res = await Taro.request({ url, method: 'GET', timeout: 15_000 });
+    const res = await Taro.request({ url: withBust(url), method: 'GET', timeout: 15_000 });
     if (res.statusCode < 200 || res.statusCode >= 300) {
       throw new Error(`内容索引请求失败（HTTP ${res.statusCode}）`);
     }

@@ -1,0 +1,1049 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/世界名人/双语歌曲",
+  "name": "双语歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/双语歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 94,
+  "entries": [
+    {
+      "entry_id": "丁肇中 Samuel Ting",
+      "title": "丁肇中 Samuel Ting",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/丁肇中 Samuel Ting",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/丁肇中 Samuel Ting/丁肇中 Samuel Ting_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "亚里士多德 Aristotle",
+      "title": "亚里士多德 Aristotle",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/亚里士多德 Aristotle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/亚里士多德 Aristotle/亚里士多德 Aristotle_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "伽利尔摩·马可尼 Guglielmo Marconi",
+      "title": "伽利尔摩·马可尼 Guglielmo Marconi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/伽利尔摩·马可尼 Guglielmo Marconi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/伽利尔摩·马可尼 Guglielmo Marconi/伽利尔摩·马可尼 Guglielmo Marconi_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "伽利略 Galileo Galilei",
+      "title": "伽利略 Galileo Galilei",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/伽利略 Galileo Galilei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/伽利略 Galileo Galilei/伽利略 Galileo Galilei_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "凯撒 Julius Caesar",
+      "title": "凯撒 Julius Caesar",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/凯撒 Julius Caesar",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/凯撒 Julius Caesar/凯撒 Julius Caesar_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "华佗 Hua Tuo",
+      "title": "华佗 Hua Tuo",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/华佗 Hua Tuo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/华佗 Hua Tuo/华佗 Hua Tuo_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "华盛顿 George Washington",
+      "title": "华盛顿 George Washington",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/华盛顿 George Washington",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/华盛顿 George Washington/华盛顿 George Washington_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "华罗庚 Hua Luogeng",
+      "title": "华罗庚 Hua Luogeng",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/华罗庚 Hua Luogeng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/华罗庚 Hua Luogeng/华罗庚 Hua Luogeng_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "南仁东 Nan Rendong",
+      "title": "南仁东 Nan Rendong",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/南仁东 Nan Rendong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/南仁东 Nan Rendong/南仁东 Nan Rendong_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "司马迁 Sima Qian",
+      "title": "司马迁 Sima Qian",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/司马迁 Sima Qian",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/司马迁 Sima Qian/司马迁 Sima Qian_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吴承恩 Wu Cheng'en",
+      "title": "吴承恩 Wu Cheng'en",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/吴承恩 Wu Cheng'en",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/吴承恩 Wu Cheng'en/吴承恩 Wu Cheng'en_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "吴道子 Wu Daozi",
+      "title": "吴道子 Wu Daozi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/吴道子 Wu Daozi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/吴道子 Wu Daozi/吴道子 Wu Daozi_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "哥伦布 Christopher Columbus",
+      "title": "哥伦布 Christopher Columbus",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/哥伦布 Christopher Columbus",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/哥伦布 Christopher Columbus/哥伦布 Christopher Columbus_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "哥白尼 Nicolaus Copernicus",
+      "title": "哥白尼 Nicolaus Copernicus",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/哥白尼 Nicolaus Copernicus",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/哥白尼 Nicolaus Copernicus/哥白尼 Nicolaus Copernicus_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "孔子 Confucius",
+      "title": "孔子 Confucius",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/孔子 Confucius",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/孔子 Confucius/孔子 Confucius_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "孙子 Sun Tzu",
+      "title": "孙子 Sun Tzu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/孙子 Sun Tzu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/孙子 Sun Tzu/孙子 Sun Tzu_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "孙家栋 Sun Jiadong",
+      "title": "孙家栋 Sun Jiadong",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/孙家栋 Sun Jiadong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/孙家栋 Sun Jiadong/孙家栋 Sun Jiadong_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "孙思邈 Sun Simiao",
+      "title": "孙思邈 Sun Simiao",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/孙思邈 Sun Simiao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/孙思邈 Sun Simiao/孙思邈 Sun Simiao_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "孟德尔 Gregor Mendel",
+      "title": "孟德尔 Gregor Mendel",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/孟德尔 Gregor Mendel",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/孟德尔 Gregor Mendel/孟德尔 Gregor Mendel_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "宋应星 Song Yingxing",
+      "title": "宋应星 Song Yingxing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/宋应星 Song Yingxing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/宋应星 Song Yingxing/宋应星 Song Yingxing_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "居里夫人 Marie Curie",
+      "title": "居里夫人 Marie Curie",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/居里夫人 Marie Curie",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/居里夫人 Marie Curie/居里夫人 Marie Curie_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "屈原 Qu Yuan",
+      "title": "屈原 Qu Yuan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/屈原 Qu Yuan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/屈原 Qu Yuan/屈原 Qu Yuan_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "屠呦呦 Tu Youyou",
+      "title": "屠呦呦 Tu Youyou",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/屠呦呦 Tu Youyou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/屠呦呦 Tu Youyou/屠呦呦 Tu Youyou_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "岳飞 Yue Fei",
+      "title": "岳飞 Yue Fei",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/岳飞 Yue Fei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/岳飞 Yue Fei/岳飞 Yue Fei_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "巴金 Ba Jin",
+      "title": "巴金 Ba Jin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/巴金 Ba Jin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/巴金 Ba Jin/巴金 Ba Jin_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "开普勒 Johannes Kepler",
+      "title": "开普勒 Johannes Kepler",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/开普勒 Johannes Kepler",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/开普勒 Johannes Kepler/开普勒 Johannes Kepler_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "张仲景 Zhang Zhongjing",
+      "title": "张仲景 Zhang Zhongjing",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/张仲景 Zhang Zhongjing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/张仲景 Zhang Zhongjing/张仲景 Zhang Zhongjing_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "张大千 Zhang Daqian",
+      "title": "张大千 Zhang Daqian",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/张大千 Zhang Daqian",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/张大千 Zhang Daqian/张大千 Zhang Daqian_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "张桂梅 Zhang Guimei",
+      "title": "张桂梅 Zhang Guimei",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/张桂梅 Zhang Guimei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/张桂梅 Zhang Guimei/张桂梅 Zhang Guimei_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "张衡 Zhang Heng",
+      "title": "张衡 Zhang Heng",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/张衡 Zhang Heng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/张衡 Zhang Heng/张衡 Zhang Heng_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "张骞 Zhang Qian",
+      "title": "张骞 Zhang Qian",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/张骞 Zhang Qian",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/张骞 Zhang Qian/张骞 Zhang Qian_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "徐光启 Xu Guangqi",
+      "title": "徐光启 Xu Guangqi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/徐光启 Xu Guangqi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/徐光启 Xu Guangqi/徐光启 Xu Guangqi_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "徐霞客 Xu Xiake",
+      "title": "徐霞客 Xu Xiake",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/徐霞客 Xu Xiake",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/徐霞客 Xu Xiake/徐霞客 Xu Xiake_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "成吉思汗 Genghis Khan",
+      "title": "成吉思汗 Genghis Khan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/成吉思汗 Genghis Khan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/成吉思汗 Genghis Khan/成吉思汗 Genghis Khan_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "拿破仑 Napoleon Bonaparte",
+      "title": "拿破仑 Napoleon Bonaparte",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/拿破仑 Napoleon Bonaparte",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/拿破仑 Napoleon Bonaparte/拿破仑 Napoleon Bonaparte_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "文天祥 Wen Tianxiang",
+      "title": "文天祥 Wen Tianxiang",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/文天祥 Wen Tianxiang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/文天祥 Wen Tianxiang/文天祥 Wen Tianxiang_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "施耐庵 Shi Nai'an",
+      "title": "施耐庵 Shi Nai'an",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/施耐庵 Shi Nai'an",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/施耐庵 Shi Nai'an/施耐庵 Shi Nai'an_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "曹雪芹 Cao Xueqin",
+      "title": "曹雪芹 Cao Xueqin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/曹雪芹 Cao Xueqin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/曹雪芹 Cao Xueqin/曹雪芹 Cao Xueqin_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "李政道 Tsung-Dao Lee",
+      "title": "李政道 Tsung-Dao Lee",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/李政道 Tsung-Dao Lee",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/李政道 Tsung-Dao Lee/李政道 Tsung-Dao Lee_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "李时珍 Li Shizhen",
+      "title": "李时珍 Li Shizhen",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/李时珍 Li Shizhen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/李时珍 Li Shizhen/李时珍 Li Shizhen_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "李清照 Li Qingzhao",
+      "title": "李清照 Li Qingzhao",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/李清照 Li Qingzhao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/李清照 Li Qingzhao/李清照 Li Qingzhao_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "李白 Li Bai",
+      "title": "李白 Li Bai",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/李白 Li Bai",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/李白 Li Bai/李白 Li Bai_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "杨振宁 Yang Chen-Ning",
+      "title": "杨振宁 Yang Chen-Ning",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/杨振宁 Yang Chen-Ning",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/杨振宁 Yang Chen-Ning/杨振宁 Yang Chen-Ning_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "林则徐 Lin Zexu",
+      "title": "林则徐 Lin Zexu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/林则徐 Lin Zexu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/林则徐 Lin Zexu/林则徐 Lin Zexu_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "柏拉图 Plato",
+      "title": "柏拉图 Plato",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/柏拉图 Plato",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/柏拉图 Plato/柏拉图 Plato_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "梅兰芳 Mei Lanfang",
+      "title": "梅兰芳 Mei Lanfang",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/梅兰芳 Mei Lanfang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/梅兰芳 Mei Lanfang/梅兰芳 Mei Lanfang_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "毕昇 Bi Sheng",
+      "title": "毕昇 Bi Sheng",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/毕昇 Bi Sheng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/毕昇 Bi Sheng/毕昇 Bi Sheng_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "沈括 Shen Kuo",
+      "title": "沈括 Shen Kuo",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/沈括 Shen Kuo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/沈括 Shen Kuo/沈括 Shen Kuo_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "法拉第 Michael Faraday",
+      "title": "法拉第 Michael Faraday",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/法拉第 Michael Faraday",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/法拉第 Michael Faraday/法拉第 Michael Faraday_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爱因斯坦 Albert Einstein",
+      "title": "爱因斯坦 Albert Einstein",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/爱因斯坦 Albert Einstein",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/爱因斯坦 Albert Einstein/爱因斯坦 Albert Einstein_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "爱迪生 Thomas Edison",
+      "title": "爱迪生 Thomas Edison",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/爱迪生 Thomas Edison",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/爱迪生 Thomas Edison/爱迪生 Thomas Edison_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "牛顿 Isaac Newton",
+      "title": "牛顿 Isaac Newton",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/牛顿 Isaac Newton",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/牛顿 Isaac Newton/牛顿 Isaac Newton_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "牛顿 Sir Isaac Newton",
+      "title": "牛顿 Sir Isaac Newton",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/牛顿 Sir Isaac Newton",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/牛顿 Sir Isaac Newton/牛顿 Sir Isaac Newton_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "特斯拉 Nikola Tesla",
+      "title": "特斯拉 Nikola Tesla",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/特斯拉 Nikola Tesla",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/特斯拉 Nikola Tesla/特斯拉 Nikola Tesla_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "玄奘 Xuanzang",
+      "title": "玄奘 Xuanzang",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/玄奘 Xuanzang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/玄奘 Xuanzang/玄奘 Xuanzang_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "王维 Wang Wei",
+      "title": "王维 Wang Wei",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/王维 Wang Wei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/王维 Wang Wei/王维 Wang Wei_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "王羲之 Wang Xizhi",
+      "title": "王羲之 Wang Xizhi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/王羲之 Wang Xizhi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/王羲之 Wang Xizhi/王羲之 Wang Xizhi_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "玻尔 Niels Bohr",
+      "title": "玻尔 Niels Bohr",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/玻尔 Niels Bohr",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/玻尔 Niels Bohr/玻尔 Niels Bohr_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "班超 Ban Chao",
+      "title": "班超 Ban Chao",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/班超 Ban Chao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/班超 Ban Chao/班超 Ban Chao_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "白居易 Bai Juyi",
+      "title": "白居易 Bai Juyi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/白居易 Bai Juyi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/白居易 Bai Juyi/白居易 Bai Juyi_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "祖冲之 Zu Chongzhi",
+      "title": "祖冲之 Zu Chongzhi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/祖冲之 Zu Chongzhi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/祖冲之 Zu Chongzhi/祖冲之 Zu Chongzhi_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "罗贯中 Luo Guanzhong",
+      "title": "罗贯中 Luo Guanzhong",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/罗贯中 Luo Guanzhong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/罗贯中 Luo Guanzhong/罗贯中 Luo Guanzhong_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老子 Lao Tzu",
+      "title": "老子 Lao Tzu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/老子 Lao Tzu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/老子 Lao Tzu/老子 Lao Tzu_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "老舍 Lao She",
+      "title": "老舍 Lao She",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/老舍 Lao She",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/老舍 Lao She/老舍 Lao She_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "苏格拉底 Socrates",
+      "title": "苏格拉底 Socrates",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/苏格拉底 Socrates",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/苏格拉底 Socrates/苏格拉底 Socrates_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "苏武 Su Wu",
+      "title": "苏武 Su Wu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/苏武 Su Wu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/苏武 Su Wu/苏武 Su Wu_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "苏轼 Su Shi",
+      "title": "苏轼 Su Shi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/苏轼 Su Shi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/苏轼 Su Shi/苏轼 Su Shi_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "茅盾 Mao Dun",
+      "title": "茅盾 Mao Dun",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/茅盾 Mao Dun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/茅盾 Mao Dun/茅盾 Mao Dun_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "莎士比亚 William Shakespeare",
+      "title": "莎士比亚 William Shakespeare",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/莎士比亚 William Shakespeare",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/莎士比亚 William Shakespeare/莎士比亚 William Shakespeare_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "莫扎特 Wolfgang Mozart",
+      "title": "莫扎特 Wolfgang Mozart",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/莫扎特 Wolfgang Mozart",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/莫扎特 Wolfgang Mozart/莫扎特 Wolfgang Mozart_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "蔡伦 Cai Lun",
+      "title": "蔡伦 Cai Lun",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/蔡伦 Cai Lun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/蔡伦 Cai Lun/蔡伦 Cai Lun_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "薛定谔 Erwin Schrödinger",
+      "title": "薛定谔 Erwin Schrödinger",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/薛定谔 Erwin Schrödinger",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/薛定谔 Erwin Schrödinger/薛定谔 Erwin Schrödinger_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "詹天佑 Zhan Tianyou",
+      "title": "詹天佑 Zhan Tianyou",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/詹天佑 Zhan Tianyou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/詹天佑 Zhan Tianyou/詹天佑 Zhan Tianyou_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "诸葛亮 Zhuge Liang",
+      "title": "诸葛亮 Zhuge Liang",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/诸葛亮 Zhuge Liang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/诸葛亮 Zhuge Liang/诸葛亮 Zhuge Liang_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "贝多芬 Ludwig van Beethoven",
+      "title": "贝多芬 Ludwig van Beethoven",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/贝多芬 Ludwig van Beethoven",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/贝多芬 Ludwig van Beethoven/贝多芬 Ludwig van Beethoven_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "辛弃疾 Xin Qiji",
+      "title": "辛弃疾 Xin Qiji",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/辛弃疾 Xin Qiji",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/辛弃疾 Xin Qiji/辛弃疾 Xin Qiji_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "达尔文 Charles Darwin",
+      "title": "达尔文 Charles Darwin",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/达尔文 Charles Darwin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/达尔文 Charles Darwin/达尔文 Charles Darwin_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "达芬奇 Leonardo da Vinci",
+      "title": "达芬奇 Leonardo da Vinci",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/达芬奇 Leonardo da Vinci",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/达芬奇 Leonardo da Vinci/达芬奇 Leonardo da Vinci_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "邓稼先 Deng Jiaxian",
+      "title": "邓稼先 Deng Jiaxian",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/邓稼先 Deng Jiaxian",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/邓稼先 Deng Jiaxian/邓稼先 Deng Jiaxian_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "郑和 Zheng He",
+      "title": "郑和 Zheng He",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/郑和 Zheng He",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/郑和 Zheng He/郑和 Zheng He_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "郑成功 Koxinga",
+      "title": "郑成功 Koxinga",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/郑成功 Koxinga",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/郑成功 Koxinga/郑成功 Koxinga_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鉴真 Jianzhen",
+      "title": "鉴真 Jianzhen",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/鉴真 Jianzhen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/鉴真 Jianzhen/鉴真 Jianzhen_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "钟南山 Zhong Nanshan",
+      "title": "钟南山 Zhong Nanshan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/钟南山 Zhong Nanshan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/钟南山 Zhong Nanshan/钟南山 Zhong Nanshan_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "钱学森 Qian Xuesen",
+      "title": "钱学森 Qian Xuesen",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/钱学森 Qian Xuesen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/钱学森 Qian Xuesen/钱学森 Qian Xuesen_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "钱钟书 Qian Zhongshu",
+      "title": "钱钟书 Qian Zhongshu",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/钱钟书 Qian Zhongshu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/钱钟书 Qian Zhongshu/钱钟书 Qian Zhongshu_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "阿基米德 Archimedes",
+      "title": "阿基米德 Archimedes",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/阿基米德 Archimedes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/阿基米德 Archimedes/阿基米德 Archimedes_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "陈景润 Chen Jingrun",
+      "title": "陈景润 Chen Jingrun",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/陈景润 Chen Jingrun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/陈景润 Chen Jingrun/陈景润 Chen Jingrun_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "霍金 Stephen Hawking",
+      "title": "霍金 Stephen Hawking",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/霍金 Stephen Hawking",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/霍金 Stephen Hawking/霍金 Stephen Hawking_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "马可·波罗 Marco Polo",
+      "title": "马可·波罗 Marco Polo",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/马可·波罗 Marco Polo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/马可·波罗 Marco Polo/马可·波罗 Marco Polo_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "高锟 Charles K. Kao",
+      "title": "高锟 Charles K. Kao",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/高锟 Charles K. Kao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/高锟 Charles K. Kao/高锟 Charles K. Kao_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "鲁迅 Lu Xun",
+      "title": "鲁迅 Lu Xun",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/鲁迅 Lu Xun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/鲁迅 Lu Xun/鲁迅 Lu Xun_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "麦克斯韦 James Clerk Maxwell",
+      "title": "麦克斯韦 James Clerk Maxwell",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/麦克斯韦 James Clerk Maxwell",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/麦克斯韦 James Clerk Maxwell/麦克斯韦 James Clerk Maxwell_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "麦哲伦 Ferdinand Magellan",
+      "title": "麦哲伦 Ferdinand Magellan",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/麦哲伦 Ferdinand Magellan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/麦哲伦 Ferdinand Magellan/麦哲伦 Ferdinand Magellan_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "齐白石 Qi Baishi",
+      "title": "齐白石 Qi Baishi",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/世界名人/双语歌曲/齐白石 Qi Baishi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/世界名人/双语歌曲/齐白石 Qi Baishi/齐白石 Qi Baishi_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/山海经/双语歌曲",
   "name": "双语歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/山海经/山海经.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/双语歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 203,
@@ -16,105 +16,165 @@
       "title": "䍺 Huan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/䍺 Huan"
+      "path": "瞎编的歌曲/山海经/双语歌曲/䍺 Huan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/䍺 Huan/䍺 Huan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "䑏疏 Huangshu",
       "title": "䑏疏 Huangshu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/䑏疏 Huangshu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/䑏疏 Huangshu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/䑏疏 Huangshu/䑏疏 Huangshu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "䟣踢 Chuti",
       "title": "䟣踢 Chuti",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/䟣踢 Chuti"
+      "path": "瞎编的歌曲/山海经/双语歌曲/䟣踢 Chuti",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/䟣踢 Chuti/䟣踢 Chuti_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "䱻父鱼 Huafu Fish",
       "title": "䱻父鱼 Huafu Fish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/䱻父鱼 Huafu Fish"
+      "path": "瞎编的歌曲/山海经/双语歌曲/䱻父鱼 Huafu Fish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/䱻父鱼 Huafu Fish/䱻父鱼 Huafu Fish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一目国 Yimu",
       "title": "一目国 Yimu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/一目国 Yimu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/一目国 Yimu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/一目国 Yimu/一目国 Yimu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一臂国 Yibi",
       "title": "一臂国 Yibi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/一臂国 Yibi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/一臂国 Yibi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/一臂国 Yibi/一臂国 Yibi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "丈夫国 Zhangfu",
       "title": "丈夫国 Zhangfu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/丈夫国 Zhangfu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/丈夫国 Zhangfu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/丈夫国 Zhangfu/丈夫国 Zhangfu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三苗国 Sanmiao",
       "title": "三苗国 Sanmiao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/三苗国 Sanmiao"
+      "path": "瞎编的歌曲/山海经/双语歌曲/三苗国 Sanmiao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/三苗国 Sanmiao/三苗国 Sanmiao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三身国 Sanshen",
       "title": "三身国 Sanshen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/三身国 Sanshen"
+      "path": "瞎编的歌曲/山海经/双语歌曲/三身国 Sanshen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/三身国 Sanshen/三身国 Sanshen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三青鸟 Three Blue Birds",
       "title": "三青鸟 Three Blue Birds",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/三青鸟 Three Blue Birds"
+      "path": "瞎编的歌曲/山海经/双语歌曲/三青鸟 Three Blue Birds",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/三青鸟 Three Blue Birds/三青鸟 Three Blue Birds_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三首国 Sanshou",
       "title": "三首国 Sanshou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/三首国 Sanshou"
+      "path": "瞎编的歌曲/山海经/双语歌曲/三首国 Sanshou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/三首国 Sanshou/三首国 Sanshou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不周山 Buzhou",
       "title": "不周山 Buzhou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/不周山 Buzhou"
+      "path": "瞎编的歌曲/山海经/双语歌曲/不周山 Buzhou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/不周山 Buzhou/不周山 Buzhou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不死国 Buchi",
       "title": "不死国 Buchi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/不死国 Buchi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/不死国 Buchi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/不死国 Buchi/不死国 Buchi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "丹穴山 Danxue",
       "title": "丹穴山 Danxue",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/丹穴山 Danxue"
+      "path": "瞎编的歌曲/山海经/双语歌曲/丹穴山 Danxue",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/丹穴山 Danxue/丹穴山 Danxue_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "九尾狐 Nine-Tailed Fox",
       "title": "九尾狐 Nine-Tailed Fox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/九尾狐 Nine-Tailed Fox"
+      "path": "瞎编的歌曲/山海经/双语歌曲/九尾狐 Nine-Tailed Fox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/九尾狐 Nine-Tailed Fox/九尾狐 Nine-Tailed Fox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "交胫国 Jiaojing",
@@ -128,14 +188,22 @@
       "title": "人鱼 Mermaid",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/人鱼 Mermaid"
+      "path": "瞎编的歌曲/山海经/双语歌曲/人鱼 Mermaid",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/人鱼 Mermaid/人鱼 Mermaid_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "何罗鱼 Heluo Fish",
       "title": "何罗鱼 Heluo Fish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/何罗鱼 Heluo Fish"
+      "path": "瞎编的歌曲/山海经/双语歌曲/何罗鱼 Heluo Fish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/何罗鱼 Heluo Fish/何罗鱼 Heluo Fish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "共工 Gonggong",
@@ -149,1288 +217,2024 @@
       "title": "凤皇 Phoenix",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/凤皇 Phoenix"
+      "path": "瞎编的歌曲/山海经/双语歌曲/凤皇 Phoenix",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/凤皇 Phoenix/凤皇 Phoenix_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "刑天 Xingtian",
       "title": "刑天 Xingtian",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/刑天 Xingtian"
+      "path": "瞎编的歌曲/山海经/双语歌曲/刑天 Xingtian",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/刑天 Xingtian/刑天 Xingtian_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "劳民国 Laomin",
       "title": "劳民国 Laomin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/劳民国 Laomin"
+      "path": "瞎编的歌曲/山海经/双语歌曲/劳民国 Laomin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/劳民国 Laomin/劳民国 Laomin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "化蛇 Huashe",
       "title": "化蛇 Huashe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/化蛇 Huashe"
+      "path": "瞎编的歌曲/山海经/双语歌曲/化蛇 Huashe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/化蛇 Huashe/化蛇 Huashe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "北齐国 Beiqi",
       "title": "北齐国 Beiqi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/北齐国 Beiqi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/北齐国 Beiqi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/北齐国 Beiqi/北齐国 Beiqi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "博父国 Bofu",
       "title": "博父国 Bofu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/博父国 Bofu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/博父国 Bofu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/博父国 Bofu/博父国 Bofu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "厌火国 Yanhuo",
       "title": "厌火国 Yanhuo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/厌火国 Yanhuo"
+      "path": "瞎编的歌曲/山海经/双语歌曲/厌火国 Yanhuo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/厌火国 Yanhuo/厌火国 Yanhuo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "双双 Shuangshuang",
       "title": "双双 Shuangshuang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/双双 Shuangshuang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/双双 Shuangshuang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/双双 Shuangshuang/双双 Shuangshuang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "叔歜国 Shuchu",
       "title": "叔歜国 Shuchu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/叔歜国 Shuchu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/叔歜国 Shuchu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/叔歜国 Shuchu/叔歜国 Shuchu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "句芒 Goumang",
       "title": "句芒 Goumang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/句芒 Goumang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/句芒 Goumang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/句芒 Goumang/句芒 Goumang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "合窳 Heyu",
       "title": "合窳 Heyu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/合窳 Heyu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/合窳 Heyu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/合窳 Heyu/合窳 Heyu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "后稷 Houji",
       "title": "后稷 Houji",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/后稷 Houji"
+      "path": "瞎编的歌曲/山海经/双语歌曲/后稷 Houji",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/后稷 Houji/后稷 Houji_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "君子国 Junzi",
       "title": "君子国 Junzi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/君子国 Junzi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/君子国 Junzi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/君子国 Junzi/君子国 Junzi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "周饶国 Zhourou",
       "title": "周饶国 Zhourou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/周饶国 Zhourou"
+      "path": "瞎编的歌曲/山海经/双语歌曲/周饶国 Zhourou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/周饶国 Zhourou/周饶国 Zhourou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "噎 Ye",
       "title": "噎 Ye",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/噎 Ye"
+      "path": "瞎编的歌曲/山海经/双语歌曲/噎 Ye",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/噎 Ye/噎 Ye_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "土蝼 Tulu",
       "title": "土蝼 Tulu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/土蝼 Tulu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/土蝼 Tulu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/土蝼 Tulu/土蝼 Tulu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "夏后启 Qi",
       "title": "夏后启 Qi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/夏后启 Qi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/夏后启 Qi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/夏后启 Qi/夏后启 Qi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "夔牛 Kui Ox",
       "title": "夔牛 Kui Ox",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/夔牛 Kui Ox"
+      "path": "瞎编的歌曲/山海经/双语歌曲/夔牛 Kui Ox",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/夔牛 Kui Ox/夔牛 Kui Ox_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大人国 Daren",
       "title": "大人国 Daren",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/大人国 Daren"
+      "path": "瞎编的歌曲/山海经/双语歌曲/大人国 Daren",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/大人国 Daren/大人国 Daren_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大禹 Yu",
       "title": "大禹 Yu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/大禹 Yu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/大禹 Yu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/大禹 Yu/大禹 Yu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大蟹 Great Crab",
       "title": "大蟹 Great Crab",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/大蟹 Great Crab"
+      "path": "瞎编的歌曲/山海经/双语歌曲/大蟹 Great Crab",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/大蟹 Great Crab/大蟹 Great Crab_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大鹗 Great Osprey",
       "title": "大鹗 Great Osprey",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/大鹗 Great Osprey"
+      "path": "瞎编的歌曲/山海经/双语歌曲/大鹗 Great Osprey",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/大鹗 Great Osprey/大鹗 Great Osprey_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "天毒 Tiandu",
       "title": "天毒 Tiandu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/天毒 Tiandu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/天毒 Tiandu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/天毒 Tiandu/天毒 Tiandu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "天狗 Celestial Dog",
       "title": "天狗 Celestial Dog",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/天狗 Celestial Dog"
+      "path": "瞎编的歌曲/山海经/双语歌曲/天狗 Celestial Dog",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/天狗 Celestial Dog/天狗 Celestial Dog_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "太子长琴 Taizi Changqin",
       "title": "太子长琴 Taizi Changqin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/太子长琴 Taizi Changqin"
+      "path": "瞎编的歌曲/山海经/双语歌曲/太子长琴 Taizi Changqin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/太子长琴 Taizi Changqin/太子长琴 Taizi Changqin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "夫诸 Fuzhu",
       "title": "夫诸 Fuzhu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/夫诸 Fuzhu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/夫诸 Fuzhu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/夫诸 Fuzhu/夫诸 Fuzhu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "夸父 Kuafu",
       "title": "夸父 Kuafu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/夸父 Kuafu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/夸父 Kuafu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/夸父 Kuafu/夸父 Kuafu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奇肱国 Qigong",
       "title": "奇肱国 Qigong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/奇肱国 Qigong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/奇肱国 Qigong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/奇肱国 Qigong/奇肱国 Qigong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奚仲 Xizhong",
       "title": "奚仲 Xizhong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/奚仲 Xizhong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/奚仲 Xizhong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/奚仲 Xizhong/奚仲 Xizhong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "女丑 Nuchou",
       "title": "女丑 Nuchou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/女丑 Nuchou"
+      "path": "瞎编的歌曲/山海经/双语歌曲/女丑 Nuchou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/女丑 Nuchou/女丑 Nuchou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "女娲 Nuwa",
       "title": "女娲 Nuwa",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/女娲 Nuwa"
+      "path": "瞎编的歌曲/山海经/双语歌曲/女娲 Nuwa",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/女娲 Nuwa/女娲 Nuwa_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "女子国 Nuzhi",
       "title": "女子国 Nuzhi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/女子国 Nuzhi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/女子国 Nuzhi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/女子国 Nuzhi/女子国 Nuzhi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孟极 Mengji",
       "title": "孟极 Mengji",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/孟极 Mengji"
+      "path": "瞎编的歌曲/山海经/双语歌曲/孟极 Mengji",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/孟极 Mengji/孟极 Mengji_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孟鸟 Mengbird",
       "title": "孟鸟 Mengbird",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/孟鸟 Mengbird"
+      "path": "瞎编的歌曲/山海经/双语歌曲/孟鸟 Mengbird",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/孟鸟 Mengbird/孟鸟 Mengbird_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孰湖 Shuhu",
       "title": "孰湖 Shuhu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/孰湖 Shuhu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/孰湖 Shuhu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/孰湖 Shuhu/孰湖 Shuhu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小人国 Xiaoren",
       "title": "小人国 Xiaoren",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/小人国 Xiaoren"
+      "path": "瞎编的歌曲/山海经/双语歌曲/小人国 Xiaoren",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/小人国 Xiaoren/小人国 Xiaoren_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "少昊 Shaohao",
       "title": "少昊 Shaohao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/少昊 Shaohao"
+      "path": "瞎编的歌曲/山海经/双语歌曲/少昊 Shaohao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/少昊 Shaohao/少昊 Shaohao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "屏蓬 Pinpeng",
       "title": "屏蓬 Pinpeng",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/屏蓬 Pinpeng"
+      "path": "瞎编的歌曲/山海经/双语歌曲/屏蓬 Pinpeng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/屏蓬 Pinpeng/屏蓬 Pinpeng_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "岐舌国 Qishe",
       "title": "岐舌国 Qishe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/岐舌国 Qishe"
+      "path": "瞎编的歌曲/山海经/双语歌曲/岐舌国 Qishe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/岐舌国 Qishe/岐舌国 Qishe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "峳峳 Youyou",
       "title": "峳峳 Youyou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/峳峳 Youyou"
+      "path": "瞎编的歌曲/山海经/双语歌曲/峳峳 Youyou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/峳峳 Youyou/峳峳 Youyou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巧倕 Qiaochui",
       "title": "巧倕 Qiaochui",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/巧倕 Qiaochui"
+      "path": "瞎编的歌曲/山海经/双语歌曲/巧倕 Qiaochui",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/巧倕 Qiaochui/巧倕 Qiaochui_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巫咸国 Wuxian",
       "title": "巫咸国 Wuxian",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/巫咸国 Wuxian"
+      "path": "瞎编的歌曲/山海经/双语歌曲/巫咸国 Wuxian",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/巫咸国 Wuxian/巫咸国 Wuxian_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巴国 Ba",
       "title": "巴国 Ba",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/巴国 Ba"
+      "path": "瞎编的歌曲/山海经/双语歌曲/巴国 Ba",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/巴国 Ba/巴国 Ba_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巴蛇 Bashe",
       "title": "巴蛇 Bashe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/巴蛇 Bashe"
+      "path": "瞎编的歌曲/山海经/双语歌曲/巴蛇 Bashe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/巴蛇 Bashe/巴蛇 Bashe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "师鱼 Shiyu",
       "title": "师鱼 Shiyu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/师鱼 Shiyu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/师鱼 Shiyu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/师鱼 Shiyu/师鱼 Shiyu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "帝丹朱 Danzhu",
       "title": "帝丹朱 Danzhu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/帝丹朱 Danzhu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/帝丹朱 Danzhu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/帝丹朱 Danzhu/帝丹朱 Danzhu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "帝俊 Di Jun",
       "title": "帝俊 Di Jun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/帝俊 Di Jun"
+      "path": "瞎编的歌曲/山海经/双语歌曲/帝俊 Di Jun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/帝俊 Di Jun/帝俊 Di Jun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "帝台 Ditai",
       "title": "帝台 Ditai",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/帝台 Ditai"
+      "path": "瞎编的歌曲/山海经/双语歌曲/帝台 Ditai",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/帝台 Ditai/帝台 Ditai_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "帝江 Hundun",
       "title": "帝江 Hundun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/帝江 Hundun"
+      "path": "瞎编的歌曲/山海经/双语歌曲/帝江 Hundun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/帝江 Hundun/帝江 Hundun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "幽鴳 Youyan",
       "title": "幽鴳 Youyan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/幽鴳 Youyan"
+      "path": "瞎编的歌曲/山海经/双语歌曲/幽鴳 Youyan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/幽鴳 Youyan/幽鴳 Youyan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "应龙 Yinglong",
       "title": "应龙 Yinglong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/应龙 Yinglong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/应龙 Yinglong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/应龙 Yinglong/应龙 Yinglong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "建木 Jianmu",
       "title": "建木 Jianmu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/建木 Jianmu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/建木 Jianmu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/建木 Jianmu/建木 Jianmu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "开明兽 Kaiming Beast",
       "title": "开明兽 Kaiming Beast",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/开明兽 Kaiming Beast"
+      "path": "瞎编的歌曲/山海经/双语歌曲/开明兽 Kaiming Beast",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/开明兽 Kaiming Beast/开明兽 Kaiming Beast_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "当康 Dangkang",
       "title": "当康 Dangkang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/当康 Dangkang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/当康 Dangkang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/当康 Dangkang/当康 Dangkang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "彘 Zhi",
       "title": "彘 Zhi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/彘 Zhi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/彘 Zhi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/彘 Zhi/彘 Zhi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "扶木 Fusang",
       "title": "扶木 Fusang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/扶木 Fusang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/扶木 Fusang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/扶木 Fusang/扶木 Fusang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拘缨国 Juying",
       "title": "拘缨国 Juying",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/拘缨国 Juying"
+      "path": "瞎编的歌曲/山海经/双语歌曲/拘缨国 Juying",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/拘缨国 Juying/拘缨国 Juying_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "文文 Wenwen",
       "title": "文文 Wenwen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/文文 Wenwen"
+      "path": "瞎编的歌曲/山海经/双语歌曲/文文 Wenwen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/文文 Wenwen/文文 Wenwen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "文鳐鱼 Wenyao Fish",
       "title": "文鳐鱼 Wenyao Fish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/文鳐鱼 Wenyao Fish"
+      "path": "瞎编的歌曲/山海经/双语歌曲/文鳐鱼 Wenyao Fish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/文鳐鱼 Wenyao Fish/文鳐鱼 Wenyao Fish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "旄马 Maoma",
       "title": "旄马 Maoma",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/旄马 Maoma"
+      "path": "瞎编的歌曲/山海经/双语歌曲/旄马 Maoma",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/旄马 Maoma/旄马 Maoma_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "无䏿国 Wuqi",
       "title": "无䏿国 Wuqi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/无䏿国 Wuqi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/无䏿国 Wuqi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/无䏿国 Wuqi/无䏿国 Wuqi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "无肠国 Wuchang",
       "title": "无肠国 Wuchang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/无肠国 Wuchang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/无肠国 Wuchang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/无肠国 Wuchang/无肠国 Wuchang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "昆仑虚 Kunlun",
       "title": "昆仑虚 Kunlun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/昆仑虚 Kunlun"
+      "path": "瞎编的歌曲/山海经/双语歌曲/昆仑虚 Kunlun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/昆仑虚 Kunlun/昆仑虚 Kunlun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "朝鲜 Chaoxian",
       "title": "朝鲜 Chaoxian",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/朝鲜 Chaoxian"
+      "path": "瞎编的歌曲/山海经/双语歌曲/朝鲜 Chaoxian",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/朝鲜 Chaoxian/朝鲜 Chaoxian_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "朱卷 Zhujuan",
       "title": "朱卷 Zhujuan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/朱卷 Zhujuan"
+      "path": "瞎编的歌曲/山海经/双语歌曲/朱卷 Zhujuan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/朱卷 Zhujuan/朱卷 Zhujuan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "朱獳 Zhunu",
       "title": "朱獳 Zhunu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/朱獳 Zhunu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/朱獳 Zhunu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/朱獳 Zhunu/朱獳 Zhunu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "柔利国 Rouli",
       "title": "柔利国 Rouli",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/柔利国 Rouli"
+      "path": "瞎编的歌曲/山海经/双语歌曲/柔利国 Rouli",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/柔利国 Rouli/柔利国 Rouli_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "槐江山 Huaijiang",
       "title": "槐江山 Huaijiang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/槐江山 Huaijiang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/槐江山 Huaijiang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/槐江山 Huaijiang/槐江山 Huaijiang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "武罗 Wuluo",
       "title": "武罗 Wuluo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/武罗 Wuluo"
+      "path": "瞎编的歌曲/山海经/双语歌曲/武罗 Wuluo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/武罗 Wuluo/武罗 Wuluo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "毕方 Bifang",
       "title": "毕方 Bifang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/毕方 Bifang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/毕方 Bifang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/毕方 Bifang/毕方 Bifang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "毛民 Maomin",
       "title": "毛民 Maomin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/毛民 Maomin"
+      "path": "瞎编的歌曲/山海经/双语歌曲/毛民 Maomin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/毛民 Maomin/毛民 Maomin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "水马 Shuima",
       "title": "水马 Shuima",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/水马 Shuima"
+      "path": "瞎编的歌曲/山海经/双语歌曲/水马 Shuima",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/水马 Shuima/水马 Shuima_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "沃野 Woye",
       "title": "沃野 Woye",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/沃野 Woye"
+      "path": "瞎编的歌曲/山海经/双语歌曲/沃野 Woye",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/沃野 Woye/沃野 Woye_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "泰逢 Taifeng",
       "title": "泰逢 Taifeng",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/泰逢 Taifeng"
+      "path": "瞎编的歌曲/山海经/双语歌曲/泰逢 Taifeng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/泰逢 Taifeng/泰逢 Taifeng_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "流波山 Liubo",
       "title": "流波山 Liubo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/流波山 Liubo"
+      "path": "瞎编的歌曲/山海经/双语歌曲/流波山 Liubo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/流波山 Liubo/流波山 Liubo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "流黄辛氏 Liuhuang",
       "title": "流黄辛氏 Liuhuang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/流黄辛氏 Liuhuang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/流黄辛氏 Liuhuang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/流黄辛氏 Liuhuang/流黄辛氏 Liuhuang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "深目国 Shenmu",
       "title": "深目国 Shenmu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/深目国 Shenmu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/深目国 Shenmu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/深目国 Shenmu/深目国 Shenmu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "灌灌 Guan Guan",
       "title": "灌灌 Guan Guan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/灌灌 Guan Guan"
+      "path": "瞎编的歌曲/山海经/双语歌曲/灌灌 Guan Guan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/灌灌 Guan Guan/灌灌 Guan Guan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "灵山 Lingshan",
       "title": "灵山 Lingshan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/灵山 Lingshan"
+      "path": "瞎编的歌曲/山海经/双语歌曲/灵山 Lingshan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/灵山 Lingshan/灵山 Lingshan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "烛龙 Zhulong",
       "title": "烛龙 Zhulong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/烛龙 Zhulong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/烛龙 Zhulong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/烛龙 Zhulong/烛龙 Zhulong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "熏池 Xunchi",
       "title": "熏池 Xunchi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/熏池 Xunchi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/熏池 Xunchi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/熏池 Xunchi/熏池 Xunchi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "犀渠 Xiqu",
       "title": "犀渠 Xiqu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/犀渠 Xiqu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/犀渠 Xiqu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/犀渠 Xiqu/犀渠 Xiqu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "犬戎国 Quanrong",
       "title": "犬戎国 Quanrong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/犬戎国 Quanrong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/犬戎国 Quanrong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/犬戎国 Quanrong/犬戎国 Quanrong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "犰狳 Qiuyu",
       "title": "犰狳 Qiuyu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/犰狳 Qiuyu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/犰狳 Qiuyu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/犰狳 Qiuyu/犰狳 Qiuyu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狌狌 Xingxing",
       "title": "狌狌 Xingxing",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/狌狌 Xingxing"
+      "path": "瞎编的歌曲/山海经/双语歌曲/狌狌 Xingxing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/狌狌 Xingxing/狌狌 Xingxing_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狍鸮 Taotie",
       "title": "狍鸮 Taotie",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/狍鸮 Taotie"
+      "path": "瞎编的歌曲/山海经/双语歌曲/狍鸮 Taotie",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/狍鸮 Taotie/狍鸮 Taotie_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狙如 Juru",
       "title": "狙如 Juru",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/狙如 Juru"
+      "path": "瞎编的歌曲/山海经/双语歌曲/狙如 Juru",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/狙如 Juru/狙如 Juru_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "独㺍 Dubian",
       "title": "独㺍 Dubian",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/独㺍 Dubian"
+      "path": "瞎编的歌曲/山海经/双语歌曲/独㺍 Dubian",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/独㺍 Dubian/独㺍 Dubian_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狰 Zheng",
       "title": "狰 Zheng",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/狰 Zheng"
+      "path": "瞎编的歌曲/山海经/双语歌曲/狰 Zheng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/狰 Zheng/狰 Zheng_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猩猩 Xingxing",
       "title": "猩猩 Xingxing",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/猩猩 Xingxing"
+      "path": "瞎编的歌曲/山海经/双语歌曲/猩猩 Xingxing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/猩猩 Xingxing/猩猩 Xingxing_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猲狙 Heju",
       "title": "猲狙 Heju",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/猲狙 Heju"
+      "path": "瞎编的歌曲/山海经/双语歌曲/猲狙 Heju",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/猲狙 Heju/猲狙 Heju_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猼訑 Boyi",
       "title": "猼訑 Boyi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/猼訑 Boyi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/猼訑 Boyi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/猼訑 Boyi/猼訑 Boyi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "猾褢 Huahuai",
       "title": "猾褢 Huahuai",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/猾褢 Huahuai"
+      "path": "瞎编的歌曲/山海经/双语歌曲/猾褢 Huahuai",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/猾褢 Huahuai/猾褢 Huahuai_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "獙獙 Bibi",
       "title": "獙獙 Bibi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/獙獙 Bibi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/獙獙 Bibi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/獙獙 Bibi/獙獙 Bibi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "獜 Lin",
       "title": "獜 Lin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/獜 Lin"
+      "path": "瞎编的歌曲/山海经/双语歌曲/獜 Lin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/獜 Lin/獜 Lin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玄股国 Xuangu",
       "title": "玄股国 Xuangu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/玄股国 Xuangu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/玄股国 Xuangu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/玄股国 Xuangu/玄股国 Xuangu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玉山 Yushan",
       "title": "玉山 Yushan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/玉山 Yushan"
+      "path": "瞎编的歌曲/山海经/双语歌曲/玉山 Yushan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/玉山 Yushan/玉山 Yushan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "琴虫 Qinchong",
       "title": "琴虫 Qinchong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/琴虫 Qinchong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/琴虫 Qinchong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/琴虫 Qinchong/琴虫 Qinchong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "登葆山 Dengbao",
       "title": "登葆山 Dengbao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/登葆山 Dengbao"
+      "path": "瞎编的歌曲/山海经/双语歌曲/登葆山 Dengbao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/登葆山 Dengbao/登葆山 Dengbao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白民国 Baimin",
       "title": "白民国 Baimin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/白民国 Baimin"
+      "path": "瞎编的歌曲/山海经/双语歌曲/白民国 Baimin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/白民国 Baimin/白民国 Baimin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白鵺 Baiye",
       "title": "白鵺 Baiye",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/白鵺 Baiye"
+      "path": "瞎编的歌曲/山海经/双语歌曲/白鵺 Baiye",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/白鵺 Baiye/白鵺 Baiye_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "盐长国 Yanchang",
       "title": "盐长国 Yanchang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/盐长国 Yanchang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/盐长国 Yanchang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/盐长国 Yanchang/盐长国 Yanchang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "相柳 Xiangliu",
       "title": "相柳 Xiangliu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/相柳 Xiangliu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/相柳 Xiangliu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/相柳 Xiangliu/相柳 Xiangliu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "瞿如 Quru",
       "title": "瞿如 Quru",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/瞿如 Quru"
+      "path": "瞎编的歌曲/山海经/双语歌曲/瞿如 Quru",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/瞿如 Quru/瞿如 Quru_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "祝融 Zhurong",
       "title": "祝融 Zhurong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/祝融 Zhurong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/祝融 Zhurong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/祝融 Zhurong/祝融 Zhurong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "禺彊 Yuqiang",
       "title": "禺彊 Yuqiang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/禺彊 Yuqiang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/禺彊 Yuqiang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/禺彊 Yuqiang/禺彊 Yuqiang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "穷奇 Qiongqi",
       "title": "穷奇 Qiongqi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/穷奇 Qiongqi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/穷奇 Qiongqi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/穷奇 Qiongqi/穷奇 Qiongqi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "窫窳 Yayu",
       "title": "窫窳 Yayu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/窫窳 Yayu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/窫窳 Yayu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/窫窳 Yayu/窫窳 Yayu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "章尾山 Zhangwei",
       "title": "章尾山 Zhangwei",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/章尾山 Zhangwei"
+      "path": "瞎编的歌曲/山海经/双语歌曲/章尾山 Zhangwei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/章尾山 Zhangwei/章尾山 Zhangwei_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "竦斯 Songsi",
       "title": "竦斯 Songsi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/竦斯 Songsi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/竦斯 Songsi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/竦斯 Songsi/竦斯 Songsi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "类 Li",
       "title": "类 Li",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/类 Li"
+      "path": "瞎编的歌曲/山海经/双语歌曲/类 Li",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/类 Li/类 Li_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "精卫 Jingwei",
       "title": "精卫 Jingwei",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/精卫 Jingwei"
+      "path": "瞎编的歌曲/山海经/双语歌曲/精卫 Jingwei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/精卫 Jingwei/精卫 Jingwei_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "絜钩 Xiehou",
       "title": "絜钩 Xiehou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/絜钩 Xiehou"
+      "path": "瞎编的歌曲/山海经/双语歌曲/絜钩 Xiehou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/絜钩 Xiehou/絜钩 Xiehou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红光 God Hongguang",
       "title": "红光 God Hongguang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/红光 God Hongguang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/红光 God Hongguang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/红光 God Hongguang/红光 God Hongguang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "结匈国 Jiexiong",
       "title": "结匈国 Jiexiong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/结匈国 Jiexiong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/结匈国 Jiexiong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/结匈国 Jiexiong/结匈国 Jiexiong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "羬羊 Qianyang",
       "title": "羬羊 Qianyang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/羬羊 Qianyang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/羬羊 Qianyang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/羬羊 Qianyang/羬羊 Qianyang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "羽民国 Yumin",
       "title": "羽民国 Yumin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/羽民国 Yumin"
+      "path": "瞎编的歌曲/山海经/双语歌曲/羽民国 Yumin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/羽民国 Yumin/羽民国 Yumin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "聂耳国 Nieer",
       "title": "聂耳国 Nieer",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/聂耳国 Nieer"
+      "path": "瞎编的歌曲/山海经/双语歌曲/聂耳国 Nieer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/聂耳国 Nieer/聂耳国 Nieer_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "肃慎国 Sushen",
       "title": "肃慎国 Sushen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/肃慎国 Sushen"
+      "path": "瞎编的歌曲/山海经/双语歌曲/肃慎国 Sushen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/肃慎国 Sushen/肃慎国 Sushen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "肥遗 Feiyi",
       "title": "肥遗 Feiyi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/肥遗 Feiyi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/肥遗 Feiyi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/肥遗 Feiyi/肥遗 Feiyi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "肥遗蛇 Feiyi Serpent",
       "title": "肥遗蛇 Feiyi Serpent",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/肥遗蛇 Feiyi Serpent"
+      "path": "瞎编的歌曲/山海经/双语歌曲/肥遗蛇 Feiyi Serpent",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/肥遗蛇 Feiyi Serpent/肥遗蛇 Feiyi Serpent_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "脩辟鱼 Xiupi Fish",
       "title": "脩辟鱼 Xiupi Fish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/脩辟鱼 Xiupi Fish"
+      "path": "瞎编的歌曲/山海经/双语歌曲/脩辟鱼 Xiupi Fish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/脩辟鱼 Xiupi Fish/脩辟鱼 Xiupi Fish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "臷国 Die",
       "title": "臷国 Die",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/臷国 Die"
+      "path": "瞎编的歌曲/山海经/双语歌曲/臷国 Die",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/臷国 Die/臷国 Die_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "苗民 Miaomin",
       "title": "苗民 Miaomin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/苗民 Miaomin"
+      "path": "瞎编的歌曲/山海经/双语歌曲/苗民 Miaomin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/苗民 Miaomin/苗民 Miaomin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "若木 Ruomu",
       "title": "若木 Ruomu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/若木 Ruomu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/若木 Ruomu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/若木 Ruomu/若木 Ruomu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "英招 Yingshao",
       "title": "英招 Yingshao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/英招 Yingshao"
+      "path": "瞎编的歌曲/山海经/双语歌曲/英招 Yingshao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/英招 Yingshao/英招 Yingshao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "葱聋 Conglong",
       "title": "葱聋 Conglong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/葱聋 Conglong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/葱聋 Conglong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/葱聋 Conglong/葱聋 Conglong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蓐收 Rushou",
       "title": "蓐收 Rushou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/蓐收 Rushou"
+      "path": "瞎编的歌曲/山海经/双语歌曲/蓐收 Rushou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/蓐收 Rushou/蓐收 Rushou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蓬莱山 Penglai",
       "title": "蓬莱山 Penglai",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/蓬莱山 Penglai"
+      "path": "瞎编的歌曲/山海经/双语歌曲/蓬莱山 Penglai",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/蓬莱山 Penglai/蓬莱山 Penglai_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "虎蛟 Tiger Jiao",
       "title": "虎蛟 Tiger Jiao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/虎蛟 Tiger Jiao"
+      "path": "瞎编的歌曲/山海经/双语歌曲/虎蛟 Tiger Jiao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/虎蛟 Tiger Jiao/虎蛟 Tiger Jiao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蚩尤 Chiyou",
       "title": "蚩尤 Chiyou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/蚩尤 Chiyou"
+      "path": "瞎编的歌曲/山海经/双语歌曲/蚩尤 Chiyou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/蚩尤 Chiyou/蚩尤 Chiyou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蛊雕 Gudiao",
       "title": "蛊雕 Gudiao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/蛊雕 Gudiao"
+      "path": "瞎编的歌曲/山海经/双语歌曲/蛊雕 Gudiao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/蛊雕 Gudiao/蛊雕 Gudiao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蛮蛮 Bi-winged Bird",
       "title": "蛮蛮 Bi-winged Bird",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/蛮蛮 Bi-winged Bird"
+      "path": "瞎编的歌曲/山海经/双语歌曲/蛮蛮 Bi-winged Bird",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/蛮蛮 Bi-winged Bird/蛮蛮 Bi-winged Bird_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蜚 Fei",
       "title": "蜚 Fei",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/蜚 Fei"
+      "path": "瞎编的歌曲/山海经/双语歌曲/蜚 Fei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/蜚 Fei/蜚 Fei_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蜚蛭 Feizhi",
       "title": "蜚蛭 Feizhi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/蜚蛭 Feizhi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/蜚蛭 Feizhi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/蜚蛭 Feizhi/蜚蛭 Feizhi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蜮民 Yumin",
       "title": "蜮民 Yumin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/蜮民 Yumin"
+      "path": "瞎编的歌曲/山海经/双语歌曲/蜮民 Yumin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/蜮民 Yumin/蜮民 Yumin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蝡蛇 Ruanshe",
       "title": "蝡蛇 Ruanshe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/蝡蛇 Ruanshe"
+      "path": "瞎编的歌曲/山海经/双语歌曲/蝡蛇 Ruanshe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/蝡蛇 Ruanshe/蝡蛇 Ruanshe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蟠蜚 Panfei",
       "title": "蟠蜚 Panfei",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/蟠蜚 Panfei"
+      "path": "瞎编的歌曲/山海经/双语歌曲/蟠蜚 Panfei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/蟠蜚 Panfei/蟠蜚 Panfei_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "西王母 Queen Mother of the West",
       "title": "西王母 Queen Mother of the West",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/西王母 Queen Mother of the West"
+      "path": "瞎编的歌曲/山海经/双语歌曲/西王母 Queen Mother of the West",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/西王母 Queen Mother of the West/西王母 Queen Mother of the West_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "讙 Huan Beast",
       "title": "讙 Huan Beast",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/讙 Huan Beast"
+      "path": "瞎编的歌曲/山海经/双语歌曲/讙 Huan Beast",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/讙 Huan Beast/讙 Huan Beast_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "讙头国 Huantou",
       "title": "讙头国 Huantou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/讙头国 Huantou"
+      "path": "瞎编的歌曲/山海经/双语歌曲/讙头国 Huantou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/讙头国 Huantou/讙头国 Huantou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "计蒙 Jimeng",
       "title": "计蒙 Jimeng",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/计蒙 Jimeng"
+      "path": "瞎编的歌曲/山海经/双语歌曲/计蒙 Jimeng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/计蒙 Jimeng/计蒙 Jimeng_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "诸夭之野 Zhuyao",
       "title": "诸夭之野 Zhuyao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/诸夭之野 Zhuyao"
+      "path": "瞎编的歌曲/山海经/双语歌曲/诸夭之野 Zhuyao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/诸夭之野 Zhuyao/诸夭之野 Zhuyao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "诸怀 Zhuhuai",
       "title": "诸怀 Zhuhuai",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/诸怀 Zhuhuai"
+      "path": "瞎编的歌曲/山海经/双语歌曲/诸怀 Zhuhuai",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/诸怀 Zhuhuai/诸怀 Zhuhuai_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "豪彘 Haozhi",
       "title": "豪彘 Haozhi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/豪彘 Haozhi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/豪彘 Haozhi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/豪彘 Haozhi/豪彘 Haozhi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "贯匈国 Guanxiong",
       "title": "贯匈国 Guanxiong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/贯匈国 Guanxiong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/贯匈国 Guanxiong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/贯匈国 Guanxiong/贯匈国 Guanxiong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "赣巨人 Gan Giant",
       "title": "赣巨人 Gan Giant",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/赣巨人 Gan Giant"
+      "path": "瞎编的歌曲/山海经/双语歌曲/赣巨人 Gan Giant",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/赣巨人 Gan Giant/赣巨人 Gan Giant_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "赤鱬 Red Ru Fish",
       "title": "赤鱬 Red Ru Fish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/赤鱬 Red Ru Fish"
+      "path": "瞎编的歌曲/山海经/双语歌曲/赤鱬 Red Ru Fish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/赤鱬 Red Ru Fish/赤鱬 Red Ru Fish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "跂踵国 Qizhong",
       "title": "跂踵国 Qizhong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/跂踵国 Qizhong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/跂踵国 Qizhong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/跂踵国 Qizhong/跂踵国 Qizhong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "轩辕之丘 Xuanyuan Qiu",
       "title": "轩辕之丘 Xuanyuan Qiu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/轩辕之丘 Xuanyuan Qiu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/轩辕之丘 Xuanyuan Qiu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/轩辕之丘 Xuanyuan Qiu/轩辕之丘 Xuanyuan Qiu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "轩辕国 Xuanyuan",
       "title": "轩辕国 Xuanyuan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/轩辕国 Xuanyuan"
+      "path": "瞎编的歌曲/山海经/双语歌曲/轩辕国 Xuanyuan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/轩辕国 Xuanyuan/轩辕国 Xuanyuan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "都广之野 Duguang",
       "title": "都广之野 Duguang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/都广之野 Duguang"
+      "path": "瞎编的歌曲/山海经/双语歌曲/都广之野 Duguang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/都广之野 Duguang/都广之野 Duguang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "钉灵国 Dingling",
       "title": "钉灵国 Dingling",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/钉灵国 Dingling"
+      "path": "瞎编的歌曲/山海经/双语歌曲/钉灵国 Dingling",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/钉灵国 Dingling/钉灵国 Dingling_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "钟山 Zhongshan",
       "title": "钟山 Zhongshan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/钟山 Zhongshan"
+      "path": "瞎编的歌曲/山海经/双语歌曲/钟山 Zhongshan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/钟山 Zhongshan/钟山 Zhongshan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "钦原 Qinyuan",
       "title": "钦原 Qinyuan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/钦原 Qinyuan"
+      "path": "瞎编的歌曲/山海经/双语歌曲/钦原 Qinyuan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/钦原 Qinyuan/钦原 Qinyuan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "长乘 Changcheng",
       "title": "长乘 Changcheng",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/长乘 Changcheng"
+      "path": "瞎编的歌曲/山海经/双语歌曲/长乘 Changcheng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/长乘 Changcheng/长乘 Changcheng_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "长右 Changyou",
       "title": "长右 Changyou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/长右 Changyou"
+      "path": "瞎编的歌曲/山海经/双语歌曲/长右 Changyou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/长右 Changyou/长右 Changyou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "长股国 Changgu",
       "title": "长股国 Changgu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/长股国 Changgu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/长股国 Changgu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/长股国 Changgu/长股国 Changgu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "长臂国 Changbi",
       "title": "长臂国 Changbi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/长臂国 Changbi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/长臂国 Changbi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/长臂国 Changbi/长臂国 Changbi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "闻獜 Wenlin",
       "title": "闻獜 Wenlin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/闻獜 Wenlin"
+      "path": "瞎编的歌曲/山海经/双语歌曲/闻獜 Wenlin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/闻獜 Wenlin/闻獜 Wenlin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "陵鱼 Lingyu",
       "title": "陵鱼 Lingyu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/陵鱼 Lingyu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/陵鱼 Lingyu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/陵鱼 Lingyu/陵鱼 Lingyu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "雨师妾 Yushi",
       "title": "雨师妾 Yushi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/雨师妾 Yushi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/雨师妾 Yushi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/雨师妾 Yushi/雨师妾 Yushi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青丘国 Qingqiu",
       "title": "青丘国 Qingqiu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/青丘国 Qingqiu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/青丘国 Qingqiu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/青丘国 Qingqiu/青丘国 Qingqiu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青要山 Qingyao",
       "title": "青要山 Qingyao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/青要山 Qingyao"
+      "path": "瞎编的歌曲/山海经/双语歌曲/青要山 Qingyao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/青要山 Qingyao/青要山 Qingyao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青鴍 Qingweng",
       "title": "青鴍 Qingweng",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/青鴍 Qingweng"
+      "path": "瞎编的歌曲/山海经/双语歌曲/青鴍 Qingweng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/青鴍 Qingweng/青鴍 Qingweng_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "颉 Xie",
       "title": "颉 Xie",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/颉 Xie"
+      "path": "瞎编的歌曲/山海经/双语歌曲/颉 Xie",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/颉 Xie/颉 Xie_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "颙 Yong",
       "title": "颙 Yong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/颙 Yong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/颙 Yong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/颙 Yong/颙 Yong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "颛顼 Zhuanxu",
       "title": "颛顼 Zhuanxu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/颛顼 Zhuanxu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/颛顼 Zhuanxu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/颛顼 Zhuanxu/颛顼 Zhuanxu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "飞鱼 Flying Fish",
       "title": "飞鱼 Flying Fish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/飞鱼 Flying Fish"
+      "path": "瞎编的歌曲/山海经/双语歌曲/飞鱼 Flying Fish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/飞鱼 Flying Fish/飞鱼 Flying Fish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "马腹 Mafu",
       "title": "马腹 Mafu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/马腹 Mafu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/马腹 Mafu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/马腹 Mafu/马腹 Mafu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "骄虫 Jiaochong",
       "title": "骄虫 Jiaochong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/骄虫 Jiaochong"
+      "path": "瞎编的歌曲/山海经/双语歌曲/骄虫 Jiaochong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/骄虫 Jiaochong/骄虫 Jiaochong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鬿雀 Qique",
       "title": "鬿雀 Qique",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鬿雀 Qique"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鬿雀 Qique",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鬿雀 Qique/鬿雀 Qique_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鯈鱼 Tiaoyu",
       "title": "鯈鱼 Tiaoyu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鯈鱼 Tiaoyu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鯈鱼 Tiaoyu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鯈鱼 Tiaoyu/鯈鱼 Tiaoyu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鯥 Lu",
       "title": "鯥 Lu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鯥 Lu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鯥 Lu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鯥 Lu/鯥 Lu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鲧 Gun",
       "title": "鲧 Gun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鲧 Gun"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鲧 Gun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鲧 Gun/鲧 Gun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鵸鵌 Qitu",
       "title": "鵸鵌 Qitu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鵸鵌 Qitu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鵸鵌 Qitu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鵸鵌 Qitu/鵸鵌 Qitu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鵹鹕 Lihu",
       "title": "鵹鹕 Lihu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鵹鹕 Lihu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鵹鹕 Lihu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鵹鹕 Lihu/鵹鹕 Lihu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鸣蛇 Mingshe",
       "title": "鸣蛇 Mingshe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鸣蛇 Mingshe"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鸣蛇 Mingshe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鸣蛇 Mingshe/鸣蛇 Mingshe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鸰䳩 Lingyao",
       "title": "鸰䳩 Lingyao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鸰䳩 Lingyao"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鸰䳩 Lingyao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鸰䳩 Lingyao/鸰䳩 Lingyao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鸾鸟 Luan Bird",
       "title": "鸾鸟 Luan Bird",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鸾鸟 Luan Bird"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鸾鸟 Luan Bird",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鸾鸟 Luan Bird/鸾鸟 Luan Bird_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹑鸟 Chun Bird",
       "title": "鹑鸟 Chun Bird",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鹑鸟 Chun Bird"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鹑鸟 Chun Bird",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鹑鸟 Chun Bird/鹑鸟 Chun Bird_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鹿蜀 Lushu",
       "title": "鹿蜀 Lushu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/鹿蜀 Lushu"
+      "path": "瞎编的歌曲/山海经/双语歌曲/鹿蜀 Lushu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/鹿蜀 Lushu/鹿蜀 Lushu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黄帝 Yellow Emperor",
       "title": "黄帝 Yellow Emperor",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/黄帝 Yellow Emperor"
+      "path": "瞎编的歌曲/山海经/双语歌曲/黄帝 Yellow Emperor",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/黄帝 Yellow Emperor/黄帝 Yellow Emperor_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黑齿国 Heichi",
       "title": "黑齿国 Heichi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/山海经/双语歌曲/黑齿国 Heichi"
+      "path": "瞎编的歌曲/山海经/双语歌曲/黑齿国 Heichi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/山海经/双语歌曲/黑齿国 Heichi/黑齿国 Heichi_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

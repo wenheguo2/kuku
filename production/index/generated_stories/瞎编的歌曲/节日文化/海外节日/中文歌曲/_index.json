@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/节日文化.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 49,
@@ -16,343 +16,539 @@
       "title": "中文-万圣节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-万圣节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-万圣节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-万圣节/中文-万圣节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-世界环境日",
       "title": "中文-世界环境日",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-世界环境日"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-世界环境日",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-世界环境日/中文-世界环境日_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-中秋节",
       "title": "中文-中秋节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-中秋节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-中秋节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-中秋节/中文-中秋节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-丰收节",
       "title": "中文-丰收节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-丰收节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-丰收节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-丰收节/中文-丰收节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-亡灵节",
       "title": "中文-亡灵节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-亡灵节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-亡灵节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-亡灵节/中文-亡灵节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-仲夏节",
       "title": "中文-仲夏节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-仲夏节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-仲夏节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-仲夏节/中文-仲夏节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-儿童节",
       "title": "中文-儿童节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-儿童节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-儿童节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-儿童节/中文-儿童节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-光明节",
       "title": "中文-光明节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-光明节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-光明节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-光明节/中文-光明节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-劳动节",
       "title": "中文-劳动节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-劳动节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-劳动节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-劳动节/中文-劳动节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-印度洒红节",
       "title": "中文-印度洒红节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-印度洒红节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-印度洒红节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-印度洒红节/中文-印度洒红节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-啤酒节",
       "title": "中文-啤酒节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-啤酒节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-啤酒节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-啤酒节/中文-啤酒节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-国际妇女节",
       "title": "中文-国际妇女节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-国际妇女节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-国际妇女节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-国际妇女节/中文-国际妇女节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-圣尼古拉斯节",
       "title": "中文-圣尼古拉斯节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-圣尼古拉斯节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-圣尼古拉斯节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-圣尼古拉斯节/中文-圣尼古拉斯节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-圣帕特里克节",
       "title": "中文-圣帕特里克节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-圣帕特里克节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-圣帕特里克节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-圣帕特里克节/中文-圣帕特里克节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-圣诞节",
       "title": "中文-圣诞节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-圣诞节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-圣诞节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-圣诞节/中文-圣诞节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-地球日",
       "title": "中文-地球日",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-地球日"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-地球日",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-地球日/中文-地球日_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-复活节",
       "title": "中文-复活节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-复活节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-复活节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-复活节/中文-复活节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-奔牛节",
       "title": "中文-奔牛节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-奔牛节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-奔牛节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-奔牛节/中文-奔牛节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-威尼斯面具节",
       "title": "中文-威尼斯面具节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-威尼斯面具节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-威尼斯面具节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-威尼斯面具节/中文-威尼斯面具节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-宽扎节",
       "title": "中文-宽扎节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-宽扎节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-宽扎节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-宽扎节/中文-宽扎节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-巴士底日",
       "title": "中文-巴士底日",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-巴士底日"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-巴士底日",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-巴士底日/中文-巴士底日_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-巴西狂欢节",
       "title": "中文-巴西狂欢节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-巴西狂欢节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-巴西狂欢节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-巴西狂欢节/中文-巴西狂欢节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-开斋节",
       "title": "中文-开斋节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-开斋节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-开斋节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-开斋节/中文-开斋节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-情人节",
       "title": "中文-情人节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-情人节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-情人节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-情人节/中文-情人节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-愚人节",
       "title": "中文-愚人节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-愚人节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-愚人节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-愚人节/中文-愚人节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-感恩节",
       "title": "中文-感恩节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-感恩节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-感恩节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-感恩节/中文-感恩节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-排灯节",
       "title": "中文-排灯节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-排灯节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-排灯节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-排灯节/中文-排灯节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-教师节",
       "title": "中文-教师节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-教师节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-教师节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-教师节/中文-教师节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-新年",
       "title": "中文-新年",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-新年"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-新年",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-新年/中文-新年_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-日本儿童节",
       "title": "中文-日本儿童节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-日本儿童节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-日本儿童节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-日本儿童节/中文-日本儿童节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-日本成人式",
       "title": "中文-日本成人式",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-日本成人式"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-日本成人式",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-日本成人式/中文-日本成人式_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-春节",
       "title": "中文-春节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-春节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-春节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-春节/中文-春节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-枫糖节",
       "title": "中文-枫糖节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-枫糖节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-枫糖节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-枫糖节/中文-枫糖节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-植树节",
       "title": "中文-植树节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-植树节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-植树节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-植树节/中文-植树节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-樱花节",
       "title": "中文-樱花节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-樱花节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-樱花节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-樱花节/中文-樱花节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-母亲节",
       "title": "中文-母亲节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-母亲节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-母亲节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-母亲节/中文-母亲节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-泰国水灯节",
       "title": "中文-泰国水灯节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-泰国水灯节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-泰国水灯节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-泰国水灯节/中文-泰国水灯节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-泼水节",
       "title": "中文-泼水节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-泼水节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-泼水节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-泼水节/中文-泼水节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-父亲节",
       "title": "中文-父亲节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-父亲节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-父亲节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-父亲节/中文-父亲节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-狂欢节",
       "title": "中文-狂欢节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-狂欢节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-狂欢节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-狂欢节/中文-狂欢节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-独立日",
       "title": "中文-独立日",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-独立日"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-独立日",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-独立日/中文-独立日_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-瑞典露西亚节",
       "title": "中文-瑞典露西亚节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-瑞典露西亚节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-瑞典露西亚节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-瑞典露西亚节/中文-瑞典露西亚节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-番茄节",
       "title": "中文-番茄节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-番茄节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-番茄节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-番茄节/中文-番茄节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-端午节",
       "title": "中文-端午节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-端午节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-端午节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-端午节/中文-端午节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-篝火之夜",
       "title": "中文-篝火之夜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-篝火之夜"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-篝火之夜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-篝火之夜/中文-篝火之夜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-美国国旗日",
       "title": "中文-美国国旗日",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-美国国旗日"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-美国国旗日",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-美国国旗日/中文-美国国旗日_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-诺鲁孜节",
       "title": "中文-诺鲁孜节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-诺鲁孜节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-诺鲁孜节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-诺鲁孜节/中文-诺鲁孜节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-逾越节",
       "title": "中文-逾越节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-逾越节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-逾越节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-逾越节/中文-逾越节_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中文-魁北克冬季狂欢节",
       "title": "中文-魁北克冬季狂欢节",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-魁北克冬季狂欢节"
+      "path": "瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-魁北克冬季狂欢节",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/节日文化/海外节日/中文歌曲/中文-魁北克冬季狂欢节/中文-魁北克冬季狂欢节_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

@@ -62,7 +62,7 @@ export default function History() {
   return (
     <View className={`page-container ${night}`}>
       <View className="row" style={{ margin: '8px 4px 16px' }}>
-        <Text className="flex-1" style={{ fontSize: '40px', fontWeight: 'bold' }}>🕒 播放历史</Text>
+        <Text className="flex-1" style={{ fontSize: '40px', fontWeight: 'bold', color: 'var(--color-text)' }}>🕒 播放历史</Text>
         {list.length > 0 && <Text className="chip" style={{ color: '#E4572E', borderColor: '#F3C6BC' }} onClick={clear}>🗑 清空</Text>}
       </View>
       <StateView loading={loading} error={error} empty={list.length === 0}

@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 47,
+  "entries": [
+    {
+      "entry_id": "中文-七擒孟获",
+      "title": "中文-七擒孟获",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-七擒孟获",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-七擒孟获/中文-七擒孟获_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-三家分晋",
+      "title": "中文-三家分晋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-三家分晋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-三家分晋/中文-三家分晋_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-上海世博会",
+      "title": "中文-上海世博会",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-上海世博会",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-上海世博会/中文-上海世博会_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-义和团运动",
+      "title": "中文-义和团运动",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-义和团运动",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-义和团运动/中文-义和团运动_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-二里头文化",
+      "title": "中文-二里头文化",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-二里头文化",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-二里头文化/中文-二里头文化_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-于谦保卫北京",
+      "title": "中文-于谦保卫北京",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-于谦保卫北京",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-于谦保卫北京/中文-于谦保卫北京_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-侯景之乱",
+      "title": "中文-侯景之乱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-侯景之乱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-侯景之乱/中文-侯景之乱_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-光武中兴",
+      "title": "中文-光武中兴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-光武中兴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-光武中兴/中文-光武中兴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-南明抗清",
+      "title": "中文-南明抗清",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-南明抗清",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-南明抗清/中文-南明抗清_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-司马氏篡魏",
+      "title": "中文-司马氏篡魏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-司马氏篡魏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-司马氏篡魏/中文-司马氏篡魏_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-商鞅变法",
+      "title": "中文-商鞅变法",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-商鞅变法",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-商鞅变法/中文-商鞅变法_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-土木之变",
+      "title": "中文-土木之变",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-土木之变",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-土木之变/中文-土木之变_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-夷陵之战",
+      "title": "中文-夷陵之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-夷陵之战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-夷陵之战/中文-夷陵之战_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-宋江起义",
+      "title": "中文-宋江起义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-宋江起义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-宋江起义/中文-宋江起义_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-官渡之战",
+      "title": "中文-官渡之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-官渡之战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-官渡之战/中文-官渡之战_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-平定准噶尔",
+      "title": "中文-平定准噶尔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-平定准噶尔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-平定准噶尔/中文-平定准噶尔_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-开皇之治",
+      "title": "中文-开皇之治",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-开皇之治",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-开皇之治/中文-开皇之治_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张衡地动仪",
+      "title": "中文-张衡地动仪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-张衡地动仪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-张衡地动仪/中文-张衡地动仪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-春秋五霸",
+      "title": "中文-春秋五霸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-春秋五霸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-春秋五霸/中文-春秋五霸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李自成起义",
+      "title": "中文-李自成起义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-李自成起义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-李自成起义/中文-李自成起义_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-武王伐纣",
+      "title": "中文-武王伐纣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-武王伐纣",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-武王伐纣/中文-武王伐纣_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-永乐大典",
+      "title": "中文-永乐大典",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-永乐大典",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-永乐大典/中文-永乐大典_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-永贞革新",
+      "title": "中文-永贞革新",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-永贞革新",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-永贞革新/中文-永贞革新_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-河姆渡文化",
+      "title": "中文-河姆渡文化",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-河姆渡文化",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-河姆渡文化/中文-河姆渡文化_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-洋务运动",
+      "title": "中文-洋务运动",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-洋务运动",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-洋务运动/中文-洋务运动_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-清军入关",
+      "title": "中文-清军入关",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-清军入关",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-清军入关/中文-清军入关_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-焚书坑儒",
+      "title": "中文-焚书坑儒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-焚书坑儒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-焚书坑儒/中文-焚书坑儒_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-甘露之变",
+      "title": "中文-甘露之变",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-甘露之变",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-甘露之变/中文-甘露之变_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-神农尝百草",
+      "title": "中文-神农尝百草",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-神农尝百草",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-神农尝百草/中文-神农尝百草_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-脱贫攻坚",
+      "title": "中文-脱贫攻坚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-脱贫攻坚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-脱贫攻坚/中文-脱贫攻坚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蒙古西征",
+      "title": "中文-蒙古西征",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-蒙古西征",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-蒙古西征/中文-蒙古西征_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-诸葛亮出师表",
+      "title": "中文-诸葛亮出师表",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-诸葛亮出师表",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-诸葛亮出师表/中文-诸葛亮出师表_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-贞观之治",
+      "title": "中文-贞观之治",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-贞观之治",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-贞观之治/中文-贞观之治_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-郑和下西洋",
+      "title": "中文-郑和下西洋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-郑和下西洋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-郑和下西洋/中文-郑和下西洋_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-郑和宝船",
+      "title": "中文-郑和宝船",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-郑和宝船",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-郑和宝船/中文-郑和宝船_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-郭子仪收复长安",
+      "title": "中文-郭子仪收复长安",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-郭子仪收复长安",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-郭子仪收复长安/中文-郭子仪收复长安_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-长平之战",
+      "title": "中文-长平之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-长平之战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-长平之战/中文-长平之战_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陈胜吴广起义",
+      "title": "中文-陈胜吴广起义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-陈胜吴广起义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-陈胜吴广起义/中文-陈胜吴广起义_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陶渊明归隐",
+      "title": "中文-陶渊明归隐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-陶渊明归隐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-陶渊明归隐/中文-陶渊明归隐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雅克萨之战",
+      "title": "中文-雅克萨之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-雅克萨之战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-雅克萨之战/中文-雅克萨之战_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雕版印刷",
+      "title": "中文-雕版印刷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-雕版印刷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-雕版印刷/中文-雕版印刷_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-马陵之战",
+      "title": "中文-马陵之战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-马陵之战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-马陵之战/中文-马陵之战_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鸦片战争",
+      "title": "中文-鸦片战争",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-鸦片战争",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-鸦片战争/中文-鸦片战争_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄巾起义",
+      "title": "中文-黄巾起义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-黄巾起义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-黄巾起义/中文-黄巾起义_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄帝战蚩尤",
+      "title": "中文-黄帝战蚩尤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-黄帝战蚩尤",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-黄帝战蚩尤/中文-黄帝战蚩尤_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄海海战",
+      "title": "中文-黄海海战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-黄海海战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-黄海海战/中文-黄海海战_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-齐桓公称霸",
+      "title": "中文-齐桓公称霸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-齐桓公称霸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/历史知识/华夏历史/中文歌曲/中文-齐桓公称霸/中文-齐桓公称霸_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

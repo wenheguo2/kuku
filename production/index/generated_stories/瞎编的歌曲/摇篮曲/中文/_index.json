@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/摇篮曲/中文",
   "name": "中文",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/摇篮曲.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/中文.jpg",
     "cover_level": "category"
   },
   "entry_count": 95,
@@ -16,665 +16,1045 @@
       "title": "一睡睡到天亮",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/一睡睡到天亮"
+      "path": "瞎编的歌曲/摇篮曲/中文/一睡睡到天亮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/一睡睡到天亮/一睡睡到天亮_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一觉醒来天亮了",
       "title": "一觉醒来天亮了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/一觉醒来天亮了"
+      "path": "瞎编的歌曲/摇篮曲/中文/一觉醒来天亮了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/一觉醒来天亮了/一觉醒来天亮了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "云端上的摇篮",
       "title": "云端上的摇篮",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/云端上的摇篮"
+      "path": "瞎编的歌曲/摇篮曲/中文/云端上的摇篮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/云端上的摇篮/云端上的摇篮_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "亲亲小脸蛋",
       "title": "亲亲小脸蛋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/亲亲小脸蛋"
+      "path": "瞎编的歌曲/摇篮曲/中文/亲亲小脸蛋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/亲亲小脸蛋/亲亲小脸蛋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "做一个甜甜的梦",
       "title": "做一个甜甜的梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/做一个甜甜的梦"
+      "path": "瞎编的歌曲/摇篮曲/中文/做一个甜甜的梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/做一个甜甜的梦/做一个甜甜的梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "动物梦",
       "title": "动物梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/动物梦"
+      "path": "瞎编的歌曲/摇篮曲/中文/动物梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/动物梦/动物梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "外婆的催眠歌",
       "title": "外婆的催眠歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/外婆的催眠歌"
+      "path": "瞎编的歌曲/摇篮曲/中文/外婆的催眠歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/外婆的催眠歌/外婆的催眠歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "外婆轻轻拍",
       "title": "外婆轻轻拍",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/外婆轻轻拍"
+      "path": "瞎编的歌曲/摇篮曲/中文/外婆轻轻拍",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/外婆轻轻拍/外婆轻轻拍_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "好梦到天亮",
       "title": "好梦到天亮",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/好梦到天亮"
+      "path": "瞎编的歌曲/摇篮曲/中文/好梦到天亮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/好梦到天亮/好梦到天亮_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "妈妈的怀抱",
       "title": "妈妈的怀抱",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/妈妈的怀抱"
+      "path": "瞎编的歌曲/摇篮曲/中文/妈妈的怀抱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/妈妈的怀抱/妈妈的怀抱_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "妈妈讲故事",
       "title": "妈妈讲故事",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/妈妈讲故事"
+      "path": "瞎编的歌曲/摇篮曲/中文/妈妈讲故事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/妈妈讲故事/妈妈讲故事_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "姐姐陪你睡",
       "title": "姐姐陪你睡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/姐姐陪你睡"
+      "path": "瞎编的歌曲/摇篮曲/中文/姐姐陪你睡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/姐姐陪你睡/姐姐陪你睡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小夜灯亮晶晶",
       "title": "小夜灯亮晶晶",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小夜灯亮晶晶"
+      "path": "瞎编的歌曲/摇篮曲/中文/小夜灯亮晶晶",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小夜灯亮晶晶/小夜灯亮晶晶_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小夜灯还亮着",
       "title": "小夜灯还亮着",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小夜灯还亮着"
+      "path": "瞎编的歌曲/摇篮曲/中文/小夜灯还亮着",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小夜灯还亮着/小夜灯还亮着_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小天使飞来了",
       "title": "小天使飞来了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小天使飞来了"
+      "path": "瞎编的歌曲/摇篮曲/中文/小天使飞来了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小天使飞来了/小天使飞来了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小宝宝快睡觉",
       "title": "小宝宝快睡觉",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小宝宝快睡觉"
+      "path": "瞎编的歌曲/摇篮曲/中文/小宝宝快睡觉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小宝宝快睡觉/小宝宝快睡觉_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小星星亮晶晶",
       "title": "小星星亮晶晶",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小星星亮晶晶"
+      "path": "瞎编的歌曲/摇篮曲/中文/小星星亮晶晶",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小星星亮晶晶/小星星亮晶晶_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小枕头软绵绵",
       "title": "小枕头软绵绵",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小枕头软绵绵"
+      "path": "瞎编的歌曲/摇篮曲/中文/小枕头软绵绵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小枕头软绵绵/小枕头软绵绵_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小河流哗啦啦",
       "title": "小河流哗啦啦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小河流哗啦啦"
+      "path": "瞎编的歌曲/摇篮曲/中文/小河流哗啦啦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小河流哗啦啦/小河流哗啦啦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小河轻轻流",
       "title": "小河轻轻流",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小河轻轻流"
+      "path": "瞎编的歌曲/摇篮曲/中文/小河轻轻流",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小河轻轻流/小河轻轻流_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小熊抱着梦",
       "title": "小熊抱着梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小熊抱着梦"
+      "path": "瞎编的歌曲/摇篮曲/中文/小熊抱着梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小熊抱着梦/小熊抱着梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小燕子快回家",
       "title": "小燕子快回家",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小燕子快回家"
+      "path": "瞎编的歌曲/摇篮曲/中文/小燕子快回家",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小燕子快回家/小燕子快回家_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小牛犊哞哞睡",
       "title": "小牛犊哞哞睡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小牛犊哞哞睡"
+      "path": "瞎编的歌曲/摇篮曲/中文/小牛犊哞哞睡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小牛犊哞哞睡/小牛犊哞哞睡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小狗狗别叫了",
       "title": "小狗狗别叫了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小狗狗别叫了"
+      "path": "瞎编的歌曲/摇篮曲/中文/小狗狗别叫了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小狗狗别叫了/小狗狗别叫了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小猪仔呼噜睡",
       "title": "小猪仔呼噜睡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小猪仔呼噜睡"
+      "path": "瞎编的歌曲/摇篮曲/中文/小猪仔呼噜睡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小猪仔呼噜睡/小猪仔呼噜睡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小猫咪打呼噜",
       "title": "小猫咪打呼噜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小猫咪打呼噜"
+      "path": "瞎编的歌曲/摇篮曲/中文/小猫咪打呼噜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小猫咪打呼噜/小猫咪打呼噜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小猫咪睡着了",
       "title": "小猫咪睡着了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小猫咪睡着了"
+      "path": "瞎编的歌曲/摇篮曲/中文/小猫咪睡着了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小猫咪睡着了/小猫咪睡着了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小白兔乖乖睡",
       "title": "小白兔乖乖睡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小白兔乖乖睡"
+      "path": "瞎编的歌曲/摇篮曲/中文/小白兔乖乖睡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小白兔乖乖睡/小白兔乖乖睡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小精灵守护你",
       "title": "小精灵守护你",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小精灵守护你"
+      "path": "瞎编的歌曲/摇篮曲/中文/小精灵守护你",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小精灵守护你/小精灵守护你_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小羊羔咩咩睡",
       "title": "小羊羔咩咩睡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小羊羔咩咩睡"
+      "path": "瞎编的歌曲/摇篮曲/中文/小羊羔咩咩睡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小羊羔咩咩睡/小羊羔咩咩睡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小蜜蜂回家了",
       "title": "小蜜蜂回家了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小蜜蜂回家了"
+      "path": "瞎编的歌曲/摇篮曲/中文/小蜜蜂回家了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小蜜蜂回家了/小蜜蜂回家了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小蝴蝶飞走了",
       "title": "小蝴蝶飞走了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小蝴蝶飞走了"
+      "path": "瞎编的歌曲/摇篮曲/中文/小蝴蝶飞走了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小蝴蝶飞走了/小蝴蝶飞走了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小被子暖洋洋",
       "title": "小被子暖洋洋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小被子暖洋洋"
+      "path": "瞎编的歌曲/摇篮曲/中文/小被子暖洋洋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小被子暖洋洋/小被子暖洋洋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小钟表滴答滴",
       "title": "小钟表滴答滴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小钟表滴答滴"
+      "path": "瞎编的歌曲/摇篮曲/中文/小钟表滴答滴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小钟表滴答滴/小钟表滴答滴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小雨滴答答",
       "title": "小雨滴答答",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小雨滴答答"
+      "path": "瞎编的歌曲/摇篮曲/中文/小雨滴答答",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小雨滴答答/小雨滴答答_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小雨滴答答催眠",
       "title": "小雨滴答答催眠",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小雨滴答答催眠"
+      "path": "瞎编的歌曲/摇篮曲/中文/小雨滴答答催眠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小雨滴答答催眠/小雨滴答答催眠_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鱼儿游啊游",
       "title": "小鱼儿游啊游",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小鱼儿游啊游"
+      "path": "瞎编的歌曲/摇篮曲/中文/小鱼儿游啊游",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小鱼儿游啊游/小鱼儿游啊游_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鸟儿叽叽喳",
       "title": "小鸟儿叽叽喳",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小鸟儿叽叽喳"
+      "path": "瞎编的歌曲/摇篮曲/中文/小鸟儿叽叽喳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小鸟儿叽叽喳/小鸟儿叽叽喳_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鸟儿归巢",
       "title": "小鸟儿归巢",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小鸟儿归巢"
+      "path": "瞎编的歌曲/摇篮曲/中文/小鸟儿归巢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小鸟儿归巢/小鸟儿归巢_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鸡仔叽叽睡",
       "title": "小鸡仔叽叽睡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小鸡仔叽叽睡"
+      "path": "瞎编的歌曲/摇篮曲/中文/小鸡仔叽叽睡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小鸡仔叽叽睡/小鸡仔叽叽睡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鸭子嘎嘎睡",
       "title": "小鸭子嘎嘎睡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/小鸭子嘎嘎睡"
+      "path": "瞎编的歌曲/摇篮曲/中文/小鸭子嘎嘎睡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/小鸭子嘎嘎睡/小鸭子嘎嘎睡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "慢慢深呼吸",
       "title": "慢慢深呼吸",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/慢慢深呼吸"
+      "path": "瞎编的歌曲/摇篮曲/中文/慢慢深呼吸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/慢慢深呼吸/慢慢深呼吸_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拍拍小背背",
       "title": "拍拍小背背",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/拍拍小背背"
+      "path": "瞎编的歌曲/摇篮曲/中文/拍拍小背背",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/拍拍小背背/拍拍小背背_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拖鞋摆好了",
       "title": "拖鞋摆好了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/拖鞋摆好了"
+      "path": "瞎编的歌曲/摇篮曲/中文/拖鞋摆好了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/拖鞋摆好了/拖鞋摆好了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "摇摇小床床",
       "title": "摇摇小床床",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/摇摇小床床"
+      "path": "瞎编的歌曲/摇篮曲/中文/摇摇小床床",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/摇摇小床床/摇摇小床床_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "摇篮边的妈妈",
       "title": "摇篮边的妈妈",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/摇篮边的妈妈"
+      "path": "瞎编的歌曲/摇篮曲/中文/摇篮边的妈妈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/摇篮边的妈妈/摇篮边的妈妈_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "摸摸小脑袋",
       "title": "摸摸小脑袋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/摸摸小脑袋"
+      "path": "瞎编的歌曲/摇篮曲/中文/摸摸小脑袋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/摸摸小脑袋/摸摸小脑袋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "数到十就睡着",
       "title": "数到十就睡着",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/数到十就睡着"
+      "path": "瞎编的歌曲/摇篮曲/中文/数到十就睡着",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/数到十就睡着/数到十就睡着_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "数小羊",
       "title": "数小羊",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/数小羊"
+      "path": "瞎编的歌曲/摇篮曲/中文/数小羊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/数小羊/数小羊_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "数星星",
       "title": "数星星",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/数星星"
+      "path": "瞎编的歌曲/摇篮曲/中文/数星星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/数星星/数星星_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "数月亮",
       "title": "数月亮",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/数月亮"
+      "path": "瞎编的歌曲/摇篮曲/中文/数月亮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/数月亮/数月亮_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "明天又是美好的一天",
       "title": "明天又是美好的一天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/明天又是美好的一天"
+      "path": "瞎编的歌曲/摇篮曲/中文/明天又是美好的一天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/明天又是美好的一天/明天又是美好的一天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "星星眨眼睛",
       "title": "星星眨眼睛",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/星星眨眼睛"
+      "path": "瞎编的歌曲/摇篮曲/中文/星星眨眼睛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/星星眨眼睛/星星眨眼睛_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春风送暖",
       "title": "春风送暖",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/春风送暖"
+      "path": "瞎编的歌曲/摇篮曲/中文/春风送暖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/春风送暖/春风送暖_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "晚安小兔子",
       "title": "晚安小兔子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/晚安小兔子"
+      "path": "瞎编的歌曲/摇篮曲/中文/晚安小兔子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/晚安小兔子/晚安小兔子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "晚安小星星",
       "title": "晚安小星星",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/晚安小星星"
+      "path": "瞎编的歌曲/摇篮曲/中文/晚安小星星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/晚安小星星/晚安小星星_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "晚安我的宝贝",
       "title": "晚安我的宝贝",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/晚安我的宝贝"
+      "path": "瞎编的歌曲/摇篮曲/中文/晚安我的宝贝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/晚安我的宝贝/晚安我的宝贝_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "晚安的吻",
       "title": "晚安的吻",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/晚安的吻"
+      "path": "瞎编的歌曲/摇篮曲/中文/晚安的吻",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/晚安的吻/晚安的吻_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "晚风轻轻吹",
       "title": "晚风轻轻吹",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/晚风轻轻吹"
+      "path": "瞎编的歌曲/摇篮曲/中文/晚风轻轻吹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/晚风轻轻吹/晚风轻轻吹_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "晚风送梦来",
       "title": "晚风送梦来",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/晚风送梦来"
+      "path": "瞎编的歌曲/摇篮曲/中文/晚风送梦来",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/晚风送梦来/晚风送梦来_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "月亮妈妈唱歌",
       "title": "月亮妈妈唱歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/月亮妈妈唱歌"
+      "path": "瞎编的歌曲/摇篮曲/中文/月亮妈妈唱歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/月亮妈妈唱歌/月亮妈妈唱歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "月亮婆婆",
       "title": "月亮婆婆",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/月亮婆婆"
+      "path": "瞎编的歌曲/摇篮曲/中文/月亮婆婆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/月亮婆婆/月亮婆婆_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "月亮船摇啊摇",
       "title": "月亮船摇啊摇",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/月亮船摇啊摇"
+      "path": "瞎编的歌曲/摇篮曲/中文/月亮船摇啊摇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/月亮船摇啊摇/月亮船摇啊摇_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "月儿弯弯像小船",
       "title": "月儿弯弯像小船",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/月儿弯弯像小船"
+      "path": "瞎编的歌曲/摇篮曲/中文/月儿弯弯像小船",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/月儿弯弯像小船/月儿弯弯像小船_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "树叶儿沙沙沙",
       "title": "树叶儿沙沙沙",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/树叶儿沙沙沙"
+      "path": "瞎编的歌曲/摇篮曲/中文/树叶儿沙沙沙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/树叶儿沙沙沙/树叶儿沙沙沙_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "树叶沙沙响",
       "title": "树叶沙沙响",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/树叶沙沙响"
+      "path": "瞎编的歌曲/摇篮曲/中文/树叶沙沙响",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/树叶沙沙响/树叶沙沙响_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梦中的城堡",
       "title": "梦中的城堡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/梦中的城堡"
+      "path": "瞎编的歌曲/摇篮曲/中文/梦中的城堡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/梦中的城堡/梦中的城堡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梦里有星空",
       "title": "梦里有星空",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/梦里有星空"
+      "path": "瞎编的歌曲/摇篮曲/中文/梦里有星空",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/梦里有星空/梦里有星空_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梦里有海洋",
       "title": "梦里有海洋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/梦里有海洋"
+      "path": "瞎编的歌曲/摇篮曲/中文/梦里有海洋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/梦里有海洋/梦里有海洋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梦里有玩具",
       "title": "梦里有玩具",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/梦里有玩具"
+      "path": "瞎编的歌曲/摇篮曲/中文/梦里有玩具",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/梦里有玩具/梦里有玩具_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梦里有糖果",
       "title": "梦里有糖果",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/梦里有糖果"
+      "path": "瞎编的歌曲/摇篮曲/中文/梦里有糖果",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/梦里有糖果/梦里有糖果_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梦里有花园",
       "title": "梦里有花园",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/梦里有花园"
+      "path": "瞎编的歌曲/摇篮曲/中文/梦里有花园",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/梦里有花园/梦里有花园_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梦里的彩虹",
       "title": "梦里的彩虹",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/梦里的彩虹"
+      "path": "瞎编的歌曲/摇篮曲/中文/梦里的彩虹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/梦里的彩虹/梦里的彩虹_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "海浪轻轻摇",
       "title": "海浪轻轻摇",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/海浪轻轻摇"
+      "path": "瞎编的歌曲/摇篮曲/中文/海浪轻轻摇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/海浪轻轻摇/海浪轻轻摇_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爷爷哼小调",
       "title": "爷爷哼小调",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/爷爷哼小调"
+      "path": "瞎编的歌曲/摇篮曲/中文/爷爷哼小调",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/爷爷哼小调/爷爷哼小调_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爷爷的摇篮曲",
       "title": "爷爷的摇篮曲",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/爷爷的摇篮曲"
+      "path": "瞎编的歌曲/摇篮曲/中文/爷爷的摇篮曲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/爷爷的摇篮曲/爷爷的摇篮曲_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爸爸唱首歌",
       "title": "爸爸唱首歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/爸爸唱首歌"
+      "path": "瞎编的歌曲/摇篮曲/中文/爸爸唱首歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/爸爸唱首歌/爸爸唱首歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爸爸的晚安曲",
       "title": "爸爸的晚安曲",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/爸爸的晚安曲"
+      "path": "瞎编的歌曲/摇篮曲/中文/爸爸的晚安曲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/爸爸的晚安曲/爸爸的晚安曲_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玩具收好了",
       "title": "玩具收好了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/玩具收好了"
+      "path": "瞎编的歌曲/摇篮曲/中文/玩具收好了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/玩具收好了/玩具收好了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玩具梦",
       "title": "玩具梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/玩具梦"
+      "path": "瞎编的歌曲/摇篮曲/中文/玩具梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/玩具梦/玩具梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白云当被子",
       "title": "白云当被子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/白云当被子"
+      "path": "瞎编的歌曲/摇篮曲/中文/白云当被子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/白云当被子/白云当被子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "睡吧睡吧",
       "title": "睡吧睡吧",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/睡吧睡吧"
+      "path": "瞎编的歌曲/摇篮曲/中文/睡吧睡吧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/睡吧睡吧/睡吧睡吧_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "睡王子",
       "title": "睡王子",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/睡王子"
+      "path": "瞎编的歌曲/摇篮曲/中文/睡王子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/睡王子/睡王子_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "睡美人",
       "title": "睡美人",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/睡美人"
+      "path": "瞎编的歌曲/摇篮曲/中文/睡美人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/睡美人/睡美人_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "秋月入梦",
       "title": "秋月入梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/秋月入梦"
+      "path": "瞎编的歌曲/摇篮曲/中文/秋月入梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/秋月入梦/秋月入梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "窗帘拉上了",
       "title": "窗帘拉上了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/窗帘拉上了"
+      "path": "瞎编的歌曲/摇篮曲/中文/窗帘拉上了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/窗帘拉上了/窗帘拉上了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "糖果梦",
       "title": "糖果梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/糖果梦"
+      "path": "瞎编的歌曲/摇篮曲/中文/糖果梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/糖果梦/糖果梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "花儿睡了",
       "title": "花儿睡了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/花儿睡了"
+      "path": "瞎编的歌曲/摇篮曲/中文/花儿睡了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/花儿睡了/花儿睡了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "花朵梦",
       "title": "花朵梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/花朵梦"
+      "path": "瞎编的歌曲/摇篮曲/中文/花朵梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/花朵梦/花朵梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "萤火虫带路",
       "title": "萤火虫带路",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/萤火虫带路"
+      "path": "瞎编的歌曲/摇篮曲/中文/萤火虫带路",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/萤火虫带路/萤火虫带路_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蛋糕梦",
       "title": "蛋糕梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/蛋糕梦"
+      "path": "瞎编的歌曲/摇篮曲/中文/蛋糕梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/蛋糕梦/蛋糕梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "衣服叠好了",
       "title": "衣服叠好了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/衣服叠好了"
+      "path": "瞎编的歌曲/摇篮曲/中文/衣服叠好了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/衣服叠好了/衣服叠好了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "轻轻闭上眼",
       "title": "轻轻闭上眼",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/轻轻闭上眼"
+      "path": "瞎编的歌曲/摇篮曲/中文/轻轻闭上眼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/轻轻闭上眼/轻轻闭上眼_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "雪夜安眠",
       "title": "雪夜安眠",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/雪夜安眠"
+      "path": "瞎编的歌曲/摇篮曲/中文/雪夜安眠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/雪夜安眠/雪夜安眠_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "风儿轻轻吹",
       "title": "风儿轻轻吹",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/摇篮曲/中文/风儿轻轻吹"
+      "path": "瞎编的歌曲/摇篮曲/中文/风儿轻轻吹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/摇篮曲/中文/风儿轻轻吹/风儿轻轻吹_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

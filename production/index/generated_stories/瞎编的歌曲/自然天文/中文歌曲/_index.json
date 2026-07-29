@@ -1,0 +1,895 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/自然天文/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 80,
+  "entries": [
+    {
+      "entry_id": "中文-下雨",
+      "title": "中文-下雨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-下雨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-下雨/中文-下雨_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-下雪",
+      "title": "中文-下雪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-下雪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-下雪/中文-下雪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-云",
+      "title": "中文-云",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-云",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-云/中文-云_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-光年",
+      "title": "中文-光年",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-光年",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-光年/中文-光年_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-冬天",
+      "title": "中文-冬天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-冬天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-冬天/中文-冬天_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-冰川",
+      "title": "中文-冰川",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-冰川",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-冰川/中文-冰川_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-冰雹",
+      "title": "中文-冰雹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-冰雹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-冰雹/中文-冰雹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-北斗七星",
+      "title": "中文-北斗七星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-北斗七星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-北斗七星/中文-北斗七星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-北极星",
+      "title": "中文-北极星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-北极星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-北极星/中文-北极星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-卫星",
+      "title": "中文-卫星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-卫星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-卫星/中文-卫星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-台风",
+      "title": "中文-台风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-台风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-台风/中文-台风_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-喀斯特地貌",
+      "title": "中文-喀斯特地貌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-喀斯特地貌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-喀斯特地貌/中文-喀斯特地貌_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-四季",
+      "title": "中文-四季",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-四季",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-四季/中文-四季_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-土星",
+      "title": "中文-土星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-土星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-土星/中文-土星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-地球",
+      "title": "中文-地球",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-地球",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-地球/中文-地球_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-地震",
+      "title": "中文-地震",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-地震",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-地震/中文-地震_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-夏天",
+      "title": "中文-夏天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-夏天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-夏天/中文-夏天_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-天王星",
+      "title": "中文-天王星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-天王星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-天王星/中文-天王星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-太阳",
+      "title": "中文-太阳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-太阳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-太阳/中文-太阳_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-太阳系",
+      "title": "中文-太阳系",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-太阳系",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-太阳系/中文-太阳系_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-季风",
+      "title": "中文-季风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-季风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-季风/中文-季风_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-宇宙",
+      "title": "中文-宇宙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-宇宙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-宇宙/中文-宇宙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-寒潮",
+      "title": "中文-寒潮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-寒潮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-寒潮/中文-寒潮_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-山崩",
+      "title": "中文-山崩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-山崩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-山崩/中文-山崩_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-峡谷",
+      "title": "中文-峡谷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-峡谷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-峡谷/中文-峡谷_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-引力",
+      "title": "中文-引力",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-引力",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-引力/中文-引力_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-彗星",
+      "title": "中文-彗星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-彗星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-彗星/中文-彗星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-彩虹",
+      "title": "中文-彩虹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-彩虹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-彩虹/中文-彩虹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-打雷",
+      "title": "中文-打雷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-打雷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-打雷/中文-打雷_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-日出",
+      "title": "中文-日出",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-日出",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-日出/中文-日出_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-日落",
+      "title": "中文-日落",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-日落",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-日落/中文-日落_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-日食",
+      "title": "中文-日食",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-日食",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-日食/中文-日食_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-星云",
+      "title": "中文-星云",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-星云",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-星云/中文-星云_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-星座",
+      "title": "中文-星座",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-星座",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-星座/中文-星座_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-星星",
+      "title": "中文-星星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-星星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-星星/中文-星星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-春天",
+      "title": "中文-春天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-春天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-春天/中文-春天_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-昼夜交替",
+      "title": "中文-昼夜交替",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-昼夜交替",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-昼夜交替/中文-昼夜交替_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-晚霞",
+      "title": "中文-晚霞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-晚霞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-晚霞/中文-晚霞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-暴风雨",
+      "title": "中文-暴风雨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-暴风雨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-暴风雨/中文-暴风雨_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-月亮",
+      "title": "中文-月亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-月亮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-月亮/中文-月亮_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-月相",
+      "title": "中文-月相",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-月相",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-月相/中文-月相_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-月食",
+      "title": "中文-月食",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-月食",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-月食/中文-月食_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-朝霞",
+      "title": "中文-朝霞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-朝霞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-朝霞/中文-朝霞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-木星",
+      "title": "中文-木星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-木星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-木星/中文-木星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-极光",
+      "title": "中文-极光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-极光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-极光/中文-极光_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-梅雨",
+      "title": "中文-梅雨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-梅雨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-梅雨/中文-梅雨_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-水循环",
+      "title": "中文-水循环",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-水循环",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-水循环/中文-水循环_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-水星",
+      "title": "中文-水星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-水星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-水星/中文-水星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-沙尘暴",
+      "title": "中文-沙尘暴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-沙尘暴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-沙尘暴/中文-沙尘暴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-沙漠",
+      "title": "中文-沙漠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-沙漠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-沙漠/中文-沙漠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-泥石流",
+      "title": "中文-泥石流",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-泥石流",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-泥石流/中文-泥石流_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-流星",
+      "title": "中文-流星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-流星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-流星/中文-流星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海啸",
+      "title": "中文-海啸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-海啸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-海啸/中文-海啸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海市蜃楼",
+      "title": "中文-海市蜃楼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-海市蜃楼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-海市蜃楼/中文-海市蜃楼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海王星",
+      "title": "中文-海王星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-海王星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-海王星/中文-海王星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-温泉",
+      "title": "中文-温泉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-温泉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-温泉/中文-温泉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-湿地",
+      "title": "中文-湿地",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-湿地",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-湿地/中文-湿地_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-溶洞",
+      "title": "中文-溶洞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-溶洞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-溶洞/中文-溶洞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-满月",
+      "title": "中文-满月",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-满月",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-满月/中文-满月_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-潮汐",
+      "title": "中文-潮汐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-潮汐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-潮汐/中文-潮汐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-潮起潮落",
+      "title": "中文-潮起潮落",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-潮起潮落",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-潮起潮落/中文-潮起潮落_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-瀑布",
+      "title": "中文-瀑布",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-瀑布",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-瀑布/中文-瀑布_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-火山",
+      "title": "中文-火山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-火山",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-火山/中文-火山_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-火星",
+      "title": "中文-火星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-火星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-火星/中文-火星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-珊瑚礁",
+      "title": "中文-珊瑚礁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-珊瑚礁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-珊瑚礁/中文-珊瑚礁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-秋天",
+      "title": "中文-秋天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-秋天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-秋天/中文-秋天_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-绿洲",
+      "title": "中文-绿洲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-绿洲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-绿洲/中文-绿洲_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-超新星",
+      "title": "中文-超新星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-超新星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-超新星/中文-超新星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-金星",
+      "title": "中文-金星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-金星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-金星/中文-金星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-银河",
+      "title": "中文-银河",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-银河",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-银河/中文-银河_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-闪电",
+      "title": "中文-闪电",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-闪电",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-闪电/中文-闪电_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-间歇泉",
+      "title": "中文-间歇泉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-间歇泉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-间歇泉/中文-间歇泉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陨石",
+      "title": "中文-陨石",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-陨石",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-陨石/中文-陨石_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雨后天晴",
+      "title": "中文-雨后天晴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-雨后天晴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-雨后天晴/中文-雨后天晴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-雾",
+      "title": "中文-雾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-雾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-雾/中文-雾_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-霜",
+      "title": "中文-霜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-霜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-霜/中文-霜_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-露水",
+      "title": "中文-露水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-露水",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-露水/中文-露水_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-风",
+      "title": "中文-风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-风/中文-风_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黑洞",
+      "title": "中文-黑洞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-黑洞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-黑洞/中文-黑洞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-龙卷风",
+      "title": "中文-龙卷风",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/自然天文/中文歌曲/中文-龙卷风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/自然天文/中文歌曲/中文-龙卷风/中文-龙卷风_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

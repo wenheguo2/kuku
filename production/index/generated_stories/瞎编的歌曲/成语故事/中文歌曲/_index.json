@@ -1,0 +1,2380 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/成语故事/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 215,
+  "entries": [
+    {
+      "entry_id": "中文-一举两得",
+      "title": "中文-一举两得",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-一举两得",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-一举两得/中文-一举两得_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-一字千金",
+      "title": "中文-一字千金",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-一字千金",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-一字千金/中文-一字千金_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-一日千里",
+      "title": "中文-一日千里",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-一日千里",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-一日千里/中文-一日千里_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-一箭双雕",
+      "title": "中文-一箭双雕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-一箭双雕",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-一箭双雕/中文-一箭双雕_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-一网打尽",
+      "title": "中文-一网打尽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-一网打尽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-一网打尽/中文-一网打尽_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-一诺千金",
+      "title": "中文-一诺千金",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-一诺千金",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-一诺千金/中文-一诺千金_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-一鸣惊人",
+      "title": "中文-一鸣惊人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-一鸣惊人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-一鸣惊人/中文-一鸣惊人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-七步成诗",
+      "title": "中文-七步成诗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-七步成诗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-七步成诗/中文-七步成诗_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-万众一心",
+      "title": "中文-万众一心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-万众一心",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-万众一心/中文-万众一心_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-三人成虎",
+      "title": "中文-三人成虎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-三人成虎",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-三人成虎/中文-三人成虎_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-三令五申",
+      "title": "中文-三令五申",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-三令五申",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-三令五申/中文-三令五申_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-三顾茅庐",
+      "title": "中文-三顾茅庐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-三顾茅庐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-三顾茅庐/中文-三顾茅庐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-不耻下问",
+      "title": "中文-不耻下问",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-不耻下问",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-不耻下问/中文-不耻下问_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-与人为善",
+      "title": "中文-与人为善",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-与人为善",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-与人为善/中文-与人为善_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-专心致志",
+      "title": "中文-专心致志",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-专心致志",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-专心致志/中文-专心致志_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-东施效颦",
+      "title": "中文-东施效颦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-东施效颦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-东施效颦/中文-东施效颦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-举一反三",
+      "title": "中文-举一反三",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-举一反三",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-举一反三/中文-举一反三_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乐不思蜀",
+      "title": "中文-乐不思蜀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-乐不思蜀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-乐不思蜀/中文-乐不思蜀_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乘风破浪",
+      "title": "中文-乘风破浪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-乘风破浪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-乘风破浪/中文-乘风破浪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-九牛一毛",
+      "title": "中文-九牛一毛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-九牛一毛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-九牛一毛/中文-九牛一毛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-买椟还珠",
+      "title": "中文-买椟还珠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-买椟还珠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-买椟还珠/中文-买椟还珠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-事半功倍",
+      "title": "中文-事半功倍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-事半功倍",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-事半功倍/中文-事半功倍_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-井底之蛙",
+      "title": "中文-井底之蛙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-井底之蛙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-井底之蛙/中文-井底之蛙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-亡羊补牢",
+      "title": "中文-亡羊补牢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-亡羊补牢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-亡羊补牢/中文-亡羊补牢_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-人杰地灵",
+      "title": "中文-人杰地灵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-人杰地灵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-人杰地灵/中文-人杰地灵_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-以身作则",
+      "title": "中文-以身作则",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-以身作则",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-以身作则/中文-以身作则_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-任重道远",
+      "title": "中文-任重道远",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-任重道远",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-任重道远/中文-任重道远_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-众志成城",
+      "title": "中文-众志成城",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-众志成城",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-众志成城/中文-众志成城_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-优柔寡断",
+      "title": "中文-优柔寡断",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-优柔寡断",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-优柔寡断/中文-优柔寡断_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-伯乐相马",
+      "title": "中文-伯乐相马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-伯乐相马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-伯乐相马/中文-伯乐相马_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-侃侃而谈",
+      "title": "中文-侃侃而谈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-侃侃而谈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-侃侃而谈/中文-侃侃而谈_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-借花献佛",
+      "title": "中文-借花献佛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-借花献佛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-借花献佛/中文-借花献佛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-先发制人",
+      "title": "中文-先发制人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-先发制人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-先发制人/中文-先发制人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-兔死狗烹",
+      "title": "中文-兔死狗烹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-兔死狗烹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-兔死狗烹/中文-兔死狗烹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-入乡随俗",
+      "title": "中文-入乡随俗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-入乡随俗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-入乡随俗/中文-入乡随俗_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-入木三分",
+      "title": "中文-入木三分",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-入木三分",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-入木三分/中文-入木三分_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-全力以赴",
+      "title": "中文-全力以赴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-全力以赴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-全力以赴/中文-全力以赴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-兵不厌诈",
+      "title": "中文-兵不厌诈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-兵不厌诈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-兵不厌诈/中文-兵不厌诈_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-兵荒马乱",
+      "title": "中文-兵荒马乱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-兵荒马乱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-兵荒马乱/中文-兵荒马乱_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-出人头地",
+      "title": "中文-出人头地",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-出人头地",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-出人头地/中文-出人头地_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-凿壁偷光",
+      "title": "中文-凿壁偷光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-凿壁偷光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-凿壁偷光/中文-凿壁偷光_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-别开生面",
+      "title": "中文-别开生面",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-别开生面",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-别开生面/中文-别开生面_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-刻舟求剑",
+      "title": "中文-刻舟求剑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-刻舟求剑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-刻舟求剑/中文-刻舟求剑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-前赴后继",
+      "title": "中文-前赴后继",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-前赴后继",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-前赴后继/中文-前赴后继_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-前车之鉴",
+      "title": "中文-前车之鉴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-前车之鉴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-前车之鉴/中文-前车之鉴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-功亏一篑",
+      "title": "中文-功亏一篑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-功亏一篑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-功亏一篑/中文-功亏一篑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-势如破竹",
+      "title": "中文-势如破竹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-势如破竹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-势如破竹/中文-势如破竹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-千方百计",
+      "title": "中文-千方百计",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-千方百计",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-千方百计/中文-千方百计_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-千载难逢",
+      "title": "中文-千载难逢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-千载难逢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-千载难逢/中文-千载难逢_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-千钧一发",
+      "title": "中文-千钧一发",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-千钧一发",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-千钧一发/中文-千钧一发_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-半途而废",
+      "title": "中文-半途而废",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-半途而废",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-半途而废/中文-半途而废_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-南辕北辙",
+      "title": "中文-南辕北辙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-南辕北辙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-南辕北辙/中文-南辕北辙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-卧薪尝胆",
+      "title": "中文-卧薪尝胆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-卧薪尝胆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-卧薪尝胆/中文-卧薪尝胆_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-卷土重来",
+      "title": "中文-卷土重来",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-卷土重来",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-卷土重来/中文-卷土重来_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-口蜜腹剑",
+      "title": "中文-口蜜腹剑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-口蜜腹剑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-口蜜腹剑/中文-口蜜腹剑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-只争朝夕",
+      "title": "中文-只争朝夕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-只争朝夕",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-只争朝夕/中文-只争朝夕_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-叶公好龙",
+      "title": "中文-叶公好龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-叶公好龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-叶公好龙/中文-叶公好龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-同舟共济",
+      "title": "中文-同舟共济",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-同舟共济",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-同舟共济/中文-同舟共济_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-名正言顺",
+      "title": "中文-名正言顺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-名正言顺",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-名正言顺/中文-名正言顺_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-后来居上",
+      "title": "中文-后来居上",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-后来居上",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-后来居上/中文-后来居上_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-后生可畏",
+      "title": "中文-后生可畏",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-后生可畏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-后生可畏/中文-后生可畏_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-呆若木鸡",
+      "title": "中文-呆若木鸡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-呆若木鸡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-呆若木鸡/中文-呆若木鸡_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-咄咄逼人",
+      "title": "中文-咄咄逼人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-咄咄逼人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-咄咄逼人/中文-咄咄逼人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-唇亡齿寒",
+      "title": "中文-唇亡齿寒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-唇亡齿寒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-唇亡齿寒/中文-唇亡齿寒_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-唇枪舌剑",
+      "title": "中文-唇枪舌剑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-唇枪舌剑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-唇枪舌剑/中文-唇枪舌剑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-四面楚歌",
+      "title": "中文-四面楚歌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-四面楚歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-四面楚歌/中文-四面楚歌_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-因势利导",
+      "title": "中文-因势利导",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-因势利导",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-因势利导/中文-因势利导_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-因材施教",
+      "title": "中文-因材施教",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-因材施教",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-因材施教/中文-因材施教_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-囫囵吞枣",
+      "title": "中文-囫囵吞枣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-囫囵吞枣",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-囫囵吞枣/中文-囫囵吞枣_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-围魏救赵",
+      "title": "中文-围魏救赵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-围魏救赵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-围魏救赵/中文-围魏救赵_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-图穷匕见",
+      "title": "中文-图穷匕见",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-图穷匕见",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-图穷匕见/中文-图穷匕见_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-塞翁失马",
+      "title": "中文-塞翁失马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-塞翁失马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-塞翁失马/中文-塞翁失马_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大义灭亲",
+      "title": "中文-大义灭亲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-大义灭亲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-大义灭亲/中文-大义灭亲_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大公无私",
+      "title": "中文-大公无私",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-大公无私",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-大公无私/中文-大公无私_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大器晚成",
+      "title": "中文-大器晚成",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-大器晚成",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-大器晚成/中文-大器晚成_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大材小用",
+      "title": "中文-大材小用",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-大材小用",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-大材小用/中文-大材小用_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-天衣无缝",
+      "title": "中文-天衣无缝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-天衣无缝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-天衣无缝/中文-天衣无缝_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-太公钓鱼",
+      "title": "中文-太公钓鱼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-太公钓鱼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-太公钓鱼/中文-太公钓鱼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-夸父逐日",
+      "title": "中文-夸父逐日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-夸父逐日",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-夸父逐日/中文-夸父逐日_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-奋不顾身",
+      "title": "中文-奋不顾身",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-奋不顾身",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-奋不顾身/中文-奋不顾身_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-如鱼得水",
+      "title": "中文-如鱼得水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-如鱼得水",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-如鱼得水/中文-如鱼得水_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-妄自菲薄",
+      "title": "中文-妄自菲薄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-妄自菲薄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-妄自菲薄/中文-妄自菲薄_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孟母三迁",
+      "title": "中文-孟母三迁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-孟母三迁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-孟母三迁/中文-孟母三迁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-学富五车",
+      "title": "中文-学富五车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-学富五车",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-学富五车/中文-学富五车_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-学而不厌",
+      "title": "中文-学而不厌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-学而不厌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-学而不厌/中文-学而不厌_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-守口如瓶",
+      "title": "中文-守口如瓶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-守口如瓶",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-守口如瓶/中文-守口如瓶_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-守株待兔",
+      "title": "中文-守株待兔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-守株待兔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-守株待兔/中文-守株待兔_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-完璧归赵",
+      "title": "中文-完璧归赵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-完璧归赵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-完璧归赵/中文-完璧归赵_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-实事求是",
+      "title": "中文-实事求是",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-实事求是",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-实事求是/中文-实事求是_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-家喻户晓",
+      "title": "中文-家喻户晓",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-家喻户晓",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-家喻户晓/中文-家喻户晓_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-对牛弹琴",
+      "title": "中文-对牛弹琴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-对牛弹琴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-对牛弹琴/中文-对牛弹琴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-对症下药",
+      "title": "中文-对症下药",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-对症下药",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-对症下药/中文-对症下药_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-尔虞我诈",
+      "title": "中文-尔虞我诈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-尔虞我诈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-尔虞我诈/中文-尔虞我诈_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-屈指可数",
+      "title": "中文-屈指可数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-屈指可数",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-屈指可数/中文-屈指可数_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-巧夺天工",
+      "title": "中文-巧夺天工",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-巧夺天工",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-巧夺天工/中文-巧夺天工_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-巧言令色",
+      "title": "中文-巧言令色",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-巧言令色",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-巧言令色/中文-巧言令色_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-平易近人",
+      "title": "中文-平易近人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-平易近人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-平易近人/中文-平易近人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-废寝忘食",
+      "title": "中文-废寝忘食",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-废寝忘食",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-废寝忘食/中文-废寝忘食_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-开卷有益",
+      "title": "中文-开卷有益",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-开卷有益",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-开卷有益/中文-开卷有益_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-开门见山",
+      "title": "中文-开门见山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-开门见山",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-开门见山/中文-开门见山_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-引人入胜",
+      "title": "中文-引人入胜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-引人入胜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-引人入胜/中文-引人入胜_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-引狼入室",
+      "title": "中文-引狼入室",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-引狼入室",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-引狼入室/中文-引狼入室_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张冠李戴",
+      "title": "中文-张冠李戴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-张冠李戴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-张冠李戴/中文-张冠李戴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-当务之急",
+      "title": "中文-当务之急",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-当务之急",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-当务之急/中文-当务之急_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-待价而沽",
+      "title": "中文-待价而沽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-待价而沽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-待价而沽/中文-待价而沽_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-得陇望蜀",
+      "title": "中文-得陇望蜀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-得陇望蜀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-得陇望蜀/中文-得陇望蜀_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-德高望重",
+      "title": "中文-德高望重",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-德高望重",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-德高望重/中文-德高望重_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-心不在焉",
+      "title": "中文-心不在焉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-心不在焉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-心不在焉/中文-心不在焉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-心旷神怡",
+      "title": "中文-心旷神怡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-心旷神怡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-心旷神怡/中文-心旷神怡_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-忍辱负重",
+      "title": "中文-忍辱负重",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-忍辱负重",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-忍辱负重/中文-忍辱负重_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-志同道合",
+      "title": "中文-志同道合",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-志同道合",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-志同道合/中文-志同道合_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-快马加鞭",
+      "title": "中文-快马加鞭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-快马加鞭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-快马加鞭/中文-快马加鞭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-怒发冲冠",
+      "title": "中文-怒发冲冠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-怒发冲冠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-怒发冲冠/中文-怒发冲冠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-恍然大悟",
+      "title": "中文-恍然大悟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-恍然大悟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-恍然大悟/中文-恍然大悟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-悬崖勒马",
+      "title": "中文-悬崖勒马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-悬崖勒马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-悬崖勒马/中文-悬崖勒马_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-悬梁刺股",
+      "title": "中文-悬梁刺股",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-悬梁刺股",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-悬梁刺股/中文-悬梁刺股_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-惊弓之鸟",
+      "title": "中文-惊弓之鸟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-惊弓之鸟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-惊弓之鸟/中文-惊弓之鸟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-愚公移山",
+      "title": "中文-愚公移山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-愚公移山",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-愚公移山/中文-愚公移山_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-手不释卷",
+      "title": "中文-手不释卷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-手不释卷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-手不释卷/中文-手不释卷_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-才高八斗",
+      "title": "中文-才高八斗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-才高八斗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-才高八斗/中文-才高八斗_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-打草惊蛇",
+      "title": "中文-打草惊蛇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-打草惊蛇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-打草惊蛇/中文-打草惊蛇_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-投鼠忌器",
+      "title": "中文-投鼠忌器",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-投鼠忌器",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-投鼠忌器/中文-投鼠忌器_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-抛砖引玉",
+      "title": "中文-抛砖引玉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-抛砖引玉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-抛砖引玉/中文-抛砖引玉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-拨云见日",
+      "title": "中文-拨云见日",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-拨云见日",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-拨云见日/中文-拨云见日_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-择善而从",
+      "title": "中文-择善而从",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-择善而从",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-择善而从/中文-择善而从_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-拾金不昧",
+      "title": "中文-拾金不昧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-拾金不昧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-拾金不昧/中文-拾金不昧_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-指鹿为马",
+      "title": "中文-指鹿为马",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-指鹿为马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-指鹿为马/中文-指鹿为马_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-捷足先登",
+      "title": "中文-捷足先登",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-捷足先登",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-捷足先登/中文-捷足先登_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-推己及人",
+      "title": "中文-推己及人",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-推己及人",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-推己及人/中文-推己及人_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-掩耳盗铃",
+      "title": "中文-掩耳盗铃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-掩耳盗铃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-掩耳盗铃/中文-掩耳盗铃_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-揠苗助长",
+      "title": "中文-揠苗助长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-揠苗助长",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-揠苗助长/中文-揠苗助长_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-揭竿而起",
+      "title": "中文-揭竿而起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-揭竿而起",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-揭竿而起/中文-揭竿而起_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-教学相长",
+      "title": "中文-教学相长",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-教学相长",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-教学相长/中文-教学相长_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-无中生有",
+      "title": "中文-无中生有",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-无中生有",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-无中生有/中文-无中生有_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-日新月异",
+      "title": "中文-日新月异",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-日新月异",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-日新月异/中文-日新月异_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-明察秋毫",
+      "title": "中文-明察秋毫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-明察秋毫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-明察秋毫/中文-明察秋毫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-昙花一现",
+      "title": "中文-昙花一现",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-昙花一现",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-昙花一现/中文-昙花一现_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-星火燎原",
+      "title": "中文-星火燎原",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-星火燎原",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-星火燎原/中文-星火燎原_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-有教无类",
+      "title": "中文-有教无类",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-有教无类",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-有教无类/中文-有教无类_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-望尘莫及",
+      "title": "中文-望尘莫及",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-望尘莫及",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-望尘莫及/中文-望尘莫及_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-望梅止渴",
+      "title": "中文-望梅止渴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-望梅止渴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-望梅止渴/中文-望梅止渴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-望洋兴叹",
+      "title": "中文-望洋兴叹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-望洋兴叹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-望洋兴叹/中文-望洋兴叹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-望穿秋水",
+      "title": "中文-望穿秋水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-望穿秋水",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-望穿秋水/中文-望穿秋水_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-朝三暮四",
+      "title": "中文-朝三暮四",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-朝三暮四",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-朝三暮四/中文-朝三暮四_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-木已成舟",
+      "title": "中文-木已成舟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-木已成舟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-木已成舟/中文-木已成舟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杞人忧天",
+      "title": "中文-杞人忧天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-杞人忧天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-杞人忧天/中文-杞人忧天_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杯弓蛇影",
+      "title": "中文-杯弓蛇影",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-杯弓蛇影",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-杯弓蛇影/中文-杯弓蛇影_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杯水车薪",
+      "title": "中文-杯水车薪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-杯水车薪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-杯水车薪/中文-杯水车薪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-枯木逢春",
+      "title": "中文-枯木逢春",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-枯木逢春",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-枯木逢春/中文-枯木逢春_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-格物致知",
+      "title": "中文-格物致知",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-格物致知",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-格物致知/中文-格物致知_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-正大光明",
+      "title": "中文-正大光明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-正大光明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-正大光明/中文-正大光明_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-殊途同归",
+      "title": "中文-殊途同归",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-殊途同归",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-殊途同归/中文-殊途同归_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-水滴石穿",
+      "title": "中文-水滴石穿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-水滴石穿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-水滴石穿/中文-水滴石穿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-水落石出",
+      "title": "中文-水落石出",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-水落石出",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-水落石出/中文-水落石出_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-江郎才尽",
+      "title": "中文-江郎才尽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-江郎才尽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-江郎才尽/中文-江郎才尽_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-沧海桑田",
+      "title": "中文-沧海桑田",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-沧海桑田",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-沧海桑田/中文-沧海桑田_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-洛阳纸贵",
+      "title": "中文-洛阳纸贵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-洛阳纸贵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-洛阳纸贵/中文-洛阳纸贵_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-津津有味",
+      "title": "中文-津津有味",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-津津有味",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-津津有味/中文-津津有味_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-涸辙之鲋",
+      "title": "中文-涸辙之鲋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-涸辙之鲋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-涸辙之鲋/中文-涸辙之鲋_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-深思熟虑",
+      "title": "中文-深思熟虑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-深思熟虑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-深思熟虑/中文-深思熟虑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-温故知新",
+      "title": "中文-温故知新",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-温故知新",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-温故知新/中文-温故知新_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-滥竽充数",
+      "title": "中文-滥竽充数",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-滥竽充数",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-滥竽充数/中文-滥竽充数_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-滴水穿石",
+      "title": "中文-滴水穿石",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-滴水穿石",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-滴水穿石/中文-滴水穿石_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-火树银花",
+      "title": "中文-火树银花",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-火树银花",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-火树银花/中文-火树银花_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-炙手可热",
+      "title": "中文-炙手可热",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-炙手可热",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-炙手可热/中文-炙手可热_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-点石成金",
+      "title": "中文-点石成金",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-点石成金",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-点石成金/中文-点石成金_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-熟能生巧",
+      "title": "中文-熟能生巧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-熟能生巧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-熟能生巧/中文-熟能生巧_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-爱屋及乌",
+      "title": "中文-爱屋及乌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-爱屋及乌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-爱屋及乌/中文-爱屋及乌_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狐假虎威",
+      "title": "中文-狐假虎威",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-狐假虎威",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-狐假虎威/中文-狐假虎威_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狡兔三窟",
+      "title": "中文-狡兔三窟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-狡兔三窟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-狡兔三窟/中文-狡兔三窟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狼狈为奸",
+      "title": "中文-狼狈为奸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-狼狈为奸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-狼狈为奸/中文-狼狈为奸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-班门弄斧",
+      "title": "中文-班门弄斧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-班门弄斧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-班门弄斧/中文-班门弄斧_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-理直气壮",
+      "title": "中文-理直气壮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-理直气壮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-理直气壮/中文-理直气壮_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-瓜熟蒂落",
+      "title": "中文-瓜熟蒂落",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-瓜熟蒂落",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-瓜熟蒂落/中文-瓜熟蒂落_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-生花妙笔",
+      "title": "中文-生花妙笔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-生花妙笔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-生花妙笔/中文-生花妙笔_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-画蛇添足",
+      "title": "中文-画蛇添足",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-画蛇添足",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-画蛇添足/中文-画蛇添足_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-画饼充饥",
+      "title": "中文-画饼充饥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-画饼充饥",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-画饼充饥/中文-画饼充饥_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-画龙点睛",
+      "title": "中文-画龙点睛",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-画龙点睛",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-画龙点睛/中文-画龙点睛_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-疑邻盗斧",
+      "title": "中文-疑邻盗斧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-疑邻盗斧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-疑邻盗斧/中文-疑邻盗斧_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-百发百中",
+      "title": "中文-百发百中",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-百发百中",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-百发百中/中文-百发百中_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-百折不挠",
+      "title": "中文-百折不挠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-百折不挠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-百折不挠/中文-百折不挠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-目不识丁",
+      "title": "中文-目不识丁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-目不识丁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-目不识丁/中文-目不识丁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-盲人摸象",
+      "title": "中文-盲人摸象",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-盲人摸象",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-盲人摸象/中文-盲人摸象_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-相得益彰",
+      "title": "中文-相得益彰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-相得益彰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-相得益彰/中文-相得益彰_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-破釜沉舟",
+      "title": "中文-破釜沉舟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-破釜沉舟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-破釜沉舟/中文-破釜沉舟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-程门立雪",
+      "title": "中文-程门立雪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-程门立雪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-程门立雪/中文-程门立雪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-空城计",
+      "title": "中文-空城计",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-空城计",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-空城计/中文-空城计_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-精卫填海",
+      "title": "中文-精卫填海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-精卫填海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-精卫填海/中文-精卫填海_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-精益求精",
+      "title": "中文-精益求精",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-精益求精",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-精益求精/中文-精益求精_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-纸上谈兵",
+      "title": "中文-纸上谈兵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-纸上谈兵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-纸上谈兵/中文-纸上谈兵_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老生常谈",
+      "title": "中文-老生常谈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-老生常谈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-老生常谈/中文-老生常谈_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老马识途",
+      "title": "中文-老马识途",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-老马识途",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-老马识途/中文-老马识途_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-背水一战",
+      "title": "中文-背水一战",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-背水一战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-背水一战/中文-背水一战_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-胸有丘壑",
+      "title": "中文-胸有丘壑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-胸有丘壑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-胸有丘壑/中文-胸有丘壑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-胸有成竹",
+      "title": "中文-胸有成竹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-胸有成竹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-胸有成竹/中文-胸有成竹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-脱胎换骨",
+      "title": "中文-脱胎换骨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-脱胎换骨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-脱胎换骨/中文-脱胎换骨_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-自相矛盾",
+      "title": "中文-自相矛盾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-自相矛盾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-自相矛盾/中文-自相矛盾_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-良药苦口",
+      "title": "中文-良药苦口",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-良药苦口",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-良药苦口/中文-良药苦口_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-艰苦卓绝",
+      "title": "中文-艰苦卓绝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-艰苦卓绝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-艰苦卓绝/中文-艰苦卓绝_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-草船借箭",
+      "title": "中文-草船借箭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-草船借箭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-草船借箭/中文-草船借箭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-螳臂当车",
+      "title": "中文-螳臂当车",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-螳臂当车",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-螳臂当车/中文-螳臂当车_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-见义勇为",
+      "title": "中文-见义勇为",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-见义勇为",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-见义勇为/中文-见义勇为_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-言传身教",
+      "title": "中文-言传身教",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-言传身教",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-言传身教/中文-言传身教_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-负荆请罪",
+      "title": "中文-负荆请罪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-负荆请罪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-负荆请罪/中文-负荆请罪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-过河拆桥",
+      "title": "中文-过河拆桥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-过河拆桥",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-过河拆桥/中文-过河拆桥_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-邯郸学步",
+      "title": "中文-邯郸学步",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-邯郸学步",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-邯郸学步/中文-邯郸学步_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-郑人买履",
+      "title": "中文-郑人买履",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-郑人买履",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-郑人买履/中文-郑人买履_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-铁杵磨针",
+      "title": "中文-铁杵磨针",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-铁杵磨针",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-铁杵磨针/中文-铁杵磨针_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-门可罗雀",
+      "title": "中文-门可罗雀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-门可罗雀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-门可罗雀/中文-门可罗雀_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-门庭若市",
+      "title": "中文-门庭若市",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-门庭若市",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-门庭若市/中文-门庭若市_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-闻鸡起舞",
+      "title": "中文-闻鸡起舞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-闻鸡起舞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-闻鸡起舞/中文-闻鸡起舞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-高山流水",
+      "title": "中文-高山流水",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-高山流水",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-高山流水/中文-高山流水_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鹏程万里",
+      "title": "中文-鹏程万里",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-鹏程万里",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-鹏程万里/中文-鹏程万里_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鹤立鸡群",
+      "title": "中文-鹤立鸡群",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-鹤立鸡群",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-鹤立鸡群/中文-鹤立鸡群_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鹬蚌相争",
+      "title": "中文-鹬蚌相争",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/成语故事/中文歌曲/中文-鹬蚌相争",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/成语故事/中文歌曲/中文-鹬蚌相争/中文-鹬蚌相争_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

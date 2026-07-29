@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲",
   "name": "双语歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/名著导读.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/双语歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 104,
@@ -16,728 +16,1144 @@
       "title": "七侠五义 Seven Heroes and Five Gallants",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/七侠五义 Seven Heroes and Five Gallants"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/七侠五义 Seven Heroes and Five Gallants",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/七侠五义 Seven Heroes and Five Gallants/七侠五义 Seven Heroes and Five Gallants_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三侠五义 Three Heroes and Five Gallants",
       "title": "三侠五义 Three Heroes and Five Gallants",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/三侠五义 Three Heroes and Five Gallants"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/三侠五义 Three Heroes and Five Gallants",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/三侠五义 Three Heroes and Five Gallants/三侠五义 Three Heroes and Five Gallants_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三国志 Records of the Three Kingdoms",
       "title": "三国志 Records of the Three Kingdoms",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/三国志 Records of the Three Kingdoms"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/三国志 Records of the Three Kingdoms",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/三国志 Records of the Three Kingdoms/三国志 Records of the Three Kingdoms_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三国演义 Romance of the Three Kingdoms",
       "title": "三国演义 Romance of the Three Kingdoms",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/三国演义 Romance of the Three Kingdoms"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/三国演义 Romance of the Three Kingdoms",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/三国演义 Romance of the Three Kingdoms/三国演义 Romance of the Three Kingdoms_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "世说新语 A New Account of Tales of the World",
       "title": "世说新语 A New Account of Tales of the World",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/世说新语 A New Account of Tales of the World"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/世说新语 A New Account of Tales of the World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/世说新语 A New Account of Tales of the World/世说新语 A New Account of Tales of the World_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "东周列国志 Tales of the States of the Eastern Zhou",
       "title": "东周列国志 Tales of the States of the Eastern Zhou",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/东周列国志 Tales of the States of the Eastern Zhou"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/东周列国志 Tales of the States of the Eastern Zhou",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/东周列国志 Tales of the States of the Eastern Zhou/东周列国志 Tales of the States of the Eastern Zhou_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中庸 The Doctrine of the Mean",
       "title": "中庸 The Doctrine of the Mean",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/中庸 The Doctrine of the Mean"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/中庸 The Doctrine of the Mean",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/中庸 The Doctrine of the Mean/中庸 The Doctrine of the Mean_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乐府诗集 Collection of Yuefu Poems",
       "title": "乐府诗集 Collection of Yuefu Poems",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/乐府诗集 Collection of Yuefu Poems"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/乐府诗集 Collection of Yuefu Poems",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/乐府诗集 Collection of Yuefu Poems/乐府诗集 Collection of Yuefu Poems_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "二刻拍案惊奇 Amazing Tales Second Series",
       "title": "二刻拍案惊奇 Amazing Tales Second Series",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/二刻拍案惊奇 Amazing Tales Second Series"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/二刻拍案惊奇 Amazing Tales Second Series",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/二刻拍案惊奇 Amazing Tales Second Series/二刻拍案惊奇 Amazing Tales Second Series_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "儿女英雄传 Heroic Daughters and Sons",
       "title": "儿女英雄传 Heroic Daughters and Sons",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/儿女英雄传 Heroic Daughters and Sons"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/儿女英雄传 Heroic Daughters and Sons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/儿女英雄传 Heroic Daughters and Sons/儿女英雄传 Heroic Daughters and Sons_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "八仙过海 Eight Immortals Cross the Sea",
       "title": "八仙过海 Eight Immortals Cross the Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/八仙过海 Eight Immortals Cross the Sea"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/八仙过海 Eight Immortals Cross the Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/八仙过海 Eight Immortals Cross the Sea/八仙过海 Eight Immortals Cross the Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "农政全书 Complete Treatise on Agricultural Administration",
       "title": "农政全书 Complete Treatise on Agricultural Administration",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/农政全书 Complete Treatise on Agricultural Administration"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/农政全书 Complete Treatise on Agricultural Administration",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/农政全书 Complete Treatise on Agricultural Administration/农政全书 Complete Treatise on Agricultural Administration_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "列子 Liezi",
       "title": "列子 Liezi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/列子 Liezi"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/列子 Liezi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/列子 Liezi/列子 Liezi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "初刻拍案惊奇 Amazing Tales First Series",
       "title": "初刻拍案惊奇 Amazing Tales First Series",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/初刻拍案惊奇 Amazing Tales First Series"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/初刻拍案惊奇 Amazing Tales First Series",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/初刻拍案惊奇 Amazing Tales First Series/初刻拍案惊奇 Amazing Tales First Series_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "包公案 Cases of Judge Bao",
       "title": "包公案 Cases of Judge Bao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/包公案 Cases of Judge Bao"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/包公案 Cases of Judge Bao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/包公案 Cases of Judge Bao/包公案 Cases of Judge Bao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "千家诗 One Thousand Family Poems",
       "title": "千家诗 One Thousand Family Poems",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/千家诗 One Thousand Family Poems"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/千家诗 One Thousand Family Poems",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/千家诗 One Thousand Family Poems/千家诗 One Thousand Family Poems_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "古文观止 Guwen Guanzhi",
       "title": "古文观止 Guwen Guanzhi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/古文观止 Guwen Guanzhi"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/古文观止 Guwen Guanzhi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/古文观止 Guwen Guanzhi/古文观止 Guwen Guanzhi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "史记 Records of the Grand Historian",
       "title": "史记 Records of the Grand Historian",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/史记 Records of the Grand Historian"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/史记 Records of the Grand Historian",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/史记 Records of the Grand Historian/史记 Records of the Grand Historian_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "后汉书 Book of the Later Han",
       "title": "后汉书 Book of the Later Han",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/后汉书 Book of the Later Han"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/后汉书 Book of the Later Han",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/后汉书 Book of the Later Han/后汉书 Book of the Later Han_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "后羿射日 Houyi Shoots the Suns",
       "title": "后羿射日 Houyi Shoots the Suns",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/后羿射日 Houyi Shoots the Suns"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/后羿射日 Houyi Shoots the Suns",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/后羿射日 Houyi Shoots the Suns/后羿射日 Houyi Shoots the Suns_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吕氏春秋 Spring and Autumn of Lü Buwei",
       "title": "吕氏春秋 Spring and Autumn of Lü Buwei",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/吕氏春秋 Spring and Autumn of Lü Buwei"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/吕氏春秋 Spring and Autumn of Lü Buwei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/吕氏春秋 Spring and Autumn of Lü Buwei/吕氏春秋 Spring and Autumn of Lü Buwei_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "呐喊 Call to Arms",
       "title": "呐喊 Call to Arms",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/呐喊 Call to Arms"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/呐喊 Call to Arms",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/呐喊 Call to Arms/呐喊 Call to Arms_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "哪吒闹海 Nezha Conquers the Dragon King",
       "title": "哪吒闹海 Nezha Conquers the Dragon King",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/哪吒闹海 Nezha Conquers the Dragon King"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/哪吒闹海 Nezha Conquers the Dragon King",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/哪吒闹海 Nezha Conquers the Dragon King/哪吒闹海 Nezha Conquers the Dragon King_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "唐诗三百首 Three Hundred Tang Poems",
       "title": "唐诗三百首 Three Hundred Tang Poems",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/唐诗三百首 Three Hundred Tang Poems"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/唐诗三百首 Three Hundred Tang Poems",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/唐诗三百首 Three Hundred Tang Poems/唐诗三百首 Three Hundred Tang Poems_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "喻世明言 Stories to Enlighten the World",
       "title": "喻世明言 Stories to Enlighten the World",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/喻世明言 Stories to Enlighten the World"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/喻世明言 Stories to Enlighten the World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/喻世明言 Stories to Enlighten the World/喻世明言 Stories to Enlighten the World_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "围城 Fortress Besieged",
       "title": "围城 Fortress Besieged",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/围城 Fortress Besieged"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/围城 Fortress Besieged",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/围城 Fortress Besieged/围城 Fortress Besieged_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "国语 Discourses of the States",
       "title": "国语 Discourses of the States",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/国语 Discourses of the States"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/国语 Discourses of the States",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/国语 Discourses of the States/国语 Discourses of the States_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "墨子 Mozi",
       "title": "墨子 Mozi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/墨子 Mozi"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/墨子 Mozi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/墨子 Mozi/墨子 Mozi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大学 The Great Learning",
       "title": "大学 The Great Learning",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/大学 The Great Learning"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/大学 The Great Learning",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/大学 The Great Learning/大学 The Great Learning_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大禹治水 Da Yu Controls the Flood",
       "title": "大禹治水 Da Yu Controls the Flood",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/大禹治水 Da Yu Controls the Flood"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/大禹治水 Da Yu Controls the Flood",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/大禹治水 Da Yu Controls the Flood/大禹治水 Da Yu Controls the Flood_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "天工开物 Tiangong Kaiwu",
       "title": "天工开物 Tiangong Kaiwu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/天工开物 Tiangong Kaiwu"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/天工开物 Tiangong Kaiwu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/天工开物 Tiangong Kaiwu/天工开物 Tiangong Kaiwu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "女娲造人 Nüwa Creates Humans",
       "title": "女娲造人 Nüwa Creates Humans",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/女娲造人 Nüwa Creates Humans"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/女娲造人 Nüwa Creates Humans",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/女娲造人 Nüwa Creates Humans/女娲造人 Nüwa Creates Humans_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "嫦娥奔月 Chang'e Flies to the Moon",
       "title": "嫦娥奔月 Chang'e Flies to the Moon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/嫦娥奔月 Chang'e Flies to the Moon"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/嫦娥奔月 Chang'e Flies to the Moon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/嫦娥奔月 Chang'e Flies to the Moon/嫦娥奔月 Chang'e Flies to the Moon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "子夜 Midnight",
       "title": "子夜 Midnight",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/子夜 Midnight"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/子夜 Midnight",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/子夜 Midnight/子夜 Midnight_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孙子兵法 The Art of War",
       "title": "孙子兵法 The Art of War",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/孙子兵法 The Art of War"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/孙子兵法 The Art of War",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/孙子兵法 The Art of War/孙子兵法 The Art of War_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孟姜女 Meng Jiangnu",
       "title": "孟姜女 Meng Jiangnu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/孟姜女 Meng Jiangnu"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/孟姜女 Meng Jiangnu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/孟姜女 Meng Jiangnu/孟姜女 Meng Jiangnu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "孟子 Mencius",
       "title": "孟子 Mencius",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/孟子 Mencius"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/孟子 Mencius",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/孟子 Mencius/孟子 Mencius_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "宝莲灯 Lotus Lantern",
       "title": "宝莲灯 Lotus Lantern",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/宝莲灯 Lotus Lantern"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/宝莲灯 Lotus Lantern",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/宝莲灯 Lotus Lantern/宝莲灯 Lotus Lantern_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "家 Family",
       "title": "家 Family",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/家 Family"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/家 Family",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/家 Family/家 Family_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "封神演义 Creation of the Gods",
       "title": "封神演义 Creation of the Gods",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/封神演义 Creation of the Gods"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/封神演义 Creation of the Gods",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/封神演义 Creation of the Gods/封神演义 Creation of the Gods_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "山海经 Classic of Mountains and Seas",
       "title": "山海经 Classic of Mountains and Seas",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/山海经 Classic of Mountains and Seas"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/山海经 Classic of Mountains and Seas",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/山海经 Classic of Mountains and Seas/山海经 Classic of Mountains and Seas_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "左传 Zuo Zhuan",
       "title": "左传 Zuo Zhuan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/左传 Zuo Zhuan"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/左传 Zuo Zhuan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/左传 Zuo Zhuan/左传 Zuo Zhuan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "平凡的世界 Ordinary World",
       "title": "平凡的世界 Ordinary World",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/平凡的世界 Ordinary World"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/平凡的世界 Ordinary World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/平凡的世界 Ordinary World/平凡的世界 Ordinary World_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "庄子 Zhuangzi",
       "title": "庄子 Zhuangzi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/庄子 Zhuangzi"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/庄子 Zhuangzi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/庄子 Zhuangzi/庄子 Zhuangzi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "彭公案 Cases of Magistrate Peng",
       "title": "彭公案 Cases of Magistrate Peng",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/彭公案 Cases of Magistrate Peng"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/彭公案 Cases of Magistrate Peng",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/彭公案 Cases of Magistrate Peng/彭公案 Cases of Magistrate Peng_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "彷徨 Hesitation",
       "title": "彷徨 Hesitation",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/彷徨 Hesitation"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/彷徨 Hesitation",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/彷徨 Hesitation/彷徨 Hesitation_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "徐霞客游记 Xu Xiake's Travels",
       "title": "徐霞客游记 Xu Xiake's Travels",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/徐霞客游记 Xu Xiake's Travels"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/徐霞客游记 Xu Xiake's Travels",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/徐霞客游记 Xu Xiake's Travels/徐霞客游记 Xu Xiake's Travels_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "愚公移山 The Foolish Old Man Removes the Mountains",
       "title": "愚公移山 The Foolish Old Man Removes the Mountains",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/愚公移山 The Foolish Old Man Removes the Mountains"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/愚公移山 The Foolish Old Man Removes the Mountains",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/愚公移山 The Foolish Old Man Removes the Mountains/愚公移山 The Foolish Old Man Removes the Mountains_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "战国策 Strategies of the Warring States",
       "title": "战国策 Strategies of the Warring States",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/战国策 Strategies of the Warring States"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/战国策 Strategies of the Warring States",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/战国策 Strategies of the Warring States/战国策 Strategies of the Warring States_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "搜神记 In Search of the Supernatural",
       "title": "搜神记 In Search of the Supernatural",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/搜神记 In Search of the Supernatural"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/搜神记 In Search of the Supernatural",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/搜神记 In Search of the Supernatural/搜神记 In Search of the Supernatural_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "文心雕龙 The Literary Mind and the Carving of Dragons",
       "title": "文心雕龙 The Literary Mind and the Carving of Dragons",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/文心雕龙 The Literary Mind and the Carving of Dragons"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/文心雕龙 The Literary Mind and the Carving of Dragons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/文心雕龙 The Literary Mind and the Carving of Dragons/文心雕龙 The Literary Mind and the Carving of Dragons_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "施公案 Cases of Magistrate Shi",
       "title": "施公案 Cases of Magistrate Shi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/施公案 Cases of Magistrate Shi"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/施公案 Cases of Magistrate Shi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/施公案 Cases of Magistrate Shi/施公案 Cases of Magistrate Shi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春 Spring",
       "title": "春 Spring",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/春 Spring"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/春 Spring",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/春 Spring/春 Spring_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "朝花夕拾 Dawn Blossoms Plucked at Dusk",
       "title": "朝花夕拾 Dawn Blossoms Plucked at Dusk",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/朝花夕拾 Dawn Blossoms Plucked at Dusk"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/朝花夕拾 Dawn Blossoms Plucked at Dusk",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/朝花夕拾 Dawn Blossoms Plucked at Dusk/朝花夕拾 Dawn Blossoms Plucked at Dusk_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "本草纲目 Compendium of Materia Medica",
       "title": "本草纲目 Compendium of Materia Medica",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/本草纲目 Compendium of Materia Medica"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/本草纲目 Compendium of Materia Medica",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/本草纲目 Compendium of Materia Medica/本草纲目 Compendium of Materia Medica_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "桃花扇 The Peach Blossom Fan",
       "title": "桃花扇 The Peach Blossom Fan",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/桃花扇 The Peach Blossom Fan"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/桃花扇 The Peach Blossom Fan",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/桃花扇 The Peach Blossom Fan/桃花扇 The Peach Blossom Fan_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梁山伯与祝英台 Liang Shanbo and Zhu Yingtai",
       "title": "梁山伯与祝英台 Liang Shanbo and Zhu Yingtai",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/梁山伯与祝英台 Liang Shanbo and Zhu Yingtai"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/梁山伯与祝英台 Liang Shanbo and Zhu Yingtai",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/梁山伯与祝英台 Liang Shanbo and Zhu Yingtai/梁山伯与祝英台 Liang Shanbo and Zhu Yingtai_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梦溪笔谈 Brush Talks from Dream Brook",
       "title": "梦溪笔谈 Brush Talks from Dream Brook",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/梦溪笔谈 Brush Talks from Dream Brook"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/梦溪笔谈 Brush Talks from Dream Brook",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/梦溪笔谈 Brush Talks from Dream Brook/梦溪笔谈 Brush Talks from Dream Brook_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "楚辞 Songs of Chu",
       "title": "楚辞 Songs of Chu",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/楚辞 Songs of Chu"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/楚辞 Songs of Chu",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/楚辞 Songs of Chu/楚辞 Songs of Chu_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "水浒传 Water Margin",
       "title": "水浒传 Water Margin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/水浒传 Water Margin"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/水浒传 Water Margin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/水浒传 Water Margin/水浒传 Water Margin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "汉书 Book of Han",
       "title": "汉书 Book of Han",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/汉书 Book of Han"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/汉书 Book of Han",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/汉书 Book of Han/汉书 Book of Han_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "汉宫秋 Autumn in the Han Palace",
       "title": "汉宫秋 Autumn in the Han Palace",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/汉宫秋 Autumn in the Han Palace"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/汉宫秋 Autumn in the Han Palace",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/汉宫秋 Autumn in the Han Palace/汉宫秋 Autumn in the Han Palace_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "活着 To Live",
       "title": "活着 To Live",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/活着 To Live"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/活着 To Live",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/活着 To Live/活着 To Live_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "济公传 Tale of Ji Gong",
       "title": "济公传 Tale of Ji Gong",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/济公传 Tale of Ji Gong"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/济公传 Tale of Ji Gong",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/济公传 Tale of Ji Gong/济公传 Tale of Ji Gong_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "浣纱记 The Washing Gauze",
       "title": "浣纱记 The Washing Gauze",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/浣纱记 The Washing Gauze"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/浣纱记 The Washing Gauze",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/浣纱记 The Washing Gauze/浣纱记 The Washing Gauze_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "淮南子 Huainanzi",
       "title": "淮南子 Huainanzi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/淮南子 Huainanzi"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/淮南子 Huainanzi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/淮南子 Huainanzi/淮南子 Huainanzi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "牛郎织女 Cowherd and Weaver Girl",
       "title": "牛郎织女 Cowherd and Weaver Girl",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/牛郎织女 Cowherd and Weaver Girl"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/牛郎织女 Cowherd and Weaver Girl",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/牛郎织女 Cowherd and Weaver Girl/牛郎织女 Cowherd and Weaver Girl_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "牡丹亭 The Peony Pavilion",
       "title": "牡丹亭 The Peony Pavilion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/牡丹亭 The Peony Pavilion"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/牡丹亭 The Peony Pavilion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/牡丹亭 The Peony Pavilion/牡丹亭 The Peony Pavilion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玉台新咏 Jade Terrace New Poems",
       "title": "玉台新咏 Jade Terrace New Poems",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/玉台新咏 Jade Terrace New Poems"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/玉台新咏 Jade Terrace New Poems",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/玉台新咏 Jade Terrace New Poems/玉台新咏 Jade Terrace New Poems_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "琵琶记 The Story of the Lute",
       "title": "琵琶记 The Story of the Lute",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/琵琶记 The Story of the Lute"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/琵琶记 The Story of the Lute",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/琵琶记 The Story of the Lute/琵琶记 The Story of the Lute_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白蛇传 Legend of the White Snake",
       "title": "白蛇传 Legend of the White Snake",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/白蛇传 Legend of the White Snake"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/白蛇传 Legend of the White Snake",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/白蛇传 Legend of the White Snake/白蛇传 Legend of the White Snake_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白鹿原 White Deer Plain",
       "title": "白鹿原 White Deer Plain",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/白鹿原 White Deer Plain"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/白鹿原 White Deer Plain",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/白鹿原 White Deer Plain/白鹿原 White Deer Plain_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "盘古开天 Pangu Creates the World",
       "title": "盘古开天 Pangu Creates the World",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/盘古开天 Pangu Creates the World"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/盘古开天 Pangu Creates the World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/盘古开天 Pangu Creates the World/盘古开天 Pangu Creates the World_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "秋 Autumn",
       "title": "秋 Autumn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/秋 Autumn"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/秋 Autumn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/秋 Autumn/秋 Autumn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "窦娥冤 The Injustice to Dou E",
       "title": "窦娥冤 The Injustice to Dou E",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/窦娥冤 The Injustice to Dou E"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/窦娥冤 The Injustice to Dou E",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/窦娥冤 The Injustice to Dou E/窦娥冤 The Injustice to Dou E_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "管子 Guanzi",
       "title": "管子 Guanzi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/管子 Guanzi"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/管子 Guanzi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/管子 Guanzi/管子 Guanzi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "精卫填海 Jingwei Fills the Sea",
       "title": "精卫填海 Jingwei Fills the Sea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/精卫填海 Jingwei Fills the Sea"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/精卫填海 Jingwei Fills the Sea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/精卫填海 Jingwei Fills the Sea/精卫填海 Jingwei Fills the Sea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红楼梦 Dream of the Red Chamber",
       "title": "红楼梦 Dream of the Red Chamber",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/红楼梦 Dream of the Red Chamber"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/红楼梦 Dream of the Red Chamber",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/红楼梦 Dream of the Red Chamber/红楼梦 Dream of the Red Chamber_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红高粱家族 Red Sorghum",
       "title": "红高粱家族 Red Sorghum",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/红高粱家族 Red Sorghum"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/红高粱家族 Red Sorghum",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/红高粱家族 Red Sorghum/红高粱家族 Red Sorghum_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老残游记 The Travels of Lao Can",
       "title": "老残游记 The Travels of Lao Can",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/老残游记 The Travels of Lao Can"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/老残游记 The Travels of Lao Can",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/老残游记 The Travels of Lao Can/老残游记 The Travels of Lao Can_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "聊斋志异 Strange Tales from a Chinese Studio",
       "title": "聊斋志异 Strange Tales from a Chinese Studio",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/聊斋志异 Strange Tales from a Chinese Studio"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/聊斋志异 Strange Tales from a Chinese Studio",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/聊斋志异 Strange Tales from a Chinese Studio/聊斋志异 Strange Tales from a Chinese Studio_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "花间集 Among the Flowers",
       "title": "花间集 Among the Flowers",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/花间集 Among the Flowers"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/花间集 Among the Flowers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/花间集 Among the Flowers/花间集 Among the Flowers_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "茶经 Classic of Tea",
       "title": "茶经 Classic of Tea",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/茶经 Classic of Tea"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/茶经 Classic of Tea",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/茶经 Classic of Tea/茶经 Classic of Tea_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "荀子 Xunzi",
       "title": "荀子 Xunzi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/荀子 Xunzi"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/荀子 Xunzi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/荀子 Xunzi/荀子 Xunzi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "薛刚反唐 Xue Gang Rebels Against Tang",
       "title": "薛刚反唐 Xue Gang Rebels Against Tang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/薛刚反唐 Xue Gang Rebels Against Tang"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/薛刚反唐 Xue Gang Rebels Against Tang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/薛刚反唐 Xue Gang Rebels Against Tang/薛刚反唐 Xue Gang Rebels Against Tang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蛙 Frog",
       "title": "蛙 Frog",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/蛙 Frog"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/蛙 Frog",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/蛙 Frog/蛙 Frog_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "西厢记 The Romance of the Western Chamber",
       "title": "西厢记 The Romance of the Western Chamber",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/西厢记 The Romance of the Western Chamber"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/西厢记 The Romance of the Western Chamber",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/西厢记 The Romance of the Western Chamber/西厢记 The Romance of the Western Chamber_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "西游记 Journey to the West",
       "title": "西游记 Journey to the West",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/西游记 Journey to the West"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/西游记 Journey to the West",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/西游记 Journey to the West/西游记 Journey to the West_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "警世通言 Stories to Caution the World",
       "title": "警世通言 Stories to Caution the World",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/警世通言 Stories to Caution the World"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/警世通言 Stories to Caution the World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/警世通言 Stories to Caution the World/警世通言 Stories to Caution the World_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "论语 The Analects",
       "title": "论语 The Analects",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/论语 The Analects"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/论语 The Analects",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/论语 The Analects/论语 The Analects_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "诗经 Book of Songs",
       "title": "诗经 Book of Songs",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/诗经 Book of Songs"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/诗经 Book of Songs",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/诗经 Book of Songs/诗经 Book of Songs_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "说岳全传 Complete Tale of Yue Fei",
       "title": "说岳全传 Complete Tale of Yue Fei",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/说岳全传 Complete Tale of Yue Fei"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/说岳全传 Complete Tale of Yue Fei",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/说岳全传 Complete Tale of Yue Fei/说岳全传 Complete Tale of Yue Fei_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "资治通鉴 Comprehensive Mirror in Aid of Governance",
       "title": "资治通鉴 Comprehensive Mirror in Aid of Governance",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/资治通鉴 Comprehensive Mirror in Aid of Governance"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/资治通鉴 Comprehensive Mirror in Aid of Governance",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/资治通鉴 Comprehensive Mirror in Aid of Governance/资治通鉴 Comprehensive Mirror in Aid of Governance_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "赵氏孤儿 The Orphan of Zhao",
       "title": "赵氏孤儿 The Orphan of Zhao",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/赵氏孤儿 The Orphan of Zhao"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/赵氏孤儿 The Orphan of Zhao",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/赵氏孤儿 The Orphan of Zhao/赵氏孤儿 The Orphan of Zhao_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "边城 Border Town",
       "title": "边城 Border Town",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/边城 Border Town"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/边城 Border Town",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/边城 Border Town/边城 Border Town_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "道德经 Tao Te Ching",
       "title": "道德经 Tao Te Ching",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/道德经 Tao Te Ching"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/道德经 Tao Te Ching",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/道德经 Tao Te Ching/道德经 Tao Te Ching_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "醒世恒言 Stories to Awaken the World",
       "title": "醒世恒言 Stories to Awaken the World",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/醒世恒言 Stories to Awaken the World"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/醒世恒言 Stories to Awaken the World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/醒世恒言 Stories to Awaken the World/醒世恒言 Stories to Awaken the World_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "镜花缘 Flowers in the Mirror",
       "title": "镜花缘 Flowers in the Mirror",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/镜花缘 Flowers in the Mirror"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/镜花缘 Flowers in the Mirror",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/镜花缘 Flowers in the Mirror/镜花缘 Flowers in the Mirror_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "长生殿 The Palace of Eternal Life",
       "title": "长生殿 The Palace of Eternal Life",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/长生殿 The Palace of Eternal Life"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/长生殿 The Palace of Eternal Life",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/长生殿 The Palace of Eternal Life/长生殿 The Palace of Eternal Life_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "阅微草堂笔记 Notes from the Thatched Cottage",
       "title": "阅微草堂笔记 Notes from the Thatched Cottage",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/阅微草堂笔记 Notes from the Thatched Cottage"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/阅微草堂笔记 Notes from the Thatched Cottage",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/阅微草堂笔记 Notes from the Thatched Cottage/阅微草堂笔记 Notes from the Thatched Cottage_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "隋唐演义 Romance of Sui and Tang",
       "title": "隋唐演义 Romance of Sui and Tang",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/隋唐演义 Romance of Sui and Tang"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/隋唐演义 Romance of Sui and Tang",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/隋唐演义 Romance of Sui and Tang/隋唐演义 Romance of Sui and Tang_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "韩非子 Hanfeizi",
       "title": "韩非子 Hanfeizi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/韩非子 Hanfeizi"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/韩非子 Hanfeizi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/韩非子 Hanfeizi/韩非子 Hanfeizi_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "骆驼祥子 Rickshaw Boy",
       "title": "骆驼祥子 Rickshaw Boy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/骆驼祥子 Rickshaw Boy"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/骆驼祥子 Rickshaw Boy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/骆驼祥子 Rickshaw Boy/骆驼祥子 Rickshaw Boy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鬼谷子 Guiguzi",
       "title": "鬼谷子 Guiguzi",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/鬼谷子 Guiguzi"
+      "path": "瞎编的歌曲/名著导读/国内名著/双语歌曲/鬼谷子 Guiguzi",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/名著导读/国内名著/双语歌曲/鬼谷子 Guiguzi/鬼谷子 Guiguzi_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

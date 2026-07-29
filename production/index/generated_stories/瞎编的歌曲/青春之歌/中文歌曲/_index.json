@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/青春之歌/中文歌曲",
   "name": "中文歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/青春之歌.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/中文歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 248,
@@ -16,1736 +16,2728 @@
       "title": "一切都会好的",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/一切都会好的"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/一切都会好的",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/一切都会好的/一切都会好的_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一张明信片",
       "title": "一张明信片",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/一张明信片"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/一张明信片",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/一张明信片/一张明信片_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一往无前",
       "title": "一往无前",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/一往无前"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/一往无前",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/一往无前/一往无前_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一直在路上",
       "title": "一直在路上",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/一直在路上"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/一直在路上",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/一直在路上/一直在路上_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一起走吧",
       "title": "一起走吧",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/一起走吧"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/一起走吧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/一起走吧/一起走吧_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一路有你",
       "title": "一路有你",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/一路有你"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/一路有你",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/一路有你/一路有你_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "上课铃声",
       "title": "上课铃声",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/上课铃声"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/上课铃声",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/上课铃声/上课铃声_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "下课了",
       "title": "下课了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/下课了"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/下课了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/下课了/下课了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不屈",
       "title": "不屈",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/不屈"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/不屈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/不屈/不屈_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不留退路",
       "title": "不留退路",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/不留退路"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/不留退路",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/不留退路/不留退路_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不落旗帜",
       "title": "不落旗帜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/不落旗帜"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/不落旗帜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/不落旗帜/不落旗帜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不要紧",
       "title": "不要紧",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/不要紧"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/不要紧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/不要紧/不要紧_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不负青春",
       "title": "不负青春",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/不负青春"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/不负青春",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/不负青春/不负青春_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不负韶华",
       "title": "不负韶华",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/不负韶华"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/不负韶华",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/不负韶华/不负韶华_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不退",
       "title": "不退",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/不退"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/不退",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/不退/不退_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不问归期",
       "title": "不问归期",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/不问归期"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/不问归期",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/不问归期/不问归期_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "为信念而战",
       "title": "为信念而战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/为信念而战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/为信念而战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/为信念而战/为信念而战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "乘风",
       "title": "乘风",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/乘风"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/乘风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/乘风/乘风_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "也许有一天",
       "title": "也许有一天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/也许有一天"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/也许有一天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/也许有一天/也许有一天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "云朵",
       "title": "云朵",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/云朵"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/云朵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/云朵/云朵_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "亮剑",
       "title": "亮剑",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/亮剑"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/亮剑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/亮剑/亮剑_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "以梦为马",
       "title": "以梦为马",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/以梦为马"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/以梦为马",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/以梦为马/以梦为马_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "众志成城",
       "title": "众志成城",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/众志成城"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/众志成城",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/众志成城/众志成城_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "你并不孤单",
       "title": "你并不孤单",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/你并不孤单"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/你并不孤单",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/你并不孤单/你并不孤单_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "你是我的阳光",
       "title": "你是我的阳光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/你是我的阳光"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/你是我的阳光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/你是我的阳光/你是我的阳光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "光芒",
       "title": "光芒",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/光芒"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/光芒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/光芒/光芒_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "全力一击",
       "title": "全力一击",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/全力一击"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/全力一击",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/全力一击/全力一击_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "全力以赴",
       "title": "全力以赴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/全力以赴"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/全力以赴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/全力以赴/全力以赴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "关键时刻",
       "title": "关键时刻",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/关键时刻"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/关键时刻",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/关键时刻/关键时刻_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "写给十年后",
       "title": "写给十年后",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/写给十年后"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/写给十年后",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/写给十年后/写给十年后_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "写给青春",
       "title": "写给青春",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/写给青春"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/写给青春",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/写给青春/写给青春_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "写给青春的诗",
       "title": "写给青春的诗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/写给青春的诗"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/写给青春的诗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/写给青春的诗/写给青春的诗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冲",
       "title": "冲",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/冲/冲_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冲刺",
       "title": "冲刺",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲刺"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲刺",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/冲刺/冲刺_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冲刺时刻",
       "title": "冲刺时刻",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲刺时刻"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲刺时刻",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/冲刺时刻/冲刺时刻_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冲破极限",
       "title": "冲破极限",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲破极限"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲破极限",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/冲破极限/冲破极限_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冲锋",
       "title": "冲锋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲锋"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲锋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/冲锋/冲锋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冲锋号",
       "title": "冲锋号",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲锋号"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/冲锋号",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/冲锋号/冲锋号_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "决战",
       "title": "决战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/决战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/决战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/决战/决战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "决胜",
       "title": "决胜",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/决胜"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/决胜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/决胜/决胜_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "决胜时刻",
       "title": "决胜时刻",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/决胜时刻"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/决胜时刻",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/决胜时刻/决胜时刻_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "凯旋",
       "title": "凯旋",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/凯旋"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/凯旋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/凯旋/凯旋_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "出击",
       "title": "出击",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/出击"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/出击",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/出击/出击_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "出发吧",
       "title": "出发吧",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/出发吧"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/出发吧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/出发吧/出发吧_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "出征",
       "title": "出征",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/出征"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/出征",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/出征/出征_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "初心不改",
       "title": "初心不改",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/初心不改"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/初心不改",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/初心不改/初心不改_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "别回头",
       "title": "别回头",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/别回头"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/别回头",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/别回头/别回头_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "前方有梦",
       "title": "前方有梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/前方有梦"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/前方有梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/前方有梦/前方有梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "势不可挡",
       "title": "势不可挡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/势不可挡"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/势不可挡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/势不可挡/势不可挡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "单车后座",
       "title": "单车后座",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/单车后座"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/单车后座",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/单车后座/单车后座_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "反击",
       "title": "反击",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/反击"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/反击",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/反击/反击_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "同桌的你",
       "title": "同桌的你",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/同桌的你"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/同桌的你",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/同桌的你/同桌的你_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "同桌的纸条",
       "title": "同桌的纸条",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/同桌的纸条"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/同桌的纸条",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/同桌的纸条/同桌的纸条_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "同舟共济",
       "title": "同舟共济",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/同舟共济"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/同舟共济",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/同舟共济/同舟共济_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "后来的我们",
       "title": "后来的我们",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/后来的我们"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/后来的我们",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/后来的我们/后来的我们_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "向光而行",
       "title": "向光而行",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/向光而行"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/向光而行",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/向光而行/向光而行_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "向着光",
       "title": "向着光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/向着光"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/向着光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/向着光/向着光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "向着光走",
       "title": "向着光走",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/向着光走"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/向着光走",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/向着光走/向着光走_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "听风唱歌",
       "title": "听风唱歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/听风唱歌"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/听风唱歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/听风唱歌/听风唱歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "启明星",
       "title": "启明星",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/启明星"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/启明星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/启明星/启明星_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "启航",
       "title": "启航",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/启航"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/启航",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/启航/启航_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "和你一样",
       "title": "和你一样",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/和你一样"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/和你一样",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/和你一样/和你一样_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "回不去的昨天",
       "title": "回不去的昨天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/回不去的昨天"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/回不去的昨天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/回不去的昨天/回不去的昨天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "团结的力量",
       "title": "团结的力量",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/团结的力量"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/团结的力量",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/团结的力量/团结的力量_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "图书馆的下午",
       "title": "图书馆的下午",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/图书馆的下午"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/图书馆的下午",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/图书馆的下午/图书馆的下午_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "坚不可摧",
       "title": "坚不可摧",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/坚不可摧"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/坚不可摧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/坚不可摧/坚不可摧_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大树",
       "title": "大树",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/大树"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/大树",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/大树/大树_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "天那么蓝",
       "title": "天那么蓝",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/天那么蓝"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/天那么蓝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/天那么蓝/天那么蓝_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奋力一搏",
       "title": "奋力一搏",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/奋力一搏"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/奋力一搏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/奋力一搏/奋力一搏_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奋战",
       "title": "奋战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/奋战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/奋战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/奋战/奋战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奋斗正当时",
       "title": "奋斗正当时",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/奋斗正当时"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/奋斗正当时",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/奋斗正当时/奋斗正当时_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奋斗的青春",
       "title": "奋斗的青春",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/奋斗的青春"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/奋斗的青春",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/奋斗的青春/奋斗的青春_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奔腾的后浪",
       "title": "奔腾的后浪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/奔腾的后浪"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/奔腾的后浪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/奔腾的后浪/奔腾的后浪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奔跑",
       "title": "奔跑",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/奔跑"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/奔跑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/奔跑/奔跑_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奔跑的少年",
       "title": "奔跑的少年",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/奔跑的少年"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/奔跑的少年",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/奔跑的少年/奔跑的少年_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "如果的事",
       "title": "如果的事",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/如果的事"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/如果的事",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/如果的事/如果的事_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "守护",
       "title": "守护",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/守护"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/守护",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/守护/守护_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "安静下来",
       "title": "安静下来",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/安静下来"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/安静下来",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/安静下来/安静下来_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "对决",
       "title": "对决",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/对决"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/对决",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/对决/对决_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小小的我",
       "title": "小小的我",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/小小的我"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/小小的我",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/小小的我/小小的我_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小时候",
       "title": "小时候",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/小时候"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/小时候",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/小时候/小时候_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小草",
       "title": "小草",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/小草"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/小草",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/小草/小草_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小草的倔强",
       "title": "小草的倔强",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/小草的倔强"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/小草的倔强",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/小草的倔强/小草的倔强_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "少年与海",
       "title": "少年与海",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/少年与海"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/少年与海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/少年与海/少年与海_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "少年与风",
       "title": "少年与风",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/少年与风"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/少年与风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/少年与风/少年与风_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "少年中国说",
       "title": "少年中国说",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/少年中国说"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/少年中国说",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/少年中国说/少年中国说_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "少年的你",
       "title": "少年的你",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/少年的你"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/少年的你",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/少年的你/少年的你_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "山那边",
       "title": "山那边",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/山那边"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/山那边",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/山那边/山那边_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "平凡的一天",
       "title": "平凡的一天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/平凡的一天"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/平凡的一天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/平凡的一天/平凡的一天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "年轻无极限",
       "title": "年轻无极限",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/年轻无极限"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/年轻无极限",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/年轻无极限/年轻无极限_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "年轻的战场",
       "title": "年轻的战场",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/年轻的战场"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/年轻的战场",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/年轻的战场/年轻的战场_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "并肩作战",
       "title": "并肩作战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/并肩作战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/并肩作战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/并肩作战/并肩作战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "开花的树",
       "title": "开花的树",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/开花的树"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/开花的树",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/开花的树/开花的树_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "征服",
       "title": "征服",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/征服"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/征服",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/征服/征服_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "微光",
       "title": "微光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/微光"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/微光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/微光/微光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "微风",
       "title": "微风",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/微风"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/微风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/微风/微风_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "微风轻轻吹",
       "title": "微风轻轻吹",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/微风轻轻吹"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/微风轻轻吹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/微风轻轻吹/微风轻轻吹_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "心中有火",
       "title": "心中有火",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/心中有火"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/心中有火",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/心中有火/心中有火_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "怒放",
       "title": "怒放",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/怒放"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/怒放",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/怒放/怒放_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "慢慢来",
       "title": "慢慢来",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/慢慢来"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/慢慢来",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/慢慢来/慢慢来_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "慢慢长大",
       "title": "慢慢长大",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/慢慢长大"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/慢慢长大",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/慢慢长大/慢慢长大_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "成为光",
       "title": "成为光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/成为光"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/成为光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/成为光/成为光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我们是战士",
       "title": "我们是战士",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/我们是战士"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/我们是战士",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/我们是战士/我们是战士_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我们的舞台",
       "title": "我们的舞台",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/我们的舞台"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/我们的舞台",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/我们的舞台/我们的舞台_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "战",
       "title": "战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/战/战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "战斗吧",
       "title": "战斗吧",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/战斗吧"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/战斗吧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/战斗吧/战斗吧_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "所向披靡",
       "title": "所向披靡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/所向披靡"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/所向披靡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/所向披靡/所向披靡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "扬帆",
       "title": "扬帆",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/扬帆"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/扬帆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/扬帆/扬帆_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "披荆斩棘",
       "title": "披荆斩棘",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/披荆斩棘"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/披荆斩棘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/披荆斩棘/披荆斩棘_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拼",
       "title": "拼",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/拼"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/拼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/拼/拼_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拼到底",
       "title": "拼到底",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/拼到底"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/拼到底",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/拼到底/拼到底_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "指南针",
       "title": "指南针",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/指南针"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/指南针",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/指南针/指南针_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "挣脱枷锁",
       "title": "挣脱枷锁",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/挣脱枷锁"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/挣脱枷锁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/挣脱枷锁/挣脱枷锁_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "捍卫",
       "title": "捍卫",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/捍卫"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/捍卫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/捍卫/捍卫_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "搏",
       "title": "搏",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/搏"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/搏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/搏/搏_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "搏击",
       "title": "搏击",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/搏击"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/搏击",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/搏击/搏击_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "操场上的风",
       "title": "操场上的风",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/操场上的风"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/操场上的风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/操场上的风/操场上的风_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "擎",
       "title": "擎",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/擎"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/擎",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/擎/擎_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "放手一搏",
       "title": "放手一搏",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/放手一搏"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/放手一搏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/放手一搏/放手一搏_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "散伙饭",
       "title": "散伙饭",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/散伙饭"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/散伙饭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/散伙饭/散伙饭_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "散发光",
       "title": "散发光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/散发光"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/散发光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/散发光/散发光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "斗",
       "title": "斗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/斗"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/斗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/斗/斗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "无可阻挡",
       "title": "无可阻挡",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/无可阻挡"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/无可阻挡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/无可阻挡/无可阻挡_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "无惧",
       "title": "无惧",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/无惧"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/无惧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/无惧/无惧_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "无畏",
       "title": "无畏",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/无畏"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/无畏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/无畏/无畏_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "日出",
       "title": "日出",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/日出"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/日出",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/日出/日出_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "日记本",
       "title": "日记本",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/日记本"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/日记本",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/日记本/日记本_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "旧照片",
       "title": "旧照片",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/旧照片"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/旧照片",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/旧照片/旧照片_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "时代的新声",
       "title": "时代的新声",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/时代的新声"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/时代的新声",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/时代的新声/时代的新声_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "时光里的歌",
       "title": "时光里的歌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/时光里的歌"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/时光里的歌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/时光里的歌/时光里的歌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "明天再说",
       "title": "明天再说",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/明天再说"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/明天再说",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/明天再说/明天再说_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "明天的太阳",
       "title": "明天的太阳",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/明天的太阳"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/明天的太阳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/明天的太阳/明天的太阳_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "星星",
       "title": "星星",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/星星"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/星星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/星星/星星_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "星空下",
       "title": "星空下",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/星空下"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/星空下",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/星空下/星空下_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春暖花开时",
       "title": "春暖花开时",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/春暖花开时"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/春暖花开时",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/春暖花开时/春暖花开时_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "晚霞",
       "title": "晚霞",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/晚霞"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/晚霞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/晚霞/晚霞_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "晨曦",
       "title": "晨曦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/晨曦"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/晨曦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/晨曦/晨曦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "晴空",
       "title": "晴空",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/晴空"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/晴空",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/晴空/晴空_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "曙光",
       "title": "曙光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/曙光"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/曙光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/曙光/曙光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "最后一搏",
       "title": "最后一搏",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/最后一搏"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/最后一搏",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/最后一搏/最后一搏_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "最好的我们",
       "title": "最好的我们",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/最好的我们"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/最好的我们",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/最好的我们/最好的我们_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "月光洒满路",
       "title": "月光洒满路",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/月光洒满路"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/月光洒满路",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/月光洒满路/月光洒满路_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "有你真好",
       "title": "有你真好",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/有你真好"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/有你真好",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/有你真好/有你真好_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "朋友啊朋友",
       "title": "朋友啊朋友",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/朋友啊朋友"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/朋友啊朋友",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/朋友啊朋友/朋友啊朋友_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "未来正到来",
       "title": "未来正到来",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/未来正到来"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/未来正到来",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/未来正到来/未来正到来_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "未来的邀请函",
       "title": "未来的邀请函",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/未来的邀请函"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/未来的邀请函",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/未来的邀请函/未来的邀请函_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梦想不打烊",
       "title": "梦想不打烊",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/梦想不打烊"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/梦想不打烊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/梦想不打烊/梦想不打烊_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梦想正起航",
       "title": "梦想正起航",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/梦想正起航"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/梦想正起航",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/梦想正起航/梦想正起航_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "每一步都算数",
       "title": "每一步都算数",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/每一步都算数"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/每一步都算数",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/每一步都算数/每一步都算数_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "毕业那一天",
       "title": "毕业那一天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/毕业那一天"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/毕业那一天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/毕业那一天/毕业那一天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "汹涌",
       "title": "汹涌",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/汹涌"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/汹涌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/汹涌/汹涌_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "沸腾",
       "title": "沸腾",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/沸腾"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/沸腾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/沸腾/沸腾_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "海浪",
       "title": "海浪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/海浪"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/海浪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/海浪/海浪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "海风",
       "title": "海风",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/海风"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/海风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/海风/海风_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "温暖的手",
       "title": "温暖的手",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/温暖的手"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/温暖的手",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/温暖的手/温暖的手_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "溪水长流",
       "title": "溪水长流",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/溪水长流"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/溪水长流",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/溪水长流/溪水长流_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "滚烫",
       "title": "滚烫",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/滚烫"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/滚烫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/滚烫/滚烫_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "澎湃",
       "title": "澎湃",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/澎湃"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/澎湃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/澎湃/澎湃_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "激战",
       "title": "激战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/激战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/激战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/激战/激战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "灯塔",
       "title": "灯塔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/灯塔"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/灯塔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/灯塔/灯塔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "炸",
       "title": "炸",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/炸"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/炸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/炸/炸_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "烈火",
       "title": "烈火",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/烈火"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/烈火",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/烈火/烈火_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "烈焰",
       "title": "烈焰",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/烈焰"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/烈焰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/烈焰/烈焰_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "热血",
       "title": "热血",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/热血"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/热血",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/热血/热血_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "热血正沸腾",
       "title": "热血正沸腾",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/热血正沸腾"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/热血正沸腾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/热血正沸腾/热血正沸腾_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "热血难凉",
       "title": "热血难凉",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/热血难凉"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/热血难凉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/热血难凉/热血难凉_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "烽火",
       "title": "烽火",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/烽火"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/烽火",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/烽火/烽火_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "燃",
       "title": "燃",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/燃"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/燃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/燃/燃_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "燃烧",
       "title": "燃烧",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/燃烧"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/燃烧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/燃烧/燃烧_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "燎原",
       "title": "燎原",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/燎原"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/燎原",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/燎原/燎原_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爆",
       "title": "爆",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/爆"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/爆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/爆/爆_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爆发",
       "title": "爆发",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/爆发"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/爆发",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/爆发/爆发_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狂飙",
       "title": "狂飙",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/狂飙"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/狂飙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/狂飙/狂飙_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "登顶",
       "title": "登顶",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/登顶"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/登顶",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/登顶/登顶_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白衬衫少年",
       "title": "白衬衫少年",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/白衬衫少年"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/白衬衫少年",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/白衬衫少年/白衬衫少年_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "百折不挠",
       "title": "百折不挠",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/百折不挠"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/百折不挠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/百折不挠/百折不挠_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "看云",
       "title": "看云",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/看云"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/看云",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/看云/看云_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "眼里有光",
       "title": "眼里有光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/眼里有光"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/眼里有光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/眼里有光/眼里有光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "破晓",
       "title": "破晓",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/破晓"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/破晓",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/破晓/破晓_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "破浪",
       "title": "破浪",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/破浪"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/破浪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/破浪/破浪_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "破釜沉舟",
       "title": "破釜沉舟",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/破釜沉舟"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/破釜沉舟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/破釜沉舟/破釜沉舟_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "硬仗",
       "title": "硬仗",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/硬仗"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/硬仗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/硬仗/硬仗_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "种子发芽",
       "title": "种子发芽",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/种子发芽"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/种子发芽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/种子发芽/种子发芽_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "突围",
       "title": "突围",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/突围"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/突围",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/突围/突围_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "窗外的风景",
       "title": "窗外的风景",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/窗外的风景"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/窗外的风景",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/窗外的风景/窗外的风景_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "竭尽全力",
       "title": "竭尽全力",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/竭尽全力"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/竭尽全力",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/竭尽全力/竭尽全力_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "等雨停",
       "title": "等雨停",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/等雨停"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/等雨停",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/等雨停/等雨停_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "答案在风中",
       "title": "答案在风中",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/答案在风中"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/答案在风中",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/答案在风中/答案在风中_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "算了吧",
       "title": "算了吧",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/算了吧"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/算了吧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/算了吧/算了吧_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "纸飞机",
       "title": "纸飞机",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/纸飞机"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/纸飞机",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/纸飞机/纸飞机_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "给你一个拥抱",
       "title": "给你一个拥抱",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/给你一个拥抱"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/给你一个拥抱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/给你一个拥抱/给你一个拥抱_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "绝地反击",
       "title": "绝地反击",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/绝地反击"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/绝地反击",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/绝地反击/绝地反击_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "继续走",
       "title": "继续走",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/继续走"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/继续走",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/继续走/继续走_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "绽放",
       "title": "绽放",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/绽放"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/绽放",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/绽放/绽放_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "翻盘",
       "title": "翻盘",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/翻盘"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/翻盘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/翻盘/翻盘_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老同学",
       "title": "老同学",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/老同学"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/老同学",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/老同学/老同学_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老树根",
       "title": "老树根",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/老树根"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/老树根",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/老树根/老树根_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "背水一战",
       "title": "背水一战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/背水一战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/背水一战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/背水一战/背水一战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "胜利在望",
       "title": "胜利在望",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/胜利在望"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/胜利在望",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/胜利在望/胜利在望_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "脚下有路",
       "title": "脚下有路",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/脚下有路"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/脚下有路",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/脚下有路/脚下有路_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "脚印",
       "title": "脚印",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/脚印"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/脚印",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/脚印/脚印_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "致未来的你",
       "title": "致未来的你",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/致未来的你"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/致未来的你",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/致未来的你/致未来的你_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "花儿",
       "title": "花儿",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/花儿"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/花儿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/花儿/花儿_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "花开的声音",
       "title": "花开的声音",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/花开的声音"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/花开的声音",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/花开的声音/花开的声音_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "荣耀之战",
       "title": "荣耀之战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/荣耀之战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/荣耀之战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/荣耀之战/荣耀之战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "萤火虫的光",
       "title": "萤火虫的光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/萤火虫的光"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/萤火虫的光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/萤火虫的光/萤火虫的光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蜕变",
       "title": "蜕变",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/蜕变"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/蜕变",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/蜕变/蜕变_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蝴蝶飞",
       "title": "蝴蝶飞",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/蝴蝶飞"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/蝴蝶飞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/蝴蝶飞/蝴蝶飞_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "谢谢你的陪伴",
       "title": "谢谢你的陪伴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/谢谢你的陪伴"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/谢谢你的陪伴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/谢谢你的陪伴/谢谢你的陪伴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "超越自己",
       "title": "超越自己",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/超越自己"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/超越自己",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/超越自己/超越自己_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "路上",
       "title": "路上",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/路上"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/路上",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/路上/路上_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "身后有光",
       "title": "身后有光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/身后有光"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/身后有光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/身后有光/身后有光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "转弯之后",
       "title": "转弯之后",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/转弯之后"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/转弯之后",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/转弯之后/转弯之后_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "迎战",
       "title": "迎战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/迎战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/迎战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/迎战/迎战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "迎着风",
       "title": "迎着风",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/迎着风"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/迎着风",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/迎着风/迎着风_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "远方的灯火",
       "title": "远方的灯火",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/远方的灯火"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/远方的灯火",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/远方的灯火/远方的灯火_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "追梦",
       "title": "追梦",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/追梦"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/追梦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/追梦/追梦_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "追梦的少年",
       "title": "追梦的少年",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/追梦的少年"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/追梦的少年",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/追梦的少年/追梦的少年_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "追逐光",
       "title": "追逐光",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/追逐光"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/追逐光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/追逐光/追逐光_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "逆战",
       "title": "逆战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/逆战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/逆战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/逆战/逆战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "逆袭",
       "title": "逆袭",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/逆袭"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/逆袭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/逆袭/逆袭_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "逆风翻盘",
       "title": "逆风翻盘",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/逆风翻盘"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/逆风翻盘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/逆风翻盘/逆风翻盘_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "逆风飞翔",
       "title": "逆风飞翔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/逆风飞翔"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/逆风飞翔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/逆风飞翔/逆风飞翔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "选择的路口",
       "title": "选择的路口",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/选择的路口"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/选择的路口",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/选择的路口/选择的路口_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "那年夏天",
       "title": "那年夏天",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/那年夏天"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/那年夏天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/那年夏天/那年夏天_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "重生",
       "title": "重生",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/重生"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/重生",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/重生/重生_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鏖战",
       "title": "鏖战",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/鏖战"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/鏖战",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/鏖战/鏖战_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "钢铁意志",
       "title": "钢铁意志",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/钢铁意志"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/钢铁意志",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/钢铁意志/钢铁意志_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "铁骨",
       "title": "铁骨",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/铁骨"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/铁骨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/铁骨/铁骨_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "锐不可当",
       "title": "锐不可当",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/锐不可当"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/锐不可当",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/锐不可当/锐不可当_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "长大以后",
       "title": "长大以后",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/长大以后"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/长大以后",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/长大以后/长大以后_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "闪电",
       "title": "闪电",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/闪电"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/闪电",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/闪电/闪电_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "闪耀",
       "title": "闪耀",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/闪耀"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/闪耀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/闪耀/闪耀_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "闯",
       "title": "闯",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/闯"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/闯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/闯/闯_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "闯关",
       "title": "闯关",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/闯关"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/闯关",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/闯关/闯关_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "阳光正好",
       "title": "阳光正好",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/阳光正好"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/阳光正好",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/阳光正好/阳光正好_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "雨滴",
       "title": "雨滴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/雨滴"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/雨滴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/雨滴/雨滴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "雨过天晴",
       "title": "雨过天晴",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/雨过天晴"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/雨过天晴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/雨过天晴/雨过天晴_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "雷霆",
       "title": "雷霆",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/雷霆"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/雷霆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/雷霆/雷霆_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青春万岁",
       "title": "青春万岁",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/青春万岁"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/青春万岁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/青春万岁/青春万岁_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青春不散场",
       "title": "青春不散场",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/青春不散场"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/青春不散场",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/青春不散场/青春不散场_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "青春正燃烧",
       "title": "青春正燃烧",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/青春正燃烧"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/青春正燃烧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/青春正燃烧/青春正燃烧_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "风暴眼",
       "title": "风暴眼",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/风暴眼"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/风暴眼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/风暴眼/风暴眼_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "风筝线断了",
       "title": "风筝线断了",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/风筝线断了"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/风筝线断了",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/风筝线断了/风筝线断了_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "飞翔",
       "title": "飞翔",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/飞翔"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/飞翔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/飞翔/飞翔_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "飞跃",
       "title": "飞跃",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/飞跃"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/飞跃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/飞跃/飞跃_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "飞鸟与天空",
       "title": "飞鸟与天空",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/飞鸟与天空"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/飞鸟与天空",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/飞鸟与天空/飞鸟与天空_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黑板的粉笔字",
       "title": "黑板的粉笔字",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/青春之歌/中文歌曲/黑板的粉笔字"
+      "path": "瞎编的歌曲/青春之歌/中文歌曲/黑板的粉笔字",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/青春之歌/中文歌曲/黑板的粉笔字/黑板的粉笔字_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

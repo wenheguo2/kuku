@@ -1,0 +1,3238 @@
+{
+  "schema_version": "1.0",
+  "index_type": "category_index",
+  "structure_type": "txt_collection",
+  "display_as": "category_card",
+  "path": "瞎编的歌曲/人物传记/中文歌曲",
+  "name": "中文歌曲",
+  "cover": {
+    "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文歌曲.jpg",
+    "cover_level": "category"
+  },
+  "entry_count": 293,
+  "entries": [
+    {
+      "entry_id": "中文-一行",
+      "title": "中文-一行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-一行",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-一行/中文-一行_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-主父偃",
+      "title": "中文-主父偃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-主父偃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-主父偃/中文-主父偃_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-乐毅",
+      "title": "中文-乐毅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-乐毅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-乐毅/中文-乐毅_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-于谦",
+      "title": "中文-于谦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-于谦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-于谦/中文-于谦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-仓颉",
+      "title": "中文-仓颉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-仓颉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-仓颉/中文-仓颉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-伊尹",
+      "title": "中文-伊尹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-伊尹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-伊尹/中文-伊尹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-伏羲",
+      "title": "中文-伏羲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-伏羲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-伏羲/中文-伏羲_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-伯夷",
+      "title": "中文-伯夷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-伯夷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-伯夷/中文-伯夷_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-侯嬴",
+      "title": "中文-侯嬴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-侯嬴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-侯嬴/中文-侯嬴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-信陵君",
+      "title": "中文-信陵君",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-信陵君",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-信陵君/中文-信陵君_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-傅说",
+      "title": "中文-傅说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-傅说",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-傅说/中文-傅说_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-元稹",
+      "title": "中文-元稹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-元稹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-元稹/中文-元稹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-先轸",
+      "title": "中文-先轸",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-先轸",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-先轸/中文-先轸_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-公孙杵臼",
+      "title": "中文-公孙杵臼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-公孙杵臼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-公孙杵臼/中文-公孙杵臼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-公孙龙",
+      "title": "中文-公孙龙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-公孙龙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-公孙龙/中文-公孙龙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-关汉卿",
+      "title": "中文-关汉卿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-关汉卿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-关汉卿/中文-关汉卿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-关羽",
+      "title": "中文-关羽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-关羽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-关羽/中文-关羽_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-冉有",
+      "title": "中文-冉有",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-冉有",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-冉有/中文-冉有_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-冰心",
+      "title": "中文-冰心",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-冰心",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-冰心/中文-冰心_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-冼星海",
+      "title": "中文-冼星海",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-冼星海",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-冼星海/中文-冼星海_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-列子",
+      "title": "中文-列子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-列子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-列子/中文-列子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-刘备",
+      "title": "中文-刘备",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-刘备",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-刘备/中文-刘备_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-刘琨",
+      "title": "中文-刘琨",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-刘琨",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-刘琨/中文-刘琨_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-刘禹锡",
+      "title": "中文-刘禹锡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-刘禹锡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-刘禹锡/中文-刘禹锡_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-刘邦",
+      "title": "中文-刘邦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-刘邦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-刘邦/中文-刘邦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-包拯",
+      "title": "中文-包拯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-包拯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-包拯/中文-包拯_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-华佗",
+      "title": "中文-华佗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-华佗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-华佗/中文-华佗_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-华罗庚",
+      "title": "中文-华罗庚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-华罗庚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-华罗庚/中文-华罗庚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-卫青",
+      "title": "中文-卫青",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-卫青",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-卫青/中文-卫青_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-叔齐",
+      "title": "中文-叔齐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-叔齐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-叔齐/中文-叔齐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-史思明",
+      "title": "中文-史思明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-史思明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-史思明/中文-史思明_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-司马光",
+      "title": "中文-司马光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-司马光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-司马光/中文-司马光_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-司马懿",
+      "title": "中文-司马懿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-司马懿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-司马懿/中文-司马懿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-司马昭",
+      "title": "中文-司马昭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-司马昭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-司马昭/中文-司马昭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-司马炎",
+      "title": "中文-司马炎",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-司马炎",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-司马炎/中文-司马炎_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-司马迁",
+      "title": "中文-司马迁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-司马迁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-司马迁/中文-司马迁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-后稷",
+      "title": "中文-后稷",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-后稷",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-后稷/中文-后稷_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-向秀",
+      "title": "中文-向秀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-向秀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-向秀/中文-向秀_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-吕布",
+      "title": "中文-吕布",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-吕布",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-吕布/中文-吕布_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-吕雉",
+      "title": "中文-吕雉",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-吕雉",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-吕雉/中文-吕雉_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-吴承恩",
+      "title": "中文-吴承恩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-吴承恩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-吴承恩/中文-吴承恩_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-吴道子",
+      "title": "中文-吴道子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-吴道子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-吴道子/中文-吴道子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-告子",
+      "title": "中文-告子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-告子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-告子/中文-告子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-周公旦",
+      "title": "中文-周公旦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-周公旦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-周公旦/中文-周公旦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-周勃",
+      "title": "中文-周勃",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-周勃",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-周勃/中文-周勃_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-周敦颐",
+      "title": "中文-周敦颐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-周敦颐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-周敦颐/中文-周敦颐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-周武王",
+      "title": "中文-周武王",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-周武王",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-周武王/中文-周武王_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-周瑜",
+      "title": "中文-周瑜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-周瑜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-周瑜/中文-周瑜_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-唐太宗",
+      "title": "中文-唐太宗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-唐太宗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-唐太宗/中文-唐太宗_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-唐寅",
+      "title": "中文-唐寅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-唐寅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-唐寅/中文-唐寅_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-唐玄宗",
+      "title": "中文-唐玄宗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-唐玄宗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-唐玄宗/中文-唐玄宗_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-商鞅",
+      "title": "中文-商鞅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-商鞅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-商鞅/中文-商鞅_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-墨子",
+      "title": "中文-墨子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-墨子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-墨子/中文-墨子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-大禹",
+      "title": "中文-大禹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-大禹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-大禹/中文-大禹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-姚崇",
+      "title": "中文-姚崇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-姚崇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-姚崇/中文-姚崇_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-姚苌",
+      "title": "中文-姚苌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-姚苌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-姚苌/中文-姚苌_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-姜子牙",
+      "title": "中文-姜子牙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-姜子牙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-姜子牙/中文-姜子牙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-子思",
+      "title": "中文-子思",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-子思",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-子思/中文-子思_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-子贡",
+      "title": "中文-子贡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-子贡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-子贡/中文-子贡_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-子路",
+      "title": "中文-子路",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-子路",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-子路/中文-子路_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孔子",
+      "title": "中文-孔子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孔子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孔子/中文-孔子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孙中山",
+      "title": "中文-孙中山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孙中山",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孙中山/中文-孙中山_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孙子",
+      "title": "中文-孙子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孙子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孙子/中文-孙子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孙思邈",
+      "title": "中文-孙思邈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孙思邈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孙思邈/中文-孙思邈_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孙权",
+      "title": "中文-孙权",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孙权",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孙权/中文-孙权_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孙策",
+      "title": "中文-孙策",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孙策",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孙策/中文-孙策_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孙膑",
+      "title": "中文-孙膑",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孙膑",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孙膑/中文-孙膑_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孝文帝",
+      "title": "中文-孝文帝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孝文帝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孝文帝/中文-孝文帝_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孟子",
+      "title": "中文-孟子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孟子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孟子/中文-孟子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孟尝君",
+      "title": "中文-孟尝君",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孟尝君",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孟尝君/中文-孟尝君_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-孟浩然",
+      "title": "中文-孟浩然",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-孟浩然",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-孟浩然/中文-孟浩然_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-安禄山",
+      "title": "中文-安禄山",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-安禄山",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-安禄山/中文-安禄山_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-宋太祖",
+      "title": "中文-宋太祖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-宋太祖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-宋太祖/中文-宋太祖_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-宋应星",
+      "title": "中文-宋应星",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-宋应星",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-宋应星/中文-宋应星_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-宋江",
+      "title": "中文-宋江",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-宋江",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-宋江/中文-宋江_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-宋璟",
+      "title": "中文-宋璟",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-宋璟",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-宋璟/中文-宋璟_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-寇准",
+      "title": "中文-寇准",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-寇准",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-寇准/中文-寇准_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-尉迟恭",
+      "title": "中文-尉迟恭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-尉迟恭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-尉迟恭/中文-尉迟恭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-尧",
+      "title": "中文-尧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-尧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-尧/中文-尧_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-屈原",
+      "title": "中文-屈原",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-屈原",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-屈原/中文-屈原_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-屠呦呦",
+      "title": "中文-屠呦呦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-屠呦呦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-屠呦呦/中文-屠呦呦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-岳飞",
+      "title": "中文-岳飞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-岳飞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-岳飞/中文-岳飞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-嵇康",
+      "title": "中文-嵇康",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-嵇康",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-嵇康/中文-嵇康_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-左丘明",
+      "title": "中文-左丘明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-左丘明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-左丘明/中文-左丘明_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-左思",
+      "title": "中文-左思",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-左思",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-左思/中文-左思_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-巴金",
+      "title": "中文-巴金",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-巴金",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-巴金/中文-巴金_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-常遇春",
+      "title": "中文-常遇春",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-常遇春",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-常遇春/中文-常遇春_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-平原君",
+      "title": "中文-平原君",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-平原君",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-平原君/中文-平原君_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-庄子",
+      "title": "中文-庄子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-庄子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-庄子/中文-庄子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-庞涓",
+      "title": "中文-庞涓",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-庞涓",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-庞涓/中文-庞涓_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-廉颇",
+      "title": "中文-廉颇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-廉颇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-廉颇/中文-廉颇_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张仪",
+      "title": "中文-张仪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-张仪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-张仪/中文-张仪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张仲景",
+      "title": "中文-张仲景",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-张仲景",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-张仲景/中文-张仲景_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张大千",
+      "title": "中文-张大千",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-张大千",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-张大千/中文-张大千_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张居正",
+      "title": "中文-张居正",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-张居正",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-张居正/中文-张居正_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张择端",
+      "title": "中文-张择端",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-张择端",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-张择端/中文-张择端_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张良",
+      "title": "中文-张良",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-张良",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-张良/中文-张良_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张衡",
+      "title": "中文-张衡",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-张衡",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-张衡/中文-张衡_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张说",
+      "title": "中文-张说",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-张说",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-张说/中文-张说_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张载",
+      "title": "中文-张载",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-张载",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-张载/中文-张载_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-张骞",
+      "title": "中文-张骞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-张骞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-张骞/中文-张骞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-徐光启",
+      "title": "中文-徐光启",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-徐光启",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-徐光启/中文-徐光启_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-徐悲鸿",
+      "title": "中文-徐悲鸿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-徐悲鸿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-徐悲鸿/中文-徐悲鸿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-徐渭",
+      "title": "中文-徐渭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-徐渭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-徐渭/中文-徐渭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-徐达",
+      "title": "中文-徐达",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-徐达",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-徐达/中文-徐达_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-徐霞客",
+      "title": "中文-徐霞客",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-徐霞客",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-徐霞客/中文-徐霞客_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-忽必烈",
+      "title": "中文-忽必烈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-忽必烈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-忽必烈/中文-忽必烈_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-惠施",
+      "title": "中文-惠施",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-惠施",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-惠施/中文-惠施_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-成吉思汗",
+      "title": "中文-成吉思汗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-成吉思汗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-成吉思汗/中文-成吉思汗_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-戚继光",
+      "title": "中文-戚继光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-戚继光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-戚继光/中文-戚继光_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-房玄龄",
+      "title": "中文-房玄龄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-房玄龄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-房玄龄/中文-房玄龄_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-扁鹊",
+      "title": "中文-扁鹊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-扁鹊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-扁鹊/中文-扁鹊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-拓跋珪",
+      "title": "中文-拓跋珪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-拓跋珪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-拓跋珪/中文-拓跋珪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-文天祥",
+      "title": "中文-文天祥",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-文天祥",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-文天祥/中文-文天祥_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-方腊",
+      "title": "中文-方腊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-方腊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-方腊/中文-方腊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-施耐庵",
+      "title": "中文-施耐庵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-施耐庵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-施耐庵/中文-施耐庵_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-春申君",
+      "title": "中文-春申君",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-春申君",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-春申君/中文-春申君_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-晁错",
+      "title": "中文-晁错",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-晁错",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-晁错/中文-晁错_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-曹丕",
+      "title": "中文-曹丕",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-曹丕",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-曹丕/中文-曹丕_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-曹参",
+      "title": "中文-曹参",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-曹参",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-曹参/中文-曹参_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-曹操",
+      "title": "中文-曹操",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-曹操",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-曹操/中文-曹操_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-曹植",
+      "title": "中文-曹植",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-曹植",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-曹植/中文-曹植_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-曹禺",
+      "title": "中文-曹禺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-曹禺",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-曹禺/中文-曹禺_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-曾子",
+      "title": "中文-曾子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-曾子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-曾子/中文-曾子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-曾巩",
+      "title": "中文-曾巩",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-曾巩",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-曾巩/中文-曾巩_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-朱元璋",
+      "title": "中文-朱元璋",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-朱元璋",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-朱元璋/中文-朱元璋_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-朱温",
+      "title": "中文-朱温",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-朱温",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-朱温/中文-朱温_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-朱熹",
+      "title": "中文-朱熹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-朱熹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-朱熹/中文-朱熹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-朱自清",
+      "title": "中文-朱自清",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-朱自清",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-朱自清/中文-朱自清_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李世民",
+      "title": "中文-李世民",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李世民",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李世民/中文-李世民_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李光弼",
+      "title": "中文-李光弼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李光弼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李光弼/中文-李光弼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李商隐",
+      "title": "中文-李商隐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李商隐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李商隐/中文-李商隐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李四光",
+      "title": "中文-李四光",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李四光",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李四光/中文-李四光_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李广",
+      "title": "中文-李广",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李广",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李广/中文-李广_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李斯",
+      "title": "中文-李斯",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李斯",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李斯/中文-李斯_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李时珍",
+      "title": "中文-李时珍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李时珍",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李时珍/中文-李时珍_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李清照",
+      "title": "中文-李清照",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李清照",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李清照/中文-李清照_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李牧",
+      "title": "中文-李牧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李牧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李牧/中文-李牧_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李白",
+      "title": "中文-李白",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李白",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李白/中文-李白_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李自成",
+      "title": "中文-李自成",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李自成",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李自成/中文-李自成_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李诫",
+      "title": "中文-李诫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李诫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李诫/中文-李诫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李贺",
+      "title": "中文-李贺",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李贺",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李贺/中文-李贺_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-李靖",
+      "title": "中文-李靖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-李靖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-李靖/中文-李靖_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杜如晦",
+      "title": "中文-杜如晦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-杜如晦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-杜如晦/中文-杜如晦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杜牧",
+      "title": "中文-杜牧",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-杜牧",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-杜牧/中文-杜牧_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杜甫",
+      "title": "中文-杜甫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-杜甫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-杜甫/中文-杜甫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杨振宁",
+      "title": "中文-杨振宁",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-杨振宁",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-杨振宁/中文-杨振宁_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-杨朱",
+      "title": "中文-杨朱",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-杨朱",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-杨朱/中文-杨朱_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-柳公权",
+      "title": "中文-柳公权",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-柳公权",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-柳公权/中文-柳公权_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-柳宗元",
+      "title": "中文-柳宗元",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-柳宗元",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-柳宗元/中文-柳宗元_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-柳永",
+      "title": "中文-柳永",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-柳永",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-柳永/中文-柳永_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-桓温",
+      "title": "中文-桓温",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-桓温",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-桓温/中文-桓温_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-梅兰芳",
+      "title": "中文-梅兰芳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-梅兰芳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-梅兰芳/中文-梅兰芳_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-欧阳修",
+      "title": "中文-欧阳修",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-欧阳修",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-欧阳修/中文-欧阳修_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-欧阳询",
+      "title": "中文-欧阳询",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-欧阳询",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-欧阳询/中文-欧阳询_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-武则天",
+      "title": "中文-武则天",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-武则天",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-武则天/中文-武则天_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-毕昇",
+      "title": "中文-毕昇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-毕昇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-毕昇/中文-毕昇_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-毛遂",
+      "title": "中文-毛遂",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-毛遂",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-毛遂/中文-毛遂_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-汉武帝",
+      "title": "中文-汉武帝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-汉武帝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-汉武帝/中文-汉武帝_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-汉高祖",
+      "title": "中文-汉高祖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-汉高祖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-汉高祖/中文-汉高祖_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-沈括",
+      "title": "中文-沈括",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-沈括",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-沈括/中文-沈括_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-法显",
+      "title": "中文-法显",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-法显",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-法显/中文-法显_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-海瑞",
+      "title": "中文-海瑞",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-海瑞",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-海瑞/中文-海瑞_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-温庭筠",
+      "title": "中文-温庭筠",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-温庭筠",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-温庭筠/中文-温庭筠_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-炎帝",
+      "title": "中文-炎帝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-炎帝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-炎帝/中文-炎帝_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-狄仁杰",
+      "title": "中文-狄仁杰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-狄仁杰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-狄仁杰/中文-狄仁杰_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-玄奘",
+      "title": "中文-玄奘",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-玄奘",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-玄奘/中文-玄奘_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王之涣",
+      "title": "中文-王之涣",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王之涣",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王之涣/中文-王之涣_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王夫之",
+      "title": "中文-王夫之",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王夫之",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王夫之/中文-王夫之_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王安石",
+      "title": "中文-王安石",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王安石",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王安石/中文-王安石_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王导",
+      "title": "中文-王导",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王导",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王导/中文-王导_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王弼",
+      "title": "中文-王弼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王弼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王弼/中文-王弼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王敦",
+      "title": "中文-王敦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王敦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王敦/中文-王敦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王昭君",
+      "title": "中文-王昭君",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王昭君",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王昭君/中文-王昭君_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王维",
+      "title": "中文-王维",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王维",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王维/中文-王维_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王羲之",
+      "title": "中文-王羲之",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王羲之",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王羲之/中文-王羲之_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王翦",
+      "title": "中文-王翦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王翦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王翦/中文-王翦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-王阳明",
+      "title": "中文-王阳明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-王阳明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-王阳明/中文-王阳明_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-班固",
+      "title": "中文-班固",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-班固",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-班固/中文-班固_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-班昭",
+      "title": "中文-班昭",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-班昭",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-班昭/中文-班昭_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-班超",
+      "title": "中文-班超",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-班超",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-班超/中文-班超_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-田单",
+      "title": "中文-田单",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-田单",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-田单/中文-田单_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白居易",
+      "title": "中文-白居易",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-白居易",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-白居易/中文-白居易_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-白起",
+      "title": "中文-白起",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-白起",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-白起/中文-白起_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-百里奚",
+      "title": "中文-百里奚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-百里奚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-百里奚/中文-百里奚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-皋陶",
+      "title": "中文-皋陶",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-皋陶",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-皋陶/中文-皋陶_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-祖冲之",
+      "title": "中文-祖冲之",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-祖冲之",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-祖冲之/中文-祖冲之_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-祖逖",
+      "title": "中文-祖逖",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-祖逖",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-祖逖/中文-祖逖_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-神农",
+      "title": "中文-神农",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-神农",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-神农/中文-神农_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-秋瑾",
+      "title": "中文-秋瑾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-秋瑾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-秋瑾/中文-秋瑾_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-秦始皇",
+      "title": "中文-秦始皇",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-秦始皇",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-秦始皇/中文-秦始皇_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-秦琼",
+      "title": "中文-秦琼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-秦琼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-秦琼/中文-秦琼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-程不识",
+      "title": "中文-程不识",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-程不识",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-程不识/中文-程不识_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-程婴",
+      "title": "中文-程婴",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-程婴",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-程婴/中文-程婴_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-程颐",
+      "title": "中文-程颐",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-程颐",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-程颐/中文-程颐_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-程颢",
+      "title": "中文-程颢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-程颢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-程颢/中文-程颢_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-穆桂英",
+      "title": "中文-穆桂英",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-穆桂英",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-穆桂英/中文-穆桂英_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-竺可桢",
+      "title": "中文-竺可桢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-竺可桢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-竺可桢/中文-竺可桢_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-管仲",
+      "title": "中文-管仲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-管仲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-管仲/中文-管仲_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-米芾",
+      "title": "中文-米芾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-米芾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-米芾/中文-米芾_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-罗成",
+      "title": "中文-罗成",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-罗成",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-罗成/中文-罗成_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-罗贯中",
+      "title": "中文-罗贯中",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-罗贯中",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-罗贯中/中文-罗贯中_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老子",
+      "title": "中文-老子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-老子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-老子/中文-老子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-老舍",
+      "title": "中文-老舍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-老舍",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-老舍/中文-老舍_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-聂耳",
+      "title": "中文-聂耳",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-聂耳",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-聂耳/中文-聂耳_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-胡适",
+      "title": "中文-胡适",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-胡适",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-胡适/中文-胡适_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-舜",
+      "title": "中文-舜",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-舜",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-舜/中文-舜_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-花木兰",
+      "title": "中文-花木兰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-花木兰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-花木兰/中文-花木兰_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-苏武",
+      "title": "中文-苏武",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-苏武",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-苏武/中文-苏武_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-苏秦",
+      "title": "中文-苏秦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-苏秦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-苏秦/中文-苏秦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-苏轼",
+      "title": "中文-苏轼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-苏轼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-苏轼/中文-苏轼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-苏辙",
+      "title": "中文-苏辙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-苏辙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-苏辙/中文-苏辙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-苻坚",
+      "title": "中文-苻坚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-苻坚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-苻坚/中文-苻坚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-范仲淹",
+      "title": "中文-范仲淹",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-范仲淹",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-范仲淹/中文-范仲淹_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-范增",
+      "title": "中文-范增",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-范增",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-范增/中文-范增_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-茅以升",
+      "title": "中文-茅以升",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-茅以升",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-茅以升/中文-茅以升_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-荀子",
+      "title": "中文-荀子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-荀子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-荀子/中文-荀子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-荆轲",
+      "title": "中文-荆轲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-荆轲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-荆轲/中文-荆轲_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-萧何",
+      "title": "中文-萧何",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-萧何",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-萧何/中文-萧何_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-葛洪",
+      "title": "中文-葛洪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-葛洪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-葛洪/中文-葛洪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-董仲舒",
+      "title": "中文-董仲舒",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-董仲舒",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-董仲舒/中文-董仲舒_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-董卓",
+      "title": "中文-董卓",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-董卓",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-董卓/中文-董卓_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蔡伦",
+      "title": "中文-蔡伦",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-蔡伦",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-蔡伦/中文-蔡伦_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蔡襄",
+      "title": "中文-蔡襄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-蔡襄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-蔡襄/中文-蔡襄_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蔺相如",
+      "title": "中文-蔺相如",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-蔺相如",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-蔺相如/中文-蔺相如_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-薛仁贵",
+      "title": "中文-薛仁贵",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-薛仁贵",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-薛仁贵/中文-薛仁贵_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-虞姬",
+      "title": "中文-虞姬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-虞姬",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-虞姬/中文-虞姬_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-袁绍",
+      "title": "中文-袁绍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-袁绍",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-袁绍/中文-袁绍_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-裴秀",
+      "title": "中文-裴秀",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-裴秀",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-裴秀/中文-裴秀_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-褚遂良",
+      "title": "中文-褚遂良",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-褚遂良",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-褚遂良/中文-褚遂良_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-许行",
+      "title": "中文-许行",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-许行",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-许行/中文-许行_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-诸葛亮",
+      "title": "中文-诸葛亮",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-诸葛亮",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-诸葛亮/中文-诸葛亮_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-谢安",
+      "title": "中文-谢安",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-谢安",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-谢安/中文-谢安_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-谢玄",
+      "title": "中文-谢玄",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-谢玄",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-谢玄/中文-谢玄_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-贺知章",
+      "title": "中文-贺知章",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-贺知章",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-贺知章/中文-贺知章_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-贾思勰",
+      "title": "中文-贾思勰",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-贾思勰",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-贾思勰/中文-贾思勰_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-贾谊",
+      "title": "中文-贾谊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-贾谊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-贾谊/中文-贾谊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-赵一曼",
+      "title": "中文-赵一曼",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-赵一曼",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-赵一曼/中文-赵一曼_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-赵云",
+      "title": "中文-赵云",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-赵云",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-赵云/中文-赵云_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-赵光义",
+      "title": "中文-赵光义",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-赵光义",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-赵光义/中文-赵光义_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-赵匡胤",
+      "title": "中文-赵匡胤",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-赵匡胤",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-赵匡胤/中文-赵匡胤_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-赵奢",
+      "title": "中文-赵奢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-赵奢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-赵奢/中文-赵奢_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-赵孟頫",
+      "title": "中文-赵孟頫",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-赵孟頫",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-赵孟頫/中文-赵孟頫_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-赵盾",
+      "title": "中文-赵盾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-赵盾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-赵盾/中文-赵盾_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-越王勾践",
+      "title": "中文-越王勾践",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-越王勾践",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-越王勾践/中文-越王勾践_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-蹇叔",
+      "title": "中文-蹇叔",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-蹇叔",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-蹇叔/中文-蹇叔_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-辛弃疾",
+      "title": "中文-辛弃疾",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-辛弃疾",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-辛弃疾/中文-辛弃疾_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-邓世昌",
+      "title": "中文-邓世昌",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-邓世昌",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-邓世昌/中文-邓世昌_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-郑和",
+      "title": "中文-郑和",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-郑和",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-郑和/中文-郑和_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-郑成功",
+      "title": "中文-郑成功",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-郑成功",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-郑成功/中文-郑成功_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-郦道元",
+      "title": "中文-郦道元",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-郦道元",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-郦道元/中文-郦道元_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-郭子仪",
+      "title": "中文-郭子仪",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-郭子仪",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-郭子仪/中文-郭子仪_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-郭守敬",
+      "title": "中文-郭守敬",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-郭守敬",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-郭守敬/中文-郭守敬_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-郭沫若",
+      "title": "中文-郭沫若",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-郭沫若",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-郭沫若/中文-郭沫若_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鉴真",
+      "title": "中文-鉴真",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-鉴真",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-鉴真/中文-鉴真_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-钱学森",
+      "title": "中文-钱学森",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-钱学森",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-钱学森/中文-钱学森_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-长孙皇后",
+      "title": "中文-长孙皇后",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-长孙皇后",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-长孙皇后/中文-长孙皇后_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-闻一多",
+      "title": "中文-闻一多",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-闻一多",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-闻一多/中文-闻一多_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-阮籍",
+      "title": "中文-阮籍",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-阮籍",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-阮籍/中文-阮籍_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陆九渊",
+      "title": "中文-陆九渊",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-陆九渊",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-陆九渊/中文-陆九渊_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陆机",
+      "title": "中文-陆机",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-陆机",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-陆机/中文-陆机_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陆游",
+      "title": "中文-陆游",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-陆游",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-陆游/中文-陆游_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陈平",
+      "title": "中文-陈平",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-陈平",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-陈平/中文-陈平_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陈景润",
+      "title": "中文-陈景润",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-陈景润",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-陈景润/中文-陈景润_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陶弘景",
+      "title": "中文-陶弘景",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-陶弘景",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-陶弘景/中文-陶弘景_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陶渊明",
+      "title": "中文-陶渊明",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-陶渊明",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-陶渊明/中文-陶渊明_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-陶行知",
+      "title": "中文-陶行知",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-陶行知",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-陶行知/中文-陶行知_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-隋文帝",
+      "title": "中文-隋文帝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-隋文帝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-隋文帝/中文-隋文帝_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-隋炀帝",
+      "title": "中文-隋炀帝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-隋炀帝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-隋炀帝/中文-隋炀帝_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-霍去病",
+      "title": "中文-霍去病",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-霍去病",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-霍去病/中文-霍去病_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-韩信",
+      "title": "中文-韩信",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-韩信",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-韩信/中文-韩信_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-韩愈",
+      "title": "中文-韩愈",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-韩愈",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-韩愈/中文-韩愈_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-韩非子",
+      "title": "中文-韩非子",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-韩非子",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-韩非子/中文-韩非子_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-项羽",
+      "title": "中文-项羽",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-项羽",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-项羽/中文-项羽_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-顾恺之",
+      "title": "中文-顾恺之",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-顾恺之",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-顾恺之/中文-顾恺之_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-顾炎武",
+      "title": "中文-顾炎武",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-顾炎武",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-顾炎武/中文-顾炎武_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-颜元",
+      "title": "中文-颜元",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-颜元",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-颜元/中文-颜元_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-颜回",
+      "title": "中文-颜回",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-颜回",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-颜回/中文-颜回_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-颜真卿",
+      "title": "中文-颜真卿",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-颜真卿",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-颜真卿/中文-颜真卿_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-马可波罗",
+      "title": "中文-马可波罗",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-马可波罗",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-马可波罗/中文-马可波罗_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-马致远",
+      "title": "中文-马致远",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-马致远",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-马致远/中文-马致远_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-高渐离",
+      "title": "中文-高渐离",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-高渐离",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-高渐离/中文-高渐离_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-魏征",
+      "title": "中文-魏征",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-魏征",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-魏征/中文-魏征_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鲁班",
+      "title": "中文-鲁班",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-鲁班",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-鲁班/中文-鲁班_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鲁迅",
+      "title": "中文-鲁迅",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-鲁迅",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-鲁迅/中文-鲁迅_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-鲍叔牙",
+      "title": "中文-鲍叔牙",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-鲍叔牙",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-鲍叔牙/中文-鲍叔牙_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄公望",
+      "title": "中文-黄公望",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-黄公望",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-黄公望/中文-黄公望_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄宗羲",
+      "title": "中文-黄宗羲",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-黄宗羲",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-黄宗羲/中文-黄宗羲_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄巢",
+      "title": "中文-黄巢",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-黄巢",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-黄巢/中文-黄巢_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄帝",
+      "title": "中文-黄帝",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-黄帝",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-黄帝/中文-黄帝_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄庭坚",
+      "title": "中文-黄庭坚",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-黄庭坚",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-黄庭坚/中文-黄庭坚_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-黄道婆",
+      "title": "中文-黄道婆",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-黄道婆",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-黄道婆/中文-黄道婆_1.jpg",
+        "cover_level": "story"
+      }
+    },
+    {
+      "entry_id": "中文-齐白石",
+      "title": "中文-齐白石",
+      "structure_type": "standalone",
+      "display_as": "story_card",
+      "path": "瞎编的歌曲/人物传记/中文歌曲/中文-齐白石",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/人物传记/中文歌曲/中文-齐白石/中文-齐白石_1.jpg",
+        "cover_level": "story"
+      }
+    }
+  ]
+}

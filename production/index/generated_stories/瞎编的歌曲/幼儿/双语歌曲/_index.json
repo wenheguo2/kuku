@@ -6,7 +6,7 @@
   "path": "瞎编的歌曲/幼儿/双语歌曲",
   "name": "双语歌曲",
   "cover": {
-    "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/幼儿.webp",
+    "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/双语歌曲.jpg",
     "cover_level": "category"
   },
   "entry_count": 428,
@@ -16,168 +16,264 @@
       "title": "1. 拍拍手 Clap Your Hands",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/1. 拍拍手 Clap Your Hands"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/1. 拍拍手 Clap Your Hands",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/1. 拍拍手 Clap Your Hands/1. 拍拍手 Clap Your Hands_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "10. 放下手 Put Your Hands Down",
       "title": "10. 放下手 Put Your Hands Down",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/10. 放下手 Put Your Hands Down"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/10. 放下手 Put Your Hands Down",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/10. 放下手 Put Your Hands Down/10. 放下手 Put Your Hands Down_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "100. 学机器人动 Move Like a Robot",
       "title": "100. 学机器人动 Move Like a Robot",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/100. 学机器人动 Move Like a Robot"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/100. 学机器人动 Move Like a Robot",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/100. 学机器人动 Move Like a Robot/100. 学机器人动 Move Like a Robot_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "11. 跳一跳 Jump Jump Jump",
       "title": "11. 跳一跳 Jump Jump Jump",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/11. 跳一跳 Jump Jump Jump"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/11. 跳一跳 Jump Jump Jump",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/11. 跳一跳 Jump Jump Jump/11. 跳一跳 Jump Jump Jump_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "12. 蹲下来 Squat Down",
       "title": "12. 蹲下来 Squat Down",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/12. 蹲下来 Squat Down"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/12. 蹲下来 Squat Down",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/12. 蹲下来 Squat Down/12. 蹲下来 Squat Down_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "13. 站起来 Stand Up",
       "title": "13. 站起来 Stand Up",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/13. 站起来 Stand Up"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/13. 站起来 Stand Up",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/13. 站起来 Stand Up/13. 站起来 Stand Up_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "14. 走一走 Walk Walk Walk",
       "title": "14. 走一走 Walk Walk Walk",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/14. 走一走 Walk Walk Walk"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/14. 走一走 Walk Walk Walk",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/14. 走一走 Walk Walk Walk/14. 走一走 Walk Walk Walk_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "15. 跑一跑 Run Run Run",
       "title": "15. 跑一跑 Run Run Run",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/15. 跑一跑 Run Run Run"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/15. 跑一跑 Run Run Run",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/15. 跑一跑 Run Run Run/15. 跑一跑 Run Run Run_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "16. 停 Stop",
       "title": "16. 停 Stop",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/16. 停 Stop"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/16. 停 Stop",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/16. 停 Stop/16. 停 Stop_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "17. 慢慢走 Walk Slowly",
       "title": "17. 慢慢走 Walk Slowly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/17. 慢慢走 Walk Slowly"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/17. 慢慢走 Walk Slowly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/17. 慢慢走 Walk Slowly/17. 慢慢走 Walk Slowly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "18. 快快跑 Run Fast",
       "title": "18. 快快跑 Run Fast",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/18. 快快跑 Run Fast"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/18. 快快跑 Run Fast",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/18. 快快跑 Run Fast/18. 快快跑 Run Fast_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "19. 爬呀爬 Crawl Crawl Crawl",
       "title": "19. 爬呀爬 Crawl Crawl Crawl",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/19. 爬呀爬 Crawl Crawl Crawl"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/19. 爬呀爬 Crawl Crawl Crawl",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/19. 爬呀爬 Crawl Crawl Crawl/19. 爬呀爬 Crawl Crawl Crawl_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "2. 跺跺脚 Stomp Your Feet",
       "title": "2. 跺跺脚 Stomp Your Feet",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/2. 跺跺脚 Stomp Your Feet"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/2. 跺跺脚 Stomp Your Feet",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/2. 跺跺脚 Stomp Your Feet/2. 跺跺脚 Stomp Your Feet_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "20. 滚一滚 Roll Roll Roll",
       "title": "20. 滚一滚 Roll Roll Roll",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/20. 滚一滚 Roll Roll Roll"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/20. 滚一滚 Roll Roll Roll",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/20. 滚一滚 Roll Roll Roll/20. 滚一滚 Roll Roll Roll_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "21. 飞起来 Fly Like a Bird",
       "title": "21. 飞起来 Fly Like a Bird",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/21. 飞起来 Fly Like a Bird"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/21. 飞起来 Fly Like a Bird",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/21. 飞起来 Fly Like a Bird/21. 飞起来 Fly Like a Bird_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "22. 游啊游 Swim Like a Fish",
       "title": "22. 游啊游 Swim Like a Fish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/22. 游啊游 Swim Like a Fish"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/22. 游啊游 Swim Like a Fish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/22. 游啊游 Swim Like a Fish/22. 游啊游 Swim Like a Fish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "23. 跳得高 Jump High",
       "title": "23. 跳得高 Jump High",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/23. 跳得高 Jump High"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/23. 跳得高 Jump High",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/23. 跳得高 Jump High/23. 跳得高 Jump High_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "24. 跳得远 Jump Far",
       "title": "24. 跳得远 Jump Far",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/24. 跳得远 Jump Far"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/24. 跳得远 Jump Far",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/24. 跳得远 Jump Far/24. 跳得远 Jump Far_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "25. 单脚跳 Hop on One Foot",
       "title": "25. 单脚跳 Hop on One Foot",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/25. 单脚跳 Hop on One Foot"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/25. 单脚跳 Hop on One Foot",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/25. 单脚跳 Hop on One Foot/25. 单脚跳 Hop on One Foot_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "26. 双脚跳 Jump with Both Feet",
       "title": "26. 双脚跳 Jump with Both Feet",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/26. 双脚跳 Jump with Both Feet"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/26. 双脚跳 Jump with Both Feet",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/26. 双脚跳 Jump with Both Feet/26. 双脚跳 Jump with Both Feet_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "27. 滑滑梯 Slide Down",
       "title": "27. 滑滑梯 Slide Down",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/27. 滑滑梯 Slide Down"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/27. 滑滑梯 Slide Down",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/27. 滑滑梯 Slide Down/27. 滑滑梯 Slide Down_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "28. 荡秋千 Swing Swing Swing",
       "title": "28. 荡秋千 Swing Swing Swing",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/28. 荡秋千 Swing Swing Swing"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/28. 荡秋千 Swing Swing Swing",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/28. 荡秋千 Swing Swing Swing/28. 荡秋千 Swing Swing Swing_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "29. 拍拍肩膀 Tap Your Shoulders",
       "title": "29. 拍拍肩膀 Tap Your Shoulders",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/29. 拍拍肩膀 Tap Your Shoulders"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/29. 拍拍肩膀 Tap Your Shoulders",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/29. 拍拍肩膀 Tap Your Shoulders/29. 拍拍肩膀 Tap Your Shoulders_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "3. 转圈圈 Turn Around",
       "title": "3. 转圈圈 Turn Around",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/3. 转圈圈 Turn Around"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/3. 转圈圈 Turn Around",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/3. 转圈圈 Turn Around/3. 转圈圈 Turn Around_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "30. 摸摸脚趾 Touch Your Toes",
@@ -191,2821 +287,4433 @@
       "title": "31. 弯弯腰 Bend Your Body",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/31. 弯弯腰 Bend Your Body"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/31. 弯弯腰 Bend Your Body",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/31. 弯弯腰 Bend Your Body/31. 弯弯腰 Bend Your Body_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "32. 伸伸腰 Stretch Your Body",
       "title": "32. 伸伸腰 Stretch Your Body",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/32. 伸伸腰 Stretch Your Body"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/32. 伸伸腰 Stretch Your Body",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/32. 伸伸腰 Stretch Your Body/32. 伸伸腰 Stretch Your Body_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "33. 扭扭脖子 Turn Your Neck",
       "title": "33. 扭扭脖子 Turn Your Neck",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/33. 扭扭脖子 Turn Your Neck"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/33. 扭扭脖子 Turn Your Neck",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/33. 扭扭脖子 Turn Your Neck/33. 扭扭脖子 Turn Your Neck_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "34. 摇摇头 Shake Your Head",
       "title": "34. 摇摇头 Shake Your Head",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/34. 摇摇头 Shake Your Head"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/34. 摇摇头 Shake Your Head",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/34. 摇摇头 Shake Your Head/34. 摇摇头 Shake Your Head_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "35. 摆摆手 Wave Your Hands",
       "title": "35. 摆摆手 Wave Your Hands",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/35. 摆摆手 Wave Your Hands"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/35. 摆摆手 Wave Your Hands",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/35. 摆摆手 Wave Your Hands/35. 摆摆手 Wave Your Hands_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "36. 挥挥手 Wave Goodbye",
       "title": "36. 挥挥手 Wave Goodbye",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/36. 挥挥手 Wave Goodbye"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/36. 挥挥手 Wave Goodbye",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/36. 挥挥手 Wave Goodbye/36. 挥挥手 Wave Goodbye_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "37. 招招手 Call Someone Over",
       "title": "37. 招招手 Call Someone Over",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/37. 招招手 Call Someone Over"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/37. 招招手 Call Someone Over",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/37. 招招手 Call Someone Over/37. 招招手 Call Someone Over_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "38. 拍拍手鼓 Pat a Drum",
       "title": "38. 拍拍手鼓 Pat a Drum",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/38. 拍拍手鼓 Pat a Drum"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/38. 拍拍手鼓 Pat a Drum",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/38. 拍拍手鼓 Pat a Drum/38. 拍拍手鼓 Pat a Drum_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "39. 敲敲桌子 Tap the Table",
       "title": "39. 敲敲桌子 Tap the Table",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/39. 敲敲桌子 Tap the Table"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/39. 敲敲桌子 Tap the Table",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/39. 敲敲桌子 Tap the Table/39. 敲敲桌子 Tap the Table_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "4. 点点头 Nod Your Head",
       "title": "4. 点点头 Nod Your Head",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/4. 点点头 Nod Your Head"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/4. 点点头 Nod Your Head",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/4. 点点头 Nod Your Head/4. 点点头 Nod Your Head_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "40. 打响指 Snap Your Fingers",
       "title": "40. 打响指 Snap Your Fingers",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/40. 打响指 Snap Your Fingers"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/40. 打响指 Snap Your Fingers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/40. 打响指 Snap Your Fingers/40. 打响指 Snap Your Fingers_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "41. 吹口哨 Whistle a Tune",
       "title": "41. 吹口哨 Whistle a Tune",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/41. 吹口哨 Whistle a Tune"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/41. 吹口哨 Whistle a Tune",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/41. 吹口哨 Whistle a Tune/41. 吹口哨 Whistle a Tune_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "42. 学动物叫 Animal Sounds",
       "title": "42. 学动物叫 Animal Sounds",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/42. 学动物叫 Animal Sounds"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/42. 学动物叫 Animal Sounds",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/42. 学动物叫 Animal Sounds/42. 学动物叫 Animal Sounds_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "43. 学猫叫 Meow Meow Meow",
       "title": "43. 学猫叫 Meow Meow Meow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/43. 学猫叫 Meow Meow Meow"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/43. 学猫叫 Meow Meow Meow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/43. 学猫叫 Meow Meow Meow/43. 学猫叫 Meow Meow Meow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "44. 学狗叫 Woof Woof Woof",
       "title": "44. 学狗叫 Woof Woof Woof",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/44. 学狗叫 Woof Woof Woof"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/44. 学狗叫 Woof Woof Woof",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/44. 学狗叫 Woof Woof Woof/44. 学狗叫 Woof Woof Woof_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "45. 学牛叫 Moo Moo Moo",
       "title": "45. 学牛叫 Moo Moo Moo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/45. 学牛叫 Moo Moo Moo"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/45. 学牛叫 Moo Moo Moo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/45. 学牛叫 Moo Moo Moo/45. 学牛叫 Moo Moo Moo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "46. 学羊叫 Baa Baa Baa",
       "title": "46. 学羊叫 Baa Baa Baa",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/46. 学羊叫 Baa Baa Baa"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/46. 学羊叫 Baa Baa Baa",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/46. 学羊叫 Baa Baa Baa/46. 学羊叫 Baa Baa Baa_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "47. 学鸭叫 Quack Quack Quack",
       "title": "47. 学鸭叫 Quack Quack Quack",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/47. 学鸭叫 Quack Quack Quack"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/47. 学鸭叫 Quack Quack Quack",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/47. 学鸭叫 Quack Quack Quack/47. 学鸭叫 Quack Quack Quack_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "48. 学鸡叫 Cluck Cluck Cluck",
       "title": "48. 学鸡叫 Cluck Cluck Cluck",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/48. 学鸡叫 Cluck Cluck Cluck"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/48. 学鸡叫 Cluck Cluck Cluck",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/48. 学鸡叫 Cluck Cluck Cluck/48. 学鸡叫 Cluck Cluck Cluck_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "49. 学青蛙叫 Ribbit Ribbit",
       "title": "49. 学青蛙叫 Ribbit Ribbit",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/49. 学青蛙叫 Ribbit Ribbit"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/49. 学青蛙叫 Ribbit Ribbit",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/49. 学青蛙叫 Ribbit Ribbit/49. 学青蛙叫 Ribbit Ribbit_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "5. 摸摸头 Touch Your Head",
       "title": "5. 摸摸头 Touch Your Head",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/5. 摸摸头 Touch Your Head"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/5. 摸摸头 Touch Your Head",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/5. 摸摸头 Touch Your Head/5. 摸摸头 Touch Your Head_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "50. 学大象走 Walk Like an Elephant",
       "title": "50. 学大象走 Walk Like an Elephant",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/50. 学大象走 Walk Like an Elephant"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/50. 学大象走 Walk Like an Elephant",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/50. 学大象走 Walk Like an Elephant/50. 学大象走 Walk Like an Elephant_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "51. 学兔子跳 Hop Like a Bunny",
       "title": "51. 学兔子跳 Hop Like a Bunny",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/51. 学兔子跳 Hop Like a Bunny"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/51. 学兔子跳 Hop Like a Bunny",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/51. 学兔子跳 Hop Like a Bunny/51. 学兔子跳 Hop Like a Bunny_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "52. 学小鸟飞 Fly Like a Bird",
       "title": "52. 学小鸟飞 Fly Like a Bird",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/52. 学小鸟飞 Fly Like a Bird"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/52. 学小鸟飞 Fly Like a Bird",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/52. 学小鸟飞 Fly Like a Bird/52. 学小鸟飞 Fly Like a Bird_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "53. 学小鱼游 Swim Like a Fish",
       "title": "53. 学小鱼游 Swim Like a Fish",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/53. 学小鱼游 Swim Like a Fish"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/53. 学小鱼游 Swim Like a Fish",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/53. 学小鱼游 Swim Like a Fish/53. 学小鱼游 Swim Like a Fish_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "54. 学猴子爬 Climb Like a Monkey",
       "title": "54. 学猴子爬 Climb Like a Monkey",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/54. 学猴子爬 Climb Like a Monkey"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/54. 学猴子爬 Climb Like a Monkey",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/54. 学猴子爬 Climb Like a Monkey/54. 学猴子爬 Climb Like a Monkey_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "55. 学螃蟹走 Walk Like a Crab",
       "title": "55. 学螃蟹走 Walk Like a Crab",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/55. 学螃蟹走 Walk Like a Crab"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/55. 学螃蟹走 Walk Like a Crab",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/55. 学螃蟹走 Walk Like a Crab/55. 学螃蟹走 Walk Like a Crab_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "56. 学蛇扭 Slither Like a Snake",
       "title": "56. 学蛇扭 Slither Like a Snake",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/56. 学蛇扭 Slither Like a Snake"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/56. 学蛇扭 Slither Like a Snake",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/56. 学蛇扭 Slither Like a Snake/56. 学蛇扭 Slither Like a Snake_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "57. 学企鹅走 Waddle Like a Penguin",
       "title": "57. 学企鹅走 Waddle Like a Penguin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/57. 学企鹅走 Waddle Like a Penguin"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/57. 学企鹅走 Waddle Like a Penguin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/57. 学企鹅走 Waddle Like a Penguin/57. 学企鹅走 Waddle Like a Penguin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "58. 学袋鼠跳 Jump Like a Kangaroo",
       "title": "58. 学袋鼠跳 Jump Like a Kangaroo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/58. 学袋鼠跳 Jump Like a Kangaroo"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/58. 学袋鼠跳 Jump Like a Kangaroo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/58. 学袋鼠跳 Jump Like a Kangaroo/58. 学袋鼠跳 Jump Like a Kangaroo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "59. 学熊走路 Walk Like a Bear",
       "title": "59. 学熊走路 Walk Like a Bear",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/59. 学熊走路 Walk Like a Bear"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/59. 学熊走路 Walk Like a Bear",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/59. 学熊走路 Walk Like a Bear/59. 学熊走路 Walk Like a Bear_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "6. 拍拍肚子 Pat Your Tummy",
       "title": "6. 拍拍肚子 Pat Your Tummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/6. 拍拍肚子 Pat Your Tummy"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/6. 拍拍肚子 Pat Your Tummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/6. 拍拍肚子 Pat Your Tummy/6. 拍拍肚子 Pat Your Tummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "60. 学狮子吼 Roar Like a Lion",
       "title": "60. 学狮子吼 Roar Like a Lion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/60. 学狮子吼 Roar Like a Lion"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/60. 学狮子吼 Roar Like a Lion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/60. 学狮子吼 Roar Like a Lion/60. 学狮子吼 Roar Like a Lion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "61. 学老虎跳 Pounce Like a Tiger",
       "title": "61. 学老虎跳 Pounce Like a Tiger",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/61. 学老虎跳 Pounce Like a Tiger"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/61. 学老虎跳 Pounce Like a Tiger",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/61. 学老虎跳 Pounce Like a Tiger/61. 学老虎跳 Pounce Like a Tiger_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "62. 学蝴蝶飞 Flutter Like a Butterfly",
       "title": "62. 学蝴蝶飞 Flutter Like a Butterfly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/62. 学蝴蝶飞 Flutter Like a Butterfly"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/62. 学蝴蝶飞 Flutter Like a Butterfly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/62. 学蝴蝶飞 Flutter Like a Butterfly/62. 学蝴蝶飞 Flutter Like a Butterfly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "63. 学蜜蜂飞 Buzz Like a Bee",
       "title": "63. 学蜜蜂飞 Buzz Like a Bee",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/63. 学蜜蜂飞 Buzz Like a Bee"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/63. 学蜜蜂飞 Buzz Like a Bee",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/63. 学蜜蜂飞 Buzz Like a Bee/63. 学蜜蜂飞 Buzz Like a Bee_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "64. 学蜗牛爬 Crawl Like a Snail",
       "title": "64. 学蜗牛爬 Crawl Like a Snail",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/64. 学蜗牛爬 Crawl Like a Snail"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/64. 学蜗牛爬 Crawl Like a Snail",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/64. 学蜗牛爬 Crawl Like a Snail/64. 学蜗牛爬 Crawl Like a Snail_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "65. 学乌龟走 Walk Like a Turtle",
       "title": "65. 学乌龟走 Walk Like a Turtle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/65. 学乌龟走 Walk Like a Turtle"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/65. 学乌龟走 Walk Like a Turtle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/65. 学乌龟走 Walk Like a Turtle/65. 学乌龟走 Walk Like a Turtle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "66. 学星星闪 Twinkle Like a Star",
       "title": "66. 学星星闪 Twinkle Like a Star",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/66. 学星星闪 Twinkle Like a Star"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/66. 学星星闪 Twinkle Like a Star",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/66. 学星星闪 Twinkle Like a Star/66. 学星星闪 Twinkle Like a Star_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "67. 学月亮弯 Bend Like the Moon",
       "title": "67. 学月亮弯 Bend Like the Moon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/67. 学月亮弯 Bend Like the Moon"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/67. 学月亮弯 Bend Like the Moon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/67. 学月亮弯 Bend Like the Moon/67. 学月亮弯 Bend Like the Moon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "68. 学太阳升 Rise Like the Sun",
       "title": "68. 学太阳升 Rise Like the Sun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/68. 学太阳升 Rise Like the Sun"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/68. 学太阳升 Rise Like the Sun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/68. 学太阳升 Rise Like the Sun/68. 学太阳升 Rise Like the Sun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "69. 学雨滴落 Fall Like Raindrops",
       "title": "69. 学雨滴落 Fall Like Raindrops",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/69. 学雨滴落 Fall Like Raindrops"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/69. 学雨滴落 Fall Like Raindrops",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/69. 学雨滴落 Fall Like Raindrops/69. 学雨滴落 Fall Like Raindrops_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "7. 眨眨眼 Blink Your Eyes",
       "title": "7. 眨眨眼 Blink Your Eyes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/7. 眨眨眼 Blink Your Eyes"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/7. 眨眨眼 Blink Your Eyes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/7. 眨眨眼 Blink Your Eyes/7. 眨眨眼 Blink Your Eyes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "70. 学雪花飘 Float Like Snowflakes",
       "title": "70. 学雪花飘 Float Like Snowflakes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/70. 学雪花飘 Float Like Snowflakes"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/70. 学雪花飘 Float Like Snowflakes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/70. 学雪花飘 Float Like Snowflakes/70. 学雪花飘 Float Like Snowflakes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "71. 学风吹 Blow Like the Wind",
       "title": "71. 学风吹 Blow Like the Wind",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/71. 学风吹 Blow Like the Wind"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/71. 学风吹 Blow Like the Wind",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/71. 学风吹 Blow Like the Wind/71. 学风吹 Blow Like the Wind_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "72. 学树摇 Sway Like a Tree",
       "title": "72. 学树摇 Sway Like a Tree",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/72. 学树摇 Sway Like a Tree"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/72. 学树摇 Sway Like a Tree",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/72. 学树摇 Sway Like a Tree/72. 学树摇 Sway Like a Tree_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "73. 学花开 Bloom Like a Flower",
       "title": "73. 学花开 Bloom Like a Flower",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/73. 学花开 Bloom Like a Flower"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/73. 学花开 Bloom Like a Flower",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/73. 学花开 Bloom Like a Flower/73. 学花开 Bloom Like a Flower_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "74. 学草长 Grow Like Grass",
       "title": "74. 学草长 Grow Like Grass",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/74. 学草长 Grow Like Grass"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/74. 学草长 Grow Like Grass",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/74. 学草长 Grow Like Grass/74. 学草长 Grow Like Grass_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "75. 学火箭飞 Zoom Like a Rocket",
       "title": "75. 学火箭飞 Zoom Like a Rocket",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/75. 学火箭飞 Zoom Like a Rocket"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/75. 学火箭飞 Zoom Like a Rocket",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/75. 学火箭飞 Zoom Like a Rocket/75. 学火箭飞 Zoom Like a Rocket_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "76. 学火车跑 Chug Like a Train",
       "title": "76. 学火车跑 Chug Like a Train",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/76. 学火车跑 Chug Like a Train"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/76. 学火车跑 Chug Like a Train",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/76. 学火车跑 Chug Like a Train/76. 学火车跑 Chug Like a Train_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "77. 学汽车开 Drive Like a Car",
       "title": "77. 学汽车开 Drive Like a Car",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/77. 学汽车开 Drive Like a Car"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/77. 学汽车开 Drive Like a Car",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/77. 学汽车开 Drive Like a Car/77. 学汽车开 Drive Like a Car_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "78. 学飞机飞 Fly Like a Plane",
       "title": "78. 学飞机飞 Fly Like a Plane",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/78. 学飞机飞 Fly Like a Plane"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/78. 学飞机飞 Fly Like a Plane",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/78. 学飞机飞 Fly Like a Plane/78. 学飞机飞 Fly Like a Plane_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "79. 学船儿摇 Rock Like a Boat",
       "title": "79. 学船儿摇 Rock Like a Boat",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/79. 学船儿摇 Rock Like a Boat"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/79. 学船儿摇 Rock Like a Boat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/79. 学船儿摇 Rock Like a Boat/79. 学船儿摇 Rock Like a Boat_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "8. 扭扭腰 Wiggle Your Hips",
       "title": "8. 扭扭腰 Wiggle Your Hips",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/8. 扭扭腰 Wiggle Your Hips"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/8. 扭扭腰 Wiggle Your Hips",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/8. 扭扭腰 Wiggle Your Hips/8. 扭扭腰 Wiggle Your Hips_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "80. 学钟摆摇 Swing Like a Pendulum",
       "title": "80. 学钟摆摇 Swing Like a Pendulum",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/80. 学钟摆摇 Swing Like a Pendulum"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/80. 学钟摆摇 Swing Like a Pendulum",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/80. 学钟摆摇 Swing Like a Pendulum/80. 学钟摆摇 Swing Like a Pendulum_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "81. 学陀螺转 Spin Like a Top",
       "title": "81. 学陀螺转 Spin Like a Top",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/81. 学陀螺转 Spin Like a Top"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/81. 学陀螺转 Spin Like a Top",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/81. 学陀螺转 Spin Like a Top/81. 学陀螺转 Spin Like a Top_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "82. 学皮球弹 Bounce Like a Ball",
       "title": "82. 学皮球弹 Bounce Like a Ball",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/82. 学皮球弹 Bounce Like a Ball"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/82. 学皮球弹 Bounce Like a Ball",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/82. 学皮球弹 Bounce Like a Ball/82. 学皮球弹 Bounce Like a Ball_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "83. 学跳绳跳 Skip Like a Rope",
       "title": "83. 学跳绳跳 Skip Like a Rope",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/83. 学跳绳跳 Skip Like a Rope"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/83. 学跳绳跳 Skip Like a Rope",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/83. 学跳绳跳 Skip Like a Rope/83. 学跳绳跳 Skip Like a Rope_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "84. 学踢球 Kick a Ball",
       "title": "84. 学踢球 Kick a Ball",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/84. 学踢球 Kick a Ball"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/84. 学踢球 Kick a Ball",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/84. 学踢球 Kick a Ball/84. 学踢球 Kick a Ball_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "85. 学投篮 Shoot a Basket",
       "title": "85. 学投篮 Shoot a Basket",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/85. 学投篮 Shoot a Basket"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/85. 学投篮 Shoot a Basket",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/85. 学投篮 Shoot a Basket/85. 学投篮 Shoot a Basket_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "86. 学打拳 Punch the Air",
       "title": "86. 学打拳 Punch the Air",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/86. 学打拳 Punch the Air"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/86. 学打拳 Punch the Air",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/86. 学打拳 Punch the Air/86. 学打拳 Punch the Air_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "87. 学游泳 Swim in Place",
       "title": "87. 学游泳 Swim in Place",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/87. 学游泳 Swim in Place"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/87. 学游泳 Swim in Place",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/87. 学游泳 Swim in Place/87. 学游泳 Swim in Place_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "88. 学滑雪 Ski Downhill",
       "title": "88. 学滑雪 Ski Downhill",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/88. 学滑雪 Ski Downhill"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/88. 学滑雪 Ski Downhill",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/88. 学滑雪 Ski Downhill/88. 学滑雪 Ski Downhill_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "89. 学滑冰 Skate on Ice",
       "title": "89. 学滑冰 Skate on Ice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/89. 学滑冰 Skate on Ice"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/89. 学滑冰 Skate on Ice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/89. 学滑冰 Skate on Ice/89. 学滑冰 Skate on Ice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "9. 举起手 Raise Your Hands",
       "title": "9. 举起手 Raise Your Hands",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/9. 举起手 Raise Your Hands"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/9. 举起手 Raise Your Hands",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/9. 举起手 Raise Your Hands/9. 举起手 Raise Your Hands_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "90. 学骑车 Ride a Bike",
       "title": "90. 学骑车 Ride a Bike",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/90. 学骑车 Ride a Bike"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/90. 学骑车 Ride a Bike",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/90. 学骑车 Ride a Bike/90. 学骑车 Ride a Bike_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "91. 学划船 Row a Boat",
       "title": "91. 学划船 Row a Boat",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/91. 学划船 Row a Boat"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/91. 学划船 Row a Boat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/91. 学划船 Row a Boat/91. 学划船 Row a Boat_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "92. 学打鼓 Play the Drum",
       "title": "92. 学打鼓 Play the Drum",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/92. 学打鼓 Play the Drum"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/92. 学打鼓 Play the Drum",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/92. 学打鼓 Play the Drum/92. 学打鼓 Play the Drum_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "93. 学弹琴 Play the Piano",
       "title": "93. 学弹琴 Play the Piano",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/93. 学弹琴 Play the Piano"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/93. 学弹琴 Play the Piano",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/93. 学弹琴 Play the Piano/93. 学弹琴 Play the Piano_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "94. 学拉小提琴 Play the Violin",
       "title": "94. 学拉小提琴 Play the Violin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/94. 学拉小提琴 Play the Violin"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/94. 学拉小提琴 Play the Violin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/94. 学拉小提琴 Play the Violin/94. 学拉小提琴 Play the Violin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "95. 学吹笛子 Play the Flute",
       "title": "95. 学吹笛子 Play the Flute",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/95. 学吹笛子 Play the Flute"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/95. 学吹笛子 Play the Flute",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/95. 学吹笛子 Play the Flute/95. 学吹笛子 Play the Flute_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "96. 学指挥家 Conduct an Orchestra",
       "title": "96. 学指挥家 Conduct an Orchestra",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/96. 学指挥家 Conduct an Orchestra"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/96. 学指挥家 Conduct an Orchestra",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/96. 学指挥家 Conduct an Orchestra/96. 学指挥家 Conduct an Orchestra_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "97. 学厨师 Cook a Meal",
       "title": "97. 学厨师 Cook a Meal",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/97. 学厨师 Cook a Meal"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/97. 学厨师 Cook a Meal",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/97. 学厨师 Cook a Meal/97. 学厨师 Cook a Meal_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "98. 学医生听诊 Listen with a Stethoscope",
       "title": "98. 学医生听诊 Listen with a Stethoscope",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/98. 学医生听诊 Listen with a Stethoscope"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/98. 学医生听诊 Listen with a Stethoscope",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/98. 学医生听诊 Listen with a Stethoscope/98. 学医生听诊 Listen with a Stethoscope_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "99. 学画家画画 Paint a Picture",
       "title": "99. 学画家画画 Paint a Picture",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/99. 学画家画画 Paint a Picture"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/99. 学画家画画 Paint a Picture",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/99. 学画家画画 Paint a Picture/99. 学画家画画 Paint a Picture_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一些全部 Some and All",
       "title": "一些全部 Some and All",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/一些全部 Some and All"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/一些全部 Some and All",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/一些全部 Some and All/一些全部 Some and All_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一月份到十二月份 Months of the Year",
       "title": "一月份到十二月份 Months of the Year",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/一月份到十二月份 Months of the Year"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/一月份到十二月份 Months of the Year",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/一月份到十二月份 Months of the Year/一月份到十二月份 Months of the Year_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一样吗 Same or Different",
       "title": "一样吗 Same or Different",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/一样吗 Same or Different"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/一样吗 Same or Different",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/一样吗 Same or Different/一样吗 Same or Different_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "一起玩气球 Play with Balloons",
       "title": "一起玩气球 Play with Balloons",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/一起玩气球 Play with Balloons"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/一起玩气球 Play with Balloons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/一起玩气球 Play with Balloons/一起玩气球 Play with Balloons_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "三明治 Sandwich Yum",
       "title": "三明治 Sandwich Yum",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/三明治 Sandwich Yum"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/三明治 Sandwich Yum",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/三明治 Sandwich Yum/三明治 Sandwich Yum_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "上下左右 Up Down Left Right",
       "title": "上下左右 Up Down Left Right",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/上下左右 Up Down Left Right"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/上下左右 Up Down Left Right",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/上下左右 Up Down Left Right/上下左右 Up Down Left Right_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "上和下 Up Up Down Down",
       "title": "上和下 Up Up Down Down",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/上和下 Up Up Down Down"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/上和下 Up Up Down Down",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/上和下 Up Up Down Down/上和下 Up Up Down Down_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "下雨了 Rain Rain Go Away",
       "title": "下雨了 Rain Rain Go Away",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/下雨了 Rain Rain Go Away"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/下雨了 Rain Rain Go Away",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/下雨了 Rain Rain Go Away/下雨了 Rain Rain Go Away_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "下雪啦 Snow Snow Fall",
       "title": "下雪啦 Snow Snow Fall",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/下雪啦 Snow Snow Fall"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/下雪啦 Snow Snow Fall",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/下雪啦 Snow Snow Fall/下雪啦 Snow Snow Fall_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "不喜欢 I Don't Like",
       "title": "不喜欢 I Don't Like",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/不喜欢 I Don't Like"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/不喜欢 I Don't Like",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/不喜欢 I Don't Like/不喜欢 I Don't Like_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "丢手绢 Drop the Handkerchief",
       "title": "丢手绢 Drop the Handkerchief",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/丢手绢 Drop the Handkerchief"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/丢手绢 Drop the Handkerchief",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/丢手绢 Drop the Handkerchief/丢手绢 Drop the Handkerchief_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "中秋节 Mid-Autumn Festival",
       "title": "中秋节 Mid-Autumn Festival",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/中秋节 Mid-Autumn Festival"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/中秋节 Mid-Autumn Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/中秋节 Mid-Autumn Festival/中秋节 Mid-Autumn Festival_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "云朵白 Cloud Cloud White",
       "title": "云朵白 Cloud Cloud White",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/云朵白 Cloud Cloud White"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/云朵白 Cloud Cloud White",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/云朵白 Cloud Cloud White/云朵白 Cloud Cloud White_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "什么颜色 What Color",
       "title": "什么颜色 What Color",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/什么颜色 What Color"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/什么颜色 What Color",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/什么颜色 What Color/什么颜色 What Color_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "今天天气怎么样 How's the Weather",
       "title": "今天天气怎么样 How's the Weather",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/今天天气怎么样 How's the Weather"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/今天天气怎么样 How's the Weather",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/今天天气怎么样 How's the Weather/今天天气怎么样 How's the Weather_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "今天明天 Today Tomorrow",
       "title": "今天明天 Today Tomorrow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/今天明天 Today Tomorrow"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/今天明天 Today Tomorrow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/今天明天 Today Tomorrow/今天明天 Today Tomorrow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "今天是星期几 What Day Is Today",
       "title": "今天是星期几 What Day Is Today",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/今天是星期几 What Day Is Today"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/今天是星期几 What Day Is Today",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/今天是星期几 What Day Is Today/今天是星期几 What Day Is Today_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "他和她 He and She",
       "title": "他和她 He and She",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/他和她 He and She"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/他和她 He and She",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/他和她 He and She/他和她 He and She_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "企鹅 Penguin",
       "title": "企鹅 Penguin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/企鹅 Penguin"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/企鹅 Penguin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/企鹅 Penguin/企鹅 Penguin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "你会做什么 What Can You Do",
       "title": "你会做什么 What Can You Do",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/你会做什么 What Can You Do"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/你会做什么 What Can You Do",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/你会做什么 What Can You Do/你会做什么 What Can You Do_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "你是谁 Who Are You",
       "title": "你是谁 Who Are You",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/你是谁 Who Are You"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/你是谁 Who Are You",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/你是谁 Who Are You/你是谁 Who Are You_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "你的我的 Yours and Mine",
       "title": "你的我的 Yours and Mine",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/你的我的 Yours and Mine"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/你的我的 Yours and Mine",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/你的我的 Yours and Mine/你的我的 Yours and Mine_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "元宵节 Lantern Festival",
       "title": "元宵节 Lantern Festival",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/元宵节 Lantern Festival"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/元宵节 Lantern Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/元宵节 Lantern Festival/元宵节 Lantern Festival_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "关窗帘 Close the Curtain",
       "title": "关窗帘 Close the Curtain",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/关窗帘 Close the Curtain"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/关窗帘 Close the Curtain",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/关窗帘 Close the Curtain/关窗帘 Close the Curtain_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "再见 Goodbye",
       "title": "再见 Goodbye",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/再见 Goodbye"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/再见 Goodbye",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/再见 Goodbye/再见 Goodbye_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "农场动物 Farm Animals",
       "title": "农场动物 Farm Animals",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/农场动物 Farm Animals"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/农场动物 Farm Animals",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/农场动物 Farm Animals/农场动物 Farm Animals_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冬天冷 Winter Cold",
       "title": "冬天冷 Winter Cold",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/冬天冷 Winter Cold"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/冬天冷 Winter Cold",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/冬天冷 Winter Cold/冬天冷 Winter Cold_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冰淇淋 Ice Cream",
       "title": "冰淇淋 Ice Cream",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/冰淇淋 Ice Cream"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/冰淇淋 Ice Cream",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/冰淇淋 Ice Cream/冰淇淋 Ice Cream_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冲冲水 Flush Flush Toilet",
       "title": "冲冲水 Flush Flush Toilet",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/冲冲水 Flush Flush Toilet"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/冲冲水 Flush Flush Toilet",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/冲冲水 Flush Flush Toilet/冲冲水 Flush Flush Toilet_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "冷和热 Cold Cold Hot Hot",
       "title": "冷和热 Cold Cold Hot Hot",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/冷和热 Cold Cold Hot Hot"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/冷和热 Cold Cold Hot Hot",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/冷和热 Cold Cold Hot Hot/冷和热 Cold Cold Hot Hot_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "几点钟了 What Time Is It",
       "title": "几点钟了 What Time Is It",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/几点钟了 What Time Is It"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/几点钟了 What Time Is It",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/几点钟了 What Time Is It/几点钟了 What Time Is It_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "出太阳 Sunny Sunny Day",
       "title": "出太阳 Sunny Sunny Day",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/出太阳 Sunny Sunny Day"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/出太阳 Sunny Sunny Day",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/出太阳 Sunny Sunny Day/出太阳 Sunny Sunny Day_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "分享玩具 Share Toys",
       "title": "分享玩具 Share Toys",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/分享玩具 Share Toys"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/分享玩具 Share Toys",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/分享玩具 Share Toys/分享玩具 Share Toys_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "刮大风 Wind Wind Blow",
       "title": "刮大风 Wind Wind Blow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/刮大风 Wind Wind Blow"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/刮大风 Wind Wind Blow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/刮大风 Wind Wind Blow/刮大风 Wind Wind Blow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "刷刷牙 Brush Brush My Teeth",
       "title": "刷刷牙 Brush Brush My Teeth",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/刷刷牙 Brush Brush My Teeth"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/刷刷牙 Brush Brush My Teeth",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/刷刷牙 Brush Brush My Teeth/刷刷牙 Brush Brush My Teeth_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "前后 Front Back",
       "title": "前后 Front Back",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/前后 Front Back"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/前后 Front Back",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/前后 Front Back/前后 Front Back_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "前和后 Front Front Back Back",
       "title": "前和后 Front Front Back Back",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/前和后 Front Front Back Back"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/前和后 Front Front Back Back",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/前和后 Front Front Back Back/前和后 Front Front Back Back_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "包子 Steamed Bun",
       "title": "包子 Steamed Bun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/包子 Steamed Bun"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/包子 Steamed Bun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/包子 Steamed Bun/包子 Steamed Bun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "厚和薄 Thick Thick Thin Thin",
       "title": "厚和薄 Thick Thick Thin Thin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/厚和薄 Thick Thick Thin Thin"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/厚和薄 Thick Thick Thin Thin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/厚和薄 Thick Thick Thin Thin/厚和薄 Thick Thick Thin Thin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "去上学 Go to School",
       "title": "去上学 Go to School",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/去上学 Go to School"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/去上学 Go to School",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/去上学 Go to School/去上学 Go to School_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "去公园 Go to the Park",
       "title": "去公园 Go to the Park",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/去公园 Go to the Park"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/去公园 Go to the Park",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/去公园 Go to the Park/去公园 Go to the Park_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "去超市 Go to the Store",
       "title": "去超市 Go to the Store",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/去超市 Go to the Store"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/去超市 Go to the Store",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/去超市 Go to the Store/去超市 Go to the Store_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "去那边 Go Over There",
       "title": "去那边 Go Over There",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/去那边 Go Over There"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/去那边 Go Over There",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/去那边 Go Over There/去那边 Go Over There_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "叔叔好 Uncle Hello",
       "title": "叔叔好 Uncle Hello",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/叔叔好 Uncle Hello"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/叔叔好 Uncle Hello",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/叔叔好 Uncle Hello/叔叔好 Uncle Hello_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "叠衣服 Fold Fold Clothes",
       "title": "叠衣服 Fold Fold Clothes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/叠衣服 Fold Fold Clothes"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/叠衣服 Fold Fold Clothes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/叠衣服 Fold Fold Clothes/叠衣服 Fold Fold Clothes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吃晚饭 Eat My Dinner",
       "title": "吃晚饭 Eat My Dinner",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/吃晚饭 Eat My Dinner"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/吃晚饭 Eat My Dinner",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/吃晚饭 Eat My Dinner/吃晚饭 Eat My Dinner_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吃苹果 Eat an Apple",
       "title": "吃苹果 Eat an Apple",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/吃苹果 Eat an Apple"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/吃苹果 Eat an Apple",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/吃苹果 Eat an Apple/吃苹果 Eat an Apple_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吃香蕉 Eat a Banana",
       "title": "吃香蕉 Eat a Banana",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/吃香蕉 Eat a Banana"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/吃香蕉 Eat a Banana",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/吃香蕉 Eat a Banana/吃香蕉 Eat a Banana_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吉他 Guitar",
       "title": "吉他 Guitar",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/吉他 Guitar"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/吉他 Guitar",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/吉他 Guitar/吉他 Guitar_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "向日葵 Sunflower",
       "title": "向日葵 Sunflower",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/向日葵 Sunflower"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/向日葵 Sunflower",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/向日葵 Sunflower/向日葵 Sunflower_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "听一听 Listen Listen Listen",
       "title": "听一听 Listen Listen Listen",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/听一听 Listen Listen Listen"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/听一听 Listen Listen Listen",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/听一听 Listen Listen Listen/听一听 Listen Listen Listen_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "听首歌 Listen to a Song",
       "title": "听首歌 Listen to a Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/听首歌 Listen to a Song"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/听首歌 Listen to a Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/听首歌 Listen to a Song/听首歌 Listen to a Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吹泡泡 Blow Blow Bubbles",
       "title": "吹泡泡 Blow Blow Bubbles",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/吹泡泡 Blow Blow Bubbles"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/吹泡泡 Blow Blow Bubbles",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/吹泡泡 Blow Blow Bubbles/吹泡泡 Blow Blow Bubbles_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "吹蒲公英 Blow Dandelion",
       "title": "吹蒲公英 Blow Dandelion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/吹蒲公英 Blow Dandelion"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/吹蒲公英 Blow Dandelion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/吹蒲公英 Blow Dandelion/吹蒲公英 Blow Dandelion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "和我玩 Play with Me",
       "title": "和我玩 Play with Me",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/和我玩 Play with Me"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/和我玩 Play with Me",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/和我玩 Play with Me/和我玩 Play with Me_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "唱歌谣 Sing a Little Song",
       "title": "唱歌谣 Sing a Little Song",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/唱歌谣 Sing a Little Song"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/唱歌谣 Sing a Little Song",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/唱歌谣 Sing a Little Song/唱歌谣 Sing a Little Song_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "喂宠物 Feed My Pet",
       "title": "喂宠物 Feed My Pet",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/喂宠物 Feed My Pet"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/喂宠物 Feed My Pet",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/喂宠物 Feed My Pet/喂宠物 Feed My Pet_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "喜欢吗 I Like It",
       "title": "喜欢吗 I Like It",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/喜欢吗 I Like It"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/喜欢吗 I Like It",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/喜欢吗 I Like It/喜欢吗 I Like It_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "喝果汁 Drink Some Juice",
       "title": "喝果汁 Drink Some Juice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/喝果汁 Drink Some Juice"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/喝果汁 Drink Some Juice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/喝果汁 Drink Some Juice/喝果汁 Drink Some Juice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "喝水水 Drink Some Water",
       "title": "喝水水 Drink Some Water",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/喝水水 Drink Some Water"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/喝水水 Drink Some Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/喝水水 Drink Some Water/喝水水 Drink Some Water_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "喝牛奶 Drink Drink Milk",
       "title": "喝牛奶 Drink Drink Milk",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/喝牛奶 Drink Drink Milk"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/喝牛奶 Drink Drink Milk",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/喝牛奶 Drink Drink Milk/喝牛奶 Drink Drink Milk_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "回家啦 Go Back Home",
       "title": "回家啦 Go Back Home",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/回家啦 Go Back Home"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/回家啦 Go Back Home",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/回家啦 Go Back Home/回家啦 Go Back Home_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "国庆节 National Day",
       "title": "国庆节 National Day",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/国庆节 National Day"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/国庆节 National Day",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/国庆节 National Day/国庆节 National Day_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "圆形 Circle Round Round",
       "title": "圆形 Circle Round Round",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/圆形 Circle Round Round"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/圆形 Circle Round Round",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/圆形 Circle Round Round/圆形 Circle Round Round_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在上面 On On Top",
       "title": "在上面 On On Top",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在上面 On On Top"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在上面 On On Top",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在上面 On On Top/在上面 On On Top_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在下面 Un-der Below",
       "title": "在下面 Un-der Below",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在下面 Un-der Below"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在下面 Un-der Below",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在下面 Un-der Below/在下面 Un-der Below_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在中间 Between Between",
       "title": "在中间 Between Between",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在中间 Between Between"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在中间 Between Between",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在中间 Between Between/在中间 Between Between_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在周围 All Around",
       "title": "在周围 All Around",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在周围 All Around"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在周围 All Around",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在周围 All Around/在周围 All Around_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在哪里 Where Is It",
       "title": "在哪里 Where Is It",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在哪里 Where Is It"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在哪里 Where Is It",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在哪里 Where Is It/在哪里 Where Is It_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在外面 Out Out Outside",
       "title": "在外面 Out Out Outside",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在外面 Out Out Outside"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在外面 Out Out Outside",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在外面 Out Out Outside/在外面 Out Out Outside_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在家里 Stay at Home",
       "title": "在家里 Stay at Home",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在家里 Stay at Home"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在家里 Stay at Home",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在家里 Stay at Home/在家里 Stay at Home_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在对面 Across From",
       "title": "在对面 Across From",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在对面 Across From"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在对面 Across From",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在对面 Across From/在对面 Across From_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在旁边 Next to Me",
       "title": "在旁边 Next to Me",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在旁边 Next to Me"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在旁边 Next to Me",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在旁边 Next to Me/在旁边 Next to Me_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在路上 On the Road",
       "title": "在路上 On the Road",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在路上 On the Road"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在路上 On the Road",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在路上 On the Road/在路上 On the Road_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在这里 Over Here",
       "title": "在这里 Over Here",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在这里 Over Here"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在这里 Over Here",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在这里 Over Here/在这里 Over Here_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在那里 Over There",
       "title": "在那里 Over There",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在那里 Over There"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在那里 Over There",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在那里 Over There/在那里 Over There_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在里面 In In Inside",
       "title": "在里面 In In Inside",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在里面 In In Inside"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在里面 In In Inside",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在里面 In In Inside/在里面 In In Inside_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "在隔壁 Next Door",
       "title": "在隔壁 Next Door",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/在隔壁 Next Door"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/在隔壁 Next Door",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/在隔壁 Next Door/在隔壁 Next Door_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "坐下来 Sit Down Please",
       "title": "坐下来 Sit Down Please",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/坐下来 Sit Down Please"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/坐下来 Sit Down Please",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/坐下来 Sit Down Please/坐下来 Sit Down Please_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "坐站蹲 Sit Stand Squat",
       "title": "坐站蹲 Sit Stand Squat",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/坐站蹲 Sit Stand Squat"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/坐站蹲 Sit Stand Squat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/坐站蹲 Sit Stand Squat/坐站蹲 Sit Stand Squat_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "堆沙堡 Build Sand Castle",
       "title": "堆沙堡 Build Sand Castle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/堆沙堡 Build Sand Castle"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/堆沙堡 Build Sand Castle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/堆沙堡 Build Sand Castle/堆沙堡 Build Sand Castle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "夏天到 Summer Time",
       "title": "夏天到 Summer Time",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/夏天到 Summer Time"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/夏天到 Summer Time",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/夏天到 Summer Time/夏天到 Summer Time_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大和小 Big Big Small Small",
       "title": "大和小 Big Big Small Small",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/大和小 Big Big Small Small"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/大和小 Big Big Small Small",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/大和小 Big Big Small Small/大和小 Big Big Small Small_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大小多少 Big Small Many Few",
       "title": "大小多少 Big Small Many Few",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/大小多少 Big Small Many Few"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/大小多少 Big Small Many Few",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/大小多少 Big Small Many Few/大小多少 Big Small Many Few_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大狮子吼 Roar Lion Roar",
       "title": "大狮子吼 Roar Lion Roar",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/大狮子吼 Roar Lion Roar"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/大狮子吼 Roar Lion Roar",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/大狮子吼 Roar Lion Roar/大狮子吼 Roar Lion Roar_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大象 Elephant",
       "title": "大象 Elephant",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/大象 Elephant"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/大象 Elephant",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/大象 Elephant/大象 Elephant_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "大象喝水 Elephant Drinks Water",
       "title": "大象喝水 Elephant Drinks Water",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/大象喝水 Elephant Drinks Water"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/大象喝水 Elephant Drinks Water",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/大象喝水 Elephant Drinks Water/大象喝水 Elephant Drinks Water_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "太阳 Sun",
       "title": "太阳 Sun",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/太阳 Sun"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/太阳 Sun",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/太阳 Sun/太阳 Sun_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "太阳和月亮 Sun and Moon",
       "title": "太阳和月亮 Sun and Moon",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/太阳和月亮 Sun and Moon"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/太阳和月亮 Sun and Moon",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/太阳和月亮 Sun and Moon/太阳和月亮 Sun and Moon_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奶奶好 Grandma Dear",
       "title": "奶奶好 Grandma Dear",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/奶奶好 Grandma Dear"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/奶奶好 Grandma Dear",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/奶奶好 Grandma Dear/奶奶好 Grandma Dear_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "奶牛哞 Cow Moo Moo",
       "title": "奶牛哞 Cow Moo Moo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/奶牛哞 Cow Moo Moo"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/奶牛哞 Cow Moo Moo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/奶牛哞 Cow Moo Moo/奶牛哞 Cow Moo Moo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "好勇敢 I Am Brave",
       "title": "好勇敢 I Am Brave",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/好勇敢 I Am Brave"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/好勇敢 I Am Brave",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/好勇敢 I Am Brave/好勇敢 I Am Brave_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "好和坏 Good Good Bad Bad",
       "title": "好和坏 Good Good Bad Bad",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/好和坏 Good Good Bad Bad"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/好和坏 Good Good Bad Bad",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/好和坏 Good Good Bad Bad/好和坏 Good Good Bad Bad_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "好开心 I Am Happy",
       "title": "好开心 I Am Happy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/好开心 I Am Happy"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/好开心 I Am Happy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/好开心 I Am Happy/好开心 I Am Happy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "好惊讶 So Surprised",
       "title": "好惊讶 So Surprised",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/好惊讶 So Surprised"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/好惊讶 So Surprised",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/好惊讶 So Surprised/好惊讶 So Surprised_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "好朋友 Best Friends",
       "title": "好朋友 Best Friends",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/好朋友 Best Friends"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/好朋友 Best Friends",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/好朋友 Best Friends/好朋友 Best Friends_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "好难过 I Am Sad",
       "title": "好难过 I Am Sad",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/好难过 I Am Sad"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/好难过 I Am Sad",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/好难过 I Am Sad/好难过 I Am Sad_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "宇宙飞船 Spaceship",
       "title": "宇宙飞船 Spaceship",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/宇宙飞船 Spaceship"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/宇宙飞船 Spaceship",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/宇宙飞船 Spaceship/宇宙飞船 Spaceship_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "安静大声 Quiet Quiet Loud Loud",
       "title": "安静大声 Quiet Quiet Loud Loud",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/安静大声 Quiet Quiet Loud Loud"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/安静大声 Quiet Quiet Loud Loud",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/安静大声 Quiet Quiet Loud Loud/安静大声 Quiet Quiet Loud Loud_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "宽和窄 Wide Wide Narrow",
       "title": "宽和窄 Wide Wide Narrow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/宽和窄 Wide Wide Narrow"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/宽和窄 Wide Wide Narrow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/宽和窄 Wide Wide Narrow/宽和窄 Wide Wide Narrow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "对不起 I Am Sorry",
       "title": "对不起 I Am Sorry",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/对不起 I Am Sorry"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/对不起 I Am Sorry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/对不起 I Am Sorry/对不起 I Am Sorry_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "对不起 I'm Sorry",
       "title": "对不起 I'm Sorry",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/对不起 I'm Sorry"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/对不起 I'm Sorry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/对不起 I'm Sorry/对不起 I'm Sorry_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小下巴 Touch My Chin",
       "title": "小下巴 Touch My Chin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小下巴 Touch My Chin"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小下巴 Touch My Chin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小下巴 Touch My Chin/小下巴 Touch My Chin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小乌龟慢慢走 Turtle Crawls Slow",
       "title": "小乌龟慢慢走 Turtle Crawls Slow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小乌龟慢慢走 Turtle Crawls Slow"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小乌龟慢慢走 Turtle Crawls Slow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小乌龟慢慢走 Turtle Crawls Slow/小乌龟慢慢走 Turtle Crawls Slow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小兔子蹦蹦跳 Rabbit Hop Hop",
       "title": "小兔子蹦蹦跳 Rabbit Hop Hop",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小兔子蹦蹦跳 Rabbit Hop Hop"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小兔子蹦蹦跳 Rabbit Hop Hop",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小兔子蹦蹦跳 Rabbit Hop Hop/小兔子蹦蹦跳 Rabbit Hop Hop_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小后背 My Little Back",
       "title": "小后背 My Little Back",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小后背 My Little Back"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小后背 My Little Back",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小后背 My Little Back/小后背 My Little Back_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小小宇航员 Little Astronaut",
       "title": "小小宇航员 Little Astronaut",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小小宇航员 Little Astronaut"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小小宇航员 Little Astronaut",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小小宇航员 Little Astronaut/小小宇航员 Little Astronaut_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小彩虹 Rainbow Bright",
       "title": "小彩虹 Rainbow Bright",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小彩虹 Rainbow Bright"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小彩虹 Rainbow Bright",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小彩虹 Rainbow Bright/小彩虹 Rainbow Bright_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小手指 Little Fingers",
       "title": "小手指 Little Fingers",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小手指 Little Fingers"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小手指 Little Fingers",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小手指 Little Fingers/小手指 Little Fingers_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小提琴 Violin",
       "title": "小提琴 Violin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小提琴 Violin"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小提琴 Violin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小提琴 Violin/小提琴 Violin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小汪汪 Little Dog Woof",
       "title": "小汪汪 Little Dog Woof",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小汪汪 Little Dog Woof"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小汪汪 Little Dog Woof",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小汪汪 Little Dog Woof/小汪汪 Little Dog Woof_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小熊打呼噜 Bear Snores",
       "title": "小熊打呼噜 Bear Snores",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小熊打呼噜 Bear Snores"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小熊打呼噜 Bear Snores",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小熊打呼噜 Bear Snores/小熊打呼噜 Bear Snores_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小狗摇尾巴 Dog Wags Tail",
       "title": "小狗摇尾巴 Dog Wags Tail",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小狗摇尾巴 Dog Wags Tail"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小狗摇尾巴 Dog Wags Tail",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小狗摇尾巴 Dog Wags Tail/小狗摇尾巴 Dog Wags Tail_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小猪哼哼 Pig Oink Oink",
       "title": "小猪哼哼 Pig Oink Oink",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小猪哼哼 Pig Oink Oink"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小猪哼哼 Pig Oink Oink",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小猪哼哼 Pig Oink Oink/小猪哼哼 Pig Oink Oink_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小猫咪 Little Cat Meow",
       "title": "小猫咪 Little Cat Meow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小猫咪 Little Cat Meow"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小猫咪 Little Cat Meow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小猫咪 Little Cat Meow/小猫咪 Little Cat Meow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小猫咪伸懒腰 Cat Stretches",
       "title": "小猫咪伸懒腰 Cat Stretches",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小猫咪伸懒腰 Cat Stretches"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小猫咪伸懒腰 Cat Stretches",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小猫咪伸懒腰 Cat Stretches/小猫咪伸懒腰 Cat Stretches_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小猴子荡秋千 Monkey Swings",
       "title": "小猴子荡秋千 Monkey Swings",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小猴子荡秋千 Monkey Swings"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小猴子荡秋千 Monkey Swings",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小猴子荡秋千 Monkey Swings/小猴子荡秋千 Monkey Swings_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小白兔 Rabbit Hop Hop",
       "title": "小白兔 Rabbit Hop Hop",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小白兔 Rabbit Hop Hop"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小白兔 Rabbit Hop Hop",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小白兔 Rabbit Hop Hop/小白兔 Rabbit Hop Hop_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小肚子 My Tummy Tummy",
       "title": "小肚子 My Tummy Tummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小肚子 My Tummy Tummy"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小肚子 My Tummy Tummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小肚子 My Tummy Tummy/小肚子 My Tummy Tummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小肩膀 My Shoulders",
       "title": "小肩膀 My Shoulders",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小肩膀 My Shoulders"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小肩膀 My Shoulders",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小肩膀 My Shoulders/小肩膀 My Shoulders_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小胳膊 My Little Arms",
       "title": "小胳膊 My Little Arms",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小胳膊 My Little Arms"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小胳膊 My Little Arms",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小胳膊 My Little Arms/小胳膊 My Little Arms_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小脑袋 My Head My Head",
       "title": "小脑袋 My Head My Head",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小脑袋 My Head My Head"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小脑袋 My Head My Head",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小脑袋 My Head My Head/小脑袋 My Head My Head_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小脚趾 My Little Toes",
       "title": "小脚趾 My Little Toes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小脚趾 My Little Toes"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小脚趾 My Little Toes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小脚趾 My Little Toes/小脚趾 My Little Toes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小脸蛋 Touch My Cheeks",
       "title": "小脸蛋 Touch My Cheeks",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小脸蛋 Touch My Cheeks"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小脸蛋 Touch My Cheeks",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小脸蛋 Touch My Cheeks/小脸蛋 Touch My Cheeks_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小膝盖 My Little Knees",
       "title": "小膝盖 My Little Knees",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小膝盖 My Little Knees"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小膝盖 My Little Knees",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小膝盖 My Little Knees/小膝盖 My Little Knees_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小草绿 Grass Grass Green",
       "title": "小草绿 Grass Grass Green",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小草绿 Grass Grass Green"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小草绿 Grass Grass Green",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小草绿 Grass Grass Green/小草绿 Grass Grass Green_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小表弟 Little Cousin",
       "title": "小表弟 Little Cousin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小表弟 Little Cousin"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小表弟 Little Cousin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小表弟 Little Cousin/小表弟 Little Cousin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小饼干 Cookie Yummy",
       "title": "小饼干 Cookie Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小饼干 Cookie Yummy"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小饼干 Cookie Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小饼干 Cookie Yummy/小饼干 Cookie Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小马跑 Horse Run Run",
       "title": "小马跑 Horse Run Run",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小马跑 Horse Run Run"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小马跑 Horse Run Run",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小马跑 Horse Run Run/小马跑 Horse Run Run_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鱼游 Fish Swim Swim",
       "title": "小鱼游 Fish Swim Swim",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小鱼游 Fish Swim Swim"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小鱼游 Fish Swim Swim",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小鱼游 Fish Swim Swim/小鱼游 Fish Swim Swim_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鱼游游 Swim Fish Swim",
       "title": "小鱼游游 Swim Fish Swim",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小鱼游游 Swim Fish Swim"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小鱼游游 Swim Fish Swim",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小鱼游游 Swim Fish Swim/小鱼游游 Swim Fish Swim_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鸟飞 Bird Fly Fly",
       "title": "小鸟飞 Bird Fly Fly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小鸟飞 Bird Fly Fly"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小鸟飞 Bird Fly Fly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小鸟飞 Bird Fly Fly/小鸟飞 Bird Fly Fly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鸡叽 Chick Cheep Cheep",
       "title": "小鸡叽 Chick Cheep Cheep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小鸡叽 Chick Cheep Cheep"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小鸡叽 Chick Cheep Cheep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小鸡叽 Chick Cheep Cheep/小鸡叽 Chick Cheep Cheep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鸡啄米 Chick Picks Rice",
       "title": "小鸡啄米 Chick Picks Rice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小鸡啄米 Chick Picks Rice"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小鸡啄米 Chick Picks Rice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小鸡啄米 Chick Picks Rice/小鸡啄米 Chick Picks Rice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鸭嘎 Duck Quack Quack",
       "title": "小鸭嘎 Duck Quack Quack",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小鸭嘎 Duck Quack Quack"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小鸭嘎 Duck Quack Quack",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小鸭嘎 Duck Quack Quack/小鸭嘎 Duck Quack Quack_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "小鸭游泳 Duck Swims",
       "title": "小鸭游泳 Duck Swims",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/小鸭游泳 Duck Swims"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/小鸭游泳 Duck Swims",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/小鸭游泳 Duck Swims/小鸭游泳 Duck Swims_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "巧克力 Chocolate",
       "title": "巧克力 Chocolate",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/巧克力 Chocolate"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/巧克力 Chocolate",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/巧克力 Chocolate/巧克力 Chocolate_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "干净和脏 Clean Clean Dirty Dirty",
       "title": "干净和脏 Clean Clean Dirty Dirty",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/干净和脏 Clean Clean Dirty Dirty"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/干净和脏 Clean Clean Dirty Dirty",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/干净和脏 Clean Clean Dirty Dirty/干净和脏 Clean Clean Dirty Dirty_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "开灯啦 Turn On the Light",
       "title": "开灯啦 Turn On the Light",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/开灯啦 Turn On the Light"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/开灯啦 Turn On the Light",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/开灯啦 Turn On the Light/开灯啦 Turn On the Light_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "开门和关门 Open the Door Close the Door",
       "title": "开门和关门 Open the Door Close the Door",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/开门和关门 Open the Door Close the Door"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/开门和关门 Open the Door Close the Door",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/开门和关门 Open the Door Close the Door/开门和关门 Open the Door Close the Door_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "开闭关 Open Close Shut",
       "title": "开闭关 Open Close Shut",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/开闭关 Open Close Shut"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/开闭关 Open Close Shut",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/开闭关 Open Close Shut/开闭关 Open Close Shut_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "形状变变变 Shapes All Around",
       "title": "形状变变变 Shapes All Around",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/形状变变变 Shapes All Around"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/形状变变变 Shapes All Around",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/形状变变变 Shapes All Around/形状变变变 Shapes All Around_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "心形 Heart Heart Shape",
       "title": "心形 Heart Heart Shape",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/心形 Heart Heart Shape"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/心形 Heart Heart Shape",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/心形 Heart Heart Shape/心形 Heart Heart Shape_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "快乐的一天 Happy Day",
       "title": "快乐的一天 Happy Day",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/快乐的一天 Happy Day"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/快乐的一天 Happy Day",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/快乐的一天 Happy Day/快乐的一天 Happy Day_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "快和慢 Fast Fast Slow Slow",
       "title": "快和慢 Fast Fast Slow Slow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/快和慢 Fast Fast Slow Slow"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/快和慢 Fast Fast Slow Slow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/快和慢 Fast Fast Slow Slow/快和慢 Fast Fast Slow Slow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "快慢 Fast Slow",
       "title": "快慢 Fast Slow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/快慢 Fast Slow"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/快慢 Fast Slow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/快慢 Fast Slow/快慢 Fast Slow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "恐龙世界 Dinosaur World",
       "title": "恐龙世界 Dinosaur World",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/恐龙世界 Dinosaur World"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/恐龙世界 Dinosaur World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/恐龙世界 Dinosaur World/恐龙世界 Dinosaur World_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我不要 I Don't Want It",
       "title": "我不要 I Don't Want It",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我不要 I Don't Want It"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我不要 I Don't Want It",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我不要 I Don't Want It/我不要 I Don't Want It_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我们和他们 We and They",
       "title": "我们和他们 We and They",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我们和他们 We and They"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我们和他们 We and They",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我们和他们 We and They/我们和他们 We and They_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我会数数 I Can Count",
       "title": "我会数数 I Can Count",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我会数数 I Can Count"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我会数数 I Can Count",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我会数数 I Can Count/我会数数 I Can Count_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我冷静 Stay Calm",
       "title": "我冷静 Stay Calm",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我冷静 Stay Calm"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我冷静 Stay Calm",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我冷静 Stay Calm/我冷静 Stay Calm_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我勇敢 I'm Brave",
       "title": "我勇敢 I'm Brave",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我勇敢 I'm Brave"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我勇敢 I'm Brave",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我勇敢 I'm Brave/我勇敢 I'm Brave_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我喜欢的颜色 My Favorite Color",
       "title": "我喜欢的颜色 My Favorite Color",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我喜欢的颜色 My Favorite Color"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我喜欢的颜色 My Favorite Color",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我喜欢的颜色 My Favorite Color/我喜欢的颜色 My Favorite Color_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我害怕 I Am Scared",
       "title": "我害怕 I Am Scared",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我害怕 I Am Scared"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我害怕 I Am Scared",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我害怕 I Am Scared/我害怕 I Am Scared_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我害怕 I'm Scared",
       "title": "我害怕 I'm Scared",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我害怕 I'm Scared"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我害怕 I'm Scared",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我害怕 I'm Scared/我害怕 I'm Scared_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我害羞 I Am Shy",
       "title": "我害羞 I Am Shy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我害羞 I Am Shy"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我害羞 I Am Shy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我害羞 I Am Shy/我害羞 I Am Shy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我想要 I Want It Please",
       "title": "我想要 I Want It Please",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我想要 I Want It Please"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我想要 I Want It Please",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我想要 I Want It Please/我想要 I Want It Please_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我每天做什么 My Daily Routine",
       "title": "我每天做什么 My Daily Routine",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我每天做什么 My Daily Routine"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我每天做什么 My Daily Routine",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我每天做什么 My Daily Routine/我每天做什么 My Daily Routine_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我渴了 I Am Thirsty",
       "title": "我渴了 I Am Thirsty",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我渴了 I Am Thirsty"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我渴了 I Am Thirsty",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我渴了 I Am Thirsty/我渴了 I Am Thirsty_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我爱你 I Love You",
       "title": "我爱你 I Love You",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我爱你 I Love You"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我爱你 I Love You",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我爱你 I Love You/我爱你 I Love You_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我生气 I Am Angry",
       "title": "我生气 I Am Angry",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我生气 I Am Angry"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我生气 I Am Angry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我生气 I Am Angry/我生气 I Am Angry_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我的一天 My Day",
       "title": "我的一天 My Day",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我的一天 My Day"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我的一天 My Day",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我的一天 My Day/我的一天 My Day_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我的好朋友 My Best Friend",
       "title": "我的好朋友 My Best Friend",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我的好朋友 My Best Friend"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我的好朋友 My Best Friend",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我的好朋友 My Best Friend/我的好朋友 My Best Friend_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我的宠物 My Pet",
       "title": "我的宠物 My Pet",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我的宠物 My Pet"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我的宠物 My Pet",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我的宠物 My Pet/我的宠物 My Pet_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我的家 My Home",
       "title": "我的家 My Home",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我的家 My Home"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我的家 My Home",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我的家 My Home/我的家 My Home_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我的家人 My Family",
       "title": "我的家人 My Family",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我的家人 My Family"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我的家人 My Family",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我的家人 My Family/我的家人 My Family_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我的小花园 My Little Garden",
       "title": "我的小花园 My Little Garden",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我的小花园 My Little Garden"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我的小花园 My Little Garden",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我的小花园 My Little Garden/我的小花园 My Little Garden_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我的房间 My Room",
       "title": "我的房间 My Room",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我的房间 My Room"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我的房间 My Room",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我的房间 My Room/我的房间 My Room_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我的自行车 My Bike",
       "title": "我的自行车 My Bike",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我的自行车 My Bike"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我的自行车 My Bike",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我的自行车 My Bike/我的自行车 My Bike_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我累了 I Am Tired",
       "title": "我累了 I Am Tired",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我累了 I Am Tired"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我累了 I Am Tired",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我累了 I Am Tired/我累了 I Am Tired_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我能行 I Can Do It",
       "title": "我能行 I Can Do It",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我能行 I Can Do It"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我能行 I Can Do It",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我能行 I Can Do It/我能行 I Can Do It_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "我骄傲 I Am Proud",
       "title": "我骄傲 I Am Proud",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/我骄傲 I Am Proud"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/我骄傲 I Am Proud",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/我骄傲 I Am Proud/我骄傲 I Am Proud_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "打篮球 Play Basketball",
       "title": "打篮球 Play Basketball",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/打篮球 Play Basketball"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/打篮球 Play Basketball",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/打篮球 Play Basketball/打篮球 Play Basketball_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "扔接球 Throw and Catch",
       "title": "扔接球 Throw and Catch",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/扔接球 Throw and Catch"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/扔接球 Throw and Catch",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/扔接球 Throw and Catch/扔接球 Throw and Catch_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "扫扫地 Sweep Sweep Floor",
       "title": "扫扫地 Sweep Sweep Floor",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/扫扫地 Sweep Sweep Floor"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/扫扫地 Sweep Sweep Floor",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/扫扫地 Sweep Sweep Floor/扫扫地 Sweep Sweep Floor_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "找到了 Found You",
       "title": "找到了 Found You",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/找到了 Found You"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/找到了 Found You",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/找到了 Found You/找到了 Found You_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "抱一抱 Hug Hug Hug",
       "title": "抱一抱 Hug Hug Hug",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/抱一抱 Hug Hug Hug"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/抱一抱 Hug Hug Hug",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/抱一抱 Hug Hug Hug/抱一抱 Hug Hug Hug_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拉一拉 Pull Pull Pull",
       "title": "拉一拉 Pull Pull Pull",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/拉一拉 Pull Pull Pull"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/拉一拉 Pull Pull Pull",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/拉一拉 Pull Pull Pull/拉一拉 Pull Pull Pull_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拍手手 Clap Clap Clap",
       "title": "拍手手 Clap Clap Clap",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/拍手手 Clap Clap Clap"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/拍手手 Clap Clap Clap",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/拍手手 Clap Clap Clap/拍手手 Clap Clap Clap_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拍手歌 Clap Clap Clap",
       "title": "拍手歌 Clap Clap Clap",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/拍手歌 Clap Clap Clap"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/拍手歌 Clap Clap Clap",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/拍手歌 Clap Clap Clap/拍手歌 Clap Clap Clap_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "拍皮球 Bounce the Ball",
       "title": "拍皮球 Bounce the Ball",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/拍皮球 Bounce the Ball"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/拍皮球 Bounce the Ball",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/拍皮球 Bounce the Ball/拍皮球 Bounce the Ball_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "排队等候 Line Up Please",
       "title": "排队等候 Line Up Please",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/排队等候 Line Up Please"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/排队等候 Line Up Please",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/排队等候 Line Up Please/排队等候 Line Up Please_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "推一推 Push Push Push",
       "title": "推一推 Push Push Push",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/推一推 Push Push Push"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/推一推 Push Push Push",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/推一推 Push Push Push/推一推 Push Push Push_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "摇摇摇 Rock Rock Rock",
       "title": "摇摇摇 Rock Rock Rock",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/摇摇摇 Rock Rock Rock"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/摇摇摇 Rock Rock Rock",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/摇摇摇 Rock Rock Rock/摇摇摇 Rock Rock Rock_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "擦干手 Dry Dry Hands",
       "title": "擦干手 Dry Dry Hands",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/擦干手 Dry Dry Hands"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/擦干手 Dry Dry Hands",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/擦干手 Dry Dry Hands/擦干手 Dry Dry Hands_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "擦桌子 Wipe the Table",
       "title": "擦桌子 Wipe the Table",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/擦桌子 Wipe the Table"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/擦桌子 Wipe the Table",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/擦桌子 Wipe the Table/擦桌子 Wipe the Table_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "收玩具 Pick Up Toys",
       "title": "收玩具 Pick Up Toys",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/收玩具 Pick Up Toys"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/收玩具 Pick Up Toys",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/收玩具 Pick Up Toys/收玩具 Pick Up Toys_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "放风筝 Fly a Kite",
       "title": "放风筝 Fly a Kite",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/放风筝 Fly a Kite"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/放风筝 Fly a Kite",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/放风筝 Fly a Kite/放风筝 Fly a Kite_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "斑马 Zebra",
       "title": "斑马 Zebra",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/斑马 Zebra"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/斑马 Zebra",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/斑马 Zebra/斑马 Zebra_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "方形 Square Square Shape",
       "title": "方形 Square Square Shape",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/方形 Square Square Shape"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/方形 Square Square Shape",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/方形 Square Square Shape/方形 Square Square Shape_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "早上好晚安 Good Morning Good Night",
       "title": "早上好晚安 Good Morning Good Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/早上好晚安 Good Morning Good Night"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/早上好晚安 Good Morning Good Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/早上好晚安 Good Morning Good Night/早上好晚安 Good Morning Good Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "早晨晚上 Morning Evening",
       "title": "早晨晚上 Morning Evening",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/早晨晚上 Morning Evening"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/早晨晚上 Morning Evening",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/早晨晚上 Morning Evening/早晨晚上 Morning Evening_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "明亮黑暗 Bright Bright Dark Dark",
       "title": "明亮黑暗 Bright Bright Dark Dark",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/明亮黑暗 Bright Bright Dark Dark"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/明亮黑暗 Bright Bright Dark Dark",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/明亮黑暗 Bright Bright Dark Dark/明亮黑暗 Bright Bright Dark Dark_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "星星 Star",
       "title": "星星 Star",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/星星 Star"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/星星 Star",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/星星 Star/星星 Star_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "星星形 Star Star Shape",
       "title": "星星形 Star Star Shape",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/星星形 Star Star Shape"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/星星形 Star Star Shape",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/星星形 Star Star Shape/星星形 Star Star Shape_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "星星闪 Star Star Light",
       "title": "星星闪 Star Star Light",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/星星闪 Star Star Light"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/星星闪 Star Star Light",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/星星闪 Star Star Light/星星闪 Star Star Light_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春夏秋冬 Spring Summer Autumn Winter",
       "title": "春夏秋冬 Spring Summer Autumn Winter",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/春夏秋冬 Spring Summer Autumn Winter"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/春夏秋冬 Spring Summer Autumn Winter",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/春夏秋冬 Spring Summer Autumn Winter/春夏秋冬 Spring Summer Autumn Winter_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春天夏天秋天冬天 Four Seasons",
       "title": "春天夏天秋天冬天 Four Seasons",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/春天夏天秋天冬天 Four Seasons"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/春天夏天秋天冬天 Four Seasons",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/春天夏天秋天冬天 Four Seasons/春天夏天秋天冬天 Four Seasons_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春天来 Spring Is Here",
       "title": "春天来 Spring Is Here",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/春天来 Spring Is Here"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/春天来 Spring Is Here",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/春天来 Spring Is Here/春天来 Spring Is Here_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "春节 Spring Festival",
       "title": "春节 Spring Festival",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/春节 Spring Festival"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/春节 Spring Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/春节 Spring Festival/春节 Spring Festival_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "昨天今天明天 Yesterday Tomorrow",
       "title": "昨天今天明天 Yesterday Tomorrow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/昨天今天明天 Yesterday Tomorrow"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/昨天今天明天 Yesterday Tomorrow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/昨天今天明天 Yesterday Tomorrow/昨天今天明天 Yesterday Tomorrow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "晴天和雨天 Sunny and Rainy",
       "title": "晴天和雨天 Sunny and Rainy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/晴天和雨天 Sunny and Rainy"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/晴天和雨天 Sunny and Rainy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/晴天和雨天 Sunny and Rainy/晴天和雨天 Sunny and Rainy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "月亮明 Moon Moon Bright",
       "title": "月亮明 Moon Moon Bright",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/月亮明 Moon Moon Bright"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/月亮明 Moon Moon Bright",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/月亮明 Moon Moon Bright/月亮明 Moon Moon Bright_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "有礼貌 Be Polite",
       "title": "有礼貌 Be Polite",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/有礼貌 Be Polite"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/有礼貌 Be Polite",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/有礼貌 Be Polite/有礼貌 Be Polite_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "木头人 Statue Game",
       "title": "木头人 Statue Game",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/木头人 Statue Game"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/木头人 Statue Game",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/木头人 Statue Game/木头人 Statue Game_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "来去 Come Go",
       "title": "来去 Come Go",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/来去 Come Go"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/来去 Come Go",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/来去 Come Go/来去 Come Go_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "来洗手 Come Wash Hands",
       "title": "来洗手 Come Wash Hands",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/来洗手 Come Wash Hands"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/来洗手 Come Wash Hands",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/来洗手 Come Wash Hands/来洗手 Come Wash Hands_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "来这边 Come Over Here",
       "title": "来这边 Come Over Here",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/来这边 Come Over Here"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/来这边 Come Over Here",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/来这边 Come Over Here/来这边 Come Over Here_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "梳头发 Comb Comb My Hair",
       "title": "梳头发 Comb Comb My Hair",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/梳头发 Comb Comb My Hair"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/梳头发 Comb Comb My Hair",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/梳头发 Comb Comb My Hair/梳头发 Comb Comb My Hair_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "棉花糖 Cotton Candy",
       "title": "棉花糖 Cotton Candy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/棉花糖 Cotton Candy"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/棉花糖 Cotton Candy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/棉花糖 Cotton Candy/棉花糖 Cotton Candy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "棕色灰色 Brown and Gray",
       "title": "棕色灰色 Brown and Gray",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/棕色灰色 Brown and Gray"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/棕色灰色 Brown and Gray",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/棕色灰色 Brown and Gray/棕色灰色 Brown and Gray_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "森林探险 Forest Adventure",
       "title": "森林探险 Forest Adventure",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/森林探险 Forest Adventure"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/森林探险 Forest Adventure",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/森林探险 Forest Adventure/森林探险 Forest Adventure_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "椭圆形 Oval Oval Shape",
       "title": "椭圆形 Oval Oval Shape",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/椭圆形 Oval Oval Shape"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/椭圆形 Oval Oval Shape",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/椭圆形 Oval Oval Shape/椭圆形 Oval Oval Shape_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "橙子甜 Orange Orange Sweet",
       "title": "橙子甜 Orange Orange Sweet",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/橙子甜 Orange Orange Sweet"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/橙子甜 Orange Orange Sweet",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/橙子甜 Orange Orange Sweet/橙子甜 Orange Orange Sweet_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "橙色 Purple Orange Pink",
       "title": "橙色 Purple Orange Pink",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/橙色 Purple Orange Pink"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/橙色 Purple Orange Pink",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/橙色 Purple Orange Pink/橙色 Purple Orange Pink_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "汤 Soup",
       "title": "汤 Soup",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/汤 Soup"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/汤 Soup",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/汤 Soup/汤 Soup_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "没关系 It's Okay",
       "title": "没关系 It's Okay",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/没关系 It's Okay"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/没关系 It's Okay",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/没关系 It's Okay/没关系 It's Okay_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "没关系 It's Okay_1",
       "title": "没关系 It's Okay_1",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/没关系 It's Okay_1"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/没关系 It's Okay_1",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/没关系 It's Okay_1/没关系 It's Okay_1_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "泡泡飞走了 Bubble Floats Away",
       "title": "泡泡飞走了 Bubble Floats Away",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/泡泡飞走了 Bubble Floats Away"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/泡泡飞走了 Bubble Floats Away",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/泡泡飞走了 Bubble Floats Away/泡泡飞走了 Bubble Floats Away_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "洗个澡 Take a Bath",
       "title": "洗个澡 Take a Bath",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/洗个澡 Take a Bath"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/洗个澡 Take a Bath",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/洗个澡 Take a Bath/洗个澡 Take a Bath_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "洗洗脸 Wash Wash My Face",
       "title": "洗洗脸 Wash Wash My Face",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/洗洗脸 Wash Wash My Face"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/洗洗脸 Wash Wash My Face",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/洗洗脸 Wash Wash My Face/洗洗脸 Wash Wash My Face_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "浇花花 Water the Plants",
       "title": "浇花花 Water the Plants",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/浇花花 Water the Plants"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/浇花花 Water the Plants",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/浇花花 Water the Plants/浇花花 Water the Plants_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "海底世界 Underwater World",
       "title": "海底世界 Underwater World",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/海底世界 Underwater World"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/海底世界 Underwater World",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/海底世界 Underwater World/海底世界 Underwater World_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "海豚 Dolphin",
       "title": "海豚 Dolphin",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/海豚 Dolphin"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/海豚 Dolphin",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/海豚 Dolphin/海豚 Dolphin_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "海豹 Seal",
       "title": "海豹 Seal",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/海豹 Seal"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/海豹 Seal",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/海豹 Seal/海豹 Seal_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "海龟 Sea Turtle",
       "title": "海龟 Sea Turtle",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/海龟 Sea Turtle"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/海龟 Sea Turtle",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/海龟 Sea Turtle/海龟 Sea Turtle_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "深和浅 Deep Deep Shallow",
       "title": "深和浅 Deep Deep Shallow",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/深和浅 Deep Deep Shallow"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/深和浅 Deep Deep Shallow",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/深和浅 Deep Deep Shallow/深和浅 Deep Deep Shallow_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "游泳 Swimming",
       "title": "游泳 Swimming",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/游泳 Swimming"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/游泳 Swimming",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/游泳 Swimming/游泳 Swimming_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "湿和干 Wet Wet Dry Dry",
       "title": "湿和干 Wet Wet Dry Dry",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/湿和干 Wet Wet Dry Dry"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/湿和干 Wet Wet Dry Dry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/湿和干 Wet Wet Dry Dry/湿和干 Wet Wet Dry Dry_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "滑滑梯 Slide Slide Down",
       "title": "滑滑梯 Slide Slide Down",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/滑滑梯 Slide Slide Down"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/滑滑梯 Slide Slide Down",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/滑滑梯 Slide Slide Down/滑滑梯 Slide Slide Down_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "滚动吧小球 Roll the Ball",
       "title": "滚动吧小球 Roll the Ball",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/滚动吧小球 Roll the Ball"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/滚动吧小球 Roll the Ball",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/滚动吧小球 Roll the Ball/滚动吧小球 Roll the Ball_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "满和空 Full Full Empty Empty",
       "title": "满和空 Full Full Empty Empty",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/满和空 Full Full Empty Empty"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/满和空 Full Full Empty Empty",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/满和空 Full Full Empty Empty/满和空 Full Full Empty Empty_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "火箭 Rocket",
       "title": "火箭 Rocket",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/火箭 Rocket"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/火箭 Rocket",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/火箭 Rocket/火箭 Rocket_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "热和冷 Hot and Cold",
       "title": "热和冷 Hot and Cold",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/热和冷 Hot and Cold"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/热和冷 Hot and Cold",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/热和冷 Hot and Cold/热和冷 Hot and Cold_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爆米花 Popcorn",
       "title": "爆米花 Popcorn",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/爆米花 Popcorn"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/爆米花 Popcorn",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/爆米花 Popcorn/爆米花 Popcorn_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爬爬爬 Crawl Crawl Crawl",
       "title": "爬爬爬 Crawl Crawl Crawl",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/爬爬爬 Crawl Crawl Crawl"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/爬爬爬 Crawl Crawl Crawl",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/爬爬爬 Crawl Crawl Crawl/爬爬爬 Crawl Crawl Crawl_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爱干净 Keep Clean",
       "title": "爱干净 Keep Clean",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/爱干净 Keep Clean"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/爱干净 Keep Clean",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/爱干净 Keep Clean/爱干净 Keep Clean_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爷爷好 Grandpa Dear",
       "title": "爷爷好 Grandpa Dear",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/爷爷好 Grandpa Dear"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/爷爷好 Grandpa Dear",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/爷爷好 Grandpa Dear/爷爷好 Grandpa Dear_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "爸爸是医生妈妈是老师 Daddy Doctor",
       "title": "爸爸是医生妈妈是老师 Daddy Doctor",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/爸爸是医生妈妈是老师 Daddy Doctor"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/爸爸是医生妈妈是老师 Daddy Doctor",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/爸爸是医生妈妈是老师 Daddy Doctor/爸爸是医生妈妈是老师 Daddy Doctor_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "牵牛花 Morning Glory",
       "title": "牵牛花 Morning Glory",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/牵牛花 Morning Glory"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/牵牛花 Morning Glory",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/牵牛花 Morning Glory/牵牛花 Morning Glory_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "狮子 Lion",
       "title": "狮子 Lion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/狮子 Lion"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/狮子 Lion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/狮子 Lion/狮子 Lion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玩泥巴 Play in Mud",
       "title": "玩泥巴 Play in Mud",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/玩泥巴 Play in Mud"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/玩泥巴 Play in Mud",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/玩泥巴 Play in Mud/玩泥巴 Play in Mud_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "玫瑰 Rose",
       "title": "玫瑰 Rose",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/玫瑰 Rose"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/玫瑰 Rose",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/玫瑰 Rose/玫瑰 Rose_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "现在以后 Now and Later",
       "title": "现在以后 Now and Later",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/现在以后 Now and Later"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/现在以后 Now and Later",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/现在以后 Now and Later/现在以后 Now and Later_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "瓢虫 Ladybug",
       "title": "瓢虫 Ladybug",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/瓢虫 Ladybug"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/瓢虫 Ladybug",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/瓢虫 Ladybug/瓢虫 Ladybug_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "甜和酸 Sweet Sweet Sour Sour",
       "title": "甜和酸 Sweet Sweet Sour Sour",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/甜和酸 Sweet Sweet Sour Sour"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/甜和酸 Sweet Sweet Sour Sour",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/甜和酸 Sweet Sweet Sour Sour/甜和酸 Sweet Sweet Sour Sour_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "画一画 Draw a Picture",
       "title": "画一画 Draw a Picture",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/画一画 Draw a Picture"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/画一画 Draw a Picture",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/画一画 Draw a Picture/画一画 Draw a Picture_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白天和黑夜 Day and Night",
       "title": "白天和黑夜 Day and Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/白天和黑夜 Day and Night"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/白天和黑夜 Day and Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/白天和黑夜 Day and Night/白天和黑夜 Day and Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "白天黑夜 Day and Night",
       "title": "白天黑夜 Day and Night",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/白天黑夜 Day and Night"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/白天黑夜 Day and Night",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/白天黑夜 Day and Night/白天黑夜 Day and Night_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "百合 Lily",
       "title": "百合 Lily",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/百合 Lily"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/百合 Lily",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/百合 Lily/百合 Lily_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "看一看 Look Look Look",
       "title": "看一看 Look Look Look",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/看一看 Look Look Look"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/看一看 Look Look Look",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/看一看 Look Look Look/看一看 Look Look Look_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "看天空 Look at the Sky",
       "title": "看天空 Look at the Sky",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/看天空 Look at the Sky"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/看天空 Look at the Sky",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/看天空 Look at the Sky/看天空 Look at the Sky_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "睡觉觉 Time to Sleep",
       "title": "睡觉觉 Time to Sleep",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/睡觉觉 Time to Sleep"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/睡觉觉 Time to Sleep",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/睡觉觉 Time to Sleep/睡觉觉 Time to Sleep_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "秋天凉 Autumn Breeze",
       "title": "秋天凉 Autumn Breeze",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/秋天凉 Autumn Breeze"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/秋天凉 Autumn Breeze",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/秋天凉 Autumn Breeze/秋天凉 Autumn Breeze_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "穿睡衣 Put On Pajamas",
       "title": "穿睡衣 Put On Pajamas",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/穿睡衣 Put On Pajamas"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/穿睡衣 Put On Pajamas",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/穿睡衣 Put On Pajamas/穿睡衣 Put On Pajamas_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "穿鞋子 Put On My Shoes",
       "title": "穿鞋子 Put On My Shoes",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/穿鞋子 Put On My Shoes"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/穿鞋子 Put On My Shoes",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/穿鞋子 Put On My Shoes/穿鞋子 Put On My Shoes_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "站起来 Stand Up Tall",
       "title": "站起来 Stand Up Tall",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/站起来 Stand Up Tall"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/站起来 Stand Up Tall",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/站起来 Stand Up Tall/站起来 Stand Up Tall_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "端午节 Dragon Boat Festival",
       "title": "端午节 Dragon Boat Festival",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/端午节 Dragon Boat Festival"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/端午节 Dragon Boat Festival",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/端午节 Dragon Boat Festival/端午节 Dragon Boat Festival_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "笑哈哈 Laugh Out Loud",
       "title": "笑哈哈 Laugh Out Loud",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/笑哈哈 Laugh Out Loud"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/笑哈哈 Laugh Out Loud",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/笑哈哈 Laugh Out Loud/笑哈哈 Laugh Out Loud_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "笑哭喊 Laugh Cry Shout",
       "title": "笑哭喊 Laugh Cry Shout",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/笑哭喊 Laugh Cry Shout"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/笑哭喊 Laugh Cry Shout",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/笑哭喊 Laugh Cry Shout/笑哭喊 Laugh Cry Shout_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "笛子 Flute",
       "title": "笛子 Flute",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/笛子 Flute"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/笛子 Flute",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/笛子 Flute/笛子 Flute_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "等一等 Wait Wait Wait",
       "title": "等一等 Wait Wait Wait",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/等一等 Wait Wait Wait"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/等一等 Wait Wait Wait",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/等一等 Wait Wait Wait/等一等 Wait Wait Wait_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "米饭 Rice",
       "title": "米饭 Rice",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/米饭 Rice"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/米饭 Rice",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/米饭 Rice/米饭 Rice_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "米饭香 Rice Rice Yummy",
       "title": "米饭香 Rice Rice Yummy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/米饭香 Rice Rice Yummy"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/米饭香 Rice Rice Yummy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/米饭香 Rice Rice Yummy/米饭香 Rice Rice Yummy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红灯绿灯停 Red Light Green Light",
       "title": "红灯绿灯停 Red Light Green Light",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/红灯绿灯停 Red Light Green Light"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/红灯绿灯停 Red Light Green Light",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/红灯绿灯停 Red Light Green Light/红灯绿灯停 Red Light Green Light_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "红黄蓝 Red Yellow Blue",
       "title": "红黄蓝 Red Yellow Blue",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/红黄蓝 Red Yellow Blue"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/红黄蓝 Red Yellow Blue",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/红黄蓝 Red Yellow Blue/红黄蓝 Red Yellow Blue_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "翻跟头 Roll Roll Over",
       "title": "翻跟头 Roll Roll Over",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/翻跟头 Roll Roll Over"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/翻跟头 Roll Roll Over",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/翻跟头 Roll Roll Over/翻跟头 Roll Roll Over_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老虎 Tiger",
       "title": "老虎 Tiger",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/老虎 Tiger"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/老虎 Tiger",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/老虎 Tiger/老虎 Tiger_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "老鹰捉小鸡 Eagle and Chicks",
       "title": "老鹰捉小鸡 Eagle and Chicks",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/老鹰捉小鸡 Eagle and Chicks"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/老鹰捉小鸡 Eagle and Chicks",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/老鹰捉小鸡 Eagle and Chicks/老鹰捉小鸡 Eagle and Chicks_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "肚子饿 I Am Hungry",
       "title": "肚子饿 I Am Hungry",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/肚子饿 I Am Hungry"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/肚子饿 I Am Hungry",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/肚子饿 I Am Hungry/肚子饿 I Am Hungry_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "背书包 Carry My Bag",
       "title": "背书包 Carry My Bag",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/背书包 Carry My Bag"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/背书包 Carry My Bag",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/背书包 Carry My Bag/背书包 Carry My Bag_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "脱下外套 Take Off My Coat",
       "title": "脱下外套 Take Off My Coat",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/脱下外套 Take Off My Coat"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/脱下外套 Take Off My Coat",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/脱下外套 Take Off My Coat/脱下外套 Take Off My Coat_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "自己的事情自己做 Do It Myself",
       "title": "自己的事情自己做 Do It Myself",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/自己的事情自己做 Do It Myself"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/自己的事情自己做 Do It Myself",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/自己的事情自己做 Do It Myself/自己的事情自己做 Do It Myself_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "花儿红 Flower Flower Red",
       "title": "花儿红 Flower Flower Red",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/花儿红 Flower Flower Red"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/花儿红 Flower Flower Red",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/花儿红 Flower Flower Red/花儿红 Flower Flower Red_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "荡秋千 Swing Swing High",
       "title": "荡秋千 Swing Swing High",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/荡秋千 Swing Swing High"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/荡秋千 Swing Swing High",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/荡秋千 Swing Swing High/荡秋千 Swing Swing High_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "菱形 Diamond Diamond",
       "title": "菱形 Diamond Diamond",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/菱形 Diamond Diamond"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/菱形 Diamond Diamond",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/菱形 Diamond Diamond/菱形 Diamond Diamond_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "葡萄紫 Grape Grape Purple",
       "title": "葡萄紫 Grape Grape Purple",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/葡萄紫 Grape Grape Purple"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/葡萄紫 Grape Grape Purple",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/葡萄紫 Grape Grape Purple/葡萄紫 Grape Grape Purple_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蒲公英 Dandelion",
       "title": "蒲公英 Dandelion",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/蒲公英 Dandelion"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/蒲公英 Dandelion",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/蒲公英 Dandelion/蒲公英 Dandelion_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蛋糕 Cake",
       "title": "蛋糕 Cake",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/蛋糕 Cake"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/蛋糕 Cake",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/蛋糕 Cake/蛋糕 Cake_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蜗牛 Snail",
       "title": "蜗牛 Snail",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/蜗牛 Snail"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/蜗牛 Snail",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/蜗牛 Snail/蜗牛 Snail_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蜜蜂 Bee",
       "title": "蜜蜂 Bee",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/蜜蜂 Bee"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/蜜蜂 Bee",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/蜜蜂 Bee/蜜蜂 Bee_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蜻蜓 Dragonfly",
       "title": "蜻蜓 Dragonfly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/蜻蜓 Dragonfly"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/蜻蜓 Dragonfly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/蜻蜓 Dragonfly/蜻蜓 Dragonfly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蝴蝶 Butterfly",
       "title": "蝴蝶 Butterfly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/蝴蝶 Butterfly"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/蝴蝶 Butterfly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/蝴蝶 Butterfly/蝴蝶 Butterfly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蝴蝶飞飞 Fly Butterfly Fly",
       "title": "蝴蝶飞飞 Fly Butterfly Fly",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/蝴蝶飞飞 Fly Butterfly Fly"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/蝴蝶飞飞 Fly Butterfly Fly",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/蝴蝶飞飞 Fly Butterfly Fly/蝴蝶飞飞 Fly Butterfly Fly_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "请 Please",
       "title": "请 Please",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/请 Please"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/请 Please",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/请 Please/请 Please_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "请帮帮我 Please Help Me",
       "title": "请帮帮我 Please Help Me",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/请帮帮我 Please Help Me"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/请帮帮我 Please Help Me",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/请帮帮我 Please Help Me/请帮帮我 Please Help Me_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "请给我 Please Give Me",
       "title": "请给我 Please Give Me",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/请给我 Please Give Me"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/请给我 Please Give Me",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/请给我 Please Give Me/请给我 Please Give Me_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "读故事 Read a Story",
       "title": "读故事 Read a Story",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/读故事 Read a Story"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/读故事 Read a Story",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/读故事 Read a Story/读故事 Read a Story_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "谢谢你 Thank You Thank You",
       "title": "谢谢你 Thank You Thank You",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/谢谢你 Thank You Thank You"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/谢谢你 Thank You Thank You",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/谢谢你 Thank You Thank You/谢谢你 Thank You Thank You_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "谢谢你 Thank You",
       "title": "谢谢你 Thank You",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/谢谢你 Thank You"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/谢谢你 Thank You",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/谢谢你 Thank You/谢谢你 Thank You_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "走和停 Go Go Stop",
       "title": "走和停 Go Go Stop",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/走和停 Go Go Stop"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/走和停 Go Go Stop",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/走和停 Go Go Stop/走和停 Go Go Stop_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "走跑跳 Walk Run Jump",
       "title": "走跑跳 Walk Run Jump",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/走跑跳 Walk Run Jump"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/走跑跳 Walk Run Jump",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/走跑跳 Walk Run Jump/走跑跳 Walk Run Jump_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "起床啦 Wake Up Wake Up",
       "title": "起床啦 Wake Up Wake Up",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/起床啦 Wake Up Wake Up"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/起床啦 Wake Up Wake Up",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/起床啦 Wake Up Wake Up/起床啦 Wake Up Wake Up_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "跑步 Running",
       "title": "跑步 Running",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/跑步 Running"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/跑步 Running",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/跑步 Running/跑步 Running_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "跑跑跑 Run Run Run",
       "title": "跑跑跑 Run Run Run",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/跑跑跑 Run Run Run"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/跑跑跑 Run Run Run",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/跑跑跑 Run Run Run/跑跑跑 Run Run Run_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "跳个舞 Dance with Me",
       "title": "跳个舞 Dance with Me",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/跳个舞 Dance with Me"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/跳个舞 Dance with Me",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/跳个舞 Dance with Me/跳个舞 Dance with Me_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "跳格子 Hopscotch",
       "title": "跳格子 Hopscotch",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/跳格子 Hopscotch"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/跳格子 Hopscotch",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/跳格子 Hopscotch/跳格子 Hopscotch_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "跺跺脚 Stomp Stomp Stomp",
       "title": "跺跺脚 Stomp Stomp Stomp",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/跺跺脚 Stomp Stomp Stomp"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/跺跺脚 Stomp Stomp Stomp",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/跺跺脚 Stomp Stomp Stomp/跺跺脚 Stomp Stomp Stomp_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "踢一踢 Kick Kick Kick",
       "title": "踢一踢 Kick Kick Kick",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/踢一踢 Kick Kick Kick"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/踢一踢 Kick Kick Kick",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/踢一踢 Kick Kick Kick/踢一踢 Kick Kick Kick_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "踢足球 Play Soccer",
       "title": "踢足球 Play Soccer",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/踢足球 Play Soccer"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/踢足球 Play Soccer",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/踢足球 Play Soccer/踢足球 Play Soccer_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "踩水花 Splash Splash Splash",
       "title": "踩水花 Splash Splash Splash",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/踩水花 Splash Splash Splash"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/踩水花 Splash Splash Splash",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/踩水花 Splash Splash Splash/踩水花 Splash Splash Splash_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "蹦蹦跳 Bounce Bounce Bounce",
       "title": "蹦蹦跳 Bounce Bounce Bounce",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/蹦蹦跳 Bounce Bounce Bounce"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/蹦蹦跳 Bounce Bounce Bounce",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/蹦蹦跳 Bounce Bounce Bounce/蹦蹦跳 Bounce Bounce Bounce_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "躲猫猫 Peek-a-Boo",
       "title": "躲猫猫 Peek-a-Boo",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/躲猫猫 Peek-a-Boo"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/躲猫猫 Peek-a-Boo",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/躲猫猫 Peek-a-Boo/躲猫猫 Peek-a-Boo_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "转圈圈 Spin Spin Round",
       "title": "转圈圈 Spin Spin Round",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/转圈圈 Spin Spin Round"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/转圈圈 Spin Spin Round",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/转圈圈 Spin Spin Round/转圈圈 Spin Spin Round_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "轻和重 Light Light Heavy Heavy",
       "title": "轻和重 Light Light Heavy Heavy",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/轻和重 Light Light Heavy Heavy"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/轻和重 Light Light Heavy Heavy",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/轻和重 Light Light Heavy Heavy/轻和重 Light Light Heavy Heavy_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "这个那个 This and That",
       "title": "这个那个 This and That",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/这个那个 This and That"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/这个那个 This and That",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/这个那个 This and That/这个那个 This and That_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "这是什么 What Is This",
       "title": "这是什么 What Is This",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/这是什么 What Is This"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/这是什么 What Is This",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/这是什么 What Is This/这是什么 What Is This_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "远近 Far Near",
       "title": "远近 Far Near",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/远近 Far Near"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/远近 Far Near",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/远近 Far Near/远近 Far Near_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "里外 Inside Outside",
       "title": "里外 Inside Outside",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/里外 Inside Outside"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/里外 Inside Outside",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/里外 Inside Outside/里外 Inside Outside_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "钢琴 Piano",
       "title": "钢琴 Piano",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/钢琴 Piano"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/钢琴 Piano",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/钢琴 Piano/钢琴 Piano_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "钻山洞 Go Through the Tunnel",
       "title": "钻山洞 Go Through the Tunnel",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/钻山洞 Go Through the Tunnel"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/钻山洞 Go Through the Tunnel",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/钻山洞 Go Through the Tunnel/钻山洞 Go Through the Tunnel_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "铺铺床 Make My Bed",
       "title": "铺铺床 Make My Bed",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/铺铺床 Make My Bed"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/铺铺床 Make My Bed",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/铺铺床 Make My Bed/铺铺床 Make My Bed_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "长和短 Long Long Short Short",
       "title": "长和短 Long Long Short Short",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/长和短 Long Long Short Short"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/长和短 Long Long Short Short",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/长和短 Long Long Short Short/长和短 Long Long Short Short_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "长颈鹿 Giraffe",
       "title": "长颈鹿 Giraffe",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/长颈鹿 Giraffe"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/长颈鹿 Giraffe",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/长颈鹿 Giraffe/长颈鹿 Giraffe_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "长颈鹿好高 Giraffe Is So Tall",
       "title": "长颈鹿好高 Giraffe Is So Tall",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/长颈鹿好高 Giraffe Is So Tall"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/长颈鹿好高 Giraffe Is So Tall",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/长颈鹿好高 Giraffe Is So Tall/长颈鹿好高 Giraffe Is So Tall_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "阿姨好 Auntie Hello",
       "title": "阿姨好 Auntie Hello",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/阿姨好 Auntie Hello"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/阿姨好 Auntie Hello",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/阿姨好 Auntie Hello/阿姨好 Auntie Hello_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "难过的时候 Sad Times",
       "title": "难过的时候 Sad Times",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/难过的时候 Sad Times"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/难过的时候 Sad Times",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/难过的时候 Sad Times/难过的时候 Sad Times_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "面条 Noodles",
       "title": "面条 Noodles",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/面条 Noodles"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/面条 Noodles",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/面条 Noodles/面条 Noodles_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "面条长 Noodle Noodle Long",
       "title": "面条长 Noodle Noodle Long",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/面条长 Noodle Noodle Long"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/面条长 Noodle Noodle Long",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/面条长 Noodle Noodle Long/面条长 Noodle Noodle Long_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "饺子 Dumpling",
       "title": "饺子 Dumpling",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/饺子 Dumpling"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/饺子 Dumpling",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/饺子 Dumpling/饺子 Dumpling_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "骑大马 Ride a Horse",
       "title": "骑大马 Ride a Horse",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/骑大马 Ride a Horse"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/骑大马 Ride a Horse",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/骑大马 Ride a Horse/骑大马 Ride a Horse_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "骑自行车 Ride a Bike",
       "title": "骑自行车 Ride a Bike",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/骑自行车 Ride a Bike"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/骑自行车 Ride a Bike",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/骑自行车 Ride a Bike/骑自行车 Ride a Bike_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "高兴难过 Happy Happy Sad Sad",
       "title": "高兴难过 Happy Happy Sad Sad",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/高兴难过 Happy Happy Sad Sad"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/高兴难过 Happy Happy Sad Sad",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/高兴难过 Happy Happy Sad Sad/高兴难过 Happy Happy Sad Sad_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "高和低 High High Low Low",
       "title": "高和低 High High Low Low",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/高和低 High High Low Low"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/高和低 High High Low Low",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/高和低 High High Low Low/高和低 High High Low Low_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鲸鱼 Whale",
       "title": "鲸鱼 Whale",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/鲸鱼 Whale"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/鲸鱼 Whale",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/鲸鱼 Whale/鲸鱼 Whale_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鸡蛋香 Egg Egg Good",
       "title": "鸡蛋香 Egg Egg Good",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/鸡蛋香 Egg Egg Good"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/鸡蛋香 Egg Egg Good",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/鸡蛋香 Egg Egg Good/鸡蛋香 Egg Egg Good_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "黑白 Color Black and White",
       "title": "黑白 Color Black and White",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/黑白 Color Black and White"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/黑白 Color Black and White",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/黑白 Color Black and White/黑白 Color Black and White_1.jpg",
+        "cover_level": "story"
+      }
     },
     {
       "entry_id": "鼓 Drum",
       "title": "鼓 Drum",
       "structure_type": "standalone",
       "display_as": "story_card",
-      "path": "瞎编的歌曲/幼儿/双语歌曲/鼓 Drum"
+      "path": "瞎编的歌曲/幼儿/双语歌曲/鼓 Drum",
+      "cover": {
+        "cover_image_url": "covers/generated/瞎编的歌曲/幼儿/双语歌曲/鼓 Drum/鼓 Drum_1.jpg",
+        "cover_level": "story"
+      }
     }
   ]
 }

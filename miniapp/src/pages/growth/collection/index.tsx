@@ -36,7 +36,7 @@ export default function Collection() {
     return (
       <View className={`center ${night}`}>
         <Text className="emoji-xl">👑</Text>
-        <Text style={{ fontSize: '38px', fontWeight: 800, display: 'block', margin: '8px 0' }}>朋友收集册是会员专属</Text>
+        <Text style={{ fontSize: '38px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>朋友收集册是会员专属</Text>
         <Text className="muted" style={{ marginBottom: '28px' }}>开通会员查看完整收集册与成就贴纸</Text>
         <View className="btn-primary" style={{ width: '360px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/member/index' })}>去开通会员</View>
       </View>
@@ -56,7 +56,7 @@ export default function Collection() {
       <Text className="brand-title" style={{ color: '#7FC96A' }}>📓 朋友收集册</Text>
       {items.map((it) => (
         <View key={it.subject} className="card">
-          <Text style={{ fontSize: '32px', fontWeight: 'bold' }}>{it.subject}</Text>
+          <Text style={{ fontSize: '32px', fontWeight: 'bold', color: 'var(--color-text)' }}>{it.subject}</Text>
           <View className="row" style={{ justifyContent: 'space-around', marginTop: '16px' }}>
             <Bar label="已相识" n={it.acquainted} color="var(--stage-1)" />
             <Bar label="好朋友" n={it.friends} color="var(--stage-2)" />
@@ -66,7 +66,7 @@ export default function Collection() {
       ))}
 
       <View className="card">
-        <Text style={{ fontSize: '32px', fontWeight: 'bold' }}>🏅 成就贴纸</Text>
+        <Text style={{ fontSize: '32px', fontWeight: 'bold', color: 'var(--color-text)' }}>🏅 成就贴纸</Text>
         {stickers.length === 0 && <Text className="muted" style={{ display: 'block', marginTop: '12px' }}>收集更多好伙伴，解锁专属贴纸～</Text>}
         <View className="row" style={{ flexWrap: 'wrap', marginTop: '12px' }}>
           {stickers.map((s) => (
