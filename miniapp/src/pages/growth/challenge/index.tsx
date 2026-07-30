@@ -3,10 +3,11 @@
  * GET /test/quiz/:word_id 取题（不含答案）→ 一题一屏作答 → POST 提交（服务端判分）→ 逐题正误 + 朋友等级。
  * ★ 无惩罚·可无限重试：未通过始终可"再试一次"（后端返回 can_retry=!passed）。
  * ★ 一题一屏（UX-10）：分步作答，当前题未选禁用"下一题/提交"。
- * ★ 按题型差异化渲染（2026-07-29 修正）：
- *   - 听力题（sound_to_char/word_to_sound/char_to_sound/recognition）：不显示 stem 文字，只有播放按钮
- *   - 看题选答（char_to_word/word_to_meaning/word_formation/pinyin）：正常显示 stem
- *   - 完型填空（sentence_fill）：stem 中 ___ 渲染为下划线空格
+ * ★ 按题型差异化渲染（2026-07-30 修正，对齐真题库字段）：
+ *   - 听力题（sound_to_char/word_to_sound/char_to_sound/recognition）：不显 stem，只给大播放按钮
+ *   - 完型填空（sentence_fill）：**展示真句子**（sentence_blank，____ 渲染为下划线）**+ 句子朗读按钮**
+ *   - 看题选答（word_to_meaning 等）：大字展示目标词 word + 题干，有音频则附发音按钮
+ *   - 结果页：逐题正误 + **讲解文字与讲解配音**（explanation / explanation_audio_url）
  */
 import { useEffect, useRef, useState } from 'react';
 import { View, Text } from '@tarojs/components';
@@ -14,16 +15,17 @@ import Taro, { useRouter } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
 import { useNight } from '@/hooks/useNight';
+import { CONFIG } from '@/services/config';
 import Icon from '@/components/Icon';
 
-interface Question { question_id: string; type: string; stem?: string; audio_url?: string; options: { option_id: string; text: string }[] }
+interface Question { question_id: string; type: string; stem?: string; word?: string; audio_url?: string; options: { option_id: string; text: string }[] }
 interface Quiz { test_id: string; word_id: string; questions: Question[] }
 interface Result {
   test_passed: boolean;
   can_retry: boolean;
   feedback: string;
   stage_name: string;
-  results?: { question_id: string; is_correct: boolean }[];
+  results?: { question_id: string; is_correct: boolean; explanation?: string; explanation_audio_url?: string }[];
 }
 
 /** 题型标签 */
@@ -39,8 +41,11 @@ const TYPE_LABEL: Record<string, string> = {
   sentence_fill: '完型填空',
 };
 
-/** 听力题型集合：stem 不可展示（是给 TTS 的原文，展示就泄题），只给播放按钮 */
-const AUDIO_TYPES = new Set(['recognition', 'sound_to_char', 'word_to_sound', 'char_to_sound']);
+/**
+ * 听力题型（只能听）：stem 是给 TTS 的原文，展示就泄题，只给播放按钮
+ * ★ char_to_sound（看字选拼音）不在此列：它必须把字展示出来（2026-07-30 修正）
+ */
+const AUDIO_TYPES = new Set(['recognition', 'sound_to_char', 'word_to_sound']);
 
 export default function Challenge() {
   const router = useRouter();
@@ -65,18 +70,19 @@ export default function Challenge() {
   useEffect(() => { if (selectedChildId) loadQuiz(); }, [selectedChildId]);
   useEffect(() => () => { audioCtx.current?.destroy(); }, []);
 
-  /** 播放题目音频（真实题库暂无独立音频文件，用 Taro TTS 朗读 stem 作为过渡；有 audio_url 则直接播文件） */
-  const playAudio = (q: Question) => {
-    if (audioCtx.current) audioCtx.current.destroy();
-    if (q.audio_url) {
-      const ctx = Taro.createInnerAudioContext();
-      ctx.src = q.audio_url;
-      ctx.play();
-      audioCtx.current = ctx;
-    } else {
-      // 无音频文件时 toast 提示（真实场景应播 TTS，此处占位）
-      Taro.showToast({ title: '请仔细看选项，选出正确答案', icon: 'none' });
+  /** 播放任意音频（题目发音/句子朗读/讲解配音）；相对路径自动补服务器域名 */
+  const playUrl = (url?: string) => {
+    if (!url) {
+      Taro.showToast({ title: '这题暂无配音，看选项选答案吧', icon: 'none' });
+      return;
     }
+    if (audioCtx.current) audioCtx.current.destroy();
+    const ctx = Taro.createInnerAudioContext();
+    // 后端下发的是 `/static/audio/…`（已逐段编码）；staticBaseUrl 自带 /static 后缀，去重后拼 origin
+    ctx.src = /^https?:\/\//.test(url) ? url : `${CONFIG.staticBaseUrl.replace(/\/static\/?$/, '')}${url}`;
+    ctx.onError((e) => { console.warn('题目音频播放失败', e, ctx.src); Taro.showToast({ title: '音频加载失败', icon: 'none' }); });
+    ctx.play();
+    audioCtx.current = ctx;
   };
 
   const submit = async () => {
@@ -117,39 +123,69 @@ export default function Challenge() {
   const isAudio = cur && AUDIO_TYPES.has(cur.type);
   const isFill = cur && cur.type === 'sentence_fill';
 
+  /** 大圆播放按钮（听力题主体 / 句子朗读） */
+  const PlayBtn = ({ url, size = 120, label }: { url?: string; size?: number; label?: string }) => (
+    <View style={{ textAlign: 'center', padding: '12px 0' }}>
+      <View style={{ width: `${size}px`, height: `${size}px`, borderRadius: '50%', background: 'radial-gradient(circle at 35% 30%, #FFB067, #FF8C42)', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '0 auto', boxShadow: '0 8px 20px rgba(255,140,66,.4)' }}
+        onClick={() => playUrl(url)}>
+        <Icon name="play" size={Math.round(size * 0.46)} color="#fff" />
+      </View>
+      {label ? <Text style={{ display: 'block', marginTop: '14px', fontSize: '26px', color: 'var(--color-text-secondary)' }}>{label}</Text> : null}
+    </View>
+  );
+
+  /** 完型句子：____ 渲染为下划线空位 */
+  const renderBlankSentence = (sentence: string) => {
+    const parts = sentence.split(/_{2,}/);
+    return (
+      <Text style={{ fontSize: '30px', fontWeight: 700, color: 'var(--color-text)', lineHeight: '1.9' }}>
+        {parts.map((p, i) => (
+          <Text key={i}>
+            {p}
+            {i < parts.length - 1 && <Text style={{ color: 'var(--color-primary)', fontWeight: 800 }}> ____ </Text>}
+          </Text>
+        ))}
+      </Text>
+    );
+  };
+
   /** 渲染题面区域 */
   const renderStem = () => {
     if (!cur) return null;
     if (isAudio) {
       // 听力题：大播放按钮 + 提示文字，不泄露 stem
+      return <PlayBtn url={cur.audio_url} label="点击播放，听完选答案" />;
+    }
+    if (isFill) {
+      // ★完型填空：先展示真句子（后端现下发 sentence_blank），再给句子朗读按钮
       return (
-        <View style={{ textAlign: 'center', padding: '20px 0' }}>
-          <View style={{ width: '120px', height: '120px', borderRadius: '50%', background: 'radial-gradient(circle at 35% 30%, #FFB067, #FF8C42)', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '0 auto', boxShadow: '0 8px 20px rgba(255,140,66,.4)' }}
-            onClick={() => playAudio(cur)}>
-            <Icon name="play" size={56} color="#fff" />
-          </View>
-          <Text style={{ display: 'block', marginTop: '16px', fontSize: '26px', color: 'var(--color-text-secondary)' }}>点击播放，听完选答案</Text>
+        <View>
+          {cur.stem ? renderBlankSentence(cur.stem) : null}
+          {cur.audio_url ? <PlayBtn url={cur.audio_url} size={92} label="听一遍句子" /> : null}
         </View>
       );
     }
-    if (isFill && cur.stem) {
-      // 完型填空：___渲染为下划线空格
-      const parts = cur.stem.split(/_{2,}/);
-      return (
-        <Text style={{ fontSize: '30px', fontWeight: 700, color: 'var(--color-text)', lineHeight: '1.8' }}>
-          {parts.map((p, i) => (
-            <Text key={i}>{p}{i < parts.length - 1 && <Text style={{ borderBottom: '3px solid var(--color-primary)', padding: '0 24px', margin: '0 4px' }}> ? </Text>}</Text>
-          ))}
-        </Text>
-      );
-    }
-    // 看题选答：正常展示 stem
-    return cur.stem ? <Text style={{ fontSize: '30px', fontWeight: 700, color: 'var(--color-text)' }}>{cur.stem}</Text> : null;
+    // 看字/看词选答：目标字大字置顶（否则“这个字怎么读”无指代）+ 题干 + 可选发音
+    // 字号：单字/短词给大字（识字题靠字形辨认），长单词适当缩小避免溢出
+    const w = cur.word || '';
+    const wordSize = w.length <= 2 ? 96 : w.length <= 6 ? 60 : 44;
+    return (
+      <View>
+        {w ? (
+          <Text className="serif" style={{ display: 'block', textAlign: 'center', fontSize: `${wordSize}px`, fontWeight: 800, color: 'var(--color-text)', letterSpacing: '2px', lineHeight: 1.2, padding: '10px 0' }}>{w}</Text>
+        ) : null}
+        {cur.stem ? (
+          <Text style={{ display: 'block', textAlign: w ? 'center' : 'left', marginTop: w ? '8px' : 0, fontSize: '28px', fontWeight: 700, color: w ? 'var(--color-text-secondary)' : 'var(--color-text)' }}>{cur.stem}</Text>
+        ) : null}
+        {cur.audio_url ? <PlayBtn url={cur.audio_url} size={84} label="听发音" /> : null}
+      </View>
+    );
   };
 
   return (
     <View className={`page-container ${night}`}>
-      <Text className="brand-title" style={{ color: '#7FC96A' }}>挑战：{wordText}</Text>
+      {/* ★标题不写目标字：听音选字题的答案就是它，写在标题里等于直接送答案（实测反馈） */}
+      <Text className="brand-title" style={{ color: '#7FC96A' }}>{subject}挑战</Text>
 
       {!result && cur && (
         <>
@@ -183,9 +219,21 @@ export default function Challenge() {
           {result.results && result.results.length > 0 && (
             <View className="card" style={{ width: '100%', marginTop: '20px' }}>
               {result.results.map((r, i) => (
-                <View key={r.question_id} className="row" style={{ justifyContent: 'space-between', padding: '8px 0' }}>
-                  <Text className="nm">第 {i + 1} 题</Text>
-                  <Text style={{ fontWeight: 800, color: r.is_correct ? '#7FC96A' : '#E4572E' }}>{r.is_correct ? '✓ 答对' : '✗ 答错'}</Text>
+                <View key={r.question_id} style={{ padding: '10px 0', borderBottom: i < result.results!.length - 1 ? '1px solid var(--color-border)' : 'none' }}>
+                  <View className="row" style={{ justifyContent: 'space-between' }}>
+                    <Text className="nm">第 {i + 1} 题</Text>
+                    <Text style={{ fontWeight: 800, color: r.is_correct ? '#7FC96A' : '#E4572E' }}>{r.is_correct ? '✓ 答对' : '✗ 答错'}</Text>
+                  </View>
+                  {/* ★讲解：答错才是学习的开始——展示“为什么”与讲解配音（后端判分后才下发） */}
+                  {r.explanation ? (
+                    <View style={{ marginTop: '8px', background: 'var(--color-primary-soft)', borderRadius: '18px', padding: '16px 18px' }}>
+                      <Text style={{ fontSize: '25px', lineHeight: '1.7', color: 'var(--color-text)', display: 'block', textAlign: 'left' }}>{r.explanation}</Text>
+                      {r.explanation_audio_url ? (
+                        <Text style={{ display: 'inline-block', marginTop: '12px', fontSize: '25px', fontWeight: 800, color: 'var(--color-primary)' }}
+                          onClick={() => playUrl(r.explanation_audio_url)}>🔊 听讲解</Text>
+                      ) : null}
+                    </View>
+                  ) : null}
                 </View>
               ))}
             </View>

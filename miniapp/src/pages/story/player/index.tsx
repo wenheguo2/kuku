@@ -34,10 +34,14 @@ export default function StoryPlayer() {
   // 收藏状态回显：已收藏时心形变红+文案变“已收藏”，再点取消（weapp 实测反馈：原来点了没反应分不清收没收）
   const [favId, setFavId] = useState<string | null>(null);
   // 加载失败驻留态：toast 转瞬即逝，字幕位需持久提示失败而非永远“加载中”（边界实测：不存在的故事停留加载中）
+  // ★它仅代表“分段索引没拿到”；部分故事无 segments 但 full.mp3 能正常播，此时不得报失败
+  //   → onTimeUpdate 一旦拿到有效时长就自动撤销提示（混沌测试实测：进度在走却显“加载失败”的误报根因）
   const [loadFailed, setLoadFailed] = useState(false);
+  const loadFailedRef = useRef(false);
+  const markFailed = (v: boolean) => { loadFailedRef.current = v; setLoadFailed(v); };
   const reportLoadError = (error: unknown) => {
     console.warn('加载故事音频失败', error);
-    setLoadFailed(true);
+    markFailed(true);
     Taro.showToast({ title: '故事加载失败，请稍后重试', icon: 'none' });
   };
   const displayedRef = useRef<string>('');
@@ -68,7 +72,7 @@ export default function StoryPlayer() {
   /** 加载并（可选）播放一篇故事：播放统一走全局 playStory（含全局状态+历史），非播放只拉 segments 展示 */
   const loadStory = async (path: string, storyTitle: string, autoplay: boolean) => {
     displayedRef.current = path; // 先标记，避免下方 current 变化触发反向展示 effect 重复加载
-    setLoadFailed(false);
+    markFailed(false);
     if (autoplay) {
       const seg = await playStory(path, storyTitle);
       setData(seg);
@@ -86,6 +90,8 @@ export default function StoryPlayer() {
       setCur(c);
       const total = d || 0;
       setDur(total);
+      // ★音频已拿到有效时长→确实能播，清除分段索引失败导致的驻留误报
+      if (total > 0 && loadFailedRef.current) markFailed(false);
       usePlayerStore.getState().setTime(c, total);
     });
     // ★ 续播由 App 级全局驱动（playbackQueue）统一接管，页面不再注册 onEnded，避免离页后断链
@@ -96,9 +102,9 @@ export default function StoryPlayer() {
       setDur(store.durationSec);
       setPlaying(store.isPlaying);
       displayedRef.current = store.current.id;
-      indexLoader.loadSegments(store.current.id).then((d) => { setData(d); setLoadFailed(false); }).catch(reportLoadError);
+      indexLoader.loadSegments(store.current.id).then((d) => { setData(d); markFailed(false); }).catch(reportLoadError);
     } else {
-      // 直接进入（非从故事列表/章回）：若当前队列首项不是本故事，重置为单篇（带按 path 推导的封面兑底），避免残留歌单被误当“下一首”
+      // 直接进入（非从故事列表/章回）：若当前队列首项不是本故事，重置为单篇（带按 path 推导的封面兜底），避免残留歌单被误当“下一首”
       const q = store.queue[store.queueIndex];
       if (!(q && q.type === 'story' && q.id === initPath)) {
         store.setQueue([{ type: 'story', id: initPath, title: initTitle, coverUrl: guessCoverFromPath(initPath) || undefined }], 0);
@@ -120,7 +126,7 @@ export default function StoryPlayer() {
     displayedRef.current = currentId;
     setTitle(usePlayerStore.getState().current?.title ?? '故事');
     setPlaying(usePlayerStore.getState().isPlaying);
-    indexLoader.loadSegments(currentId).then((d) => { setData(d); setLoadFailed(false); }).catch(reportLoadError);
+    indexLoader.loadSegments(currentId).then((d) => { setData(d); markFailed(false); }).catch(reportLoadError);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentId]);
 

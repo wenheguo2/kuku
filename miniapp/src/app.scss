@@ -101,7 +101,9 @@ page {
 /* 分区头 */
 .sec-h { display: flex; align-items: center; justify-content: space-between; margin: 28px 4px 14px; }
 .sec-h .t { font-size: 30px; font-weight: bold; color: var(--color-text); }
-.sec-h .m { font-size: 26px; color: var(--color-primary); }
+/* ★“换一换/更多”类文字链接：字号不变，用 padding 把热区撑到 88rpx（儿童手指粗），负 margin 抵消布局影响
+   注：390px 窗口下 1rpx≈0.52px，要凑 44px 高需 padding ≈26rpx（实测校准） */
+.sec-h .m { font-size: 26px; color: var(--color-primary); padding: 26px 8px; margin: -26px -8px; }
 
 /* 列表行卡（thumb/gr/nm/ds/bar/rt 提升为全局，可在 card/任意处复用） */
 .list-row {
@@ -162,8 +164,17 @@ page {
 .chip { display: inline-block; background: var(--color-card); border: 1px solid var(--color-border); border-radius: 30px; padding: 12px 26px; font-size: 26px; margin: 0 12px 14px 0; color: var(--color-text); }
 .chip.on { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
 
-/* ★分享拉新（open-type=share 真按钮）：首页醍目横条 + 播放器/家长中心复用 */
-button.share-bar { display: flex; align-items: center; justify-content: center; gap: 10px; width: auto; background: linear-gradient(135deg, #FFB067, #FF8C42); color: #fff; border: none; border-radius: 26px; padding: 18px 0; margin: 2px 4px 18px; font-size: 28px; font-weight: 800; line-height: 1.4; box-shadow: 0 6px 16px rgba(255, 140, 66, 0.35); }
+/* ★歌曲列表「循环播放」胶囊：白卡细描边，紫系配插画图标（图标不裁圆，保留原圆角方形造型）
+   热区：纵向 padding 撑过 88rpx；文字色 #8B6FC9 在白底仅 4.03:1→加深至 5.9:1 */
+.loop-pill { flex: 0 0 auto; display: inline-flex; align-items: center; gap: 10px; background: var(--color-card); border: 2px solid rgba(154, 120, 220, 0.35); border-radius: 999px; padding: 22px 24px 22px 12px; box-shadow: 0 6px 16px rgba(154, 120, 220, 0.16); transition: transform 120ms ease; }
+.loop-pill:active { transform: scale(0.94); }
+.loop-pill .ic { width: 44px; height: 44px; }
+.loop-pill .tx { font-size: 24px; font-weight: 800; color: #6E4FB0; letter-spacing: 1px; }
+.theme-dark .loop-pill { background: rgba(35, 47, 85, 0.85); border-color: rgba(178, 148, 235, 0.35); box-shadow: none; }
+.theme-dark .loop-pill .tx { color: #C9B4F2; }
+
+/* ★分享拉新（open-type=share 真按钮）：首页醒目横条 + 播放器/家长中心复用（padding 保证热区≥88rpx） */
+button.share-bar { display: flex; align-items: center; justify-content: center; gap: 10px; width: auto; background: linear-gradient(135deg, #FFB067, #FF8C42); color: #fff; border: none; border-radius: 26px; padding: 24px 0; margin: 2px 4px 18px; font-size: 28px; font-weight: 800; line-height: 1.4; box-shadow: 0 6px 16px rgba(255, 140, 66, 0.35); }
 button.share-bar::after { border: none; }
 /* 播放器功能区的分享：去掉 button 默认盒，长得和旁边 .fn 一样 */
 button.share-fn { background: transparent; border: none; padding: 0; margin: 0; line-height: inherit; font-size: inherit; color: inherit; display: flex; flex-direction: column; align-items: center; gap: 6px; }
@@ -230,14 +241,15 @@ button.share-chip::after { border: none; }
 .avatar { width: 88px; height: 88px; border-radius: 50%; overflow: hidden; flex: 0 0 auto; box-shadow: 0 4px 12px rgba(255,140,66,.35); border: 3px solid #fff; background: var(--color-primary-soft); }
 .greet .hi { font-size: 22px; color: var(--color-text-secondary); font-weight: 700; display: block; }
 .greet .big { font-size: 32px; font-weight: 800; margin-top: 4px; display: block; white-space: nowrap; }
-.sbtn { margin-left: auto; width: 80px; height: 80px; border-radius: 50%; flex: 0 0 auto; background: var(--color-card); display: flex; align-items: center; justify-content: center; box-shadow: 0 5px 14px rgba(232,201,160,.4); }
+.sbtn { margin-left: auto; width: 88px; height: 88px; border-radius: 50%; flex: 0 0 auto; background: var(--color-card); display: flex; align-items: center; justify-content: center; box-shadow: 0 5px 14px rgba(232,201,160,.4); }
 
 /* Hero 轮播卡 */
 .hero { position: relative; margin-top: 16px; border-radius: 36px; height: 380px; overflow: hidden; box-shadow: 0 16px 32px rgba(180,110,40,.32); }
 .hero .cover { width: 100%; height: 100%; }
 .shade { position: absolute; left: 0; right: 0; top: 0; bottom: 0; background: linear-gradient(180deg, transparent 36%, rgba(46,30,14,.62) 90%); }
 .hero .inner { position: absolute; left: 28px; right: 28px; bottom: 26px; color: #fff; }
-.htag { display: inline-block; font-size: 20px; font-weight: 800; background: rgba(255,255,255,.26); padding: 5px 18px; border-radius: 16px; border: 1px solid rgba(255,255,255,.35); }
+/* ★Hero 角标/“换一个”按钮：纵向 padding 撑到 88rpx 热区（视觉高度靠 line-height 保持紧凑） */
+.htag { display: inline-block; font-size: 20px; font-weight: 800; background: rgba(255,255,255,.26); padding: 34px 18px; border-radius: 16px; border: 1px solid rgba(255,255,255,.35); line-height: 1; }
 .hero .h-title { font-size: 42px; font-weight: 800; margin: 14px 0 5px; display: block; text-shadow: 0 2px 10px rgba(0,0,0,.35); }
 .hero .h-meta { font-size: 22px; opacity: .94; }
 .hplay { position: absolute; right: 26px; bottom: 26px; width: 92px; height: 92px; border-radius: 50%; background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42 70%, #F2751F); display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 20px rgba(255,140,66,.55); }
@@ -398,8 +410,8 @@ button.share-chip::after { border: none; }
 .opt.sel { border-color: var(--stage-3); background: #F2FAEE; }
 .opt.no { border-color: #F0B4B4; background: #FDF1F1; }
 .seg { display: flex; background: #F5EBDB; border-radius: 22px; padding: 5px; gap: 5px; }
-/* ★nowrap + 水平内边距：防“定时触发”等长标签被 flex 挤压折行（设置页实测） */
-.seg .s { flex: 1 0 auto; text-align: center; font-size: 22px; font-weight: 700; padding: 12px 20px; border-radius: 18px; color: var(--color-text-secondary); white-space: nowrap; }
+/* ★nowrap + 水平内边距：防“定时触发”等长标签被 flex 挤压折行（设置页实测）；纵向 padding 撑热区到 88rpx */
+.seg .s { flex: 1 0 auto; text-align: center; font-size: 22px; font-weight: 700; padding: 34px 20px; border-radius: 18px; color: var(--color-text-secondary); white-space: nowrap; line-height: 1; }
 .seg .s.on { background: #fff; color: var(--color-primary); box-shadow: 0 2px 6px rgba(232,201,160,.5); }
 .escore { width: 210px; height: 210px; border-radius: 50%; margin: 0 auto; background: radial-gradient(circle at 35% 30%, #B9E89B, var(--stage-3) 70%, #57B83E); display: flex; flex-direction: column; align-items: center; justify-content: center; color: #fff; box-shadow: 0 14px 30px rgba(126,217,87,.45); }
 
@@ -483,6 +495,8 @@ button.share-chip::after { border: none; }
 }
 
 /* ===== 全局夜间/睡前模式微调（.theme-dark 下硬编白组件）===== */
+/* ★根因：未显式设 color 的文字（.big/.nm 等）继承自 page 的浅色计算值，.theme-dark 变量覆盖不及祖先→在此重申 color 让后代继承夜间白 */
+.theme-dark { color: var(--color-text); }
 .theme-dark .mini-v4 { background: rgba(35, 47, 85, 0.92); border-color: rgba(255, 255, 255, 0.12); }
 .theme-dark .kid { background: rgba(35, 47, 85, 0.7); border-color: rgba(255, 255, 255, 0.12); }
 .theme-dark .seg { background: rgba(255, 255, 255, 0.08); }

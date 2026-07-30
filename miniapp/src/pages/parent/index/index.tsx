@@ -13,6 +13,7 @@ import iconFav from '@/assets/icon_fav.png';
 import iconHistory from '@/assets/icon_history.png';
 import iconChildren from '@/assets/icon_children.png';
 import iconSettings from '@/assets/icon_settings.png';
+import iconPrivacy from '@/assets/icon_privacy.png';
 import iconMember from '@/assets/icon_member.png';
 import { useNight } from '@/hooks/useNight';
 import { useTabStore } from '@/stores/tabStore';
@@ -20,13 +21,13 @@ import { shareCard } from '@/utils/share';
 
 interface Weekly { weekly_stats: { new_acquainted: number; new_friends: number; new_buddies: number } }
 
-// 功能行插画图标（素材库压缩产物 96px）；隐私注销暂无专属图，复用设置图降透明区分
+// 功能行插画图标（素材库压缩产物 96px，源图见 production/illustrations/covers/generated/新建文件夹）
 const ENTRIES: { img: string; label: string; url: string; rt: string }[] = [
   { img: iconFav, label: '收藏管理', url: '/pages/common/favorites/index', rt: '我的收藏 ›' },
   { img: iconHistory, label: '播放历史', url: '/pages/common/history/index', rt: '最近 100 条 ›' },
   { img: iconChildren, label: '孩子档案', url: '/pages/common/children/index', rt: '管理 ›' },
   { img: iconSettings, label: '账号设置', url: '/pages/common/settings/index', rt: '›' },
-  { img: iconChildren, label: '隐私与账号注销', url: '/pages/common/account-delete/index', rt: '管理 ›' },
+  { img: iconPrivacy, label: '隐私与账号注销', url: '/pages/common/account-delete/index', rt: '管理 ›' },
 ];
 
 export default function ParentCenter() {
@@ -90,7 +91,7 @@ export default function ParentCenter() {
         <Text className="rt" style={{ color: '#B8860B' }}>升级解锁全部 ›</Text>
       </View>
 
-      {/* ★分享拉新：醍目真按钮 */}
+      {/* ★分享拉新：醒目真按钮 */}
       <Button className="share-bar" openType="share">📤 把酷酷推荐给其他家长</Button>
 
       {isLogin && (

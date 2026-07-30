@@ -1,6 +1,6 @@
 {
-  "version": "4.0",
-  "updated_at": "2026-07-22",
+  "version": "4.1",
+  "updated_at": "2026-07-30",
   "description": "酷酷儿童故事 UI 设计令牌 - 定稿 v4.0（典藏绘本·日夜双主题），与 酷酷UI_融合版_v4.html 的 :root 保持一致（单一数据源）",
   
   "colors": {
@@ -18,7 +18,8 @@
     "card": "#FFFFFF",
     
     "textPrimary": "#2D3142",
-    "textSecondary": "#8B8D9E",
+    "textSecondary": "#6E7080",
+    "_textSecondaryNote": "v4.1 由 #8B8D9E 加深：原值在 #FFF9F0 上仅 3.13:1，低于 WCAG AA 4.5；现 4.67:1（白卡上 4.89:1）",
     "border": "#F0E6D8",
     
     "stageUnlearned": "#D1D5DB",
@@ -33,7 +34,8 @@
     "backgroundDeep": "#141B31",
     "backgroundLight": "#232F55",
     "text": "#E8ECFF",
-    "textSecondary": "#8A93B8",
+    "textSecondary": "#A0A9CE",
+    "_textSecondaryNote": "v4.1 由 #8A93B8 提亮：原值在卡面 #232F55 上仅 4.32:1，现 5.63:1",
     "lamp": "#FFC98F",
     "lampGold": "#FFD873",
     "ctaGold": "#FFC93C",
@@ -163,7 +165,9 @@
     "bodyFontSize": "18px",
     "minContrastRatio": "4.5:1",
     "minTouchTarget": "44pt",
-    "buttonSpacing": "8px"
+    "buttonSpacing": "8px",
+    "_verified": "2026-07-30 微信开发者工具实测（详 md/23）：辅助文字对比度 4.67~6.16:1 均达 AA；.sbtn/.share-bar/.htag/.sec-h .m/.loop-pill/.seg .s 热区均 ≥44px",
+    "_touchTargetTip": "390px 窗口下 1rpx≈0.52px；文字型控件凑 44px 高需纵向 padding 26~34rpx，用负 margin 抵消布局位移"
   },
 
   "assets": {

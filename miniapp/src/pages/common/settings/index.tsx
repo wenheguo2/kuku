@@ -11,7 +11,8 @@ import { useNight } from '@/hooks/useNight';
 import Icon from '@/components/Icon';
 import iconDay from '@/assets/icon_day.png';
 import iconNight from '@/assets/icon_night.png';
-import iconLoop from '@/assets/icon_loop.png';
+import iconSleepTimer from '@/assets/icon_sleep_timer.png';
+import iconApp from '@/assets/icon_app.png';
 
 const THEMES: { key: ThemeMode; label: string }[] = [
   { key: 'light', label: '浅色' },
@@ -80,7 +81,7 @@ export default function Settings() {
       )}
 
       <View className="sec-h"><Text className="t">⏰ 播放</Text></View>
-      <View className="frow"><View className="fi"><Image className="im" src={iconLoop} mode="aspectFill" ariaLabel="睡眠定时图标" /></View>睡眠定时</View>
+      <View className="frow"><View className="fi"><Image className="im" src={iconSleepTimer} mode="aspectFill" ariaLabel="睡眠定时图标" /></View>睡眠定时</View>
       <View style={{ padding: '0 4px 8px' }}>
         {TIMERS.map((m) => (
           <Text key={m} className={`chip ${timerMinutes === m ? 'on' : ''}`} onClick={() => chooseTimer(m)}>
@@ -90,7 +91,7 @@ export default function Settings() {
       </View>
 
       <View className="sec-h"><Text className="t">通用</Text></View>
-      <View className="frow"><View className="fi" style={{ background: '#F0E6D8' }}><Icon name="gear" size={32} color="#8B8D9E" /></View>关于酷酷<Text className="rt">v4.0.0 ›</Text></View>
+      <View className="frow"><View className="fi"><Image className="im" src={iconApp} mode="aspectFill" ariaLabel="酷酷图标" /></View>关于酷酷<Text className="rt">v4.0.0 ›</Text></View>
     </ScrollView>
   );
 }

@@ -25,14 +25,14 @@
 
 | 方案 | 文件 | 一眼特征 |
 |:--|:--|:--|
-| A 绘本夜灯 | [`概念A_绘本夜灯.html`](概念A_绘本夜灯.html) | 深色夜空 + 暖橙灯感（→ 已融入 N-01 睡前模式） |
-| B 角色乐园 | [`概念B_角色乐园.html`](概念B_角色乐园.html) | IP 角色出场 + 软纸纹 |
-| C 软陶海报 | [`概念C_软陶海报.html`](概念C_软陶海报.html) | 2 列大海报，低饱和 |
-| D 晴空操场 | [`概念D_晴空操场.html`](概念D_晴空操场.html) | 天蓝草绿贴纸感 |
-| G 雾面丝绸 | [`概念G_雾面丝绸.html`](概念G_雾面丝绸.html) | 柔雾玻璃（→ 已融入 C-01 家长中心） |
-| H 北欧书斋 | [`概念H_北欧书斋.html`](概念H_北欧书斋.html) | 编辑排版杂志级 |
-| I 深夜画廊 | [`概念I_深夜画廊.html`](概念I_深夜画廊.html) | 博物馆黑象牙金 |
-| 典藏绘本 | [`酷酷UI_典藏绘本版.html`](酷酷UI_典藏绘本版.html) | 故事灯叙事（→ v4 主骨架） |
+| A 绘本夜灯 | `概念A_绘本夜灯.html`（已归档删除） | 深色夜空 + 暖橙灯感（→ 已融入 N-01 睡前模式） |
+| B 角色乐园 | `概念B_角色乐园.html`（已归档删除） | IP 角色出场 + 软纸纹 |
+| C 软陶海报 | `概念C_软陶海报.html`（已归档删除） | 2 列大海报，低饱和 |
+| D 晴空操场 | `概念D_晴空操场.html`（已归档删除） | 天蓝草绿贴纸感 |
+| G 雾面丝绸 | `概念G_雾面丝绸.html`（已归档删除） | 柔雾玻璃（→ 已融入 C-01 家长中心） |
+| H 北欧书斋 | `概念H_北欧书斋.html`（已归档删除） | 编辑排版杂志级 |
+| I 深夜画廊 | `概念I_深夜画廊.html`（已归档删除） | 博物馆黑象牙金 |
+| 典藏绘本 | `酷酷UI_典藏绘本版.html`（已归档删除） | 故事灯叙事（→ v4 主骨架） |
 
 ### 2️⃣ 阅读设计规范
 
@@ -90,6 +90,35 @@ import tokens from './design-tokens.json'
 | components-guide.md | Markdown | **组件库详细指南** | ⭐⭐⭐⭐ |
 | design-tokens.json | JSON | **设计令牌**（选型后需同步） | ⭐⭐⭐⭐ |
 | README.md | Markdown | **使用指南**（本文档） | ⭐⭐⭐
+
+---
+
+## 🎨 插画图标资产登记表（小程序在用）
+
+> 规则：源图统一存 `production/illustrations/covers/generated/`（含 `新建文件夹/` 命名图标）；
+> 压缩产物（96px PNG / 压缩 JPG）存 `miniapp/src/assets/`。新增图标必须先压缩再用，并在此登记。
+
+| 产物（miniapp/src/assets/） | 源图 | 使用位置 |
+|:--|:--|:--|
+| tab_story/song/growth/parent.png | 故事/歌曲/成长/家长.png | 底部 TabBar 4 图标 |
+| login_hero.jpg / login_hero2.jpg | 载入1/2.png | 登录页全屏插画 |
+| icon_search.png | 新建文件夹/搜索.png | 故事/歌曲首页搜索、成长页搜字/词 |
+| icon_night.png / icon_day.png | 新建文件夹/夜间.png / 白天.png | 首页夜间开关（两态：夜间已开显白天图）、设置页 |
+| icon_playing.png / icon_play_ready.png | 新建文件夹/播放中.png / 准备播放.png | 迷你播放浮球 |
+| icon_fav.png | 新建文件夹/收藏.png | 家长中心-收藏管理 |
+| icon_history.png | 新建文件夹/播放历史.png | 家长中心-播放历史 |
+| icon_children.png | 新建文件夹/孩子档案.png | 家长中心-孩子档案、孩子档案页 |
+| icon_settings.png | 新建文件夹/账号设置.png | 家长中心-账号设置 |
+| icon_privacy.png | 新建文件夹/隐私与账号注销.png | 家长中心-隐私与账号注销 |
+| icon_member.png | 会员订阅图标 | 家长中心会员入口行（对应页面 C-01 会员书匣） |
+| icon_sleep_timer.png | 新建文件夹/睡眠定时.png | 设置页-睡眠定时 |
+| icon_loop.png | 新建文件夹/循环播放.png | 歌曲列表「循环播放」胶囊 |
+| icon_story.png / icon_song.png | 新建文件夹/故事.png / 歌曲.png | 收藏页故事/歌曲分类页签 |
+| icon_app.png | APP 小程序图标.png | 设置页-关于酷酷 |
+| avatar.jpg | （早期素材） | 问候头、家长卡头像 |
+| loading.jpg | 载入动画素材 | StateView 加载态 |
+
+分享卡（6 张 500×400 JPG，保留原比例 contain）：`production/illustrations/share_cards/`，由 `utils/share.ts shareCard()` 引用。
 
 ---
 
@@ -185,6 +214,7 @@ graph LR
 | 版本 | 日期 | 变更 |
 |:--|:--|:--|
 | v1.0 | 2026-07-16 | 初始版本：README使用指南 |
+| v1.1 | 2026-07-29 | 新增插画图标资产登记表（源图/产物/使用位置对照） |
 
 ---
 

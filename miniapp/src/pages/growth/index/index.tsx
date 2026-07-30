@@ -4,15 +4,18 @@
  * ★首屏直给字词：“和字交朋友”（识字前 12 课）+“和单词交朋友”（英语前 8 词）宫格，点字/词直达教学播放器；+三学科全部课程入口，不依赖搜索（对小朋友友好）。
  */
 import { useEffect, useState } from 'react';
-import { View, Text, ScrollView } from '@tarojs/components';
+import { View, Text, ScrollView, Image } from '@tarojs/components';
 import Taro, { useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { loadLessonEntries, LessonEntry } from '@/services/lessonCatalog';
 import { useUserStore } from '@/stores/userStore';
 import MiniPlayer from '@/components/MiniPlayer';
 import TabBarV4 from '@/components/TabBarV4';
+import ShareBar from '@/components/ShareBar';
 import Icon from '@/components/Icon';
+import iconSearch from '@/assets/icon_search.png';
 import { useNight } from '@/hooks/useNight';
+import { useShareCard } from '@/hooks/useShareCard';
 import { useTabStore } from '@/stores/tabStore';
 
 interface Summary {
@@ -144,9 +147,12 @@ export default function GrowthHome() {
         })}
       </View>
 
+      {/* ★分享拉新：成长线也要能分享（家长爱晒孩子学习成果，拉新转化高） */}
+      <ShareBar text="🌱 把孩子的成长与朋友圈分享" />
+
       {/* 入口 */}
       <View className="frow" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index?scope=growth' })}>
-        <View className="fi" style={{ background: '#E6F2FF' }}><Icon name="search" size={34} color="#3B82F6" /></View>搜字/词<Text className="rt">识字 / 英语 / 拼音 ›</Text>
+        <View className="fi"><Image className="im" src={iconSearch} mode="aspectFill" ariaLabel="搜字词图标" /></View>搜字/词<Text className="rt">识字 / 英语 / 拼音 ›</Text>
       </View>
       <View className="frow" onClick={() => Taro.navigateTo({ url: '/pages/growth/collection/index' })}>
         <View className="fi" style={{ background: 'var(--color-primary-soft)' }}><Icon name="star" size={34} color="#FF8C42" /></View>朋友收集册<Text className="rt">查看全部 ›</Text>

@@ -235,16 +235,8 @@ CHAR_RULES = [{"char": "奶奶", "scope": "学科启蒙", "old_vid": "V-ELD-04",
 def norm_char(c):
     return (c or "").replace(" ", "").replace("　", "")
 
-# ─── 主流程 ───────────────────────────────────────────────────
-if __name__ == "__main__":
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--test", type=int)
-    args = ap.parse_args()
-
-    items = parse_list()
-    print(f"清单解析：A/B/X 条目 {len(items)} 条")
-
+# ─── 正常匹配：解析清单 + CHAR_RULES，算出全部需重配段 ───────
+def build_normal_jobs(items):
     jobs = defaultdict(list)   # segf -> [(i, new_vid, old_vid, reason)]
     reason_counter = Counter()
     matched_segs = 0
@@ -297,13 +289,73 @@ if __name__ == "__main__":
         rel = str(segf.parent.relative_to(SEG_ROOT))
         for i, new_vid, old_vid, reason in lst:
             all_jobs.append((segf, rel, i, new_vid, old_vid, reason))
+    return all_jobs, reason_counter, matched_segs
 
-    print(f"匹配到需重配段数: {matched_segs}  (文件 {len(jobs)})")
-    for k, v in sorted(reason_counter.items(), key=lambda x: -x[1])[:20]:
-        print(f"  {k}: {v}")
-    print(f"  ...共 {len(reason_counter)} 类")
+# ─── 定向重跑：复用正常匹配，仅保留失败 seg_id ──────────────
+def build_retry_jobs(logfile, items):
+    """从全量日志解析失败 seg_id，复用正常匹配算 new_vid，仅重跑这些段。"""
+    pat = re.compile(r'-\s+(\S+)\s+\(([^)]+)\)\s+\[([^\]]*)\]')
+    failed = set()
+    for line in open(logfile, "r", encoding="utf-16", errors="ignore"):
+        m = pat.match(line.strip())
+        if m:
+            failed.add(m.group(1))
+    print(f"日志解析失败段: {len(failed)}")
+
+    all_full, _, _ = build_normal_jobs(items)
+    kept, reason_counter, seen = [], Counter(), set()
+    for segf, rel, i, new_vid, old_vid, reason in all_full:
+        try:
+            data = json.load(open(segf, "r", encoding="utf-8"))
+            sid = data["segments"][i].get("id", "")
+        except Exception:
+            continue
+        if sid in failed and sid not in seen:
+            kept.append((segf, rel, i, new_vid, old_vid, reason))
+            reason_counter[reason] += 1
+            seen.add(sid)
+    return kept, reason_counter, len(kept)
+
+# ─── 主流程 ───────────────────────────────────────────────────
+if __name__ == "__main__":
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--test", type=int)
+    ap.add_argument("--retry", metavar="LOG")
+    ap.add_argument("--only", metavar="FILE")
+    args = ap.parse_args()
+
+    items = parse_list()
+    print(f"清单解析：A/B/X 条目 {len(items)} 条")
+
+    if args.retry:
+        all_jobs, reason_counter, matched_segs = build_retry_jobs(args.retry, items)
+        print(f"定向重跑段数: {matched_segs}  (仅失败段，成功段不动)")
+        for k, v in sorted(reason_counter.items(), key=lambda x: -x[1])[:20]:
+            print(f"  {k}: {v}")
+        print(f"  ...共 {len(reason_counter)} 类")
+    else:
+        all_jobs, reason_counter, matched_segs = build_normal_jobs(items)
+        print(f"匹配到需重配段数: {matched_segs}  (文件 {len({j[0] for j in all_jobs})})")
+        for k, v in sorted(reason_counter.items(), key=lambda x: -x[1])[:20]:
+            print(f"  {k}: {v}")
+        print(f"  ...共 {len(reason_counter)} 类")
+
     if args.dry_run:
         sys.exit(0)
+
+    if args.only:
+        want = set(l.strip() for l in open(args.only, "r", encoding="utf-8") if l.strip())
+        kept = []
+        for segf, rel, i, new_vid, old_vid, reason in all_jobs:
+            try:
+                sid = json.load(open(segf, "r", encoding="utf-8"))["segments"][i].get("id", "")
+            except Exception:
+                continue
+            if sid in want:
+                kept.append((segf, rel, i, new_vid, old_vid, reason))
+        all_jobs = kept
+        print(f"--only 过滤后段数: {len(all_jobs)}")
 
     if args.test:
         all_jobs = all_jobs[:args.test]
@@ -323,7 +375,7 @@ if __name__ == "__main__":
         user_msg = UNIVERSAL_HINT + (f" 朗读时保持以下情绪：{mi}" if mi else "")
         out = AUDIO_OUT / rel / f"{seg_id}.mp3"
         last = None; done = False
-        for attempt in range(3):
+        for attempt in range(20):
             try:
                 rate_limit()
                 r = requests.post(URL, headers=H, json={

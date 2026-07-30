@@ -39,7 +39,8 @@ page,
   --color-bg: #FFF9F0;
   --color-card: #FFFFFF;
   --color-text: #2D3142;
-  --color-text-secondary: #8B8D9E;
+  /* ★辅助文字：原 #8B8D9E 在浅底仅 3.13:1，低于 WCAG AA 4.5；儿童/家长阅读费力→加深至 4.7:1+ */
+  --color-text-secondary: #6E7080;
   --color-border: #F0E6D8;
   --stage-0: #{$stage-0};
   --stage-1: #{$stage-1};
@@ -68,7 +69,8 @@ page,
   --color-bg: #171D33;
   --color-card: #232F55;
   --color-text: #E8ECFF;
-  --color-text-secondary: #8A93B8;
+  /* ★夜间辅助文字：原 #8A93B8 在卡面 #232F55 上仅 4.32:1，提亮至 5.6:1 */
+  --color-text-secondary: #A0A9CE;
   --color-border: rgba(255, 255, 255, 0.1);
 }
 

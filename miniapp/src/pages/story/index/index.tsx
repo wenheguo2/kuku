@@ -17,6 +17,7 @@ import MiniPlayer from '@/components/MiniPlayer';
 import TabBarV4 from '@/components/TabBarV4';
 import avatarImg from '@/assets/avatar.jpg';
 import iconNight from '@/assets/icon_night.png';
+import iconDay from '@/assets/icon_day.png';
 import iconSearch from '@/assets/icon_search.png';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
@@ -126,7 +127,8 @@ export default function StoryHome() {
           <Text className="big serif">今天想听什么故事呀？</Text>
         </View>
         <View className="sbtn" onClick={toggleSleep} style={{ marginLeft: 'auto' }}>
-          <Image className="im" src={iconNight} mode="aspectFill" ariaLabel="夜间模式开关" />
+          {/* 两态图标：夜间模式已开→显日间图（点击回白天）；否则显夜间图 */}
+          <Image className="im" src={night ? iconDay : iconNight} mode="aspectFill" ariaLabel={night ? '切回日间模式' : '切到夜间模式'} />
         </View>
         <View className="sbtn" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index?scope=story' })} style={{ marginLeft: '12px' }}>
           <Image className="im" src={iconSearch} mode="aspectFill" ariaLabel="搜索" />
@@ -151,7 +153,7 @@ export default function StoryHome() {
         </View>
       )}
 
-      {/* ★分享拉新：醍目真按钮（open-type=share 直接拉转发面板，配真插画分享卡） */}
+      {/* ★分享拉新：醒目真按钮（open-type=share 直接拉转发面板，配真插画分享卡） */}
       <Button className="share-bar" openType="share">📤 把酷酷分享给小伙伴一起听</Button>
 
       {/* 最近播放（点击重新播放，非续播）；历史接口无封面字段，按 path 推导（镜像目录规则），404 回退色块 */}

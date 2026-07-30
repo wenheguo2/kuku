@@ -3,12 +3,12 @@
  * GET/POST/PUT/DELETE /children；切换 selectedChildId（4 Tab 共用，成长/历史随之联动）。
  */
 import { useState } from 'react';
-import { View, Text } from '@tarojs/components';
+import { View, Text, Image } from '@tarojs/components';
 import Taro, { useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
 import { useNight } from '@/hooks/useNight';
-import Icon from '@/components/Icon';
+import iconChildren from '@/assets/icon_children.png';
 
 interface Child { child_id: string; child_name: string }
 
@@ -82,7 +82,7 @@ export default function Children() {
 
   if (!isLogin) return (
     <View className={`center ${night}`}>
-      <Icon name="family" size={112} color="#FF8C42" />
+      <Image src={iconChildren} mode="aspectFill" style={{ width: '112px', height: '112px', borderRadius: '28px' }} ariaLabel="孩子档案插画" />
       <Text className="muted" style={{ marginBottom: '28px' }}>登录后管理孩子档案</Text>
       <View className="btn-primary" style={{ width: '360px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/login/index' })}>去登录</View>
     </View>
@@ -91,13 +91,13 @@ export default function Children() {
   return (
     <View className={`page-container ${night}`}>
       <View style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-        <Icon name="family" size={48} color="#FF8C42" />
+        <Image src={iconChildren} mode="aspectFill" style={{ width: '48px', height: '48px', borderRadius: '12px' }} ariaLabel="孩子档案图标" />
         <Text className="brand-title">孩子档案</Text>
       </View>
       {list.map((c) => (
         <View key={c.child_id} className="list-row">
           <View className="thumb" style={{ borderRadius: '50%', background: selectedChildId === c.child_id ? 'var(--color-primary)' : 'var(--color-primary-soft)', color: selectedChildId === c.child_id ? '#fff' : 'var(--color-primary)' }} onClick={() => setSelectedChild(c.child_id)}>
-            <Icon name="family" size={42} color={selectedChildId === c.child_id ? '#fff' : '#FF8C42'} />
+            <Image src={iconChildren} mode="aspectFill" style={{ width: '56px', height: '56px', borderRadius: '50%', opacity: selectedChildId === c.child_id ? 1 : 0.75 }} ariaLabel={`${c.child_name}头像`} />
           </View>
           <View className="gr" onClick={() => setSelectedChild(c.child_id)}>
             <Text className="nm">{c.child_name}</Text>

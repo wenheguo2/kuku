@@ -51,6 +51,16 @@ export default function History() {
     }
   };
 
+  /** ★ md/09 C-04：按 今天/昨天/更早 分组展示 */
+  const groupOf = (iso: string) => {
+    const d = new Date(iso); const now = new Date();
+    const day = (x: Date) => `${x.getFullYear()}-${x.getMonth()}-${x.getDate()}`;
+    if (day(d) === day(now)) return '今天';
+    const y = new Date(now); y.setDate(now.getDate() - 1);
+    return day(d) === day(y) ? '昨天' : '更早';
+  };
+  const groups = ['今天', '昨天', '更早'].map((g) => ({ g, items: list.filter((h) => groupOf(h.played_at) === g) })).filter((x) => x.items.length);
+
   if (!isLogin) return (
     <View className={`center ${night}`}>
       <Text className="emoji-xl">🕒</Text>
@@ -67,13 +77,18 @@ export default function History() {
       </View>
       <StateView loading={loading} error={error} empty={list.length === 0}
         emptyText="暂无播放记录" emptyIcon="clock" onRetry={load}>
-        {list.map((h) => (
-          <View key={h.history_id} className="list-row" onClick={() => openHist(h)}>
-            <View className="thumb">{h.content_type === 'song' ? '🎵' : '📖'}</View>
-            <View className="gr">
-              <Text className="nm">{h.title || h.content_id}</Text>
-              <Text className="ds">{new Date(h.played_at).toLocaleString()}</Text>
-            </View>
+        {groups.map(({ g, items }) => (
+          <View key={g}>
+            <View className="sec-h"><Text className="t">{g}</Text></View>
+            {items.map((h) => (
+              <View key={h.history_id} className="list-row" onClick={() => openHist(h)}>
+                <View className="thumb">{h.content_type === 'song' ? '🎵' : '📖'}</View>
+                <View className="gr">
+                  <Text className="nm">{h.title || h.content_id}</Text>
+                  <Text className="ds">{new Date(h.played_at).toLocaleString()}</Text>
+                </View>
+              </View>
+            ))}
           </View>
         ))}
       </StateView>

@@ -72,10 +72,16 @@ const measure = async (sel) => {
 async function walkStory() {
   say('===== 故事 Tab (S-01~S-06 / PL-01) =====');
   await relaunch('/pages/story/index/index');
+  // ★复位日间态：若残留夜间（theme-dark）先点夜间开关切回，避免影响后续视觉对比
+  await step('日间态复位', async () => {
+    const page = await mini.currentPage();
+    const dark = await page.$('.theme-dark');
+    if (dark) { await tapSel('.sbtn', 0); await sleep(1500); say('  已从夜间切回日间'); }
+  });
   await shot('s01-故事首页');
 
   await step('S-01 搜索入口→C-05 搜索页', async () => {
-    await tapSel('.sbtn');
+    await tapSel('.sbtn', 1); // ★第1个是夜间开关，第2个才是搜索
     say('  页: ' + await cur());
     await shot('s02-搜索页');
     // 输入关键词联想

@@ -378,6 +378,76 @@
 
 - 深蓝渐变 `#141B31→#232F55`，月亮光晕 + 星光闪烁（2.4s）
 - 列表行：`rgba(255,255,255,.07)` 玻璃行；CTA 金渐变 `#FFE9A8→#FFC93C` 深字 `#5A3D00`
+- ★ 全局夜间靠 `.theme-dark` 类覆盖 CSS 变量；**必须在 `.theme-dark` 上重申 `color: var(--color-text)`**，
+  否则未显式设色的文字（如 `.big`/`.nm`）会继承 `page` 的浅色计算值而几乎不可见（实测过的坑）
+
+---
+
+## 9. v4.1 新增通用组件（2026-07-30）
+
+### 9.1 ShareBar 分享拉新按钮（全站通用）
+
+代码：`miniapp/src/components/ShareBar/index.tsx` · 样式：`button.share-bar`
+
+```tsx
+import ShareBar from '@/components/ShareBar';
+<ShareBar text="🎵 把好听的儿歌分享给小伙伴" />
+```
+
+| 规格 | 值 |
+|:--|:--|
+| 尺寸 | 宽自适应（366px @390 窗口）× 高 44px（热区达标） |
+| 背景 | 橙色渐变 `#FFB067 → #FF8C42`，圆角 26rpx |
+| 阴影 | `0 6px 16px rgba(255,140,66,.35)` |
+| 文字 | 28rpx / 800，白字，建议带 emoji |
+
+**关键约束**：
+- 必须是 `Button` + `openType="share"`，**`View` 点了不会拉起转发面板**（微信限制）
+- 青绿主题页（歌曲）、绿色主题页（成长）**也用橙色**，保持全站分享入口识别度
+- 已接入：故事首页 / 歌曲首页 / 成长首页 / 家长中心（四 Tab 全覆盖）
+
+### 9.2 useShareCard 分享内容 hook
+
+代码：`miniapp/src/hooks/useShareCard.ts`
+
+```ts
+useShareCard({ title: '酷酷音乐厅 — 学科启蒙儿歌一起唱', card: 'E05_学科启蒙', path: '/pages/song/index/index' });
+```
+
+一次注册**转发好友**（`useShareAppMessage`）+ **分享朋友圈**（`useShareTimeline`）。
+卡图取 `production/illustrations/share_cards/{card}.jpg`（500×400保原比例，经 `/static` 网络引用不占包体）。
+注：朋友圈接口只接受 `title`/`query`/`imageUrl`（不接受完整 path），组件已自动拆参。
+
+### 9.3 StateView 四态容器（U-03/04/05）
+
+代码：`miniapp/src/components/StateView/index.tsx`
+
+```tsx
+<StateView loading={loading} error={error} empty={list.length === 0}
+  emptyText="还没有收藏歌曲～" emptyIcon="star" onRetry={load}>
+  {/* 内容 */}
+</StateView>
+```
+
+统一排序：loading → error（带重试）→ empty（带插画/图标与文案）→ children。
+**空态文案必须具体友好**（如“还没有收藏歌曲～”而非“暂无数据”）；报错回显用户输入时**超 12 字要截断加 `…`**。
+
+### 9.4 插画图标规范
+
+- 源图：`production/illustrations/covers/generated/（含 新建文件夹/）`；压缩产物：`miniapp/src/assets/`
+- 规格：常规图标 96px PNG（~15-25KB）；迷你浮球 128px；登录 hero 640px 宽 JPG
+- 完整图标清单与使用位置见 [README.md](README.md#-插画图标资产登记表小程序在用)
+- 两态图标：夜间开关需 `night ? iconDay : iconNight`（当前模式显示“切去哪里”的图）
+
+### 9.5 触控热区必须 ≥88rpx
+
+文字型链接（“换一换/更多/换一个”）不能只靠字号撑高度，需：
+
+```scss
+.sec-h .m { font-size: 26px; padding: 26px 8px; margin: -26px -8px; } // padding 撑热区，负 margin 保布局
+```
+
+换算提醒：390px 窗口下 **1rpx ≈ 0.52px**，要凑 44px 高约需纵向 padding 26~34rpx。
 
 ---
 
@@ -385,8 +455,10 @@
 
 - [UI设计方案.md](UI设计方案.md) - 完整设计规范（v4.0 定稿设计语言见第 0 章）
 - [酷酷UI_融合版_v4.html](酷酷UI_融合版_v4.html) - 定稿可视化设计稿（24屏）
-- [design-tokens.json](design-tokens.json) - 设计令牌配置
+- [design-tokens.json](design-tokens.json) - 设计令牌配置（v4.1 已同步对比度修正值）
+- [README.md](README.md) - 插画图标资产登记表
+- [../23-小程序测试与验收报告.md](../23-小程序测试与验收报告.md) - 组件实测结论与热区/对比度数据
 
 ---
 
-**最后更新**: 2026-07-22 by AI Designer
+**最后更新**: 2026-07-30（v4.1：新增 ShareBar/useShareCard/StateView 组件、插画图标与热区规范）

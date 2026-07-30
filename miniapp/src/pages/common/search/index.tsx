@@ -160,7 +160,7 @@ export default function Search() {
       )}
 
       {q && (
-        <StateView loading={loading || (searching && uniq.length === 0)} error={error} empty={uniq.length === 0} onRetry={load} emptyText={`没有找到「${q}」相关内容`}>
+        <StateView loading={loading || (searching && uniq.length === 0)} error={error} empty={uniq.length === 0} onRetry={load} emptyText={`没有找到「${q.length > 12 ? q.slice(0, 12) + '…' : q}」相关内容`}>
           {uniq.map((h) => (
             <View key={h.key} className="list-row" onClick={h.onClick}>
               <View className="thumb">{h.thumb}</View>

@@ -22,18 +22,25 @@ export type QuestionType =
   | 'sound_to_char' | 'char_to_sound' | 'char_to_word'
   | 'word_to_meaning' | 'word_to_sound' | 'sentence_fill';
 
-/** 下发给前端的题目（★ 不含 correct，正确答案仅存服务端） */
+/** 下发给前端的题目（★ 不含 correct/explanation，正确答案与讲解仅存服务端，判分后才回传讲解） */
 export interface PublicQuestion {
   question_id: string;
   type: QuestionType;
+  /** 题目音频（听力题的发音 / 完型题的句子朗读）；real-quiz 按 *_audio_ref 拼 /static 实文件 */
   audio_url?: string;
   stem?: string;
+  /** ★目标单词/字（word_to_meaning 等题型需大字展示，否则“这个单词什么意思”无主语） */
+  word?: string;
   options: { option_id: string; text: string }[];
 }
 
-/** 服务端保存的题目（含正确答案） */
+/** 服务端保存的题目（含正确答案与讲解） */
 export interface SecretQuestion extends PublicQuestion {
   correct_option: string;
+  /** ★讲解文字（来自 verify.json explanation），仅在提交判分后随结果下发 */
+  explanation?: string;
+  /** ★讲解配音 URL（来自 explanation_audio_ref） */
+  explanation_audio_url?: string;
 }
 
 const OPTION_IDS = ['A', 'B', 'C', 'D'];
@@ -75,9 +82,9 @@ export function generateNormalQuiz(wordId: string, wordText: string): SecretQues
   ];
 }
 
-/** 去掉正确答案，得到可下发前端的题目 */
+/** 去掉正确答案与讲解，得到可下发前端的题目（★explanation 会直接泄题，必须剔除） */
 export function toPublic(questions: SecretQuestion[]): PublicQuestion[] {
-  return questions.map(({ correct_option, ...pub }) => pub);
+  return questions.map(({ correct_option, explanation, explanation_audio_url, ...pub }) => pub);
 }
 
 export interface JudgedItem {
@@ -85,9 +92,12 @@ export interface JudgedItem {
   type: QuestionType;
   is_correct: boolean;
   correct_option: string;
+  /** ★判分后回传：错题讲解文字与配音（教育价值最高的部分，不能丢） */
+  explanation?: string;
+  explanation_audio_url?: string;
 }
 
-/** 逐题判分 */
+/** 逐题判分（同时带回讲解，供结果页展示） */
 export function judgeAnswers(
   questions: SecretQuestion[],
   answers: { question_id: string; selected_option: string }[],
@@ -98,6 +108,8 @@ export function judgeAnswers(
     type: q.type,
     is_correct: pick.get(q.question_id) === q.correct_option,
     correct_option: q.correct_option,
+    explanation: q.explanation,
+    explanation_audio_url: q.explanation_audio_url,
   }));
 }
 

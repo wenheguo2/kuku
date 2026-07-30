@@ -5,14 +5,15 @@
  */
 import { useEffect, useState } from 'react';
 import { View, Text, ScrollView, Image } from '@tarojs/components';
-import Taro, { useDidShow, useShareAppMessage } from '@tarojs/taro';
+import Taro, { useDidShow } from '@tarojs/taro';
 import MiniPlayer from '@/components/MiniPlayer';
 import TabBarV4 from '@/components/TabBarV4';
+import ShareBar from '@/components/ShareBar';
 import avatarImg from '@/assets/avatar.jpg';
 import iconSearch from '@/assets/icon_search.png';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
-import { shareCard } from '@/utils/share';
+import { useShareCard } from '@/hooks/useShareCard';
 import { useTabStore } from '@/stores/tabStore';
 import { useUserStore } from '@/stores/userStore';
 import { usePlayerStore } from '@/stores/playerStore';
@@ -41,12 +42,8 @@ export default function SongHome() {
   useEffect(() => {
     loadSongCategories().then(setCats).catch((error) => console.warn('加载歌曲分类失败', error));
   }, []);
-  // 分享卡：学科启蒙儿歌插画卡面
-  useShareAppMessage(() => ({
-    title: '酷酷音乐厅 — 学科启蒙儿歌一起唱',
-    path: '/pages/song/index/index',
-    imageUrl: shareCard('E05_学科启蒙'),
-  }));
+  // 分享卡：学科启蒙儿歌插画卡面（转发好友 + 朋友圈）；落地直到音乐厅
+  useShareCard({ title: '酷酷音乐厅 — 学科启蒙儿歌一起唱', card: 'E05_学科启蒙', path: '/pages/song/index/index' });
   useDidShow(() => {
     useTabStore.getState().setTab('song');
     if (isLogin && selectedChildId) {
@@ -109,13 +106,16 @@ export default function SongHome() {
         </View>
       )}
 
+      {/* ★分享拉新（通用组件，与故事首页一致）：青绿主题下也用橙色横条，保持全站分享入口识别度 */}
+      <ShareBar text="🎵 把好听的儿歌分享给小伙伴" />
+
       {/* 最近播放（历史 song 首条，点击续播） */}
       {last && (
         <View>
           <View className="sec-h"><Text className="t">最近播放</Text></View>
           <View className="list-row" style={{ margin: '0 4px 18px' }} onClick={() => playLast(last)}>
             {lastCoverOk && songCoverFromPath(last.content_id)
-              ? <Image className="cvr" src={songCoverFromPath(last.content_id)} mode="aspectFill" onError={() => setLastCoverOk(false)} ariaLabel="最近播放封面" />
+              ? <Image className="cvr" src={songCoverFromPath(last.content_id)} mode="aspectFill" onError={() => setLastCoverOk(false)} ariaLabel={`${cleanSongTitle(last.title) || '最近播放'}封面`} />
               : <View className="cvr" style={{ background: 'linear-gradient(135deg,#E0F5F3,#C8EBE8)' }} />}
             <View className="gr"><Text className="nm">{cleanSongTitle(last.title) || last.content_id.split('/').pop()}</Text><Text className="ds">再唱一遍上次的歌</Text></View>
             <View className="cp" style={{ background: 'radial-gradient(circle at 35% 30%,#7EDCD4,#3FC5BC)' }}><Icon name="play" size={28} color="#fff" /></View>

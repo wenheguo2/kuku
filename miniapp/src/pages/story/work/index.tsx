@@ -43,7 +43,8 @@ export default function StoryWork() {
 
   return (
     <ScrollView scrollY className={`page-v4 ${night}`}>
-      {/* 作品封面头 */}
+      {/* 作品封面头（★加载失败/坏参数时不渲染空壳头，避免“章回作品 · 0 章”的尴尬占位） */}
+      {!error && (
       <View className="sbhead">
         {cover ? <Image className="cover" webp src={cover} mode="aspectFill" ariaLabel={`${title}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#C9A66B,#9C7B4A)' }} />}
         <View className="shade" />
@@ -53,6 +54,7 @@ export default function StoryWork() {
           <Text className="h-meta">点进听整部 · 播完自动续下一章</Text>
         </View>
       </View>
+      )}
       {chapters.length > 0 && (
         <View className="btn-primary" style={{ margin: '20px 0' }} onClick={() => playFrom(0)}>▶ 从第 1 章连续播放</View>
       )}

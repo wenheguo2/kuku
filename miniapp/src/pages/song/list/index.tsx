@@ -67,8 +67,9 @@ export default function SongList() {
       <View style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '4px' }}>
         <Text className="serif" style={{ fontSize: '40px', fontWeight: 'bold', color: 'var(--color-text)', flex: 1 }}>{title}</Text>
         {songs.length > 0 && (
-          <View onClick={loopAll} style={{ flex: '0 0 auto', display: 'flex', alignItems: 'center', gap: '8px', background: 'linear-gradient(135deg,#5AD6CD,#3FC5BC)', color: '#fff', fontSize: '24px', fontWeight: 800, padding: '10px 22px', borderRadius: '28px', boxShadow: '0 4px 12px rgba(63,197,188,.4)' }}>
-            <Image src={iconLoop} mode="aspectFill" style={{ width: '36px', height: '36px', borderRadius: '50%' }} ariaLabel="循环播放图标" /> 循环播放
+          <View className="loop-pill" onClick={loopAll}>
+            <Image className="ic" src={iconLoop} mode="aspectFit" ariaLabel="循环播放图标" />
+            <Text className="tx">循环播放</Text>
           </View>
         )}
       </View>

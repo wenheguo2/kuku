@@ -51,26 +51,13 @@ from common import (
 
 DEFAULT_GAP = 0.3
 
-# ★ 排除学科：这两个学科已按原速合成完毕，整体跳过不重做
-# （其余学科为覆盖生成模式，每次重新合成）
-SKIP_SUBJECTS = {"蒙学经典", "诗词天地"}
-
-
-def is_skip_subject(story_dir):
-    """判断故事是否属于整体跳过的学科（目录首层学科名）"""
-    try:
-        rel = story_dir.relative_to(AUDIO_DIR)
-        return rel.parts[0] in SKIP_SUBJECTS
-    except (ValueError, IndexError):
-        return False
-
 
 def merge_one_story(story_dir, all_mp3_names, gap=DEFAULT_GAP,
                     normalize=True, fade=True, force=False,
                     allow_incomplete=False):
     """合并一个故事的分段MP3 → full.mp3
 
-    ★ 原速(MVP)：不做 WPM 变速，atempo 固定1.0；loudnorm 音量归一化照常做。
+    ★ WPM区间归一化：90-300区间不改，>300降速，<90加速（只修正极端值）。
     ★ 覆盖生成：不检查已有 full.mp3，每次重新生成并覆盖。
     ★ 缺段处理：allow_incomplete=True（故事合成默认开启）时，缺失段被跳过，
       仍用已有段合成；缺段明细通过返回的第4个元素传出，供主流程写入日志。
@@ -121,11 +108,10 @@ def merge_one_story(story_dir, all_mp3_names, gap=DEFAULT_GAP,
             if raw_dur is None:
                 return ("fail", str(story_dir), f"ffprobe failed: {mp3_name}", None)
 
-            # ★ 原速(MVP)：不做WPM变速，atempo固定1.0（actual_wpm仅记录）
+            # ★ WPM区间归一化：90-300不改，超出才修正
             text = seg.get("text", "") if seg else ""
             character = seg.get("character", "?") if seg else "?"
-            _, actual_wpm = calculate_segment_speed(text, raw_dur)
-            atempo = 1.0
+            atempo, actual_wpm = calculate_segment_speed(text, raw_dur)
 
             speed_log.append({
                 "mp3": mp3_name, "char": character,
@@ -201,9 +187,8 @@ def main():
 
     banner("脚本1: 故事整曲MP3合并 (v6)")
     print(f"  参数: gap={gap}s  normalize={normalize}  fade={fade}")
-    print(f"  ★ 原速(MVP): 不做WPM变速, atempo固定1.0; loudnorm音量归一化照常")
+    print(f"  ★ WPM区间归一化: {WPM_LOW}-{WPM_HIGH}区间不改, >{WPM_HIGH}降速, <{WPM_LOW}加速")
     print(f"  ★ 覆盖生成: 已有 full.mp3 会被重新生成覆盖（无断点跳过）")
-    print(f"  ★ 排除学科(已原速合成完毕, 不重做): {', '.join(sorted(SKIP_SUBJECTS))}")
     print(f"  码率: 96kbps CBR 24kHz mono")
     print(f"  排序: 按 segments.json seq 字段（找不到则跳过）")
     print(f"  完整性: 允许缺段(默认) — 缺段仅记录到 01_story_merge_incomplete.json")
@@ -214,10 +199,7 @@ def main():
     cleanup_temp_dirs()
 
     story_dirs = find_story_dirs()
-    total_found = len(story_dirs)
-    # ★ 排除已原速合成完毕的学科
-    story_dirs = [(d, fs) for d, fs in story_dirs if not is_skip_subject(d)]
-    print(f"找到 {total_found} 个故事目录, 排除学科后待处理 {len(story_dirs)} 个")
+    print(f"找到 {len(story_dirs)} 个故事目录")
 
     if args.test > 0:
         story_dirs = story_dirs[:args.test]
@@ -295,9 +277,8 @@ def main():
         f"时间: {datetime.now().isoformat()}\n"
         f"参数: gap={gap}s  normalize={normalize}  fade={fade}\n"
         f"码率: 96kbps CBR 24kHz mono\n"
-        f"语速: 原速(MVP, 不做WPM变速)\n"
+        f"语速: WPM区间归一化({WPM_LOW}-{WPM_HIGH}不改, 超出修正)\n"
         f"生成: 覆盖模式(无断点跳过)\n"
-        f"排除学科: {', '.join(sorted(SKIP_SUBJECTS))}\n"
         f"线程: {args.workers}\n"
         f"总数: {len(story_dirs)}\n"
         f"结果: ok={results['ok']} skip={results['skip']} "

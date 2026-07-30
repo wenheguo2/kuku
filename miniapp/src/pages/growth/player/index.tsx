@@ -49,7 +49,7 @@ export default function TeachingPlayer() {
   const [segChars, setSegChars] = useState<CharRef[][]>([]);
   const [failed, setFailed] = useState(false);
   const [sceneUrl, setSceneUrl] = useState('');
-  // 破图兑底：个别立绘物理图 404 时记录并隐藏，避免断图占位（实测：manifest 键在但个别文件缺）
+  // 破图兜底：个别立绘物理图 404 时记录并隐藏，避免断图占位（实测：manifest 键在但个别文件缺）
   const [broken, setBroken] = useState<Record<string, boolean>>({});
   const [manifest, setManifest] = useState<IllustManifest | null>(null);
   const timer = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -208,7 +208,7 @@ export default function TeachingPlayer() {
           {sceneImg
             ? <Image className="cover" webp src={sceneImg} mode="aspectFill" ariaLabel="教学场景" />
             : <View className="cover" style={{ background: 'linear-gradient(135deg,#8FD97B,#5FA84C)' }} />}
-          {/* ★退出键（用户定：横屏课堂必须能退回）：左上角半透圆钮，无上页时兑底回成长首页 */}
+          {/* ★退出键（用户定：横屏课堂必须能退回）：左上角半透圆钮，无上页时兜底回成长首页 */}
           <View className="eback" onClick={() => Taro.navigateBack().catch(() => Taro.switchTab({ url: '/pages/growth/index/index' }))}>
             <Icon name="back" size={18} color="#fff" />
           </View>

@@ -144,7 +144,13 @@ export class ProgressService {
     return {
       test_passed: passed,
       score: Math.round((judged.filter((j) => j.is_correct).length / judged.length) * 100),
-      results: judged.map((j) => ({ question_id: j.question_id, is_correct: j.is_correct })),
+      // ★随结果回传讲解文字/配音（出题时不下发以防泄题），结果页逐题展示“为什么”
+      results: judged.map((j) => ({
+        question_id: j.question_id,
+        is_correct: j.is_correct,
+        explanation: j.explanation,
+        explanation_audio_url: j.explanation_audio_url,
+      })),
       can_retry: !passed, // 无惩罚·可无限重试：未通过始终可再试
       feedback: passed ? '太棒了！你答对了！' : '再试一次吧，你可以的！',
       current_stage: row.currentStage,
