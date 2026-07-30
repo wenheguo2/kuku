@@ -3,12 +3,12 @@
  * 读 playerStore.current 展示当前播放；控制全局 player 单例；点击回到对应播放器。
  * weapp 不支持 backdrop-filter，用半透明实底近似玻璃感。
  */
-import { View, Text, Image } from '@tarojs/components';
+import { View, Image } from '@tarojs/components';
 import Taro from '@tarojs/taro';
 import { usePlayerStore } from '@/stores/playerStore';
 import { player } from '@/services/audioPlayer';
-import { buildAssetUrl } from '@/utils/path';
-import Icon from '@/components/Icon';
+import iconPlaying from '@/assets/icon_playing.png';
+import iconPlayReady from '@/assets/icon_play_ready.png';
 import './index.scss';
 
 const PLAYER_PAGE: Record<string, string> = {
@@ -33,23 +33,18 @@ export default function MiniPlayer() {
     if (url) Taro.navigateTo({ url: `${url}?resume=1` });
   };
 
-  // tab 页有固定 TabBar（110px），迷你栏需上移避让；非 tab 页贴底
-  const pages = Taro.getCurrentPages();
-  const route = pages.length ? pages[pages.length - 1].route || '' : '';
-  const onTab = /pages\/(story|song|growth|parent)\/index\/index$/.test(route);
+  // ★避让由宿主页面显式声明 onTab（tab 首页传 true 上移避 TabBar）；
+  // 弃 getCurrentPages 推断：其渲染时机可能在播放器页内触发致误判贴底遮内容（用户实测）
+  const dismiss = () => {
+    player.pause();
+    usePlayerStore.getState().reset();
+  };
 
   return (
-    <View className="mini-wrap" style={{ bottom: onTab ? '128px' : '24px' }}>
-      <View className="mini-v4">
-        {current.coverUrl
-          ? <Image className="cvr" webp src={buildAssetUrl(current.coverUrl)} mode="aspectFill" ariaLabel={`${current.title}封面`} />
-          : <View className="cvr" />}
-        <View className="gr" onClick={expand}>
-          <Text className="t">{current.title}</Text>
-          <Text className="s">{current.type === 'song' ? '歌曲' : current.type === 'lesson' ? '教学' : '故事'}</Text>
-        </View>
-        <View className="mp" onClick={toggle}><Icon name={isPlaying ? 'pause' : 'play'} size={34} color="#fff" /></View>
-      </View>
+    <View className="mini-fab" onClick={expand}>
+      <View className="mini-fab-x" onClick={(e) => { e.stopPropagation(); dismiss(); }}>×</View>
+      {/* 插画两态：播放中/准备播放（纯视觉态，点浮窗展开对应播放器，与原交互一致） */}
+      <Image className="mimg" src={isPlaying ? iconPlaying : iconPlayReady} mode="aspectFill" ariaLabel={isPlaying ? '播放中' : '准备播放'} />
     </View>
   );
 }

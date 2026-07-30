@@ -5,12 +5,14 @@
  */
 import { useEffect, useState } from 'react';
 import { View, Text, ScrollView, Image } from '@tarojs/components';
-import Taro, { useDidShow } from '@tarojs/taro';
+import Taro, { useDidShow, useShareAppMessage } from '@tarojs/taro';
 import MiniPlayer from '@/components/MiniPlayer';
 import TabBarV4 from '@/components/TabBarV4';
 import avatarImg from '@/assets/avatar.jpg';
+import iconSearch from '@/assets/icon_search.png';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
+import { shareCard } from '@/utils/share';
 import { useTabStore } from '@/stores/tabStore';
 import { useUserStore } from '@/stores/userStore';
 import { usePlayerStore } from '@/stores/playerStore';
@@ -39,6 +41,12 @@ export default function SongHome() {
   useEffect(() => {
     loadSongCategories().then(setCats).catch((error) => console.warn('加载歌曲分类失败', error));
   }, []);
+  // 分享卡：学科启蒙儿歌插画卡面
+  useShareAppMessage(() => ({
+    title: '酷酷音乐厅 — 学科启蒙儿歌一起唱',
+    path: '/pages/song/index/index',
+    imageUrl: shareCard('E05_学科启蒙'),
+  }));
   useDidShow(() => {
     useTabStore.getState().setTab('song');
     if (isLogin && selectedChildId) {
@@ -50,6 +58,11 @@ export default function SongHome() {
 
   const goCat = (c: SongCategory) =>
     Taro.navigateTo({ url: `/pages/song/list/index?path=${encodeURIComponent(c.path)}&title=${encodeURIComponent(c.name)}` });
+  /** ★你的播放列表（用户定：今日歌单改收藏歌单）：点开=收藏页歌曲段，那里可顺序/循环播全部 */
+  const openMyList = () => {
+    if (!isLogin) { Taro.navigateTo({ url: '/pages/common/login/index' }); return; }
+    Taro.navigateTo({ url: '/pages/common/favorites/index?tab=song' });
+  };
   /** 历史续播：按路径规则构造队列项（音频/歌词/封面），单曲队列直接播 */
   const playLast = (h: HistItem) => {
     const title = cleanSongTitle(h.title) || '儿歌';
@@ -64,29 +77,31 @@ export default function SongHome() {
     Taro.navigateTo({ url: `/pages/song/player/index?id=${encodeURIComponent(h.content_id)}&title=${encodeURIComponent(title)}` });
   };
 
-  const hero = cats.find((c) => c.coverUrl) || cats[0];
+  // ★Hero=你的播放列表（封面用“其他类型”分类图，用户定）
+  const myListCover = cats.find((c) => c.name === '其他类型')?.coverUrl || '';
 
   return (
-    <ScrollView scrollY className={`page-v4 has-tab ${night}`}>
+    <View className={night}>
+    <ScrollView scrollY className="page-v4 has-tab" style={{ height: '100vh' }}>
       <View className="greet">
         <Image className="avatar" src={avatarImg} mode="aspectFill" ariaLabel="小听众头像" style={{ boxShadow: '0 4px 12px rgba(63,197,188,.35)' }} />
         <View className="flex-1">
           <Text className="hi">一起唱歌吧 🎵</Text>
           <Text className="big serif">酷酷音乐厅</Text>
         </View>
-        <View className="sbtn" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index?scope=song' })}><Icon name="search" size={38} color={TEAL} /></View>
+        <View className="sbtn" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index?scope=song' })}><Image className="im" src={iconSearch} mode="aspectFill" ariaLabel="搜索" /></View>
       </View>
 
-      {/* Hero：今日歌单（首个带封面分类） */}
-      {hero && (
+      {/* Hero：你的播放列表（收藏歌曲，点开即可顺序/循环播） */}
+      {cats.length > 0 && (
         <View>
-          <View className="hero" onClick={() => goCat(hero)}>
-            {hero.coverUrl ? <Image className="cover" src={hero.coverUrl} mode="aspectFill" ariaLabel={`${hero.name}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#5AD6CD,#3FC5BC)' }} />}
+          <View className="hero" onClick={openMyList}>
+            {myListCover ? <Image className="cover" src={myListCover} mode="aspectFill" ariaLabel="你的播放列表封面" /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#5AD6CD,#3FC5BC)' }} />}
             <View className="shade" />
             <View className="inner">
-              <Text className="htag">🎤 今日歌单</Text>
-              <Text className="h-title serif">{hero.name}</Text>
-              <Text className="h-meta">{hero.count ? `${hero.count} 首` : '一起唱'}</Text>
+              <Text className="htag">💖 你的播放列表</Text>
+              <Text className="h-title serif">我收藏的歌</Text>
+              <Text className="h-meta">{isLogin ? '点开顺序播你收藏的歌曲' : '登录后听你收藏的歌'}</Text>
             </View>
             <View className="hplay" style={{ background: 'radial-gradient(circle at 35% 30%,#7EDCD4,#3FC5BC 70%,#25A39B)' }}><Icon name="play" size={42} color="#fff" /></View>
           </View>
@@ -119,8 +134,10 @@ export default function SongHome() {
           </View>
         ))}
       </View>
+      </ScrollView>
+      {/* ★迷你栏/TabBar 必须在 ScrollView 外：weapp 下 ScrollView 内 fixed 子元素被裁剪不显示（用户实测） */}
       <MiniPlayer />
       {process.env.TARO_ENV === 'h5' && <TabBarV4 />}
-    </ScrollView>
+    </View>
   );
 }

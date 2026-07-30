@@ -6,13 +6,16 @@
  *   续播由 App 级 playbackQueue 全局驱动，页面只做展示订阅。mock 模式用模拟时钟演示高亮。
  */
 import { useEffect, useRef, useState } from 'react';
-import { View, Text, Slider, ScrollView, Image } from '@tarojs/components';
-import Taro, { useRouter } from '@tarojs/taro';
+import { View, Text, Slider, ScrollView, Image, Button } from '@tarojs/components';
+import Taro, { useRouter, useShareAppMessage } from '@tarojs/taro';
 import { player } from '@/services/audioPlayer';
 import { playSong, skip } from '@/services/playbackQueue';
 import { CONFIG } from '@/services/config';
+import { api } from '@/services/api';
+import { useUserStore } from '@/stores/userStore';
 import { findLrcIndex, LrcLine, LyricsDoc, parseLyrics } from '@/utils/lrc';
 import { buildAssetUrl } from '@/utils/path';
+import { shareCard } from '@/utils/share';
 import { mockSong } from '@/services/mock';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
@@ -42,6 +45,42 @@ export default function SongPlayer() {
   const playMode = usePlayerStore((s) => s.playMode);
   const playbackRate = usePlayerStore((s) => s.playbackRate); // 固定五挡 0.8~1.2，点击循环切换
   const title = currentTitle || initTitle;
+  // ★收藏回显（与故事灯同套：已收藏红心+“已收藏”，再点取消）；收藏列表故事/歌曲分开，content_type='song'
+  const [favId, setFavId] = useState<string | null>(null);
+  const favContentId = currentId || initId;
+  useEffect(() => {
+    if (!useUserStore.getState().isLogin || !favContentId) { setFavId(null); return; }
+    let alive = true;
+    api.get<{ list: { favorite_id: string; content_type: string; content_id: string }[] }>('/favorites')
+      .then((r) => { if (!alive) return; const hit = (r.list ?? []).find((f) => f.content_type === 'song' && f.content_id === favContentId); setFavId(hit ? hit.favorite_id : null); })
+      .catch(() => {});
+    return () => { alive = false; };
+  }, [favContentId]);
+  const favorite = async () => {
+    if (!useUserStore.getState().isLogin) { await Taro.navigateTo({ url: '/pages/common/login/index' }); return; }
+    try {
+      if (favId) {
+        await api.del(`/favorites/${favId}`);
+        setFavId(null);
+        Taro.showToast({ title: '已取消收藏', icon: 'none' });
+        return;
+      }
+      await api.post('/favorites', { content_type: 'song', content_id: favContentId, content_title: title });
+      const r = await api.get<{ list: { favorite_id: string; content_type: string; content_id: string }[] }>('/favorites');
+      const hit = (r.list ?? []).find((f) => f.content_type === 'song' && f.content_id === favContentId);
+      setFavId(hit ? hit.favorite_id : 'pending');
+      Taro.showToast({ title: '已收藏', icon: 'success' });
+    } catch (error) {
+      console.warn('歌曲收藏操作失败', error);
+      Taro.showToast({ title: '操作失败，请稍后再试', icon: 'none' });
+    }
+  };
+  // 分享当前歌曲：好友点开直达本曲
+  useShareAppMessage(() => ({
+    title: `《${title}》— 酷酷音乐厅`,
+    path: `/pages/song/player/index?id=${encodeURIComponent(favContentId)}&title=${encodeURIComponent(title)}`,
+    imageUrl: shareCard('E05_学科启蒙'),
+  }));
 
   const applyLyrics = (d: LyricsDoc) => {
     setDoc(d);
@@ -153,7 +192,7 @@ export default function SongPlayer() {
         <View className="cbtn main" style={{ background: 'radial-gradient(circle at 35% 30%,#7EDCD4,#3FC5BC 70%,#25A39B)' }} onClick={toggle}><Icon name={playing ? 'pause' : 'play'} size={54} color="#fff" /></View>
         <View className="cbtn" onClick={() => skip(1)}><Icon name="next" size={40} color={night ? '#E8ECF8' : '#2D3142'} /></View>
       </View>
-      {/* 播放模式切换：顺序 / 列表循环 / 单曲循环；倍速：固定五挡循环 */}
+      {/* 播放模式切换：顺序 / 列表循环 / 单曲循环；倍速：固定五挡循环；收藏：歌曲独立收藏列表 */}
       <View style={{ marginTop: '20px' }}>
         <Text
           className="chip"
@@ -162,6 +201,8 @@ export default function SongPlayer() {
           🔁 {MODE_LABEL[playMode]}
         </Text>
         <Text className="chip" onClick={() => player.cycleRate()}>倍速 {playbackRate.toFixed(1)}x</Text>
+        <Text className={`chip ${favId ? 'on' : ''}`} onClick={() => void favorite()}>{favId ? '❤️ 已收藏' : '🤍 收藏'}</Text>
+        <Button className="share-chip" openType="share">📤 分享</Button>
       </View>
       {CONFIG.USE_MOCK && <Text style={{ fontSize: '20px', color: 'var(--color-text-secondary)', display: 'block', marginTop: '16px' }}>示例：点播放演示歌词逐行高亮</Text>}
     </View>

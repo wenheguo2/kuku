@@ -3,24 +3,30 @@
  * 展示孩子/本周成长（GET /parent/progress/weekly）+ 收藏/历史/定时/会员/设置入口。
  */
 import { useState } from 'react';
-import { View, Text, ScrollView, Image } from '@tarojs/components';
-import Taro, { useDidShow } from '@tarojs/taro';
+import { View, Text, ScrollView, Image, Button } from '@tarojs/components';
+import Taro, { useDidShow, useShareAppMessage } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
-import Icon, { IconName } from '@/components/Icon';
 import TabBarV4 from '@/components/TabBarV4';
 import avatarImg from '@/assets/avatar.jpg';
+import iconFav from '@/assets/icon_fav.png';
+import iconHistory from '@/assets/icon_history.png';
+import iconChildren from '@/assets/icon_children.png';
+import iconSettings from '@/assets/icon_settings.png';
+import iconMember from '@/assets/icon_member.png';
 import { useNight } from '@/hooks/useNight';
 import { useTabStore } from '@/stores/tabStore';
+import { shareCard } from '@/utils/share';
 
 interface Weekly { weekly_stats: { new_acquainted: number; new_friends: number; new_buddies: number } }
 
-const ENTRIES: { icon: IconName; label: string; url: string; bg: string; color: string; rt: string }[] = [
-  { icon: 'heart', label: '收藏管理', url: '/pages/common/favorites/index', bg: '#FFF3E7', color: '#FF8C42', rt: '我的收藏 ›' },
-  { icon: 'clock', label: '播放历史', url: '/pages/common/history/index', bg: '#E0F5F3', color: '#3FC5BC', rt: '最近 100 条 ›' },
-  { icon: 'family', label: '孩子档案', url: '/pages/common/children/index', bg: '#EDE7FA', color: '#B8A9E8', rt: '管理 ›' },
-  { icon: 'gear', label: '账号设置', url: '/pages/common/settings/index', bg: '#F0E6D8', color: '#8B8D9E', rt: '›' },
-  { icon: 'family', label: '隐私与账号注销', url: '/pages/common/account-delete/index', bg: '#FFF0EE', color: '#E4572E', rt: '管理 ›' },
+// 功能行插画图标（素材库压缩产物 96px）；隐私注销暂无专属图，复用设置图降透明区分
+const ENTRIES: { img: string; label: string; url: string; rt: string }[] = [
+  { img: iconFav, label: '收藏管理', url: '/pages/common/favorites/index', rt: '我的收藏 ›' },
+  { img: iconHistory, label: '播放历史', url: '/pages/common/history/index', rt: '最近 100 条 ›' },
+  { img: iconChildren, label: '孩子档案', url: '/pages/common/children/index', rt: '管理 ›' },
+  { img: iconSettings, label: '账号设置', url: '/pages/common/settings/index', rt: '›' },
+  { img: iconChildren, label: '隐私与账号注销', url: '/pages/common/account-delete/index', rt: '管理 ›' },
 ];
 
 export default function ParentCenter() {
@@ -41,6 +47,12 @@ export default function ParentCenter() {
   });
   const nav = (url: string) => Taro.navigateTo({ url });
   const w = weekly?.weekly_stats;
+  // 分享拉新：家长之间互推（P01 家长中心卡面）
+  useShareAppMessage(() => ({
+    title: '酷酷儿童故事 — 孩子的故事与成长伙伴',
+    path: '/pages/story/index/index',
+    imageUrl: shareCard('P01_家长中心'),
+  }));
 
   return (
     <ScrollView scrollY className={`page-v4 has-tab ${night}`}>
@@ -65,18 +77,21 @@ export default function ParentCenter() {
         </View>
       )}
 
-      {/* 功能行 */}
+      {/* 功能行（插画图标） */}
       {ENTRIES.map((e) => (
         <View key={e.url} className="frow" onClick={() => nav(e.url)}>
-          <View className="fi" style={{ background: e.bg }}><Icon name={e.icon} size={34} color={e.color} /></View>{e.label}
+          <View className="fi"><Image className="im" src={e.img} mode="aspectFill" ariaLabel={`${e.label}图标`} /></View>{e.label}
           <Text className="rt">{e.rt}</Text>
         </View>
       ))}
       {/* 鎏金入口 */}
       <View className="frow" style={{ background: 'linear-gradient(135deg,#FFF8E1,#FFEFC4)', border: '1px solid #FFE3A3' }} onClick={() => nav('/pages/common/member/index')}>
-        <View className="fi" style={{ background: '#FFE9A8' }}><Icon name="crown" size={34} color="#B8860B" /></View>鎏金故事书匣
+        <View className="fi"><Image className="im" src={iconMember} mode="aspectFill" ariaLabel="会员订阅图标" /></View>鎏金故事书匣
         <Text className="rt" style={{ color: '#B8860B' }}>升级解锁全部 ›</Text>
       </View>
+
+      {/* ★分享拉新：醍目真按钮 */}
+      <Button className="share-bar" openType="share">📤 把酷酷推荐给其他家长</Button>
 
       {isLogin && (
         <View className="frow" style={{ justifyContent: 'center' }} onClick={logout}>

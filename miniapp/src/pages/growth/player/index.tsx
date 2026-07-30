@@ -12,7 +12,7 @@ import { View, Text, Image } from '@tarojs/components';
 import Taro, { useRouter } from '@tarojs/taro';
 import { locateSegment, TimelineSeg } from '@/utils/timeline';
 import { buildAssetUrl } from '@/utils/path';
-import { resolveStudyDir, studyOptions } from '@/services/lessonCatalog';
+import { resolveStudyDir, studyOptions, EN_LEVEL_STUDIES } from '@/services/lessonCatalog';
 import { useUserStore } from '@/stores/userStore';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
@@ -49,6 +49,8 @@ export default function TeachingPlayer() {
   const [segChars, setSegChars] = useState<CharRef[][]>([]);
   const [failed, setFailed] = useState(false);
   const [sceneUrl, setSceneUrl] = useState('');
+  // 破图兑底：个别立绘物理图 404 时记录并隐藏，避免断图占位（实测：manifest 键在但个别文件缺）
+  const [broken, setBroken] = useState<Record<string, boolean>>({});
   const [manifest, setManifest] = useState<IllustManifest | null>(null);
   const timer = useRef<ReturnType<typeof setInterval> | null>(null);
   const t = useRef(0);
@@ -69,6 +71,8 @@ export default function TeachingPlayer() {
   useEffect(() => {
     if (!isReal) return undefined;
     let alive = true;
+    // ★切课/切挡先清旧态：防旧字幕/旧立绘/旧场景残留（学习2/3 背景立绘不加载实测根因之一）
+    setRealSegs(null); setSegChars([]); setSceneUrl(''); setBroken({});
     // ★时间轴首选合并产出的真实 timeline（含句间静音），否则字幕会先于配音漂移
     type Res = Taro.request.SuccessCallbackResult | null;
     const tlReq: Promise<Res> = Taro.request({ url: buildAssetUrl(`audio/${lessonPath}/${studyDir}/timeline.json`), dataType: 'json' }).catch((): Res => null);
@@ -165,6 +169,9 @@ export default function TeachingPlayer() {
     if (lv === enLevel) return;
     if (lv > 1 && !guardVip()) return;
     setIdx(0); t.current = 0; setFailed(false);
+    // ★各难度学习挡数不同（初2/中3/高1，实测目录）：当前挡超出新难度范围时回到 学习1
+    const maxN = EN_LEVEL_STUDIES[lv];
+    if (Number((studyType.match(/\d+/) || ['1'])[0]) > maxN) setStudyType('study1');
     setEnLevel(lv);
   };
   const EN_LEVELS: { lv: 1 | 2 | 3; label: string }[] = [{ lv: 1, label: '初阶' }, { lv: 2, label: '中阶' }, { lv: 3, label: '高阶' }];
@@ -180,7 +187,7 @@ export default function TeachingPlayer() {
   /** 逐句群像：位次固定；姿势/情绪取当句 characters[]，当句未列出的角色用默认 stand/happy 继续在场；说话者仅提亮不移位 */
   const speakerImgs = useMemo(() => {
     const chars = manifest?.characters;
-    if (!chars || charOrder.length === 0) return [] as { name: string; url: string; talking: boolean }[];
+    if (!chars || charOrder.length === 0) return [] as { name: string; url: string; talking: boolean; rawKey: string }[];
     const cur = segChars[idx] ?? [];
     const talker = seg?.character || '';
     const pick = (name: string) => {
@@ -189,9 +196,9 @@ export default function TeachingPlayer() {
     };
     return charOrder
       .map((name) => ({ name, url: pick(name), talking: name === talker }))
-      .filter((x) => x.url)
-      .map((x) => ({ ...x, url: buildAssetUrl(`illustrations/${x.url}`) }));
-  }, [charOrder, segChars, idx, seg?.character, manifest]);
+      .filter((x) => x.url && !broken[x.url])
+      .map((x) => ({ ...x, url: buildAssetUrl(`illustrations/${x.url}`), rawKey: x.url }));
+  }, [charOrder, segChars, idx, seg?.character, manifest, broken]);
 
   return (
     <View className={`eland ${night}`}>
@@ -201,12 +208,16 @@ export default function TeachingPlayer() {
           {sceneImg
             ? <Image className="cover" webp src={sceneImg} mode="aspectFill" ariaLabel="教学场景" />
             : <View className="cover" style={{ background: 'linear-gradient(135deg,#8FD97B,#5FA84C)' }} />}
+          {/* ★退出键（用户定：横屏课堂必须能退回）：左上角半透圆钮，无上页时兑底回成长首页 */}
+          <View className="eback" onClick={() => Taro.navigateBack().catch(() => Taro.switchTab({ url: '/pages/growth/index/index' }))}>
+            <Icon name="back" size={18} color="#fff" />
+          </View>
           {isReal && (
             <View className="elvl">
               {subject === '英语' && EN_LEVELS.map((o) => (
                 <Text key={o.lv} className={`c ${enLevel === o.lv ? 'on' : ''}`} onClick={() => switchLevel(o.lv)}>{o.label}{o.lv > 1 && membershipStatus !== 'active' ? ' 🔒' : ''}</Text>
               ))}
-              {studyOptions(subject).map((o) => (
+              {studyOptions(subject, enLevel).map((o) => (
                 <Text key={o.key} className={`c ${studyType === o.key ? 'on' : ''}`} onClick={() => switchStudy(o.key)}>{o.label}{o.key !== 'study1' && membershipStatus !== 'active' ? ' 🔒' : ''}</Text>
               ))}
             </View>
@@ -214,26 +225,34 @@ export default function TeachingPlayer() {
           {speakerImgs.length > 0 && (
             <View className="espks">
               {speakerImgs.map((s) => (
-                <Image key={s.name} className={`spk ${s.talking ? 'talk' : ''}`} webp src={s.url} mode="aspectFit" ariaLabel={s.name} />
+                <Image key={s.name} className={`spk ${s.talking ? 'talk' : ''}`} webp src={s.url} mode="aspectFit" ariaLabel={s.name}
+                  onError={() => setBroken((b) => ({ ...b, [s.rawKey]: true }))} />
               ))}
             </View>
           )}
         </View>
-        {/* 右：田字格生字 + 字幕气泡 + 句进度（三段饱满布局，用户反馈：右侧太空不紧凑） */}
+        {/* 右：生字田字格/单词宽卡 + 字幕气泡（用户定：英语是单词不用田字格，长单词必须完整展示） */}
         <View className="ewordR">
           <View className="ehead">
-            <Text className="etag">今日生字</Text>
-            <View className="wcard">
-              <View className="gx" />
-              <View className="gy" />
-              <Text className="w serif">{word}</Text>
-            </View>
+            <Text className="etag">{subject === '英语' ? '今日单词' : '今日生字'}</Text>
+            {subject === '英语' ? (
+              <View className="wword">
+                <Text className={`w ${word.length > 9 ? 'sm' : word.length > 6 ? 'md' : ''}`}>{word}</Text>
+              </View>
+            ) : (
+              <View className="wcard">
+                <View className="gx" />
+                <View className="gy" />
+                <Text className="w serif">{word}</Text>
+              </View>
+            )}
           </View>
           {isReal ? (
             <>
               <View className="esub-r">
                 {seg?.character && seg.character !== '旁白' && <Text className="who">{seg.character}</Text>}
-                <Text className="txt">
+                {/* 字号随句长自适应（用户定：字幕必须显示全）：短句大字、长句缩字，保证任意句长放得下 */}
+                <Text className={`txt ${(seg?.text || '').length > 30 ? 'sm' : (seg?.text || '').length > 18 ? 'md' : ''}`}>
                   {failed
                     ? '内容加载失败了，返回重试一下吧'
                     : (seg?.text

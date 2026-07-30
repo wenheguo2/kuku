@@ -1,8 +1,40 @@
-/* GL-02 玻璃拟态迷你播放栏定位（固定于底部，Tab 栏上方） */
-.mini-wrap {
+/* MiniPlayer — 右侧中部小浮窗（替代原底部大条：不遮内容、不受 tabbar/ScrollView 裁剪影响）
+ * 点击进对应播放器；左上小×关闭（暂停+清状态）；播放/暂停图标即时反映状态。
+ * ★用户实测：贴底会被底部 4-Tab 栏遮挡，改固定到屏幕右侧中部高度。 */
+.mini-fab {
   position: fixed;
-  left: 16px;
-  right: 16px;
-  bottom: 24px;
-  z-index: 100;
+  right: 24px;
+  top: 50%;
+  margin-top: -44px; /* 自身高度一半，垂直居中 */
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 6px 18px rgba(255, 140, 66, .55);
+  z-index: 150;
+  overflow: visible;
+}
+/* 插画两态图铺满圆浮窗 */
+.mini-fab .mimg {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.mini-fab-x {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: rgba(0,0,0,.6);
+  color: #fff;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 32px;
+  text-align: center;
+  z-index: 2;
 }

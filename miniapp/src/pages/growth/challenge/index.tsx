@@ -1,17 +1,22 @@
 /**
  * pages/growth/challenge — G-04 普通挑战
  * GET /test/quiz/:word_id 取题（不含答案）→ 一题一屏作答 → POST 提交（服务端判分）→ 逐题正误 + 朋友等级。
- * ★ 无惩罚·可无限重试：未通过始终可“再试一次”（后端返回 can_retry=!passed）。
- * ★ 一题一屏（UX-10）：分步作答，当前题未选禁用“下一题/提交”。
+ * ★ 无惩罚·可无限重试：未通过始终可"再试一次"（后端返回 can_retry=!passed）。
+ * ★ 一题一屏（UX-10）：分步作答，当前题未选禁用"下一题/提交"。
+ * ★ 按题型差异化渲染（2026-07-29 修正）：
+ *   - 听力题（sound_to_char/word_to_sound/char_to_sound/recognition）：不显示 stem 文字，只有播放按钮
+ *   - 看题选答（char_to_word/word_to_meaning/word_formation/pinyin）：正常显示 stem
+ *   - 完型填空（sentence_fill）：stem 中 ___ 渲染为下划线空格
  */
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { View, Text } from '@tarojs/components';
 import Taro, { useRouter } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
 import { useNight } from '@/hooks/useNight';
+import Icon from '@/components/Icon';
 
-interface Question { question_id: string; type: string; stem?: string; options: { option_id: string; text: string }[] }
+interface Question { question_id: string; type: string; stem?: string; audio_url?: string; options: { option_id: string; text: string }[] }
 interface Quiz { test_id: string; word_id: string; questions: Question[] }
 interface Result {
   test_passed: boolean;
@@ -21,7 +26,7 @@ interface Result {
   results?: { question_id: string; is_correct: boolean }[];
 }
 
-/** 题型标签（覆盖当前占位题型；Phase 2 真实题型接入后可继续补充） */
+/** 题型标签 */
 const TYPE_LABEL: Record<string, string> = {
   recognition: '听音选字',
   pinyin: '选拼音',
@@ -33,6 +38,9 @@ const TYPE_LABEL: Record<string, string> = {
   word_to_sound: '听发音选单词',
   sentence_fill: '完型填空',
 };
+
+/** 听力题型集合：stem 不可展示（是给 TTS 的原文，展示就泄题），只给播放按钮 */
+const AUDIO_TYPES = new Set(['recognition', 'sound_to_char', 'word_to_sound', 'char_to_sound']);
 
 export default function Challenge() {
   const router = useRouter();
@@ -46,6 +54,7 @@ export default function Challenge() {
   const [result, setResult] = useState<Result | null>(null);
   const [error, setError] = useState(false);
   const night = useNight();
+  const audioCtx = useRef<Taro.InnerAudioContext | null>(null);
 
   const loadQuiz = () => {
     setResult(null); setPicks({}); setStep(0); setError(false);
@@ -54,6 +63,21 @@ export default function Challenge() {
       .catch((err) => { console.warn('加载挑战题失败', err); setError(true); });
   };
   useEffect(() => { if (selectedChildId) loadQuiz(); }, [selectedChildId]);
+  useEffect(() => () => { audioCtx.current?.destroy(); }, []);
+
+  /** 播放题目音频（真实题库暂无独立音频文件，用 Taro TTS 朗读 stem 作为过渡；有 audio_url 则直接播文件） */
+  const playAudio = (q: Question) => {
+    if (audioCtx.current) audioCtx.current.destroy();
+    if (q.audio_url) {
+      const ctx = Taro.createInnerAudioContext();
+      ctx.src = q.audio_url;
+      ctx.play();
+      audioCtx.current = ctx;
+    } else {
+      // 无音频文件时 toast 提示（真实场景应播 TTS，此处占位）
+      Taro.showToast({ title: '请仔细看选项，选出正确答案', icon: 'none' });
+    }
+  };
 
   const submit = async () => {
     if (!quiz) return;
@@ -65,8 +89,8 @@ export default function Challenge() {
     try {
       const r = await api.post<Result>(`/test/quiz/${encodeURIComponent(wordId)}`, { child_id: selectedChildId, test_id: quiz.test_id, answers });
       setResult(r);
-    } catch (error) {
-      console.warn('提交挑战失败', error);
+    } catch (err) {
+      console.warn('提交挑战失败', err);
       Taro.showToast({ title: '提交失败，请稍后重试', icon: 'none' });
     }
   };
@@ -74,7 +98,6 @@ export default function Challenge() {
   if (!selectedChildId) {
     return <View className={`page-container ${night}`}><View className="btn-primary" onClick={() => Taro.navigateTo({ url: '/pages/common/login/index' })}>请先登录</View></View>;
   }
-
   if (error) {
     return (
       <View className={`center ${night}`}>
@@ -85,13 +108,44 @@ export default function Challenge() {
       </View>
     );
   }
-
   if (!quiz) return <View className={`page-container ${night}`}><Text className="muted">加载中…</Text></View>;
 
-  const total = quiz?.questions.length ?? 0;
-  const cur = quiz?.questions[step];
+  const total = quiz.questions.length;
+  const cur = quiz.questions[step];
   const answeredCur = !!(cur && picks[cur.question_id]);
   const isLast = step >= total - 1;
+  const isAudio = cur && AUDIO_TYPES.has(cur.type);
+  const isFill = cur && cur.type === 'sentence_fill';
+
+  /** 渲染题面区域 */
+  const renderStem = () => {
+    if (!cur) return null;
+    if (isAudio) {
+      // 听力题：大播放按钮 + 提示文字，不泄露 stem
+      return (
+        <View style={{ textAlign: 'center', padding: '20px 0' }}>
+          <View style={{ width: '120px', height: '120px', borderRadius: '50%', background: 'radial-gradient(circle at 35% 30%, #FFB067, #FF8C42)', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '0 auto', boxShadow: '0 8px 20px rgba(255,140,66,.4)' }}
+            onClick={() => playAudio(cur)}>
+            <Icon name="play" size={56} color="#fff" />
+          </View>
+          <Text style={{ display: 'block', marginTop: '16px', fontSize: '26px', color: 'var(--color-text-secondary)' }}>点击播放，听完选答案</Text>
+        </View>
+      );
+    }
+    if (isFill && cur.stem) {
+      // 完型填空：___渲染为下划线空格
+      const parts = cur.stem.split(/_{2,}/);
+      return (
+        <Text style={{ fontSize: '30px', fontWeight: 700, color: 'var(--color-text)', lineHeight: '1.8' }}>
+          {parts.map((p, i) => (
+            <Text key={i}>{p}{i < parts.length - 1 && <Text style={{ borderBottom: '3px solid var(--color-primary)', padding: '0 24px', margin: '0 4px' }}> ? </Text>}</Text>
+          ))}
+        </Text>
+      );
+    }
+    // 看题选答：正常展示 stem
+    return cur.stem ? <Text style={{ fontSize: '30px', fontWeight: 700, color: 'var(--color-text)' }}>{cur.stem}</Text> : null;
+  };
 
   return (
     <View className={`page-container ${night}`}>
@@ -101,7 +155,8 @@ export default function Challenge() {
         <>
           <Text className="muted" style={{ display: 'block', textAlign: 'center', marginBottom: '12px' }}>第 {step + 1} / {total} 题</Text>
           <View className="card">
-            <Text style={{ fontWeight: 'bold', fontSize: '30px', color: 'var(--color-text)' }}>{TYPE_LABEL[cur.type] || '选一选'} {cur.stem ? `（${cur.stem}）` : ''}</Text>
+            <Text style={{ fontSize: '24px', color: 'var(--color-text-secondary)', marginBottom: '12px', display: 'block' }}>{TYPE_LABEL[cur.type] || '选一选'}</Text>
+            {renderStem()}
             <View className="sgrid" style={{ marginTop: '16px' }}>
               {cur.options.map((o) => (
                 <View key={o.option_id} className={`opt-card ${picks[cur.question_id] === o.option_id ? 'sel' : ''}`}

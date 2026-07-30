@@ -56,7 +56,8 @@ function resolveNight(s: { theme: ThemeMode; sleepMode: SleepMode; sleepManualOn
 }
 
 export const useSettingsStore = create<SettingsState>((set, get) => ({
-  theme: ThemeStore.get() ?? 'system',
+  // 历史脏值兑底：仅收三枚举，其余（''/旧版值）回退 system，避免设置页选中态丢失
+  theme: (['system', 'light', 'dark'] as const).includes(ThemeStore.get() as ThemeMode) ? ThemeStore.get() as ThemeMode : 'system',
   timerMinutes: 30,
   timerDeadline: activeTimerDeadline,
   isDark: false,

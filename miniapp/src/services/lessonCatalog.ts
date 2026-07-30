@@ -69,23 +69,26 @@ export async function loadLessonEntries(subject: string): Promise<LessonEntry[]>
 export const STUDY_DIR: Record<string, string> = { study1: '学习1', study2: '学习2', study3: '学习3' };
 
 /**
- * 按学科解析学习目录相对路径（实测物理结构）：
+ * 按学科解析学习目录相对路径（实测物理结构，2026-07-29 按实际目录修正）：
  *  - 识字：{课}/学习1|2|3；拼音：{课}/学习1|2
- *  - 英语：{课}/英语初阶|中阶|高阶/学习1|2（难度 enLevel 与 学习挡 两维）
+ *  - 英语：{课}/英语初阶(学习1|2) | 英语中阶(学习1|2|3) | 英语高阶(学习1)——各难度学习数不同
  */
 export function resolveStudyDir(subject: string, studyType: string, enLevel: 1 | 2 | 3 = 1): string {
+  const study = STUDY_DIR[studyType] || '学习1';
   if (subject === '英语') {
     const level = enLevel === 3 ? '英语高阶' : enLevel === 2 ? '英语中阶' : '英语初阶';
-    const study = studyType === 'study2' ? '学习2' : '学习1';
     return `${level}/${study}`;
   }
-  return STUDY_DIR[studyType] || '学习1';
+  return study;
 }
 
-/** 各学科可用学习挡（实测目录：识字 3 挡、拼音 2 挡、英语每难度 2 挡） */
-export function studyOptions(subject: string): { key: string; label: string }[] {
-  if (subject === '拼音' || subject === '英语') {
-    return [{ key: 'study1', label: '学习1' }, { key: 'study2', label: '学习2' }];
-  }
-  return [{ key: 'study1', label: '学习1' }, { key: 'study2', label: '学习2' }, { key: 'study3', label: '学习3' }];
+/** 英语各难度的学习挡数（实测目录：初阶2、中阶3、高阶1） */
+export const EN_LEVEL_STUDIES: Record<1 | 2 | 3, number> = { 1: 2, 2: 3, 3: 1 };
+
+/** 各学科可用学习挡（实测目录：识字 3 挡、拼音 2 挡、英语按难度 初2/中3/高1） */
+export function studyOptions(subject: string, enLevel: 1 | 2 | 3 = 1): { key: string; label: string }[] {
+  const make = (n: number) => Array.from({ length: n }, (_, i) => ({ key: `study${i + 1}`, label: `学习${i + 1}` }));
+  if (subject === '英语') return make(EN_LEVEL_STUDIES[enLevel]);
+  if (subject === '拼音') return make(2);
+  return make(3);
 }

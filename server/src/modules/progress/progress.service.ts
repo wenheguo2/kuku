@@ -8,12 +8,15 @@
  * 已下线间隔复习/久别重逢机制。
  */
 import { BadRequestException, ForbiddenException, Injectable, NotFoundException } from '@nestjs/common';
+import { ConfigService } from '@nestjs/config';
 import { InjectRepository } from '@nestjs/typeorm';
+import { join } from 'path';
 import { In, Repository } from 'typeorm';
 import { ComprehensiveTest, TriggerType } from '../../entities/comprehensive-test.entity';
 import { LearningProgress, StudyType, Subject } from '../../entities/learning-progress.entity';
 import { TestStore } from './test-store';
 import { MembershipAccessService } from '../membership-access/membership-access.service';
+import { loadRealQuiz } from './real-quiz';
 import {
   generateNormalQuiz,
   isNormalPassed,
@@ -28,12 +31,18 @@ const COMPREHENSIVE_PASS = 8;
 
 @Injectable()
 export class ProgressService {
+  /** 内容库根（真实题库读取）：与 main.ts 静态服务同源 STATIC_ROOT */
+  private readonly contentRoot: string;
+
   constructor(
     @InjectRepository(LearningProgress) private readonly progress: Repository<LearningProgress>,
     @InjectRepository(ComprehensiveTest) private readonly compTests: Repository<ComprehensiveTest>,
     private readonly testStore: TestStore,
     private readonly membership: MembershipAccessService,
-  ) {}
+    config: ConfigService,
+  ) {
+    this.contentRoot = join(process.cwd(), config.get<string>('STATIC_ROOT', '../production'));
+  }
 
   private stageName(stage: number): string {
     return STAGE_NAMES[stage] ?? '未遇见';
@@ -99,12 +108,13 @@ export class ProgressService {
     return { success: true, current_stage: row.currentStage, stage_name: this.stageName(row.currentStage) };
   }
 
-  /** 取普通挑战题目：生成 4 题并暂存答案（不下发正确项） */
+  /** 取普通挑战题目：★真实题库优先（production 习题 verify.json），无题/读失败回退合成题；答案仅存服务端 */
   async getQuiz(childId: string, subject: Subject, wordId: string, wordText: string) {
     this.assertSubject(subject);
     if (subject === '拼音') throw new BadRequestException('拼音无普通挑战习题');
     // 无惩罚·可无限重试：取题不做任何重试计数/失败态处理
-    const questions = generateNormalQuiz(wordId, wordText || wordId);
+    let questions = await loadRealQuiz(this.contentRoot, subject, wordId, 4);
+    if (questions.length === 0) questions = generateNormalQuiz(wordId, wordText || wordId);
     const testId = `t_${wordId}_${Date.now()}`;
     await this.testStore.put(testId, { kind: 'normal', childId, subject, wordId, questions });
     return { test_id: testId, word_id: wordId, questions: toPublic(questions) };
@@ -161,8 +171,11 @@ export class ProgressService {
       };
     }
 
-    // 每个字生成一道服务端保存正确项的识别题；真实题库到位后仅替换题源。
-    const questions = words.map((word) => generateNormalQuiz(word.wordId, word.wordText || word.wordId)[0]);
+    // ★每个字取 1 道题：真实题库优先，无题回退合成识别题
+    const questions = await Promise.all(words.map(async (word) => {
+      const real = await loadRealQuiz(this.contentRoot, subject, word.wordId, 1);
+      return real[0] ?? generateNormalQuiz(word.wordId, word.wordText || word.wordId)[0];
+    }));
     const testId = `ct_${Date.now()}_${Math.random().toString(36).slice(2, 10)}`;
     await this.testStore.put(testId, {
       kind: 'comprehensive',
@@ -198,7 +211,11 @@ export class ProgressService {
     }
     const rowMap = new Map(rows.map((row) => [row.wordId, row]));
     const ordered = wordIds.map((wordId) => rowMap.get(wordId)!);
-    const questions = ordered.map((word) => generateNormalQuiz(word.wordId, word.wordText || word.wordId)[0]);
+    // ★真实题库优先，无题回退合成识别题（与 auto 路径同源）
+    const questions = await Promise.all(ordered.map(async (word) => {
+      const real = await loadRealQuiz(this.contentRoot, subject, word.wordId, 1);
+      return real[0] ?? generateNormalQuiz(word.wordId, word.wordText || word.wordId)[0];
+    }));
     const testId = `ct_${Date.now()}_${Math.random().toString(36).slice(2, 10)}`;
     await this.testStore.put(testId, {
       kind: 'comprehensive',

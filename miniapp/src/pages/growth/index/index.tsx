@@ -19,6 +19,7 @@ interface Summary {
   overall_stats: { total_words_learned: number; total_words_mastered: number; total_words_friends?: number };
   subject_progress: { subject: string; learned: number; tested: number; mastered: number }[];
 }
+interface ProgList { words: { word_id: string; current_stage: number }[] }
 
 const SUBJECTS = [
   { name: '识字', color: 'var(--color-primary)' },
@@ -34,15 +35,23 @@ export default function GrowthHome() {
   const isLogin = useUserStore((s) => s.isLogin);
   const night = useNight();
 
-  // 首屏字词宫格：识字前 12 课 + 英语前 8 词（单词长，两列卡更宽），无需登录即可看/听
+  // 首屏字词宫格（用户定：展示最靠前的“还没交过朋友”的字/词，按课序从早到晚）：
+  // 登录时拉学科进度过滤已学(stage>=1)，未登录/拉取失败回退前 N 课
   useEffect(() => {
-    loadLessonEntries('识字')
-      .then((l) => setWordPreview(l.slice(0, 12)))
-      .catch((error) => console.warn('加载字词预览失败', error));
-    loadLessonEntries('英语')
-      .then((l) => setEnPreview(l.slice(0, 8)))
-      .catch((error) => console.warn('加载单词预览失败', error));
-  }, []);
+    const fill = async (subject: string, take: number, setter: (l: LessonEntry[]) => void) => {
+      const all = await loadLessonEntries(subject);
+      let learned = new Set<string>();
+      if (isLogin && selectedChildId) {
+        try {
+          const d = await api.get<ProgList>(`/progress/${encodeURIComponent(subject)}?child_id=${selectedChildId}&page_size=500`);
+          learned = new Set((d.words ?? []).filter((w) => w.current_stage >= 1).map((w) => w.word_id));
+        } catch (error) { console.warn(`拉取${subject}进度失败，宫格退回前N课`, error); }
+      }
+      setter(all.filter((w) => !learned.has(w.id)).slice(0, take));
+    };
+    fill('识字', 12, setWordPreview).catch((error) => console.warn('加载字词预览失败', error));
+    fill('英语', 8, setEnPreview).catch((error) => console.warn('加载单词预览失败', error));
+  }, [isLogin, selectedChildId]);
 
   const load = () => {
     if (!isLogin || !selectedChildId) return;
@@ -63,7 +72,8 @@ export default function GrowthHome() {
   const pct = (n: number) => (total > 0 ? `${Math.round((n / total) * 100)}%` : '0%');
 
   return (
-    <ScrollView scrollY className={`page-v4 has-tab ${night}`}>
+    <View className={night}>
+    <ScrollView scrollY className="page-v4 has-tab" style={{ height: '100vh' }}>
       <View style={{ textAlign: 'center', padding: '10px 20px 4px' }}>
         <Text style={{ fontSize: '20px', letterSpacing: '4px', color: 'var(--color-text-secondary)', fontWeight: 800, display: 'block' }}>FRIENDS COLLECTION</Text>
         <Text className="serif" style={{ fontSize: '38px', fontWeight: 800, marginTop: '8px', display: 'block', color: 'var(--color-text)' }}>我的朋友收集册</Text>
@@ -144,8 +154,10 @@ export default function GrowthHome() {
       <View className="frow" onClick={() => Taro.navigateTo({ url: '/pages/growth/comprehensive/index?subject=识字' })}>
         <View className="fi" style={{ background: '#FFF0C4' }}><Icon name="crown" size={34} color="#B8860B" /></View>综合挑战<Text className="rt">攒满 10 好朋友 → 好伙伴 ›</Text>
       </View>
-      <MiniPlayer />
-      {process.env.TARO_ENV === 'h5' && <TabBarV4 />}
     </ScrollView>
+    {/* ★迷你栏/TabBar 在 ScrollView 外：weapp 下 ScrollView 内 fixed 子元素被裁剪不显示 */}
+    <MiniPlayer />
+    {process.env.TARO_ENV === 'h5' && <TabBarV4 />}
+    </View>
   );
 }

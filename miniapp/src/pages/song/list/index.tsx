@@ -10,6 +10,7 @@ import Taro, { useRouter } from '@tarojs/taro';
 import { usePlayerStore } from '@/stores/playerStore';
 import MiniPlayer from '@/components/MiniPlayer';
 import Icon from '@/components/Icon';
+import iconLoop from '@/assets/icon_loop.png';
 import StateView from '@/components/StateView';
 import { useNight } from '@/hooks/useNight';
 import { loadSongLevel, SongCategory, SongEntry, SONG_SUBJECT } from '@/services/songCatalog';
@@ -44,7 +45,7 @@ export default function SongList() {
     Taro.navigateTo({ url: `/pages/song/list/index?path=${encodeURIComponent(c.path)}&title=${encodeURIComponent(c.name)}` });
 
   const play = (s: SongEntry) => {
-    // ★ 点歌：本子类整体设为播放队列（同类自动续播/循环基础），队列项携真实音频/歌词/封面
+    // ★点歌：本子类整体设为播放队列（同类自动续播/循环基础），队列项携真实音频/歌词/封面
     const idx = songs.findIndex((x) => x.path === s.path);
     usePlayerStore.getState().setQueue(
       songs.map((x) => ({ type: 'song' as const, id: x.path, title: x.displayTitle, audioUrl: x.audioUrl, lrcUrl: x.lrcUrl, coverUrl: x.coverUrl })),
@@ -52,10 +53,25 @@ export default function SongList() {
     );
     Taro.navigateTo({ url: `/pages/song/player/index?id=${encodeURIComponent(s.path)}&title=${encodeURIComponent(s.displayTitle)}` });
   };
-
+  
+  /** ★循环播放整个列表（用户定：列表目录右上一键列表循环）：设 repeat-all + 从第 1 首起播 */
+  const loopAll = () => {
+    if (songs.length === 0) return;
+    usePlayerStore.getState().setPlayMode('repeat-all');
+    play(songs[0]);
+  };
+  
   return (
-    <ScrollView scrollY className={`page-v4 ${night}`}>
-      <Text className="serif" style={{ fontSize: '40px', fontWeight: 'bold', display: 'block', marginBottom: '4px', color: 'var(--color-text)' }}>{title}</Text>
+    <View className={night}>
+    <ScrollView scrollY className="page-v4" style={{ height: '100vh' }}>
+      <View style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '4px' }}>
+        <Text className="serif" style={{ fontSize: '40px', fontWeight: 'bold', color: 'var(--color-text)', flex: 1 }}>{title}</Text>
+        {songs.length > 0 && (
+          <View onClick={loopAll} style={{ flex: '0 0 auto', display: 'flex', alignItems: 'center', gap: '8px', background: 'linear-gradient(135deg,#5AD6CD,#3FC5BC)', color: '#fff', fontSize: '24px', fontWeight: 800, padding: '10px 22px', borderRadius: '28px', boxShadow: '0 4px 12px rgba(63,197,188,.4)' }}>
+            <Image src={iconLoop} mode="aspectFill" style={{ width: '36px', height: '36px', borderRadius: '50%' }} ariaLabel="循环播放图标" /> 循环播放
+          </View>
+        )}
+      </View>
       <Text className="muted" style={{ display: 'block', marginBottom: '16px' }}>{subs.length > 0 ? `${subs.length} 个歌单` : `${songs.length} 首`}</Text>
       <StateView loading={loading} error={error} empty={subs.length === 0 && songs.length === 0} emptyText="这里还没有歌曲" onRetry={load}>
         {/* 语言子类卡（中文歌曲/双语歌曲/英文…），真封面 tiles */}
@@ -84,7 +100,9 @@ export default function SongList() {
           </View>
         ) : null}
       </StateView>
-      <MiniPlayer />
     </ScrollView>
+    {/* ★迷你栏在 ScrollView 外：weapp 下 ScrollView 内 fixed 子元素被裁剪 */}
+    <MiniPlayer />
+    </View>
   );
 }

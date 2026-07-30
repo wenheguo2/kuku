@@ -4,21 +4,32 @@
  * ★ 故事 / 歌曲分段展示；歌曲段可「循环播放全部收藏歌曲」（设歌单队列 + 列表循环）。
  */
 import { useState } from 'react';
-import { View, Text } from '@tarojs/components';
-import Taro, { useDidShow } from '@tarojs/taro';
+import { View, Text, Image } from '@tarojs/components';
+import Taro, { useDidShow, useRouter } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
 import { usePlayerStore } from '@/stores/playerStore';
+import { buildAssetUrl, buildCoverUrl, guessCoverFromPath } from '@/utils/path';
+import iconStory from '@/assets/icon_story.png';
+import iconSong from '@/assets/icon_song.png';
 import StateView from '@/components/StateView';
 import { useNight } from '@/hooks/useNight';
 
 interface Fav { favorite_id: string; content_type: string; content_id: string; title: string | null }
 type Tab = 'story' | 'song';
 
+/** 歌曲单曲封面按路径规则：covers/generated/{path}/{歌名}_1.jpg */
+const songCoverFromPath = (p: string) => {
+  const name = p.split('/').filter(Boolean).pop();
+  return name ? buildCoverUrl(`covers/generated/${p}/${name}_1.jpg`) : '';
+};
+
 export default function Favorites() {
+  const router = useRouter();
   const isLogin = useUserStore((s) => s.isLogin);
   const [list, setList] = useState<Fav[]>([]);
-  const [tab, setTab] = useState<Tab>('story');
+  // 入口可指定段（音乐厅“你的播放列表”直达歌曲段）
+  const [tab, setTab] = useState<Tab>(router.params.tab === 'song' ? 'song' : 'story');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
   const night = useNight();
@@ -45,10 +56,27 @@ export default function Favorites() {
   const openStory = (f: Fav) =>
     Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(f.content_id)}&title=${encodeURIComponent(f.title || f.content_id)}` });
 
-  /** 从某首收藏歌曲开始播放全部收藏歌曲（设歌单队列，播放由播放器起播）。 */
+  /** ★连播全部收藏故事（用户定：直接播收藏列表）：整列表设队列从第 1 篇起 */
+  const playStoriesAll = () => {
+    if (stories.length === 0) return;
+    usePlayerStore.getState().setQueue(
+      stories.map((f) => ({ type: 'story' as const, id: f.content_id, title: f.title || f.content_id, coverUrl: guessCoverFromPath(f.content_id) || undefined })),
+      0,
+    );
+    Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(stories[0].content_id)}&title=${encodeURIComponent(stories[0].title || stories[0].content_id)}` });
+  };
+
+  /** 从某首收藏歌曲开始播全部收藏歌曲；队列项按路径规则补真实音频/歌词/封面（修：原只有 id 无声） */
   const playSongsFrom = (index: number) => {
     const i = Math.max(0, index);
-    const queue = songs.map((s) => ({ type: 'song' as const, id: s.content_id, title: s.title || s.content_id }));
+    const queue = songs.map((s) => ({
+      type: 'song' as const,
+      id: s.content_id,
+      title: s.title || s.content_id,
+      audioUrl: buildAssetUrl(`generated_stories/${s.content_id}.mp3`),
+      lrcUrl: buildAssetUrl(`generated_stories/${s.content_id}.txt`),
+      coverUrl: songCoverFromPath(s.content_id) || undefined,
+    }));
     usePlayerStore.getState().setQueue(queue, i);
     Taro.navigateTo({ url: `/pages/song/player/index?id=${encodeURIComponent(queue[i].id)}&title=${encodeURIComponent(queue[i].title)}` });
   };
@@ -78,16 +106,19 @@ export default function Favorites() {
         <View className={`chip ${tab === 'song' ? 'on' : ''}`} onClick={() => setTab('song')}>🎵 歌曲 {songs.length}</View>
       </View>
 
-      {/* 歌曲段：循环播放全部 */}
+      {/* 歌曲段：循环播放全部；故事段：连播全部（用户定） */}
       {tab === 'song' && songs.length > 0 && (
         <View className="btn-green" style={{ marginBottom: '16px' }} onClick={loopAllSongs}>🔁 循环播放全部收藏歌曲</View>
+      )}
+      {tab === 'story' && stories.length > 0 && (
+        <View className="btn-primary" style={{ marginBottom: '16px' }} onClick={playStoriesAll}>▶ 连播全部收藏故事</View>
       )}
 
       <StateView loading={loading} error={error} empty={shown.length === 0}
         emptyText={tab === 'story' ? '还没有收藏故事～' : '还没有收藏歌曲～'} emptyIcon="star" onRetry={load}>
         {shown.map((f, i) => (
           <View key={f.favorite_id} className="list-row" onClick={() => (tab === 'story' ? openStory(f) : playSongsFrom(i))}>
-            <View className="thumb">{tab === 'song' ? '🎵' : '📖'}</View>
+            <View className="thumb"><Image className="im" src={tab === 'song' ? iconSong : iconStory} mode="aspectFill" ariaLabel={tab === 'song' ? '歌曲' : '故事'} /></View>
             <View className="gr"><Text className="nm">{f.title || f.content_id}</Text></View>
             <Text className="chip" style={{ color: '#E4572E', borderColor: '#F3C6BC' }} onClick={(e) => { e.stopPropagation(); void remove(f.favorite_id); }}>取消</Text>
           </View>

@@ -1,20 +1,23 @@
 /**
- * TabBarV4 — v4 自定义 SVG 底部 Tab 栏（书/音符/嫩芽/家庭），跨端共享实现
+ * TabBarV4 — v4 自定义底部 Tab 栏（真实插画图标：故事卷轴/歌曲/成长/家长），跨端共享实现
  * weapp：由 src/custom-tab-bar/（Taro 约定目录）包装注入；h5：四个 tab 页直接渲染（内置文字 tabbar 已隐藏）。
- * 高亮读 tabStore；随睡前夜间模式即时换色；点击 switchTab 跳转。
+ * 高亮读 tabStore；图标为彩色插画（96px 压缩产物）：未选中降透明度，选中原彩+放大；点击 switchTab 跳转。
  */
-import { View, Text } from '@tarojs/components';
+import { View, Text, Image } from '@tarojs/components';
 import Taro from '@tarojs/taro';
-import Icon, { IconName } from '@/components/Icon';
 import { useTabStore, TabKey } from '@/stores/tabStore';
 import { useSettingsStore } from '@/stores/settingsStore';
+import tabStory from '@/assets/tab_story.png';
+import tabSong from '@/assets/tab_song.png';
+import tabGrowth from '@/assets/tab_growth.png';
+import tabParent from '@/assets/tab_parent.png';
 import './index.scss';
 
-const TABS: { key: TabKey; icon: IconName; text: string; url: string }[] = [
-  { key: 'story', icon: 'book', text: '故事', url: '/pages/story/index/index' },
-  { key: 'song', icon: 'music', text: '歌曲', url: '/pages/song/index/index' },
-  { key: 'growth', icon: 'sprout', text: '成长', url: '/pages/growth/index/index' },
-  { key: 'parent', icon: 'family', text: '家长', url: '/pages/parent/index/index' },
+const TABS: { key: TabKey; img: string; text: string; url: string }[] = [
+  { key: 'story', img: tabStory, text: '故事', url: '/pages/story/index/index' },
+  { key: 'song', img: tabSong, text: '歌曲', url: '/pages/song/index/index' },
+  { key: 'growth', img: tabGrowth, text: '成长', url: '/pages/growth/index/index' },
+  { key: 'parent', img: tabParent, text: '家长', url: '/pages/parent/index/index' },
 ];
 
 export default function TabBarV4() {
@@ -35,7 +38,7 @@ export default function TabBarV4() {
         return (
           <View key={t.key} className={`tbi ${on ? 'on' : ''}`} onClick={() => go(t)}>
             {on && <View className="ind" />}
-            <Icon name={t.icon} size={26} color={on ? active : inactive} />
+            <Image className={`timg ${on ? 'on' : ''}`} src={t.img} mode="aspectFit" ariaLabel={`${t.text}标签`} />
             <Text className="lbl" style={{ color: on ? active : inactive }}>{t.text}</Text>
           </View>
         );

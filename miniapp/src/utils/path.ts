@@ -47,6 +47,22 @@ export function guessCoverFromPath(storyPath?: string | null): string {
 }
 
 /**
+ * 封面候选链（从深到浅）：章回故事的章节级目录无专属封面，逐级上溯到作品级
+ * （如「…/封神演义/第001回…」404 → 回退「…/封神演义/封神演义.jpg」作品封面）。
+ * 消费方在 Image onError 时取下一个候选，全部失败才显兑底色块。最多上溯 3 级。
+ */
+export function guessCoverChain(storyPath?: string | null, maxLevels = 3): string[] {
+  if (!storyPath) return [];
+  const segs = storyPath.replace(/^\/+|\/+$/g, '').split('/').filter(Boolean);
+  const urls: string[] = [];
+  for (let i = segs.length; i > 0 && urls.length < maxLevels; i -= 1) {
+    const prefix = segs.slice(0, i).join('/');
+    urls.push(buildCoverUrl(`covers/generated/${prefix}/${segs[i - 1]}.jpg`));
+  }
+  return urls;
+}
+
+/**
  * 章节展示标题清洗：部分内容库章节 title 带文件名式前缀（如「三字经001-001_第1段_人之初性本善」）。
  * 仅在命中「编号-编号_(第N段_)?」模式时剥离前缀，正常标题（如三国「第001回 …」）不受影响。
  */

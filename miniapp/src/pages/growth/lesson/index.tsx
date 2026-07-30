@@ -29,10 +29,11 @@ interface ProgList { subject: string; total: number; words: ProgWord[] }
 export default function Lesson() {
   const router = useRouter();
   const subject = decodeURIComponent(router.params.subject || '识字');
+  const initStage = router.params.stage !== undefined ? Number(router.params.stage) : undefined;
   const selectedChildId = useUserStore((s) => s.selectedChildId);
   const membershipStatus = useUserStore((s) => s.membershipStatus);
   const [stages, setStages] = useState<Record<string, number>>({});
-  const [filter, setFilter] = useState<number | 'all'>('all');
+  const [filter, setFilter] = useState<number | 'all'>(initStage !== undefined ? initStage : 'all');
   const [entries, setEntries] = useState<LessonEntry[]>([]);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [loadState, setLoadState] = useState<'loading' | 'ok' | 'error'>('loading');
@@ -121,9 +122,12 @@ export default function Lesson() {
       {shown.map((w) => {
         const meta = stageMeta(w.stage);
         return (
-          <View key={w.id} className="card" style={{ padding: '10px 12px 20px' }}>
+          <View key={w.id} className="card" style={{ padding: '10px 12px 20px', overflow: 'hidden' }}>
             <View className="list-row" style={{ background: 'transparent', boxShadow: 'none', marginBottom: '4px' }}>
-              <View className="thumb" style={{ background: '#E5F6E0', color: '#7FC96A', fontSize: '48px' }}>{w.text}</View>
+              {/* 英语不做大字水印（单词太长溢出），用首字母圆圈代替；识字/拼音保持大字 */}
+              <View className="thumb" style={{ background: '#E5F6E0', color: '#7FC96A', fontSize: subject === '英语' ? '28px' : '48px', overflow: 'hidden', width: '88px', height: '88px', borderRadius: '22px', display: 'flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto' }}>
+                {subject === '英语' ? w.text[0]?.toUpperCase() : w.text}
+              </View>
               <View className="gr">
                 <View style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                   <Text className="nm">{w.text}</Text>

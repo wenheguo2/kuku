@@ -1,18 +1,17 @@
 /**
- * pages/common/login — A-01 登录/微信授权
+ * pages/common/login — A-01 登录/微信授权（全屏插画版）
+ * 主视觉：载入插画全屏铺底 + 底部暖色渐变面板承载按钮/协议（用户定：用载入1插画美化）。
  * 调 userStore.login()（wx.login 取 code → 后端换 token；后端自动建默认档案）。
  * mock 模式：后端 WX_LOGIN_MODE=mock，任意 code 均可登录，便于联调。
  */
 import { useState } from 'react';
-import { View, Text } from '@tarojs/components';
+import { View, Text, Image } from '@tarojs/components';
 import Taro from '@tarojs/taro';
 import { useUserStore } from '@/stores/userStore';
-import { useNight } from '@/hooks/useNight';
-import Icon from '@/components/Icon';
+import loginHero from '@/assets/login_hero.jpg';
 
 export default function Login() {
   const login = useUserStore((s) => s.login);
-  const night = useNight();
   const [agreed, setAgreed] = useState(false);
 
   const doLogin = async () => {
@@ -30,27 +29,34 @@ export default function Login() {
   };
 
   return (
-    <View className={`center ${night}`}>
-      <Icon name="book" size={112} color="#FF8C42" />
-      <Text style={{ fontSize: '44px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>酷酷儿童故事</Text>
-      <Text className="muted" style={{ marginBottom: '48px' }}>听故事 · 唱儿歌 · 学知识</Text>
-      <View className="btn-green" style={{ width: '440px' }} onClick={doLogin}>微信一键登录</View>
-      <View
-        className="btn-ghost"
-        style={{ width: '440px', marginTop: '20px', opacity: 0.55 }}
-        onClick={() => Taro.showToast({ title: '手机号登录尚未开放', icon: 'none' })}
-      >
-        手机号登录（尚未开放）
+    <View className="login-scr">
+      {/* 全屏插画铺底（魔法之门） */}
+      <Image className="login-bg" src={loginHero} mode="aspectFill" ariaLabel="酷酷儿童故事欢迎插画" />
+      {/* 顶部品牌字（压在插画上，白字+暖色描影） */}
+      <View className="login-brand">
+        <Text className="t serif">酷酷儿童故事</Text>
+        <Text className="s">听故事 · 唱儿歌 · 学知识</Text>
       </View>
-      <View style={{ marginTop: '36px', textAlign: 'center' }}>
-        <Text className={`chip ${agreed ? 'on' : ''}`} onClick={() => setAgreed((value) => !value)}>
-          {agreed ? '✓ 已同意' : '○ 请勾选同意'}
-        </Text>
-        <View style={{ marginTop: '16px' }}>
-          <Text className="muted" style={{ fontSize: '22px' }}>我已阅读并同意</Text>
-          <Text style={{ color: 'var(--color-primary)', fontSize: '22px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/agreement/index?type=user' })}>《用户协议》</Text>
-          <Text style={{ color: 'var(--color-primary)', fontSize: '22px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/agreement/index?type=privacy' })}>《隐私政策》</Text>
-          <Text style={{ color: 'var(--color-primary)', fontSize: '22px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/agreement/index?type=children' })}>《儿童信息规则》</Text>
+      {/* 底部渐变面板：按钮 + 协议 */}
+      <View className="login-sheet">
+        <View className="btn-green login-btn" onClick={doLogin}>微信一键登录</View>
+        <View
+          className="btn-ghost login-btn ghost"
+          onClick={() => Taro.showToast({ title: '手机号登录尚未开放', icon: 'none' })}
+        >
+          手机号登录（尚未开放）
+        </View>
+        <View className="login-agree">
+          <Text className={`chip ${agreed ? 'on' : ''}`} onClick={() => setAgreed((value) => !value)}>
+            {agreed ? '✓ 已同意' : '○ 请勾选同意'}
+          </Text>
+          <View style={{ marginTop: '12px' }}>
+            {/* 协议行走类样式：inline px 不被 pxtransform 转 rpx，会比设计稿大一倍 */}
+            <Text className="agree-t dim">我已阅读并同意</Text>
+            <Text className="agree-t link" onClick={() => Taro.navigateTo({ url: '/pages/common/agreement/index?type=user' })}>《用户协议》</Text>
+            <Text className="agree-t link" onClick={() => Taro.navigateTo({ url: '/pages/common/agreement/index?type=privacy' })}>《隐私政策》</Text>
+            <Text className="agree-t link" onClick={() => Taro.navigateTo({ url: '/pages/common/agreement/index?type=children' })}>《儿童信息规则》</Text>
+          </View>
         </View>
       </View>
     </View>

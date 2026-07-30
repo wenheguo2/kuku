@@ -3,11 +3,11 @@
  * 推荐数据来自 _home.json；封面走 buildCoverUrl（真实封面管线，缺图则柔和底色）。
  */
 import { useEffect, useState } from 'react';
-import { View, Text, Image, ScrollView } from '@tarojs/components';
-import Taro, { useDidShow } from '@tarojs/taro';
+import { View, Text, Image, ScrollView, Button } from '@tarojs/components';
+import Taro, { useDidShow, useShareAppMessage } from '@tarojs/taro';
 import { indexLoader } from '@/services/indexLoader';
 import { api } from '@/services/api';
-import { buildCoverUrl, guessCoverFromPath } from '@/utils/path';
+import { buildCoverUrl, guessCoverFromPath, guessCoverChain } from '@/utils/path';
 import { GlobalIndex, HomeIndex, HomeHot, NON_STORY_SUBJECT_IDS } from '@/types/content';
 import { usePlayerStore } from '@/stores/playerStore';
 import { useUserStore } from '@/stores/userStore';
@@ -16,23 +16,36 @@ import { useTabStore } from '@/stores/tabStore';
 import MiniPlayer from '@/components/MiniPlayer';
 import TabBarV4 from '@/components/TabBarV4';
 import avatarImg from '@/assets/avatar.jpg';
+import iconNight from '@/assets/icon_night.png';
+import iconSearch from '@/assets/icon_search.png';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
+import { shareCard } from '@/utils/share';
 import StateView from '@/components/StateView';
 import './index.scss';
 
 interface HistItem { content_type: string; content_id: string; title: string | null }
 const PICK_WINDOW = 4;
+/** 当年第几天：今日推荐/为你推荐每日自动换一拨（用户定：推荐要动态每天不一样） */
+const dayOfYear = () => Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86400000);
 
 export default function StoryHome() {
   const [global, setGlobal] = useState<GlobalIndex | null>(null);
   const [home, setHome] = useState<HomeIndex | null>(null);
   const [pickOffset, setPickOffset] = useState(0);
+  // 今日推荐偏移：初始=按日轮换，“换一个”+1 循环大IP精选池
+  const [heroShift, setHeroShift] = useState(0);
   const [last, setLast] = useState<HistItem | null>(null);
-  // 最近播放封面拉取失败（如章节级 path 无专属封面）时回退色块
-  const [lastCoverOk, setLastCoverOk] = useState(true);
+  // 最近播放封面：章节级 path 无专属封面，逐级上溯候选链（onError 退下一级），全失败才兜底色块
+  const [lastCoverIdx, setLastCoverIdx] = useState(0);
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState(false);
+  // 分享卡：真实插画 5:4 卡面（share_cards 图库）
+  useShareAppMessage(() => ({
+    title: '酷酷儿童故事 — 听故事·唱儿歌·学知识',
+    path: '/pages/story/index/index',
+    imageUrl: shareCard('E01_动物世界'),
+  }));
   // 逐字段独立订阅（对象选择器会因新引用失去意义），仅相关字段变化才重渲染
   const isLogin = useUserStore((s) => s.isLogin);
   const selectedChildId = useUserStore((s) => s.selectedChildId);
@@ -61,9 +74,11 @@ export default function StoryHome() {
 
   useDidShow(() => {
     useTabStore.getState().setTab('story');
+    // ★ weapp: navigateBack 回 tab 页时 custom-tab-bar 延迟重现——微信平台级问题，显式 showTabBar 慢一拍强制触发重渲
+    if (process.env.TARO_ENV === 'weapp') Taro.showTabBar?.({ animation: false }).catch(() => {});
     if (isLogin && selectedChildId) {
       api.get<{ list: HistItem[] }>(`/history?child_id=${selectedChildId}`)
-        .then((d) => setLast((d.list || []).find((h) => h.content_type === 'story') || null))
+        .then((d) => { setLast((d.list || []).find((h) => h.content_type === 'story') || null); setLastCoverIdx(0); })
         .catch((error) => console.warn('继续收听加载失败', error));
     }
   });
@@ -80,16 +95,22 @@ export default function StoryHome() {
 
   const chaptered = (home?.chaptered_works ?? []).slice(0, 8);
   const picks = home?.standalone_picks ?? [];
-  const win = picks.length ? Array.from({ length: Math.min(PICK_WINDOW, picks.length) }, (_, i) => picks[(pickOffset + i) % picks.length]) : [];
+  // ★为你推荐每日不同：窗口起点叠加按日偏移；“换一换”再在当日基础上滑窗
+  const dailyBase = picks.length ? (dayOfYear() * PICK_WINDOW) % picks.length : 0;
+  const win = picks.length ? Array.from({ length: Math.min(PICK_WINDOW, picks.length) }, (_, i) => picks[(dailyBase + pickOffset + i) % picks.length]) : [];
   const shuffle = () => setPickOffset((o) => (o + PICK_WINDOW) % Math.max(1, picks.length));
   const playPick = (path: string, title: string) => {
     usePlayerStore.getState().setQueue(win.map((p) => ({ type: 'story' as const, id: p.path, title: p.title, coverUrl: buildCoverUrl(p.cover) || undefined })), win.findIndex((p) => p.path === path));
     goPlayer(path, title);
   };
-  const hero = (home?.hot ?? [])[0];
+  // ★今日推荐：大IP精选池按日轮换 + 换一个（用户定）
+  const hots = home?.hot ?? [];
+  const hero = hots.length ? hots[(dayOfYear() + heroShift) % hots.length] : undefined;
+  const nextHero = () => setHeroShift((s) => s + 1);
 
   return (
-    <ScrollView scrollY className={`page-v4 has-tab ${night}`}>
+    <View className={night}>
+    <ScrollView scrollY className="page-v4 has-tab" style={{ height: '100vh' }}>
       <StateView
         loading={loading}
         error={loadError}
@@ -105,14 +126,14 @@ export default function StoryHome() {
           <Text className="big serif">今天想听什么故事呀？</Text>
         </View>
         <View className="sbtn" onClick={toggleSleep} style={{ marginLeft: 'auto' }}>
-          <Icon name="moon" size={36} color="#B8A9E8" />
+          <Image className="im" src={iconNight} mode="aspectFill" ariaLabel="夜间模式开关" />
         </View>
         <View className="sbtn" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index?scope=story' })} style={{ marginLeft: '12px' }}>
-          <Icon name="search" size={38} color="#FF8C42" />
+          <Image className="im" src={iconSearch} mode="aspectFill" ariaLabel="搜索" />
         </View>
       </View>
 
-      {/* Hero 今日推荐 */}
+      {/* Hero 今日推荐（按日轮换大IP + 换一个） */}
       {hero && (
         <View>
           <View className="hero" onClick={() => openHot(hero)}>
@@ -123,20 +144,27 @@ export default function StoryHome() {
               <Text className="h-title serif">{hero.title}</Text>
               <Text className="h-meta">{hero.subject}{hero.type === 'chaptered' ? ` · 共${hero.total_chapters}章` : ''}</Text>
             </View>
+            <View className="htag" style={{ position: 'absolute', top: '20px', right: '20px' }} onClick={(e) => { e.stopPropagation(); nextHero(); }}>换一个 ↻</View>
             <View className="hplay"><Icon name="play" size={42} color="#fff" /></View>
           </View>
           <View className="dots-i"><Text className="on" /><Text /><Text /></View>
         </View>
       )}
 
+      {/* ★分享拉新：醍目真按钮（open-type=share 直接拉转发面板，配真插画分享卡） */}
+      <Button className="share-bar" openType="share">📤 把酷酷分享给小伙伴一起听</Button>
+
       {/* 最近播放（点击重新播放，非续播）；历史接口无封面字段，按 path 推导（镜像目录规则），404 回退色块 */}
       {last && (
         <View>
-          <View className="sec-h"><Text className="t">最近播放</Text><Text className="m">全部 ›</Text></View>
+          <View className="sec-h"><Text className="t">最近播放</Text><Text className="m" onClick={() => Taro.navigateTo({ url: '/pages/common/favorites/index?tab=story' })}>我的收藏 ›</Text></View>
           <View className="cont" style={{ margin: '0 4px' }} onClick={() => playSingle(last.content_id, last.title || '最近播放', guessCoverFromPath(last.content_id))}>
-            {lastCoverOk && guessCoverFromPath(last.content_id)
-              ? <Image className="cvr" webp src={guessCoverFromPath(last.content_id)} mode="aspectFill" onError={() => setLastCoverOk(false)} ariaLabel={`${last.title || '最近播放'}封面`} />
-              : <View className="cvr" />}
+            {(() => {
+              const chain = guessCoverChain(last.content_id);
+              return chain.length > lastCoverIdx
+                ? <Image className="cvr" webp src={chain[lastCoverIdx]} mode="aspectFill" onError={() => setLastCoverIdx((i) => i + 1)} ariaLabel={`${last.title || '最近播放'}封面`} />
+                : <View className="cvr" />;
+            })()}
             <View className="gr">
               <Text className="nm">{last.title || last.content_id}</Text>
               <Text className="ds">重新播放上次的故事</Text>
@@ -191,8 +219,10 @@ export default function StoryHome() {
         ))}
       </View>
       </StateView>
-      <MiniPlayer />
-      {process.env.TARO_ENV === 'h5' && <TabBarV4 />}
     </ScrollView>
+    {/* ★迷你栏/TabBar 在 ScrollView 外：weapp 下 ScrollView 内 fixed 子元素被裁剪不显示（用户实测退回首页无播放栏根因） */}
+    <MiniPlayer />
+    {process.env.TARO_ENV === 'h5' && <TabBarV4 />}
+    </View>
   );
 }

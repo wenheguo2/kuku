@@ -45,7 +45,8 @@
 - **判分**：服务端权威。出题存正确答案于 TestStore，提交时判分，题目 payload 无 correct。
 - **筛选**：`GET /progress/:subject?stage=` 支持按亲密度级别(current_stage 0/1/2/3)筛选，供课表按级别过滤。
 - **分页**：`:subject` 列表 `page_size` 硬上限 100（超出截断），防超大 take 拉大查询(DoS)
-- **TODO**：无独立词库/题库表，选项为合成占位，真实词库到位后替换。综合挑战已改为服务端保存答案，客户端只交 `question_id + selected_option`；TestStore 使用 Redis，开发态不可用时回退内存
+- **题库**：★真实题库已接入(2026-07-29，real-quiz.ts)—读 `{STATIC_ROOT}/generated_stories/学科启蒙/{F1识字|F2英语}/{课}/习题/编号XX/verify.json`(prompt/options/answer 同文件，仅服务端读)，普通+综合挑战真题优先，无题/坏文件回退 quiz.util 合成题；真题(question_id 以 real_ 开头)通过标准=答对≥75%；拼音无习题目录自然走回退。QuestionType 扩 6 真题型(sound_to_char/word_to_meaning 等)。
+- **TODO**：综合挑战逐字取1道真题为串行磁盘读，量大可加缓存；TestStore 使用 Redis，开发态不可用时回退内存
 
 ## achievements（陪伴养成：收集册+贴纸）
 - **文件**：achievements.service（读 learning_progress 统计 + 惰性发放里程碑贴纸）、achievements.controller、achievements.module
@@ -98,3 +99,4 @@
 | 2026-07-24 | 第六轮走查整改：progress.service 头注释“重试/回落”改为“只升不降·无限重试”(R1-1/R1-2)、PUT /user/profile 空 body 短路避免 500(R2-2)、addMonths 月末溢出钳到月末(R2-4)、quiz.util 死文档引用改指 README(R1-3)；单测 16/16、type-check 通过 | 落实 2026-07-24 报告 P2/P3 安全闭环项 |
 | 2026-07-24 | 安全/合规整改：submitStudy 对 study2/3 加服务端会员门控(注入 MembershipAccessService，非会员 403，N-M1/S2)、comprehensiveManualStart 校验所选字 stage>=2 防 1→3 跳级(S4)、登录同意留痕只认“未撤回”记录+撤回后重登复活/新建(N-M2 合规)；单测 16/16、type-check 通过 | 落实 2026-07-24 报告 P1 付费绕过/合规缺口 |
 | 2026-07-24 | 并发/健壮性整改：TestStore 新增原子 take(Lua GET+DEL) 供 submitQuiz/submitComprehensive 领取即失效防双提交重复计分(M3)、成就发放改 orIgnore 防并发撞唯一键 500(M4)、getOrCreate/收藏/历史 写入改 upsert-or-重查除 TOCTOU(L4)、删孩子事务内加锁计数防删到 0(N-L1)、会员续期基准改自然日口径不丢当天时长(L1)、listBySubject 补 subject 白名单(I1/I2)、SubmitQuizDto 补 @ArrayMaxSize(4)(I5)；单测 16/16、type-check 通过 | 落实 2026-07-24 报告 P2/P3 并发与健壮性项 |
+| 2026-07-29 | \u2605\u771f\u5b9e\u9898\u5e93\u63a5\u5165\uff1a\u65b0 real-quiz.ts \u8bfb production \u4e60\u9898 verify.json(prompt/options/answer)\uff0c\u666e\u901a+\u7efc\u5408\u6311\u6218(auto/manual)\u771f\u9898\u4f18\u5148\u65e0\u9898\u56de\u9000\u5408\u6210\uff1b\u771f\u9898\u901a\u8fc7\u6807\u51c6=\u7b54\u5bf9\u226575%\uff1bQuestionType \u6269 6 \u771f\u9898\u578b\uff1bprogress.service \u6ce8\u5165 ConfigService \u53d6 STATIC_ROOT\uff1b\u5355\u6d4b\u8bc6\u5b57/\u82f1\u8bed\u54044\u771f\u9898\u3001\u62fc\u97f3\u7a7a\u56de\u9000\u2713\uff1btype-check \u901a\u8fc7 | \u7528\u6237\uff1a\u53bb\u6311\u6218\u8981\u771f\u4e60\u9898 |

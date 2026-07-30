@@ -17,6 +17,9 @@
   align-items: center;
   justify-content: space-around;
   z-index: 200;
+  /* ★强制独立合成层：从播放器 navigateBack 回 tab 页时，fixed 元素偶发下沉半截、
+     需滚动才重绘（用户实测）；translateZ(0) 规避该重绘时序问题 */
+  transform: translateZ(0);
 }
 .tabbar-v4.night {
   background: rgba(23, 29, 51, 0.97);
@@ -36,6 +39,19 @@
   font-size: 24px;
   font-weight: 800;
   line-height: 1.1;
+}
+/* 插画图标：未选中灰化降透明，选中原彩微放大 */
+.tbi .timg {
+  width: 30PX;
+  height: 30PX;
+  opacity: 0.45;
+  filter: grayscale(0.6);
+  transition: opacity 150ms ease, filter 150ms ease, transform 150ms ease;
+}
+.tbi .timg.on {
+  opacity: 1;
+  filter: none;
+  transform: scale(1.12);
 }
 .tbi.on {
   transform: scale(1.08);

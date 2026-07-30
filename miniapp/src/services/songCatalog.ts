@@ -47,17 +47,22 @@ const MOCK_SONGS: SongEntry[] = [
   { path: 'mock/数鸭子', title: '数鸭子', displayTitle: '数鸭子', coverUrl: '', audioUrl: '', lrcUrl: '' },
 ];
 
-/** 歌曲学科下 43 个分类（含封面/数量） */
+/** 分类展示优先级（用户定：年龄向/启蒙向歌单排前），其余保持索引顺序 */
+const CATEGORY_PRIORITY = ['幼儿', '小孩儿', '大孩儿', '蒙学歌曲', '诗词歌曲'];
+const catRank = (name: string) => { const i = CATEGORY_PRIORITY.indexOf(name); return i === -1 ? CATEGORY_PRIORITY.length : i; };
+
+/** 歌曲学科下 43 个分类（含封面/数量），优先级分类排前 */
 export async function loadSongCategories(): Promise<SongCategory[]> {
   if (CONFIG.USE_MOCK) return MOCK_CATEGORIES;
   const idx = (await indexLoader.loadIndexByPath(SONG_SUBJECT)) as SubjectIndex;
-  return (idx.categories ?? []).map((c) => ({
+  const list = (idx.categories ?? []).map((c) => ({
     id: c.id || c.name,
     name: c.name,
     path: `${SONG_SUBJECT}/${c.id || c.name}`,
     coverUrl: buildCoverUrl(c.cover?.cover_image_url),
     count: c.entry_count,
   }));
+  return list.sort((a, b) => catRank(a.name) - catRank(b.name));
 }
 
 /** 任意歌曲目录层级：返回子分类（语言子类，分类层索引用 sub_categories）或歌曲清单（二者其一非空） */

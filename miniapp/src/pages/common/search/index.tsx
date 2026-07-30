@@ -1,16 +1,20 @@
 /**
  * pages/common/search — C-05 搜索（★ 按来源 Tab 隔离检索：story/song/growth 各搜各的，互不串）
- *  - story ：_global 学科 + _home 章回/单篇/热点 → 学科页 / 作品总入口 / 播放器
- *  - song  ：songCatalog(mock 歌曲目录) 标题 → 歌曲播放器
- *  - growth：识字/英语/拼音 三学科 → 课程页（真实词库到位后可扩为搜字/词）
- * scope 由各 Tab 的搜索入口透传（缺省 story）；内容为静态索引/占位，故不接后端 /search。
+ * ★ 两级命中（2026-07-29 用户定：既能大类又能单条目）：
+ *  - story ：学科/章回大类 + 单故事条目（_search_story.json 万级懒拉）→ 学科页/作品页/播放器
+ *  - song  ：43 分类 + 单曲条目（_search_song.json）→ 歌单列表/歌曲播放器（单曲直接入队播）
+ *  - growth：三学科入口 + 字/词条目（lessonCatalog 全量词表，输入"的"即可命中）→ 教学播放器
  */
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { View, Text, Input } from '@tarojs/components';
 import Taro, { useRouter } from '@tarojs/taro';
 import { indexLoader } from '@/services/indexLoader';
 import { GlobalIndex, HomeIndex, NON_STORY_SUBJECT_IDS } from '@/types/content';
 import { loadSongCategories, SongCategory } from '@/services/songCatalog';
+import { loadLessonEntries, LessonEntry } from '@/services/lessonCatalog';
+import { searchEntries, SearchItem } from '@/services/searchIndex';
+import { usePlayerStore } from '@/stores/playerStore';
+import { buildAssetUrl, buildCoverUrl, guessCoverFromPath } from '@/utils/path';
 import StateView from '@/components/StateView';
 import { useNight } from '@/hooks/useNight';
 
@@ -19,16 +23,22 @@ interface Hit { key: string; badge: string; thumb: string; title: string; sub: s
 
 const GROWTH_SUBJECTS = ['识字', '英语', '拼音'];
 const HOT_WORDS: Record<Scope, string[]> = {
-  story: ['三国', '勇敢', '成语', '西游', '恐龙'],
-  song: ['摇篮曲', '动物世界', '神话故事', '诗词歌曲'],
-  growth: ['识字', '英语', '拼音'],
+  story: ['三国', '哪吒', '成语', '西游', '恐龙'],
+  song: ['摇篮曲', '刘备', '恐龙', '诗词歌曲'],
+  growth: ['的', 'apple', '识字', '拼音'],
 };
 const PLACEHOLDER: Record<Scope, string> = {
-  story: '搜索故事 / 学科…',
-  song: '搜索儿歌 / 歌曲…',
-  growth: '搜索识字 / 英语 / 拼音…',
+  story: '搜故事名 / 学科…',
+  song: '搜歌名 / 歌单…',
+  growth: '搜字 / 单词 / 拼音…',
 };
 const SCOPE_LABEL: Record<Scope, string> = { story: '故事', song: '歌曲', growth: '成长' };
+
+/** 歌曲单曲封面按路径规则（与音乐厅一致） */
+const songCover = (p: string) => {
+  const name = p.split('/').filter(Boolean).pop();
+  return name ? buildCoverUrl(`covers/generated/${p}/${name}_1.jpg`) : '';
+};
 
 export default function Search() {
   const router = useRouter();
@@ -38,18 +48,28 @@ export default function Search() {
   const [global, setGlobal] = useState<GlobalIndex | null>(null);
   const [home, setHome] = useState<HomeIndex | null>(null);
   const [songCats, setSongCats] = useState<SongCategory[]>([]);
+  const [lessons, setLessons] = useState<LessonEntry[]>([]);
+  const [entryHits, setEntryHits] = useState<SearchItem[]>([]);
+  const [searching, setSearching] = useState(false);
   const [kw, setKw] = useState('');
   const [loading, setLoading] = useState(scope === 'story');
   const [error, setError] = useState(false);
   const night = useNight();
+  const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const seqRef = useRef(0);
 
   const load = () => {
     if (scope === 'song') {
-      // 歌曲：搜 43 个真实分类名（全库歌名万级不全拉，命中分类后进列表选歌）
       loadSongCategories().then(setSongCats).catch((err) => console.warn('加载歌曲分类失败', err));
       return;
     }
-    if (scope !== 'story') return; // growth 用固定学科，无需拉索引
+    if (scope === 'growth') {
+      // 三学科全量词表（识字3499/英语3910/拼音100，索引有缓存），支持搜单字/单词
+      Promise.all(GROWTH_SUBJECTS.map((s) => loadLessonEntries(s).then((l) => l.map((e) => ({ ...e, subject: s })))))
+        .then((ls) => setLessons((ls.flat() as (LessonEntry & { subject: string })[])))
+        .catch((err) => console.warn('加载词表失败', err));
+      return;
+    }
     setLoading(true);
     setError(false);
     Promise.all([indexLoader.loadGlobal(), indexLoader.loadHome()])
@@ -60,31 +80,65 @@ export default function Search() {
   useEffect(load, []);
 
   const q = kw.trim();
+
+  // ★条目级检索（story/song 万级索引懒拉）：300ms 防抖 + 序号防竞态
+  useEffect(() => {
+    if (debounceRef.current) clearTimeout(debounceRef.current);
+    if (!q || scope === 'growth') { setEntryHits([]); setSearching(false); return; }
+    setSearching(true);
+    const mySeq = ++seqRef.current;
+    debounceRef.current = setTimeout(() => {
+      searchEntries(scope, q, 30)
+        .then((list) => { if (mySeq === seqRef.current) setEntryHits(list); })
+        .catch((err) => console.warn('条目检索失败', err))
+        .finally(() => { if (mySeq === seqRef.current) setSearching(false); });
+    }, 300);
+  }, [q, scope]);
+
+  /** 播单曲：设单曲队列（音频/歌词/封面按路径规则）进歌曲播放器 */
+  const playSongEntry = (it: SearchItem) => {
+    usePlayerStore.getState().setQueue([{
+      type: 'song' as const, id: it.p, title: it.t,
+      audioUrl: buildAssetUrl(`generated_stories/${it.p}.mp3`),
+      lrcUrl: buildAssetUrl(`generated_stories/${it.p}.txt`),
+      coverUrl: songCover(it.p) || undefined,
+    }], 0);
+    Taro.navigateTo({ url: `/pages/song/player/index?id=${encodeURIComponent(it.p)}&title=${encodeURIComponent(it.t)}` });
+  };
+  /** 播单故事：单篇队列（播放器会自动扩展为所在目录整列表续播） */
+  const playStoryEntry = (it: SearchItem) => {
+    usePlayerStore.getState().setQueue([{ type: 'story' as const, id: it.p, title: it.t, coverUrl: guessCoverFromPath(it.p) || undefined }], 0);
+    Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(it.p)}&title=${encodeURIComponent(it.t)}` });
+  };
+
   const hits: Hit[] = [];
   if (q && scope === 'story') {
     (global?.subjects ?? [])
       .filter((s) => !NON_STORY_SUBJECT_IDS.includes(s.subject_id) && s.subject_name.includes(q))
       .forEach((s) => hits.push({ key: `sub-${s.subject_id}`, badge: '学科', thumb: '📚', title: s.subject_name, sub: `${s.total_entries} 个故事`, onClick: () => Taro.navigateTo({ url: `/pages/story/subject/index?subject=${encodeURIComponent(s.subject_id)}` }) }));
-    (home?.chaptered_works ?? [])
-      .filter((w) => w.title.includes(q))
-      .forEach((w) => hits.push({ key: `work-${w.path}`, badge: '章回', thumb: '📖', title: w.title, sub: `${w.subject} · 共 ${w.total_chapters} 章`, onClick: () => Taro.navigateTo({ url: `/pages/story/work/index?path=${encodeURIComponent(w.path)}&title=${encodeURIComponent(w.title)}` }) }));
-    [...(home?.standalone_picks ?? []), ...(home?.hot ?? []).filter((x) => x.type !== 'chaptered')]
-      .filter((p) => p.title.includes(q))
-      .forEach((p) => hits.push({ key: `story-${p.path}`, badge: '单篇', thumb: '🎧', title: p.title, sub: p.subject, onClick: () => Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(p.path)}&title=${encodeURIComponent(p.title)}` }) }));
+    entryHits.forEach((it) => (it.c
+      ? hits.push({ key: `work-${it.p}`, badge: '章回', thumb: '📖', title: it.t, sub: it.s, onClick: () => Taro.navigateTo({ url: `/pages/story/work/index?path=${encodeURIComponent(it.p)}&title=${encodeURIComponent(it.t)}` }) })
+      : hits.push({ key: `story-${it.p}`, badge: '故事', thumb: '🎧', title: it.t, sub: it.s, onClick: () => playStoryEntry(it) })));
   } else if (q && scope === 'song') {
     songCats
       .filter((c) => c.name.includes(q))
       .forEach((c) => hits.push({ key: `songcat-${c.path}`, badge: '歌单', thumb: '🎵', title: c.name, sub: c.count ? `${c.count} 首` : '进入歌单', onClick: () => Taro.navigateTo({ url: `/pages/song/list/index?path=${encodeURIComponent(c.path)}&title=${encodeURIComponent(c.name)}` }) }));
+    entryHits.forEach((it) => hits.push({ key: `song-${it.p}`, badge: '歌曲', thumb: '🎤', title: it.t, sub: it.s, onClick: () => playSongEntry(it) }));
   } else if (q && scope === 'growth') {
     GROWTH_SUBJECTS
       .filter((s) => s.includes(q))
       .forEach((s) => hits.push({ key: `growth-${s}`, badge: '学科', thumb: '🌱', title: s, sub: '进入课程', onClick: () => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent(s)}` }) }));
+    // ★字/词条目命中（text 精确/包含 或 课名包含）：直达教学播放器
+    (lessons as (LessonEntry & { subject: string })[])
+      .filter((w) => w.text.toLowerCase().includes(q.toLowerCase()) || w.id.includes(q))
+      .slice(0, 30)
+      .forEach((w) => hits.push({ key: `word-${w.subject}-${w.id}`, badge: w.subject, thumb: '🔤', title: w.text, sub: w.id, onClick: () => Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent(w.subject)}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=study1` }) }));
   }
-  // 同名去重
+  // 同 key 去重（标题允许重复：不同学科可能有同名条目）
   const seen = new Set<string>();
   const uniq = hits.filter((h) => {
-    if (seen.has(h.title)) return false;
-    seen.add(h.title);
+    if (seen.has(h.key)) return false;
+    seen.add(h.key);
     return true;
   });
 
@@ -106,7 +160,7 @@ export default function Search() {
       )}
 
       {q && (
-        <StateView loading={loading} error={error} empty={uniq.length === 0} onRetry={load} emptyText={`没有找到「${q}」相关内容`}>
+        <StateView loading={loading || (searching && uniq.length === 0)} error={error} empty={uniq.length === 0} onRetry={load} emptyText={`没有找到「${q}」相关内容`}>
           {uniq.map((h) => (
             <View key={h.key} className="list-row" onClick={h.onClick}>
               <View className="thumb">{h.thumb}</View>

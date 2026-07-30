@@ -29,6 +29,9 @@ $shadow-card: 0 8px 28px rgba(232, 201, 160, 0.35);
 $shadow-btn: 0 8px 20px rgba(255, 140, 66, 0.35);
 
 // ---- CSS 变量（运行期，支持主题切换） ----
+// ★ WXSS 不支持 :root 选择器（weapp 实测：仅 :root 定义时 var() 全部失效回黑），
+//   必须同时挂到 page（weapp 根节点）与 :root（h5）。
+page,
 :root {
   --color-primary: #{$color-primary};
   --color-primary-dark: #{$color-primary-dark};

@@ -3,12 +3,15 @@
  * 睡前模式=全局夜间（settingsStore.isNight，所有页面生效）：定时触发(20:00~6:00) 或 手动开关。
  * 主题落 settingsStore + 本地缓存；登录时同步 PUT /parent/settings。
  */
-import { View, Text, ScrollView } from '@tarojs/components';
+import { View, Text, ScrollView, Image } from '@tarojs/components';
 import { useSettingsStore, ThemeMode, SleepMode } from '@/stores/settingsStore';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
 import { useNight } from '@/hooks/useNight';
 import Icon from '@/components/Icon';
+import iconDay from '@/assets/icon_day.png';
+import iconNight from '@/assets/icon_night.png';
+import iconLoop from '@/assets/icon_loop.png';
 
 const THEMES: { key: ThemeMode; label: string }[] = [
   { key: 'light', label: '浅色' },
@@ -60,11 +63,11 @@ export default function Settings() {
     <ScrollView scrollY className={`page-container ${night}`}>
       <View className="sec-h"><Text className="t">🎨 外观</Text></View>
       <View className="frow">
-        <View className="fi" style={{ background: '#FFF3E7' }}><Icon name="moon" size={32} color="#FF8C42" /></View>主题模式
+        <View className="fi"><Image className="im" src={iconDay} mode="aspectFill" ariaLabel="主题模式图标" /></View>主题模式
         <View style={{ marginLeft: 'auto' }}><Seg items={THEMES} active={theme} onPick={chooseTheme} /></View>
       </View>
       <View className="frow">
-        <View className="fi" style={{ background: '#EDE7FA' }}><Icon name="star" size={32} color="#B8A9E8" /></View>睡前模式
+        <View className="fi"><Image className="im" src={iconNight} mode="aspectFill" ariaLabel="睡前模式图标" /></View>睡前模式
         <View style={{ marginLeft: 'auto' }}><Seg items={SLEEPS} active={sleepMode} onPick={setSleepMode} /></View>
       </View>
       {sleepMode === 'manual' && (
@@ -77,7 +80,7 @@ export default function Settings() {
       )}
 
       <View className="sec-h"><Text className="t">⏰ 播放</Text></View>
-      <View className="frow"><View className="fi" style={{ background: '#E0F5F3' }}><Icon name="timer" size={32} color="#3FC5BC" /></View>睡眠定时</View>
+      <View className="frow"><View className="fi"><Image className="im" src={iconLoop} mode="aspectFill" ariaLabel="睡眠定时图标" /></View>睡眠定时</View>
       <View style={{ padding: '0 4px 8px' }}>
         {TIMERS.map((m) => (
           <Text key={m} className={`chip ${timerMinutes === m ? 'on' : ''}`} onClick={() => chooseTimer(m)}>

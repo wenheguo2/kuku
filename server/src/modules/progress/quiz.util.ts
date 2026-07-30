@@ -12,12 +12,15 @@
  *  - 英语：recognition 对 且 pinyin 对 且 word_formation 至少 1 道对
  *  - 拼音：无习题（不走普通挑战判分，靠学习完成晋级）
  *
- * ⚠️ 题库来源：当前无独立词库/题库表，选项为服务端合成（占位干扰项）。
- *    真实词库接入后替换 buildOptions() 即可，判分管线与接口契约不变（记为 TODO，见 开发文档/server/README.md progress 模块）。
+ * ⚠️ 题库来源：★真实题库已接入（real-quiz.ts 读 production 习题 verify.json，2026-07-29），本文件合成题仅作无题/坏文件时的回退。
  */
 import { Subject } from '../../entities/learning-progress.entity';
 
-export type QuestionType = 'recognition' | 'pinyin' | 'word_formation';
+export type QuestionType =
+  | 'recognition' | 'pinyin' | 'word_formation'
+  // ★真实题库题型（production 习题 verify.json，2026-07-29 接入）
+  | 'sound_to_char' | 'char_to_sound' | 'char_to_word'
+  | 'word_to_meaning' | 'word_to_sound' | 'sentence_fill';
 
 /** 下发给前端的题目（★ 不含 correct，正确答案仅存服务端） */
 export interface PublicQuestion {
@@ -100,6 +103,11 @@ export function judgeAnswers(
 
 /** 按学科判定普通挑战是否通过 */
 export function isNormalPassed(subject: Subject, judged: JudgedItem[]): boolean {
+  // ★真实题库（question_id 以 real_ 开头）：统一标准—答对 ≥ 75%（4 题对 3）
+  if (judged.some((j) => j.question_id.startsWith('real_'))) {
+    const correct = judged.filter((j) => j.is_correct).length;
+    return correct >= Math.ceil(judged.length * 0.75);
+  }
   const recognition = judged.find((j) => j.type === 'recognition')?.is_correct ?? false;
   const pinyin = judged.find((j) => j.type === 'pinyin')?.is_correct ?? false;
   const wordCorrect = judged.filter((j) => j.type === 'word_formation' && j.is_correct).length;

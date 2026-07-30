@@ -162,10 +162,38 @@ page {
 .chip { display: inline-block; background: var(--color-card); border: 1px solid var(--color-border); border-radius: 30px; padding: 12px 26px; font-size: 26px; margin: 0 12px 14px 0; color: var(--color-text); }
 .chip.on { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
 
+/* ★分享拉新（open-type=share 真按钮）：首页醍目横条 + 播放器/家长中心复用 */
+button.share-bar { display: flex; align-items: center; justify-content: center; gap: 10px; width: auto; background: linear-gradient(135deg, #FFB067, #FF8C42); color: #fff; border: none; border-radius: 26px; padding: 18px 0; margin: 2px 4px 18px; font-size: 28px; font-weight: 800; line-height: 1.4; box-shadow: 0 6px 16px rgba(255, 140, 66, 0.35); }
+button.share-bar::after { border: none; }
+/* 播放器功能区的分享：去掉 button 默认盒，长得和旁边 .fn 一样 */
+button.share-fn { background: transparent; border: none; padding: 0; margin: 0; line-height: inherit; font-size: inherit; color: inherit; display: flex; flex-direction: column; align-items: center; gap: 6px; }
+button.share-fn::after { border: none; }
+/* 歌曲播放器 chips 行里的分享（与 .chip 同款视觉的 button） */
+button.share-chip { display: inline-block; background: var(--color-card); border: 1px solid var(--color-border); border-radius: 30px; padding: 12px 26px; font-size: 26px; margin: 0 12px 14px 0; color: var(--color-text); line-height: 1.4; }
+button.share-chip::after { border: none; }
+
 /* 居中状态（登录/空/结果页） */
 .center { display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; text-align: center; padding: 0 60px; background: var(--color-bg); }
 .emoji-xl { font-size: 140px; margin-bottom: 24px; }
 .muted { color: var(--color-text-secondary); font-size: 28px; line-height: 1.7; }
+/* 登录页协议行：走类样式保证 px→rpx 转换 + 主题变量链接色 */
+.agree-t { font-size: 22px; }
+.agree-t.link { color: var(--color-primary); }
+
+/* ===== 登录页（全屏插画版）===== */
+.login-scr { position: relative; height: 100vh; overflow: hidden; background: #171D33; }
+.login-bg { position: absolute; left: 0; top: 0; right: 0; bottom: 0; width: 100%; height: 100%; }
+.login-brand { position: absolute; top: 56px; left: 0; right: 0; text-align: center; z-index: 2; }
+.login-brand .t { display: block; font-size: 56px; font-weight: 800; color: #fff; text-shadow: 0 4px 18px rgba(45, 30, 10, 0.75); letter-spacing: 4px; }
+.login-brand .s { display: block; margin-top: 10px; font-size: 26px; color: rgba(255, 255, 255, 0.92); text-shadow: 0 2px 10px rgba(45, 30, 10, 0.7); }
+.login-sheet { position: absolute; left: 0; right: 0; bottom: 0; z-index: 2; padding: 120px 48px calc(48px + env(safe-area-inset-bottom)); background: linear-gradient(180deg, rgba(23, 20, 38, 0) 0%, rgba(23, 20, 38, 0.72) 34%, rgba(23, 20, 38, 0.92) 100%); text-align: center; }
+.login-btn { width: 560px; margin: 0 auto; box-shadow: 0 10px 26px rgba(0, 0, 0, 0.35); }
+.login-btn.ghost { margin-top: 20px; background: rgba(255, 255, 255, 0.14); border-color: rgba(255, 255, 255, 0.5); color: rgba(255, 255, 255, 0.85); }
+.login-agree { margin-top: 28px; }
+.login-agree .chip { background: rgba(255, 255, 255, 0.16); border-color: rgba(255, 255, 255, 0.35); color: #fff; }
+.login-agree .chip.on { background: var(--color-primary, #FF8C42); border-color: var(--color-primary, #FF8C42); }
+.login-agree .agree-t.dim { color: rgba(255, 255, 255, 0.75); }
+.login-agree .agree-t.link { color: #FFC98F; }
 
 /* 播放器 */
 .cover-lg {
@@ -212,7 +240,7 @@ page {
 .htag { display: inline-block; font-size: 20px; font-weight: 800; background: rgba(255,255,255,.26); padding: 5px 18px; border-radius: 16px; border: 1px solid rgba(255,255,255,.35); }
 .hero .h-title { font-size: 42px; font-weight: 800; margin: 14px 0 5px; display: block; text-shadow: 0 2px 10px rgba(0,0,0,.35); }
 .hero .h-meta { font-size: 22px; opacity: .94; }
-.hplay { position: absolute; right: 26px; bottom: 26px; width: 92px; height: 92px; border-radius: 50%; background: radial-gradient(circle at 35% 30%, #FFB067, var(--color-primary) 70%, var(--color-primary-dark)); display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 20px rgba(255,140,66,.55); }
+.hplay { position: absolute; right: 26px; bottom: 26px; width: 92px; height: 92px; border-radius: 50%; background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42 70%, #F2751F); display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 20px rgba(255,140,66,.55); }
 .dots-i { text-align: center; margin-top: 18px; }
 .dots-i i { display: inline-block; width: 12px; height: 12px; border-radius: 6px; background: #e0d0b8; margin: 0 6px; }
 .dots-i i.on { width: 32px; background: var(--color-primary); }
@@ -256,7 +284,7 @@ page {
 
 /* 行内真封面 + 播放钮 + 等级徽章（在 .list-row 内） */
 .cvr { width: 88px; height: 88px; border-radius: 22px; flex: 0 0 auto; background: var(--color-primary-soft); }
-.cp { width: 88px; height: 88px; border-radius: 50%; flex: 0 0 auto; background: radial-gradient(circle at 35% 30%, #FFB067, var(--color-primary)); display: flex; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(255,140,66,.5); }
+.cp { width: 88px; height: 88px; border-radius: 50%; flex: 0 0 auto; background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42); display: flex; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(255,140,66,.5); }
 .lvb { display: inline-block; background: var(--color-border); color: var(--color-text); font-size: 20px; font-weight: 800; padding: 2px 12px; border-radius: 8px; margin-right: 8px; }
 
 /* 玻璃迷你播放栏（半透实底近似） */
@@ -264,7 +292,7 @@ page {
 .mini-v4 .cvr { width: 80px; height: 80px; border-radius: 20px; }
 .mini-v4 .t { font-size: 24px; font-weight: 800; display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .mini-v4 .s { font-size: 19px; color: var(--color-text-secondary); margin-top: 3px; }
-.mini-v4 .mp { width: 72px; height: 72px; border-radius: 50%; flex: 0 0 auto; background: radial-gradient(circle at 35% 30%, #FFB067, var(--color-primary)); display: flex; align-items: center; justify-content: center; }
+.mini-v4 .mp { width: 72px; height: 72px; border-radius: 50%; flex: 0 0 auto; background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42); display: flex; align-items: center; justify-content: center; }
 
 /* ===== 故事灯播放器 PL-01（夜间）===== */
 .player-lamp { position: relative; min-height: 100vh; overflow: hidden; background: var(--night-bg); }
@@ -350,7 +378,9 @@ page {
 /* ===== 家长磨砂卡 C-01 ===== */
 .kid { background: rgba(255,255,255,.72); border: 1px solid rgba(255,255,255,.9); border-radius: 30px; padding: 24px; display: flex; align-items: center; gap: 20px; box-shadow: 0 10px 24px rgba(190,160,120,.25); }
 .frow { display: flex; align-items: center; gap: 20px; background: var(--color-card); border-radius: 26px; padding: 22px 24px; margin-bottom: 16px; box-shadow: 0 4px 12px rgba(232,201,160,.24); font-size: 27px; font-weight: 700; }
-.frow .fi { width: 64px; height: 64px; border-radius: 18px; display: flex; align-items: center; justify-content: center; flex: 0 0 auto; }
+.frow .fi { width: 64px; height: 64px; border-radius: 18px; display: flex; align-items: center; justify-content: center; flex: 0 0 auto; overflow: hidden; }
+/* 插画图标通用填充（.fi/.sbtn/.thumb 内 Image） */
+.fi .im, .sbtn .im, .thumb .im { width: 100%; height: 100%; border-radius: inherit; }
 .frow .rt { margin-left: auto; font-size: 21px; color: var(--color-text-secondary); font-weight: 600; }
 
 /* ===== 鎏金书匣 A-03 ===== */
@@ -368,7 +398,8 @@ page {
 .opt.sel { border-color: var(--stage-3); background: #F2FAEE; }
 .opt.no { border-color: #F0B4B4; background: #FDF1F1; }
 .seg { display: flex; background: #F5EBDB; border-radius: 22px; padding: 5px; gap: 5px; }
-.seg .s { flex: 1; text-align: center; font-size: 22px; font-weight: 700; padding: 12px 0; border-radius: 18px; color: var(--color-text-secondary); }
+/* ★nowrap + 水平内边距：防“定时触发”等长标签被 flex 挤压折行（设置页实测） */
+.seg .s { flex: 1 0 auto; text-align: center; font-size: 22px; font-weight: 700; padding: 12px 20px; border-radius: 18px; color: var(--color-text-secondary); white-space: nowrap; }
 .seg .s.on { background: #fff; color: var(--color-primary); box-shadow: 0 2px 6px rgba(232,201,160,.5); }
 .escore { width: 210px; height: 210px; border-radius: 50%; margin: 0 auto; background: radial-gradient(circle at 35% 30%, #B9E89B, var(--stage-3) 70%, #57B83E); display: flex; flex-direction: column; align-items: center; justify-content: center; color: #fff; box-shadow: 0 14px 30px rgba(126,217,87,.45); }
 
@@ -379,13 +410,15 @@ page {
 .etop { flex: 1; display: flex; min-height: 0; }
 .esceneL { width: 65%; position: relative; overflow: hidden; flex: 0 0 auto; }
 .esceneL .cover { width: 100%; height: 100%; }
-/* 学习挡切换 chips（悬浮场景左上；英语多一组难度）：选中橙底白字，未选磨砂白 */
-.elvl { position: absolute; top: 6PX; left: calc(env(safe-area-inset-left) + 8PX); z-index: 3; display: flex; gap: 4PX; flex-wrap: wrap; max-width: 76%; }
+/* ★教学页退出键：左上角半透圆钮（用户定：横屏课堂必须能退回）；safe-area 避刘海 */
+.eback { position: absolute; top: 6PX; left: calc(env(safe-area-inset-left) + 8PX); z-index: 4; width: 32PX; height: 32PX; border-radius: 50%; background: rgba(0,0,0,.35); border: 1PX solid rgba(255,255,255,.35); display: flex; align-items: center; justify-content: center; }
+/* 学习挡切换 chips（悬浮场景左上，退出键右侧；英语多一组难度）：选中橙底白字，未选磨砂白 */
+.elvl { position: absolute; top: 6PX; left: calc(env(safe-area-inset-left) + 48PX); z-index: 3; display: flex; gap: 4PX; flex-wrap: wrap; max-width: 72%; }
 .elvl .c { font-size: 12PX; font-weight: 800; padding: 4PX 10PX; border-radius: 11PX; background: rgba(255,255,255,.82); color: #5A5245; box-shadow: 0 1PX 4PX rgba(0,0,0,.18); }
 .elvl .c.on { background: var(--color-primary); color: #fff; }
-/* 逐句群像立绘：角色位次全程固定（等宽槽位，不随说话者换位）；说话者仅提亮+微放大，其余压暗 */
+/* 逐句群像立绘：角色位次全程固定；★宽度按人数 flex 均分（用户定：自适应分配占位，修 4 人溢出被裁）；说话者仅提亮+微放大 */
 .espks { position: absolute; left: 0; right: 0; bottom: 0; height: 62%; display: flex; align-items: flex-end; justify-content: center; gap: 2PX; padding: 0 6PX; }
-.espks .spk { height: 92%; width: 32%; flex: 0 0 auto; filter: brightness(.8) saturate(.88); transition: filter 200ms ease, transform 200ms ease; transform-origin: bottom center; }
+.espks .spk { height: 92%; flex: 1 1 0; width: auto; min-width: 0; filter: brightness(.8) saturate(.88); transition: filter 200ms ease, transform 200ms ease; transform-origin: bottom center; }
 .espks .spk.talk { filter: none; transform: scale(1.07); }
 .echar { position: absolute; left: 4PX; bottom: 0; height: 84%; z-index: 2; }
 .ewordR { flex: 1; background: var(--color-bg); border-left: 1PX solid var(--color-border); display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 4PX; padding: 8PX 8PX 6PX; }
@@ -397,9 +430,16 @@ page {
 .wcard .gx { position: absolute; left: 6%; right: 6%; top: 50%; border-top: 1PX dashed rgba(127,201,106,.35); }
 .wcard .gy { position: absolute; top: 6%; bottom: 6%; left: 50%; border-left: 1PX dashed rgba(127,201,106,.35); }
 .wcard .w { font-size: 56PX; font-weight: 800; line-height: 1; color: var(--color-text); z-index: 1; }
-/* 字幕气泡卡：说话人标签 + 正文（生字金色高亮）；weapp 下 -webkit-box 高度塔陷，改 max-height 限行 */
+/* ★英语单词宽卡（用户定：单词不用田字格，长单词字号三挡自适应绝不裁字）：蓝系区分识字绿系 */
+.wword { width: 100%; padding: 10PX 6PX; border-radius: 10PX; border: 2PX solid rgba(96,156,222,.5); background: rgba(232,241,251,.15); display: flex; align-items: center; justify-content: center; overflow: hidden; }
+.wword .w { max-width: 100%; text-align: center; font-size: 40PX; font-weight: 800; line-height: 1.1; color: var(--color-text); word-break: break-all; }
+.wword .w.md { font-size: 30PX; }
+.wword .w.sm { font-size: 22PX; }
+/* 字幕气泡卡；字号随句长自适应：默认(≤18字)大字、.md(19-30字)、.sm(>30字)，任意句长不被裁 */
 .esub-r { flex: 1; width: 100%; min-height: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 5PX; padding: 6PX 8PX; border-radius: 10PX; background: rgba(127,201,106,.12); border: 1PX solid rgba(127,201,106,.25); margin: 3PX 0; overflow: hidden; }
-.esub-r .txt { width: 100%; max-height: 168PX; overflow: hidden; text-align: center; font-size: 20PX; font-weight: 700; line-height: 1.5; color: var(--color-text); }
+.esub-r .txt { width: 100%; max-height: 168PX; overflow: hidden; text-align: center; font-size: 22PX; font-weight: 700; line-height: 1.5; color: var(--color-text); }
+.esub-r .txt.md { font-size: 19PX; }
+.esub-r .txt.sm { font-size: 16PX; line-height: 1.45; }
 .esub-r .who { font-size: 15PX; font-weight: 800; color: #3E7C2B; background: #EAF6E4; padding: 2PX 10PX; border-radius: 8PX; flex: 0 0 auto; }
 /* 句进度：细进度条 + 第 N/M 句 */
 .eprog { width: 100%; display: flex; flex-direction: column; align-items: center; gap: 3PX; }
@@ -411,14 +451,16 @@ page {
 .ectrl { height: 56PX; flex: 0 0 auto; display: flex; align-items: center; justify-content: center; gap: 26PX; background: #1D2646; border-top: 1PX solid rgba(255,255,255,.06); }
 /* 控制钮：次钮磨砂半透+白描边，主钮橙色发光加大 */
 .ebtn { width: 42PX; height: 42PX; border-radius: 50%; background: rgba(255,255,255,.12); border: 1PX solid rgba(255,255,255,.28); display: flex; align-items: center; justify-content: center; }
-.ebtn.main { width: 52PX; height: 52PX; background: radial-gradient(circle at 35% 30%, #FFB067, var(--color-primary)); border: none; box-shadow: 0 0 13PX 3PX rgba(255,140,66,.45), 0 4PX 9PX rgba(0,0,0,.3); }
+.ebtn.main { width: 52PX; height: 52PX; background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42); border: none; box-shadow: 0 0 13PX 3PX rgba(255,140,66,.45), 0 4PX 9PX rgba(0,0,0,.3); }
 /* 横屏屏幕自适应：宽度靠百分比/flex，垂直弹性靠字幕区 flex:1 吸收；
    手机横屏高 360(小安卓)~430(Max)，两头再分挡：小屏压固定块保字幕行数，大屏(iPad)放大防空旷 */
 @media (max-height: 379px) {
   .etag { font-size: 12PX; padding: 2PX 10PX; }
   .wcard { width: 66PX; height: 66PX; }
   .wcard .w { font-size: 44PX; }
-  .esub-r .txt { font-size: 18PX; max-height: 162PX; }
+  .esub-r .txt { font-size: 19PX; max-height: 162PX; }
+  .esub-r .txt.md { font-size: 16PX; }
+  .esub-r .txt.sm { font-size: 14PX; }
   .eprog .num { font-size: 12PX; }
   .ectrl { height: 46PX; gap: 22PX; }
   .ebtn { width: 36PX; height: 36PX; }
@@ -428,7 +470,9 @@ page {
   .etag { font-size: 22PX; padding: 5PX 18PX; border-radius: 12PX; }
   .wcard { width: 150PX; height: 150PX; border-radius: 14PX; }
   .wcard .w { font-size: 100PX; }
-  .esub-r .txt { font-size: 30PX; max-height: 330PX; line-height: 1.55; }
+  .esub-r .txt { font-size: 32PX; max-height: 330PX; line-height: 1.55; }
+  .esub-r .txt.md { font-size: 27PX; }
+  .esub-r .txt.sm { font-size: 23PX; }
   .esub-r .who { font-size: 22PX; padding: 4PX 16PX; }
   .eprog .num { font-size: 18PX; }
   .eprog .bar { height: 8PX; }

@@ -14,7 +14,9 @@ export const storage = {
   get<T = unknown>(key: string): T | null {
     try {
       const v = Taro.getStorageSync(key);
-      return (v ?? null) as T | null;
+      // ★wx.getStorageSync 缺省返回 '' 而非 null；统一归一化，避免 '' 污染枚举值（如 theme 选中态丢失）
+      if (v === '' || v === undefined || v === null) return null;
+      return v as T;
     } catch {
       return null;
     }

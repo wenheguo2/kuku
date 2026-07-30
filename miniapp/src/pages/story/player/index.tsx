@@ -5,13 +5,14 @@
  * ★ 故事集自动续播：播完触发 playerStore.nextInQueue → 自动加载下一篇（GL-02 迷你栏同步）。
  */
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { View, Text, Image, Slider } from '@tarojs/components';
-import Taro, { useRouter } from '@tarojs/taro';
+import { View, Text, Image, Slider, Button } from '@tarojs/components';
+import Taro, { useRouter, useShareAppMessage } from '@tarojs/taro';
 import { indexLoader } from '@/services/indexLoader';
 import { player } from '@/services/audioPlayer';
 import { playStory, skip } from '@/services/playbackQueue';
 import { api } from '@/services/api';
-import { buildAssetUrl, guessCoverFromPath } from '@/utils/path';
+import { buildAssetUrl, buildCoverUrl, guessCoverFromPath } from '@/utils/path';
+import { shareCard } from '@/utils/share';
 import { CONFIG } from '@/services/config';
 import { SegmentsData } from '@/types/content';
 import { useUserStore } from '@/stores/userStore';
@@ -40,6 +41,29 @@ export default function StoryPlayer() {
     Taro.showToast({ title: '故事加载失败，请稍后重试', icon: 'none' });
   };
   const displayedRef = useRef<string>('');
+
+  /**
+   * ★队列太短时扩展为故事所在目录整列表（用户定：从推荐/今日推荐点进来只有几篇可续播太少）：
+   * 拉父目录 _index.json entries 整体设队列并定位到当前篇；拉不到/条目过少则保持原队列。
+   */
+  const expandQueueFromDir = async (path: string) => {
+    try {
+      const parent = path.split('/').slice(0, -1).join('/');
+      if (!parent) return;
+      const idx = await indexLoader.loadIndexByPath(parent) as { entries?: { title?: string; path?: string; cover?: { cover_image_url?: string } }[] };
+      const entries = (idx.entries ?? []).filter((e) => e.path);
+      const store = usePlayerStore.getState();
+      if (entries.length <= store.queue.length) return; // 目录不比现队列长则不换
+      const at = entries.findIndex((e) => e.path === path);
+      if (at === -1) return;
+      store.setQueue(entries.map((e) => ({
+        type: 'story' as const,
+        id: e.path as string,
+        title: e.title || (e.path as string).split('/').pop() || '故事',
+        coverUrl: buildCoverUrl(e.cover?.cover_image_url) || guessCoverFromPath(e.path) || undefined,
+      })), at);
+    } catch (error) { console.warn('扩展目录队列失败（保持原队列）', error); }
+  };
 
   /** 加载并（可选）播放一篇故事：播放统一走全局 playStory（含全局状态+历史），非播放只拉 segments 展示 */
   const loadStory = async (path: string, storyTitle: string, autoplay: boolean) => {
@@ -74,12 +98,14 @@ export default function StoryPlayer() {
       displayedRef.current = store.current.id;
       indexLoader.loadSegments(store.current.id).then((d) => { setData(d); setLoadFailed(false); }).catch(reportLoadError);
     } else {
-      // 直接进入（非从故事列表/章回）：若当前队列首项不是本故事，重置为单篇（带按 path 推导的封面兜底），避免残留歌单被误当“下一首”
+      // 直接进入（非从故事列表/章回）：若当前队列首项不是本故事，重置为单篇（带按 path 推导的封面兑底），避免残留歌单被误当“下一首”
       const q = store.queue[store.queueIndex];
       if (!(q && q.type === 'story' && q.id === initPath)) {
         store.setQueue([{ type: 'story', id: initPath, title: initTitle, coverUrl: guessCoverFromPath(initPath) || undefined }], 0);
       }
       loadStory(initPath, initTitle, true).catch(reportLoadError);
+      // ★队列短（单篇/推荐小窗口）时后台扩展为所在目录整列表，续播更多
+      if (usePlayerStore.getState().queue.length <= 4) void expandQueueFromDir(initPath);
     }
     return () => {
       offTime();
@@ -152,7 +178,28 @@ export default function StoryPlayer() {
   };
   const share = () => {
     Taro.showShareMenu({ withShareTicket: true });
-    Taro.showToast({ title: '请使用右上角菜单分享', icon: 'none' });
+  };
+  // 分享当前故事：好友点开直达本篇（拉新 + 内容直达）；卡面用真插画
+  useShareAppMessage(() => ({
+    title: `《${title}》— 酷酷儿童故事`,
+    path: `/pages/story/player/index?path=${encodeURIComponent(currentContentId)}&title=${encodeURIComponent(title)}`,
+    imageUrl: shareCard('E04_哈哈大笑'),
+  }));
+
+  /** ★列表键：选单—连播收藏 / 回首页（用户定：播放器要能直接播收藏列表） */
+  const openListMenu = () => {
+    Taro.showActionSheet({ itemList: ['▶ 连播我收藏的故事', '回到故事首页'] }).then(async (r) => {
+      if (r.tapIndex === 1) { Taro.navigateBack().catch(() => Taro.switchTab({ url: '/pages/story/index/index' })); return; }
+      if (!useUserStore.getState().isLogin) { Taro.navigateTo({ url: '/pages/common/login/index' }); return; }
+      try {
+        const d = await api.get<{ list: { favorite_id: string; content_type: string; content_id: string; title: string | null }[] }>('/favorites');
+        const storyFavs = (d.list ?? []).filter((f) => f.content_type === 'story' && f.content_id);
+        if (storyFavs.length === 0) { Taro.showToast({ title: '还没收藏故事，点❤收藏吧', icon: 'none' }); return; }
+        usePlayerStore.getState().setQueue(storyFavs.map((f) => ({ type: 'story' as const, id: f.content_id, title: f.title || f.content_id, coverUrl: guessCoverFromPath(f.content_id) || undefined })), 0);
+        displayedRef.current = '';
+        await playStory(storyFavs[0].content_id, storyFavs[0].title || storyFavs[0].content_id);
+      } catch (error) { console.warn('连播收藏失败', error); Taro.showToast({ title: '加载收藏失败，稍后再试', icon: 'none' }); }
+    }).catch(() => {});
   };
 
   return (
@@ -193,10 +240,10 @@ export default function StoryPlayer() {
 
         <View className="pfns">
           <View className="fn" onClick={() => void favorite()}><Icon name="heart" size={40} color={favId ? '#FF7B93' : '#fff'} /><Text>{favId ? '已收藏' : '收藏'}</Text></View>
-          <View className="fn" onClick={share}><Icon name="share" size={40} color="#fff" /><Text>分享</Text></View>
+          <Button className="fn share-fn" openType="share" onClick={share}><Icon name="share" size={40} color="#fff" /><Text>分享</Text></Button>
           <View className="fn" onClick={() => player.cycleRate()}><Text style={{ fontSize: '32px', fontWeight: 800, lineHeight: '40px', height: '40px' }}>{playbackRate.toFixed(1)}x</Text><Text>倍速</Text></View>
           <View className="fn" onClick={() => Taro.navigateTo({ url: '/pages/common/settings/index' })}><Icon name="timer" size={40} color="#fff" /><Text>定时</Text></View>
-          <View className="fn" onClick={() => Taro.navigateBack().catch(() => Taro.switchTab({ url: '/pages/story/index/index' }))}><Icon name="list" size={40} color="#fff" /><Text>列表</Text></View>
+          <View className="fn" onClick={openListMenu}><Icon name="list" size={40} color="#fff" /><Text>列表</Text></View>
         </View>
 
         {/* 底部信息区：故事不显字幕(无 timeline 不准)，改显队列进度/加载失败提示；无内容时不占位 */}
