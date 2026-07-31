@@ -56,7 +56,10 @@ export default function StoryWork() {
       </View>
       )}
       {chapters.length > 0 && (
-        <View className="btn-primary" style={{ margin: '20px 0' }} onClick={() => playFrom(0)}>▶ 从第 1 章连续播放</View>
+        <View className="load-more-pill" style={{ margin: '20px auto', maxWidth: '380px' }} onClick={() => playFrom(0)}>
+          <Icon name="play" size={22} color="var(--color-primary)" />
+          <Text>从第 1 章连续播放</Text>
+        </View>
       )}
 
       {/* 章节目录 */}
@@ -73,7 +76,7 @@ export default function StoryWork() {
       {error && chapters.length === 0 && (
         <View className="center" style={{ padding: '40px 0' }}>
           <Text className="muted" style={{ marginBottom: '20px' }}>😶‍🌫️ 加载失败了，稍后再试试吧</Text>
-          <View className="btn-ghost" style={{ width: '240px' }} onClick={load}>重试</View>
+          <View className="pill-ghost" onClick={load}>重试</View>
         </View>
       )}
       <MiniPlayer />

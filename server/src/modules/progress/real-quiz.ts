@@ -12,8 +12,10 @@
  *   - `prompt_audio_ref` / `sentence_audio_ref` / `word_audio_ref` → 题目音频（第二题原来没声音的根因）
  *   - `explanation` + `explanation_audio_ref` → 讲解文字/配音，判分后随结果下发
  *
- * 答案（answer）与讲解（explanation）仅服务端持有，出题时不下发（toPublic 会剔除）。
- * 读不到/坏文件时返回空数组，调用方回退合成题（保证功能可用）。
+ * ★ 题组配方（用户定，见 QUIZ_PLAN）：
+ *   识字 = 1X 听音选字×1 + 2X 看字选拼音×1 + 3X+ 看字选组词×2
+ *   英语 = 1X×1 + 3X+ 完型×3（**已彻底取消 2X 听发音选单词**）
+ * 拼音无习题目录；读不到/坏文件时返回空数组，调用方回退合成题（保证功能可用）。
  */
 import { readdir, readFile, access } from 'fs/promises';
 import { join } from 'path';
@@ -37,6 +39,18 @@ const AUDIO_ONLY_TYPES = new Set<QuestionType>(['recognition', 'sound_to_char', 
  * （这两类的 prompt_audio 只是干巴巴念题干“这个字怎么读？”，无教学价值，白占一个播放按钮）
  */
 const SHOW_WORD_NO_AUDIO_TYPES = new Set<QuestionType>(['char_to_sound', 'char_to_word']);
+
+/**
+ * ★按学科的题组配方（编号前缀 = 题组），用户定：
+ *  - 识字：1X 听音选字 ×1 + 2X 看字选拼音 ×1 + 3X+ 看字选组词 ×2
+ *  - 英语：**彻底取消 2X（听发音选单词）**，改为 1X ×1 + 3X+ 完型 ×3
+ *    该约束在本函数统一兑现，因此普通挑战与综合挑战（只取 [0]）任何路径都不可能抽到英语 2X
+ */
+const QUIZ_PLAN: Record<string, { g1: number; g2: number; g3: number }> = {
+  识字: { g1: 1, g2: 1, g3: 2 },
+  英语: { g1: 1, g2: 0, g3: 3 },
+};
+const DEFAULT_PLAN = { g1: 1, g2: 1, g3: 2 };
 
 interface VerifyJson {
   type?: string;
@@ -114,17 +128,22 @@ export async function loadRealQuiz(contentRoot: string, subject: string, wordId:
   }
 
   let picked: string[];
-  // ★识字与英语统一强制组合（1X + 2X + 3X×2），对齐 md/00 §4.3「1 听音选字 + 1 看字选拼音 + 2 看字选组词」
-  //   旧实现识字走 shuffle 随机 4 道，导致三四题可能不是组词题（实测反馈的缺陷）
+  // ★按学科配方组题（见 QUIZ_PLAN）：识字 1X+2X+3X×2；英语 1X+3X×3（已取消 2X）
+  const plan = QUIZ_PLAN[subject] ?? DEFAULT_PLAN;
   const numOf = (n: string) => parseInt(n.replace(/\D/g, ''), 10);
+  const inG2 = (n: string) => { const v = numOf(n); return v >= 20 && v < 30; };
   const g1 = shuffle(nums.filter((n) => { const v = numOf(n); return v >= 10 && v < 20; }));
-  const g2 = shuffle(nums.filter((n) => { const v = numOf(n); return v >= 20 && v < 30; }));
+  const g2 = plan.g2 > 0 ? shuffle(nums.filter(inG2)) : [];
   // 3X+ 内部优先取 30-39：实测只有 30-34 配了句子朗读 mp3，40-49 仅有讲解音，优先他们能多一个“听句子”
   const g3a = shuffle(nums.filter((n) => { const v = numOf(n); return v >= 30 && v < 40; }));
   const g3b = shuffle(nums.filter((n) => { const v = numOf(n); return v >= 40; }));
   const g3 = [...g3a, ...g3b];
-  picked = [...g1.slice(0, 1), ...g2.slice(0, 1), ...g3.slice(0, 2)];
-  if (picked.length < Math.min(take, nums.length)) picked = shuffle(nums).slice(0, take); // 缺组时兼容旧目录
+  picked = [...g1.slice(0, plan.g1), ...g2.slice(0, plan.g2), ...g3.slice(0, plan.g3)];
+  // 缺组兼容（旧目录/编号不全）：随机补齐，但**英语仍绝不含 2X**
+  if (picked.length < Math.min(take, nums.length)) {
+    const pool = plan.g2 > 0 ? nums : nums.filter((n) => !inG2(n));
+    picked = shuffle(pool).slice(0, take);
+  }
 
   const out: SecretQuestion[] = [];
   const targetWord = extractTargetWord(wordId); // 课名里的目标字/词（识字题库无 word 字段，靠此兜底）

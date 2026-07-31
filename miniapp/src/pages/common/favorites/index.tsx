@@ -9,9 +9,9 @@ import Taro, { useDidShow, useRouter } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
 import { usePlayerStore } from '@/stores/playerStore';
-import { buildAssetUrl, buildCoverUrl, guessCoverFromPath } from '@/utils/path';
-import iconStory from '@/assets/icon_story.png';
-import iconSong from '@/assets/icon_song.png';
+import { buildAssetUrl, buildCoverUrl, guessCoverFromPath, guessCoverChain } from '@/utils/path';
+import iconStory from '@/assets/icon_fav_story.png';
+import iconSong from '@/assets/icon_fav_song.png';
 import StateView from '@/components/StateView';
 import { useNight } from '@/hooks/useNight';
 
@@ -30,6 +30,8 @@ export default function Favorites() {
   const [list, setList] = useState<Fav[]>([]);
   // 入口可指定段（音乐厅“你的播放列表”直达歌曲段）
   const [tab, setTab] = useState<Tab>(router.params.tab === 'song' ? 'song' : 'story');
+  // ★章回章节无专属封面：候选链游标 onError 逐级上溯，全失败回退插画（与历史页同套）
+  const [coverIdx, setCoverIdx] = useState<Record<string, number>>({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
   const night = useNight();
@@ -92,7 +94,7 @@ export default function Favorites() {
     <View className={`center ${night}`}>
       <Text className="emoji-xl">⭐</Text>
       <Text className="muted" style={{ marginBottom: '28px' }}>登录后查看你收藏的内容</Text>
-      <View className="btn-primary" style={{ width: '360px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/login/index' })}>去登录</View>
+      <View className="pill-orange" onClick={() => Taro.navigateTo({ url: '/pages/common/login/index' })}>去登录</View>
     </View>
   );
 
@@ -100,29 +102,43 @@ export default function Favorites() {
     <View className={`page-container ${night}`}>
       <Text className="brand-title">⭐ 我的收藏</Text>
 
-      {/* 故事 / 歌曲 分段 */}
-      <View style={{ display: 'flex', gap: '12px', margin: '4px 0 16px' }}>
-        <View className={`chip ${tab === 'story' ? 'on' : ''}`} onClick={() => setTab('story')}>📖 故事 {stories.length}</View>
-        <View className={`chip ${tab === 'song' ? 'on' : ''}`} onClick={() => setTab('song')}>🎵 歌曲 {songs.length}</View>
+      {/* 故事 / 歌曲 分段：卡片式带封面图 Tab */}
+      <View style={{ display: 'flex', gap: '16px', margin: '4px 0 20px' }}>
+        <View style={{ flex: 1, position: 'relative', borderRadius: '22px', overflow: 'hidden', height: '120px', boxShadow: tab === 'story' ? '0 6px 18px rgba(255,140,66,.35)' : 'none', border: tab === 'story' ? '3px solid var(--color-primary)' : '2px solid var(--color-border)' }} onClick={() => setTab('story')}>
+          <Image src={iconStory} mode="aspectFill" style={{ width: '100%', height: '100%', opacity: tab === 'story' ? 1 : 0.5 }} />
+          <Text style={{ position: 'absolute', bottom: '10px', left: '14px', fontSize: '24px', fontWeight: 800, color: '#fff', textShadow: '0 2px 6px rgba(0,0,0,.6)' }}>故事 {stories.length}</Text>
+        </View>
+        <View style={{ flex: 1, position: 'relative', borderRadius: '22px', overflow: 'hidden', height: '120px', boxShadow: tab === 'song' ? '0 6px 18px rgba(63,197,188,.35)' : 'none', border: tab === 'song' ? '3px solid #3FC5BC' : '2px solid var(--color-border)' }} onClick={() => setTab('song')}>
+          <Image src={iconSong} mode="aspectFill" style={{ width: '100%', height: '100%', opacity: tab === 'song' ? 1 : 0.5 }} />
+          <Text style={{ position: 'absolute', bottom: '10px', left: '14px', fontSize: '24px', fontWeight: 800, color: '#fff', textShadow: '0 2px 6px rgba(0,0,0,.6)' }}>歌曲 {songs.length}</Text>
+        </View>
       </View>
 
       {/* 歌曲段：循环播放全部；故事段：连播全部（用户定） */}
       {tab === 'song' && songs.length > 0 && (
-        <View className="btn-green" style={{ marginBottom: '16px' }} onClick={loopAllSongs}>🔁 循环播放全部收藏歌曲</View>
+        <View className="load-more-pill" style={{ marginBottom: '16px' }} onClick={loopAllSongs}>
+          <Text>🔁 循环播放全部收藏歌曲</Text>
+        </View>
       )}
       {tab === 'story' && stories.length > 0 && (
-        <View className="btn-primary" style={{ marginBottom: '16px' }} onClick={playStoriesAll}>▶ 连播全部收藏故事</View>
+        <View className="load-more-pill" style={{ marginBottom: '16px' }} onClick={playStoriesAll}>
+          <Text>▶ 连播全部收藏故事</Text>
+        </View>
       )}
 
       <StateView loading={loading} error={error} empty={shown.length === 0}
         emptyText={tab === 'story' ? '还没有收藏故事～' : '还没有收藏歌曲～'} emptyIcon="star" onRetry={load}>
-        {shown.map((f, i) => (
-          <View key={f.favorite_id} className="list-row" onClick={() => (tab === 'story' ? openStory(f) : playSongsFrom(i))}>
-            <View className="thumb"><Image className="im" src={tab === 'song' ? iconSong : iconStory} mode="aspectFill" ariaLabel={tab === 'song' ? '歌曲' : '故事'} /></View>
-            <View className="gr"><Text className="nm">{f.title || f.content_id}</Text></View>
-            <Text className="chip" style={{ color: '#E4572E', borderColor: '#F3C6BC' }} onClick={(e) => { e.stopPropagation(); void remove(f.favorite_id); }}>取消</Text>
-          </View>
-        ))}
+        {shown.map((f, i) => {
+          const chain = tab === 'song' ? [songCoverFromPath(f.content_id)] : guessCoverChain(f.content_id);
+          const src = chain[coverIdx[f.favorite_id] ?? 0] || (tab === 'song' ? iconSong : iconStory);
+          return (
+            <View key={f.favorite_id} className="list-row" onClick={() => (tab === 'story' ? openStory(f) : playSongsFrom(i))}>
+              <Image className="cvr" src={src} mode="aspectFill" onError={() => setCoverIdx((m) => ({ ...m, [f.favorite_id]: (m[f.favorite_id] ?? 0) + 1 }))} ariaLabel={`${f.title}封面`} />
+              <View className="gr"><Text className="nm">{f.title || f.content_id}</Text></View>
+              <View className="load-more-pill" style={{ padding: '8px 18px', margin: 0, fontSize: '22px', color: '#E4572E', borderColor: '#F3C6BC' }} onClick={(e) => { e.stopPropagation(); void remove(f.favorite_id); }}>取消</View>
+            </View>
+          );
+        })}
       </StateView>
     </View>
   );

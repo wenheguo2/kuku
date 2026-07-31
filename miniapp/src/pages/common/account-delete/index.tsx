@@ -53,7 +53,7 @@ export default function AccountDelete() {
           注销将删除账号及名下全部孩子档案、播放历史、成长进度、挑战记录、成就、收藏、会员和订单信息。操作完成后无法恢复。
         </Text>
       </View>
-      <View className="btn-ghost" style={{ marginTop: '24px', color: '#E4572E' }} onClick={removeAccount}>
+      <View className="pill-ghost" style={{ marginTop: '24px', color: '#E4572E', borderColor: 'rgba(228, 87, 46, 0.4)' }} onClick={removeAccount}>
         {isLogin ? '注销账号并删除全部数据' : '请先登录'}
       </View>
     </View>

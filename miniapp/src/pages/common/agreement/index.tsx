@@ -87,7 +87,7 @@ export default function Agreement() {
         </View>
       ))}
       {type === 'children' && isLogin && (
-        <View className={`btn-ghost ${submitting ? 'disabled' : ''}`} onClick={withdrawConsent} style={{ margin: '8px 4px 0' }}>
+        <View className={`pill-ghost ${submitting ? 'disabled' : ''}`} onClick={withdrawConsent} style={{ margin: '8px auto 0' }}>
           撤回监护人同意
         </View>
       )}

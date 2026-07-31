@@ -102,7 +102,7 @@ export default function Challenge() {
   };
 
   if (!selectedChildId) {
-    return <View className={`page-container ${night}`}><View className="btn-primary" onClick={() => Taro.navigateTo({ url: '/pages/common/login/index' })}>请先登录</View></View>;
+    return <View className={`page-container ${night}`}><View className="pill-orange" onClick={() => Taro.navigateTo({ url: '/pages/common/login/index' })}>请先登录</View></View>;
   }
   if (error) {
     return (
@@ -110,7 +110,7 @@ export default function Challenge() {
         <Text className="emoji-xl">😶‍🌫️</Text>
         <Text style={{ fontSize: '34px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>加载失败了</Text>
         <Text className="muted" style={{ marginBottom: '28px' }}>网络开小差了，稍后再试试吧</Text>
-        <View className="btn-primary" style={{ width: '360px' }} onClick={loadQuiz}>重试</View>
+        <View className="pill-orange" onClick={loadQuiz}>重试</View>
       </View>
     );
   }
@@ -202,11 +202,11 @@ export default function Challenge() {
               ))}
             </View>
           </View>
-          <View className="row" style={{ gap: '16px', marginTop: '8px' }}>
-            {step > 0 && <View className="btn-ghost flex-1" onClick={() => setStep((s) => s - 1)}>上一题</View>}
+          <View style={{ display: 'flex', gap: '12px', marginTop: '14px', justifyContent: 'center', padding: '0 8px' }}>
+            {step > 0 && <View className="pill-ghost" style={{ flex: 1, margin: 0, minWidth: 0 }} onClick={() => setStep((s) => s - 1)}>上一题</View>}
             {!isLast
-              ? <View className={`btn-green flex-1 ${answeredCur ? '' : 'disabled'}`} onClick={() => answeredCur && setStep((s) => s + 1)}>下一题</View>
-              : <View className={`btn-green flex-1 ${answeredCur ? '' : 'disabled'}`} onClick={() => answeredCur && submit()}>提交答案</View>}
+              ? <View className={`pill-green ${answeredCur ? '' : 'disabled'}`} style={{ flex: 1, margin: 0, minWidth: 0 }} onClick={() => answeredCur && setStep((s) => s + 1)}>下一题</View>
+              : <View className={`pill-green ${answeredCur ? '' : 'disabled'}`} style={{ flex: 1, margin: 0, minWidth: 0 }} onClick={() => answeredCur && submit()}>提交答案</View>}
           </View>
         </>
       )}
@@ -239,8 +239,8 @@ export default function Challenge() {
             </View>
           )}
           {!result.test_passed
-            ? <View className="btn-green" style={{ width: '360px', marginTop: '28px' }} onClick={loadQuiz}>再试一次</View>
-            : <View className="btn-green" style={{ width: '360px', marginTop: '28px' }} onClick={() => Taro.navigateBack()}>返回</View>}
+            ? <View className="pill-green" style={{ marginTop: '28px' }} onClick={loadQuiz}>再试一次</View>
+            : <View className="pill-green" style={{ marginTop: '28px' }} onClick={() => Taro.navigateBack()}>返回</View>}
         </View>
       )}
     </View>

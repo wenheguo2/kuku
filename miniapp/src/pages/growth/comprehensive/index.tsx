@@ -80,7 +80,7 @@ export default function Comprehensive() {
         <Text className="emoji-xl">👑</Text>
         <Text style={{ fontSize: '38px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>这里需要爸爸妈妈帮忙打开</Text>
         <Text className="muted" style={{ marginBottom: '28px' }}>和家长商量一下，开启后就能升级“好伙伴”啦</Text>
-        <View className="btn-primary" style={{ width: '360px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/member/index' })}>请家长来看看</View>
+        <View className="pill-orange" onClick={() => Taro.navigateTo({ url: '/pages/common/member/index' })}>请家长来看看</View>
       </View>
     );
   }
@@ -91,7 +91,7 @@ export default function Comprehensive() {
         <Text className="emoji-xl">😶‍🌫️</Text>
         <Text style={{ fontSize: '34px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>加载失败了</Text>
         <Text className="muted" style={{ marginBottom: '28px' }}>网络开小差了，稍后再试试吧</Text>
-        <View className="btn-primary" style={{ width: '360px' }} onClick={load}>重试</View>
+        <View className="pill-orange" onClick={load}>重试</View>
       </View>
     );
   }
@@ -118,7 +118,7 @@ export default function Comprehensive() {
         const isLast = step >= total - 1;
         return (
           <>
-            <Text className="brand-title" style={{ color: '#7FC96A' }}>综合挑战 · {subject}</Text>
+            <Text className="brand-title" style={{ color: '#7FC96A' }}>友情大考验 · {subject}</Text>
             <Text className="muted" style={{ display: 'block', textAlign: 'center', marginBottom: '12px' }}>第 {step + 1} / {total} 题 · 答对 8 题升好伙伴</Text>
             <View className="card">
               <Text className="nm" style={{ display: 'block', marginBottom: '12px' }}>
@@ -136,11 +136,11 @@ export default function Comprehensive() {
                 ))}
               </View>
             </View>
-            <View className="row" style={{ gap: '16px', marginTop: '8px' }}>
-              {step > 0 && <View className="btn-ghost flex-1" onClick={() => setStep((s) => s - 1)}>上一题</View>}
+            <View style={{ display: 'flex', gap: '12px', marginTop: '14px', justifyContent: 'center', padding: '0 8px' }}>
+              {step > 0 && <View className="pill-ghost" style={{ flex: 1, margin: 0, minWidth: 0 }} onClick={() => setStep((s) => s - 1)}>上一题</View>}
               {!isLast
-                ? <View className={`btn-green flex-1 ${answeredCur ? '' : 'disabled'}`} onClick={() => answeredCur && setStep((s) => s + 1)}>下一题</View>
-                : <View className={`btn-green flex-1 ${answeredCur ? '' : 'disabled'}`} onClick={() => answeredCur && submit()}>提交综合挑战</View>}
+                ? <View className={`pill-green ${answeredCur ? '' : 'disabled'}`} style={{ flex: 1, margin: 0, minWidth: 0 }} onClick={() => answeredCur && setStep((s) => s + 1)}>下一题</View>
+                : <View className={`pill-green ${answeredCur ? '' : 'disabled'}`} style={{ flex: 1, margin: 0, minWidth: 0 }} onClick={() => answeredCur && submit()}>完成友情大考验</View>}
             </View>
           </>
         );
@@ -162,7 +162,7 @@ export default function Comprehensive() {
               );
             })}
           </View>
-          <View className="btn-green" style={{ width: '360px', marginTop: '28px' }} onClick={() => Taro.navigateBack()}>返回</View>
+          <View className="pill-green" style={{ marginTop: '28px' }} onClick={() => Taro.navigateBack()}>返回</View>
         </View>
       )}
     </View>

@@ -13,7 +13,7 @@ const staticBaseUrl = process.env.TARO_APP_STATIC_BASE_URL
   || (isRelease ? 'https://cdn.example.com' : 'http://localhost:3000/static');
 const useMock = process.env.TARO_APP_USE_MOCK
   ? process.env.TARO_APP_USE_MOCK === 'true'
-  : !isRelease;
+  : false; // 默认关闭 mock，本地始终走真实服务
 
 if (isRelease) {
   const errors = [];

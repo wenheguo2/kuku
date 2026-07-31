@@ -2,14 +2,19 @@
  * quiz.util.ts — 挑战题目生成与判分（服务端权威）
  * 权威口径：md/00 §4.3、md/04 §3.3、md/11 §5。
  *
- * 题型（普通挑战随机 4 题 = 1 听音选字 + 1 看字选拼音 + 2 看字选组词）：
- *  - recognition   听音选字（1X）
- *  - pinyin        看字选拼音（2X）
- *  - word_formation看字选组词（3-9X，2 道）
+ * 题型（普通挑战 4 题）：
+ *  - ★实际走真实题库（real-quiz.ts），题组配方见其 QUIZ_PLAN：
+ *      识字 = 1X 听音选字 + 2X 看字选拼音 + 3X+ 看字选组词×2
+ *      英语 = 1X + 3X+ 完型×3（**已取消 2X 听发音选单词**）
+ *  - 下方合成题仅作无题/坏文件时的回退：
+ *      recognition   听音选字（1X）
+ *      pinyin        看字选拼音（2X）
+ *      word_formation看字选组词（3-9X，2 道）
  *
- * 普通挑战通过标准（按学科区分）：
- *  - 识字：recognition 对 且 word_formation 至少 1 道对（pinyin 可错）
- *  - 英语：recognition 对 且 pinyin 对 且 word_formation 至少 1 道对
+ * 普通挑战通过标准：
+ *  - ★真实题库（当前默认）：答对 ≥ 75%（4 题对 3），不分学科
+ *  - 回退合成题：识字/英语均为 recognition 对 且 word_formation 至少 1 道对
+ *    （英语原本额外要求 pinyin 对，因 2X 题组已取消而去除）
  *  - 拼音：无习题（不走普通挑战判分，靠学习完成晋级）
  *
  * ⚠️ 题库来源：★真实题库已接入（real-quiz.ts 读 production 习题 verify.json，2026-07-29），本文件合成题仅作无题/坏文件时的回退。
@@ -125,7 +130,9 @@ export function isNormalPassed(subject: Subject, judged: JudgedItem[]): boolean 
   const wordCorrect = judged.filter((j) => j.type === 'word_formation' && j.is_correct).length;
 
   if (subject === '识字') return recognition && wordCorrect >= 1;
-  if (subject === '英语') return recognition && pinyin && wordCorrect >= 1;
+  // ★英语：题组已取消 2X（听发音选单词 / pinyin 位），不再把 pinyin 当必要条件，
+  //   否则回退合成题路径下英语永远无法通过；口径与识字对齐
+  if (subject === '英语') return recognition && wordCorrect >= 1;
   // 拼音无习题，不应走到此处
   return recognition;
 }

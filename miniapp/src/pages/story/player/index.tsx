@@ -11,7 +11,7 @@ import { indexLoader } from '@/services/indexLoader';
 import { player } from '@/services/audioPlayer';
 import { playStory, skip } from '@/services/playbackQueue';
 import { api } from '@/services/api';
-import { buildAssetUrl, buildCoverUrl, guessCoverFromPath } from '@/utils/path';
+import { buildAssetUrl, buildCoverUrl, guessCoverFromPath, guessCoverChain } from '@/utils/path';
 import { shareCard } from '@/utils/share';
 import { CONFIG } from '@/services/config';
 import { SegmentsData } from '@/types/content';
@@ -19,6 +19,8 @@ import { useUserStore } from '@/stores/userStore';
 import { usePlayerStore } from '@/stores/playerStore';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
+import iconPlaying from '@/assets/icon_playing.png';
+import iconPlayReady from '@/assets/icon_play_ready.png';
 
 export default function StoryPlayer() {
   const router = useRouter();
@@ -139,13 +141,20 @@ export default function StoryPlayer() {
   const hasQueue = usePlayerStore((s) => s.queue.length > 1);
   const queuePos = usePlayerStore((s) => (s.queue.length > 1 ? `第 ${s.queueIndex + 1} / ${s.queue.length} 篇` : ''));
   const playbackRate = usePlayerStore((s) => s.playbackRate); // 固定五挡 0.8~1.2，点击循环切换
-  // 封面回退链：segments.cover_url(多为空) → 全局播放态 coverUrl(列表/首页入队时带真封面) → 兜底色块
+  // ★封面候选链（章回章节无专属封面，404 时 onError 逐级上溯到作品级）：
+  //   segments.cover_url → 队列项封面 → 按 path 上溯的 guessCoverChain；全失败才兑底色块
   const curCoverUrl = usePlayerStore((s) => s.current?.coverUrl);
-  const coverSrc = data?.cover_url || curCoverUrl || '';
+  const currentContentId = usePlayerStore((s) => s.current?.id) || initPath;
+  const [coverIdx, setCoverIdx] = useState(0);
+  const coverChain = useMemo(() => {
+    const list = [data?.cover_url, curCoverUrl, ...guessCoverChain(currentContentId)].filter(Boolean) as string[];
+    return list.filter((u, i) => list.indexOf(u) === i);
+  }, [data?.cover_url, curCoverUrl, currentContentId]);
+  useEffect(() => { setCoverIdx(0); }, [currentContentId]);
+  const coverSrc = coverChain[coverIdx] || '';
   const fmt = (s: number) => { const m = Math.floor(s / 60); const ss = Math.floor(s % 60); return `${m}:${ss < 10 ? '0' : ''}${ss}`; };
   const playNext = () => { skip(1); };
   /** 当前曲目的收藏 id（切曲/登录态变化时重查）；未登录不查 */
-  const currentContentId = usePlayerStore((s) => s.current?.id) || initPath;
   useEffect(() => {
     if (!useUserStore.getState().isLogin) { setFavId(null); return; }
     let alive = true;
@@ -222,13 +231,19 @@ export default function StoryPlayer() {
             <Icon name="down" size={44} color="#fff" />
           </View>
           <Text className="ti">正在播放 · 故事灯</Text>
-          <Icon name="dots" size={44} color="#fff" />
+          {/* ★v5 右上角工具图标（原底排 pfns 迁移至此） */}
+          <View className="ptools">
+            <View className="ptool" onClick={() => void favorite()}><Icon name="heart" size={26} color={favId ? '#FF7B93' : '#fff'} /></View>
+            <Button className="share-tool" openType="share" onClick={share}><Icon name="share" size={26} color="#fff" /></Button>
+            <View className="ptool" onClick={() => Taro.navigateTo({ url: '/pages/common/settings/index' })}><Icon name="timer" size={26} color="#fff" /></View>
+            <View className="ptool" onClick={openListMenu}><Icon name="list" size={26} color="#fff" /></View>
+          </View>
         </View>
 
-        {/* 封面主视觉：大幅圆角卡（用户定：把故事封面放出来） */}
+        {/* 封面主视觉：大幅圆角卡（用户定：把故事封面放出来）；加载失败自动切下一候选（章回回退作品封面） */}
         <View className="lampcov">
           {coverSrc
-            ? <Image className="cover" webp src={buildAssetUrl(coverSrc)} mode="aspectFill" ariaLabel={`${title}封面`} />
+            ? <Image className="cover" webp src={buildAssetUrl(coverSrc)} mode="aspectFill" onError={() => setCoverIdx((i) => i + 1)} ariaLabel={`${title}封面`} />
             : <View className="cover" style={{ background: 'radial-gradient(circle at 40% 35%,#FFD9A0,#F2751F)' }} />}
         </View>
 
@@ -240,16 +255,11 @@ export default function StoryPlayer() {
 
         <View className="pctrls">
           <View className="pbtn" onClick={() => { player.seek(0); setCur(0); }}><Icon name="prev" size={40} color="#fff" /></View>
-          <View className="pbtn main" onClick={toggle}><Icon name={playing ? 'pause' : 'play'} size={56} color="#fff" /></View>
+          <Image className="pbtn-book" src={playing ? iconPlaying : iconPlayReady} mode="aspectFit" onClick={toggle} />
           <View className="pbtn" onClick={playNext}><Icon name="next" size={40} color="#fff" /></View>
         </View>
-
-        <View className="pfns">
-          <View className="fn" onClick={() => void favorite()}><Icon name="heart" size={40} color={favId ? '#FF7B93' : '#fff'} /><Text>{favId ? '已收藏' : '收藏'}</Text></View>
-          <Button className="fn share-fn" openType="share" onClick={share}><Icon name="share" size={40} color="#fff" /><Text>分享</Text></Button>
-          <View className="fn" onClick={() => player.cycleRate()}><Text style={{ fontSize: '32px', fontWeight: 800, lineHeight: '40px', height: '40px' }}>{playbackRate.toFixed(1)}x</Text><Text>倍速</Text></View>
-          <View className="fn" onClick={() => Taro.navigateTo({ url: '/pages/common/settings/index' })}><Icon name="timer" size={40} color="#fff" /><Text>定时</Text></View>
-          <View className="fn" onClick={openListMenu}><Icon name="list" size={40} color="#fff" /><Text>列表</Text></View>
+        <View style={{ textAlign: 'center' }}>
+          <View className="prate" onClick={() => player.cycleRate()}>{playbackRate.toFixed(1)}×</View>
         </View>
 
         {/* 底部信息区：故事不显字幕(无 timeline 不准)，改显队列进度/加载失败提示；无内容时不占位 */}

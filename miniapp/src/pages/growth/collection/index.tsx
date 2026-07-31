@@ -33,7 +33,7 @@ export default function Collection() {
       .catch((e: { code?: number }) => { if (e?.code === 403) setLocked(true); });
   });
 
-  if (!selectedChildId) return <View className="page-container"><View className="btn-primary" onClick={() => Taro.navigateTo({ url: '/pages/common/login/index' })}>请先登录</View></View>;
+  if (!selectedChildId) return <View className="page-container"><View className="pill-orange" style={{ marginTop: '80px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/login/index' })}>请先登录</View></View>;
 
   if (locked) {
     return (
@@ -41,7 +41,7 @@ export default function Collection() {
         <Text className="emoji-xl">👑</Text>
         <Text style={{ fontSize: '38px', fontWeight: 800, display: 'block', margin: '8px 0', color: 'var(--color-text)' }}>朋友收集册是会员专属</Text>
         <Text className="muted" style={{ marginBottom: '28px' }}>开通会员查看完整收集册与成就贴纸</Text>
-        <View className="btn-primary" style={{ width: '360px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/member/index' })}>去开通会员</View>
+        <View className="pill-orange" onClick={() => Taro.navigateTo({ url: '/pages/common/member/index' })}>去开通会员</View>
       </View>
     );
   }
@@ -70,7 +70,7 @@ export default function Collection() {
           <Text className="emoji-xl">🌱</Text>
           <Text style={{ fontSize: '32px', fontWeight: 800, display: 'block', margin: '12px 0', color: 'var(--color-text)' }}>还没有遇见任何朋友</Text>
           <Text className="muted" style={{ marginBottom: '24px' }}>去听课、学习字/词→交到新朋友！</Text>
-          <View className="btn-green" style={{ width: '320px' }} onClick={() => Taro.switchTab({ url: '/pages/growth/index/index' })}>去学习交朋友</View>
+          <View className="pill-green" onClick={() => Taro.switchTab({ url: '/pages/growth/index/index' })}>去学习交朋友</View>
         </View>
       )}
 

@@ -33,6 +33,12 @@ const PLACEHOLDER: Record<Scope, string> = {
   growth: '搜字 / 单词 / 拼音…',
 };
 const SCOPE_LABEL: Record<Scope, string> = { story: '故事', song: '歌曲', growth: '成长' };
+/** ★空态小贴士（走查 s02 发现：未输入时热词下方一大片空白，给点可搜什么的引导） */
+const SCOPE_TIPS: Record<Scope, string[]> = {
+  story: ['试试搜故事名，比如「三国」「哪吒」', '也能搜学科，比如「成语故事」「品格养成」', '长篇作品会显示共多少章，点进去可以连听'],
+  song: ['试试搜歌名，比如「摇篮曲」', '也能搜歌单，比如「诗词歌曲」', '点单首歌会直接开始播放'],
+  growth: ['搜单个字，比如「的」「山」', '搜英文单词，比如「apple」', '点结果直接进教学课堂'],
+};
 
 /** 歌曲单曲封面按路径规则（与音乐厅一致） */
 const songCover = (p: string) => {
@@ -144,9 +150,14 @@ export default function Search() {
 
   return (
     <View className={`page-container ${night}`}>
-      <Input className="kk-search" style={{ color: 'var(--color-text)' }} value={kw}
-        placeholder={PLACEHOLDER[scope]} onInput={(e) => setKw(e.detail.value)} confirmType="search" />
-      <Text className="muted" style={{ display: 'block', margin: '2px 4px 10px' }}>当前范围：{SCOPE_LABEL[scope]}（各 Tab 分开搜索）</Text>
+      {/* ★搜索框：包一层带放大镜图标 + 一键清空（原先光秃 Input 只有 placeholder，不像搜索框） */}
+      <View className="kk-search-wrap">
+        <Text className="ic">🔍</Text>
+        <Input className="kk-search-in" value={kw}
+          placeholder={PLACEHOLDER[scope]} onInput={(e) => setKw(e.detail.value)} confirmType="search" />
+        {kw ? <Text className="clr" onClick={() => setKw('')}>✕</Text> : null}
+      </View>
+      <Text className="muted" style={{ display: 'block', margin: '2px 4px 10px' }}>正在「{SCOPE_LABEL[scope]}」里找（歌曲 / 成长请到各自页面搜）</Text>
 
       {!q && (
         <View>
@@ -154,6 +165,17 @@ export default function Search() {
           <View style={{ padding: '0 4px' }}>
             {HOT_WORDS[scope].map((w) => (
               <Text key={w} className="chip" onClick={() => setKw(w)}>{w}</Text>
+            ))}
+          </View>
+
+          {/* 搜索小贴士：填补未输入时的大片空白 */}
+          <View className="sec-h" style={{ marginTop: '24px' }}><Text className="t">💡 小贴士</Text></View>
+          <View className="card">
+            {SCOPE_TIPS[scope].map((t) => (
+              <View key={t} style={{ display: 'flex', gap: '12px', alignItems: 'flex-start', marginBottom: '12px' }}>
+                <Text style={{ color: 'var(--color-primary)', fontSize: '20px', lineHeight: 1.6 }}>●</Text>
+                <Text className="ds" style={{ margin: 0, lineHeight: 1.6, flex: 1 }}>{t}</Text>
+              </View>
             ))}
           </View>
         </View>

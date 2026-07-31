@@ -16,6 +16,8 @@ import { resolveStudyDir, studyOptions, EN_LEVEL_STUDIES } from '@/services/less
 import { useUserStore } from '@/stores/userStore';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
+import iconPlaying from '@/assets/icon_playing.png';
+import iconPlayReady from '@/assets/icon_play_ready.png';
 
 const MOCK_TIMELINE: TimelineSeg[] = [
   { seq: 1, start_ms: 0, end_ms: 3000, duration_ms: 3000, segment_id: 's1', character: '酷酷', text: '这是一个月亮的夜晚' },
@@ -276,7 +278,7 @@ export default function TeachingPlayer() {
       {/* 控制栏：上一句 / 播放暂停 / 下一句 / 重播（磨砂钮白图标；横屏页物理像素体系，Icon 尺寸同步缩） */}
       <View className="ectrl">
         <View className="ebtn" onClick={() => seekSeg(-1)}><Icon name="prev" size={20} color="#fff" /></View>
-        <View className="ebtn main" onClick={toggle}><Icon name={playing ? 'pause' : 'play'} size={26} color="#fff" /></View>
+        <Image className="ebtn-book" src={playing ? iconPlaying : iconPlayReady} mode="aspectFit" onClick={toggle} />
         <View className="ebtn" onClick={() => seekSeg(1)}><Icon name="next" size={20} color="#fff" /></View>
         <View className="ebtn" onClick={replay}><Icon name="refresh" size={18} color="#fff" /></View>
       </View>

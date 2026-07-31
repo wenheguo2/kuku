@@ -112,7 +112,7 @@ export default function Lesson() {
       {loadState === 'error' && (
         <View className="center" style={{ padding: '24px 0' }}>
           <Text className="muted" style={{ marginBottom: '16px' }}>😶‍🌫️ 课程加载失败了</Text>
-          <View className="btn-ghost" style={{ width: '240px' }} onClick={loadWords}>重试</View>
+          <View className="pill-ghost" onClick={loadWords}>重试</View>
         </View>
       )}
       {loadState === 'ok' && shown.length === 0 && (
@@ -148,12 +148,12 @@ export default function Lesson() {
                 {membershipStatus === 'active' ? '学习3：运用' : '学习3：会员专属'}
               </View>
             </View>
-            <View className="btn-green" style={{ margin: '0 12px' }} onClick={() => challenge(w.id, w.text)}>去挑战（成为好朋友）</View>
+            <View className="btn-green" style={{ margin: '0 auto', width: '230px', minHeight: '40px', fontSize: '14px', borderRadius: '20px', padding: '0', display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={() => challenge(w.id, w.text)}>去挑战（成为好朋友）</View>
           </View>
         );
       })}
       {loadState === 'ok' && visibleCount < filtered.length && (
-        <View className="btn-ghost" style={{ margin: '4px 12px 24px' }} onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}>
+        <View className="load-more-pill" onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}>
           再看 {Math.min(PAGE_SIZE, filtered.length - visibleCount)} 课（共 {filtered.length}）
         </View>
       )}

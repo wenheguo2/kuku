@@ -69,7 +69,7 @@ export default function StorySubject() {
       {error && cats.length === 0 && (
         <View className="center" style={{ padding: '40px 0' }}>
           <Text className="muted" style={{ marginBottom: '20px' }}>😶‍🌫️ 加载失败了，稍后再试试吧</Text>
-          <View className="btn-ghost" style={{ width: '240px' }} onClick={load}>重试</View>
+          <View className="pill-ghost" onClick={load}>重试</View>
         </View>
       )}
       <MiniPlayer />

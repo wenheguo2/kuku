@@ -80,6 +80,19 @@ page {
   margin-bottom: 20px;
 }
 
+/* ★v5 搜索页真搜索框：放大镜 + 输入区 + 一键清空（走查 s02：原先光秃 Input 不像搜索框） */
+.kk-search-wrap {
+  display: flex; align-items: center; gap: 14px;
+  min-height: 88px; background: var(--color-card); border-radius: 44px;
+  padding: 0 28px; margin-bottom: 12px;
+  border: 2px solid var(--color-border);
+  box-shadow: 0 4px 12px rgba(232, 201, 160, 0.32);
+}
+.kk-search-wrap .ic { font-size: 30px; flex: 0 0 auto; opacity: .8; }
+.kk-search-wrap .kk-search-in { flex: 1; min-width: 0; height: 84px; font-size: 28px; color: var(--color-text); }
+.kk-search-wrap .clr { flex: 0 0 auto; width: 48px; height: 48px; border-radius: 50%; background: var(--color-border); color: var(--color-text-secondary); font-size: 24px; display: flex; align-items: center; justify-content: center; }
+.theme-dark .kk-search-wrap { background: var(--color-card); border-color: rgba(255,255,255,.12); box-shadow: none; }
+
 /* 轮播 banner */
 .kk-banner {
   height: 240px;
@@ -94,9 +107,10 @@ page {
 .kk-banner .b-tag { font-size: 24px; background: rgba(255, 255, 255, 0.28); padding: 6px 20px; border-radius: 20px; display: inline-block; }
 .kk-banner .b-title { font-size: 40px; font-weight: 800; display: block; margin: 18px 0 6px; }
 .kk-banner .b-meta { font-size: 26px; opacity: 0.9; }
+/* ★v5：旧版 banner 指示点（无使用方）；保留容器样式，子项改类选择器以免重蹈 .dots-i 的 <i> 失效坑 */
 .kk-dots { text-align: center; margin: 14px 0 4px; }
-.kk-dots i { display: inline-block; width: 12px; height: 12px; border-radius: 6px; background: #e3d3bd; margin: 0 6px; }
-.kk-dots i.on { width: 32px; background: var(--color-primary); }
+.kk-dots .d { display: inline-block; width: 12px; height: 12px; border-radius: 6px; background: #e3d3bd; margin: 0 6px; }
+.kk-dots .d.on { width: 32px; background: var(--color-primary); }
 
 /* 分区头 */
 .sec-h { display: flex; align-items: center; justify-content: space-between; margin: 28px 4px 14px; }
@@ -160,8 +174,8 @@ page {
 .btn-green { background: #7FC96A; color: #fff; border-radius: 44px; text-align: center; padding: 22px 0; font-size: 32px; }
 .btn-ghost { background: var(--color-card); color: var(--color-primary); border: 2px solid var(--color-primary); border-radius: 44px; text-align: center; padding: 20px 0; font-size: 32px; }
 
-/* chip 标签 */
-.chip { display: inline-block; background: var(--color-card); border: 1px solid var(--color-border); border-radius: 30px; padding: 12px 26px; font-size: 26px; margin: 0 12px 14px 0; color: var(--color-text); }
+/* chip 标签（inline-flex 垂直居中：配合触控 min-height 88px 不再出现文字顶浮的方块感） */
+.chip { display: inline-flex; align-items: center; justify-content: center; background: var(--color-card); border: 1px solid var(--color-border); border-radius: 30px; padding: 12px 26px; font-size: 26px; margin: 0 12px 14px 0; color: var(--color-text); box-sizing: border-box; }
 .chip.on { background: var(--color-primary); color: #fff; border-color: var(--color-primary); }
 
 /* ★歌曲列表「循环播放」胶囊：白卡细描边，紫系配插画图标（图标不裁圆，保留原圆角方形造型）
@@ -173,8 +187,9 @@ page {
 .theme-dark .loop-pill { background: rgba(35, 47, 85, 0.85); border-color: rgba(178, 148, 235, 0.35); box-shadow: none; }
 .theme-dark .loop-pill .tx { color: #C9B4F2; }
 
-/* ★分享拉新（open-type=share 真按钮）：首页醒目横条 + 播放器/家长中心复用（padding 保证热区≥88rpx） */
-button.share-bar { display: flex; align-items: center; justify-content: center; gap: 10px; width: auto; background: linear-gradient(135deg, #FFB067, #FF8C42); color: #fff; border: none; border-radius: 26px; padding: 24px 0; margin: 2px 4px 18px; font-size: 28px; font-weight: 800; line-height: 1.4; box-shadow: 0 6px 16px rgba(255, 140, 66, 0.35); }
+/* ★分享拉新（open-type=share 真按钮）：首页/播放器/家长中心复用
+   ★v5：改居中自适应胶囊——原满宽粗横条（padding 24px 0 + 宽度撑满）把次要操作做得比主内容还重（走查 s01 发现） */
+button.share-bar { display: flex; align-items: center; justify-content: center; gap: 10px; width: fit-content; min-height: 88px; background: linear-gradient(135deg, #FFB067, #FF8C42); color: #fff; border: none; border-radius: 999px; padding: 0 46px; margin: 6px auto 20px; font-size: 26px; font-weight: 800; line-height: 1.4; box-shadow: 0 5px 14px rgba(255, 140, 66, 0.28); }
 button.share-bar::after { border: none; }
 /* 播放器功能区的分享：去掉 button 默认盒，长得和旁边 .fn 一样 */
 button.share-fn { background: transparent; border: none; padding: 0; margin: 0; line-height: inherit; font-size: inherit; color: inherit; display: flex; flex-direction: column; align-items: center; gap: 6px; }
@@ -220,6 +235,14 @@ button.share-chip::after { border: none; }
 .ctrls { display: flex; align-items: center; justify-content: center; gap: 52px; margin: 28px 0; }
 .cbtn { width: 96px; height: 96px; border-radius: 50%; background: var(--color-card); color: var(--color-text); display: flex; align-items: center; justify-content: center; font-size: 36px; box-shadow: 0 8px 28px rgba(232, 201, 160, 0.35); }
 .cbtn.main { width: 148px; height: 148px; background: var(--color-primary); color: #fff; font-size: 56px; }
+/* ★v5 歌曲播放器角落工具（浅色主题） + 书本键 + 功能胶囊 */
+.stools { position: absolute; top: 16px; right: 20px; display: flex; align-items: center; gap: 12px; z-index: 3; }
+.stool { width: 52px; height: 52px; border-radius: 50%; background: var(--color-card); box-shadow: 0 4px 14px rgba(0,0,0,.08); display: flex; align-items: center; justify-content: center; }
+button.share-stool { width: 52px; height: 52px; border-radius: 50%; background: var(--color-card); box-shadow: 0 4px 14px rgba(0,0,0,.08); display: flex; align-items: center; justify-content: center; padding: 0; margin: 0; line-height: 1; border: none; }
+button.share-stool::after { border: none; }
+.cbtn-book { width: 148px; height: 148px; border-radius: 50%; box-shadow: 0 10px 30px rgba(255,170,80,.3); }
+.splls { display: flex; align-items: center; justify-content: center; gap: 16px; margin-top: 18px; }
+.spll { display: inline-flex; align-items: center; gap: 8px; padding: 12px 22px; background: var(--color-card); border: 1px solid var(--color-border); border-radius: 30px; font-size: 24px; font-weight: 700; color: var(--color-text-secondary); }
 .fns { display: flex; justify-content: space-around; color: var(--color-text-secondary); font-size: 24px; text-align: center; margin-top: 12px; }
 .fns .i { font-size: 36px; display: block; margin-bottom: 6px; }
 
@@ -248,14 +271,17 @@ button.share-chip::after { border: none; }
 .hero .cover { width: 100%; height: 100%; }
 .shade { position: absolute; left: 0; right: 0; top: 0; bottom: 0; background: linear-gradient(180deg, transparent 36%, rgba(46,30,14,.62) 90%); }
 .hero .inner { position: absolute; left: 28px; right: 28px; bottom: 26px; color: #fff; }
-/* ★Hero 角标/“换一个”按钮：纵向 padding 撑到 88rpx 热区（视觉高度靠 line-height 保持紧凑） */
-.htag { display: inline-block; font-size: 20px; font-weight: 800; background: rgba(255,255,255,.26); padding: 34px 18px; border-radius: 16px; border: 1px solid rgba(255,255,255,.35); line-height: 1; }
+/* ★Hero 角标/“换一个”按钮：纵向 padding 撑到 88rpx 热区（视觉高度靠 line-height 保持紧凑）
+   ★v5 可读性：原白色半透底(.26)+白字，压在浅色封面（天空/雪景）上几乎看不见——改深色玻璃底（走查 s01 发现） */
+.htag { display: inline-block; font-size: 20px; font-weight: 800; background: rgba(28, 22, 16, .52); color: #fff; padding: 34px 18px; border-radius: 16px; border: 1px solid rgba(255,255,255,.55); line-height: 1; text-shadow: 0 1px 4px rgba(0,0,0,.5); }
 .hero .h-title { font-size: 42px; font-weight: 800; margin: 14px 0 5px; display: block; text-shadow: 0 2px 10px rgba(0,0,0,.35); }
 .hero .h-meta { font-size: 22px; opacity: .94; }
-.hplay { position: absolute; right: 26px; bottom: 26px; width: 92px; height: 92px; border-radius: 50%; background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42 70%, #F2751F); display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 20px rgba(255,140,66,.55); }
+.hplay { position: absolute; right: 26px; bottom: 26px; width: 80px; height: 80px; border-radius: 50%; background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42 70%, #F2751F); display: flex; align-items: center; justify-content: center; box-shadow: 0 5px 14px rgba(255,140,66,.38); }
+/* ★v5 修真 bug：原选择器 .dots-i i 针对 HTML <i> 标签，而 JSX 用的是 <Text>（编译为 <text>）——
+   选择器永不命中，三个指示点宽高为 0 从未显示过（走查 s01 发现）→ 改类选择器 */
 .dots-i { text-align: center; margin-top: 18px; }
-.dots-i i { display: inline-block; width: 12px; height: 12px; border-radius: 6px; background: #e0d0b8; margin: 0 6px; }
-.dots-i i.on { width: 32px; background: var(--color-primary); }
+.dots-i .d { display: inline-block; width: 12px; height: 12px; border-radius: 6px; background: #e0d0b8; margin: 0 6px; }
+.dots-i .d.on { width: 32px; background: var(--color-primary); }
 
 /* 最近播放 卡 */
 .cont { background: var(--color-card); border-radius: 28px; padding: 20px; display: flex; align-items: center; gap: 22px; box-shadow: 0 10px 24px rgba(232,201,160,.32); }
@@ -268,11 +294,13 @@ button.share-chip::after { border: none; }
 .scard .nm { font-size: 24px; font-weight: 800; margin-top: 14px; display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .scard .ds { font-size: 20px; color: var(--color-text-secondary); margin-top: 4px; display: block; }
 
-/* 儿童触控反馈：常用控件至少 88 设计单位，并提供按下确认感。注：.ebtn 属横屏教学页(物理像素体系)，不入此规则，反馈单独给 */
-.btn-primary, .btn-green, .btn-ghost, .chip, .cp, .cbtn, .pbtn, .sbtn, .hplay, .tbi {
+/* 儿童触控反馈：常用控件至少 88 设计单位，并提供按下确认感。注：.ebtn 属横屏教学页(物理像素体系)，不入此规则，反馈单独给
+   ★v5：.cp/.hplay 是宽高自定的圆形图标钮（72/80），若混进本规则会被 min-height:88 撑高→宽高不等→border-radius:50% 变椭圆（用户实测），故从 min-height 名单摘出只保留反馈 */
+.btn-primary, .btn-green, .btn-ghost, .chip, .cbtn, .pbtn, .sbtn, .tbi {
   min-height: 88px;
   transition: transform 120ms ease, opacity 120ms ease;
 }
+.cp, .hplay { transition: transform 120ms ease, opacity 120ms ease; }
 .btn-primary:active, .btn-green:active, .btn-ghost:active, .chip:active, .cp:active,
 .cbtn:active, .pbtn:active, .ebtn:active, .sbtn:active, .hplay:active, .tbi:active {
   transform: scale(.97);
@@ -294,9 +322,11 @@ button.share-chip::after { border: none; }
 .sbhead .h-title { font-size: 40px; font-weight: 800; display: block; text-shadow: 0 2px 8px rgba(0,0,0,.35); }
 .sbhead .h-meta { font-size: 21px; opacity: .94; margin-top: 5px; }
 
-/* 行内真封面 + 播放钮 + 等级徽章（在 .list-row 内） */
+/* 行内真封面 + 播放钮 + 等级徽章（在 .list-row 内）
+   ★v5 视觉主次：播放钮从 88 收到 72 并减轻外发光——原尺寸与封面同宽 + .5 阴影，
+   在列表里比封面还抢眼，主次颠倒（走查 s06 发现） */
 .cvr { width: 88px; height: 88px; border-radius: 22px; flex: 0 0 auto; background: var(--color-primary-soft); }
-.cp { width: 88px; height: 88px; border-radius: 50%; flex: 0 0 auto; background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42); display: flex; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(255,140,66,.5); }
+.cp { width: 72px; height: 72px; border-radius: 50%; flex: 0 0 auto; background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 10px rgba(255,140,66,.3); }
 .lvb { display: inline-block; background: var(--color-border); color: var(--color-text); font-size: 20px; font-weight: 800; padding: 2px 12px; border-radius: 8px; margin-right: 8px; }
 
 /* 玻璃迷你播放栏（半透实底近似） */
@@ -324,18 +354,28 @@ button.share-chip::after { border: none; }
 .psub { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-align: center; font-size: 24px; line-height: 1.7; opacity: .78; margin: 14px auto 0; max-width: 92%; min-height: 40px; }
 /* ★底部大字字幕面板：填充控制区下方空旷，字大行疏便于亲子共读（用户需求） */
 .psub-panel { margin: 34px 6px 20px; padding: 26px 28px; min-height: 220px; border-radius: 24px; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.10); display: flex; align-items: center; justify-content: center; }
-/* slim：故事灯去字幕后仅作队列进度/错误提示条（用户定：字幕只给教学） */
-.psub-panel.slim { min-height: 96px; padding: 16px 24px; }
+/* slim：故事灯去字幕后仅作队列进度/错误提示条（用户定：字幕只给教学）
+   ★v5：去背景弱化——原 96rpx 底块 + 34rpx 粗字，把一句纯提示做成了可点大按钮模样（走查 s07 发现） */
+.psub-panel.slim { min-height: 0; padding: 4px 24px; margin: 20px 6px 14px; background: transparent; border: none; }
+.psub-panel.slim .psub-lg { font-size: 24px; font-weight: 500; line-height: 1.6; opacity: .74; }
 .psub-lg { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; text-align: center; font-size: 34px; font-weight: 600; line-height: 1.9; color: #FFF3DC; }
 .pprog { margin: 38px 0 10px; height: 10px; background: rgba(255,255,255,.25); border-radius: 5px; position: relative; }
 .pprog i { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 5px; background: linear-gradient(90deg, #FFE0B0, var(--lamp)); }
-.pprog b { position: absolute; top: -8px; width: 26px; height: 26px; border-radius: 50%; background: #FFF3DC; box-shadow: 0 0 20px 6px rgba(255,200,130,.6); }
+.pprog b { position: absolute; top: -5px; width: 20px; height: 20px; border-radius: 50%; background: #FFF3DC; box-shadow: 0 0 12px 3px rgba(255,200,130,.5); }
 .ptime { display: flex; justify-content: space-between; font-size: 22px; opacity: .85; }
 .pctrls { display: flex; align-items: center; justify-content: center; gap: 64px; margin: 26px 0 14px; }
 .pbtn { width: 104px; height: 104px; border-radius: 50%; background: rgba(255,255,255,.14); border: 1px solid rgba(255,255,255,.22); display: flex; align-items: center; justify-content: center; }
 .pbtn.main { width: 156px; height: 156px; border: none; background: radial-gradient(circle at 35% 30%, #FFD9A0, var(--color-primary) 65%, var(--color-primary-dark)); box-shadow: 0 14px 32px rgba(255,150,60,.55); }
 .pfns { display: flex; justify-content: space-around; font-size: 22px; font-weight: 700; opacity: .92; margin-top: 12px; }
 .pfns .fn { display: flex; flex-direction: column; align-items: center; gap: 10px; }
+
+/* ★v5 角落工具栏 + 书本大键：辅助功能缩成右上角透明小圈，底部只留播放三键 */
+.ptools { display: flex; align-items: center; gap: 14px; }
+.ptool { width: 56px; height: 56px; border-radius: 50%; background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.18); display: flex; align-items: center; justify-content: center; }
+button.share-tool { width: 56px; height: 56px; border-radius: 50%; background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.18); display: flex; align-items: center; justify-content: center; padding: 0; margin: 0; line-height: 1; }
+button.share-tool::after { border: none; }
+.pbtn-book { width: 156px; height: 156px; border-radius: 50%; box-shadow: 0 8px 28px rgba(255,170,80,.35); }
+.prate { display: inline-flex; align-items: center; justify-content: center; padding: 10px 26px; background: rgba(255,255,255,.10); border: 1px solid rgba(255,255,255,.18); border-radius: 30px; font-size: 24px; font-weight: 700; color: #FFC98F; margin-top: 14px; }
 
 /* 歌曲播放器 light（PL-02） */
 .scov { margin: 20px auto 0; width: 320px; height: 320px; border-radius: 52px; overflow: hidden; box-shadow: 0 16px 34px rgba(63,197,188,.3); }
@@ -368,8 +408,10 @@ button.share-chip::after { border: none; }
 .ncta { position: relative; z-index: 2; margin-top: 20px; height: 96px; border-radius: 48px; background: linear-gradient(135deg,#FFE9A8,#FFC93C); color: var(--gold-ink); display: flex; align-items: center; justify-content: center; gap: 14px; font-size: 26px; font-weight: 800; box-shadow: 0 10px 24px rgba(255,201,60,.35); }
 
 /* ===== 朋友徽章墙 G-01 ===== */
-.gbar { display: flex; height: 40px; border-radius: 20px; overflow: hidden; margin: 14px 0 18px; }
-.gbar i { display: block; height: 100%; }
+/* ★v5：原 .gbar i 针对 <i>，而 JSX 用的是 <View>（编译为 <view>）——改用 view 标签选择器坤住。
+   注：微信 WXSS 不支持通配符 * 选择器（会报 error at token `*` 导致整个 wxss 编译失败），切勿用 .gbar > * */
+.gbar { display: flex; height: 40px; border-radius: 20px; overflow: hidden; margin: 14px 0 18px; background: var(--color-border); }
+.gbar view { display: block; height: 100%; flex: 0 0 auto; }
 .glegend { display: flex; gap: 22px; flex-wrap: wrap; font-size: 21px; color: var(--color-text-secondary); }
 .glegend .dot { display: inline-block; width: 16px; height: 16px; border-radius: 5px; margin-right: 8px; }
 .gcard { background: var(--color-card); border-radius: 28px; padding: 26px; box-shadow: 0 8px 20px rgba(232,201,160,.3); }
@@ -460,10 +502,11 @@ button.share-chip::after { border: none; }
 .eprog .num { font-size: 13PX; color: var(--color-text-secondary); }
 .esub { height: 40PX; flex: 0 0 auto; display: flex; align-items: center; justify-content: center; background: var(--night-bg); color: #fff; font-size: 13PX; letter-spacing: 1PX; }
 .esub b { color: var(--lamp-gold); font-size: 16PX; padding: 0 2PX; }
-.ectrl { height: 56PX; flex: 0 0 auto; display: flex; align-items: center; justify-content: center; gap: 26PX; background: #1D2646; border-top: 1PX solid rgba(255,255,255,.06); }
+.ectrl { height: 56PX; flex: 0 0 auto; display: flex; align-items: center; justify-content: center; gap: 26PX; background: rgba(29, 38, 70, 0.8); backdrop-filter: blur(10PX); -webkit-backdrop-filter: blur(10PX); border-top: 1PX solid rgba(255,255,255,.1); }
 /* 控制钮：次钮磨砂半透+白描边，主钮橙色发光加大 */
 .ebtn { width: 42PX; height: 42PX; border-radius: 50%; background: rgba(255,255,255,.12); border: 1PX solid rgba(255,255,255,.28); display: flex; align-items: center; justify-content: center; }
 .ebtn.main { width: 52PX; height: 52PX; background: radial-gradient(circle at 35% 30%, #FFB067, #FF8C42); border: none; box-shadow: 0 0 13PX 3PX rgba(255,140,66,.45), 0 4PX 9PX rgba(0,0,0,.3); }
+.ebtn-book { width: 52PX; height: 52PX; border-radius: 50%; box-shadow: 0 0 10PX 2PX rgba(255,170,80,.35); }
 /* 横屏屏幕自适应：宽度靠百分比/flex，垂直弹性靠字幕区 flex:1 吸收；
    手机横屏高 360(小安卓)~430(Max)，两头再分挡：小屏压固定块保字幕行数，大屏(iPad)放大防空旷 */
 @media (max-height: 379px) {
@@ -477,6 +520,7 @@ button.share-chip::after { border: none; }
   .ectrl { height: 46PX; gap: 22PX; }
   .ebtn { width: 36PX; height: 36PX; }
   .ebtn.main { width: 44PX; height: 44PX; }
+  .ebtn-book { width: 44PX; height: 44PX; }
 }
 @media (min-height: 500px) {
   .etag { font-size: 22PX; padding: 5PX 18PX; border-radius: 12PX; }
@@ -491,8 +535,21 @@ button.share-chip::after { border: none; }
   .ectrl { height: 78PX; gap: 34PX; }
   .ebtn { width: 56PX; height: 56PX; }
   .ebtn.main { width: 68PX; height: 68PX; }
+  .ebtn-book { width: 68PX; height: 68PX; }
   .elvl .c { font-size: 16PX; padding: 6PX 14PX; border-radius: 14PX; }
 }
+
+/* ★v5 加载更多胶囊（歌曲列表/故事列表用）：比 btn-ghost 更友好圆润 */
+.load-more-pill { display: flex; align-items: center; justify-content: center; gap: 10px; padding: 20px 48px; margin: 24px auto; width: fit-content; background: var(--color-card); border-radius: 40px; border: 2px solid rgba(255, 140, 66, 0.25); box-shadow: 0 4px 14px rgba(255, 140, 66, 0.12); font-size: 26px; font-weight: 700; color: var(--color-primary); }
+
+/* ★v5 统一紧凑胶囊主按钮：替代各页行内 width:'360px'(真实px不转rpx) 造成的满宽粗块；
+   fit-content 自适应宽 + min 88 触控高，长短文案都不膨胀 */
+.pill-green, .pill-orange, .pill-ghost { display: flex; align-items: center; justify-content: center; margin: 20px auto 0; width: fit-content; min-width: 320px; min-height: 88px; padding: 0 56px; border-radius: 44px; font-size: 30px; font-weight: 700; box-sizing: border-box; transition: transform 120ms ease, opacity 120ms ease; }
+.pill-green { background: #7FC96A; color: #fff; box-shadow: 0 6px 16px rgba(127, 201, 106, 0.3); }
+.pill-orange { background: linear-gradient(135deg, #FFB067, #FF8C42); color: #fff; box-shadow: 0 6px 16px rgba(255, 140, 66, 0.3); }
+.pill-ghost { background: var(--color-card); color: var(--color-primary); border: 2px solid rgba(255, 140, 66, 0.35); }
+.pill-green:active, .pill-orange:active, .pill-ghost:active { transform: scale(0.97); opacity: 0.9; }
+.pill-green.disabled, .pill-orange.disabled { opacity: 0.5; }
 
 /* ===== 全局夜间/睡前模式微调（.theme-dark 下硬编白组件）===== */
 /* ★根因：未显式设 color 的文字（.big/.nm 等）继承自 page 的浅色计算值，.theme-dark 变量覆盖不及祖先→在此重申 color 让后代继承夜间白 */

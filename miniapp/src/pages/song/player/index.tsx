@@ -20,6 +20,8 @@ import { mockSong } from '@/services/mock';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
 import { usePlayerStore, PlayMode } from '@/stores/playerStore';
+import iconPlaying from '@/assets/icon_playing.png';
+import iconPlayReady from '@/assets/icon_play_ready.png';
 
 const MODE_LABEL: Record<PlayMode, string> = { order: '顺序播放', 'repeat-all': '列表循环', 'repeat-one': '单曲循环' };
 
@@ -153,7 +155,12 @@ export default function SongPlayer() {
   };
 
   return (
-    <View className={`page-v4 ${night}`} style={{ textAlign: 'center' }}>
+    <View className={`page-v4 ${night}`} style={{ textAlign: 'center', position: 'relative' }}>
+      {/* ★v5 右上角工具（收藏+分享） */}
+      <View className="stools">
+        <View className="stool" onClick={() => void favorite()}><Icon name="heart" size={24} color={favId ? '#FF7B93' : '#8B8D9E'} /></View>
+        <Button className="share-stool" openType="share"><Icon name="share" size={24} color="#8B8D9E" /></Button>
+      </View>
       {/* 真封面（队列项 coverUrl，切歌跟随）；无封面回退青绿渐变 */}
       <View className="scov">
         {currentCover
@@ -189,20 +196,13 @@ export default function SongPlayer() {
       />
       <View className="ctrls">
         <View className="cbtn" onClick={() => skip(-1)}><Icon name="prev" size={40} color={night ? '#E8ECF8' : '#2D3142'} /></View>
-        <View className="cbtn main" style={{ background: 'radial-gradient(circle at 35% 30%,#7EDCD4,#3FC5BC 70%,#25A39B)' }} onClick={toggle}><Icon name={playing ? 'pause' : 'play'} size={54} color="#fff" /></View>
+        <Image className="cbtn-book" src={playing ? iconPlaying : iconPlayReady} mode="aspectFit" onClick={toggle} />
         <View className="cbtn" onClick={() => skip(1)}><Icon name="next" size={40} color={night ? '#E8ECF8' : '#2D3142'} /></View>
       </View>
-      {/* 播放模式切换：顺序 / 列表循环 / 单曲循环；倍速：固定五挡循环；收藏：歌曲独立收藏列表 */}
-      <View style={{ marginTop: '20px' }}>
-        <Text
-          className="chip"
-          onClick={() => usePlayerStore.getState().cyclePlayMode()}
-        >
-          🔁 {MODE_LABEL[playMode]}
-        </Text>
-        <Text className="chip" onClick={() => player.cycleRate()}>倍速 {playbackRate.toFixed(1)}x</Text>
-        <Text className={`chip ${favId ? 'on' : ''}`} onClick={() => void favorite()}>{favId ? '❤️ 已收藏' : '🤍 收藏'}</Text>
-        <Button className="share-chip" openType="share">📤 分享</Button>
+      {/* ★v5 模式+倍速胶囊（替换原 emoji chips） */}
+      <View className="splls">
+        <View className="spll" onClick={() => usePlayerStore.getState().cyclePlayMode()}>{MODE_LABEL[playMode]}</View>
+        <View className="spll" onClick={() => player.cycleRate()}>倍速 {playbackRate.toFixed(1)}×</View>
       </View>
       {CONFIG.USE_MOCK && <Text style={{ fontSize: '20px', color: 'var(--color-text-secondary)', display: 'block', marginTop: '16px' }}>示例：点播放演示歌词逐行高亮</Text>}
     </View>

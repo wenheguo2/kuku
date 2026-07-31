@@ -14,6 +14,8 @@ import TabBarV4 from '@/components/TabBarV4';
 import ShareBar from '@/components/ShareBar';
 import Icon from '@/components/Icon';
 import iconSearch from '@/assets/icon_search.png';
+import iconFriendCollection from '@/assets/icon_friend_collection.png';
+import iconFriendTest from '@/assets/icon_friend_test.png';
 import { useNight } from '@/hooks/useNight';
 import { useShareCard } from '@/hooks/useShareCard';
 import { useTabStore } from '@/stores/tabStore';
@@ -155,10 +157,10 @@ export default function GrowthHome() {
         <View className="fi"><Image className="im" src={iconSearch} mode="aspectFill" ariaLabel="搜字词图标" /></View>搜字/词<Text className="rt">识字 / 英语 / 拼音 ›</Text>
       </View>
       <View className="frow" onClick={() => Taro.navigateTo({ url: '/pages/growth/collection/index' })}>
-        <View className="fi" style={{ background: 'var(--color-primary-soft)' }}><Icon name="star" size={34} color="#FF8C42" /></View>朋友收集册<Text className="rt">查看全部 ›</Text>
+        <View className="fi"><Image className="im" src={iconFriendCollection} mode="aspectFill" ariaLabel="朋友收集册图标" /></View>朋友收集册<Text className="rt">查看全部 ›</Text>
       </View>
       <View className="frow" onClick={() => Taro.navigateTo({ url: '/pages/growth/comprehensive/index?subject=识字' })}>
-        <View className="fi" style={{ background: '#FFF0C4' }}><Icon name="crown" size={34} color="#B8860B" /></View>综合挑战<Text className="rt">攒满 10 好朋友 → 好伙伴 ›</Text>
+        <View className="fi"><Image className="im" src={iconFriendTest} mode="aspectFill" ariaLabel="友情大考验图标" /></View>友情大考验<Text className="rt">攒满 10 好朋友 → 好伙伴 ›</Text>
       </View>
     </ScrollView>
     {/* ★迷你栏/TabBar 在 ScrollView 外：weapp 下 ScrollView 内 fixed 子元素被裁剪不显示 */}

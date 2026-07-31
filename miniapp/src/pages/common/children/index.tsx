@@ -84,7 +84,7 @@ export default function Children() {
     <View className={`center ${night}`}>
       <Image src={iconChildren} mode="aspectFill" style={{ width: '112px', height: '112px', borderRadius: '28px' }} ariaLabel="孩子档案插画" />
       <Text className="muted" style={{ marginBottom: '28px' }}>登录后管理孩子档案</Text>
-      <View className="btn-primary" style={{ width: '360px' }} onClick={() => Taro.navigateTo({ url: '/pages/common/login/index' })}>去登录</View>
+      <View className="pill-orange" onClick={() => Taro.navigateTo({ url: '/pages/common/login/index' })}>去登录</View>
     </View>
   );
 
@@ -107,7 +107,7 @@ export default function Children() {
           {list.length > 1 && <Text className="chip" style={{ color: '#E4572E', borderColor: '#F3C6BC' }} onClick={() => remove(c)}>删除</Text>}
         </View>
       ))}
-      <View className="btn-primary" style={{ marginTop: '12px' }} onClick={add}>+ 添加孩子</View>
+      <View className="pill-orange" style={{ marginTop: '16px' }} onClick={add}>+ 添加孩子</View>
     </View>
   );
 }

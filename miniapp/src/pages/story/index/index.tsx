@@ -149,7 +149,14 @@ export default function StoryHome() {
             <View className="htag" style={{ position: 'absolute', top: '20px', right: '20px' }} onClick={(e) => { e.stopPropagation(); nextHero(); }}>换一个 ↻</View>
             <View className="hplay"><Icon name="play" size={42} color="#fff" /></View>
           </View>
-          <View className="dots-i"><Text className="on" /><Text /><Text /></View>
+          {/* 指示点：真实反映当前推荐在池中的位置（原先硬编 3 点且首点恒亮，是死装饰） */}
+          {hots.length > 1 && (
+            <View className="dots-i">
+              {Array.from({ length: Math.min(5, hots.length) }, (_, i) => (
+                <Text key={i} className={`d ${i === ((dayOfYear() + heroShift) % Math.min(5, hots.length)) ? 'on' : ''}`} />
+              ))}
+            </View>
+          )}
         </View>
       )}
 
@@ -201,7 +208,7 @@ export default function StoryHome() {
               {buildCoverUrl(p.cover) ? <Image className="cvr" webp src={buildCoverUrl(p.cover)} mode="aspectFill" ariaLabel={`${p.title}封面`} /> : <View className="cvr" />}
               <View className="gr">
                 <Text className="nm">{p.title}</Text>
-                <Text className="ds">{p.level ? <Text className="lvb">{p.level}</Text> : null}{p.subject}</Text>
+                <Text className="ds">{p.subject}</Text>
               </View>
               <View className="cp"><Icon name="play" size={28} color="#fff" /></View>
             </View>

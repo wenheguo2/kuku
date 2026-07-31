@@ -60,9 +60,13 @@ export default function StoryList() {
   const subCats = data?.sub_categories ?? []; // multi_level 子分类导航
 
   // 顶部推荐：单篇优先；纯章回分类则推荐章回作品（保证有内容的分类都有推荐）
+  // ★v5：步长取样打散——原先取前 4 条，与下方「全部故事」前 4 条逐字重复，看着像 bug（走查 s06 发现）
   const recPool = stories.length ? stories : chaptered;
   const recIsStory = stories.length > 0;
-  const rec = recPool.length ? Array.from({ length: Math.min(REC_WINDOW, recPool.length) }, (_, i) => recPool[(recOffset + i) % recPool.length]) : [];
+  const recStride = Math.max(1, Math.floor(recPool.length / REC_WINDOW));
+  const rec = recPool.length
+    ? Array.from({ length: Math.min(REC_WINDOW, recPool.length) }, (_, i) => recPool[(recOffset + 1 + i * recStride) % recPool.length])
+    : [];
   const shuffle = () => setRecOffset((o) => (o + REC_WINDOW) % Math.max(1, recPool.length));
 
   const openWork = (e: EntryItem) =>
@@ -90,7 +94,6 @@ export default function StoryList() {
       <Thumb e={e} />
       <View className="gr">
         <Text className="nm">{e.title}</Text>
-        <Text className="ds">{e.level ? <Text className="lvb">{e.level}</Text> : null}</Text>
       </View>
       <View className="cp"><Icon name="play" size={28} color="#fff" /></View>
     </View>
@@ -170,7 +173,7 @@ export default function StoryList() {
           {stories.slice(0, visibleCount).map((e) => <StoryRow key={e.entry_id} e={e} />)}
           {visibleCount < stories.length ? (
             <View
-              className="btn-ghost"
+              className="load-more-pill"
               onClick={() => setVisibleCount((count) => Math.min(count + PAGE_SIZE, stories.length))}
             >
               再加载 {Math.min(PAGE_SIZE, stories.length - visibleCount)} 个

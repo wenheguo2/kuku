@@ -27,11 +27,19 @@ describe('isNormalPassed — 识字', () => {
 });
 
 describe('isNormalPassed — 英语', () => {
-  it('听音+拼音对 且 组词≥1对 → 通过', () => {
+  // ★ 2026-07-30：英语题组已取消 2X（听发音选单词 / pinyin 位），
+  //   回退合成题口径与识字对齐：听音对 + 组词至少 1 道对，拼音不再是必要条件
+  it('听音对 且 组词≥1对 → 通过', () => {
     expect(isNormalPassed('英语', judged(true, true, false, true))).toBe(true);
   });
-  it('拼音错 → 不通过（英语要求拼音对）', () => {
-    expect(isNormalPassed('英语', judged(true, false, true, true))).toBe(false);
+  it('拼音错但听音对且组词对 → 仍通过（2X 已取消，不再要求拼音）', () => {
+    expect(isNormalPassed('英语', judged(true, false, true, true))).toBe(true);
+  });
+  it('听音错 → 不通过', () => {
+    expect(isNormalPassed('英语', judged(false, true, true, true))).toBe(false);
+  });
+  it('听音对但组词全错 → 不通过', () => {
+    expect(isNormalPassed('英语', judged(true, true, false, false))).toBe(false);
   });
 });
 

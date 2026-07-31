@@ -96,8 +96,9 @@ export default function SongList() {
           </View>
         ))}
         {songs.length > visibleCount ? (
-          <View className="btn-ghost" onClick={() => setVisibleCount((n) => Math.min(n + PAGE_SIZE, songs.length))}>
-            再加载 {Math.min(PAGE_SIZE, songs.length - visibleCount)} 首
+          <View className="load-more-pill" onClick={() => setVisibleCount((n) => Math.min(n + PAGE_SIZE, songs.length))}>
+            <Icon name="down" size={22} color="var(--color-primary)" />
+            <Text>再加载 {Math.min(PAGE_SIZE, songs.length - visibleCount)} 首</Text>
           </View>
         ) : null}
       </StateView>
