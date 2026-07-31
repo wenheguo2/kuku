@@ -7,8 +7,8 @@ import { View, Image } from '@tarojs/components';
 import Taro from '@tarojs/taro';
 import { usePlayerStore } from '@/stores/playerStore';
 import { player } from '@/services/audioPlayer';
-import iconPlaying from '@/assets/icon_playing.png';
-import iconPlayReady from '@/assets/icon_play_ready.png';
+import iconPlaying from '@/assets/icon_playing.jpg';
+import iconPlayReady from '@/assets/icon_play_ready.jpg';
 import './index.scss';
 
 const PLAYER_PAGE: Record<string, string> = {

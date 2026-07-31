@@ -10,8 +10,8 @@ import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
 import { usePlayerStore } from '@/stores/playerStore';
 import { buildAssetUrl, buildCoverUrl, guessCoverFromPath, guessCoverChain } from '@/utils/path';
-import iconStory from '@/assets/icon_fav_story.png';
-import iconSong from '@/assets/icon_fav_song.png';
+import iconStory from '@/assets/icon_fav_story.jpg';
+import iconSong from '@/assets/icon_fav_song.jpg';
 import StateView from '@/components/StateView';
 import { useNight } from '@/hooks/useNight';
 
@@ -139,7 +139,7 @@ export default function Favorites() {
           const src = chain[coverIdx[f.favorite_id] ?? 0] || (tab === 'song' ? iconSong : iconStory);
           return (
             <View key={f.favorite_id} className="list-row" onClick={() => (tab === 'story' ? openStory(i) : playSongsFrom(i))}>
-              <Image className="cvr" src={src} mode="aspectFill" onError={() => setCoverIdx((m) => ({ ...m, [f.favorite_id]: (m[f.favorite_id] ?? 0) + 1 }))} ariaLabel={`${f.title}封面`} />
+              <Image className="cvr" lazyLoad src={src} mode="aspectFill" onError={() => setCoverIdx((m) => ({ ...m, [f.favorite_id]: (m[f.favorite_id] ?? 0) + 1 }))} ariaLabel={`${f.title}封面`} />
               <View className="gr"><Text className="nm">{f.title || f.content_id}</Text></View>
               <View className="load-more-pill" style={{ padding: '8px 18px', margin: 0, fontSize: '22px', color: '#E4572E', borderColor: '#F3C6BC' }} onClick={(e) => { e.stopPropagation(); void remove(f.favorite_id); }}>取消</View>
             </View>

@@ -28,6 +28,9 @@ const STAGE_NAMES = ['未遇见', '已相识', '好朋友', '好伙伴'];
 const SUBJECTS: readonly Subject[] = ['识字', '英语', '拼音'];
 const COMPREHENSIVE_SIZE = 10;
 const COMPREHENSIVE_PASS = 8;
+// ★前 N 课（编号 0..N-1）整课免费；第 N 课起（seq>=N，含学习1）需权益期。与前端 lessonCatalog.FREE_LESSON_COUNT 保持一致。
+const FREE_LESSON_COUNT = 10;
+const parseLessonSeq = (wordId: string): number => { const m = String(wordId ?? '').match(/(\d+)/); return m ? Number(m[1]) : 0; };
 
 @Injectable()
 export class ProgressService {
@@ -93,10 +96,10 @@ export class ProgressService {
 
   /** 提交学习完成（听/学习模块）：驱动 0→1 已相识 */
   async submitStudy(userId: string, childId: string, subject: Subject, wordId: string, studyType: StudyType, wordText?: string) {
-    // ★ study2/study3 为付费边界（PRD G-03）：会员 active 或免费期内可用（试用期可体验）；服务端强制门控防前端绕过
-    if (studyType === 'study2' || studyType === 'study3') {
+    // ★付费边界（前 10 课免费）：编号 0-9 前 10 课整课免费；第 11 课起（含学习1）需权益期（会员 active 或免费期内）。服务端按 wordId 内课号强制门控，防前端绕过。
+    if (parseLessonSeq(wordId) >= FREE_LESSON_COUNT) {
       const allowed = await this.membership.canAccessAll(userId);
-      if (!allowed) throw new ForbiddenException('学习2/学习3 为会员专属（免费期内可体验）');
+      if (!allowed) throw new ForbiddenException('第 11 课起需权益期（会员或免费期内可体验）');
     }
     const row = await this.getOrCreate(userId, childId, subject, wordId, wordText);
     if (studyType === 'study1') row.study1Completed = true;
@@ -327,11 +330,12 @@ export class ProgressService {
   /**
    * 字词详情（课程详情页用，对齐 md/11 §5.2）
    * ⭐ 真实词库/笔画未入库：pinyin/strokes/释义/例句为占位（同 quiz 策略），接入后替换。
-   * learning_modules：学习1 免费，学习2/3 会员（付费边界 PRD 2.4.2）。
+   * learning_modules：前 10 课整课免费；第 11 课起 is_vip=true（付费边界＝前 10 课）。
    */
   async getVocabulary(childId: string, wordId: string) {
     const row = await this.progress.findOne({ where: { childId, wordId } });
     const stage = row?.currentStage ?? 0;
+    const vip = parseLessonSeq(wordId) >= FREE_LESSON_COUNT; // 前 10 课整课免费，其余 is_vip=true
     return {
       word_id: wordId,
       word: row?.wordText ?? wordId,
@@ -341,9 +345,9 @@ export class ProgressService {
       stroke_count: 0,
       strokes: [], // TODO: 接入笔画数据
       learning_modules: [
-        { module_id: 'learn_1', title: '学习1：认读', type: 'recognition', is_vip: false, completed: row?.study1Completed ?? false },
-        { module_id: 'learn_2', title: '学习2：组词', type: 'word_formation', is_vip: true, completed: row?.study2Completed ?? false },
-        { module_id: 'learn_3', title: '学习3：造句', type: 'sentence_making', is_vip: true, completed: row?.study3Completed ?? false },
+        { module_id: 'learn_1', title: '学习1：认读', type: 'recognition', is_vip: vip, completed: row?.study1Completed ?? false },
+        { module_id: 'learn_2', title: '学习2：组词', type: 'word_formation', is_vip: vip, completed: row?.study2Completed ?? false },
+        { module_id: 'learn_3', title: '学习3：造句', type: 'sentence_making', is_vip: vip, completed: row?.study3Completed ?? false },
       ],
       examples: [], // TODO: 接入例句
       test_available: true,

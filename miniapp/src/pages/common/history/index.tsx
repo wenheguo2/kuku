@@ -9,8 +9,8 @@ import Taro, { useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
 import { buildCoverUrl, guessCoverChain } from '@/utils/path';
-import iconStory from '@/assets/icon_fav_story.png';
-import iconSong from '@/assets/icon_fav_song.png';
+import iconStory from '@/assets/icon_fav_story.jpg';
+import iconSong from '@/assets/icon_fav_song.jpg';
 import StateView from '@/components/StateView';
 import { useNight } from '@/hooks/useNight';
 
@@ -113,7 +113,7 @@ export default function History() {
               const src = chain[coverIdx[h.history_id] ?? 0] || (h.content_type === 'song' ? iconSong : iconStory);
               return (
                 <View key={h.history_id} className="list-row" onClick={() => openHist(h)}>
-                  <Image className="cvr" src={src} mode="aspectFill" onError={() => setCoverIdx((m) => ({ ...m, [h.history_id]: (m[h.history_id] ?? 0) + 1 }))} ariaLabel={`${h.title || '内容'}封面`} />
+                  <Image className="cvr" lazyLoad src={src} mode="aspectFill" onError={() => setCoverIdx((m) => ({ ...m, [h.history_id]: (m[h.history_id] ?? 0) + 1 }))} ariaLabel={`${h.title || '内容'}封面`} />
                   <View className="gr">
                     <Text className="nm">{h.title || h.content_id}</Text>
                     <Text className="ds">{new Date(h.played_at).toLocaleString()}</Text>

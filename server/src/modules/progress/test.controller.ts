@@ -56,7 +56,8 @@ export class TestController {
     @Query('word_text') wordText = '',
   ) {
     await this.ownership.assertOwner(userId, childId);
-    return this.service.getQuiz(childId, subject, wordId, wordText);
+    // 防超长入参触发 DB 层 500：wordId 对齐 VARCHAR(64)、wordText 对齐 VARCHAR(32)
+    return this.service.getQuiz(childId, subject, wordId.slice(0, 64), (wordText || '').slice(0, 32));
   }
 
   @Post('quiz/:word_id')

@@ -19,7 +19,7 @@ export class RateLimitGuard implements CanActivate {
     const path = String(request.path ?? request.url ?? '');
     const method = String(request.method ?? 'GET');
     const identity = request.user?.userId ? `u:${request.user.userId}` : `ip:${request.ip ?? 'unknown'}`;
-    const rule = this.ruleFor(path);
+    const rule = this.ruleFor(path, method);
     const key = `${identity}:${method}:${rule.name}`;
     const now = Date.now();
     const current = this.buckets.get(key);
@@ -36,9 +36,10 @@ export class RateLimitGuard implements CanActivate {
     return true;
   }
 
-  private ruleFor(path: string): { name: string; limit: number } {
+  private ruleFor(path: string, method: string): { name: string; limit: number } {
     if (path.includes('/auth/login')) return { name: 'login', limit: 20 };
-    if (path.includes('/orders')) return { name: 'orders', limit: 20 };
+    // 订单按 method 拆分：POST 下单严格限速防刷；GET 列表查询放宽，避免正常翻查被误伤
+    if (path.includes('/orders')) return method === 'GET' ? { name: 'orders_read', limit: 60 } : { name: 'orders_write', limit: 20 };
     if (path.includes('/progress') || path.includes('/test')) return { name: 'learning', limit: 60 };
     if (path.includes('/search')) return { name: 'search', limit: 30 };
     return { name: 'other', limit: 100 };

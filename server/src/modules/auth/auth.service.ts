@@ -143,13 +143,14 @@ export class AuthService {
       // 绑定邀请关系（一次性）
       newUser.invitedBy = inviter;
       await this.users.update({ id: newUser.id }, { invitedBy: inviter });
-      // 奖励上限风控：超过上限只绑定不再发奖
-      if ((inviterUser.referralCount ?? 0) >= REFERRAL_MAX_COUNT) return;
-      const base = Math.max(inviterUser.freeUntil ? new Date(inviterUser.freeUntil).getTime() : 0, Date.now());
-      const newFreeUntil = new Date(base + REFERRAL_REWARD_DAYS * DAY_MS);
-      await this.users.update(
-        { id: inviter },
-        { freeUntil: newFreeUntil, referralCount: (inviterUser.referralCount ?? 0) + 1 },
+      // 奖励发放用条件原子更新，避免并发被同一人邀请时“读-改-写”导致超发：
+      //   WHERE referral_count < 上限 原子占名额；free_until 在库内以 max(现值, now) 为基准累加 REWARD 天。
+      await this.dataSource.query(
+        `UPDATE users
+            SET referral_count = referral_count + 1,
+                free_until = GREATEST(COALESCE(free_until, NOW()), NOW()) + ($2::int * INTERVAL '1 day')
+          WHERE id = $1 AND referral_count < $3::int`,
+        [inviter, REFERRAL_REWARD_DAYS, REFERRAL_MAX_COUNT],
       );
     } catch (error) {
       console.warn('拉新绑定/奖励失败（不影响登录）', error);

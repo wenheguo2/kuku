@@ -20,7 +20,7 @@ export class ParentService {
     const s = await this.settings.findOne({ where: { userId } });
     return {
       timer_minutes: s?.timerMinutes ?? 30,
-      settings: s?.settingsJson ?? { theme: 'system', review_interval_days: 14 },
+      settings: s?.settingsJson ?? { theme: 'system' },
     };
   }
 
@@ -46,15 +46,17 @@ export class ParentService {
     return out;
   }
 
-  /** 本周成长概览（本周新增：已相识/好朋友/好伙伴） */
+  /** 近 7 日成长概览：按“当前等级”唯一归桁计数（不累计重复计）。
+   *  口径为“近 7 日有成长行为且当前处于该等级的字词数”——learning_progress 无 stage 变更历史，
+   *  无法精确到“本周晋升”，故不用 >= 累计（否则一个 3 级字会同时计入三栏，虚高重复）。 */
   async weekly(childId: string) {
     const weekAgo = new Date(Date.now() - 7 * 86400_000);
     const rows = await this.progress.find({ where: { childId, updatedAt: MoreThan(weekAgo) } });
     return {
       child_id: childId,
       weekly_stats: {
-        new_acquainted: rows.filter((r) => r.currentStage >= 1).length,
-        new_friends: rows.filter((r) => r.currentStage >= 2).length,
+        new_acquainted: rows.filter((r) => r.currentStage === 1).length,
+        new_friends: rows.filter((r) => r.currentStage === 2).length,
         new_buddies: rows.filter((r) => r.currentStage >= 3).length,
       },
     };

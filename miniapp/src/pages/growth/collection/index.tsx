@@ -14,7 +14,7 @@ interface CollectionItem { subject: string; acquainted: number; friends: number;
 interface Sticker { key: string; name: string; subject: string | null }
 
 /** 各学科词库总数（与 lessonCatalog 索引一致；收集册只是展示，硬编码避免额外拉取） */
-const TOTAL_WORDS: Record<string, number> = { '识字': 3499, '英语': 3910, '拼音': 100 };
+const TOTAL_WORDS: Record<string, number> = { '识字': 3499, '英语': 3910 };
 
 export default function Collection() {
   const selectedChildId = useUserStore((s) => s.selectedChildId);

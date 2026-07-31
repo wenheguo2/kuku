@@ -19,7 +19,7 @@ import avatarImg from '@/assets/avatar.jpg';
 import iconNight from '@/assets/icon_night.png';
 import iconDay from '@/assets/icon_day.png';
 import iconSearch from '@/assets/icon_search.png';
-import iconFreeStory from '@/assets/icon_free_story.png';
+import iconFreeStory from '@/assets/icon_free_story.jpg';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
 import { shareCard } from '@/utils/share';
@@ -209,7 +209,7 @@ export default function StoryHome() {
           <ScrollView scrollX className="hscroll">
             {chaptered.map((w) => (
               <View key={w.path} className="scard" onClick={() => goWork(w.path, w.title)}>
-                {buildCoverUrl(w.cover) ? <Image className="cvr" webp src={buildCoverUrl(w.cover)} mode="aspectFill" ariaLabel={`${w.title}封面`} /> : <View className="cvr" />}
+                {buildCoverUrl(w.cover) ? <Image className="cvr" lazyLoad webp src={buildCoverUrl(w.cover)} mode="aspectFill" ariaLabel={`${w.title}封面`} /> : <View className="cvr" />}
                 <Text className="nm">{w.title}</Text>
                 <Text className="ds">章回 · {w.total_chapters} 章</Text>
               </View>
@@ -224,7 +224,7 @@ export default function StoryHome() {
           <View className="sec-h"><Text className="t">✨ 为你推荐</Text><Text className="m" onClick={shuffle}>换一换 ↻</Text></View>
           {win.map((p) => (
             <View key={p.path} className="list-row" style={{ margin: '0 4px 18px' }} onClick={() => playPick(p.path, p.title)}>
-              {buildCoverUrl(p.cover) ? <Image className="cvr" webp src={buildCoverUrl(p.cover)} mode="aspectFill" ariaLabel={`${p.title}封面`} /> : <View className="cvr" />}
+              {buildCoverUrl(p.cover) ? <Image className="cvr" lazyLoad webp src={buildCoverUrl(p.cover)} mode="aspectFill" ariaLabel={`${p.title}封面`} /> : <View className="cvr" />}
               <View className="gr">
                 <Text className="nm">{p.title}</Text>
                 <Text className="ds">{p.subject}</Text>
@@ -240,7 +240,7 @@ export default function StoryHome() {
       <View className="tilegrid">
         {(global?.subjects ?? []).filter((s) => !NON_STORY_SUBJECT_IDS.includes(s.subject_id)).map((s) => (
           <View key={s.subject_id} className="tile" onClick={() => goSubject(s.subject_id)}>
-            {buildCoverUrl(s.cover?.cover_image_url) ? <Image className="cover" webp src={buildCoverUrl(s.cover?.cover_image_url)} mode="aspectFill" ariaLabel={`${s.subject_name}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#FFB067,#FF8C42)' }} />}
+            {buildCoverUrl(s.cover?.cover_image_url) ? <Image className="cover" lazyLoad webp src={buildCoverUrl(s.cover?.cover_image_url)} mode="aspectFill" ariaLabel={`${s.subject_name}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#FFB067,#FF8C42)' }} />}
             <View className="shade" />
             <View className="tt"><Text className="a">{s.subject_name}</Text><Text className="b">{s.total_entries} 个故事</Text></View>
           </View>

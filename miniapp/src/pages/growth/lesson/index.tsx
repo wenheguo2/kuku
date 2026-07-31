@@ -8,7 +8,7 @@ import { useEffect, useState } from 'react';
 import { View, Text, ScrollView } from '@tarojs/components';
 import Taro, { useRouter, useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
-import { loadLessonEntries, LessonEntry } from '@/services/lessonCatalog';
+import { loadLessonEntries, LessonEntry, isFreeLesson } from '@/services/lessonCatalog';
 import { useUserStore } from '@/stores/userStore';
 import { useNight } from '@/hooks/useNight';
 
@@ -31,7 +31,7 @@ export default function Lesson() {
   const subject = decodeURIComponent(router.params.subject || '识字');
   const initStage = router.params.stage !== undefined ? Number(router.params.stage) : undefined;
   const selectedChildId = useUserStore((s) => s.selectedChildId);
-  const membershipStatus = useUserStore((s) => s.membershipStatus);
+  const canAccessAll = useUserStore((s) => s.canAccessAll);
   const [stages, setStages] = useState<Record<string, number>>({});
   const [filter, setFilter] = useState<number | 'all'>(initStage !== undefined ? initStage : 'all');
   const [entries, setEntries] = useState<LessonEntry[]>([]);
@@ -61,11 +61,20 @@ export default function Lesson() {
   };
   useDidShow(loadStages);
 
-  const study = async (wordId: string, wordText: string) => {
+  // ★前 10 课（seq 0-9）免费；第 11 课起整课（含认一认/学习1）需权益期。免费课或权益期内放行。
+  const guardLesson = (seq: number) => {
+    if (isFreeLesson(seq) || canAccessAll) return true;
+    Taro.showToast({ title: '这里需要爸爸妈妈帮忙打开哦', icon: 'none' });
+    setTimeout(() => Taro.navigateTo({ url: '/pages/common/member/index' }), 600);
+    return false;
+  };
+
+  const study = async (w: LessonEntry) => {
     if (!selectedChildId) { Taro.navigateTo({ url: '/pages/common/login/index' }); return; }
+    if (!guardLesson(w.seq)) return;
     try {
-      await api.post('/progress/study', { child_id: selectedChildId, subject, word_id: wordId, word_text: wordText, study_type: 'study1' });
-      setStages((s) => ({ ...s, [wordId]: Math.max(1, s[wordId] ?? 0) }));
+      await api.post('/progress/study', { child_id: selectedChildId, subject, word_id: w.id, word_text: w.text, study_type: 'study1' });
+      setStages((s) => ({ ...s, [w.id]: Math.max(1, s[w.id] ?? 0) }));
       Taro.showToast({ title: '已相识 🟡', icon: 'none' });
     } catch (error) {
       console.warn('提交进度失败', error);
@@ -73,18 +82,16 @@ export default function Lesson() {
     }
   };
 
-  const challenge = (wordId: string, wordText: string) =>
-    Taro.navigateTo({ url: `/pages/growth/challenge/index?subject=${encodeURIComponent(subject)}&word_id=${encodeURIComponent(wordId)}&word_text=${encodeURIComponent(wordText)}` });
-
-  const play = (w: LessonEntry, studyType: 'study1' | 'study2' | 'study3' = 'study1') =>
-    Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent(subject)}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=${studyType}` });
-  const openVipStudy = (w: LessonEntry, studyType: 'study2' | 'study3') => {
-    if (membershipStatus !== 'active') {
-      Taro.navigateTo({ url: '/pages/common/member/index' });
-      return;
-    }
-    play(w, studyType);
+  const challenge = (w: LessonEntry) => {
+    if (!guardLesson(w.seq)) return;
+    Taro.navigateTo({ url: `/pages/growth/challenge/index?subject=${encodeURIComponent(subject)}&word_id=${encodeURIComponent(w.id)}&word_text=${encodeURIComponent(w.text)}` });
   };
+
+  const play = (w: LessonEntry, studyType: 'study1' | 'study2' | 'study3' = 'study1') => {
+    if (!guardLesson(w.seq)) return;
+    Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent(subject)}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=${studyType}&seq=${w.seq}` });
+  };
+  const openVipStudy = (w: LessonEntry, studyType: 'study2' | 'study3') => play(w, studyType);
 
   const allWords = entries.map((w) => ({ ...w, stage: stages[w.id] ?? 0 }));
   const filtered = filter === 'all' ? allWords : allWords.filter((w) => w.stage === filter);
@@ -121,6 +128,7 @@ export default function Lesson() {
 
       {shown.map((w) => {
         const meta = stageMeta(w.stage);
+        const locked = !(isFreeLesson(w.seq) || canAccessAll);
         return (
           <View key={w.id} className="card" style={{ padding: '10px 12px 20px', overflow: 'hidden' }}>
             <View className="list-row" style={{ background: 'transparent', boxShadow: 'none', marginBottom: '4px' }}>
@@ -134,21 +142,21 @@ export default function Lesson() {
                   {/* 亲密度级别徽章 */}
                   <Text style={{ fontSize: '20px', padding: '2px 12px', borderRadius: '999px', color: '#fff', background: meta.color }}>{meta.label}</Text>
                 </View>
-                <Text className="ds" style={{ color: w.stage >= 1 ? 'var(--stage-1)' : undefined }} onClick={() => study(w.id, w.text)}>
-                  {w.stage >= 1 ? '✓ 认一认 已完成' : '认一认：读一读（点击）'}
+                <Text className="ds" style={{ color: w.stage >= 1 ? 'var(--stage-1)' : undefined }} onClick={() => study(w)}>
+                  {w.stage >= 1 ? '✓ 认一认 已完成' : locked ? '🔒 认一认（需权益）' : '认一认：读一读（点击）'}
                 </Text>
               </View>
               <View className="play-s" style={{ background: '#E5F6E0', color: '#7FC96A' }} onClick={() => play(w)}>▶</View>
             </View>
             <View style={{ display: 'flex', gap: '12px', margin: '0 12px 12px' }}>
               <View className="chip" onClick={() => openVipStudy(w, 'study2')}>
-                {membershipStatus === 'active' ? '懂一懂：理解' : '懂一懂：会员专属'}
+                {!locked ? '懂一懂：理解' : '懂一懂：会员专属'}
               </View>
               <View className="chip" onClick={() => openVipStudy(w, 'study3')}>
-                {membershipStatus === 'active' ? '用一用：造句' : '用一用：会员专属'}
+                {!locked ? '用一用：造句' : '用一用：会员专属'}
               </View>
             </View>
-            <View className="btn-green" style={{ margin: '0 auto', width: '230px', minHeight: '40px', fontSize: '14px', borderRadius: '20px', padding: '0', display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={() => challenge(w.id, w.text)}>去挑战（成为好朋友）</View>
+            <View className="btn-green" style={{ margin: '0 auto', width: '230px', minHeight: '40px', fontSize: '14px', borderRadius: '20px', padding: '0', display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={() => challenge(w)}>去挑战（成为好朋友）</View>
           </View>
         );
       })}

@@ -21,7 +21,7 @@ export interface LessonEntry {
   seq: number;
 }
 
-const SUBJECT_DIR: Record<string, string> = { 识字: 'F1识字', 英语: 'F2英语', 拼音: 'F3拼音' };
+const SUBJECT_DIR: Record<string, string> = { 识字: 'F1识字', 英语: 'F2英语' };
 
 const MOCK_WORDS: Record<string, LessonEntry[]> = {
   识字: [
@@ -32,10 +32,6 @@ const MOCK_WORDS: Record<string, LessonEntry[]> = {
   英语: [
     { id: 'apple_001', text: 'apple', path: '', seq: 0 },
     { id: 'cat_001', text: 'cat', path: '', seq: 1 },
-  ],
-  拼音: [
-    { id: 'a_001', text: 'ā', path: '', seq: 0 },
-    { id: 'o_001', text: 'ō', path: '', seq: 1 },
   ],
 };
 
@@ -68,6 +64,10 @@ export async function loadLessonEntries(subject: string): Promise<LessonEntry[]>
 /** 学习挡位 → 课内目录名 */
 export const STUDY_DIR: Record<string, string> = { study1: '学习1', study2: '学习2', study3: '学习3' };
 
+/** ★前 N 课免费（编号 0..N-1）；第 N 课（seq>=N）起整课（含学习1）需权益期 canAccessAll。识字/英语适用。 */
+export const FREE_LESSON_COUNT = 10;
+export const isFreeLesson = (seq: number) => seq < FREE_LESSON_COUNT;
+
 /**
  * 按学科解析学习目录相对路径（实测物理结构，2026-07-29 按实际目录修正）：
  *  - 识字：{课}/学习1|2|3；拼音：{课}/学习1|2
@@ -90,6 +90,5 @@ export function studyOptions(subject: string, enLevel: 1 | 2 | 3 = 1): { key: st
   // ★展示标签用亲子/朋友框架（避开“学习”等学科培训类词眼）；key 仍为 study1/2/3 不变（后端门控/目录依赖）
   const make = (n: number) => Array.from({ length: n }, (_, i) => ({ key: `study${i + 1}`, label: ['认一认', '懂一懂', '用一用'][i] || `第${i + 1}步` }));
   if (subject === '英语') return make(EN_LEVEL_STUDIES[enLevel]);
-  if (subject === '拼音') return make(2);
   return make(3);
 }

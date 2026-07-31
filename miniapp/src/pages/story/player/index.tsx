@@ -20,8 +20,8 @@ import { useUserStore } from '@/stores/userStore';
 import { usePlayerStore } from '@/stores/playerStore';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
-import iconPlaying from '@/assets/icon_playing.png';
-import iconPlayReady from '@/assets/icon_play_ready.png';
+import iconPlaying from '@/assets/icon_playing.jpg';
+import iconPlayReady from '@/assets/icon_play_ready.jpg';
 
 export default function StoryPlayer() {
   const router = useRouter();

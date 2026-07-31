@@ -11,7 +11,7 @@ import TabBarV4 from '@/components/TabBarV4';
 import ShareBar from '@/components/ShareBar';
 import avatarImg from '@/assets/avatar.jpg';
 import iconSearch from '@/assets/icon_search.png';
-import iconFreeSong from '@/assets/icon_free_song.png';
+import iconFreeSong from '@/assets/icon_free_song.jpg';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
 import { useShareCard } from '@/hooks/useShareCard';
@@ -147,7 +147,7 @@ export default function SongHome() {
       <View className="tilegrid">
         {cats.map((c) => (
           <View key={c.path} className="tile" onClick={() => goCat(c)}>
-            {c.coverUrl ? <Image className="cover" src={c.coverUrl} mode="aspectFill" ariaLabel={`${c.name}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#5AD6CD,#3FC5BC)' }} />}
+            {c.coverUrl ? <Image className="cover" lazyLoad src={c.coverUrl} mode="aspectFill" ariaLabel={`${c.name}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#5AD6CD,#3FC5BC)' }} />}
             <View className="shade" />
             <View className="tt"><Text className="a">{c.name}</Text><Text className="b">{c.count ? `${c.count} 首` : ''}</Text></View>
           </View>

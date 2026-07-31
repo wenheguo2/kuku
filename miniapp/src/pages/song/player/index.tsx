@@ -21,8 +21,8 @@ import { mockSong } from '@/services/mock';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
 import { usePlayerStore, PlayMode } from '@/stores/playerStore';
-import iconPlaying from '@/assets/icon_playing.png';
-import iconPlayReady from '@/assets/icon_play_ready.png';
+import iconPlaying from '@/assets/icon_playing.jpg';
+import iconPlayReady from '@/assets/icon_play_ready.jpg';
 
 const MODE_LABEL: Record<PlayMode, string> = { order: '顺序播放', 'repeat-all': '列表循环', 'repeat-one': '单曲循环' };
 

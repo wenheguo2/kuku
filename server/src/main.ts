@@ -13,6 +13,7 @@ import { ConfigService } from '@nestjs/config';
 import { NestFactory } from '@nestjs/core';
 import type { Request, Response, NextFunction } from 'express';
 import { json, urlencoded } from 'express';
+import compression from 'compression';
 import { join } from 'path';
 import { AppModule } from './app.module';
 import { AllExceptionsFilter } from './common/filters/all-exceptions.filter';
@@ -22,6 +23,10 @@ import { ResponseInterceptor } from './common/interceptors/response.interceptor'
 async function bootstrap() {
   const app = await NestFactory.create(AppModule, { bodyParser: false });
   const config = app.get(ConfigService);
+
+  // gzip 压缩：索引/搜索 JSON（单文件 1~2MB）与接口响应体积可省 ~80%，首屏/搜索更快。
+  // 默认 filter 会跳过 image/*、audio/* 等已压缩类型（不影响封面、也不破坏音频 Range 流式）。
+  app.use(compression());
 
   // 请求体大小限制（防超大 JSON 撑爆存储/带宽；与 track properties 上限配合）
   app.use(json({ limit: '1mb' }));

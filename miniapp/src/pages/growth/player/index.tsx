@@ -12,12 +12,12 @@ import { View, Text, Image } from '@tarojs/components';
 import Taro, { useRouter } from '@tarojs/taro';
 import { locateSegment, TimelineSeg } from '@/utils/timeline';
 import { buildAssetUrl } from '@/utils/path';
-import { resolveStudyDir, studyOptions, EN_LEVEL_STUDIES } from '@/services/lessonCatalog';
+import { resolveStudyDir, studyOptions, EN_LEVEL_STUDIES, isFreeLesson } from '@/services/lessonCatalog';
 import { useUserStore } from '@/stores/userStore';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
-import iconPlaying from '@/assets/icon_playing.png';
-import iconPlayReady from '@/assets/icon_play_ready.png';
+import iconPlaying from '@/assets/icon_playing.jpg';
+import iconPlayReady from '@/assets/icon_play_ready.jpg';
 
 const MOCK_TIMELINE: TimelineSeg[] = [
   { seq: 1, start_ms: 0, end_ms: 3000, duration_ms: 3000, segment_id: 's1', character: '酷酷', text: '这是一个月亮的夜晚' },
@@ -43,7 +43,10 @@ export default function TeachingPlayer() {
   // ★学习挡可切换（用户定：每课有多套内容要体现出来）：识字 学习1/2/3、拼音 1/2、英语 难度(初/中/高阶)×学习1/2
   const [studyType, setStudyType] = useState(router.params.study_type || 'study1');
   const [enLevel, setEnLevel] = useState<1 | 2 | 3>(1);
-  const membershipStatus = useUserStore((s) => s.membershipStatus);
+  const canAccessAll = useUserStore((s) => s.canAccessAll);
+  // ★前10课(seq0-9)免费；本课是否锁定 = 非免费课 且 无权益期（课表页携 seq 进入）
+  const lessonSeq = Number(router.params.seq ?? 0);
+  const lessonLocked = !(isFreeLesson(lessonSeq) || canAccessAll);
   const studyDir = resolveStudyDir(subject, studyType, enLevel);
   const [idx, setIdx] = useState(0);
   const [playing, setPlaying] = useState(true);
@@ -156,7 +159,7 @@ export default function TeachingPlayer() {
 
   // ★学习挡切换：首挡免费，其余会员（对齐词表页门控，话术家长化）；切换后 studyDir 变化自动重拉重播
   const guardVip = () => {
-    if (membershipStatus === 'active') return true;
+    if (!lessonLocked) return true;
     Taro.showToast({ title: '这里需要爸爸妈妈帮忙打开哦', icon: 'none' });
     setTimeout(() => Taro.navigateTo({ url: '/pages/common/member/index' }), 600);
     return false;
@@ -217,10 +220,10 @@ export default function TeachingPlayer() {
           {isReal && (
             <View className="elvl">
               {subject === '英语' && EN_LEVELS.map((o) => (
-                <Text key={o.lv} className={`c ${enLevel === o.lv ? 'on' : ''}`} onClick={() => switchLevel(o.lv)}>{o.label}{o.lv > 1 && membershipStatus !== 'active' ? ' 🔒' : ''}</Text>
+                <Text key={o.lv} className={`c ${enLevel === o.lv ? 'on' : ''}`} onClick={() => switchLevel(o.lv)}>{o.label}{o.lv > 1 && lessonLocked ? ' 🔒' : ''}</Text>
               ))}
               {studyOptions(subject, enLevel).map((o) => (
-                <Text key={o.key} className={`c ${studyType === o.key ? 'on' : ''}`} onClick={() => switchStudy(o.key)}>{o.label}{o.key !== 'study1' && membershipStatus !== 'active' ? ' 🔒' : ''}</Text>
+                <Text key={o.key} className={`c ${studyType === o.key ? 'on' : ''}`} onClick={() => switchStudy(o.key)}>{o.label}{o.key !== 'study1' && lessonLocked ? ' 🔒' : ''}</Text>
               ))}
             </View>
           )}

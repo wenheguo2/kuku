@@ -21,7 +21,7 @@ import { useNight } from '@/hooks/useNight';
 type Scope = 'story' | 'song' | 'growth';
 interface Hit { key: string; badge: string; thumb: string; title: string; sub: string; onClick: () => void; }
 
-const GROWTH_SUBJECTS = ['识字', '英语', '拼音'];
+const GROWTH_SUBJECTS = ['识字', '英语'];
 const HOT_WORDS: Record<Scope, string[]> = {
   story: ['三国', '哪吒', '成语', '西游', '恐龙'],
   song: ['摇篮曲', '刘备', '恐龙', '诗词歌曲'],

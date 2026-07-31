@@ -14,8 +14,8 @@ import TabBarV4 from '@/components/TabBarV4';
 import ShareBar from '@/components/ShareBar';
 import Icon from '@/components/Icon';
 import iconSearch from '@/assets/icon_search.png';
-import iconFriendCollection from '@/assets/icon_friend_collection.png';
-import iconFriendTest from '@/assets/icon_friend_test.png';
+import iconFriendCollection from '@/assets/icon_friend_collection.jpg';
+import iconFriendTest from '@/assets/icon_friend_test.jpg';
 import { useNight } from '@/hooks/useNight';
 import { useShareCard } from '@/hooks/useShareCard';
 import { useTabStore } from '@/stores/tabStore';
@@ -29,7 +29,6 @@ interface ProgList { words: { word_id: string; current_stage: number }[] }
 const SUBJECTS = [
   { name: '识字', color: 'var(--color-primary)' },
   { name: '英语', color: 'var(--color-blue)' },
-  { name: '拼音', color: 'var(--color-green)' },
 ];
 
 export default function GrowthHome() {
@@ -154,7 +153,7 @@ export default function GrowthHome() {
 
       {/* 入口 */}
       <View className="frow" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index?scope=growth' })}>
-        <View className="fi"><Image className="im" src={iconSearch} mode="aspectFill" ariaLabel="搜字词图标" /></View>搜字/词<Text className="rt">识字 / 英语 / 拼音 ›</Text>
+        <View className="fi"><Image className="im" src={iconSearch} mode="aspectFill" ariaLabel="搜字词图标" /></View>搜字/词<Text className="rt">识字 / 英语 ›</Text>
       </View>
       <View className="frow" onClick={() => Taro.navigateTo({ url: '/pages/growth/collection/index' })}>
         <View className="fi"><Image className="im" src={iconFriendCollection} mode="aspectFill" ariaLabel="朋友收集册图标" /></View>朋友收集册<Text className="rt">查看全部 ›</Text>

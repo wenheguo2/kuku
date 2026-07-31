@@ -13,8 +13,8 @@ import {
   cleanFreeSongTitle, freeSongCover, type FreePool,
 } from '@/services/freePool';
 import { guessCoverChain } from '@/utils/path';
-import iconFreeStory from '@/assets/icon_free_story.png';
-import iconFreeSong from '@/assets/icon_free_song.png';
+import iconFreeStory from '@/assets/icon_free_story.jpg';
+import iconFreeSong from '@/assets/icon_free_song.jpg';
 import StateView from '@/components/StateView';
 import MiniPlayer from '@/components/MiniPlayer';
 import { useNight } from '@/hooks/useNight';
@@ -109,7 +109,7 @@ export default function FreeZone() {
           const src = chain[coverIdx[s.p] ?? 0] || iconFreeStory;
           return (
             <View key={s.p} className="list-row" onClick={() => playStoryAt(i)}>
-              <Image className="cvr" src={src} mode="aspectFill" onError={() => setCoverIdx((m) => ({ ...m, [s.p]: (m[s.p] ?? 0) + 1 }))} ariaLabel={`${s.t}封面`} />
+              <Image className="cvr" lazyLoad src={src} mode="aspectFill" onError={() => setCoverIdx((m) => ({ ...m, [s.p]: (m[s.p] ?? 0) + 1 }))} ariaLabel={`${s.t}封面`} />
               <View className="gr"><Text className="nm">{s.t}</Text><Text className="ds">{s.s}</Text></View>
               <View className="cp"><Text style={{ color: '#fff', fontSize: '30px' }}>▶</Text></View>
             </View>
@@ -119,7 +119,7 @@ export default function FreeZone() {
           const src = freeSongCover(s.p) || iconFreeSong;
           return (
             <View key={s.p} className="list-row" onClick={() => playSongAt(i)}>
-              <Image className="cvr" src={src} mode="aspectFill" ariaLabel={`${cleanFreeSongTitle(s.t)}封面`} />
+              <Image className="cvr" lazyLoad src={src} mode="aspectFill" ariaLabel={`${cleanFreeSongTitle(s.t)}封面`} />
               <View className="gr"><Text className="nm">{cleanFreeSongTitle(s.t)}</Text><Text className="ds">{s.s}</Text></View>
               <View className="cp" style={{ background: 'radial-gradient(circle at 35% 30%,#7EDCD4,#3FC5BC)' }}><Text style={{ color: '#fff', fontSize: '30px' }}>▶</Text></View>
             </View>
