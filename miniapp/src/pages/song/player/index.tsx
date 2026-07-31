@@ -10,6 +10,7 @@ import { View, Text, Slider, ScrollView, Image, Button } from '@tarojs/component
 import Taro, { useRouter, useShareAppMessage } from '@tarojs/taro';
 import { player } from '@/services/audioPlayer';
 import { playSong, skip } from '@/services/playbackQueue';
+import { guardSongPlay } from '@/services/membershipGate';
 import { CONFIG } from '@/services/config';
 import { api } from '@/services/api';
 import { useUserStore } from '@/stores/userStore';
@@ -77,12 +78,16 @@ export default function SongPlayer() {
       Taro.showToast({ title: '操作失败，请稍后再试', icon: 'none' });
     }
   };
-  // 分享当前歌曲：好友点开直达本曲
-  useShareAppMessage(() => ({
-    title: `《${title}》— 酷酷音乐厅`,
-    path: `/pages/song/player/index?id=${encodeURIComponent(favContentId)}&title=${encodeURIComponent(title)}`,
-    imageUrl: shareCard('E05_学科启蒙'),
-  }));
+  // 分享当前歌曲：好友点开直达本曲；★带 inviter=当前用户供拉新奖励
+  useShareAppMessage(() => {
+    const uid = useUserStore.getState().userId;
+    const inv = uid ? `&inviter=${encodeURIComponent(uid)}` : '';
+    return {
+      title: `《${title}》— 酷酷音乐厅`,
+      path: `/pages/song/player/index?id=${encodeURIComponent(favContentId)}&title=${encodeURIComponent(title)}${inv}`,
+      imageUrl: shareCard('E05_学科启蒙'),
+    };
+  });
 
   const applyLyrics = (d: LyricsDoc) => {
     setDoc(d);
@@ -119,17 +124,23 @@ export default function SongPlayer() {
       setDur(d || 0);
       setActive(findLrcIndex(linesRef.current, c));
     });
-    // 起播：优先用队列当前歌曲项（song/list/收藏已 setQueue）；否则重置为单曲，避免残留故事队列被误当“下一首”
+    // 起播：优先用队列当前歌曲项（song/list/收藏/免费专区 已 setQueue）；否则重置为单曲，避免残留故事队列被误当“下一首”
     const store = usePlayerStore.getState();
     const item = store.queue[store.queueIndex];
-    if (item && item.type === 'song' && (!initId || item.id === initId)) {
-      playSong(item);
-    } else {
-      const single = { type: 'song' as const, id: initId || initTitle, title: initTitle };
-      store.setQueue([single], 0);
-      playSong(single);
-    }
-    if (!CONFIG.USE_MOCK) setPlaying(true);
+    // ★先过会员门控（池外歌曲对已登录且非畅听用户拦截），放行后再起播
+    void (async () => {
+      const gateId = (item && item.type === 'song' && (!initId || item.id === initId)) ? item.id : (initId || initTitle);
+      const ok = await guardSongPlay(gateId, store.queueLocked);
+      if (!ok) return; // 已弹窗+返回，不起播
+      if (item && item.type === 'song' && (!initId || item.id === initId)) {
+        playSong(item);
+      } else {
+        const single = { type: 'song' as const, id: initId || initTitle, title: initTitle };
+        store.setQueue([single], 0);
+        playSong(single);
+      }
+      if (!CONFIG.USE_MOCK) setPlaying(true);
+    })();
     return () => { offTime(); if (timer.current) clearInterval(timer.current); };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);

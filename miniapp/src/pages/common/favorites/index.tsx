@@ -55,15 +55,21 @@ export default function Favorites() {
   const songs = list.filter((f) => f.content_type === 'song');
   const shown = tab === 'story' ? stories : songs;
 
-  const openStory = (f: Fav) =>
-    Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(f.content_id)}&title=${encodeURIComponent(f.title || f.content_id)}` });
+  /** 点单篇收藏故事：★设整个收藏为锁定队列并定位到该篇，下一首=下一个收藏（不串到原目录） */
+  const openStory = (index: number) => {
+    const i = Math.max(0, index);
+    const queue = stories.map((f) => ({ type: 'story' as const, id: f.content_id, title: f.title || f.content_id, coverUrl: guessCoverFromPath(f.content_id) || undefined }));
+    usePlayerStore.getState().setQueue(queue, i, true); // locked=true 防被 expandQueueFromDir 换成原目录
+    Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(queue[i].id)}&title=${encodeURIComponent(queue[i].title)}` });
+  };
 
-  /** ★连播全部收藏故事（用户定：直接播收藏列表）：整列表设队列从第 1 篇起 */
+  /** ★连播全部收藏故事（用户定：直接播收藏列表）：整列表设锁定队列从第 1 篇起 */
   const playStoriesAll = () => {
     if (stories.length === 0) return;
     usePlayerStore.getState().setQueue(
       stories.map((f) => ({ type: 'story' as const, id: f.content_id, title: f.title || f.content_id, coverUrl: guessCoverFromPath(f.content_id) || undefined })),
       0,
+      true,
     );
     Taro.navigateTo({ url: `/pages/story/player/index?path=${encodeURIComponent(stories[0].content_id)}&title=${encodeURIComponent(stories[0].title || stories[0].content_id)}` });
   };
@@ -79,7 +85,7 @@ export default function Favorites() {
       lrcUrl: buildAssetUrl(`generated_stories/${s.content_id}.txt`),
       coverUrl: songCoverFromPath(s.content_id) || undefined,
     }));
-    usePlayerStore.getState().setQueue(queue, i);
+    usePlayerStore.getState().setQueue(queue, i, true); // ★locked=true：收藏为封闭队列，下一首只在收藏内
     Taro.navigateTo({ url: `/pages/song/player/index?id=${encodeURIComponent(queue[i].id)}&title=${encodeURIComponent(queue[i].title)}` });
   };
 
@@ -132,7 +138,7 @@ export default function Favorites() {
           const chain = tab === 'song' ? [songCoverFromPath(f.content_id)] : guessCoverChain(f.content_id);
           const src = chain[coverIdx[f.favorite_id] ?? 0] || (tab === 'song' ? iconSong : iconStory);
           return (
-            <View key={f.favorite_id} className="list-row" onClick={() => (tab === 'story' ? openStory(f) : playSongsFrom(i))}>
+            <View key={f.favorite_id} className="list-row" onClick={() => (tab === 'story' ? openStory(i) : playSongsFrom(i))}>
               <Image className="cvr" src={src} mode="aspectFill" onError={() => setCoverIdx((m) => ({ ...m, [f.favorite_id]: (m[f.favorite_id] ?? 0) + 1 }))} ariaLabel={`${f.title}封面`} />
               <View className="gr"><Text className="nm">{f.title || f.content_id}</Text></View>
               <View className="load-more-pill" style={{ padding: '8px 18px', margin: 0, fontSize: '22px', color: '#E4572E', borderColor: '#F3C6BC' }} onClick={(e) => { e.stopPropagation(); void remove(f.favorite_id); }}>取消</View>

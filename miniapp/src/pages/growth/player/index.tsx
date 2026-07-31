@@ -208,7 +208,7 @@ export default function TeachingPlayer() {
         {/* 左：场景 + 逐句群像立绘（说话者高亮）；左上角学习挡切换（用户定：多套内容要体现） */}
         <View className="esceneL">
           {sceneImg
-            ? <Image className="cover" webp src={sceneImg} mode="aspectFill" ariaLabel="教学场景" />
+            ? <Image className="cover" webp src={sceneImg} mode="aspectFill" ariaLabel="故事场景" />
             : <View className="cover" style={{ background: 'linear-gradient(135deg,#8FD97B,#5FA84C)' }} />}
           {/* ★退出键（用户定：横屏课堂必须能退回）：左上角半透圆钮，无上页时兜底回成长首页 */}
           <View className="eback" onClick={() => Taro.navigateBack().catch(() => Taro.switchTab({ url: '/pages/growth/index/index' }))}>

@@ -27,6 +27,7 @@ export default defineAppConfig({
     'pages/common/settings/index', // C-06 设置(主题)
     'pages/common/member/index', // A-03/04 会员/支付
     'pages/common/search/index', // C-05 搜索
+    'pages/common/free-zone/index', // 免费专区（固定免费池：故事/歌曲，锁定队列不串播）
     'pages/common/children/index', // A-02 孩子档案管理
     'pages/common/agreement/index', // 协议/隐私/儿童个人信息规则
     'pages/common/account-delete/index', // A-05 账号注销与数据删除

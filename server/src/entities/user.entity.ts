@@ -28,6 +28,19 @@ export class User {
   @Column({ type: 'varchar', length: 20, nullable: true })
   phone: string | null;
 
+  /** ★免费畅听截止时间（动态免费期）：新用户注册=注册+3天；拉新成功=max(freeUntil,now)+3天，可累加。
+   *  判定畅听：会员active || now < freeUntil。只在领取时往后延，平时零扣减无跨天判定→无漏洞。 */
+  @Column({ name: 'free_until', type: 'timestamp', nullable: true })
+  freeUntil: Date | null;
+
+  /** ★邀请人 userId（拉新绑定，仅新用户首次注册时写一次，不可改） */
+  @Column({ name: 'invited_by', type: 'bigint', nullable: true })
+  invitedBy: string | null;
+
+  /** ★累计成功拉新人数（用于奖励上限风控） */
+  @Column({ name: 'referral_count', type: 'int', default: 0 })
+  referralCount: number;
+
   @CreateDateColumn({ name: 'created_at' })
   createdAt: Date;
 

@@ -12,21 +12,21 @@ import Icon from '@/components/Icon';
 import { tracker } from '@/services/tracker';
 import { useNight } from '@/hooks/useNight';
 
-interface Plan { key: 'monthly' | 'quarterly' | 'yearly'; name: string; price: number; per: string }
+interface Plan { key: 'monthly' | 'quarterly' | 'yearly'; name: string; price: number; per: string; tag?: string }
 const PLANS: Plan[] = [
   { key: 'monthly', name: '月度', price: 9.9, per: '每月' },
   { key: 'quarterly', name: '季度', price: 26, per: '¥8.7/月' },
-  { key: 'yearly', name: '年度 ★最受欢迎', price: 88, per: '¥7.3/月' },
+  { key: 'yearly', name: '年度', price: 88, per: '¥7.3/月' },
 ];
 export default function Member() {
   const night = useNight();
   // 逐字段选择性订阅，避免 store 任意字段变化全页重渲染（对齐 M-10/11/12 整改口径）
   const isLogin = useUserStore((s) => s.isLogin);
   const selectedChildId = useUserStore((s) => s.selectedChildId);
-  const nickname = useUserStore((s) => s.nickname);
-  const membershipStatus = useUserStore((s) => s.membershipStatus);
-  const membershipEndDate = useUserStore((s) => s.membershipEndDate);
+  const entitlementUntil = useUserStore((s) => s.entitlementUntil);
   const refreshProfile = useUserStore((s) => s.refreshProfile);
+  // ★统一权益到期（赠送+会员累加的较晚者）展示“还剩 N 天”
+  const entDays = entitlementUntil ? Math.ceil((new Date(entitlementUntil).getTime() - Date.now()) / 86400000) : 0;
 
   const loadMem = () => {
     if (isLogin) void refreshProfile().catch((error) => console.warn('刷新会员状态失败', error));
@@ -68,30 +68,34 @@ export default function Member() {
       <View style={{ margin: '24px 0 8px', background: 'linear-gradient(135deg,rgba(255,233,168,.14),rgba(255,201,60,.06))', border: '1px solid rgba(255,201,60,.4)', borderRadius: '32px', padding: '24px', display: 'flex', alignItems: 'center', gap: '20px' }}>
         <Image className="avatar" src={avatarImg} mode="aspectFill" ariaLabel="小听众头像" style={{ borderColor: '#FFE9A8' }} />
         <View className="flex-1">
-          <Text style={{ fontSize: '26px', fontWeight: 800, display: 'block' }}>{isLogin ? `${nickname || '小听众'}的专属书匣` : '开启你的专属书匣'}</Text>
-          <Text style={{ fontSize: '20px', opacity: 0.6, marginTop: '6px', display: 'block' }}>{membershipStatus === 'active' ? `会员有效期至 ${membershipEndDate}` : '尚未开通'}</Text>
+          <Text style={{ fontSize: '25px', fontWeight: 800, display: 'block' }}>{isLogin ? '我的专属书匣' : '开启你的专属书匣'}</Text>
+          <Text style={{ fontSize: '18px', opacity: 0.6, marginTop: '6px', display: 'block', lineHeight: 1.5 }}>{entDays > 0 ? `有效期至 ${entitlementUntil!.slice(0, 10)} · 还剩 ${entDays} 天` : '尚未开通 · 可到免费专区免费听'}</Text>
         </View>
-        <Icon name="crown" size={44} color="#FFE9A8" />
+        <Icon name="crown" size={34} color="#FFE9A8" />
       </View>
 
       <View className="goldrow"><Icon name="book" size={38} color="#FFE9A8" /> 名著全集 · 三国/水浒/西游随意听</View>
       <View className="goldrow"><Icon name="moon" size={38} color="#FFE9A8" /> 哄睡专辑 · 睡前故事灯专属曲目</View>
-      <View className="goldrow"><Icon name="star" size={38} color="#FFE9A8" /> 学习 2/3 解锁 · 场景运用与拓展</View>
+      <View className="goldrow"><Icon name="star" size={38} color="#FFE9A8" /> 进阶内容解锁 · 场景运用与拓展</View>
 
       <View className="sec-h" style={{ margin: '20px 4px 14px' }}>
-        <Text className="t" style={{ color: '#F5E6C8' }}>选择书匣</Text><Text className="m" style={{ color: '#FFC93C' }}>年省 ¥40</Text>
+        <Text className="t" style={{ color: '#F5E6C8' }}>选择书匣</Text><Text className="m" style={{ color: '#FFC93C' }}>年付更划算</Text>
       </View>
       <View className="plangrid">
         {PLANS.map((p) => (
           <View key={p.key} className={`plan ${selected.key === p.key ? 'on' : ''}`} onClick={() => setSelected(p)}>
-            <Text style={{ fontSize: '20px', fontWeight: 800, display: 'block' }}>{p.name}</Text>
+            {p.tag ? <Text className="ptag">{p.tag}</Text> : null}
+            <Text style={{ fontSize: '22px', fontWeight: 800, display: 'block' }}>{p.name}</Text>
             <Text className="pr">¥{p.price}</Text>
             <Text className="pd">{p.per}</Text>
           </View>
         ))}
       </View>
-      <View className={`btn-gold ${submitting ? 'disabled' : ''}`} style={{ marginTop: '28px' }} onClick={confirmBuy}>{submitting ? '开通中…' : `确认开通【${selected.name}】书匣`}</View>
-      <Text style={{ textAlign: 'center', fontSize: '18px', opacity: 0.5, padding: '18px 0', display: 'block' }}>到期不自动续费 · 随时可取消</Text>
+      <View className={`btn-gold ${submitting ? 'disabled' : ''}`} style={{ marginTop: '28px' }} onClick={confirmBuy}>{submitting ? '开通中…' : '确认开通'}</View>
+      <View style={{ textAlign: 'center', padding: '16px 0 8px' }}>
+        <Text style={{ fontSize: '18px', opacity: 0.5, display: 'block' }}>到期不自动续费</Text>
+        <Text style={{ fontSize: '20px', display: 'block', marginTop: '8px', color: '#FFE9A8', fontWeight: 700 }}>✨ 首款全 AI 生成故事</Text>
+      </View>
     </ScrollView>
   );
 }

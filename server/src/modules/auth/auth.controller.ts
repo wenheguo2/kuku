@@ -20,7 +20,7 @@ export class AuthController {
       userAgreementVersion: dto.user_agreement_version,
       privacyVersion: dto.privacy_version,
       childrenPrivacyVersion: dto.children_privacy_version,
-    });
+    }, dto.inviter);
   }
 
   /** 退出登录：无状态 JWT，前端清除本地 token 即可 */

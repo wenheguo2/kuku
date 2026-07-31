@@ -11,6 +11,7 @@ import TabBarV4 from '@/components/TabBarV4';
 import ShareBar from '@/components/ShareBar';
 import avatarImg from '@/assets/avatar.jpg';
 import iconSearch from '@/assets/icon_search.png';
+import iconFreeSong from '@/assets/icon_free_song.png';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
 import { useShareCard } from '@/hooks/useShareCard';
@@ -38,6 +39,8 @@ export default function SongHome() {
   const [lastCoverOk, setLastCoverOk] = useState(true);
   const isLogin = useUserStore((s) => s.isLogin);
   const selectedChildId = useUserStore((s) => s.selectedChildId);
+  // ★可全站畅听（会员 active || 免费期内）：!canAccessAll 显免费区，否则显“我收藏的歌”
+  const canAccessAll = useUserStore((s) => s.canAccessAll);
 
   useEffect(() => {
     loadSongCategories().then(setCats).catch((error) => console.warn('加载歌曲分类失败', error));
@@ -89,8 +92,24 @@ export default function SongHome() {
         <View className="sbtn" onClick={() => Taro.navigateTo({ url: '/pages/common/search/index?scope=song' })}><Image className="im" src={iconSearch} mode="aspectFill" ariaLabel="搜索" /></View>
       </View>
 
-      {/* Hero：你的播放列表（收藏歌曲，点开即可顺序/循环播） */}
-      {cats.length > 0 && (
+      {/* ★免费专区（无畅听权限时占据“我收藏的歌” Hero 位，同尺寸；与其互斥） */}
+      {!canAccessAll && (
+        <View>
+          <View className="hero" onClick={() => Taro.navigateTo({ url: '/pages/common/free-zone/index?tab=song' })}>
+            <Image className="cover" src={iconFreeSong} mode="aspectFill" ariaLabel="免费专区" />
+            <View className="shade" />
+            <View className="inner">
+              <Text className="htag">🎁 免费专区</Text>
+              <Text className="h-title serif">精选儿歌免费听</Text>
+              <Text className="h-meta">100 首儿歌 · 50 个故事 · 免费畅听</Text>
+            </View>
+            <View className="hplay" style={{ background: 'radial-gradient(circle at 35% 30%,#7EDCD4,#3FC5BC 70%,#25A39B)' }}><Icon name="play" size={42} color="#fff" /></View>
+          </View>
+        </View>
+      )}
+
+      {/* Hero：你的播放列表（收藏歌曲）——仅有畅听权限时显示（会员或免费期内） */}
+      {canAccessAll && cats.length > 0 && (
         <View>
           <View className="hero" onClick={openMyList}>
             {myListCover ? <Image className="cover" src={myListCover} mode="aspectFill" ariaLabel="你的播放列表封面" /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#5AD6CD,#3FC5BC)' }} />}

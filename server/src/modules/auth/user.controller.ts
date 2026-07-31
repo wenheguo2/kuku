@@ -53,11 +53,24 @@ export class UserController {
         await this.memberships.update({ id: membership.id, status: 'active' }, { status: 'expired' });
       }
     }
+    // ★免费期：now < free_until 即仍在免费期；“全站畅听”=会员active || 免费期内
+    const inFreePeriod = !!user.freeUntil && new Date(user.freeUntil).getTime() > Date.now();
+    const canAccessAll = effectiveStatus === 'active' || inFreePeriod;
+    // ★统一“权益到期”=会员有效期末 与 赠送到期 的较晚者（累加口径，供统一展示‘还剩 N 天’）
+    const memEndMs = membership && effectiveStatus === 'active' ? new Date(membership.endDate).getTime() : 0;
+    const freeMs = user.freeUntil ? new Date(user.freeUntil).getTime() : 0;
+    const entMs = Math.max(memEndMs, freeMs);
+    const entitlementUntil = entMs > 0 ? new Date(entMs).toISOString() : null;
     return {
       user_id: user.id,
       nickname: user.nickname,
       avatar_url: user.avatarUrl,
       phone: maskPhone(user.phone),
+      free_until: user.freeUntil ? new Date(user.freeUntil).toISOString() : null,
+      in_free_period: inFreePeriod,
+      can_access_all: canAccessAll,
+      entitlement_until: entitlementUntil,
+      referral_count: user.referralCount ?? 0,
       membership: membership
         ? { status: effectiveStatus, plan_type: membership.planType, end_date: membership.endDate }
         : { status: 'none' },

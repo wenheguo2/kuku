@@ -91,7 +91,7 @@ export class OrdersService {
       if (order.status === 'paid') return order;
 
       // 锁用户行：串行化该用户的所有会员续期（防并发叠加丢失 / 重复建会员）
-      await em.findOne(User, { where: { id: order.userId }, lock: { mode: 'pessimistic_write' } });
+      const user = await em.findOne(User, { where: { id: order.userId }, lock: { mode: 'pessimistic_write' } });
 
       order.status = 'paid';
       order.paidAt = new Date();
@@ -105,7 +105,13 @@ export class OrdersService {
       // ★ 与 membership-access.isActive 同自然日口径：endDate >= 今日则仍有效，到期当天续期从 endDate 起算不丢当天时长
       const today = new Date(new Date().toISOString().slice(0, 10));
       const stillValid = !!active && new Date(active.endDate) >= today;
-      const base = stillValid ? new Date(active!.endDate) : new Date();
+      // ★权益累加（用户定：会员别覆盖赠送时间）：会员时长叠加在
+      //   “当前权益到期日 = max(会员有效期末, 赠送到期 free_until, 今天)” 之上，
+      //   保证购买会员不吞掉剩余赠送/拉新时间，二者串行相加。
+      const bases: number[] = [Date.now()];
+      if (stillValid) bases.push(new Date(active!.endDate).getTime());
+      if (user?.freeUntil && new Date(user.freeUntil).getTime() > Date.now()) bases.push(new Date(user.freeUntil).getTime());
+      const base = new Date(Math.max(...bases));
       const endDate = addMonths(base, PLAN_MONTHS[order.planType]);
 
       if (active) {

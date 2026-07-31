@@ -19,6 +19,7 @@ import avatarImg from '@/assets/avatar.jpg';
 import iconNight from '@/assets/icon_night.png';
 import iconDay from '@/assets/icon_day.png';
 import iconSearch from '@/assets/icon_search.png';
+import iconFreeStory from '@/assets/icon_free_story.png';
 import Icon from '@/components/Icon';
 import { useNight } from '@/hooks/useNight';
 import { shareCard } from '@/utils/share';
@@ -51,6 +52,8 @@ export default function StoryHome() {
   const isLogin = useUserStore((s) => s.isLogin);
   const selectedChildId = useUserStore((s) => s.selectedChildId);
   const nickname = useUserStore((s) => s.nickname);
+  // ★可全站畅听（会员 active || 免费期内）：决定首页入口——!canAccessAll 显免费区，否则显收藏/最近播放
+  const canAccessAll = useUserStore((s) => s.canAccessAll);
   const night = useNight();
   const toggleSleep = useSettingsStore((s) => s.toggleSleep);
 
@@ -135,8 +138,24 @@ export default function StoryHome() {
         </View>
       </View>
 
-      {/* Hero 今日推荐（按日轮换大IP + 换一个） */}
-      {hero && (
+      {/* ★免费专区（无畅听权限时占据今日推荐位，同尺寸；与今日推荐互斥） */}
+      {!canAccessAll && (
+        <View>
+          <View className="hero" onClick={() => Taro.navigateTo({ url: '/pages/common/free-zone/index?tab=story' })}>
+            <Image className="cover" src={iconFreeStory} mode="aspectFill" ariaLabel="免费专区" />
+            <View className="shade" />
+            <View className="inner">
+              <Text className="htag">🎁 免费专区</Text>
+              <Text className="h-title serif">精选故事免费听</Text>
+              <Text className="h-meta">50 个故事 · 100 首儿歌 · 免费畅听</Text>
+            </View>
+            <View className="hplay"><Icon name="play" size={42} color="#fff" /></View>
+          </View>
+        </View>
+      )}
+
+      {/* Hero 今日推荐（按日轮换大IP + 换一个）——仅有畅听权限时显示 */}
+      {canAccessAll && hero && (
         <View>
           <View className="hero" onClick={() => openHot(hero)}>
             {buildCoverUrl(hero.cover) ? <Image className="cover" webp src={buildCoverUrl(hero.cover)} mode="aspectFill" ariaLabel={`${hero.title}封面`} /> : <View className="cover" style={{ background: 'linear-gradient(135deg,#FFB067,#FF8C42)' }} />}
@@ -163,8 +182,8 @@ export default function StoryHome() {
       {/* ★分享拉新：醒目真按钮（open-type=share 直接拉转发面板，配真插画分享卡） */}
       <Button className="share-bar" openType="share">📤 把酷酷分享给小伙伴一起听</Button>
 
-      {/* 最近播放（点击重新播放，非续播）；历史接口无封面字段，按 path 推导（镜像目录规则），404 回退色块 */}
-      {last && (
+      {/* 最近播放（仅有畅听权限时显示；点击重新播放，非续播）；历史接口无封面字段，按 path 推导，404 回退色块 */}
+      {canAccessAll && last && (
         <View>
           <View className="sec-h"><Text className="t">最近播放</Text><Text className="m" onClick={() => Taro.navigateTo({ url: '/pages/common/favorites/index?tab=story' })}>我的收藏 ›</Text></View>
           <View className="cont" style={{ margin: '0 4px' }} onClick={() => playSingle(last.content_id, last.title || '最近播放', guessCoverFromPath(last.content_id))}>

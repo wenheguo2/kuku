@@ -35,8 +35,15 @@ export default function ParentCenter() {
   const nickname = useUserStore((s) => s.nickname);
   const selectedChildId = useUserStore((s) => s.selectedChildId);
   const logout = useUserStore((s) => s.logout);
+  // ★权益到期（赠送+会员累加的较晚者）：家长中心钗金行展示“还剩 N 天”
+  const entitlementUntil = useUserStore((s) => s.entitlementUntil);
   const [weekly, setWeekly] = useState<Weekly | null>(null);
   const night = useNight();
+
+  const entDaysLeft = entitlementUntil
+    ? Math.ceil((new Date(entitlementUntil).getTime() - Date.now()) / 86400000)
+    : 0;
+  const goldRt = entDaysLeft > 0 ? `还剩 ${entDaysLeft} 天 ›` : '升级解锁全部 ›';
 
   useDidShow(() => {
     useTabStore.getState().setTab('parent');
@@ -85,10 +92,10 @@ export default function ParentCenter() {
           <Text className="rt">{e.rt}</Text>
         </View>
       ))}
-      {/* 鎏金入口 */}
+      {/* 鎏金入口（右侧展示权益剩余天数：赠送+会员累加的到期） */}
       <View className="frow" style={{ background: 'linear-gradient(135deg,#FFF8E1,#FFEFC4)', border: '1px solid #FFE3A3' }} onClick={() => nav('/pages/common/member/index')}>
         <View className="fi"><Image className="im" src={iconMember} mode="aspectFill" ariaLabel="会员订阅图标" /></View>鎏金故事书匣
-        <Text className="rt" style={{ color: '#B8860B' }}>升级解锁全部 ›</Text>
+        <Text className="rt" style={{ color: '#B8860B' }}>{goldRt}</Text>
       </View>
 
       {/* ★分享拉新：醒目真按钮 */}

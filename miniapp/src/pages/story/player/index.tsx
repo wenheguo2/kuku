@@ -10,6 +10,7 @@ import Taro, { useRouter, useShareAppMessage } from '@tarojs/taro';
 import { indexLoader } from '@/services/indexLoader';
 import { player } from '@/services/audioPlayer';
 import { playStory, skip } from '@/services/playbackQueue';
+import { guardStoryPlay } from '@/services/membershipGate';
 import { api } from '@/services/api';
 import { buildAssetUrl, buildCoverUrl, guessCoverFromPath, guessCoverChain } from '@/utils/path';
 import { shareCard } from '@/utils/share';
@@ -54,6 +55,8 @@ export default function StoryPlayer() {
    */
   const expandQueueFromDir = async (path: string) => {
     try {
+      const store0 = usePlayerStore.getState();
+      if (store0.queueLocked) return; // ★锁定队列（免费专区）绝不扩展为目录整列表，防串播到池外
       const parent = path.split('/').slice(0, -1).join('/');
       if (!parent) return;
       const idx = await indexLoader.loadIndexByPath(parent) as { entries?: { title?: string; path?: string; cover?: { cover_image_url?: string } }[] };
@@ -106,14 +109,19 @@ export default function StoryPlayer() {
       displayedRef.current = store.current.id;
       indexLoader.loadSegments(store.current.id).then((d) => { setData(d); markFailed(false); }).catch(reportLoadError);
     } else {
-      // 直接进入（非从故事列表/章回）：若当前队列首项不是本故事，重置为单篇（带按 path 推导的封面兜底），避免残留歌单被误当“下一首”
-      const q = store.queue[store.queueIndex];
-      if (!(q && q.type === 'story' && q.id === initPath)) {
-        store.setQueue([{ type: 'story', id: initPath, title: initTitle, coverUrl: guessCoverFromPath(initPath) || undefined }], 0);
-      }
-      loadStory(initPath, initTitle, true).catch(reportLoadError);
-      // ★队列短（单篇/推荐小窗口）时后台扩展为所在目录整列表，续播更多
-      if (usePlayerStore.getState().queue.length <= 4) void expandQueueFromDir(initPath);
+      // 直接进入（非从故事列表/章回）：★先过会员门控（池外内容对已登录且非畅听用户拦截），放行后再起播
+      void (async () => {
+        const ok = await guardStoryPlay(initPath, store.queueLocked);
+        if (!ok) return; // 已弹窗+返回，不起播
+        // 若当前队列首项不是本故事，重置为单篇（带按 path 推导的封面兼底）；队列已锁定（免费专区）时不覆盖
+        const q = store.queue[store.queueIndex];
+        if (!store.queueLocked && !(q && q.type === 'story' && q.id === initPath)) {
+          store.setQueue([{ type: 'story', id: initPath, title: initTitle, coverUrl: guessCoverFromPath(initPath) || undefined }], 0);
+        }
+        loadStory(initPath, initTitle, true).catch(reportLoadError);
+        // ★队列短且未锁定时后台扩展为所在目录整列表，续播更多
+        if (!store.queueLocked && usePlayerStore.getState().queue.length <= 4) void expandQueueFromDir(initPath);
+      })();
     }
     return () => {
       offTime();
@@ -194,12 +202,16 @@ export default function StoryPlayer() {
   const share = () => {
     Taro.showShareMenu({ withShareTicket: true });
   };
-  // 分享当前故事：好友点开直达本篇（拉新 + 内容直达）；卡面用真插画
-  useShareAppMessage(() => ({
-    title: `《${title}》— 酷酷儿童故事`,
-    path: `/pages/story/player/index?path=${encodeURIComponent(currentContentId)}&title=${encodeURIComponent(title)}`,
-    imageUrl: shareCard('E04_哈哈大笑'),
-  }));
+  // 分享当前故事：好友点开直达本篇（拉新 + 内容直达）；卡面用真插画；★带 inviter=当前用户供拉新奖励
+  useShareAppMessage(() => {
+    const uid = useUserStore.getState().userId;
+    const inv = uid ? `&inviter=${encodeURIComponent(uid)}` : '';
+    return {
+      title: `《${title}》— 酷酷儿童故事`,
+      path: `/pages/story/player/index?path=${encodeURIComponent(currentContentId)}&title=${encodeURIComponent(title)}${inv}`,
+      imageUrl: shareCard('E04_哈哈大笑'),
+    };
+  });
 
   /** ★列表键：选单—连播收藏 / 回首页（用户定：播放器要能直接播收藏列表） */
   const openListMenu = () => {
@@ -210,7 +222,7 @@ export default function StoryPlayer() {
         const d = await api.get<{ list: { favorite_id: string; content_type: string; content_id: string; title: string | null }[] }>('/favorites');
         const storyFavs = (d.list ?? []).filter((f) => f.content_type === 'story' && f.content_id);
         if (storyFavs.length === 0) { Taro.showToast({ title: '还没收藏故事，点❤收藏吧', icon: 'none' }); return; }
-        usePlayerStore.getState().setQueue(storyFavs.map((f) => ({ type: 'story' as const, id: f.content_id, title: f.title || f.content_id, coverUrl: guessCoverFromPath(f.content_id) || undefined })), 0);
+        usePlayerStore.getState().setQueue(storyFavs.map((f) => ({ type: 'story' as const, id: f.content_id, title: f.title || f.content_id, coverUrl: guessCoverFromPath(f.content_id) || undefined })), 0, true);
         displayedRef.current = '';
         await playStory(storyFavs[0].content_id, storyFavs[0].title || storyFavs[0].content_id);
       } catch (error) { console.warn('连播收藏失败', error); Taro.showToast({ title: '加载收藏失败，稍后再试', icon: 'none' }); }

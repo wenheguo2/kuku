@@ -44,7 +44,7 @@ export default function Lesson() {
     setLoadState('loading');
     loadLessonEntries(subject)
       .then((list) => { setEntries(list); setLoadState('ok'); })
-      .catch((error) => { console.warn('加载课程词表失败', error); setLoadState('error'); });
+      .catch((error) => { console.warn('加载字词失败', error); setLoadState('error'); });
   };
   useEffect(loadWords, [subject]);
 
@@ -68,7 +68,7 @@ export default function Lesson() {
       setStages((s) => ({ ...s, [wordId]: Math.max(1, s[wordId] ?? 0) }));
       Taro.showToast({ title: '已相识 🟡', icon: 'none' });
     } catch (error) {
-      console.warn('提交学习失败', error);
+      console.warn('提交进度失败', error);
       Taro.showToast({ title: '网络开小差了，请重试', icon: 'none' });
     }
   };
@@ -92,7 +92,7 @@ export default function Lesson() {
 
   return (
     <ScrollView scrollY className={`page-container ${night}`}>
-      <Text className="brand-title" style={{ color: '#7FC96A' }}>{subject} · 课程</Text>
+      <Text className="brand-title" style={{ color: '#7FC96A' }}>{subject} · 交朋友</Text>
 
       {/* 按亲密度级别筛选，方便点击 */}
       <View style={{ display: 'flex', flexWrap: 'wrap', gap: '10px', margin: '4px 12px 16px' }}>
@@ -107,11 +107,11 @@ export default function Lesson() {
       </View>
 
       {loadState === 'loading' && (
-        <Text className="muted" style={{ display: 'block', textAlign: 'center', margin: '24px 0' }}>课程加载中…</Text>
+        <Text className="muted" style={{ display: 'block', textAlign: 'center', margin: '24px 0' }}>内容加载中…</Text>
       )}
       {loadState === 'error' && (
         <View className="center" style={{ padding: '24px 0' }}>
-          <Text className="muted" style={{ marginBottom: '16px' }}>😶‍🌫️ 课程加载失败了</Text>
+          <Text className="muted" style={{ marginBottom: '16px' }}>😶‍🌫️ 加载失败了</Text>
           <View className="pill-ghost" onClick={loadWords}>重试</View>
         </View>
       )}
@@ -135,17 +135,17 @@ export default function Lesson() {
                   <Text style={{ fontSize: '20px', padding: '2px 12px', borderRadius: '999px', color: '#fff', background: meta.color }}>{meta.label}</Text>
                 </View>
                 <Text className="ds" style={{ color: w.stage >= 1 ? 'var(--stage-1)' : undefined }} onClick={() => study(w.id, w.text)}>
-                  {w.stage >= 1 ? '✓ 学习1 已完成' : '学习1：认读（点击）'}
+                  {w.stage >= 1 ? '✓ 认一认 已完成' : '认一认：读一读（点击）'}
                 </Text>
               </View>
               <View className="play-s" style={{ background: '#E5F6E0', color: '#7FC96A' }} onClick={() => play(w)}>▶</View>
             </View>
             <View style={{ display: 'flex', gap: '12px', margin: '0 12px 12px' }}>
               <View className="chip" onClick={() => openVipStudy(w, 'study2')}>
-                {membershipStatus === 'active' ? '学习2：理解' : '学习2：会员专属'}
+                {membershipStatus === 'active' ? '懂一懂：理解' : '懂一懂：会员专属'}
               </View>
               <View className="chip" onClick={() => openVipStudy(w, 'study3')}>
-                {membershipStatus === 'active' ? '学习3：运用' : '学习3：会员专属'}
+                {membershipStatus === 'active' ? '用一用：造句' : '用一用：会员专属'}
               </View>
             </View>
             <View className="btn-green" style={{ margin: '0 auto', width: '230px', minHeight: '40px', fontSize: '14px', borderRadius: '20px', padding: '0', display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={() => challenge(w.id, w.text)}>去挑战（成为好朋友）</View>
@@ -154,7 +154,7 @@ export default function Lesson() {
       })}
       {loadState === 'ok' && visibleCount < filtered.length && (
         <View className="load-more-pill" onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}>
-          再看 {Math.min(PAGE_SIZE, filtered.length - visibleCount)} 课（共 {filtered.length}）
+          再看 {Math.min(PAGE_SIZE, filtered.length - visibleCount)} 个（共 {filtered.length}）
         </View>
       )}
     </ScrollView>

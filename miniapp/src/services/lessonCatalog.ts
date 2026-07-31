@@ -87,7 +87,8 @@ export const EN_LEVEL_STUDIES: Record<1 | 2 | 3, number> = { 1: 2, 2: 3, 3: 1 };
 
 /** 各学科可用学习挡（实测目录：识字 3 挡、拼音 2 挡、英语按难度 初2/中3/高1） */
 export function studyOptions(subject: string, enLevel: 1 | 2 | 3 = 1): { key: string; label: string }[] {
-  const make = (n: number) => Array.from({ length: n }, (_, i) => ({ key: `study${i + 1}`, label: `学习${i + 1}` }));
+  // ★展示标签用亲子/朋友框架（避开“学习”等学科培训类词眼）；key 仍为 study1/2/3 不变（后端门控/目录依赖）
+  const make = (n: number) => Array.from({ length: n }, (_, i) => ({ key: `study${i + 1}`, label: ['认一认', '懂一懂', '用一用'][i] || `第${i + 1}步` }));
   if (subject === '英语') return make(EN_LEVEL_STUDIES[enLevel]);
   if (subject === '拼音') return make(2);
   return make(3);

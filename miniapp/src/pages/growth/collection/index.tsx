@@ -69,8 +69,8 @@ export default function Collection() {
         <View className="center" style={{ padding: '40px 0' }}>
           <Text className="emoji-xl">🌱</Text>
           <Text style={{ fontSize: '32px', fontWeight: 800, display: 'block', margin: '12px 0', color: 'var(--color-text)' }}>还没有遇见任何朋友</Text>
-          <Text className="muted" style={{ marginBottom: '24px' }}>去听课、学习字/词→交到新朋友！</Text>
-          <View className="pill-green" onClick={() => Taro.switchTab({ url: '/pages/growth/index/index' })}>去学习交朋友</View>
+          <Text className="muted" style={{ marginBottom: '24px' }}>去听故事、认字词 → 交到新朋友！</Text>
+          <View className="pill-green" onClick={() => Taro.switchTab({ url: '/pages/growth/index/index' })}>去认字交朋友</View>
         </View>
       )}
 

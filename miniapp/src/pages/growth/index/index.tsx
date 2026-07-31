@@ -110,7 +110,7 @@ export default function GrowthHome() {
       {/* ★和字交朋友：直给字词宫格，点字直达教学播放器（不用搜索） */}
       {wordPreview.length > 0 && (
         <View style={{ margin: '18px 0 6px' }}>
-          <View className="sec-h"><Text className="t">🌱 和字交朋友</Text><Text className="m" onClick={() => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent('识字')}` })}>全部课程 ›</Text></View>
+          <View className="sec-h"><Text className="t">🌱 和字交朋友</Text><Text className="m" onClick={() => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent('识字')}` })}>全部字词 ›</Text></View>
           <View className="wgrid">
             {wordPreview.map((w) => (
               <View key={w.id} className="wcell" onClick={() => Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent('识字')}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=study1` })}>
@@ -124,7 +124,7 @@ export default function GrowthHome() {
       {/* ★和单词交朋友：英语单词宫格（单词长→两列宽卡小字），点词直达教学播放器 */}
       {enPreview.length > 0 && (
         <View style={{ margin: '18px 0 6px' }}>
-          <View className="sec-h"><Text className="t">🌈 和单词交朋友</Text><Text className="m" onClick={() => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent('英语')}` })}>全部课程 ›</Text></View>
+          <View className="sec-h"><Text className="t">🌈 和单词交朋友</Text><Text className="m" onClick={() => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent('英语')}` })}>全部单词 ›</Text></View>
           <View className="wgrid en">
             {enPreview.map((w) => (
               <View key={w.id} className="wcell" onClick={() => Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent('英语')}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=study1` })}>

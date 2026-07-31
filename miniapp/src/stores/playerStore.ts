@@ -41,13 +41,16 @@ interface PlayerState {
   queue: QueueItem[];
   queueIndex: number;
   playMode: PlayMode;
+  /** ★锁定队列（免费专区专用）：true 时禁止任何自动扩展队列（如 story/player 拉父目录整列表），
+   *  保证只在池内条目间流转，绝不串播到池外付费内容。 */
+  queueLocked: boolean;
   /** 播放倍速（展示态；实际变速由 audioPlayer.setRate 应用并回写这里） */
   playbackRate: number;
   setCurrent: (n: NowPlaying) => void;
   setPlaying: (p: boolean) => void;
   setTime: (cur: number, dur: number) => void;
-  /** 设置队列并定位到起始项 */
-  setQueue: (list: QueueItem[], index: number) => void;
+  /** 设置队列并定位到起始项（locked=true 锁定为封闭队列，禁止自动扩展） */
+  setQueue: (list: QueueItem[], index: number, locked?: boolean) => void;
   setPlayMode: (mode: PlayMode) => void;
   setPlaybackRate: (rate: number) => void;
   /** 循环切换播放模式：order → repeat-all → repeat-one → order */
@@ -67,11 +70,12 @@ export const usePlayerStore = create<PlayerState>((set, get) => ({
   queue: [],
   queueIndex: 0,
   playMode: 'order',
+  queueLocked: false,
   playbackRate: sanitizeRate(RateStore.get()),
   setCurrent: (n) => set({ current: n }),
   setPlaying: (p) => set({ isPlaying: p }),
   setTime: (cur, dur) => set({ currentSec: cur, durationSec: dur }),
-  setQueue: (list, index) => set({ queue: list, queueIndex: index }),
+  setQueue: (list, index, locked = false) => set({ queue: list, queueIndex: index, queueLocked: locked }),
   setPlayMode: (mode) => set({ playMode: mode }),
   setPlaybackRate: (rate) => set({ playbackRate: sanitizeRate(rate) }),
   cyclePlayMode: () => {
@@ -112,5 +116,6 @@ export const usePlayerStore = create<PlayerState>((set, get) => ({
     queue: [],
     queueIndex: 0,
     playMode: 'order',
+    queueLocked: false,
   }),
 }));

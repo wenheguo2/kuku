@@ -32,4 +32,10 @@ export class LoginDto {
   @IsString()
   @MaxLength(64)
   children_privacy_version: string;
+
+  /** ★拉新：邀请人 userId（从分享链接 ?inviter= 带入）；仅新用户首次注册时生效 */
+  @IsOptional()
+  @IsString()
+  @MaxLength(32)
+  inviter?: string;
 }

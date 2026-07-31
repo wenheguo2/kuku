@@ -50,7 +50,10 @@ class ErrorBoundary extends Component<PropsWithChildren, { hasError: boolean }> 
 }
 
 function App({ children }: PropsWithChildren) {
-  useLaunch(() => {
+  useLaunch((options) => {
+    // ★拉新：从分享链接 launch query 捕获邀请人（?inviter=xxx），登录时上报（仅对新用户首次注册生效）
+    const inviter = options?.query?.inviter;
+    if (inviter) useUserStore.getState().setPendingInviter(String(inviter));
     // 恢复登录态 + 应用主题
     useUserStore.getState().restore();
     useSettingsStore.getState().applyTheme();

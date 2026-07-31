@@ -37,7 +37,7 @@ const SCOPE_LABEL: Record<Scope, string> = { story: '故事', song: '歌曲', gr
 const SCOPE_TIPS: Record<Scope, string[]> = {
   story: ['试试搜故事名，比如「三国」「哪吒」', '也能搜学科，比如「成语故事」「品格养成」', '长篇作品会显示共多少章，点进去可以连听'],
   song: ['试试搜歌名，比如「摇篮曲」', '也能搜歌单，比如「诗词歌曲」', '点单首歌会直接开始播放'],
-  growth: ['搜单个字，比如「的」「山」', '搜英文单词，比如「apple」', '点结果直接进教学课堂'],
+  growth: ['搜单个字，比如「的」「山」', '搜英文单词，比如「apple」', '点结果直接开始认字交朋友'],
 };
 
 /** 歌曲单曲封面按路径规则（与音乐厅一致） */
@@ -133,7 +133,7 @@ export default function Search() {
   } else if (q && scope === 'growth') {
     GROWTH_SUBJECTS
       .filter((s) => s.includes(q))
-      .forEach((s) => hits.push({ key: `growth-${s}`, badge: '学科', thumb: '🌱', title: s, sub: '进入课程', onClick: () => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent(s)}` }) }));
+      .forEach((s) => hits.push({ key: `growth-${s}`, badge: '成长', thumb: '🌱', title: s, sub: '进入字词', onClick: () => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent(s)}` }) }));
     // ★字/词条目命中（text 精确/包含 或 课名包含）：直达教学播放器
     (lessons as (LessonEntry & { subject: string })[])
       .filter((w) => w.text.toLowerCase().includes(q.toLowerCase()) || w.id.includes(q))

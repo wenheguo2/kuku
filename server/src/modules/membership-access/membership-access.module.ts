@@ -5,11 +5,12 @@
 import { Global, Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Membership } from '../../entities/membership.entity';
+import { User } from '../../entities/user.entity';
 import { MembershipAccessService } from './membership-access.service';
 
 @Global()
 @Module({
-  imports: [TypeOrmModule.forFeature([Membership])],
+  imports: [TypeOrmModule.forFeature([Membership, User])],
   providers: [MembershipAccessService],
   exports: [MembershipAccessService],
 })

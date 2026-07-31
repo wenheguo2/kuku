@@ -13,6 +13,9 @@ CREATE TABLE IF NOT EXISTS users (
   nickname VARCHAR(64),
   avatar_url VARCHAR(512),
   phone VARCHAR(20),
+  free_until TIMESTAMP,
+  invited_by BIGINT,
+  referral_count INT NOT NULL DEFAULT 0,
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );

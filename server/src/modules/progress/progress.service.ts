@@ -93,10 +93,10 @@ export class ProgressService {
 
   /** 提交学习完成（听/学习模块）：驱动 0→1 已相识 */
   async submitStudy(userId: string, childId: string, subject: Subject, wordId: string, studyType: StudyType, wordText?: string) {
-    // ★ study2/study3 为会员专属（付费边界 PRD G-03），服务端强制门控，防前端绕过
+    // ★ study2/study3 为付费边界（PRD G-03）：会员 active 或免费期内可用（试用期可体验）；服务端强制门控防前端绕过
     if (studyType === 'study2' || studyType === 'study3') {
-      const vip = await this.membership.isActive(userId);
-      if (!vip) throw new ForbiddenException('学习2/学习3 为会员专属');
+      const allowed = await this.membership.canAccessAll(userId);
+      if (!allowed) throw new ForbiddenException('学习2/学习3 为会员专属（免费期内可体验）');
     }
     const row = await this.getOrCreate(userId, childId, subject, wordId, wordText);
     if (studyType === 'study1') row.study1Completed = true;
