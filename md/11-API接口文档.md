@@ -6,6 +6,16 @@
 > **v2.0变更**: 从 v1.0（`/api/...` 无版本前缀、`{success/error_code}` 双轨格式、题目内含 `is_correct` 客户端判分、缺注销接口）重写对齐 02。
 > **安全约束（2026-07-23）**：所有接收 `child_id` 的接口必须先校验该档案属于当前 JWT 用户；越权统一返回 404。普通/综合挑战均由服务端保存正确答案，客户端不得提交 `is_correct`。
 
+> ★ **现状补记（以代码为准，2026-07-31）** — 下文部分早期示例已漂移，以本补记为准：
+> - **登录/拉新**：`POST /auth/login` 新增可选 `inviter`（邀请人 userId）；新用户注册送 3 天免费期，拉新每人 +3 天（有上限，可累加）。
+> - **`GET /user/profile`** 响应新增：`free_until`、`can_access_all`（会员 active 或免费期内）、`entitlement_until`（赠送+会员累加的较晚到期）、`referral_count`。
+> - **免费专区/免费池**：走静态 `/(cdn)/index/generated_stories/_free_pool.json`（50 故事+100 歌曲，不经 `/api/v1`）。
+> - **教学付费边界**：识字/英语 **前 10 课（编号 0-9）整课免费**；第 11 课起 `POST /progress/study` 对 `seq>=10` 且非 `can_access_all` 返回 **403**；`GET /vocabulary/:id` 的 `learning_modules.is_vip` 按 seq。**拼音已下线**。
+> - **挑战通过标准**：真题统一“答对 ≥75%”（`isNormalPassed`），非分学科（md/00 §4.3 旧分学科标准作废）。
+> - **`GET /progress/summary`** 实际返 `child_id` / `overall_stats{total_words_learned,total_words_friends,total_words_mastered}` / `subject_progress[]`（无 `progress_percentage`/`recent_activities`）。
+> - **歌曲内容路径**：`generated_stories/瞎编的歌曲/{43分类}/{语言子类}/{歌名}.mp3`（SONG_SUBJECT 为本地内容名，前端展示已清洗）。
+> - **传输**：后端已开 gzip（compression 中间件），索引/接口 JSON 传输体积大幅下降。
+
 ---
 
 ## 📋 目录
@@ -515,7 +525,7 @@ GET /api/v1/progress/识字?child_id=child_001&stage=3&page=1&page_size=20
 | 字段 | 类型 | 说明 |
 |:--|:--|:--|
 | strokes | array | 笔画路径（用于动画） |
-| learning_modules[].is_vip | boolean | 是否会员专属（课程级别付费：前10%免费，其余会员；朋友系统功能会员专属） |
+| learning_modules[].is_vip | boolean | 是否需权益（课程级付费：识字/英语前 10 课 seq0-9=false，第 11 课起=true；拼音下线） |
 | test_available | boolean | 是否可发起普通挑战 |
 
 ### 5.3 POST /api/v1/progress/study

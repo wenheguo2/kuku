@@ -35,7 +35,7 @@ export default defineAppConfig({
   window: {
     backgroundTextStyle: 'light',
     navigationBarBackgroundColor: '#FF8C42',
-    navigationBarTitleText: '酷酷儿童故事',
+    navigationBarTitleText: '', // 留空：各页自带内容标题（首页问候头/家长中心等），避免原生导航栏白字标题重复且拥挤
     navigationBarTextStyle: 'white',
     backgroundColor: '#FFF9F0',
   },

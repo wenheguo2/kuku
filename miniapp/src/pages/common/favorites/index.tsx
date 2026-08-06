@@ -141,7 +141,7 @@ export default function Favorites() {
             <View key={f.favorite_id} className="list-row" onClick={() => (tab === 'story' ? openStory(i) : playSongsFrom(i))}>
               <Image className="cvr" lazyLoad src={src} mode="aspectFill" onError={() => setCoverIdx((m) => ({ ...m, [f.favorite_id]: (m[f.favorite_id] ?? 0) + 1 }))} ariaLabel={`${f.title}封面`} />
               <View className="gr"><Text className="nm">{f.title || f.content_id}</Text></View>
-              <View className="load-more-pill" style={{ padding: '8px 18px', margin: 0, fontSize: '22px', color: '#E4572E', borderColor: '#F3C6BC' }} onClick={(e) => { e.stopPropagation(); void remove(f.favorite_id); }}>取消</View>
+              <View className="load-more-pill" style={{ padding: '4px 14px', margin: 0, fontSize: '17px', color: '#E4572E', borderColor: '#F3C6BC' }} onClick={(e) => { e.stopPropagation(); void remove(f.favorite_id); }}>取消</View>
             </View>
           );
         })}

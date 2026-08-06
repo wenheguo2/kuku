@@ -7,7 +7,7 @@ import { useEffect, useState } from 'react';
 import { View, Text, ScrollView, Image } from '@tarojs/components';
 import Taro, { useDidShow } from '@tarojs/taro';
 import { api } from '@/services/api';
-import { loadLessonEntries, LessonEntry } from '@/services/lessonCatalog';
+import { loadLessonEntries, LessonEntry, isFreeLesson } from '@/services/lessonCatalog';
 import { useUserStore } from '@/stores/userStore';
 import MiniPlayer from '@/components/MiniPlayer';
 import TabBarV4 from '@/components/TabBarV4';
@@ -37,7 +37,17 @@ export default function GrowthHome() {
   const [enPreview, setEnPreview] = useState<LessonEntry[]>([]);
   const selectedChildId = useUserStore((s) => s.selectedChildId);
   const isLogin = useUserStore((s) => s.isLogin);
+  const canAccessAll = useUserStore((s) => s.canAccessAll);
   const night = useNight();
+  // ★前10课门控：seq<10 或权益期内(canAccessAll)放行；否则引导开通。对齐词表页 guardLesson，防首屏宫格直达绕过。
+  const openWord = (subject: string, w: LessonEntry) => {
+    if (!(isFreeLesson(w.seq) || canAccessAll)) {
+      Taro.showToast({ title: '这里需要爸爸妈妈帮忙打开哦', icon: 'none' });
+      setTimeout(() => Taro.navigateTo({ url: '/pages/common/member/index' }), 600);
+      return;
+    }
+    Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent(subject)}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=study1&seq=${w.seq}` });
+  };
 
   // 首屏字词宫格（用户定：展示最靠前的“还没交过朋友”的字/词，按课序从早到晚）：
   // 登录时拉学科进度过滤已学(stage>=1)，未登录/拉取失败回退前 N 课
@@ -112,7 +122,7 @@ export default function GrowthHome() {
           <View className="sec-h"><Text className="t">🌱 和字交朋友</Text><Text className="m" onClick={() => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent('识字')}` })}>全部字词 ›</Text></View>
           <View className="wgrid">
             {wordPreview.map((w) => (
-              <View key={w.id} className="wcell" onClick={() => Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent('识字')}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=study1` })}>
+              <View key={w.id} className="wcell" onClick={() => openWord('识字', w)}>
                 {w.text}
               </View>
             ))}
@@ -126,7 +136,7 @@ export default function GrowthHome() {
           <View className="sec-h"><Text className="t">🌈 和单词交朋友</Text><Text className="m" onClick={() => Taro.navigateTo({ url: `/pages/growth/lesson/index?subject=${encodeURIComponent('英语')}` })}>全部单词 ›</Text></View>
           <View className="wgrid en">
             {enPreview.map((w) => (
-              <View key={w.id} className="wcell" onClick={() => Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent('英语')}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=study1` })}>
+              <View key={w.id} className="wcell" onClick={() => openWord('英语', w)}>
                 {w.text}
               </View>
             ))}

@@ -11,9 +11,10 @@ import Taro, { useRouter } from '@tarojs/taro';
 import { indexLoader } from '@/services/indexLoader';
 import { GlobalIndex, HomeIndex, NON_STORY_SUBJECT_IDS } from '@/types/content';
 import { loadSongCategories, SongCategory } from '@/services/songCatalog';
-import { loadLessonEntries, LessonEntry } from '@/services/lessonCatalog';
+import { loadLessonEntries, LessonEntry, isFreeLesson } from '@/services/lessonCatalog';
 import { searchEntries, SearchItem } from '@/services/searchIndex';
 import { usePlayerStore } from '@/stores/playerStore';
+import { useUserStore } from '@/stores/userStore';
 import { buildAssetUrl, buildCoverUrl, guessCoverFromPath } from '@/utils/path';
 import StateView from '@/components/StateView';
 import { useNight } from '@/hooks/useNight';
@@ -25,12 +26,12 @@ const GROWTH_SUBJECTS = ['识字', '英语'];
 const HOT_WORDS: Record<Scope, string[]> = {
   story: ['三国', '哪吒', '成语', '西游', '恐龙'],
   song: ['摇篮曲', '刘备', '恐龙', '诗词歌曲'],
-  growth: ['的', 'apple', '识字', '拼音'],
+  growth: ['的', 'apple', '识字', '英语'],
 };
 const PLACEHOLDER: Record<Scope, string> = {
   story: '搜故事名 / 学科…',
   song: '搜歌名 / 歌单…',
-  growth: '搜字 / 单词 / 拼音…',
+  growth: '搜字 / 单词…',
 };
 const SCOPE_LABEL: Record<Scope, string> = { story: '故事', song: '歌曲', growth: '成长' };
 /** ★空态小贴士（走查 s02 发现：未输入时热词下方一大片空白，给点可搜什么的引导） */
@@ -61,6 +62,7 @@ export default function Search() {
   const [loading, setLoading] = useState(scope === 'story');
   const [error, setError] = useState(false);
   const night = useNight();
+  const canAccessAll = useUserStore((s) => s.canAccessAll);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const seqRef = useRef(0);
 
@@ -138,7 +140,7 @@ export default function Search() {
     (lessons as (LessonEntry & { subject: string })[])
       .filter((w) => w.text.toLowerCase().includes(q.toLowerCase()) || w.id.includes(q))
       .slice(0, 30)
-      .forEach((w) => hits.push({ key: `word-${w.subject}-${w.id}`, badge: w.subject, thumb: '🔤', title: w.text, sub: w.id, onClick: () => Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent(w.subject)}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=study1` }) }));
+      .forEach((w) => hits.push({ key: `word-${w.subject}-${w.id}`, badge: w.subject, thumb: '🔤', title: w.text, sub: w.id, onClick: () => { if (!(isFreeLesson(w.seq) || canAccessAll)) { Taro.showToast({ title: '这里需要爸爸妈妈帮忙打开哦', icon: 'none' }); setTimeout(() => Taro.navigateTo({ url: '/pages/common/member/index' }), 600); return; } Taro.navigateTo({ url: `/pages/growth/player/index?subject=${encodeURIComponent(w.subject)}&word=${encodeURIComponent(w.text)}&path=${encodeURIComponent(w.path)}&study_type=study1&seq=${w.seq}` }); } }));
   }
   // 同 key 去重（标题允许重复：不同学科可能有同名条目）
   const seen = new Set<string>();

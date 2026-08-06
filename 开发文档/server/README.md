@@ -2,6 +2,8 @@
 
 > 对应 `server/src/`。细粒度见各文件 header + TSDoc（层1）。本文为模块级总览（层2）。
 > 权威口径：DDL=md/08 §2.2；API=md/11；判分/养成=md/13。
+>
+> ★ **现状补记（2026-07-31）**：单测 **19/19** 通过；已开 gzip（compression）；限流按 method 拆分（订单 POST 20·GET 60）；DTO 补 `@MaxLength` 对齐列长；拉新奖励**条件原子更新**防超发；家长周报改“近7日按当前等级唯一归桁”；**教学付费边界**改为“识字/英语前10课(seq0-9)免费、第11课起 seq>=10 且非 canAccessAll 返 403”（progress.service）；**拼音下线**（前端移入口，后端枚举保留）。
 
 ---
 
@@ -13,7 +15,7 @@
 | `common/interceptors/response.interceptor.ts` | 统一包络 `{code:0,message:'success',data}` |
 | `common/filters/all-exceptions.filter.ts` | 异常 → `{code:HTTP状态码,message,data:null}`；内部异常不向客户端回传原始消息 |
 | `common/guards/jwt-auth.guard.ts` | 全局登录守卫，`@Public()` 放行 |
-| `common/guards/rate-limit.guard.ts` | 单实例固定窗口限流：登录/订单 20、挑战 60、搜索 30、其他 100 次/分钟；429 |
+| `common/guards/rate-limit.guard.ts` | 单实例固定窗口限流：登录 20、订单 POST 20·GET 60、挑战/进度 60、搜索 30、其他 100 次/分钟；429 |
 | `common/decorators/*` | `@Public()` / `@CurrentUser()` |
 | `config/database.config.ts` | TypeORM PG 工厂，`synchronize=false` |
 | `config/environment.validation.ts` | release/production 门禁：禁用 mock/stub、弱 JWT、缺凭据配置；强制独立 ADMIN_JWT_SECRET(≥32位且≠JWT_SECRET) |

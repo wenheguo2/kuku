@@ -34,6 +34,7 @@ import json
 import time
 import shutil
 import subprocess
+from datetime import datetime
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -51,6 +52,10 @@ from common import (
 
 DEFAULT_GAP = 0.5
 
+# ★ 增量续做截止：2026-07-31 00:00 之后生成的 full.mp3 视为新版成品（WPM 90-300 宽区间），
+# 跳过不重做；只处理 7/31 之前生成的（旧逻辑）或缺 full.mp3/timeline.json 的目录
+NEW_CUTOFF = datetime(2026, 7, 31)
+
 
 def merge_teaching_unit(audio_dir, gap=DEFAULT_GAP,
                         normalize=True, fade=True, force=False,
@@ -60,11 +65,20 @@ def merge_teaching_unit(audio_dir, gap=DEFAULT_GAP,
     ★ 缺段处理：allow_incomplete=True（默认开启）时，缺失段被跳过，
       仍用已有段合成；缺段明细通过返回的第4元素传出，供主流程写入日志。
 
-    ★ 覆盖生成：不检查已有 full.mp3/timeline.json，每次重新生成并覆盖。
+    ★ 增量续做：7/31 后生成的 full.mp3(+timeline) 跳过，之前的/缺失的重新生成覆盖。
     ★ WPM区间归一化：90-300区间不改，>300降速，<90加速（只修正极端值）。
     """
     full_mp3 = audio_dir / "full.mp3"
     timeline_file = audio_dir / "timeline.json"
+
+    # ★ 增量续做：跳过 7/31 后已按新逻辑生成的 full.mp3（timeline 与 full 同批生成）
+    if full_mp3.exists() and not force:
+        try:
+            mtime = datetime.fromtimestamp(full_mp3.stat().st_mtime)
+        except OSError:
+            mtime = None
+        if mtime is not None and mtime >= NEW_CUTOFF:
+            return ("skip", str(audio_dir), "full.mp3 already new (>=7/31)", None)
 
     # ★ v5: 读取 segments.json 并按 seq 排序，找不到则跳过
     seg_data = get_segments_json(audio_dir)
@@ -240,7 +254,7 @@ def main():
     banner("脚本2: 教学合并MP3 + timeline.json (v6)")
     print(f"  参数: gap={gap}s  normalize={normalize}  fade={fade}")
     print(f"  ★ WPM区间归一化: {WPM_LOW}-{WPM_HIGH}区间不改, >{WPM_HIGH}降速, <{WPM_LOW}加速")
-    print(f"  ★ 覆盖生成: 已有 full.mp3/timeline.json 会被重新生成覆盖（无断点跳过）")
+    print(f"  ★ 增量续做: 跳过 {NEW_CUTOFF.date()} 后生成的 full.mp3, 仅重新合成之前的/缺失的")
     print(f"  码率: 96kbps CBR 24kHz mono")
     print(f"  排序: 按 segments.json seq 字段（找不到则跳过）")
     print(f"  timeline: normalize后ffprobe实测（精准对齐）")
@@ -350,7 +364,7 @@ def main():
         f"参数: gap={gap}s  normalize={normalize}  fade={fade}  wpm_range={WPM_LOW}-{WPM_HIGH}\n"
         f"码率: 96kbps CBR 24kHz mono\n"
         f"语速: WPM区间归一化({WPM_LOW}-{WPM_HIGH}不改, 超出修正)\n"
-        f"生成: 覆盖模式(无断点跳过)\n"
+        f"生成: 增量模式(跳过{NEW_CUTOFF.date()}后生成, 仅处理之前/缺失)\n"
         f"timeline: normalize后ffprobe实测\n"
         f"线程: {args.workers}\n"
         f"总数: {len(units)}\n"

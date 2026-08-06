@@ -5,13 +5,15 @@
 > ⚠️ Node 24 下需删除 Taro `webpackbar` 进度条插件（见 config/index.ts webpackChain），否则 ProgressPlugin schema 报错。
 > 构建口径：`npm run build:weapp` 用于本地联调；正式提审必须使用 `npm run build:weapp:release`，该命令强制校验真实 AppID、HTTPS 域名、关闭 mock 和协议定稿状态。
 > 尺寸口径：Taro `designWidth=750`，代码样式数值按设计稿 375px 的约 2 倍书写；不要把 375 基准数值直接复制进代码。TypeScript 已启用 `noImplicitAny`。
+>
+> ★ **现状补记（2026-07-31）**：现注册 **29 路由**（新增免费专区 `common/free-zone`）；新增 services：`playbackQueue`/`freePool`/`membershipGate`/`searchIndex`/`songCatalog`；stores 增 `tabStore`；入口图标 PNG→JPEG + 列表 `lazyLoad`；教学「前10课免费」门控（lesson/player 用 `canAccessAll`+`isFreeLesson`）；**拼音学科已下线**。
 
 ---
 
 ## 全局
 | 文件 | 职责 |
 |:--|:--|
-| `app.config.ts` | 4-Tab（故事/歌曲/成长/家长，**custom:true 自定义 TabBar**）+ 24 页面注册 + `requiredBackgroundModes:['audio']` |
+| `app.config.ts` | 4-Tab（故事/歌曲/成长/家长，**custom:true 自定义 TabBar**）+ 29 页面注册（含免费专区）+ `requiredBackgroundModes:['audio']` |
 | `app.tsx` | 启动恢复登录态 + 应用主题 + 全局 ErrorBoundary(渲染异常兜底防白屏、回首页自救) |
 | `config/agreements.ts` | 三份协议版本的前端单一真源，登录留痕与阅读页共同引用 |
 | `styles/variables.scss` | 设计令牌（= md/UI设计/design-tokens **v4.0**）：日/**夜间(--night-*)/鎏金(--gold-*)/故事灯(--lamp)/衬线(--font-serif)** CSS 变量；`.theme-dark`=夜间蓝，config 全局注入 |

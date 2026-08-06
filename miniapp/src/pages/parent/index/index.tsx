@@ -63,7 +63,7 @@ export default function ParentCenter() {
   }));
 
   return (
-    <ScrollView scrollY className={`page-v4 has-tab ${night}`}>
+    <ScrollView scrollY className={`page-v4 has-tab ${night}`} style={{ height: '100vh' }}>
       <Text className="serif" style={{ fontSize: '34px', fontWeight: 800, textAlign: 'center', padding: '10px 0 16px', display: 'block', color: 'var(--color-text)' }}>家长中心</Text>
 
       {/* 孩子磨砂卡 */}
