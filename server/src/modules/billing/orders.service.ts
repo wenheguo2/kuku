@@ -29,6 +29,12 @@ export class OrdersService {
     return !this.config.get<string>('WXPAY_MCH_ID');
   }
 
+  private isEnabled(): boolean {
+    const isRelease = this.config.get<string>('NODE_ENV') === 'production'
+      || envFlag(this.config.get<string>('RELEASE_MODE'));
+    return envFlag(this.config.get<string>('WECHAT_PAY_ENABLED'), !isRelease);
+  }
+
   private allowStub(): boolean {
     const isRelease = this.config.get<string>('NODE_ENV') === 'production'
       || envFlag(this.config.get<string>('RELEASE_MODE'));
@@ -38,6 +44,7 @@ export class OrdersService {
   /** 创建订单（发起支付）。stub 模式下直接开通会员便于联调。 */
   async create(userId: string, planType: PlanType) {
     if (!(planType in PLAN_PRICE)) throw new BadRequestException('无效套餐');
+    if (!this.isEnabled()) throw new ServiceUnavailableException('微信支付通道未开放');
     if (!this.isStub()) {
       // 凭据存在不等于真实支付已接入；在统一下单/签名/回调验签实现前必须明确失败。
       throw new ServiceUnavailableException('真实微信支付通道尚未接入，请稍后再试');

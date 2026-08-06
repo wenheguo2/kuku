@@ -37,7 +37,7 @@
 ```
 开发文档/
 ├── README.md              # 本文（规范 + 索引 + 模板）
-├── 00-代码地图.md          # server/miniapp/admin 目录树 + 每目录一句话职责（随 Batch1 创建）
+├── 00-代码地图.md          # server/miniapp/app/admin 目录树 + 每目录一句话职责
 ├── 待办-外部凭据清单.md    # AppID/支付/域名 等待外部提供的凭据（提醒用）
 ├── server/                # 后端模块文档（每模块一份，随代码创建）
 │   ├── _基础设施.md        # main / config / 响应拦截器 / 异常过滤器 / 静态服务
@@ -48,6 +48,8 @@
 │   ├── services-indexLoader.md
 │   ├── components-FullTrackPlayer.md
 │   └── ...
+├── app/                   # Android/iOS App 独立工程文档
+│   └── README.md
 └── admin/                 # 后台文档（P1）
 ```
 

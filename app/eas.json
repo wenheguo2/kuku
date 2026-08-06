@@ -1,0 +1,34 @@
+{
+  "cli": {
+    "version": ">= 19.0.0",
+    "appVersionSource": "local"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "environment": "development"
+    },
+    "preview-android": {
+      "distribution": "internal",
+      "environment": "preview",
+      "android": { "buildType": "apk" }
+    },
+    "preview-ios": {
+      "distribution": "internal",
+      "environment": "preview",
+      "ios": { "simulator": false }
+    },
+    "production-android": {
+      "environment": "production",
+      "android": { "buildType": "app-bundle" }
+    },
+    "production-ios": {
+      "environment": "production"
+    }
+  },
+  "submit": {
+    "production-android": {},
+    "production-ios": {}
+  }
+}

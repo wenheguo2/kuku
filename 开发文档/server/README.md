@@ -23,7 +23,8 @@
 
 ## auth（认证）
 - **文件**：wechat.service（code→openid，mock/real 开关+超时）、auth.service（登录+协议同意留痕+★建默认档案+注销）、jwt.strategy、auth.controller（login/logout）、user.controller（profile/注销）
-- **接口**：`POST /auth/login`(@Public) · `POST /auth/logout` · `GET/PUT /user/profile`(手机号脱敏返回・profile 会员读时过期回收) · `DELETE /user` · `POST /user/consent/withdraw`(监护人撤回同意)
+- **接口**：`POST /auth/login`(微信小程序) · `POST /auth/app/login`(Android/iOS 独立设备会话) · `POST /auth/logout` · `GET/PUT /user/profile` · `DELETE /user` · `POST /user/consent/withdraw`
+- **平台开关**：`WEAPP_AUTH_ENABLED` 与 `APP_AUTH_ENABLED` 相互独立；App 身份使用 `APP_AUTH_PEPPER` HMAC 派生，不保存原始安装标识
 - **关键**：登录必须显式提交 `guardian_consent=true` 和三份协议版本；服务端核对 `.env` 期望版本后写入 `consent_records`；★ 登录必建默认 `child_profile`；开发态 `WX_LOGIN_MODE=mock` 免 AppID 联调
 - **依赖**：users, consent_records, child_profiles, memberships / JwtModule
 - **会话**：普通 logout 为无状态 JWT、前端清除即可；JwtStrategy 每次校验用户仍存在，因此账号注销后旧 token 立即失效。real 登录仍等待 WX_APPID/SECRET
@@ -68,7 +69,7 @@
 ## billing（会员+订单）
 - **文件**：pricing（月9.9/季26/年88 + 时长）、orders.service（下单/开通/续期/取消）、billing.controller（membership + orders）
 - **接口**：`GET /membership` · `POST /orders` · `GET /orders` · `GET /orders/:id` · `POST /orders/:id/cancel`
-- **★支付 stub**：仅开发/测试且 `ALLOW_PAYMENT_STUB=true` 时自动置 paid 联调；release/production 强制禁用，缺配置返回 503
+- **★支付 stub**：仅 `WECHAT_PAY_ENABLED=true` 且开发/测试显式 `ALLOW_PAYMENT_STUB=true` 时自动置 paid；正式内容先上线可关闭微信支付
 - **会员续期并发安全**：`markPaid` 用事务+行锁（锁订单行保证同单幂等 + 锁用户行串行化同一用户续期），并发多笔订单不丢时长、不重复建会员
 - **会员过期读时落库**：查询会员/门控校验时若已过期(按日期口径)，自动将 status active→expired（幂等），保证 DB status 与实际一致、admin 统计不误计
 - **TODO（上线阻塞）**：真实统一下单、支付签名、回调验签尚未实现；即使填入商户凭据也会明确返回 503，不会伪造支付参数。拿到商户号/APIv3/证书后继续开发并做沙箱/真机验证。自动续订为 Phase 2
@@ -76,7 +77,7 @@
 ---
 
 ## 测试
-- **单元测试**（`npm test`，17/17）：题型/判分、生产环境门禁(含 admin 独立密钥)、协议草案阻断、支付 fail-closed、child_id 归属、API 限流
+- **单元测试**（`npm test`，25/25）：题型/判分、生产环境门禁、App HMAC 身份、平台开关、协议草案阻断、支付 fail-closed、child_id 归属、API 限流
 - **e2e 集成测试**（`npm run test:e2e`，15/15）：真实 PG/Redis；覆盖监护人同意、成长/埋点越权、带埋点档案删除、题目不泄露答案、VIP 门控、管理登录/统计与注销后 JWT 失效
 
 ## 变更记录

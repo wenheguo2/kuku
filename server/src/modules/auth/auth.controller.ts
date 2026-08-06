@@ -6,6 +6,7 @@
 import { Body, Controller, Post } from '@nestjs/common';
 import { Public } from '../../common/decorators/public.decorator';
 import { AuthService } from './auth.service';
+import { AppLoginDto } from './dto/app-login.dto';
 import { LoginDto } from './dto/login.dto';
 
 @Controller('auth')
@@ -21,6 +22,17 @@ export class AuthController {
       privacyVersion: dto.privacy_version,
       childrenPrivacyVersion: dto.children_privacy_version,
     }, dto.inviter);
+  }
+
+  /** Android/iOS App 独立登录：不调用 wx.login，不复用小程序凭据。 */
+  @Public()
+  @Post('app/login')
+  appLogin(@Body() dto: AppLoginDto) {
+    return this.authService.loginApp(dto.installation_id, dto.platform, {
+      userAgreementVersion: dto.user_agreement_version,
+      privacyVersion: dto.privacy_version,
+      childrenPrivacyVersion: dto.children_privacy_version,
+    });
   }
 
   /** 退出登录：无状态 JWT，前端清除本地 token 即可 */

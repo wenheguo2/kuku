@@ -10,6 +10,41 @@ describe('validateEnvironment', () => {
     })).not.toThrow();
   });
 
+  it('启用 App 登录时拒绝缺失或过短的派生密钥', () => {
+    expect(() => validateEnvironment({
+      NODE_ENV: 'development',
+      APP_AUTH_ENABLED: 'true',
+      APP_AUTH_PEPPER: 'short',
+    })).toThrow(/APP_AUTH_PEPPER/);
+  });
+
+  it('未启用 App 登录时不要求 App 密钥，避免阻塞纯小程序部署', () => {
+    expect(() => validateEnvironment({
+      NODE_ENV: 'development',
+      APP_AUTH_ENABLED: 'false',
+    })).not.toThrow();
+  });
+
+  it('App-only production 不要求微信 AppID 或微信支付凭据', () => {
+    expect(() => validateEnvironment({
+      NODE_ENV: 'production',
+      WEAPP_AUTH_ENABLED: 'false',
+      APP_AUTH_ENABLED: 'true',
+      APP_AUTH_PEPPER: 'app-auth-pepper-with-at-least-32-characters',
+      WECHAT_PAY_ENABLED: 'false',
+      ALLOW_MOCK_LOGIN: 'false',
+      ALLOW_PAYMENT_STUB: 'false',
+      JWT_SECRET: 'a-production-secret-with-more-than-32-characters',
+      DB_PASSWORD: 'a-strong-production-db-password',
+      ADMIN_USERNAME: 'ops-admin',
+      ADMIN_PASSWORD_SCRYPT: `scrypt$${'ab'.repeat(16)}$${'cd'.repeat(64)}`,
+      ADMIN_JWT_SECRET: 'an-independent-admin-secret-32-chars-min',
+      USER_AGREEMENT_VERSION: '2026-08-final',
+      PRIVACY_VERSION: '2026-08-final',
+      CHILDREN_PRIVACY_VERSION: '2026-08-final',
+    })).not.toThrow();
+  });
+
   it('release 禁止 mock/stub 和弱密钥', () => {
     expect(() => validateEnvironment({
       NODE_ENV: 'production',

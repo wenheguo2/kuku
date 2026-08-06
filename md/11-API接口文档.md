@@ -255,6 +255,26 @@ Authorization: Bearer {jwt_token}
 }
 ```
 
+### 2.1A POST /api/v1/auth/app/login
+
+**用途**：Android/iOS App 独立登录。App 首次启动生成 UUID 安装凭据并存入 Keychain/Android Keystore；服务端使用 `APP_AUTH_PEPPER` 计算 HMAC 派生身份，不保存原始安装凭据，也不调用微信接口。
+
+**平台隔离**：只有 `APP_AUTH_ENABLED=true` 时开放。纯小程序部署可关闭；App-only 部署可同时设置 `WEAPP_AUTH_ENABLED=false`。
+
+**请求体**：
+```json
+{
+  "installation_id": "2f1d1565-9580-4fbc-b9c6-9d745720c192",
+  "platform": "android",
+  "guardian_consent": true,
+  "user_agreement_version": "2026-08-final",
+  "privacy_version": "2026-08-final",
+  "children_privacy_version": "2026-08-final"
+}
+```
+
+`platform` 仅允许 `android` / `ios`。响应 `data` 与 §2.1 相同。当前设备会话不支持跨设备账号找回，正式商业版应增加可验证账号绑定与合并能力。
+
 ### 2.2 GET /api/v1/user/profile
 
 **用途**: 获取当前用户信息（需登录）

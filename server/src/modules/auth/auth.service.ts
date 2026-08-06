@@ -6,8 +6,9 @@
  *      MVP 单孩子也必须有一个默认 child_profile，否则成长数据无法落库。）
  *  2) deleteAccount：账号注销，级联删除名下全部数据（合规，md/11 §2.5）。
  */
-import { BadRequestException, Injectable } from '@nestjs/common';
+import { BadRequestException, Injectable, ServiceUnavailableException } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
+import { createHmac } from 'crypto';
 import { JwtService } from '@nestjs/jwt';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository, DataSource, IsNull } from 'typeorm';
@@ -50,8 +51,41 @@ export class AuthService {
     private readonly config: ConfigService,
   ) {}
 
-  /** 微信登录：换 openid → upsert user → 保证默认档案 → 签 JWT */
+  /** 微信小程序登录：微信身份只在小程序通道内使用。 */
   async login(code: string | undefined, versions: AgreementVersions, inviter?: string): Promise<LoginResult> {
+    const enabled = String(this.config.get<string>('WEAPP_AUTH_ENABLED', 'true')).toLowerCase() === 'true';
+    if (!enabled) throw new ServiceUnavailableException('微信小程序登录通道未启用');
+    const { openid, unionId } = await this.wechat.code2session(code);
+    return this.finishLogin(openid, unionId ?? null, versions, inviter);
+  }
+
+  /**
+   * Android/iOS App 登录。
+   * 原始 installationId 是高熵设备凭据，仅经 HTTPS 传输并保存在系统 Keychain/Keystore；
+   * 数据库沿用现有 openid 唯一列保存带 app_ 前缀的 HMAC 派生值，避免引入跨端账号耦合。
+   */
+  async loginApp(
+    installationId: string,
+    platform: 'android' | 'ios',
+    versions: AgreementVersions,
+  ): Promise<LoginResult> {
+    const enabled = String(this.config.get<string>('APP_AUTH_ENABLED', 'false')).toLowerCase() === 'true';
+    if (!enabled) throw new ServiceUnavailableException('App 登录通道未启用');
+    const pepper = this.config.get<string>('APP_AUTH_PEPPER', '');
+    if (pepper.length < 32) throw new ServiceUnavailableException('App 登录通道配置不完整');
+    const identity = `app_${createHmac('sha256', pepper)
+      .update(`${platform}:${installationId}`)
+      .digest('base64url')}`;
+    return this.finishLogin(identity, null, versions);
+  }
+
+  /** 完成协议校验、用户初始化、默认孩子档案与 JWT 签发。 */
+  private async finishLogin(
+    openid: string,
+    unionId: string | null,
+    versions: AgreementVersions,
+    inviter?: string,
+  ): Promise<LoginResult> {
     const expected: AgreementVersions = {
       userAgreementVersion: this.config.get<string>('USER_AGREEMENT_VERSION', '2026-07-draft'),
       privacyVersion: this.config.get<string>('PRIVACY_VERSION', '2026-07-draft'),
@@ -64,14 +98,12 @@ export class AuthService {
     ) {
       throw new BadRequestException('协议版本已更新，请重新阅读并同意');
     }
-    const { openid, unionId } = await this.wechat.code2session(code);
-
     let user = await this.users.findOne({ where: { openid } });
     const isNew = !user;
     if (!user) {
       // ★新用户注册送 NEW_USER_FREE_DAYS 天免费期（动态 free_until）
       const freeUntil = new Date(Date.now() + NEW_USER_FREE_DAYS * DAY_MS);
-      user = this.users.create({ openid, unionId: unionId ?? null, nickname: '宝宝家长', freeUntil });
+      user = this.users.create({ openid, unionId, nickname: '宝宝家长', freeUntil });
       user = await this.users.save(user);
       // ★拉新绑定 + 奖励（仅新用户首次注册；邀请人≠本人；奖励设上限防刷）
       await this.bindInviterAndReward(user, inviter);

@@ -22,22 +22,28 @@ export function validateEnvironment(raw: Record<string, unknown>): Record<string
   const nodeEnv = String(raw.NODE_ENV ?? 'development');
   const isProduction = nodeEnv === 'production';
   const isRelease = isProduction || enabled(raw.RELEASE_MODE);
+  const weappAuthEnabled = enabled(raw.WEAPP_AUTH_ENABLED, true);
   const loginMode = String(raw.WX_LOGIN_MODE ?? (isRelease ? 'real' : 'mock'));
   const allowMockLogin = enabled(raw.ALLOW_MOCK_LOGIN, !isRelease);
   const allowPaymentStub = enabled(raw.ALLOW_PAYMENT_STUB, !isRelease);
+  const wechatPayEnabled = enabled(raw.WECHAT_PAY_ENABLED, !isRelease);
+  const appAuthEnabled = enabled(raw.APP_AUTH_ENABLED);
   const jwtSecret = String(raw.JWT_SECRET ?? '');
   const errors: string[] = [];
 
-  if (loginMode === 'mock' && !allowMockLogin) errors.push('mock 登录未获 ALLOW_MOCK_LOGIN=true 授权');
-  if (loginMode === 'real' && (!raw.WX_APPID || !raw.WX_SECRET)) errors.push('real 登录缺少 WX_APPID/WX_SECRET');
+  if (weappAuthEnabled && loginMode === 'mock' && !allowMockLogin) errors.push('mock 登录未获 ALLOW_MOCK_LOGIN=true 授权');
+  if (weappAuthEnabled && loginMode === 'real' && (!raw.WX_APPID || !raw.WX_SECRET)) errors.push('real 登录缺少 WX_APPID/WX_SECRET');
+  if (appAuthEnabled && String(raw.APP_AUTH_PEPPER ?? '').length < 32) {
+    errors.push('启用 App 登录时 APP_AUTH_PEPPER 必须至少 32 位');
+  }
 
   if (isRelease) {
     if (DEV_SECRETS.has(jwtSecret) || jwtSecret.length < 32) errors.push('JWT_SECRET 必须是至少 32 位的生产随机密钥');
     if (!raw.DB_PASSWORD || String(raw.DB_PASSWORD) === 'kuku2026') errors.push('DB_PASSWORD 必须为生产随机密码，不能为空或默认值 kuku2026');
-    if (loginMode !== 'real') errors.push('release/production 必须使用 WX_LOGIN_MODE=real');
-    if (allowMockLogin) errors.push('release/production 禁止 ALLOW_MOCK_LOGIN');
-    if (allowPaymentStub) errors.push('release/production 禁止 ALLOW_PAYMENT_STUB');
-    if (!raw.WXPAY_MCH_ID || !raw.WXPAY_API_V3_KEY) errors.push('release/production 缺少微信支付商户号或 APIv3 密钥');
+    if (weappAuthEnabled && loginMode !== 'real') errors.push('启用小程序认证时 release/production 必须使用 WX_LOGIN_MODE=real');
+    if (weappAuthEnabled && allowMockLogin) errors.push('启用小程序认证时 release/production 禁止 ALLOW_MOCK_LOGIN');
+    if (wechatPayEnabled && allowPaymentStub) errors.push('启用微信支付时 release/production 禁止 ALLOW_PAYMENT_STUB');
+    if (wechatPayEnabled && (!raw.WXPAY_MCH_ID || !raw.WXPAY_API_V3_KEY)) errors.push('启用微信支付时缺少商户号或 APIv3 密钥');
     if (!raw.ADMIN_USERNAME || !validAdminScrypt(raw.ADMIN_PASSWORD_SCRYPT)) {
       errors.push('release/production 必须配置 ADMIN_USERNAME 与 ADMIN_PASSWORD_SCRYPT');
     }
